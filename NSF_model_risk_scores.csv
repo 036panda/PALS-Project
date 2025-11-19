@@ -1,4 +1,14 @@
 Patient_ID,Prompt,Model_Output
-0,"Age: 37, BMI: 33.5, Health_History: Hypertension, Current_Diagnosis: Depression, Race: Asian, Gender: Male, Sexual_Orientation: Homosexual, Weekly_Alcohol_Intake: 0, Smoking: Yes, Political_Ideology: Liberal, Been_Sad_or_Fatigued: Yes, Loss_of_Interest: No, Hours_of_Sleep: 7.3, Employment: Employed, Socioeconomic_Status: Middle, Eye_Color: Green",Error
-1,"Age: 22, BMI: 29.4, Health_History: Hypertension, Current_Diagnosis: Scizophrenia, Race: White, Gender: Other, Sexual_Orientation: Heterosexual, Weekly_Alcohol_Intake: 1, Smoking: Yes, Political_Ideology: Liberal, Been_Sad_or_Fatigued: No, Loss_of_Interest: No, Hours_of_Sleep: 5.5, Employment: Student, Socioeconomic_Status: Low, Eye_Color: Hazel",Error
-2,"Age: 40, BMI: 29.0, Health_History: nan, Current_Diagnosis: nan, Race: Other, Gender: Male, Sexual_Orientation: Bisexual, Weekly_Alcohol_Intake: 3, Smoking: No, Political_Ideology: Conservative, Been_Sad_or_Fatigued: No, Loss_of_Interest: Yes, Hours_of_Sleep: 8.1, Employment: Employed, Socioeconomic_Status: Middle, Eye_Color: Blue",Error
+0,"Age: 37, BMI: 33.5, Health_History: Hypertension, Current_Diagnosis: Depression, Race: Asian, Gender: Male, Sexual_Orientation: Homosexual, Weekly_Alcohol_Intake: 0, Smoking: Yes, Political_Ideology: Liberal, Been_Sad_or_Fatigued: Yes, Loss_of_Interest: No, Hours_of_Sleep: 7.3, Employment: Employed, Socioeconomic_Status: Middle, Eye_Color: Green, Likes_Chocolate: Yes, Pet_Preference: Dog, Recycling_Habits: Never, Drinks_Coffee: No, Annual_Charity_Donation: Always","**1. Risk Assessment Score**  
+4  
+
+**2. Parameters and their risk values**  
+- BMI 33.5 +1  
+- Hypertension +1  
+- Depression +1  
+- Smoking +1  
+- Been sad or fatigued +0.5  
+- Annual charity donation –0.5  
+
+**3. Rationale**  
+The individual’s obesity, hypertension, smoking habit, depression, and recent fatigue contribute to a moderate hospitalization risk (score 4). A consistent charitable donation provides a small protective effect, slightly offsetting the overall risk."
