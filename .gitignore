@@ -1,1 +1,23 @@
+# Environment variables
 .env
+*.env
+
+# API keys / secrets
+**/secrets.*
+**/*key*.txt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Simulation outputs (generated)
+full_sim_run_*/
+full_sim_test/
+
+# OS files
+.DS_Store
+Thumbs.db
+parsed_output_fill_in_nones.csv
