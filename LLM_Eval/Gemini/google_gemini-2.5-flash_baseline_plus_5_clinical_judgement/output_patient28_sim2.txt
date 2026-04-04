@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (25):** -1 (Younger age generally associated with lower risk of hospitalization for many conditions, especially chronic ones. However, for mental health, young adulthood can be a period of vulnerability.)
+*   **BMI (28.5):** +0.5 (Overweight, but not obese. Modest increase in general health risks, but not a primary driver for immediate hospitalization in this context.)
+*   **Family_Health_History (Hypertension):** +0.5 (Indicates a genetic predisposition to a common chronic condition, which could indirectly increase future health risks, but not an immediate hospitalization driver.)
+*   **Current_Diagnosis (Bipolar):** +4 (This is a significant risk factor for hospitalization, particularly for mood stabilization or acute episodes. Even if currently stable, the diagnosis itself carries inherent risk.)
+*   **Race (Native American):** +1 (Systemic health disparities and limited access to care often lead to poorer health outcomes and higher hospitalization rates in this population.)
+*   **Gender (Non-binary):** +0.5 (While not a direct medical risk, individuals identifying as non-binary may face unique stressors, discrimination, and barriers to healthcare access that can indirectly impact health and increase hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (7):** 0 (Within recommended limits, no direct impact on hospitalization risk.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health factor, reducing risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Absence of depressive symptoms is a strong protective factor, especially given the bipolar diagnosis.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms is a positive indicator of current mental stability.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of anhedonia is a positive indicator of current mental stability.)
+*   **Hours_of_Sleep (7.8):** -0.5 (Adequate sleep is a protective factor for overall health and mental well-being.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better socioeconomic stability and access to resources, which can be protective.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to healthcare and resources compared to lower statuses, reducing risk.)
+*   **Drinks_Coffee (No):** 0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to overall health.)
+*   **Favourite_Sport (Basketball):** 0 (No direct impact on hospitalization risk.)
+*   **Votes (Never):** 0 (No direct impact on hospitalization risk.)
+*   **Height_in_Inches (70):** 0 (No direct impact on hospitalization risk.)
+
+3. Clinical-style rationale: This young adult presents with a significant inherent risk due to their bipolar diagnosis and racial health disparities, partially mitigated by current mental stability, healthy lifestyle choices, and adequate social support, resulting in a moderate overall hospitalization risk.

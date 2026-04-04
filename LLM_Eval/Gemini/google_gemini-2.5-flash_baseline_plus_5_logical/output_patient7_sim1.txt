@@ -1,0 +1,24 @@
+1. 7
+
+2. *   **Current_Diagnosis: Schizophrenia:** +3 (Significant chronic mental illness with high comorbidity and hospitalization rates)
+*   **Smoking: Yes:** +2 (Major risk factor for numerous health conditions requiring hospitalization)
+*   **HAM-D: 18–24: Moderate Depression:** +1.5 (Moderate mental health concern, can exacerbate other conditions or lead to self-harm in some cases)
+*   **Family_Health_History: Asthma:** +0.5 (Genetic predisposition to a chronic respiratory condition that can require hospitalization)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (Symptom of depression, indicating current mental distress)
+*   **Loss_of_Interest: Yes:** +0.5 (Symptom of depression, indicating current mental distress)
+*   **Age: 18:** +0 (Young adult, generally lower risk than elderly, but not protective)
+*   **BMI: 24.5:** +0 (Healthy weight, no direct contribution to increased risk)
+*   **Race: Native American:** +0 (While systemic health disparities exist, this model focuses on direct causal factors for this individual, not population-level statistics without specific causal links)
+*   **Gender: Male:** +0 (No direct causal link to increased hospitalization risk in this context)
+*   **Sexual_Orientation: Heterosexual:** +0 (No direct causal link to increased hospitalization risk)
+*   **Weekly_Alcohol_Intake: 0:** -0.5 (Absence of alcohol-related risks)
+*   **Hours_of_Sleep: 8.3:** -0.5 (Adequate sleep, generally protective for health)
+*   **Employment: Student:** +0 (No direct causal link to increased hospitalization risk)
+*   **Socioeconomic_Status: Middle:** +0 (No direct causal link to increased hospitalization risk)
+*   **Drinks_Coffee: No:** +0 (No direct causal link to increased hospitalization risk)
+*   **Likes_Vegetables: Yes:** -0.5 (Positive health behavior, generally protective)
+*   **Favourite_Sport: Hockey:** +0 (No direct causal link to increased hospitalization risk)
+*   **Votes: Sometimes:** +0 (No direct causal link to increased hospitalization risk)
+*   **Height_in_Inches: 68:** +0 (No direct causal link to increased hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to increased hospitalization risk, such as chronic mental illness (Schizophrenia, Depression) and detrimental health behaviors (Smoking), while mitigating factors like adequate sleep and healthy diet reduce the score.

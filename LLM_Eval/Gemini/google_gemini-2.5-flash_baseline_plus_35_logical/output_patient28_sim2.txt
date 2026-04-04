@@ -1,0 +1,26 @@
+7
+
+**Input Factors and Contributions:**
+
+*   **Age (25):** +0.5 (Younger age generally lower risk, but not zero)
+*   **BMI (28.5):** +1.0 (Overweight, increasing risk)
+*   **Family_Health_History (Hypertension):** +1.5 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition with potential for hospitalization)
+*   **Race (Native American):** +1.0 (Acknowledged health disparities and systemic factors)
+*   **Gender (Non-binary):** +0.5 (Potential for increased stress and healthcare access challenges due to societal factors)
+*   **Weekly_Alcohol_Intake (7):** +0.5 (Moderate intake, but still a factor)
+*   **Smoking (No):** -0.5 (Positive health behavior)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Good mental health indicator)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Positive mental health indicator)
+*   **Loss_of_Interest (No):** -0.5 (Positive mental health indicator)
+*   **Hours_of_Sleep (7.8):** -0.5 (Adequate sleep)
+*   **Employment (Employed):** -0.5 (Associated with better health outcomes and access to care)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit)
+*   **Water_Intake_oz (44.4):** +0.5 (Slightly below recommended, minor dehydration risk)
+*   **Allergy (Gluten):** +0.5 (Requires dietary management, potential for complications if not managed)
+*   **Skips_Breakfast (Yes):** +0.5 (Less healthy eating habit)
+
+**Justification:**
+
+The risk score is calculated by summing the contributions of factors directly related to physical and mental health, lifestyle choices, and known health disparities. Positive contributions reflect increased risk due to existing conditions, unhealthy behaviors, or demographic factors associated with poorer health outcomes, while negative contributions reflect protective factors or healthy behaviors.

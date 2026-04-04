@@ -1,0 +1,20 @@
+1. 6.5
+
+2. *   **Age (26):** +0.1 (Slightly elevated risk due to being an adult, but not elderly)
+*   **BMI (29.1):** +0.5 (Overweight, contributing to moderate health risks)
+*   **Family_Health_History (Diabetes):** +1.0 (Significant genetic predisposition to a chronic condition)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Major mental health condition with known hospitalization risk)
+*   **Weekly_Alcohol_Intake (3):** +0.2 (Low to moderate, but still a factor)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Indicates potential underlying mental or physical health issues)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to above, points to potential health concerns)
+*   **Hours_of_Sleep (6.2):** +0.3 (Slightly below optimal, contributing to general health decline)
+*   **Socioeconomic_Status (Low):** +1.0 (Known correlation with poorer health outcomes and access to care)
+*   **Smoking (No):** -0.5 (Positive health behavior)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Positive mental health indicator)
+*   **Likes_Vegetables (Yes):** -0.2 (Positive dietary habit)
+*   **Employment (Employed):** -0.3 (Positive socioeconomic and mental health indicator)
+*   **Water_Intake_oz (45.5):** +0.2 (Slightly below recommended, minor dehydration risk)
+*   **Picks_Up_Litter (Never):** +0.1 (Indicates a lack of community engagement, potentially linked to broader well-being)
+*   **Can_Ride_Bicycle (No):** +0.1 (Suggests lower physical activity or mobility issues)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as chronic conditions, mental health status, lifestyle choices, and socioeconomic determinants, while subtracting contributions from protective factors. Each factor's contribution is weighted based on its established impact on health outcomes and the likelihood of requiring hospitalization.

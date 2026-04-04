@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed Breakdown:
+
+*   **Age (20):** -0.5 (Younger age generally associated with lower risk of hospitalization for many conditions, though mental health crises can occur at any age.)
+*   **BMI (21.0):** -0.2 (Healthy BMI, indicating no obesity-related complications.)
+*   **Family_Health_History (Cancer):** +0.1 (While not directly related to current diagnosis, a family history of chronic illness can sometimes indicate a predisposition to health issues, albeit minor in this context.)
+*   **Current_Diagnosis (Bipolar):** +4.0 (This is a significant risk factor for hospitalization, particularly during acute manic or depressive episodes, or if medication non-adherence occurs.)
+*   **Race (Black):** +0.5 (Systemic health disparities and access to care issues can sometimes lead to higher hospitalization rates in certain racial groups, though this is a complex factor.)
+*   **Gender (Male):** +0.2 (Males with bipolar disorder may present differently and sometimes have higher rates of substance abuse, which can increase hospitalization risk, though this is not present here.)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol use is a protective factor, reducing risk of complications or exacerbation of mental health symptoms.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a protective factor for overall health.)
+*   **HAM-D (7–17: Mild Depression):** +1.5 (While "mild," depression in the context of bipolar disorder can escalate and contribute to functional impairment or suicidal ideation, increasing hospitalization risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms suggests better current mood stability.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of anhedonia is a positive indicator.)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep is a known trigger for mood episodes in bipolar disorder, significantly increasing risk.)
+*   **Employment (Student):** +0.2 (While not inherently a risk, the pressures of academic life can exacerbate mental health conditions.)
+*   **Socioeconomic_Status (Low):** +1.0 (Lower socioeconomic status is associated with reduced access to quality healthcare, medication adherence issues, and increased stress, all contributing to higher hospitalization risk.)
+*   **Drinks_Coffee (Yes):** +0.1 (Caffeine can sometimes exacerbate anxiety or sleep issues in individuals with bipolar disorder, though impact is usually minor.)
+*   **Skips_Breakfast (Yes):** +0.1 (Irregular eating habits can sometimes impact mood stability and overall health.)
+
+3. Clinical Rationale: The primary drivers of this patient's elevated hospitalization risk are their bipolar diagnosis, insufficient sleep, and low socioeconomic status, which collectively increase vulnerability to mood destabilization and barriers to consistent care, despite some protective factors.

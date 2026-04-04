@@ -1,0 +1,16 @@
+1. 7
+
+2. *   Age (19): +0.5 (Young adults, especially those with mental health conditions, may have unique challenges in managing their health, potentially increasing hospitalization risk.)
+*   BMI (17.6): +0.5 (Underweight BMI can indicate nutritional deficiencies or underlying health issues, increasing vulnerability.)
+*   Family_Health_History (Diabetes): +0.5 (Genetic predisposition to chronic conditions can increase overall health risk, even if not directly related to current diagnosis.)
+*   Current_Diagnosis (Schizophrenia): +3.0 (Severe mental health conditions like schizophrenia are a primary driver of hospitalization due to acute episodes, medication management, and potential for self-harm or harm to others.)
+*   HAM-D (25+: Severe Depression): +2.0 (Severe depression significantly increases the risk of hospitalization due to suicidal ideation, self-neglect, and the need for intensive psychiatric care.)
+*   Loss_of_Interest (Yes): +0.5 (A symptom of depression, indicating a worsening mental state that could lead to hospitalization.)
+*   Weekly_Alcohol_Intake (3): +0.0 (Moderate alcohol intake, not a significant contributor to hospitalization risk in this context.)
+*   Smoking (No): -0.5 (Absence of smoking reduces risk of respiratory and cardiovascular complications.)
+*   Hours_of_Sleep (8.0): -0.5 (Adequate sleep is protective for both physical and mental health.)
+*   Employment (Student): +0.5 (While not inherently negative, the stress of academic life combined with severe mental health conditions can exacerbate symptoms and increase risk.)
+*   Socioeconomic_Status (High): -0.5 (Higher socioeconomic status often correlates with better access to healthcare and resources, reducing hospitalization risk.)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits can negatively impact overall health and resilience, especially in individuals with mental health conditions.)
+
+3. The risk score is calculated by summing the contributions of factors that directly or indirectly increase the likelihood of hospitalization, particularly emphasizing severe mental health conditions and their associated symptoms, while mitigating factors like good sleep and high socioeconomic status reduce the score.

@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed Breakdown of Attributes:
+
+*   **Age (18):** +1 (Young adult, a period of increased vulnerability for mental health crises, especially with a pre-existing diagnosis.)
+*   **BMI (30.9):** +1 (Obesity is a risk factor for various health complications, both physical and mental, which can necessitate hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder carries a significant inherent risk of hospitalization due to manic or depressive episodes, requiring stabilization.)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, "Loss of Interest" can be a symptom of emerging or subthreshold mood disturbance, particularly relevant in bipolar disorder.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to resources and support, slightly mitigating risk.)
+*   **Employment (Student):** +0.5 (While not inherently negative, the pressures of academic life can exacerbate mental health conditions.)
+*   **Exercises (No):** +1 (Lack of exercise is a known negative health behavior, impacting both physical and mental well-being, and can contribute to poorer outcomes in bipolar disorder.)
+*   **Skips_Breakfast (Yes):** +0.5 (Irregular eating habits can negatively impact mood stability and overall health, particularly for individuals with bipolar disorder.)
+*   **Annual_Charity_Donation (Always):** -0.5 (Suggests a degree of prosocial behavior and engagement, which can be a protective factor.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with a diagnosis of bipolar disorder faces a moderate to high risk of hospitalization. While their HAM-D score is normal and they report no sadness or fatigue, the presence of "loss of interest" alongside a significant mental health diagnosis, obesity, and lack of exercise are key contributing factors to this elevated risk.

@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (20):** +1 (Young adults, especially those with mental health diagnoses, may have a higher risk of acute psychiatric crises requiring hospitalization compared to older, more stable populations.)
+*   **BMI (24.6):** 0 (Within healthy range, no direct impact on hospitalization risk for current diagnosis.)
+*   **Family_Health_History (Cancer):** 0 (Not directly relevant to current hospitalization risk for schizophrenia.)
+*   **Current_Diagnosis (Schizophrenia):** +5 (This is a primary driver of hospitalization risk. Schizophrenia often involves periods of acute psychosis, symptom exacerbation, or safety concerns that necessitate inpatient care.)
+*   **Race (Black):** +1 (Systemic inequities in healthcare access and quality can lead to delayed or inadequate outpatient care, potentially increasing the likelihood of hospitalization for Black individuals with mental health conditions.)
+*   **Gender (Other):** +1 (Individuals identifying as "Other" may face unique social stressors, discrimination, and barriers to accessing gender-affirming mental healthcare, which can exacerbate mental health conditions and increase hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (6):** 0 (Moderate intake, not a significant risk factor for hospitalization in this context.)
+*   **Smoking (No):** 0 (Positive health behavior, no direct impact on hospitalization risk.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Absence of depressive symptoms is a protective factor, indicating better overall mental state.)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of these symptoms is a protective factor.)
+*   **Loss_of_Interest (Yes):** +1 (Anhedonia can be a symptom of schizophrenia or indicate worsening mental state, increasing risk.)
+*   **Hours_of_Sleep (7.6):** 0 (Adequate sleep, no direct impact on hospitalization risk.)
+*   **Employment (Student):** 0 (While being a student can be stressful, it doesn't inherently increase or decrease hospitalization risk in this context.)
+*   **Socioeconomic_Status (Low):** +1 (Lower socioeconomic status is associated with reduced access to consistent outpatient care, medication adherence challenges, and increased life stressors, all of which can elevate hospitalization risk for individuals with chronic mental illness.)
+*   **Drinks_Coffee (Yes):** 0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (No):** 0 (No direct impact on hospitalization risk.)
+*   **Favourite_Sport (Gymnastics):** 0 (No direct impact on hospitalization risk.)
+*   **Votes (Sometimes):** 0 (No direct impact on hospitalization risk.)
+*   **Height_in_Inches (58):** 0 (No direct impact on hospitalization risk.)
+
+3. This young adult with schizophrenia, despite a lack of depressive symptoms and adequate sleep, faces a significant hospitalization risk due to their primary diagnosis, reported anhedonia, and compounding socioeconomic and systemic factors that often impede consistent outpatient care and support.

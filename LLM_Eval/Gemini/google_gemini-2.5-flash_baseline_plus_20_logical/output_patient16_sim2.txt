@@ -1,0 +1,19 @@
+1. 3.5
+
+2. *   Age (45): +0.5 (Increased risk with age, but 45 is moderate)
+*   BMI (25.2): +0.0 (Healthy weight range)
+*   Family_Health_History (Hypertension): +1.0 (Genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical health or lead to hospitalization)
+*   Smoking (Yes): +1.5 (Significant risk factor for numerous health problems)
+*   HAM-D (7–17: Mild Depression): +0.5 (Mild depression can impact overall health and adherence to care)
+*   Weekly_Alcohol_Intake (1): +0.0 (Low, unlikely to be a significant factor)
+*   Employment (Employed): -0.5 (Associated with better access to care and resources)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral, neither high nor low risk)
+*   Hours_of_Sleep (7.9): -0.5 (Adequate sleep is protective)
+*   Likes_Vegetables (Yes): -0.5 (Indicates healthier dietary habits)
+*   Picks_Up_Litter (Always): -0.5 (Suggests a proactive and responsible individual, potentially extending to self-care)
+*   Donated_Blood (Yes): -0.5 (Implies good general health and willingness to engage in health-related activities)
+*   Water_Intake_oz (46.1): +0.0 (Adequate, but not exceptionally high or low)
+*   Race, Gender, Sexual_Orientation, Been_Sad_or_Fatigued, Loss_of_Interest, Drinks_Coffee, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Uses_Public_Transportation, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels: +0.0 (No direct causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the contributions of factors known to directly influence health outcomes and hospitalization likelihood, such as chronic conditions, lifestyle choices, and mental health. Protective factors, like healthy habits and adequate sleep, reduce the score, while risk factors, such as smoking and family history of disease, increase it.

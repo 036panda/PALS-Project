@@ -1,0 +1,24 @@
+7.5
+
+*   **BMI (46.7):** +3.0 (Severely obese, significantly increases risk of numerous health complications requiring hospitalization)
+*   **Smoking (Yes):** +2.0 (Known major risk factor for respiratory, cardiovascular, and other diseases often leading to hospitalization)
+*   **Current_Diagnosis (Anxiety):** +1.0 (While not directly a physical hospitalization cause, severe anxiety can exacerbate physical conditions or lead to mental health crises requiring hospitalization)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Indicates potential underlying health issues or mental health strain that could escalate)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, suggests potential underlying issues or mental health decline)
+*   **Age (19):** -0.5 (Younger age generally correlates with lower hospitalization risk compared to older populations)
+*   **Hours_of_Sleep (9.1):** -0.5 (Adequate sleep is generally protective against illness and stress, reducing hospitalization risk)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol-related risks)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of clinical depression, which can be a significant hospitalization risk factor)
+*   **Likes_Vegetables (No):** +1.0 (Poor dietary habits, specifically lack of vegetables, contribute to poorer overall health and increased risk of chronic diseases)
+*   **Gender (Female):** +0.5 (Certain conditions, like some autoimmune diseases or reproductive health issues, are more prevalent in females, potentially increasing hospitalization risk)
+*   **Employment (Student):** +0.5 (Stress associated with academic pressure and potential for less stable health routines)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither significantly increasing nor decreasing risk compared to extremes)
+*   **Race (Asian):** +0.0 (Neutral, no direct causal link to hospitalization risk without further context)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Drinks_Coffee (Yes):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Favourite_Sport (Basketball):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Votes (Sometimes):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Height_in_Inches (62):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Family_Health_History (nan):** +0.0 (Cannot contribute due to missing data)
+
+The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, with positive values for risk-increasing factors (e.g., high BMI, smoking) and negative values for protective factors (e.g., adequate sleep, no depression). Factors with no direct or established causal link to hospitalization risk are assigned a neutral contribution.

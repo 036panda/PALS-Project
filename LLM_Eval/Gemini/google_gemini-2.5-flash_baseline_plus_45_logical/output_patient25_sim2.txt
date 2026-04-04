@@ -1,0 +1,12 @@
+1. 6.5
+
+2. *   Age (63): +1.5 (Increased risk with age, particularly over 60)
+*   BMI (33.3): +1.5 (Obesity, BMI > 30, is a significant risk factor)
+*   Family_Health_History (Heart Disease): +1.0 (Genetic predisposition to chronic illness)
+*   Current_Diagnosis (Bipolar): +1.0 (Mental health conditions can complicate physical health and increase hospitalization risk)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   Exercises (No): +1.0 (Lack of physical activity increases risk of various health issues)
+*   Skips_Breakfast (Yes): +0.5 (Poor dietary habits can negatively impact health)
+*   Orders_Takeout (Daily): +0.5 (Frequent consumption of takeout often indicates a less healthy diet)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors (age, obesity, family history of heart disease, bipolar disorder, lack of exercise, and poor dietary habits) and subtracting the negative contribution from the absence of smoking, reflecting a direct causal link between these factors and hospitalization risk.

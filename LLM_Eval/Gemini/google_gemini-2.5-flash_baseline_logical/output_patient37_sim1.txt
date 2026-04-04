@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   Age: 53 (+0.5) - Increased age is a known risk factor for hospitalization.
+*   BMI: 25.3 (0.0) - Within healthy range, no direct contribution.
+*   Family_Health_History: Asthma (+0.5) - Genetic predisposition to respiratory issues can increase hospitalization risk.
+*   Current_Diagnosis: Depression (+1.0) - Mental health conditions, especially depression, are associated with higher hospitalization rates due to various factors including comorbidity and self-neglect.
+*   Race: Black (+0.5) - Systemic health disparities often lead to higher hospitalization rates for certain racial groups.
+*   Gender: Male (0.0) - No direct contribution based on gender alone without other interacting factors.
+*   Sexual_Orientation: Heterosexual (0.0) - No direct contribution.
+*   Weekly_Alcohol_Intake: 4 (0.0) - Moderate intake, not a significant risk factor at this level.
+*   Smoking: No (0.0) - Absence of a major risk factor.
+*   HAM-D: 18–24: Moderate Depression (+1.0) - Confirms and quantifies the severity of depression, reinforcing its contribution.
+*   Been_Sad_or_Fatigued: No (0.0) - Absence of these specific symptoms, which might otherwise indicate worsening depression.
+*   Loss_of_Interest: No (0.0) - Absence of this specific symptom.
+*   Hours_of_Sleep: 5.7 (+0.5) - Insufficient sleep is a stressor and can negatively impact overall health, increasing vulnerability.
+*   Employment: Employed (0.0) - Generally a protective factor, but not directly reducing risk in this model.
+*   Socioeconomic_Status: Middle (0.0) - Generally a neutral factor compared to low or high SES.
+
+3. The risk score is calculated by summing the positive contributions of identified individual risk factors, such as age, family history of asthma, current diagnosis of moderate depression, race, and insufficient sleep, which are causally linked to increased hospitalization likelihood. Factors not directly increasing risk or within healthy ranges contribute zero.

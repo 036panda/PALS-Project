@@ -1,0 +1,20 @@
+1. 2.0
+
+2. *   Age (52): +1.0 (Increased age is a general risk factor for hospitalization.)
+*   BMI (23.2): +0.0 (Normal BMI, no contribution.)
+*   Family_Health_History (Asthma): +0.5 (Family history of respiratory conditions can indicate a predisposition to related health issues, potentially increasing hospitalization risk.)
+*   Current_Diagnosis (Anxiety): +0.5 (Mental health conditions can sometimes be comorbid with physical health issues or lead to behaviors that increase hospitalization risk.)
+*   Weekly_Alcohol_Intake (5): +0.0 (Moderate intake, no contribution.)
+*   Smoking (No): -0.5 (Absence of smoking reduces hospitalization risk.)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Absence of depression reduces hospitalization risk.)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of persistent sadness or fatigue reduces hospitalization risk.)
+*   Loss_of_Interest (No): -0.5 (Absence of anhedonia reduces hospitalization risk.)
+*   Hours_of_Sleep (7.4): +0.0 (Adequate sleep, no contribution.)
+*   Employment (Employed): -0.5 (Employment often correlates with better access to healthcare and overall well-being, reducing risk.)
+*   Socioeconomic_Status (Middle): +0.0 (Middle socioeconomic status, no contribution.)
+*   Likes_Vegetables (Yes): -0.5 (Healthy dietary habits reduce hospitalization risk.)
+*   Exercises (Yes): -0.5 (Regular exercise reduces hospitalization risk.)
+*   Allergy (Shellfish): +0.5 (Presence of a known allergy, even if managed, introduces a potential risk for adverse reactions requiring medical attention.)
+*   Skips_Breakfast (Yes): +0.5 (Skipping meals can be associated with less healthy lifestyle patterns, potentially increasing risk.)
+
+3. The risk score is calculated by summing the individual contributions of various health and lifestyle factors. Positive contributions are assigned to factors that logically and causally increase the likelihood of hospitalization, such as age, family history of illness, existing medical conditions, and certain unhealthy habits or predispositions. Negative contributions are assigned to factors that logically and causally decrease this likelihood, such as the absence of smoking, good mental health, healthy lifestyle choices, and stable socioeconomic status.

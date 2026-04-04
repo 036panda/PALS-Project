@@ -1,0 +1,19 @@
+7
+
+*   **Age (20):** +0 (While age can be a factor, 20 is not typically associated with increased hospitalization risk in isolation for general health.)
+*   **BMI (24.6):** +0 (Within healthy range, no direct contribution to increased risk.)
+*   **Family_Health_History (Cancer):** +0 (While a family history of cancer is a risk factor for cancer development, it does not directly increase immediate hospitalization risk for other conditions in this context.)
+*   **Current_Diagnosis (Schizophrenia):** +5 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns. This is a primary driver of risk.)
+*   **Race (Black):** +1 (Systemic health disparities and socioeconomic factors often lead to higher hospitalization rates for Black individuals, even when controlling for other variables.)
+*   **Gender (Other):** +0 (No direct causal link to increased hospitalization risk in this context.)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct causal link to increased hospitalization risk.)
+*   **Weekly_Alcohol_Intake (6):** +0 (Moderate intake, not typically associated with increased hospitalization risk.)
+*   **Smoking (No):** -0 (Absence of a risk factor, no positive contribution.)
+*   **HAM-D (0–6: Normal / No Depression):** -0 (Absence of depression, no positive contribution.)
+*   **Been_Sad_or_Fatigued (No):** -0 (Absence of a symptom, no positive contribution.)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, "Loss of Interest" can be a symptom of underlying mental health issues or a precursor to worsening mental state, especially in the context of schizophrenia, increasing the likelihood of needing intervention.)
+*   **Hours_of_Sleep (7.6):** +0 (Within healthy range, no direct contribution to increased risk.)
+*   **Employment (Student):** +0 (No direct causal link to increased hospitalization risk.)
+*   **Socioeconomic_Status (Low):** +0 (While low SES is a broad risk factor for health, its direct causal contribution to *immediate* hospitalization risk, independent of other factors like diagnosis, is not explicitly quantifiable here without further context.)
+
+The risk score is primarily driven by the severe mental health diagnosis of Schizophrenia, which inherently carries a high risk of hospitalization. Additional contributions come from systemic health disparities associated with Race (Black) and a symptom (Loss of Interest) that, while not indicative of depression, can signal a need for intervention in the context of a severe mental illness.

@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (52):** +0.5 (Increased risk with age, though not elderly, still a factor for general health decline and comorbidity risk.)
+*   **BMI (16.4):** +2.0 (Significantly underweight, indicating potential malnutrition, underlying health issues, or exacerbation of mental health conditions, leading to higher hospitalization risk.)
+*   **Family_Health_History (Cancer):** +0.2 (While not directly impacting immediate hospitalization for current diagnosis, family history of serious illness can indicate a predisposition to health issues or increased health anxiety.)
+*   **Current_Diagnosis (Bipolar):** +2.5 (Primary driver of hospitalization risk. Bipolar disorder, even when managed, carries a significant risk of acute episodes requiring inpatient care.)
+*   **Weekly_Alcohol_Intake (7):** +0.0 (Moderate intake, not a significant risk factor for hospitalization in itself.)
+*   **Smoking (Yes):** +0.8 (Smoking is a major risk factor for numerous health complications, increasing overall vulnerability and potential for hospitalization.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (While mild, depression can exacerbate bipolar symptoms or indicate a depressive phase, increasing the likelihood of needing more intensive care.)
+*   **Loss_of_Interest (Yes):** +0.5 (Anhedonia is a core symptom of depression and can indicate worsening mental state, increasing hospitalization risk.)
+*   **Hours_of_Sleep (4.8):** +1.0 (Chronic severe sleep deprivation is a significant trigger for mood episodes in bipolar disorder and can severely impact physical and mental health, greatly increasing hospitalization risk.)
+*   **Employment (Employed):** -0.5 (Employment often indicates a degree of stability and functionality, which can be a protective factor against hospitalization.)
+*   **Socioeconomic_Status (Middle):** -0.2 (Generally associated with better access to healthcare and resources, reducing risk.)
+*   **Has_Drivers_License (No):** +0.2 (Could indicate limitations in independence or access to care, though public transportation is used.)
+*   **Uses_Public_Transportation (Always):** +0.0 (Neutral, provides access but doesn't inherently increase or decrease risk.)
+*   **Water_Intake_oz (43.7):** +0.0 (Adequate hydration, neutral impact.)
+*   **Allergy (Dust):** +0.0 (Common allergy, not typically a direct hospitalization risk unless severe and poorly managed, which is not indicated.)
+*   **Wears_Glasses (Yes):** +0.0 (Neutral.)
+
+3. Clinical Rationale: This individual presents with a moderate to high risk of hospitalization primarily due to the combination of a severe mental health diagnosis (Bipolar Disorder) and significant contributing factors such as severe underweight (BMI 16.4) and chronic sleep deprivation (4.8 hours). These factors, alongside mild depressive symptoms and smoking, collectively increase vulnerability to acute mental health episodes or physical health complications requiring inpatient care.

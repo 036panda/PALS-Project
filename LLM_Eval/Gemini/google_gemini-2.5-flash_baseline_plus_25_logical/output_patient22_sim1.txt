@@ -1,0 +1,12 @@
+1. 4
+
+2. * Age (56): +1 (Increased risk with age, though not elderly)
+* BMI (28.0): +1 (Overweight, contributing to moderate risk)
+* Weekly_Alcohol_Intake (4): +1 (Moderate alcohol consumption, slight increase in risk)
+* Loss_of_Interest (Yes): +1 (Symptom of depression, indicating potential mental health impact on physical health)
+* Hours_of_Sleep (6.1): +1 (Slightly below recommended, contributing to minor risk)
+* Likes_Vegetables (No): +1 (Poor dietary habit, contributing to health risk)
+* Smoking (No): -1 (Protective factor)
+* Employment (Employed): -1 (Protective factor, indicating stability and access to resources)
+
+3. The risk score is calculated by summing the positive contributions from factors known to negatively impact health (e.g., age, overweight BMI, poor sleep, lack of vegetables, alcohol intake, and a symptom of depression) and subtracting the negative contributions from protective factors (e.g., not smoking and being employed). This approach directly reflects the causal relationship between these specific lifestyle and health indicators and the likelihood of hospitalization.

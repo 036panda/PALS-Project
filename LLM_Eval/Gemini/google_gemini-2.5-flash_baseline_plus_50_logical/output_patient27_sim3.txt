@@ -1,0 +1,69 @@
+1. 3
+
+2. *   Age: 38 (Neutral: 0) - While age can be a factor, 38 is not typically a high-risk age for hospitalization in itself.
+*   BMI: 21.8 (Neutral: 0) - A healthy BMI, not contributing to risk.
+*   Family_Health_History: Asthma (Positive: +1) - A family history of a chronic respiratory condition like asthma can indicate a genetic predisposition to respiratory issues, which can lead to hospitalization.
+*   Current_Diagnosis: Anxiety (Positive: +1) - Anxiety, especially if severe or unmanaged, can exacerbate physical symptoms, lead to stress-related health issues, or necessitate hospitalization for mental health support.
+*   Race: Black (Neutral: 0) - Race itself is not a direct causal factor for hospitalization risk.
+*   Gender: Non-binary (Neutral: 0) - Gender identity is not a direct causal factor for hospitalization risk.
+*   Sexual_Orientation: Heterosexual (Neutral: 0) - Sexual orientation is not a direct causal factor for hospitalization risk.
+*   Weekly_Alcohol_Intake: 2 (Neutral: 0) - Moderate alcohol intake, not a significant risk factor.
+*   Smoking: No (Negative: -1) - Absence of smoking significantly reduces risk of numerous health issues.
+*   HAM-D: 0–6: Normal / No Depression (Negative: -1) - Absence of depression reduces risk of mental health-related hospitalizations and stress-related physical ailments.
+*   Been_Sad_or_Fatigued: No (Negative: -1) - Absence of these symptoms indicates good mental and physical well-being.
+*   Loss_of_Interest: No (Negative: -1) - Absence of this symptom indicates good mental well-being.
+*   Hours_of_Sleep: 6.3 (Neutral: 0) - While slightly below ideal, not a severe sleep deprivation that would significantly increase risk.
+*   Employment: Employed (Negative: -1) - Employment often correlates with better access to healthcare and financial stability, reducing risk.
+*   Socioeconomic_Status: High (Negative: -1) - High socioeconomic status generally correlates with better access to healthcare, nutrition, and living conditions, reducing risk.
+*   Drinks_Coffee: No (Neutral: 0) - Not a direct causal factor.
+*   Likes_Vegetables: No (Positive: +1) - Lack of vegetable consumption can indicate a less healthy diet, potentially increasing risk of various health issues.
+*   Favourite_Sport: Soccer (Neutral: 0) - Not a direct causal factor.
+*   Votes: Always (Neutral: 0) - Not a direct causal factor.
+*   Height_in_Inches: 73 (Neutral: 0) - Not a direct causal factor.
+*   Has_Drivers_License: Yes (Neutral: 0) - Not a direct causal factor.
+*   Picks_Up_Litter: Never (Neutral: 0) - Not a direct causal factor.
+*   Uses_Public_Transportation: Never (Neutral: 0) - Not a direct causal factor.
+*   Donated_Blood: Yes (Neutral: 0) - Not a direct causal factor for hospitalization risk.
+*   Birthday_Month: March (Neutral: 0) - Not a direct causal factor.
+*   Water_Intake_oz: 43.6 (Neutral: 0) - Adequate water intake, not a risk factor.
+*   Bilingual: No (Neutral: 0) - Not a direct causal factor.
+*   Handedness: Right (Neutral: 0) - Not a direct causal factor.
+*   Likes_Kids: Yes (Neutral: 0) - Not a direct causal factor.
+*   Favourite_Meal: Dinner (Neutral: 0) - Not a direct causal factor.
+*   Favourite_Color: Orange (Neutral: 0) - Not a direct causal factor.
+*   Recycling_Habits: Never (Neutral: 0) - Not a direct causal factor.
+*   Hair_Color: Blonde (Neutral: 0) - Not a direct causal factor.
+*   Best_Highschool_Subject: History (Neutral: 0) - Not a direct causal factor.
+*   Travels: Yes (Neutral: 0) - Not a direct causal factor.
+*   Relationship_Status: Dating (Neutral: 0) - Not a direct causal factor.
+*   Favourite_Music_Genre: Country (Neutral: 0) - Not a direct causal factor.
+*   Can_Ride_Bicycle: Yes (Neutral: 0) - Not a direct causal factor.
+*   Religious: Yes (Neutral: 0) - Not a direct causal factor.
+*   Phone: Apple (Neutral: 0) - Not a direct causal factor.
+*   Wears_Glasses: Yes (Neutral: 0) - Not a direct causal factor.
+*   Morning_or_Night: Morning (Neutral: 0) - Not a direct causal factor.
+*   Allergy: Penecillin (Neutral: 0) - While an allergy, it's a known one and doesn't inherently increase hospitalization risk unless exposure occurs.
+*   Binge_Watches_TV: Yes (Neutral: 0) - Not a direct causal factor.
+*   Favourite_Super_Store: Target (Neutral: 0) - Not a direct causal factor.
+*   Pet_Preference: Dog (Neutral: 0) - Not a direct causal factor.
+*   Volunteers: Always (Neutral: 0) - Not a direct causal factor for hospitalization risk.
+*   Skips_Breakfast: No (Negative: -1) - Regular breakfast consumption is associated with better health outcomes.
+*   Favourite_Movie_Genre: Comedy (Neutral: 0) - Not a direct causal factor.
+*   Registered_Organ_Donor: Yes (Neutral: 0) - Not a direct causal factor for hospitalization risk.
+*   Annual_Charity_Donation: Always (Neutral: 0) - Not a direct causal factor for hospitalization risk.
+*   Favourite_Cuisine: Mediterranean (Neutral: 0) - Not a direct causal factor.
+*   Exercises: No (Positive: +1) - Lack of exercise is a significant risk factor for numerous chronic diseases that can lead to hospitalization.
+*   Likes_Art: Yes (Neutral: 0) - Not a direct causal factor.
+*   Academic_Preference: STEM (Neutral: 0) - Not a direct causal factor.
+*   Political_Ideology: Conservative (Neutral: 0) - Not a direct causal factor.
+*   Orders_Takeout: Weekly (Neutral: 0) - While frequent, not necessarily unhealthy depending on choices.
+*   Preferred_Grocery_Store: Whole Foods (Neutral: 0) - Not a direct causal factor.
+*   Helps_Elderly: Always (Neutral: 0) - Not a direct causal factor for hospitalization risk.
+*   Likes_Chocolate: No (Neutral: 0) - Not a direct causal factor.
+*   Reads_Novels: Yes (Neutral: 0) - Not a direct causal factor.
+*   Has_Cheated_on_an_Assignment_Before: Yes (Neutral: 0) - Not a direct causal factor for hospitalization risk.
+*   Eye_Color: Brown (Neutral: 0) - Not a direct causal factor.
+*   Spotify_vs_AppleMusic: Apple Music (Neutral: 0) - Not a direct causal factor.
+*   Favourite_Season: Summer (Neutral: 0) - Not a direct causal factor.
+
+3. The risk score is calculated by summing the contributions of factors directly linked to physical or mental health outcomes that could necessitate hospitalization, such as family history of chronic illness, current mental health diagnoses, and lifestyle choices like diet and exercise, while negating factors that actively reduce such risks.

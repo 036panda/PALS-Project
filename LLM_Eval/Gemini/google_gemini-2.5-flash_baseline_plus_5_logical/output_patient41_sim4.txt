@@ -1,0 +1,17 @@
+1. 1.0
+
+2. *   Age (22): -1.0 (Younger age generally correlates with lower hospitalization risk)
+*   BMI (21.9): -0.5 (Healthy BMI is associated with lower risk)
+*   Family_Health_History (Cancer): +1.0 (Presence of family history of serious illness increases risk)
+*   Current_Diagnosis (nan): -1.0 (Absence of current diagnosis indicates lower immediate risk)
+*   Weekly_Alcohol_Intake (3): -0.5 (Moderate alcohol intake, not excessive, may not significantly increase risk and could even be associated with some protective factors in certain contexts, or at least not a negative one)
+*   Smoking (No): -1.0 (Non-smoker status significantly reduces risk)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mild depression can be a contributing factor to overall health issues, potentially increasing risk)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of these symptoms indicates better current mental and physical well-being)
+*   Loss_of_Interest (No): -0.5 (Absence of this symptom indicates better current mental well-being)
+*   Hours_of_Sleep (9.6): -0.5 (Adequate to high hours of sleep generally correlate with better health outcomes)
+*   Employment (Employed): -0.5 (Employment often correlates with better access to healthcare and socioeconomic stability, reducing risk)
+*   Socioeconomic_Status (Middle): -0.5 (Middle socioeconomic status generally correlates with better health outcomes and access to care)
+*   Likes_Vegetables (Yes): -0.5 (Healthy dietary habits are associated with lower risk)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate an increased risk and negative values indicate a decreased risk. The logical basis is that factors like young age, healthy BMI, absence of current diagnoses, non-smoking, adequate sleep, and healthy lifestyle choices reduce hospitalization risk, while family history of serious illness and mild depression increase it.

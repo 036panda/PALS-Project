@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impact:
+
+*   **Current_Diagnosis: Bipolar:** +5 (Bipolar disorder carries a significant risk of hospitalization, particularly during acute manic or depressive episodes, even with a normal HAM-D score at present.)
+*   **Socioeconomic_Status: Low:** +1 (Lower socioeconomic status is associated with reduced access to care, increased stress, and poorer health outcomes, which can elevate hospitalization risk.)
+*   **Been_Sad_or_Fatigued: Yes:** +1 (While not currently depressed per HAM-D, a history of sadness or fatigue can be a prodromal symptom or indicate underlying mood instability in a bipolar patient, increasing vigilance for potential decompensation.)
+*   **Weekly_Alcohol_Intake: 1:** -1 (Very low alcohol intake is a positive health behavior, reducing risks associated with substance use.)
+*   **HAM-D: 0–6: Normal / No Depression:** -2 (A normal HAM-D score indicates current euthymia or remission from depressive symptoms, which significantly lowers immediate hospitalization risk.)
+*   **Employment: Employed:** -1 (Employment provides structure, financial stability, and often access to health insurance, all of which are protective factors against hospitalization.)
+*   **Hours_of_Sleep: 8.3:** -1 (Adequate sleep is crucial for mental and physical health, especially in individuals with bipolar disorder, and this is a positive indicator.)
+*   **Exercises: Yes:** -1 (Regular exercise is a known protective factor for both physical and mental health, reducing the likelihood of hospitalization.)
+*   **BMI: 24.2:** -1 (A healthy BMI indicates good general physical health, reducing the risk of hospitalization due to obesity-related complications.)
+
+3. Clinical Rationale: This patient, despite a current diagnosis of Bipolar disorder and a history of sadness/fatigue, presents with several protective factors including a healthy BMI, adequate sleep, employment, and regular exercise. However, the inherent instability of bipolar disorder and low socioeconomic status contribute to a moderate overall risk of hospitalization.

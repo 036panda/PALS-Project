@@ -1,0 +1,21 @@
+1. 6.5
+
+2. *   Age (41): +0.5 (Slightly elevated risk for middle age, but not elderly)
+    *   BMI (26.5): +0.5 (Overweight, contributing to general health risks)
+    *   Family_Health_History (Diabetes): +1.0 (Genetic predisposition to a chronic condition)
+    *   Current_Diagnosis (Depression): +1.5 (Mental health condition directly impacting physical health and potentially leading to hospitalization)
+    *   HAM-D (0–6: Normal / No Depression): -1.0 (Contradicts Current_Diagnosis, indicating a potential misdiagnosis or remission, reducing immediate mental health hospitalization risk)
+    *   Loss_of_Interest (Yes): +0.5 (Symptom often associated with depression, despite HAM-D score, suggesting underlying mental health concerns)
+    *   Hours_of_Sleep (4.7): +1.5 (Significantly low, leading to various health problems and increased hospitalization risk)
+    *   Socioeconomic_Status (High): -0.5 (Access to better healthcare and resources)
+    *   Smoking (No): -0.5 (Absence of a major risk factor)
+    *   Weekly_Alcohol_Intake (1): -0.5 (Low intake, not a significant risk factor)
+    *   Exercises (No): +1.0 (Lack of physical activity is a significant health risk factor)
+    *   Skips_Breakfast (Yes): +0.5 (Poor dietary habit, contributing to overall health issues)
+    *   Allergy (Penecillin): +0.5 (Specific medical vulnerability that could complicate treatment)
+    *   Orders_Takeout (Weekly): +0.5 (Suggests potentially less healthy eating habits)
+    *   Helps_Elderly (Never): +0.0 (No direct causal link to personal hospitalization risk)
+    *   Likes_Chocolate (No): +0.0 (No direct causal link to personal hospitalization risk)
+    *   All other factors: +0.0 (No direct or significant causal relationship to hospitalization risk based on current medical understanding)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to an individual's physical and mental health, and their access to care. Positive contributions reflect increased risk (e.g., chronic conditions, poor lifestyle choices, mental health issues), while negative contributions reflect protective factors (e.g., good socioeconomic status, absence of major risk factors).

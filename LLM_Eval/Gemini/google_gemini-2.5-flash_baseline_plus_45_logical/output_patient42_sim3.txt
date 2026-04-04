@@ -1,0 +1,20 @@
+1. 3.5
+
+2. *   Age (49): +0.5 (Increased risk with age, but not yet in high-risk elderly category)
+*   BMI (23.2): -0.5 (Healthy weight, protective factor)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues, potential for exacerbation)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can impact physical health and increase healthcare utilization)
+*   Weekly_Alcohol_Intake (4): -0.2 (Moderate intake, potentially protective compared to no or excessive intake)
+*   Smoking (No): -1.0 (Significant protective factor against numerous health issues)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Absence of depression, protective factor)
+*   Loss_of_Interest (Yes): +0.5 (While HAM-D is normal, this symptom can indicate subclinical distress or early signs of mental health issues that might impact health-seeking behaviors)
+*   Hours_of_Sleep (9.4): -0.5 (Adequate to high sleep duration, protective factor)
+*   Socioeconomic_Status (High): -1.0 (Access to better healthcare, nutrition, and living conditions)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habit, potential for nutritional deficiencies)
+*   Water_Intake_oz (42.3): -0.2 (Adequate hydration, protective factor)
+*   Allergy (Mold): +0.5 (Environmental trigger, potential for respiratory issues or allergic reactions requiring medical attention)
+*   Skips_Breakfast (Yes): +0.5 (Poor dietary habit, potential for metabolic issues)
+*   Exercises (Yes): -1.0 (Significant protective factor for overall health)
+*   Orders_Takeout (Weekly): +0.5 (Frequent takeout can be associated with less healthy food choices)
+
+3. The risk score is calculated by summing the individual contributions of factors identified as causally linked to hospitalization risk, where positive values indicate increased risk and negative values indicate decreased risk. Factors related to physical health, mental well-being, lifestyle choices, and socioeconomic status are weighted based on their established impact on health outcomes and healthcare utilization.

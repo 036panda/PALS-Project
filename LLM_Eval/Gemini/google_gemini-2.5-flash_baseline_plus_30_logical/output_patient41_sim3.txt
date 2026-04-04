@@ -1,0 +1,17 @@
+1. 2
+
+2. * Age: 22 (Contribution: -1, Younger age generally correlates with lower hospitalization risk)
+* BMI: 21.9 (Contribution: 0, Healthy BMI)
+* Family_Health_History: Cancer (Contribution: +1, Family history of serious illness can increase risk)
+* Current_Diagnosis: nan (Contribution: 0, No current diagnosis of illness)
+* Weekly_Alcohol_Intake: 3 (Contribution: 0, Moderate alcohol intake)
+* Smoking: No (Contribution: -1, Non-smoker)
+* HAM-D: 7–17: Mild Depression (Contribution: +1, Mild depression can slightly increase risk)
+* Been_Sad_or_Fatigued: No (Contribution: 0, No reported sadness or fatigue)
+* Loss_of_Interest: No (Contribution: 0, No reported loss of interest)
+* Hours_of_Sleep: 9.6 (Contribution: -1, Ample sleep, generally protective)
+* Employment: Employed (Contribution: -1, Employment often correlates with better health outcomes and access to care)
+* Socioeconomic_Status: Middle (Contribution: 0, Neutral risk factor)
+* Allergy: Shellfish (Contribution: +2, Allergies, especially severe ones, can lead to hospitalization)
+
+3. The hospitalization risk score is calculated by summing the contributions of factors directly and causally linked to health outcomes and potential need for medical intervention, such as age, family history, current health status, lifestyle choices, and existing medical conditions. Factors with no clear causal link to hospitalization risk are assigned a neutral contribution.

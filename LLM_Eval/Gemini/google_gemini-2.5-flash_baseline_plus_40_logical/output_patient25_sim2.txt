@@ -1,0 +1,14 @@
+1. 6
+
+2. * Age (63): +2 (Increased risk with advancing age)
+* BMI (33.3): +2 (Obesity, BMI > 30, is a significant risk factor)
+* Family_Health_History (Heart Disease): +1 (Genetic predisposition to cardiovascular issues)
+* Current_Diagnosis (Bipolar): +2 (Mental health conditions, especially severe ones, can increase hospitalization risk)
+* Smoking (No): -1 (Absence of a major risk factor)
+* Weekly_Alcohol_Intake (1): 0 (Moderate alcohol intake, not a significant risk factor for hospitalization)
+* HAM-D (7–17: Mild Depression): +0 (Mild depression, while a concern, is not a primary driver of hospitalization risk in this context)
+* Exercises (No): +1 (Lack of physical activity contributes to overall health decline)
+* Allergy (Dust): -1 (Common allergy, generally not a direct cause of hospitalization unless severe and uncontrolled, which is not indicated)
+* Skips_Breakfast (Yes): +0 (While not ideal for health, skipping breakfast is not a direct, strong predictor of hospitalization)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age, obesity, family history of serious illness, and existing severe mental health diagnoses, while subtracting for the absence of major risk factors like smoking. Factors with no direct or strong causal link to hospitalization are assigned a neutral contribution.

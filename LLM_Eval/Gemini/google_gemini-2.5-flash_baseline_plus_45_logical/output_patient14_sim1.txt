@@ -1,0 +1,12 @@
+1. 4.5
+
+2. *   **Age (18):** +0.5 (Young adult, generally lower risk, but not zero due to other factors)
+*   **BMI (30.9):** +2.0 (Obese, significant risk factor)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Mental health condition, can increase hospitalization risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom that can indicate underlying health issues or mental health exacerbation)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habit, can contribute to health issues)
+*   **Exercises (No):** +0.5 (Lack of physical activity, contributes to various health risks)
+*   **Water_Intake_oz (44.0):** -0.5 (Adequate hydration, a positive health factor)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of depression, a significant positive mental health indicator)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors (obesity, bipolar disorder, lack of exercise, poor dietary habits, and a symptom of potential mental health concern) and subtracting the negative contributions from protective factors (adequate hydration and absence of depression). Each contribution reflects a direct causal link to hospitalization risk.

@@ -1,0 +1,11 @@
+1. 5.5
+
+2. *   BMI (35.9, indicating obesity): +2.0 (Obesity is a significant risk factor for numerous health complications requiring hospitalization.)
+*   Family_Health_History (Cancer): +1.0 (A family history of serious illness like cancer suggests a genetic predisposition to health issues, increasing overall risk.)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions, even mild ones, can exacerbate physical symptoms or lead to behaviors that increase hospitalization risk.)
+*   Hours_of_Sleep (5.7, indicating insufficient sleep): +1.0 (Chronic sleep deprivation negatively impacts immune function and overall health, increasing susceptibility to illness.)
+*   Allergy (Gluten): +0.5 (While manageable, allergies can sometimes lead to severe reactions or complications requiring medical attention.)
+*   Skips_Breakfast (Yes): +0.5 (Skipping meals can negatively impact metabolism and overall health, potentially contributing to health issues.)
+*   Age (22): -0.5 (Younger age generally correlates with lower hospitalization risk compared to older populations.)
+
+3. The risk score is calculated by summing the contributions of factors known to directly or indirectly increase the likelihood of hospitalization, such as obesity, family health history of serious illness, existing mental health diagnoses, and poor lifestyle choices like insufficient sleep and skipping meals, while adjusting for protective factors like younger age.

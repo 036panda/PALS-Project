@@ -1,0 +1,24 @@
+7.5
+
+*   **Age (52):** +0.5 (Increased risk with age, though not elderly)
+*   **BMI (16.4):** +1.5 (Underweight, indicating potential nutritional deficiencies or underlying health issues)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to serious illness)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization for acute episodes or medication management)
+*   **Smoking (Yes):** +1.5 (Major risk factor for numerous health problems, including respiratory and cardiovascular diseases)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, which can worsen mental health and lead to hospitalization)
+*   **Hours_of_Sleep (4.8):** +0.5 (Chronic sleep deprivation negatively impacts physical and mental health)
+*   **Weekly_Alcohol_Intake (7):** +0.0 (Moderate intake, not a significant risk factor in itself)
+*   **HAM-D (7–17: Mild Depression):** +0.0 (Already accounted for by "Loss_of_Interest" and "Current_Diagnosis" in terms of mental health impact)
+*   **Been_Sad_or_Fatigued (No):** -0.0 (Absence of this symptom does not reduce risk, but its presence would increase it)
+*   **Race (Asian):** +0.0 (No direct causal link to hospitalization risk)
+*   **Gender (Male):** +0.0 (No direct causal link to hospitalization risk)
+*   **Sexual_Orientation (Other):** +0.0 (No direct causal link to hospitalization risk)
+*   **Employment (Employed):** -0.0 (Positive factor, but not directly reducing hospitalization risk in this context)
+*   **Socioeconomic_Status (Middle):** -0.0 (Positive factor, but not directly reducing hospitalization risk in this context)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -0.0 (Positive factor, but not directly reducing hospitalization risk in this context)
+*   **Favourite_Sport (nan):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Always):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (71):** +0.0 (No direct causal link to hospitalization risk)
+
+The risk score is derived from the cumulative impact of significant health risk factors such as a low BMI, a family history of serious illness, a current diagnosis of bipolar disorder, and smoking, alongside contributing factors like sleep deprivation and symptoms of depression. Each factor's contribution is based on its established causal link to increased likelihood of requiring medical intervention or hospitalization.

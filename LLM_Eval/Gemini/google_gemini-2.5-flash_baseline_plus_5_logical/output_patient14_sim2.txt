@@ -1,0 +1,24 @@
+7
+
+*   **Age (18):** +0.5 (Slightly elevated risk due to being at the lower end of the adult age range, where some mental health conditions may manifest or worsen, but not a primary driver of hospitalization risk on its own.)
+*   **BMI (30.9):** +1.5 (Obese BMI, a known risk factor for various health complications, including those that may necessitate hospitalization.)
+*   **Family_Health_History (nan):** +0.0 (No information, thus no contribution.)
+*   **Current_Diagnosis (Bipolar):** +4.0 (Significant risk factor for hospitalization due to the nature of the condition, including potential for manic/depressive episodes requiring acute care.)
+*   **Race (Other):** +0.0 (No direct causal link to hospitalization risk without further context.)
+*   **Gender (Non-binary):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Sexual_Orientation (Bisexual):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Weekly_Alcohol_Intake (1):** +0.0 (Low intake, not a significant risk factor.)
+*   **Smoking (No):** -0.5 (Protective factor against hospitalization for smoking-related illnesses.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Protective factor, indicating no current depressive symptoms, which can reduce the likelihood of hospitalization related to mood disorders.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Protective factor, indicating absence of common symptoms that could escalate to hospitalization.)
+*   **Loss_of_Interest (Yes):** +1.0 (While HAM-D is normal, loss of interest can be a symptom of underlying issues or a precursor to worsening mental health, especially with a Bipolar diagnosis.)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep, a protective factor for overall health and mental well-being.)
+*   **Employment (Student):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** +0.0 (No direct causal link to hospitalization risk without further context.)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable intake can contribute to poorer overall health, increasing general hospitalization risk.)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Votes (Never):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Height_in_Inches (62):** +0.0 (No direct causal link to hospitalization risk.)
+
+The risk score is primarily driven by the existing Bipolar diagnosis and obese BMI, which are significant and direct contributors to hospitalization risk. Protective factors like not smoking, normal HAM-D, and adequate sleep partially mitigate these risks, while the reported loss of interest and lack of vegetable intake add minor contributions.

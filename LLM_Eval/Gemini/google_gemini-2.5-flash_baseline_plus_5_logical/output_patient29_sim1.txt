@@ -1,0 +1,16 @@
+7
+
+*   **Age (22):** +0.5 (Younger age, while generally healthier, can sometimes correlate with less established healthcare-seeking behaviors or underestimation of health risks, especially with other contributing factors.)
+*   **BMI (35.9 - Obese Class II):** +2.0 (Significantly elevated BMI is a direct and strong risk factor for numerous health complications requiring hospitalization.)
+*   **Family_Health_History (Cancer):** +1.0 (Presence of a significant family health history, like cancer, indicates a genetic predisposition or shared environmental factors that increase overall health risk.)
+*   **Current_Diagnosis (Anxiety):** +1.5 (Anxiety, especially if untreated or poorly managed, can exacerbate physical symptoms, lead to somatic complaints, or contribute to mental health crises requiring intervention.)
+*   **Race (Hispanic):** +0.5 (Systemic health disparities and socioeconomic factors often lead to higher hospitalization rates for certain racial/ethnic groups.)
+*   **Gender (Female):** +0.5 (Biological and societal factors can lead to higher rates of certain conditions or healthcare utilization in females.)
+*   **Weekly_Alcohol_Intake (4 units):** +0.0 (Within moderate limits, no direct contribution to increased risk.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk for numerous conditions.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression, while not severe, can still impact physical health, adherence to treatment, and overall well-being, potentially escalating to more serious issues.)
+*   **Hours_of_Sleep (5.7):** +1.0 (Chronic insufficient sleep is a direct contributor to weakened immune function, increased stress, and exacerbation of existing health conditions.)
+*   **Socioeconomic_Status (Middle):** -0.0 (Neutral, as it doesn't directly increase or decrease risk compared to extreme ends of the spectrum.)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable consumption indicates a potentially poor dietary pattern, contributing to overall health risk.)
+
+The risk score is calculated by summing the direct causal contributions of each health and lifestyle factor, where positive values indicate increased risk and negative values indicate decreased risk, reflecting established medical and public health correlations.

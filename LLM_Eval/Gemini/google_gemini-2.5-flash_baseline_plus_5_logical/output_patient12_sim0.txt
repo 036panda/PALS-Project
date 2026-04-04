@@ -1,0 +1,24 @@
+1. 7.5
+
+2. *   Age (90): +3.0 (Advanced age is a significant risk factor for hospitalization due to increased frailty and comorbidity likelihood.)
+*   BMI (32.5): +1.5 (Obesity, indicated by BMI > 30, increases the risk of various health complications requiring hospitalization.)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to hypertension increases the individual's own risk of cardiovascular events, a common cause of hospitalization.)
+*   Current_Diagnosis (Depression): +0.0 (While depression can be a risk factor, the HAM-D score indicates no current depression, negating this specific risk.)
+*   Smoking (Yes): +2.0 (Active smoking is a major risk factor for numerous chronic diseases, significantly increasing hospitalization probability.)
+*   Weekly_Alcohol_Intake (4): +0.0 (Moderate alcohol intake, within recommended limits, is not considered a direct hospitalization risk factor.)
+*   HAM-D (0-6: Normal / No Depression): -0.5 (Absence of depression reduces mental health-related hospitalization risk.)
+*   Been_Sad_or_Fatigued (No): -0.0 (Absence of these symptoms indicates better current mental and physical well-being.)
+*   Loss_of_Interest (No): -0.0 (Absence of this symptom indicates better current mental well-being.)
+*   Hours_of_Sleep (7.4): +0.0 (Adequate sleep, within the recommended range, is not a risk factor.)
+*   Employment (Retired): +0.0 (Retirement itself is not a direct hospitalization risk factor, though it often correlates with age.)
+*   Socioeconomic_Status (Middle): +0.0 (Middle socioeconomic status is generally not a direct risk factor for hospitalization.)
+*   Drinks_Coffee (Yes): +0.0 (Coffee consumption is not a direct hospitalization risk factor.)
+*   Likes_Vegetables (No): +1.0 (Poor dietary habits, indicated by not liking vegetables, can contribute to nutritional deficiencies and chronic diseases, increasing hospitalization risk.)
+*   Race (Hispanic): +0.0 (Race is not a direct causal factor for hospitalization risk in this model without specific health disparity context.)
+*   Gender (Non-binary): +0.0 (Gender identity is not a direct causal factor for hospitalization risk in this model.)
+*   Sexual_Orientation (Heterosexual): +0.0 (Sexual orientation is not a direct causal factor for hospitalization risk in this model.)
+*   Favourite_Sport (Hockey): +0.0 (Leisure activities are not direct causal factors for hospitalization risk.)
+*   Votes (Sometimes): +0.0 (Voting habits are not direct causal factors for hospitalization risk.)
+*   Height_in_Inches (71): +0.0 (Height is not a direct causal factor for hospitalization risk.)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as advanced age, obesity, smoking, and poor diet, while mitigating factors like the absence of depression reduce the score. Each contribution reflects the established medical and lifestyle impact on health outcomes leading to potential hospitalization.

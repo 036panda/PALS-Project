@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +0.5 (Younger adults, especially those with mental health diagnoses, can have higher rates of crisis and hospitalization.)
+*   **BMI (25.6):** +0.1 (Slightly overweight, a minor contributor to general health risk.)
+*   **Family_Health_History (Hypertension):** +0.2 (Genetic predisposition to chronic disease, though not directly impacting current hospitalization risk for bipolar, it's a general health consideration.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is the most significant factor. Bipolar disorder carries a substantial risk of hospitalization due to manic or depressive episodes, even with current low HAM-D scores.)
+*   **Race (Hispanic):** +0.2 (Systemic healthcare disparities can sometimes lead to delayed care or more severe presentations requiring hospitalization.)
+*   **Gender (Non-binary):** +0.3 (Non-binary individuals may face increased stress, discrimination, and barriers to mental healthcare, potentially increasing hospitalization risk.)
+*   **Weekly_Alcohol_Intake (5):** +0.1 (Moderate alcohol intake, but can interact with mental health conditions or medications.)
+*   **Hours_of_Sleep (5.7):** +0.6 (Chronic sleep deprivation is a significant trigger for mood episodes in bipolar disorder and can worsen overall mental and physical health.)
+*   **Socioeconomic_Status (High):** -0.5 (Higher socioeconomic status generally correlates with better access to care and resources, reducing hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.1 (Poor dietary habits can negatively impact overall health and mood stability.)
+*   **Has_Drivers_License (No):** +0.1 (May indicate limited independence or access to transportation for appointments/support, though not definitive.)
+*   **Uses_Public_Transportation (Never):** +0.1 (Combined with no driver's license, this could suggest limited mobility or access to resources.)
+*   **Donated_Blood (Yes):** -0.1 (Suggests a degree of health consciousness and engagement with healthcare systems.)
+*   **Water_Intake_oz (44.2):** +0.1 (Slightly below recommended intake, minor impact on general health.)
+*   **Relationship_Status (Single):** +0.2 (Lack of immediate social support can sometimes increase vulnerability during mental health crises.)
+*   **Can_Ride_Bicycle (No):** +0.1 (May indicate limited physical activity or coordination, minor impact.)
+*   **Allergy (Shellfish):** +0.1 (Presence of an allergy indicates a potential for acute medical issues, though low impact here.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with a diagnosis of bipolar disorder faces a moderate risk of hospitalization, primarily driven by their underlying mental health condition and contributing factors like chronic sleep deprivation and potential social support gaps. While their current HAM-D score is low and socioeconomic status is high, the inherent volatility of bipolar disorder, especially in a young adult, necessitates careful monitoring and proactive management to mitigate future acute episodes.

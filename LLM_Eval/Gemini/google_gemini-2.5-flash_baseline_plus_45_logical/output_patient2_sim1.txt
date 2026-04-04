@@ -1,0 +1,16 @@
+1. 6.5
+
+2. *   Age (40): +0.5 (Increased risk with age, but 40 is moderate)
+*   BMI (34.6): +2.0 (Obese, significant risk factor)
+*   Family_Health_History (Cancer): +0.5 (General predisposition to health issues)
+*   Current_Diagnosis (Bipolar): +1.5 (Mental health conditions can complicate physical health and hospitalizations)
+*   Weekly_Alcohol_Intake (4): +0.0 (Moderate intake, no significant direct contribution)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (7–17: Mild Depression): +0.5 (Mild depression can impact overall health management)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential for reduced self-care)
+*   Hours_of_Sleep (8.9): -0.5 (Adequate sleep, positive for health)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral, no direct positive or negative contribution)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habit, potential for nutritional deficiencies)
+*   Exercises (No): +1.0 (Lack of exercise is a significant risk factor for various health issues)
+
+3. The risk score is calculated by summing the contributions of identified health-related factors, where positive values indicate increased risk and negative values indicate reduced risk, based on established causal links between these factors and hospitalization likelihood. Factors like high BMI, current mental health diagnosis, and lack of exercise are weighted more heavily due to their direct and substantial impact on health outcomes.

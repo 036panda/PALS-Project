@@ -1,0 +1,26 @@
+1. 2.0
+
+2. *   Age (22): +0.0 (No significant risk at this age)
+*   BMI (21.9): +0.0 (Healthy range)
+*   Family_Health_History (Cancer): +1.0 (Increased genetic predisposition to illness, potentially requiring future hospitalization)
+*   Current_Diagnosis (nan): +0.0 (No current diagnosis, no immediate risk)
+*   Weekly_Alcohol_Intake (3): +0.0 (Moderate intake, no significant risk)
+*   Smoking (No): -1.0 (Absence of a major health risk factor)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mild mental health condition, can sometimes necessitate medical intervention or lead to physical health issues)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of common symptoms of underlying health issues)
+*   Loss_of_Interest (No): -0.5 (Absence of a symptom often associated with depression or other health concerns)
+*   Hours_of_Sleep (9.6): -0.5 (Adequate sleep, promotes good health)
+*   Employment (Employed): -0.5 (Indicates stability and access to resources, potentially including health insurance)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better access to healthcare and resources)
+*   Likes_Vegetables (Yes): -0.5 (Positive dietary habit, promotes good health)
+*   Water_Intake_oz (45.9): +0.0 (Adequate, no significant risk)
+*   Exercises (No): +1.0 (Lack of regular physical activity is a risk factor for various health conditions)
+*   Allergy (Shellfish): +1.0 (Potential for severe allergic reaction requiring emergency medical attention)
+*   Skips_Breakfast (No): -0.5 (Regular meal consumption, promotes stable metabolism)
+*   Annual_Charity_Donation (Always): +0.0 (No direct health impact)
+*   Orders_Takeout (Weekly): +0.0 (Moderate frequency, no significant risk)
+*   Helps_Elderly (Sometimes): +0.0 (No direct health impact)
+*   Likes_Chocolate (No): +0.0 (No direct health impact)
+*   Other factors (Race, Gender, Sexual_Orientation, Drinks_Coffee, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Binge_Watches_TV, Favourite_Super_Store, Pet_Preference, Volunteers, Favourite_Movie_Genre, Registered_Organ_Donor, Favourite_Cuisine, Likes_Art, Academic_Preference, Political_Ideology, Preferred_Grocery_Store): +0.0 (No direct or indirect causal relationship to hospitalization risk based on the provided information)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as family health history, existing mild depression, lack of exercise, and a known allergy, while subtracting contributions from protective factors like not smoking, adequate sleep, and healthy eating habits. Other demographic or lifestyle factors without a clear causal link to hospitalization risk are assigned a neutral contribution.

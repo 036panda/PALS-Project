@@ -1,0 +1,11 @@
+1. 7.5
+
+2. *   BMI (46.7): +4.0 (Obesity, particularly severe, is a significant risk factor for numerous health complications requiring hospitalization.)
+*   Smoking (Yes): +2.0 (Smoking is a well-established risk factor for a wide range of acute and chronic diseases that can lead to hospitalization.)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (While HAM-D is normal, persistent sadness/fatigue can indicate underlying health issues or contribute to poorer health outcomes.)
+*   Loss_of_Interest (Yes): +0.5 (Similar to sadness/fatigue, loss of interest can be a symptom of underlying conditions or contribute to reduced self-care.)
+*   Allergy (Animal Dander): +0.5 (Allergies, if severe or poorly managed, can lead to acute respiratory distress or other reactions requiring medical attention.)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits, specifically lack of vegetable intake, are associated with increased risk of various health issues.)
+*   Exercises (Yes): -0.5 (Regular exercise is a protective factor against many diseases and promotes overall health.)
+
+3. The hospitalization risk score is calculated by summing the positive contributions from identified risk factors (severe obesity, smoking, potential mental health indicators, allergy, poor diet) and subtracting the negative contribution from a protective factor (exercise), reflecting their direct causal impact on health and potential need for hospitalization.

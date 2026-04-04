@@ -1,0 +1,13 @@
+7
+
+*   **Age (18):** +0.5 (Young adult, generally lower risk, but still susceptible to certain conditions)
+*   **BMI (30.9):** +1.5 (Obese, significantly increases risk for various health complications)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Mental health conditions like bipolar disorder are strongly associated with increased hospitalization risk)
+*   **Weekly_Alcohol_Intake (1):** +0.2 (Low intake, but any alcohol consumption carries a minimal risk)
+*   **Loss_of_Interest (Yes):** +0.8 (Symptom of potential underlying mental health issues or depression, even with normal HAM-D)
+*   **Socioeconomic_Status (Middle):** +0.3 (While not low, middle status can still face financial barriers to preventative care, increasing hospitalization likelihood)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habit, can lead to nutritional deficiencies and impact overall health)
+*   **Exercises (No):** +1.0 (Lack of exercise is a major risk factor for numerous chronic diseases)
+*   **Wears_Glasses (Yes):** +0.2 (Indicates a pre-existing health condition, even if minor, suggesting a higher likelihood of other health issues)
+
+The hospitalization risk score is calculated by summing the individual contributions of factors known to causally influence health outcomes and the likelihood of requiring medical intervention, with higher values assigned to factors with stronger negative health implications. This approach directly links specific patient characteristics to their potential impact on hospitalization risk.

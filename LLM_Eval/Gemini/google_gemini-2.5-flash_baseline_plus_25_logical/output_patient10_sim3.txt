@@ -1,0 +1,16 @@
+7
+
+*   **BMI (31.6):** +1.5 (Obesity is a significant risk factor for various health complications requiring hospitalization.)
+*   **Family_Health_History (Cancer):** +1.0 (Family history of cancer increases an individual's predisposition to certain diseases, potentially leading to hospitalization.)
+*   **Smoking (Yes):** +2.0 (Smoking is a major risk factor for numerous chronic diseases, including cardiovascular disease, respiratory illnesses, and cancer, all of which can necessitate hospitalization.)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Moderate depression can lead to self-neglect, exacerbation of physical health issues, or mental health crises requiring inpatient care.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Persistent sadness and fatigue can be symptoms of underlying medical conditions or contribute to a decline in overall health, increasing hospitalization risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (Loss of interest, often associated with depression, can lead to reduced self-care and engagement in healthy behaviors, indirectly increasing hospitalization risk.)
+*   **Socioeconomic_Status (Low):** +1.0 (Lower socioeconomic status is often correlated with poorer access to healthcare, higher stress levels, and less healthy lifestyles, all contributing to increased hospitalization risk.)
+*   **Weekly_Alcohol_Intake (3):** -0.5 (Moderate alcohol consumption, within recommended limits, is not typically a direct risk factor for hospitalization and may even have some protective effects for certain conditions.)
+*   **Likes_Vegetables (Yes):** -0.5 (A diet rich in vegetables is associated with better overall health and reduced risk of chronic diseases, thus lowering hospitalization risk.)
+*   **Hours_of_Sleep (7.5):** -0.5 (Adequate sleep is crucial for physical and mental health, reducing the likelihood of illness and the need for hospitalization.)
+*   **Employment (Employed):** -0.5 (Employment often provides access to health insurance and promotes a sense of purpose and routine, which can positively impact health and reduce hospitalization risk.)
+*   **Water_Intake_oz (43.6):** -0.5 (Adequate hydration is essential for bodily functions and can prevent various health issues that might lead to hospitalization.)
+
+The risk score is calculated by summing the contributions of factors known to causally influence health outcomes and the likelihood of hospitalization, with positive values indicating increased risk and negative values indicating decreased risk. Factors like obesity, smoking, depression, and low socioeconomic status are direct contributors to higher hospitalization risk, while healthy habits like adequate sleep, vegetable consumption, and hydration reduce it.

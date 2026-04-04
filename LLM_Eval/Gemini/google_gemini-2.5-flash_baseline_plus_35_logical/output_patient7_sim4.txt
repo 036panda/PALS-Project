@@ -1,0 +1,12 @@
+1. 7.5
+
+2. *   Current_Diagnosis: Schizophrenia: +4.0 (Directly linked to increased hospitalization rates for psychiatric care)
+*   Smoking: Yes: +1.0 (Increases risk of various health complications requiring hospitalization)
+*   HAM-D: 18–24: Moderate Depression: +1.0 (Indicates significant mental health distress, increasing risk of psychiatric hospitalization or complications)
+*   Been_Sad_or_Fatigued: Yes: +0.5 (Symptom of depression, contributing to overall mental health burden)
+*   Loss_of_Interest: Yes: +0.5 (Symptom of depression, contributing to overall mental health burden)
+*   Family_Health_History: Asthma: +0.5 (Genetic predisposition to respiratory issues, increasing risk of hospitalization for asthma exacerbations)
+*   Allergy: Peanut: +0.5 (Risk of anaphylaxis requiring emergency hospitalization)
+*   Age: 18: -0.5 (Generally lower risk of age-related health issues compared to older adults)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to increased hospitalization risk, such as severe mental health conditions, smoking, and significant allergies, while subtracting for protective factors like young age.

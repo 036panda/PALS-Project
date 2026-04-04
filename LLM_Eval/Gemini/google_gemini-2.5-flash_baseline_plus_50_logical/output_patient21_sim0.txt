@@ -1,0 +1,18 @@
+1. 4
+
+2. * Age (42): +0.5 (Slightly elevated risk due to age, but not a primary driver)
+* BMI (26.4): +0.5 (Overweight, contributing to some health risks)
+* Family_Health_History (Cancer): +1.0 (Genetic predisposition to serious illness)
+* Current_Diagnosis (Anxiety): +1.0 (Mental health condition that can exacerbate physical symptoms or lead to hospitalization for crisis)
+* HAM-D (7-17: Mild Depression): +1.0 (Mental health condition, similar to anxiety, can lead to hospitalization for crisis or self-harm)
+* Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of underlying health issues or mental health, increasing risk)
+* Loss_of_Interest (Yes): +0.5 (Symptom of depression, increasing risk)
+* Weekly_Alcohol_Intake (4): +0.0 (Moderate, not a significant risk factor)
+* Smoking (No): -0.5 (Absence of a major risk factor)
+* Hours_of_Sleep (10.2): -0.5 (Adequate sleep, reducing risk)
+* Employment (Employed): -0.5 (Indicates stability and access to resources, reducing risk)
+* Socioeconomic_Status (Middle): -0.5 (Access to resources and healthcare, reducing risk)
+* Exercises (Yes): -0.5 (Positive health behavior, reducing risk)
+* Allergy (Peanut): +0.5 (Risk of anaphylaxis, requiring emergency care)
+
+3. The risk score is calculated by summing the contributions of factors directly related to physical and mental health, and socioeconomic stability. Positive contributions are assigned to conditions or behaviors that increase the likelihood of hospitalization, while negative contributions are assigned to protective factors.

@@ -1,0 +1,19 @@
+1. 2.5
+
+2. *   Age (38): +0.5 (Slightly elevated risk due to age, though not a primary driver at this level)
+*   BMI (21.8): +0.0 (Normal range, no contribution)
+*   Family_Health_History (Asthma): +1.0 (Known genetic predisposition to respiratory issues, increasing hospitalization risk)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical symptoms or lead to health-seeking behaviors, increasing hospitalization likelihood)
+*   Race (Black): +0.0 (No direct causal link to hospitalization risk in this model without further context on systemic factors)
+*   Gender (Non-binary): +0.0 (No direct causal link to hospitalization risk)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (2 units): +0.0 (Low intake, no contribution)
+*   Smoking (No): -0.0 (Absence of a risk factor, no positive contribution)
+*   HAM-D (0-6: Normal / No Depression): -0.0 (Absence of a risk factor, no positive contribution)
+*   Been_Sad_or_Fatigued (No): -0.0 (Absence of a risk factor, no positive contribution)
+*   Loss_of_Interest (No): -0.0 (Absence of a risk factor, no positive contribution)
+*   Hours_of_Sleep (6.3): +0.0 (Within a generally acceptable range, no significant contribution)
+*   Employment (Employed): -0.0 (Often associated with better health outcomes, but not a direct negative contribution in this model)
+*   Socioeconomic_Status (High): -0.0 (Often associated with better health outcomes, but not a direct negative contribution in this model)
+
+3. The risk score is derived from the direct causal contributions of family history of asthma and a current anxiety diagnosis, which are known to increase the likelihood of medical intervention or exacerbation of health issues. Other factors are either within healthy ranges or lack a direct, isolated causal link to hospitalization risk in this model.

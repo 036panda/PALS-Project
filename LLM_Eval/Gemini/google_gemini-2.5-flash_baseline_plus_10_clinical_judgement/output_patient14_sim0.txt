@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +1 (Young adult, often a period of first onset or exacerbation of mental health conditions, especially with a pre-existing diagnosis.)
+*   **BMI (30.9):** +0.5 (Obesity is a comorbidity that can complicate mental health management and overall health, but not a direct driver of psychiatric hospitalization in this context.)
+*   **Family_Health_History (nan):** +0 (Lack of information prevents assessment, so no impact.)
+*   **Current_Diagnosis (Bipolar):** +4 (Bipolar disorder carries a significant risk of hospitalization due to manic or depressive episodes, psychosis, or suicidality.)
+*   **Race (Other):** +0 (No direct impact on hospitalization risk without further context.)
+*   **Gender (Non-binary):** +0.5 (Non-binary individuals may face increased societal stress, discrimination, and barriers to care, potentially increasing mental health crises.)
+*   **Sexual_Orientation (Bisexual):** +0 (No direct impact on hospitalization risk without further context.)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Very low alcohol intake, suggesting responsible use and not a contributing factor to hospitalization.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health indicator, reducing overall health risks.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Current absence of depressive symptoms is a protective factor against hospitalization, especially in bipolar disorder.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms further supports current stability.)
+*   **Loss_of_Interest (Yes):** +1 (Despite a normal HAM-D, "Loss of Interest" can be a subtle sign of residual or emerging mood symptoms, particularly in bipolar disorder, and warrants attention.)
+*   **Hours_of_Sleep (9.7):** +0.5 (While seemingly high, excessive sleep can sometimes be a symptom of a depressive phase or a prodrome to a mood episode in bipolar disorder, or indicate poor sleep quality despite long duration.)
+*   **Employment (Student):** +0 (Neutral impact; can be a source of stress or support.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally indicates access to resources and support, reducing risk compared to lower SES.)
+*   **Drinks_Coffee (No):** +0 (Neutral impact.)
+*   **Likes_Vegetables (No):** +0 (Neutral impact.)
+*   **Favourite_Sport (Soccer):** +0 (Neutral impact.)
+*   **Votes (Never):** +0 (Neutral impact.)
+*   **Height_in_Inches (62):** +0 (Neutral impact.)
+*   **Has_Drivers_License (No):** +0 (Neutral impact.)
+*   **Picks_Up_Litter (Never):** +0 (Neutral impact.)
+*   **Uses_Public_Transportation (Never):** +0 (Neutral impact.)
+*   **Donated_Blood (No):** +0 (Neutral impact.)
+*   **Birthday_Month (April):** +0 (Neutral impact.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with a diagnosis of Bipolar Disorder, despite currently showing no overt depressive symptoms on the HAM-D, presents with a concerning "loss of interest" and potentially excessive sleep, which could indicate subtle mood dysregulation or an impending episode. The inherent instability of bipolar disorder in a young adult, coupled with potential stressors related to gender identity, warrants a moderate to high risk assessment for future hospitalization.

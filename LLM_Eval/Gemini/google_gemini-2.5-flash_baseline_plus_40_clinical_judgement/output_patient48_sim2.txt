@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (46):** +0.5 (Moderate increase in risk with advancing age, though not elderly)
+*   **BMI (28.3):** +1.0 (Overweight, contributing to general health risks)
+*   **Family_Health_History (Heart Disease):** +1.0 (Significant genetic predisposition to a major chronic illness)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Primary driver of hospitalization risk, given the nature of the condition and potential for mood episodes requiring acute care)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of current depressive symptoms, which can exacerbate bipolar disorder)
+*   **Loss_of_Interest (Yes):** +0.5 (While HAM-D is low, this symptom can be an early indicator of mood dysregulation or a residual symptom of bipolar disorder, warranting slight concern)
+*   **Employment (Employed):** -0.5 (Protective factor, indicating stability and routine)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to care and resources)
+*   **Weekly_Alcohol_Intake (2):** -0.2 (Low intake, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major health risk factor)
+*   **Hours_of_Sleep (7.0):** -0.2 (Adequate sleep, a protective factor for mental health)
+*   **Exercises (No):** +0.5 (Lack of exercise contributes to overall poorer physical and mental health outcomes)
+*   **Skips_Breakfast (Yes):** +0.2 (Minor negative impact on overall health and routine)
+*   **Has_Drivers_License (No):** +0.5 (May indicate limited access to transportation for appointments or emergencies, especially if public transport is not always reliable)
+*   **Uses_Public_Transportation (Always):** +0.2 (While good for environment, can be a barrier to timely care in some situations compared to private transport)
+*   **Relationship_Status (Single):** +0.3 (Lack of immediate social support can be a risk factor for mental health crises)
+*   **Allergy (Pollen):** -0.1 (Common allergy, generally not a direct hospitalization risk unless severe, but can impact quality of life)
+*   **Water_Intake_oz (44.8):** -0.1 (Adequate hydration, a minor positive health factor)
+*   **Bilingual (Yes):** -0.1 (May indicate cognitive flexibility and broader social connections, minor protective factor)
+*   **Religious (Yes):** -0.1 (Can provide social support and coping mechanisms, minor protective factor)
+
+3. Clinical Rationale: The primary driver of hospitalization risk for this individual is their current diagnosis of Bipolar Disorder, despite a low HAM-D score, as the inherent nature of the condition carries a risk of acute mood episodes. This risk is moderately exacerbated by an overweight BMI, family history of heart disease, and lack of exercise, while protective factors such as employment, adequate sleep, and absence of smoking mitigate the overall likelihood.

@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   Age (20): +0.5 (Younger age generally correlates with lower hospitalization risk, but not zero, reflecting general health risks.)
+*   BMI (21.0): +0.0 (Normal BMI, no direct contribution to increased risk.)
+*   Family_Health_History (Cancer): +0.5 (Indicates a genetic predisposition to certain health issues, increasing overall risk slightly.)
+*   Current_Diagnosis (Bipolar): +3.0 (Significant mental health condition known to increase hospitalization risk due to potential for acute episodes, medication management, and comorbidity.)
+*   Race (Black): +0.5 (Acknowledging systemic health disparities and increased risk for certain conditions within this demographic.)
+*   Gender (Male): +0.0 (No direct causal link to increased hospitalization risk in this context.)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to increased hospitalization risk.)
+*   Weekly_Alcohol_Intake (0): -0.5 (Absence of alcohol consumption reduces risk.)
+*   Smoking (No): -0.5 (Absence of smoking reduces risk.)
+*   HAM-D (7–17: Mild Depression): +0.5 (While mild, depression can exacerbate existing conditions or lead to further health complications.)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of these symptoms reduces risk.)
+*   Loss_of_Interest (No): -0.5 (Absence of this symptom reduces risk.)
+*   Hours_of_Sleep (5.7): +1.0 (Insufficient sleep is a significant stressor and can negatively impact physical and mental health, increasing risk.)
+*   Employment (Student): +0.0 (No direct causal link to increased hospitalization risk.)
+*   Socioeconomic_Status (Low): +1.0 (Low socioeconomic status is a well-established risk factor for poorer health outcomes and increased hospitalization due to limited access to care, nutrition, and stressful living conditions.)
+
+3. The risk score is computed by summing the individual contributions of each factor, where positive values reflect increased risk and negative values reflect decreased risk, based on established causal relationships between these factors and hospitalization likelihood. The primary drivers of this score are the Bipolar diagnosis, insufficient sleep, and low socioeconomic status, which are known to significantly elevate hospitalization risk.

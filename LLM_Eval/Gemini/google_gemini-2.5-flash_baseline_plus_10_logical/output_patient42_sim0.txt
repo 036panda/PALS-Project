@@ -1,0 +1,16 @@
+1. 3.5
+
+2. *   Age (49): +0.5 (Slightly elevated risk due to increasing age, but not yet in high-risk brackets)
+*   BMI (23.2): +0.0 (Normal BMI, no direct contribution to risk)
+*   Family_Health_History (Asthma): +1.0 (Known genetic predisposition to respiratory issues, increasing hospitalization risk)
+*   Current_Diagnosis (Anxiety): +1.5 (Mental health conditions can exacerbate physical symptoms or lead to health-seeking behaviors, increasing hospitalization likelihood)
+*   Weekly_Alcohol_Intake (4): +0.0 (Moderate intake, not a significant risk factor)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Good mental health indicator, reducing risk)
+*   Loss_of_Interest (Yes): +1.0 (While HAM-D is normal, this symptom can indicate underlying stress or early signs of mental health decline, subtly increasing risk)
+*   Hours_of_Sleep (9.4): -0.5 (Adequate sleep is protective, reducing risk)
+*   Socioeconomic_Status (High): -1.0 (Access to better healthcare, nutrition, and living conditions reduces hospitalization risk)
+*   Likes_Vegetables (No): +1.0 (Poor dietary habits can contribute to various health issues, increasing risk)
+*   Uses_Public_Transportation (Always): +0.5 (Increased exposure to pathogens, slightly elevating risk of infectious diseases)
+
+3. The risk score is calculated by summing the individual contributions of factors known to causally influence hospitalization likelihood, with positive values for risk-increasing factors and negative values for risk-decreasing factors, reflecting their direct impact on health and access to care.

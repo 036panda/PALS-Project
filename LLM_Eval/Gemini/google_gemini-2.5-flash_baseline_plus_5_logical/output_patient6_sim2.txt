@@ -1,0 +1,24 @@
+7
+
+*   **BMI (31.3):** +2.0 (Obesity is a significant risk factor for various health complications requiring hospitalization.)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to respiratory issues can increase hospitalization risk, especially if triggered.)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Untreated or poorly managed anxiety can exacerbate physical symptoms or lead to conditions requiring medical intervention.)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate alcohol consumption, while not extremely high, still carries some health risks over time.)
+*   **Hours_of_Sleep (6.0):** +1.0 (Chronic sleep deprivation weakens the immune system and contributes to various health problems.)
+*   **Socioeconomic_Status (Low):** +1.5 (Lower socioeconomic status is often associated with reduced access to healthcare, poorer nutrition, and higher stress, all contributing to increased hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable intake indicates a potentially poor diet, which can negatively impact overall health and increase susceptibility to illness.)
+*   **Age (36):** +0.0 (Within a relatively healthy age range, no direct positive or negative contribution.)
+*   **Race (White):** +0.0 (No direct causal link to hospitalization risk in this context.)
+*   **Gender (Male):** +0.0 (No direct causal link to hospitalization risk in this context.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk in this context.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depression reduces mental health-related hospitalization risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates better mental and physical well-being.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of this symptom indicates better mental well-being.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and financial stability, reducing risk.)
+*   **Drinks_Coffee (Yes):** +0.0 (No direct causal link to hospitalization risk in this context.)
+*   **Favourite_Sport (Gymnastics):** +0.0 (No direct causal link to hospitalization risk in this context.)
+*   **Votes (Sometimes):** +0.0 (No direct causal link to hospitalization risk in this context.)
+*   **Height_in_Inches (65):** +0.0 (No direct causal link to hospitalization risk in this context.)
+
+The risk score is derived by summing the positive contributions from identified health risk factors (e.g., obesity, poor sleep, low socioeconomic status) and subtracting the negative contributions from protective factors (e.g., no smoking, no depression), reflecting their direct causal impact on the likelihood of requiring hospitalization.

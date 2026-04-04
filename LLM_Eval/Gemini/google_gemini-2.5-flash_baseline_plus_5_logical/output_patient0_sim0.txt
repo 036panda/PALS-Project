@@ -1,0 +1,24 @@
+7.5
+
+*   **Age (37):** +0.5 (Slightly elevated risk due to age, though not a primary driver at this level)
+*   **BMI (20.3):** -0.5 (Healthy BMI, reducing risk)
+*   **Family_Health_History (Heart Disease):** +1.5 (Significant genetic predisposition to a major health issue)
+*   **Current_Diagnosis (Schizophrenia):** +2.0 (Major chronic mental illness with systemic health implications and increased mortality risk)
+*   **Race (Asian):** -0.2 (Generally lower risk for some chronic diseases compared to other groups, but a minor factor)
+*   **Gender (Female):** +0.3 (Some conditions are more prevalent or present differently in females, minor factor here)
+*   **Sexual_Orientation (Homosexual):** +0.5 (Potential for increased stress, discrimination, and healthcare disparities, contributing to risk)
+*   **Weekly_Alcohol_Intake (3):** -0.2 (Moderate intake, potentially protective or neutral)
+*   **Smoking (Yes):** +2.5 (Major, well-established risk factor for numerous severe health conditions)
+*   **HAM-D (25+: Severe Depression):** +2.0 (Severe mental health condition, strongly linked to poorer physical health outcomes and increased mortality)
+*   **Been_Sad_or_Fatigued (No):** -0.3 (Absence of these symptoms, despite severe depression, slightly mitigates immediate acute risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of severe depression, indicating functional impairment)
+*   **Hours_of_Sleep (6.3):** +0.5 (Slightly below optimal, contributing to chronic stress and health issues)
+*   **Employment (Employed):** -0.5 (Positive socioeconomic factor, indicating stability and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes than lower SES)
+*   **Drinks_Coffee (No):** -0.1 (Neutral or slightly negative, as coffee can have some protective effects)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to overall health)
+*   **Favourite_Sport (Basketball):** -0.1 (Indicates potential for physical activity, but not a direct health metric)
+*   **Votes (Never):** +0.2 (May indicate disengagement or lack of civic participation, potentially correlating with broader social determinants of health, but a minor factor)
+*   **Height_in_Inches (71):** 0.0 (Neutral, no direct causal link to hospitalization risk)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to increased or decreased hospitalization risk, with higher weights assigned to established major health determinants like smoking, severe mental illness, and family history. Factors like employment and healthy habits reduce the score, while lifestyle choices and chronic conditions increase it.

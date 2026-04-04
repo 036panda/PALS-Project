@@ -1,0 +1,12 @@
+1. 6.5
+
+2. *   **Current_Diagnosis: Schizophrenia:** +3.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes or management.)
+*   **Smoking: Yes:** +1.0 (Smoking is a significant risk factor for numerous health complications that can lead to hospitalization.)
+*   **Socioeconomic_Status: Low:** +1.0 (Lower socioeconomic status is associated with poorer health outcomes, reduced access to care, and higher hospitalization rates.)
+*   **BMI: 27.3 (Overweight):** +0.5 (Being overweight increases the risk of various health issues that may necessitate hospitalization.)
+*   **HAM-D: 7–17: Mild Depression:** +0.5 (Even mild depression can exacerbate existing conditions or, if untreated, escalate to a point requiring hospitalization.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (Persistent sadness/fatigue can be a symptom of underlying health issues or mental health decline, increasing hospitalization risk.)
+*   **Loss_of_Interest: Yes:** +0.5 (Loss of interest is a key symptom of depression, indicating a potential decline in mental well-being that could lead to hospitalization.)
+*   **Weekly_Alcohol_Intake: 2:** -0.5 (Moderate alcohol consumption, while not entirely risk-free, is generally not a significant hospitalization risk factor and can be associated with social engagement.)
+
+3. The risk score is calculated by summing the positive contributions from factors known to directly or indirectly increase hospitalization likelihood, such as severe mental illness, unhealthy lifestyle choices, and socioeconomic disadvantages, and subtracting any minor mitigating factors. This reflects a direct causal link between these individual characteristics and the probability of requiring hospital care.

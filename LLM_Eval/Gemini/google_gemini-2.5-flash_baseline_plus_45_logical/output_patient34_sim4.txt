@@ -1,0 +1,18 @@
+1. 7
+
+2. *   **BMI (46.7):** +3 (Obesity, especially severe, is a significant risk factor for numerous health complications requiring hospitalization.)
+*   **Current_Diagnosis (Anxiety):** +1 (Anxiety, while not directly causing hospitalization, can exacerbate physical conditions or lead to mental health crises requiring intervention.)
+*   **Smoking (Yes):** +2 (Smoking is a major risk factor for a wide range of severe health issues, including cardiovascular disease, respiratory problems, and cancer, all of which can lead to hospitalization.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (While not a diagnosis, persistent sadness/fatigue can indicate underlying health issues or mental health struggles that might escalate.)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, this can be a symptom of underlying conditions or mental health concerns.)
+*   **Recycling_Habits (Never):** +0 (No direct causal link to hospitalization risk.)
+*   **Orders_Takeout (Daily):** +1 (Frequent takeout, especially daily, often indicates a diet high in processed foods, unhealthy fats, and sodium, contributing to chronic diseases like obesity, heart disease, and diabetes, increasing hospitalization risk.)
+*   **Exercises (Yes):** -1 (Regular exercise is a protective factor against many chronic diseases, reducing the likelihood of hospitalization.)
+*   **Age (19):** -1 (Younger age generally correlates with lower overall health risks compared to older populations.)
+*   **Gender (Female):** +0 (No inherent positive or negative contribution to hospitalization risk in this context.)
+*   **Socioeconomic_Status (Middle):** +0 (No inherent positive or negative contribution to hospitalization risk in this context.)
+*   **Hours_of_Sleep (9.1):** -0.5 (Adequate sleep is generally protective of health.)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol consumption is a protective factor against alcohol-related health issues.)
+*   **Likes_Vegetables (No):** +1 (Lack of vegetable consumption indicates a potentially poor diet, increasing risk for various health problems.)
+
+3. The risk score is calculated by summing the individual contributions of factors known to causally influence hospitalization risk, such as severe obesity, smoking, and poor dietary habits, while subtracting contributions from protective factors like exercise and adequate sleep.

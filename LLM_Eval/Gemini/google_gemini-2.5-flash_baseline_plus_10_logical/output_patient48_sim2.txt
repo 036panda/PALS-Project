@@ -1,0 +1,18 @@
+7
+
+*   Age (46): +0.5 (Increased risk with age, but moderate for this age)
+*   BMI (28.3): +1.0 (Overweight, contributing to various health risks)
+*   Family_Health_History (Heart Disease): +1.5 (Genetic predisposition to a major health issue)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant mental health condition often requiring hospitalization)
+*   Race (Native American): +1.0 (Known disparities in healthcare access and outcomes)
+*   Weekly_Alcohol_Intake (2): +0.0 (Within low-risk guidelines)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Absence of depressive symptoms, which can exacerbate other conditions)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of a common symptom of underlying health issues)
+*   Loss_of_Interest (Yes): +1.0 (A symptom that can be associated with mental health decline or other conditions, despite HAM-D score)
+*   Hours_of_Sleep (7.0): +0.0 (Adequate sleep)
+*   Employment (Employed): -0.5 (Indicates stability and access to resources)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral, neither high nor low risk)
+*   Uses_Public_Transportation (Always): +1.0 (May indicate limited access to personal transportation, potentially impacting healthcare access or exposure to illness)
+
+The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as pre-existing medical conditions, family history, lifestyle choices, and socioeconomic determinants, while mitigating factors reduce the score. The "Loss of Interest" despite a normal HAM-D score suggests a potential underlying issue not fully captured by the depression scale, thus contributing to risk.

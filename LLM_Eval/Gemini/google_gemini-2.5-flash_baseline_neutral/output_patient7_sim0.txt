@@ -1,0 +1,20 @@
+1. Risk Assessment Score: 7
+
+2. Parameter Contributions:
+    * Age (18): -1 (Lower risk due to young age)
+    * BMI (24.5): 0 (Normal weight)
+    * Family_Health_History (Asthma): +1 (Increased risk for respiratory complications, though not directly linked to current diagnosis)
+    * Current_Diagnosis (Schizophrenia): +4 (Significant risk factor for hospitalization due to mental health crisis, medication side effects, or co-occurring conditions)
+    * Race (Native American): +1 (Higher rates of certain health disparities and mental health challenges in some Native American communities)
+    * Gender (Male): 0 (No direct impact on hospitalization risk in this context)
+    * Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk)
+    * Weekly_Alcohol_Intake (0): 0 (No alcohol use, no associated risk)
+    * Smoking (Yes): +1 (Increased risk for various health issues, including respiratory and cardiovascular, which can complicate mental health management)
+    * HAM-D (18-24: Moderate Depression): +1 (Moderate depression adds to the overall mental health burden and potential for crisis)
+    * Been_Sad_or_Fatigued (Yes): 0 (Symptom of depression, already accounted for in HAM-D)
+    * Loss_of_Interest (Yes): 0 (Symptom of depression, already accounted for in HAM-D)
+    * Hours_of_Sleep (8.3): 0 (Adequate sleep, no associated risk)
+    * Employment (Student): 0 (No direct impact on hospitalization risk)
+    * Socioeconomic_Status (Middle): 0 (No direct impact on hospitalization risk)
+
+3. Rationale: The primary driver of this patient's high risk is their current diagnosis of schizophrenia, compounded by moderate depression and smoking, which can exacerbate health issues and complicate mental health management. While young age is a protective factor, the significant mental health challenges warrant a higher risk score.

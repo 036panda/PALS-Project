@@ -1,0 +1,18 @@
+7.5
+
+*   BMI (31.6, indicating obesity): +1.5
+*   Family_Health_History (Cancer): +1.0
+*   Smoking (Yes): +2.0
+*   HAM-D (18–24: Moderate Depression): +1.5
+*   Been_Sad_or_Fatigued (Yes): +0.5
+*   Loss_of_Interest (Yes): +0.5
+*   Socioeconomic_Status (Low): +0.5
+*   Weekly_Alcohol_Intake (3): +0.0 (moderate, no significant positive or negative contribution)
+*   Age (32): +0.0 (young adult, no significant positive or negative contribution)
+*   Hours_of_Sleep (7.5): -0.5 (adequate sleep)
+*   Likes_Vegetables (Yes): -0.5 (positive health habit)
+*   Employment (Employed): -0.5 (positive socioeconomic factor)
+*   Water_Intake_oz (43.6): +0.0 (average, no significant positive or negative contribution)
+*   All other factors (Race, Gender, Sexual_Orientation, Current_Diagnosis, Drinks_Coffee, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels): +0.0 (no direct causal link to hospitalization risk in this model)
+
+The risk score is calculated by summing the contributions of factors known to directly influence health outcomes and hospitalization risk, such as obesity (BMI), family history of serious illness, smoking, and mental health indicators (HAM-D, sadness, loss of interest). Positive contributions are assigned to risk factors, while negative contributions are assigned to protective factors, with all other non-health-related or neutral factors contributing zero.

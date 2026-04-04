@@ -1,0 +1,24 @@
+1. 4.5
+
+2. *   **Age (29):** +0.5 (Slightly elevated risk due to being in the young adult demographic, which can experience higher rates of certain mental health crises, though generally lower than older adults for physical hospitalization.)
+*   **BMI (25.9):** +0.5 (Slightly overweight, contributing to a minor increase in general health risk.)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution.)
+*   **Current_Diagnosis (Anxiety):** +2.0 (Anxiety, especially when severe or poorly managed, can lead to physical symptoms requiring hospitalization or exacerbate existing conditions. It also increases the likelihood of mental health-related hospitalizations.)
+*   **Race (Asian):** +0.0 (No direct causal link to hospitalization risk without further context.)
+*   **Gender (Male):** +0.0 (No direct causal link to hospitalization risk without further context.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Weekly_Alcohol_Intake (5 units):** +0.0 (Within recommended low-risk limits, no contribution.)
+*   **Smoking (No):** -0.5 (Absence of smoking significantly reduces risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of clinical depression significantly reduces mental health-related hospitalization risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +1.0 (While HAM-D is normal, persistent sadness/fatigue, especially with loss of interest, indicates subclinical distress that can escalate or impact physical health.)
+*   **Loss_of_Interest (Yes):** +1.0 (Similar to sadness/fatigue, this indicates a level of psychological distress that, while not clinical depression, can contribute to overall health decline or mental health crises.)
+*   **Hours_of_Sleep (3.7):** +1.5 (Severely inadequate sleep is a significant stressor, impacting both physical and mental health, and increasing susceptibility to illness and mental health crises.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and social support, reducing risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally implies better access to resources and healthcare, reducing risk.)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthier dietary habit, contributing to lower risk.)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Votes (Sometimes):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Height_in_Inches (60):** +0.0 (No direct causal link to hospitalization risk.)
+
+3. The risk score is derived from the cumulative impact of several negative health indicators, including a current anxiety diagnosis, severe sleep deprivation, and subclinical depressive symptoms (sadness/fatigue, loss of interest), which collectively elevate the likelihood of requiring hospitalization despite positive factors like not smoking and being employed.

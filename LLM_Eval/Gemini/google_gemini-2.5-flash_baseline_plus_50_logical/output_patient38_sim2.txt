@@ -1,0 +1,16 @@
+1. 6
+
+2. *   Age (62): +2 (Increased risk with age)
+*   BMI (33.4): +1 (Obesity increases risk)
+*   Current_Diagnosis (Depression): +1 (Mental health conditions can complicate physical health)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating potential for worsening health)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential for worsening health)
+*   Socioeconomic_Status (Low): +1 (Lower socioeconomic status often correlates with poorer health outcomes and access to care)
+*   Skips_Breakfast (Yes): +0.5 (Poor dietary habits can negatively impact health)
+*   Orders_Takeout (Daily): +0.5 (Frequent takeout can indicate a less healthy diet)
+*   Exercises (Yes): -1 (Regular exercise reduces risk)
+*   Likes_Vegetables (Yes): -0.5 (Healthy dietary habit)
+*   Smoking (No): -1 (Absence of smoking significantly reduces risk)
+*   Weekly_Alcohol_Intake (1): -0.5 (Low alcohol intake is not a significant risk factor and can be protective in moderation)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age, BMI, existing diagnoses, socioeconomic status, and lifestyle choices, while subtracting contributions from protective factors. Each contribution reflects a direct causal link to either increased or decreased likelihood of hospitalization.

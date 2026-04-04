@@ -1,0 +1,11 @@
+1. 7.5
+
+2. *   **BMI (46.7):** +3.0 (Causal: High BMI, especially in the obese range, is a direct risk factor for numerous health complications requiring hospitalization, such as cardiovascular disease, diabetes, and respiratory issues.)
+*   **Smoking (Yes):** +2.5 (Causal: Smoking is a direct and significant risk factor for a wide array of severe health conditions, including cancer, heart disease, and chronic respiratory diseases, all of which frequently necessitate hospitalization.)
+*   **Been_Sad_or_Fatigued (Yes):** +1.0 (Causal: While not a direct physical ailment, persistent sadness/fatigue can indicate underlying mental or physical health issues that, if left unaddressed, may escalate and require hospitalization.)
+*   **Loss_of_Interest (Yes):** +1.0 (Causal: Similar to sadness/fatigue, loss of interest can be a symptom of worsening mental health conditions, such as depression, which in severe cases can lead to self-harm or functional impairment requiring inpatient care.)
+*   **Current_Diagnosis (Anxiety):** +0.5 (Causal: While anxiety itself doesn't always lead to hospitalization, severe or poorly managed anxiety can manifest in physical symptoms or panic attacks that may warrant emergency care or short-term hospitalization for stabilization.)
+*   **Age (19):** -0.5 (Causal: Younger age generally correlates with lower overall hospitalization risk due to fewer age-related chronic conditions.)
+*   **Hours_of_Sleep (9.1):** -0.5 (Causal: Adequate sleep is a protective factor for overall health, reducing the likelihood of illness and stress-related conditions that might lead to hospitalization.)
+
+3. The risk score is calculated by summing the positive contributions from direct health risk factors like high BMI and smoking, and symptoms indicating potential underlying health issues, while subtracting contributions from protective factors like young age and adequate sleep. This reflects a causal model where specific individual characteristics directly increase or decrease the likelihood of requiring hospitalization.

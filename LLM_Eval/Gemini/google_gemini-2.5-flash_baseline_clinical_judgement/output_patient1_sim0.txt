@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed Breakdown:
+    * Age (22): -1 (Younger age generally associated with lower risk of medical hospitalization, though mental health risk can be present)
+    * BMI (23.8): 0 (Normal BMI, no direct impact on hospitalization risk)
+    * Family_Health_History (Cancer): 0 (While a risk factor for future cancer, not an immediate driver of hospitalization for current presentation)
+    * Current_Diagnosis (Anxiety): +1 (Can exacerbate mental health crises and contribute to functional impairment)
+    * Race (Other): 0 (No direct impact on hospitalization risk based on this information alone)
+    * Gender (Non-binary): +0.5 (May experience increased stress and discrimination, potentially impacting mental health)
+    * Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk)
+    * Weekly_Alcohol_Intake (7): 0 (Moderate intake, not a significant driver of acute hospitalization)
+    * Smoking (Yes): +1 (Increases risk for various health issues, including respiratory and cardiovascular, which can lead to hospitalization)
+    * HAM-D (25+: Severe Depression): +4 (Severe depression is a primary driver for psychiatric hospitalization due to high risk of self-harm, functional impairment, and need for intensive treatment)
+    * Been_Sad_or_Fatigued (No): -0.5 (Absence of these common depressive symptoms, despite HAM-D score, slightly mitigates overall severity)
+    * Loss_of_Interest (No): -0.5 (Absence of anhedonia, a core depressive symptom, slightly mitigates overall severity)
+    * Hours_of_Sleep (6.3): +0.5 (Suboptimal sleep can worsen mental health and overall physical well-being)
+    * Employment (Student): +0.5 (Academic stress can exacerbate mental health conditions)
+    * Socioeconomic_Status (Low): +1 (Associated with reduced access to care, increased stress, and poorer health outcomes, increasing hospitalization risk)
+
+3. Clinical Rationale: This young adult presents with severe depression and anxiety, compounded by smoking, suboptimal sleep, academic stress, and low socioeconomic status, significantly increasing the likelihood of psychiatric hospitalization for stabilization and intensive treatment. While some depressive symptoms are absent, the overall severity of the HAM-D score and the presence of multiple psychosocial stressors warrant a high level of concern for acute intervention.

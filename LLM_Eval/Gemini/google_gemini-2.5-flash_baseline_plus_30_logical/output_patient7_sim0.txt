@@ -1,0 +1,9 @@
+7
+
+*   **Current_Diagnosis: Schizophrenia:** +5 (Directly increases hospitalization risk due to the nature of the condition and potential for acute episodes requiring inpatient care.)
+*   **Smoking: Yes:** +2 (Increases risk of various health complications, including respiratory issues, which can lead to hospitalization.)
+*   **HAM-D: 18–24: Moderate Depression:** +1 (Moderate depression can exacerbate existing mental health conditions and, if untreated or poorly managed, may lead to a crisis requiring hospitalization.)
+*   **Family_Health_History: Asthma:** +1 (Indicates a genetic predisposition to respiratory issues, which could increase the likelihood of hospitalization if the individual develops asthma or other related conditions.)
+*   **Age: 18:** -1 (Generally, younger adults have lower hospitalization rates compared to older adults, assuming no other significant health issues.)
+
+The risk score is calculated by summing the positive contributions from factors directly increasing hospitalization risk (Schizophrenia, Smoking, Moderate Depression, Family History of Asthma) and subtracting a minor negative contribution for being a young adult, reflecting a generally lower baseline risk for this age group. The causal basis is that certain medical and lifestyle factors directly increase the likelihood of needing inpatient care, while age can offer a slight protective effect in the absence of other severe conditions.

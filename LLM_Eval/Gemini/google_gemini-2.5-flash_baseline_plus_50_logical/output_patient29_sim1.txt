@@ -1,0 +1,13 @@
+1. 6
+
+2. *   BMI (35.9): +2 (Obesity is a significant risk factor for various health complications requiring hospitalization.)
+*   Family_Health_History (Cancer): +1 (Indicates a genetic predisposition to serious illness, increasing overall health risk.)
+*   Current_Diagnosis (Anxiety): +1 (While not directly a physical hospitalization cause, severe anxiety can lead to physical symptoms or exacerbate existing conditions, potentially requiring hospitalization for stabilization or treatment.)
+*   Weekly_Alcohol_Intake (4): +0 (Moderate intake, not a significant direct risk factor for hospitalization.)
+*   Smoking (No): -1 (Absence of smoking reduces risk.)
+*   HAM-D (7–17: Mild Depression): +1 (Depression, even mild, can impact overall health, adherence to treatment, and potentially lead to worsening conditions requiring intervention.)
+*   Hours_of_Sleep (5.7): +1 (Insufficient sleep is linked to weakened immune function and increased risk of various health issues.)
+*   Socioeconomic_Status (Middle): +0 (Neutral impact on hospitalization risk compared to very low or very high.)
+*   Allergy (Gluten): +1 (Requires careful dietary management; accidental exposure can lead to severe reactions requiring medical attention.)
+
+3. The risk score is computed by summing the individual contributions of factors known to causally influence hospitalization risk, such as obesity, family history of serious illness, existing mental health conditions, and insufficient sleep, while subtracting for protective factors like not smoking.

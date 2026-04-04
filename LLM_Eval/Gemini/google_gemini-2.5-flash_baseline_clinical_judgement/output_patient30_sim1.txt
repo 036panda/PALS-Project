@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed Breakdown:
+    *   **Age (49):** +0.5 (Middle-aged, generally lower risk than very young or very old, but not protective)
+    *   **BMI (29.7):** +0.5 (Approaching overweight/obese, which can exacerbate mental health conditions and general health, slightly increasing risk)
+    *   **Family_Health_History (nan):** +0 (Lack of information prevents assessment, so no impact)
+    *   **Current_Diagnosis (Bipolar):** +4.0 (Significant risk factor for hospitalization due to potential for severe mood episodes, psychosis, and suicidality)
+    *   **Race (Native American):** +0.5 (Systemic health disparities and access to care issues can slightly increase risk)
+    *   **Gender (Female):** +0.5 (Women are more frequently diagnosed with bipolar disorder and may experience different symptom presentations, slightly increasing risk)
+    *   **Sexual_Orientation (Other):** +0.5 (Minority stress and potential for discrimination can contribute to mental health challenges and increase risk)
+    *   **Weekly_Alcohol_Intake (2):** +0 (Low intake, not a significant risk factor)
+    *   **Smoking (No):** -0.5 (Protective factor, indicating better overall health choices)
+    *   **HAM-D (7–17: Mild Depression):** +1.0 (While mild, the presence of depressive symptoms in a bipolar patient indicates ongoing mood dysregulation and potential for worsening)
+    *   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these common depressive symptoms is a positive sign)
+    *   **Loss_of_Interest (Yes):** +1.0 (Anhedonia is a core symptom of depression and can indicate a more severe or persistent mood episode)
+    *   **Hours_of_Sleep (5.8):** +1.0 (Insufficient sleep can trigger or worsen mood episodes in bipolar disorder, significantly increasing risk)
+    *   **Employment (Employed):** -0.5 (Protective factor, indicating stability and routine)
+    *   **Socioeconomic_Status (Middle):** -0.5 (Protective factor, indicating better access to resources and support)
+
+3. Clinical Rationale: This patient, diagnosed with Bipolar Disorder, presents with several concerning factors including insufficient sleep and anhedonia, which significantly elevate the risk of hospitalization despite protective factors like employment and moderate alcohol intake. The presence of mild depressive symptoms, coupled with the inherent instability of bipolar disorder, warrants close monitoring and proactive intervention.

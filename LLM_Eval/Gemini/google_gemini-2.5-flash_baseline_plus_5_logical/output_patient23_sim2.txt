@@ -1,0 +1,24 @@
+1. 7
+
+2. *   **Age (56):** +1 (Increased risk with age, though not elderly, still a factor)
+    *   **BMI (31.1):** +1 (Obese, a known risk factor for various health complications)
+    *   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues, which can complicate other conditions)
+    *   **Current_Diagnosis (Schizophrenia):** +3 (Significant mental health condition often requiring hospitalization for management or acute episodes)
+    *   **Race (Black):** +0.5 (Acknowledged systemic health disparities and increased risk for certain conditions)
+    *   **Gender (Other):** +0.5 (May face unique healthcare access challenges or discrimination, increasing risk)
+    *   **Sexual_Orientation (Heterosexual):** +0 (No direct causal link to increased hospitalization risk)
+    *   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol consumption is a protective factor)
+    *   **Smoking (No):** -1 (Absence of smoking is a significant protective factor)
+    *   **HAM-D (0-6: Normal / No Depression):** -1 (Absence of depression is a protective mental health factor)
+    *   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms is a protective mental health factor)
+    *   **Loss_of_Interest (Yes):** +1 (Despite normal HAM-D, this symptom can indicate underlying mental distress or early signs of relapse, increasing risk)
+    *   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep is a protective health factor)
+    *   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and financial stability, reducing risk)
+    *   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to resources and healthcare than lower status)
+    *   **Drinks_Coffee (No):** +0 (No direct causal link to hospitalization risk)
+    *   **Likes_Vegetables (No):** +0.5 (Lack of vegetable consumption can indicate a less healthy diet, contributing to overall health risk)
+    *   **Favourite_Sport (Basketball):** +0 (No direct causal link to hospitalization risk)
+    *   **Votes (Never):** +0 (No direct causal link to hospitalization risk)
+    *   **Height_in_Inches (63):** +0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate protective factors. The primary drivers of this score are the current diagnosis of schizophrenia and obesity, with other factors like age, race, gender identity, and lack of vegetable consumption adding to the risk, while protective factors like no smoking, no alcohol, and adequate sleep mitigate it.

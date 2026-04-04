@@ -1,0 +1,21 @@
+1. 2.0
+
+2. *   Age (32): +0.5 (Risk increases with age, but 32 is relatively young, so a minor positive contribution)
+*   BMI (23.2): +0.0 (Normal range, no direct contribution)
+*   Weekly_Alcohol_Intake (6 units): +0.5 (Moderate intake, minor positive contribution to risk)
+*   Smoking (No): -1.0 (Significant protective factor)
+*   HAM-D (Normal / No Depression): -1.0 (Significant protective factor)
+*   Been_Sad_or_Fatigued (No): -0.5 (Protective factor)
+*   Loss_of_Interest (No): -0.5 (Protective factor)
+*   Hours_of_Sleep (6.8): +0.5 (Slightly below optimal 7-9 hours, minor positive contribution)
+*   Employment (Employed): -0.5 (Protective factor, often correlates with better health access/outcomes)
+*   Socioeconomic_Status (High): -1.0 (Significant protective factor, often correlates with better health access/outcomes)
+*   Likes_Vegetables (No): +0.5 (Minor positive contribution to risk due to potential dietary deficiencies)
+*   Exercises (No): +1.0 (Significant positive contribution to risk)
+*   Orders_Takeout (Daily): +1.0 (Significant positive contribution to risk due to potential for unhealthy diet)
+*   Water_Intake_oz (42.8): +0.5 (Slightly below recommended intake, minor positive contribution)
+*   Allergy (Shellfish): +0.5 (Minor positive contribution to risk due to potential for allergic reactions)
+*   Has_Drivers_License (No): +0.5 (Minor positive contribution to risk, potentially indicating limited access to healthcare or other resources)
+*   Uses_Public_Transportation (Always): +0.5 (Minor positive contribution to risk, potentially indicating limited access to healthcare or other resources)
+
+3. The risk score is calculated by summing the contributions of various health and lifestyle factors, where positive values increase risk and negative values decrease it. Factors like smoking, good mental health, and high socioeconomic status are protective, while lack of exercise, daily takeout, and insufficient sleep contribute to increased risk.

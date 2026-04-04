@@ -1,0 +1,24 @@
+1. 4
+
+2. *   **Age (20):** +0 (While age can be a factor, at 20, it's not a significant independent risk for hospitalization without other compounding factors.)
+*   **BMI (21.0):** +0 (Healthy BMI, no contribution to risk.)
+*   **Family_Health_History (Cancer):** +1 (Indicates a genetic predisposition to certain health issues, which, while not directly causing hospitalization now, increases overall health vulnerability.)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder is a significant mental health condition that can lead to hospitalization for mood episodes, medication management, or safety concerns.)
+*   **Race (Black):** +0 (Race itself is not a causal factor for hospitalization; however, systemic health disparities can exist, but without further context on socioeconomic or healthcare access, it's not assigned a direct causal contribution here.)
+*   **Gender (Male):** +0 (Gender itself is not a direct causal factor for hospitalization.)
+*   **Sexual_Orientation (Heterosexual):** +0 (Sexual orientation is not a direct causal factor for hospitalization.)
+*   **Weekly_Alcohol_Intake (0):** +0 (No alcohol intake is a positive health behavior.)
+*   **Smoking (No):** +0 (Not smoking is a positive health behavior.)
+*   **HAM-D (7–17: Mild Depression):** +1 (Mild depression, while not severe, can exacerbate existing mental health conditions or contribute to a decline in self-care, increasing the likelihood of needing more intensive care.)
+*   **Been_Sad_or_Fatigued (No):** +0 (Absence of these symptoms is a positive indicator.)
+*   **Loss_of_Interest (No):** +0 (Absence of this symptom is a positive indicator.)
+*   **Hours_of_Sleep (5.7):** +1 (Chronic sleep deprivation can negatively impact mental and physical health, potentially exacerbating bipolar symptoms or leading to other health issues requiring hospitalization.)
+*   **Employment (Student):** +0 (Being a student is not a direct causal factor for hospitalization.)
+*   **Socioeconomic_Status (Low):** +1 (Low socioeconomic status can be associated with reduced access to healthcare, poorer nutrition, and higher stress levels, indirectly increasing the risk of conditions requiring hospitalization.)
+*   **Drinks_Coffee (Yes):** +0 (Coffee consumption is not a direct causal factor for hospitalization.)
+*   **Likes_Vegetables (Yes):** +0 (Positive health behavior, no contribution to risk.)
+*   **Favourite_Sport (Hockey):** +0 (Hobbies are not direct causal factors for hospitalization.)
+*   **Votes (Sometimes):** +0 (Voting habits are not direct causal factors for hospitalization.)
+*   **Height_in_Inches (70):** +0 (Height is not a direct causal factor for hospitalization.)
+
+3. The risk score is calculated by summing the contributions of factors that directly or indirectly increase the likelihood of hospitalization, such as a significant mental health diagnosis (Bipolar), co-occurring mental health symptoms (Mild Depression), and lifestyle/socioeconomic factors that can impact health and access to care (Sleep Deprivation, Low Socioeconomic Status, Family History of Cancer).

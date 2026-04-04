@@ -1,0 +1,16 @@
+7
+
+**Input Factors and Contributions:**
+
+*   **Age (63):** +2 (Increased risk with advancing age due to general physiological decline and higher prevalence of chronic conditions.)
+*   **BMI (33.3 - Obese Class I):** +2 (Obesity is a significant risk factor for numerous health complications requiring hospitalization, including cardiovascular disease, diabetes, and respiratory issues.)
+*   **Family_Health_History (Heart Disease):** +1 (Genetic predisposition to heart disease increases the individual's risk of cardiac events requiring hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +2 (Bipolar disorder is a serious mental health condition that can lead to psychiatric crises, medication side effects, or co-occurring physical health issues requiring hospitalization.)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Low alcohol intake is generally not a significant risk factor and may even have minor protective effects for some conditions, though this is not a strong negative contributor.)
+*   **Smoking (No):** -1 (Absence of smoking significantly reduces risk for a wide range of respiratory, cardiovascular, and oncological conditions that often lead to hospitalization.)
+*   **HAM-D (7-17: Mild Depression):** +1 (While mild, depression can exacerbate existing conditions, impair self-care, or, if untreated, progress to more severe states requiring intervention.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally correlates with better access to healthcare, nutrition, and living conditions, reducing hospitalization risk compared to lower statuses.)
+
+**Justification:**
+
+The risk score is derived by summing the positive and negative contributions of factors directly and causally linked to hospitalization risk, such as age, obesity, family history of disease, and mental health diagnoses, while mitigating factors like non-smoking and moderate alcohol intake reduce the score.

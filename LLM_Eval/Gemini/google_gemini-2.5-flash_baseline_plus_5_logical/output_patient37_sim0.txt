@@ -1,0 +1,17 @@
+1. 6.5
+
+2. *   **Age (53):** +1.0 (Age over 50 increases risk)
+*   **BMI (25.3):** +0.5 (BMI in overweight range increases risk)
+*   **Family_Health_History (Asthma):** +0.5 (Family history of chronic respiratory conditions increases risk)
+*   **Current_Diagnosis (Depression):** +1.0 (Presence of a mental health diagnosis increases risk)
+*   **Race (Black):** +0.5 (Certain racial groups may experience disparities in healthcare access and outcomes, increasing risk)
+*   **Gender (Male):** +0.5 (Males may have different health-seeking behaviors or predispositions to certain conditions)
+*   **Weekly_Alcohol_Intake (4):** +0.5 (Moderate alcohol intake can contribute to health issues)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Moderate depression severity directly increases hospitalization risk)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep (less than 7 hours) increases health risks)
+*   **Employment (Employed):** -0.5 (Employment generally indicates better socioeconomic stability and access to care, reducing risk)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally indicates better access to resources, reducing risk)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits increase health risks)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk due to factors like age, BMI, existing diagnoses, and lifestyle choices, while negative values reflect protective factors such as not smoking and stable employment. Each contribution reflects a direct causal link to hospitalization risk based on established health determinants.

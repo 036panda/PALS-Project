@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   Age (90): +3.0 (Advanced age significantly increases hospitalization risk due to general physiological decline and increased susceptibility to illness.)
+*   BMI (32.5): +1.5 (Obesity (BMI > 30) is a known risk factor for numerous health complications requiring hospitalization.)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to hypertension increases the individual's own risk of developing related conditions that may lead to hospitalization.)
+*   Current_Diagnosis (Depression): +0.0 (While depression can be a risk factor, the HAM-D score indicates no current depression, negating this specific risk.)
+*   Race (Hispanic): +0.0 (No direct causal link to increased hospitalization risk in this model without further specific health disparities data.)
+*   Gender (Non-binary): +0.0 (No direct causal link to increased hospitalization risk in this model.)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to increased hospitalization risk in this model.)
+*   Weekly_Alcohol_Intake (4): +0.0 (Moderate alcohol intake (below 14 units/week for men, 7 for women) is not considered a significant risk factor for hospitalization.)
+*   Smoking (Yes): +1.5 (Active smoking is a major risk factor for a wide range of diseases requiring hospitalization.)
+*   HAM-D (0–6: Normal / No Depression): -0.0 (Indicates no current depressive symptoms, thus no contribution to risk from this factor.)
+*   Been_Sad_or_Fatigued (No): -0.0 (Absence of these symptoms reduces risk.)
+*   Loss_of_Interest (No): -0.0 (Absence of this symptom reduces risk.)
+*   Hours_of_Sleep (7.4): +0.0 (Within healthy range, no contribution to risk.)
+*   Employment (Retired): +0.0 (No direct causal link to increased hospitalization risk in this model.)
+*   Socioeconomic_Status (Middle): +0.0 (Generally associated with better access to healthcare, thus no positive contribution to risk.)
+
+3. The risk score is calculated by summing the positive contributions from established risk factors such as advanced age, obesity, and smoking, which are known to causally increase the likelihood of hospitalization. Factors indicating good health or no direct causal link to increased risk contribute zero.

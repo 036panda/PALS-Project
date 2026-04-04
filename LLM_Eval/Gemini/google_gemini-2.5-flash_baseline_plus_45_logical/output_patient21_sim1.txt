@@ -1,0 +1,15 @@
+1. 5.5
+
+2. *   Age (42): +0.5 (Moderate increase in risk with age, but not elderly)
+*   BMI (26.4): +0.5 (Slightly overweight, contributing to minor risk)
+*   Family_Health_History (Cancer): +1.0 (Significant genetic predisposition to health issues)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical health risks and lead to hospitalization)
+*   Weekly_Alcohol_Intake (4): +0.2 (Moderate alcohol intake, minor contribution)
+*   HAM-D (7–17: Mild Depression): +1.0 (Depression is a significant mental health concern that can lead to hospitalization)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of potential underlying health issues or mental distress)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of potential underlying health issues or mental distress)
+*   Hours_of_Sleep (10.2): -0.5 (Adequate sleep is generally protective, but excessive sleep could indicate an underlying issue; here, interpreted as beneficial)
+*   Allergy (Peanut): +0.8 (Risk of severe allergic reaction requiring hospitalization)
+*   Exercises (Yes): -0.5 (Regular exercise is a protective factor)
+
+3. The risk score is calculated by summing the individual contributions of factors known to causally influence hospitalization risk, such as pre-existing conditions, lifestyle choices, and family history, while subtracting contributions from protective factors. Each factor's contribution is weighted based on its established impact on health outcomes and the likelihood of requiring medical intervention.

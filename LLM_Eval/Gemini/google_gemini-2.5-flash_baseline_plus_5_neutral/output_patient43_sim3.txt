@@ -1,0 +1,25 @@
+1. Risk Assessment Score: 3
+
+2. Parameter Risk Values:
+    * Age (20): -1 (Lower risk due to young age)
+    * BMI (21.0): 0 (Healthy range)
+    * Family_Health_History (Cancer): +1 (Increased risk due to family history of chronic disease)
+    * Current_Diagnosis (Bipolar): +2 (Significant risk factor for hospitalization)
+    * Race (Black): +1 (Some studies suggest higher hospitalization rates for certain conditions in this demographic, though this is a complex and multifactorial issue)
+    * Gender (Male): 0 (No direct impact on hospitalization risk in this context)
+    * Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk)
+    * Weekly_Alcohol_Intake (0): 0 (No alcohol consumption, no associated risk)
+    * Smoking (No): 0 (Non-smoker, no associated risk)
+    * HAM-D (7–17: Mild Depression): 0 (Mild depression, not a primary driver for hospitalization in itself without other severe symptoms)
+    * Been_Sad_or_Fatigued (No): 0 (Absence of these symptoms reduces risk)
+    * Loss_of_Interest (No): 0 (Absence of this symptom reduces risk)
+    * Hours_of_Sleep (5.7): +1 (Slightly below recommended, can contribute to overall health issues)
+    * Employment (Student): 0 (No direct impact on hospitalization risk)
+    * Socioeconomic_Status (Low): +1 (Associated with higher risk of various health issues and hospitalization)
+    * Drinks_Coffee (Yes): 0 (No direct impact on hospitalization risk)
+    * Likes_Vegetables (Yes): 0 (Positive health habit, but no direct negative risk)
+    * Favourite_Sport (Hockey): 0 (No direct impact on hospitalization risk)
+    * Votes (Sometimes): 0 (No direct impact on hospitalization risk)
+    * Height_in_Inches (70): 0 (No direct impact on hospitalization risk)
+
+3. Rationale: The patient's primary risk factors are their bipolar diagnosis, low socioeconomic status, and family history of cancer. These are partially offset by their young age and healthy lifestyle choices in other areas.

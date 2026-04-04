@@ -1,0 +1,20 @@
+1. Risk Assessment Score: 4.5
+
+2. Parameter Risk Values:
+    * Age (49): +0.5 (Slightly elevated risk for hospitalization compared to younger adults)
+    * BMI (29.7): +0.5 (Approaching obesity, which increases hospitalization risk)
+    * Current_Diagnosis (Bipolar): +2.0 (Significant risk factor for hospitalization due to mental health crises and comorbidities)
+    * Race (Native American): +0.5 (Higher rates of certain chronic conditions and healthcare disparities can increase hospitalization risk)
+    * Gender (Female): +0.0 (No direct positive or negative risk for hospitalization based on gender alone in this context)
+    * Weekly_Alcohol_Intake (2): -0.2 (Moderate alcohol intake, potentially protective for some cardiovascular conditions, but not a significant factor for hospitalization risk)
+    * Smoking (No): -0.5 (Absence of smoking is a protective factor)
+    * HAM-D (7–17: Mild Depression): +0.5 (Mild depression can increase the likelihood of seeking medical attention or exacerbating existing conditions)
+    * Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential for worsening mental health)
+    * Hours_of_Sleep (5.8): +0.5 (Insufficient sleep can negatively impact overall health and increase susceptibility to illness)
+    * Employment (Employed): -0.2 (Employment often correlates with better health outcomes and access to care)
+    * Socioeconomic_Status (Middle): -0.2 (Middle socioeconomic status generally associated with better health access and outcomes than lower SES)
+    * Likes_Vegetables (No): +0.2 (Poor dietary habits can contribute to health issues)
+    * Uses_Public_Transportation (Always): +0.2 (Increased exposure to infectious diseases)
+    * Donated_Blood (Yes): -0.3 (Suggests a generally healthy individual, as there are health requirements for blood donation)
+
+3. Rationale: The patient's primary risk factors are her bipolar diagnosis, which significantly increases hospitalization likelihood, and several contributing factors like mild depression, insufficient sleep, and a BMI approaching obesity. These are partially offset by the absence of smoking, moderate alcohol intake, and being employed with a middle socioeconomic status.

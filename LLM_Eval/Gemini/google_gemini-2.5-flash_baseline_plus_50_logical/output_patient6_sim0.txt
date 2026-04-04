@@ -1,0 +1,26 @@
+1. 3.0
+
+2. *   Age (36): +0.0 (No significant risk increase for this age)
+*   BMI (31.3): +1.0 (Obesity, BMI > 30, is a risk factor)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues)
+*   Current_Diagnosis (Anxiety): +0.5 (Mental health conditions can impact physical health and healthcare-seeking behavior)
+*   Weekly_Alcohol_Intake (5 units): +0.0 (Within moderate limits, no significant risk)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (Normal / No Depression): -0.5 (Absence of depression, a protective factor)
+*   Been_Sad_or_Fatigued (No): -0.2 (Absence of symptoms often associated with underlying health issues)
+*   Loss_of_Interest (No): -0.2 (Absence of symptoms often associated with underlying health issues)
+*   Hours_of_Sleep (6.0): +0.5 (Less than recommended 7-9 hours, can impact immune function and overall health)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer access to healthcare, nutrition, and higher stress levels)
+*   Likes_Vegetables (No): +0.5 (Indicates potentially poor dietary habits, impacting overall health)
+*   Has_Drivers_License (No): +0.2 (May indicate limited access to transportation for healthcare appointments)
+*   Uses_Public_Transportation (Always): +0.2 (Increased exposure to pathogens, especially if not combined with other protective measures)
+*   Water_Intake_oz (42.8): +0.2 (Slightly below recommended daily intake, can impact hydration and overall health)
+*   Allergy (Pollen): +0.2 (Indicates a pre-existing immune sensitivity, potentially exacerbating respiratory issues)
+*   Skips_Breakfast (Yes): +0.2 (Associated with poorer dietary habits and potential metabolic issues)
+*   Exercises (Yes): -0.5 (Protective factor for overall health)
+*   Orders_Takeout (Never): -0.2 (Suggests healthier eating habits compared to frequent takeout consumption)
+*   Helps_Elderly (Always): -0.1 (Indicates a pro-social behavior, potentially linked to better mental well-being)
+*   Has_Cheated_on_an_Assignment_Before (Yes): +0.1 (Indicates a propensity for risk-taking or disregard for rules, which *could* correlate with health behaviors, though this is a weak link)
+*   Recycling_Habits (Never): +0.1 (Indicates a lack of engagement in community health/environmental practices, a very weak proxy for general health consciousness)
+
+3. The risk score is calculated by summing the contributions of various health, lifestyle, and socioeconomic factors, where positive values indicate increased risk and negative values indicate protective factors, based on established medical and public health correlations. Factors like obesity, low socioeconomic status, and poor sleep habits contribute positively, while healthy behaviors like exercise and absence of depression contribute negatively.

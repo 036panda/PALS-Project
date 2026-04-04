@@ -1,0 +1,23 @@
+7
+
+**Input Factors and Contributions:**
+
+*   **Current_Diagnosis: Schizophrenia:** +4 (Strongly increases hospitalization risk due to severe mental health condition often requiring inpatient care)
+*   **Family_Health_History: Heart Disease:** +1 (Indicates a genetic predisposition to cardiovascular issues, increasing long-term health risks)
+*   **BMI: 27.1 (Overweight):** +1 (Elevated BMI is a risk factor for various health complications)
+*   **HAM-D: 7–17: Mild Depression:** +1 (While mild, depression can exacerbate other conditions or lead to self-neglect)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (Symptoms of potential underlying health issues or worsening mental health)
+*   **Loss_of_Interest: Yes:** +0.5 (Another indicator of potential mental health decline or chronic stress)
+*   **Exercises: No:** +1 (Lack of physical activity is a significant risk factor for numerous health problems)
+*   **Orders_Takeout: Daily:** +1 (Frequent consumption of takeout often correlates with poorer dietary choices and higher intake of unhealthy foods)
+*   **Skips_Breakfast: Yes:** +0.5 (Irregular eating habits can negatively impact metabolism and overall health)
+*   **Weekly_Alcohol_Intake: 2:** -0.5 (Moderate alcohol intake, within recommended limits, is not a significant risk factor and may even have minor protective effects for some conditions)
+*   **Hours_of_Sleep: 8.9:** -0.5 (Adequate sleep is crucial for physical and mental health)
+*   **Smoking: No:** -1 (Absence of smoking significantly reduces risk for numerous diseases)
+*   **Likes_Vegetables: No:** +0.5 (Lack of vegetable consumption indicates a potentially unhealthy diet)
+*   **Water_Intake_oz: 43.4:** -0.5 (Adequate hydration is beneficial for overall health)
+*   **Allergy: Pollen:** +0.5 (Allergies can sometimes lead to severe reactions requiring medical attention or exacerbate respiratory issues)
+
+**Justification:**
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to increased or decreased hospitalization likelihood, with a strong emphasis on current diagnoses, lifestyle choices, and family history. Factors with no direct or established causal link to hospitalization risk were assigned a neutral contribution of zero.

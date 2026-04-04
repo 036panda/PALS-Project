@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 5
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (46):** +0.5 (Middle age, while not elderly, can present with increasing health concerns compared to younger adults, especially with co-morbidities.)
+*   **BMI (28.3):** +0.5 (Overweight, approaching obese, which is a risk factor for various health complications.)
+*   **Family_Health_History (Heart Disease):** +1.0 (Significant genetic predisposition to a major chronic illness.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is a primary driver of hospitalization risk due to potential for manic or depressive episodes requiring acute stabilization.)
+*   **Race (Native American):** +0.5 (Certain health disparities exist within this population, including higher rates of some chronic conditions and challenges in accessing care, which can increase hospitalization risk.)
+*   **Gender (Non-binary):** +0.0 (No direct impact on hospitalization risk based on current clinical evidence.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Low alcohol intake, generally considered within healthy limits, reducing risk.)
+*   **Smoking (No):** -1.0 (Absence of a major modifiable risk factor for numerous diseases.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of current depressive symptoms, which is a positive factor for a patient with bipolar disorder, indicating a period of relative stability.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms further supports current mental stability.)
+*   **Loss_of_Interest (Yes):** +0.5 (While HAM-D is low, "loss of interest" can be a subtle indicator of residual or emerging mood symptoms, particularly in bipolar disorder, warranting vigilance.)
+*   **Hours_of_Sleep (7.0):** -0.5 (Adequate sleep, a protective factor for overall health and mood stability.)
+*   **Employment (Employed):** -0.5 (Indicates a degree of functional stability and social engagement, which are protective factors.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources compared to lower SES.)
+*   **Drinks_Coffee (Yes):** +0.0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to overall health.)
+*   **Favourite_Sport (Basketball):** +0.0 (No direct impact on hospitalization risk.)
+*   **Votes (Never):** +0.0 (No direct impact on hospitalization risk.)
+*   **Height_in_Inches (65):** +0.0 (No direct impact on hospitalization risk.)
+
+3. Clinical-style rationale: This non-binary individual with a bipolar diagnosis carries a moderate risk of hospitalization, primarily driven by their underlying mental health condition and family history of heart disease, despite current mental stability and several positive lifestyle and socioeconomic factors. The presence of "loss of interest" warrants careful monitoring for potential mood shifts.

@@ -1,0 +1,16 @@
+1. **Final Hospitalization Risk Score:** 4
+
+2. **Detailed Breakdown of Attribute Impact:**
+
+*   **Age (18):** -1 (Younger age generally associated with lower risk of hospitalization for chronic conditions, though mental health crises can occur at any age.)
+*   **BMI (25.6):** 0 (Normal weight, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Hypertension):** +0.5 (While a risk factor for future health issues, at 18, the immediate impact on hospitalization is low unless there are early onset complications, which are not indicated.)
+*   **Current_Diagnosis (Bipolar):** +4 (This is a significant risk factor for hospitalization, particularly for mood episodes, medication management, or safety concerns.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Absence of current depressive symptoms reduces the immediate risk of hospitalization related to mood episodes.)
+*   **Hours_of_Sleep (5.7):** +1 (Suboptimal sleep can exacerbate mental health conditions and contribute to overall health decline, increasing risk.)
+*   **Socioeconomic_Status (High):** -0.5 (Higher socioeconomic status often correlates with better access to care and resources, potentially reducing hospitalization risk.)
+*   **Exercises (Yes):** -0.5 (Regular exercise is beneficial for both physical and mental health, reducing overall risk.)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits can negatively impact overall health, potentially increasing risk over time.)
+*   **Relationship_Status (Single):** +1 (Lack of immediate social support can be a risk factor for individuals with mental health conditions, especially during crises.)
+
+3. **Clinical Rationale:** This 18-year-old individual presents with a primary diagnosis of Bipolar Disorder, which is the most significant driver of hospitalization risk, despite currently stable mood and high socioeconomic status. Suboptimal sleep and lack of immediate social support contribute to a moderate overall risk, necessitating ongoing monitoring and proactive management of their mental health.

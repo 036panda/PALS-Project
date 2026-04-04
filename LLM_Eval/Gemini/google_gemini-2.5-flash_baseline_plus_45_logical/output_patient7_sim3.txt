@@ -1,0 +1,15 @@
+1. 6.5
+
+2. *   **Age (18):** -0.5 (Lower risk due to young age)
+*   **BMI (24.5):** 0.0 (Normal BMI)
+*   **Family_Health_History (Asthma):** +0.5 (Increased risk due to family history of respiratory condition)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant risk factor for hospitalization)
+*   **Smoking (Yes):** +1.0 (Increased risk due to smoking)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Increased risk due to moderate depression)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom contributing to mental health risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom contributing to mental health risk)
+*   **Hours_of_Sleep (8.3):** -0.5 (Adequate sleep, reducing risk)
+*   **Exercises (Yes):** -0.5 (Positive health behavior, reducing risk)
+*   **Allergy (Peanut):** +0.5 (Potential for severe allergic reaction requiring hospitalization)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as existing medical conditions, mental health status, family history of illness, and lifestyle choices, while mitigating factors like adequate sleep and exercise reduce the score.

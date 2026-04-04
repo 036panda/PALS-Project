@@ -1,0 +1,14 @@
+1. 4.5
+
+2. *   Age (56): +1.0 (Increased risk with age, particularly above 50)
+*   BMI (28.0): +0.5 (Slightly elevated BMI, indicating overweight status)
+*   Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol intake, potential long-term health implications)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mild depression is a known comorbidity and can impact overall health)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential for worsening mental health)
+*   Hours_of_Sleep (6.1): +0.5 (Less than optimal sleep, associated with various health issues)
+*   Likes_Vegetables (No): +0.5 (Lack of vegetable intake is a dietary risk factor)
+*   Skips_Breakfast (Yes): +0.5 (Skipping meals can negatively impact metabolism and overall health)
+*   Allergy (Tree Nuts): +0.0 (Allergies are not directly a hospitalization risk unless severe and unmanaged, which is not indicated)
+*   All other factors: +0.0 (No direct causal link to increased or decreased hospitalization risk based on the provided information)
+
+3. The risk score is calculated by summing the positive contributions of identified health risk factors, such as age, BMI, alcohol intake, depression symptoms, and poor lifestyle choices (sleep, diet). Factors without a clear causal link to hospitalization risk are assigned a zero contribution.

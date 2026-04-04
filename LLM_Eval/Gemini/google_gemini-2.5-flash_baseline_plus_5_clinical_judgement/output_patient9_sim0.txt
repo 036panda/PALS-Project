@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (35):** +0.5 (Younger adults with mental health conditions may have slightly higher risk due to less established coping mechanisms or support systems compared to older, more stable individuals, though this is a minor factor here.)
+*   **BMI (26.8):** +0.2 (Slightly overweight, which can be a minor comorbidity factor, but not directly impactful on immediate hospitalization for Bipolar.)
+*   **Family_Health_History (nan):** +0.0 (No information, so no impact.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder inherently carries a significant risk of hospitalization due to potential for manic or depressive episodes requiring acute stabilization.)
+*   **Race (Asian):** +0.0 (No direct impact on hospitalization risk.)
+*   **Gender (Male):** +0.0 (No direct impact on hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (4):** +0.3 (Moderate alcohol intake, while not excessive, can sometimes exacerbate mood symptoms in bipolar disorder, slightly increasing risk.)
+*   **Smoking (No):** -0.2 (Absence of smoking is a positive health factor, slightly reducing overall risk.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (While mild, the presence of depressive symptoms in a bipolar patient indicates ongoing mood instability, which can escalate.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Confirms the presence of depressive symptoms, aligning with HAM-D and indicating current mood disturbance.)
+*   **Loss_of_Interest (No):** -0.3 (Absence of anhedonia is a positive sign, suggesting the depressive episode is not severe or deeply entrenched.)
+*   **Hours_of_Sleep (5.3):** +1.0 (Significantly reduced sleep is a major red flag in bipolar disorder, often preceding or accompanying manic/hypomanic episodes or worsening depressive states, and is a strong indicator of instability.)
+*   **Employment (Employed):** -0.5 (Employment suggests a degree of functional stability and routine, which can be protective.)
+*   **Socioeconomic_Status (Middle):** -0.2 (Middle socioeconomic status generally implies better access to resources and support, slightly reducing risk.)
+*   **Drinks_Coffee (No):** +0.0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.1 (Indicates a potentially healthier lifestyle choice, a minor protective factor.)
+*   **Favourite_Sport (Basketball):** +0.0 (No direct impact on hospitalization risk.)
+*   **Votes (Never):** +0.0 (No direct impact on hospitalization risk.)
+*   **Height_in_Inches (69):** +0.0 (No direct impact on hospitalization risk.)
+
+3. Clinical Rationale: This 35-year-old male with Bipolar disorder presents with concerning sleep deprivation and mild depressive symptoms, indicating current mood instability. While he maintains employment and avoids smoking, the significant sleep disturbance is a critical factor that elevates his risk for an acute episode requiring hospitalization.

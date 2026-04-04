@@ -1,0 +1,14 @@
+4
+
+*   **Age (18):** +0.5 (Young adult, generally lower risk, but still susceptible to certain conditions)
+*   **BMI (25.6):** +0.5 (Slightly overweight, minor increase in risk)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization for management or crises)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate alcohol intake, potential for minor health impacts over time)
+*   **Hours_of_Sleep (5.7):** +0.5 (Insufficient sleep, linked to various health issues and exacerbation of mental health conditions)
+*   **Socioeconomic_Status (High):** -1.0 (Access to better healthcare, nutrition, and living conditions, mitigating risk)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources, reducing stress-related health issues)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits, contributing to overall health risk)
+*   **Donated_Blood (Yes):** -0.5 (Suggests a generally healthy individual, able to donate blood)
+
+The risk score is calculated by summing the individual contributions of factors known to causally influence hospitalization risk, with positive values indicating increased risk and negative values indicating decreased risk, based on established medical and social determinants of health. The primary drivers of this score are the current bipolar diagnosis and family history of hypertension, partially offset by high socioeconomic status and employment.

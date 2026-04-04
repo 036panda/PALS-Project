@@ -1,0 +1,25 @@
+1. Risk Assessment Score: 4
+
+2. Parameter Contributions:
+    * Age (20): -1 (Lower risk for hospitalization at younger age, assuming no other major health issues)
+    * BMI (21.0): 0 (Healthy weight)
+    * Family_Health_History (Cancer): +1 (Increased genetic predisposition to health issues)
+    * Current_Diagnosis (Bipolar): +2 (Mental health conditions, especially bipolar disorder, are associated with higher hospitalization rates)
+    * Race (Black): +1 (Systemic health disparities can lead to higher hospitalization rates)
+    * Gender (Male): 0 (No direct impact on hospitalization risk in this context)
+    * Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk)
+    * Weekly_Alcohol_Intake (0): 0 (No alcohol consumption is positive)
+    * Smoking (No): 0 (Non-smoker is positive)
+    * HAM-D (7–17: Mild Depression): +1 (Even mild depression can increase risk, especially when combined with other factors)
+    * Been_Sad_or_Fatigued (No): 0 (Positive indicator)
+    * Loss_of_Interest (No): 0 (Positive indicator)
+    * Hours_of_Sleep (5.7): +1 (Insufficient sleep can negatively impact overall health and increase risk)
+    * Employment (Student): 0 (Neutral in this context)
+    * Socioeconomic_Status (Low): +1 (Lower socioeconomic status is often correlated with poorer health outcomes and higher hospitalization rates)
+    * Drinks_Coffee (Yes): 0 (Neutral)
+    * Likes_Vegetables (Yes): 0 (Positive, but not directly quantifiable for hospitalization risk without more detail)
+    * Favourite_Sport (Hockey): 0 (Neutral)
+    * Votes (Sometimes): 0 (Neutral)
+    * Height_in_Inches (70): 0 (Neutral)
+
+3. Rationale: The patient's bipolar diagnosis, family history of cancer, and low socioeconomic status are significant contributors to the elevated risk. Additionally, insufficient sleep and mild depression further increase the likelihood of hospitalization.

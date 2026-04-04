@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   Age (22): -0.5 (Younger age generally correlates with lower hospitalization risk, assuming no other major health issues)
+*   BMI (27.1): +0.5 (Slightly overweight, increasing risk for various health complications)
+*   Family_Health_History (Heart Disease): +1.0 (Genetic predisposition to a serious chronic condition)
+*   Current_Diagnosis (Schizophrenia): +3.0 (Significant mental health condition often requiring hospitalization for management or acute episodes)
+*   Race (Hispanic): +0.2 (Some studies indicate disparities in healthcare access and outcomes for certain racial/ethnic groups, potentially increasing hospitalization risk)
+*   Gender (Non-binary): +0.2 (Experiences of discrimination and lack of culturally competent care can lead to poorer health outcomes and increased hospitalization risk)
+*   Sexual_Orientation (Bisexual): +0.2 (Similar to gender, discrimination and stress can negatively impact health and increase risk)
+*   Weekly_Alcohol_Intake (2): -0.1 (Low, generally considered within healthy limits)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mental health condition that can exacerbate other issues or, if untreated, escalate to require hospitalization)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating current mental health distress)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating current mental health distress)
+*   Hours_of_Sleep (8.9): -0.2 (Adequate sleep, contributing to overall health)
+*   Employment (Student): +0.1 (Potential for stress, financial strain, and irregular health habits, though also access to university health services)
+*   Socioeconomic_Status (Middle): -0.2 (Generally associated with better access to healthcare and resources)
+*   Drinks_Coffee (Yes): +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   Likes_Vegetables (No): +0.3 (Indicates a potentially less healthy diet, increasing risk for various conditions)
+*   Favourite_Sport (Basketball): +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   Votes (Always): +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   Height_in_Inches (74): +0.0 (Neutral, no direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, with mental health conditions and family history being primary drivers of increased risk, while healthy lifestyle choices and adequate sleep reduce it. Socioeconomic and identity factors are included due to their documented impact on healthcare access and health outcomes.

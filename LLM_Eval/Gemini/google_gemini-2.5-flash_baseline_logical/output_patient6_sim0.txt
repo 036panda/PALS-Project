@@ -1,0 +1,19 @@
+6
+
+*   **Age (36):** +0 (No significant risk increase for hospitalization at this age without other comorbidities)
+*   **BMI (31.3):** +2 (Obesity, BMI > 30, is a known risk factor for various health complications that may lead to hospitalization)
+*   **Family_Health_History (Asthma):** +1 (Family history of asthma indicates a genetic predisposition to respiratory issues, which can sometimes necessitate hospitalization, especially if the individual develops asthma)
+*   **Current_Diagnosis (Anxiety):** +1 (While not directly a physical cause for hospitalization, severe anxiety can exacerbate existing conditions or lead to physical symptoms requiring medical attention, and can also be a comorbidity with other conditions that increase hospitalization risk)
+*   **Race (White):** +0 (No direct causal link to increased hospitalization risk)
+*   **Gender (Male):** +0 (No direct causal link to increased hospitalization risk)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct causal link to increased hospitalization risk)
+*   **Weekly_Alcohol_Intake (5):** +0 (Moderate alcohol intake, generally considered up to 14 drinks per week for men, is not typically a direct cause for hospitalization)
+*   **Smoking (No):** -1 (Absence of smoking significantly reduces risk of numerous hospitalization-causing conditions)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Absence of depression reduces risk of mental health crises and associated physical health complications)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of these symptoms indicates good general well-being, reducing risk)
+*   **Loss_of_Interest (No):** -1 (Absence of this symptom indicates good mental well-being, reducing risk)
+*   **Hours_of_Sleep (6.0):** +1 (Slightly below the recommended 7-9 hours, chronic sleep deprivation can negatively impact health and increase susceptibility to illness)
+*   **Employment (Employed):** -1 (Employment is often associated with better access to healthcare and financial stability, reducing risk of delayed care leading to hospitalization)
+*   **Socioeconomic_Status (Low):** +4 (Low socioeconomic status is a significant and well-documented causal factor for increased hospitalization risk due to poorer access to healthcare, nutrition, living conditions, and higher stress levels)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values represent increased risk and negative values represent decreased risk, based on established causal relationships between these factors and hospitalization. The primary drivers of this score are the individual's obesity and low socioeconomic status, which are strong, independently recognized risk factors for various health complications and delayed care leading to hospitalization.

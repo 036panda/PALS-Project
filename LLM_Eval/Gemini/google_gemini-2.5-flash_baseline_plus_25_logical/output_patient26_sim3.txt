@@ -1,0 +1,20 @@
+1. 3.5
+
+2. *   **Age (52):** +0.5 (Increased risk with age, though not elderly)
+*   **BMI (23.2):** +0.0 (Normal range)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to respiratory issues, which can lead to hospitalization)
+*   **Current_Diagnosis (Anxiety):** +1.5 (Mental health conditions can exacerbate physical symptoms or lead to hospital visits for crisis management)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate alcohol consumption, while not excessive, still carries some health risks)
+*   **Smoking (No):** -1.0 (Significant protective factor against numerous health issues)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Good mental health, reducing risk of mental-health related hospitalizations)
+*   **Hours_of_Sleep (7.4):** +0.0 (Within healthy range)
+*   **Employment (Employed):** -0.5 (Often correlates with better access to healthcare and financial stability, reducing delayed care)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither high nor low risk)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates healthy dietary habits, reducing risk of diet-related illnesses)
+*   **Water_Intake_oz (43.6):** +0.0 (Neutral, neither high nor low risk)
+*   **Donated_Blood (Yes):** -0.5 (Often indicates good general health and regular health checks)
+*   **Picks_Up_Litter (Always):** -0.5 (Indicates a proactive and responsible attitude, which can extend to personal health management)
+*   **Uses_Public_Transportation (Always):** +0.5 (Increased exposure to pathogens, potentially increasing risk of infectious diseases)
+*   **All other factors:** +0.0 (No direct or significant causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors directly linked to health outcomes or healthcare access. Positive contributions reflect increased risk due to existing conditions, lifestyle choices, or environmental exposures, while negative contributions represent protective factors that mitigate risk.

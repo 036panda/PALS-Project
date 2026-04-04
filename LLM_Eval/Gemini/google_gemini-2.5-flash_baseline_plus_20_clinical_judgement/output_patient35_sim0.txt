@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 4.5
+
+2. Detailed Breakdown of Attribute Impacts:
+
+*   **Age (18):** +0.5 (Younger adults, especially those with mental health diagnoses, can have higher rates of crisis and hospitalization, though this is somewhat mitigated by other factors.)
+*   **BMI (25.6):** +0.2 (Slightly overweight, which can contribute to general health risks, but not a major driver for hospitalization in itself.)
+*   **Family_Health_History (Hypertension):** +0.3 (Indicates a genetic predisposition to chronic health issues, which can indirectly increase overall health risk over time.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is the most significant risk factor. Bipolar disorder inherently carries a substantial risk of hospitalization due to manic or depressive episodes, even if currently stable.)
+*   **Race (Hispanic):** +0.2 (Systemic health disparities and potential barriers to care can slightly increase risk for certain minority groups.)
+*   **Gender (Non-binary):** +0.3 (Non-binary individuals may face increased stress, discrimination, and mental health challenges, potentially increasing hospitalization risk.)
+*   **Weekly_Alcohol_Intake (5):** +0.2 (Moderate alcohol intake, while not excessive, can still interact with mental health conditions or medications.)
+*   **Hours_of_Sleep (5.7):** +0.5 (Chronic sleep deprivation is a significant trigger for mood episodes in bipolar disorder and negatively impacts overall health.)
+*   **Socioeconomic_Status (High):** -0.5 (High socioeconomic status generally provides better access to care, resources, and support, reducing hospitalization risk.)
+*   **Employment (Employed):** -0.2 (Employment provides structure, purpose, and financial stability, which are protective factors for mental health.)
+*   **HAM-D (0-6: Normal / No Depression):** -0.5 (Current absence of depressive symptoms is a strong protective factor against immediate hospitalization for depression.)
+*   **Been_Sad_or_Fatigued (No):** -0.2 (Absence of these symptoms indicates current stability.)
+*   **Loss_of_Interest (No):** -0.2 (Absence of anhedonia indicates current stability.)
+*   **Likes_Vegetables (No):** +0.2 (Poor dietary habits can negatively impact overall physical and mental health.)
+*   **Water_Intake_oz (44.2):** +0.2 (Slightly below recommended intake, which can contribute to general health issues.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with a bipolar diagnosis presents with a moderate risk of hospitalization, primarily driven by their underlying mental health condition and chronic sleep deprivation, despite current symptom stability and high socioeconomic status. The combination of a significant mental health diagnosis with lifestyle factors like poor sleep and diet warrants close monitoring.

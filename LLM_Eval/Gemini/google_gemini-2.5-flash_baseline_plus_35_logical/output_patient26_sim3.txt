@@ -1,0 +1,19 @@
+1. 2.0
+
+2. *   Age (52): +1.0 (Increased age is a direct risk factor for hospitalization due to general physiological decline and increased susceptibility to various conditions.)
+*   BMI (23.2): +0.0 (BMI within the healthy range (18.5-24.9) does not contribute to increased hospitalization risk.)
+*   Family_Health_History (Asthma): +0.5 (A family history of asthma indicates a genetic predisposition to respiratory issues, which can lead to hospitalization.)
+*   Current_Diagnosis (Anxiety): +0.5 (Anxiety, while not directly a physical ailment, can exacerbate existing conditions or lead to stress-related physical symptoms requiring medical attention.)
+*   Weekly_Alcohol_Intake (5): +0.0 (Moderate alcohol intake (up to 7 drinks/week for women, 14 for men) is not considered a significant risk factor for hospitalization.)
+*   Smoking (No): -1.0 (Absence of smoking significantly reduces the risk of numerous chronic diseases and acute respiratory events that often lead to hospitalization.)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Absence of depression reduces the risk of mental health crises and psychosomatic symptoms that can necessitate hospitalization.)
+*   Been_Sad_or_Fatigued (No): -0.2 (Absence of persistent sadness or fatigue indicates better overall mental and physical well-being, reducing hospitalization risk.)
+*   Loss_of_Interest (No): -0.2 (Absence of loss of interest indicates better mental health, reducing hospitalization risk.)
+*   Hours_of_Sleep (7.4): +0.0 (Optimal sleep duration (7-9 hours) does not contribute to increased hospitalization risk.)
+*   Employment (Employed): -0.2 (Employment often correlates with better access to healthcare and financial stability, reducing the likelihood of delayed care leading to hospitalization.)
+*   Socioeconomic_Status (Middle): +0.0 (Middle socioeconomic status does not inherently increase or decrease hospitalization risk compared to other factors.)
+*   Likes_Vegetables (Yes): -0.2 (A preference for vegetables suggests a healthier diet, which can reduce the risk of diet-related chronic diseases leading to hospitalization.)
+*   Skips_Breakfast (Yes): +0.5 (Skipping breakfast can be associated with poorer dietary habits and metabolic dysregulation, potentially increasing long-term health risks that may lead to hospitalization.)
+*   Allergy (Shellfish): +0.5 (Presence of a known allergy, especially one that can be severe, carries a risk of accidental exposure leading to an allergic reaction requiring emergency medical attention and potential hospitalization.)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate decreased risk. Each contribution is assigned based on established medical and public health understanding of its causal relationship with hospitalization likelihood.

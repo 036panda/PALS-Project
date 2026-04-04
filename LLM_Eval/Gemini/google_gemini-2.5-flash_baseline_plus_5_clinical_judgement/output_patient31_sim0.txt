@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 6.5
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (36):** -0.5 (Younger age generally associated with lower hospitalization risk compared to older adults, assuming no acute conditions.)
+*   **BMI (36.8 - Obese Class III):** +2.0 (Significant obesity is a strong independent risk factor for numerous health complications requiring hospitalization, including cardiovascular events, diabetes complications, and respiratory issues.)
+*   **Family_Health_History (Hypertension):** +0.5 (Increases genetic predisposition to cardiovascular disease, a common cause for hospitalization.)
+*   **Current_Diagnosis (nan):** -1.0 (Absence of an active, diagnosed condition requiring immediate intervention reduces current hospitalization risk.)
+*   **Race (Black):** +0.5 (Systemic health disparities and higher prevalence of certain chronic conditions in Black populations can increase hospitalization risk.)
+*   **Gender (Non-binary):** +0.0 (No direct impact on hospitalization risk based on current clinical understanding.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (7 units):** +0.0 (Within recommended low-risk guidelines, so no significant impact.)
+*   **Smoking (Yes):** +2.0 (Significant independent risk factor for numerous chronic diseases, including cardiovascular, respiratory, and oncological conditions, all of which can lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of clinical depression reduces risk of mental health-related hospitalizations and may indicate better coping mechanisms.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (While not clinical depression, persistent sadness/fatigue can be a symptom of underlying medical conditions or contribute to poorer health behaviors, subtly increasing risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, this can be a non-specific symptom of underlying issues or contribute to neglect of self-care, slightly elevating risk.)
+*   **Hours_of_Sleep (5.7):** +1.0 (Chronic sleep deprivation is linked to increased risk of various health problems, including cardiovascular disease, diabetes, and impaired immune function, which can necessitate hospitalization.)
+*   **Employment (Employed):** -0.5 (Generally associated with better access to healthcare, financial stability, and social support, reducing hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Typically associated with better access to healthcare and resources compared to lower socioeconomic statuses, reducing risk.)
+*   **Drinks_Coffee (No):** +0.0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthier dietary preference, which can contribute to better overall health and reduced risk.)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct impact on hospitalization risk.)
+*   **Votes (Never):** +0.0 (No direct impact on hospitalization risk.)
+*   **Height_in_Inches (60):** +0.0 (No direct impact on hospitalization risk.)
+
+3. Clinical Rationale: This patient presents with several significant modifiable risk factors, including severe obesity and active smoking, compounded by chronic sleep deprivation and a family history of hypertension, which collectively elevate their hospitalization risk despite their relatively young age and lack of current diagnosis.

@@ -1,0 +1,24 @@
+1. 3.0
+
+2. *   **Age (34):** +0.0 (No significant risk contribution for this age)
+*   **BMI (24.2):** +0.0 (Normal BMI, no risk contribution)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Known chronic mental health condition with potential for acute episodes requiring hospitalization)
+*   **Race (Hispanic):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Gender (Female):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Weekly_Alcohol_Intake (1):** +0.0 (Low intake, no risk contribution)
+*   **Smoking (No):** +0.0 (Non-smoker, no risk contribution)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Indicates good current mental health status, reducing risk)
+*   **Been_Sad_or_Fatigued (Yes):** +1.0 (Suggests potential underlying stress or sub-clinical issue, increasing risk)
+*   **Loss_of_Interest (No):** +0.0 (Absence of a depressive symptom, no risk contribution)
+*   **Hours_of_Sleep (8.3):** +0.0 (Adequate sleep, no risk contribution)
+*   **Employment (Employed):** +0.0 (Positive social determinant, no direct risk contribution)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with reduced access to preventative care and higher likelihood of advanced disease at presentation, increasing risk)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (No):** +0.0 (Dietary preference, no direct causal link to hospitalization risk)
+*   **Favourite_Sport (Soccer):** +0.0 (Leisure activity, no direct causal link to hospitalization risk)
+*   **Votes (Sometimes):** +0.0 (Civic engagement, no direct causal link to hospitalization risk)
+*   **Height_in_Inches (60):** +0.0 (Physical attribute, no direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as chronic medical conditions (Bipolar), indicators of potential health decline (Been_Sad_or_Fatigued), and socioeconomic determinants (Low Socioeconomic Status), while mitigating factors (Normal HAM-D) reduce the score.

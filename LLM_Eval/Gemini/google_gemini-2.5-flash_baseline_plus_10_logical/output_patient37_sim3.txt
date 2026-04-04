@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   Age (53): +0.5 (Increased age generally correlates with higher hospitalization risk due to cumulative health issues.)
+*   BMI (25.3): +0.2 (Slightly overweight, which can contribute to minor health risks.)
+*   Family_Health_History (Asthma): +0.8 (Genetic predisposition to a chronic respiratory condition increases risk.)
+*   Current_Diagnosis (Depression): +1.5 (Mental health conditions can exacerbate physical health issues and lead to higher hospitalization rates.)
+*   Race (Black): +1.0 (Systemic health disparities and socioeconomic factors often lead to higher hospitalization rates in this demographic.)
+*   Gender (Male): +0.3 (Males, on average, may have slightly different health-seeking behaviors or predispositions to certain conditions.)
+*   Weekly_Alcohol_Intake (4): +0.2 (Moderate alcohol consumption, while not excessive, still carries a minor health risk.)
+*   Smoking (No): -0.5 (Absence of a major risk factor.)
+*   HAM-D (18–24: Moderate Depression): +1.0 (Confirms and quantifies the severity of depression, adding to the risk.)
+*   Hours_of_Sleep (5.7): +0.8 (Insufficient sleep is a significant risk factor for various health problems.)
+*   Employment (Employed): -0.2 (Employment often correlates with better access to healthcare and financial stability.)
+*   Socioeconomic_Status (Middle): -0.3 (Middle socioeconomic status generally provides better access to healthcare and resources than lower status.)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits contribute to various health issues.)
+*   Uses_Public_Transportation (Always): +0.2 (May indicate lower access to personal transportation, potentially impacting healthcare access or exposure to environmental factors.)
+*   Donated_Blood (Yes): -0.5 (Suggests a generally healthier individual, as blood donation has health requirements.)
+
+3. The risk score is calculated by summing the individual contributions of various factors, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these factors and hospitalization likelihood. Factors like age, chronic conditions, lifestyle choices, and socioeconomic determinants are weighted according to their known impact on health outcomes.

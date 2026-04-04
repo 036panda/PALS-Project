@@ -1,0 +1,19 @@
+5
+
+*   **Age (49):** +1 (Increased age generally correlates with higher hospitalization risk due to age-related physiological changes and increased likelihood of comorbidities.)
+*   **BMI (23.2):** +0 (Normal BMI, no direct contribution to increased risk.)
+*   **Family_Health_History (Asthma):** +1 (Family history of asthma indicates a genetic predisposition to respiratory issues, which can increase hospitalization risk, especially if the individual develops asthma.)
+*   **Current_Diagnosis (Anxiety):** +1 (Anxiety can exacerbate physical health conditions, lead to poorer health-seeking behaviors, and in severe cases, may require hospitalization for mental health crises or related physical symptoms.)
+*   **Race (Hispanic):** +0 (Race itself is not a direct causal factor for hospitalization risk; disparities are often linked to socioeconomic and systemic factors not directly captured here.)
+*   **Gender (Male):** +0 (Gender alone is not a direct causal factor for hospitalization risk in this context.)
+*   **Sexual_Orientation (Heterosexual):** +0 (Sexual orientation is not a direct causal factor for hospitalization risk.)
+*   **Weekly_Alcohol_Intake (4):** +0 (Moderate alcohol intake, not considered a significant risk factor for hospitalization.)
+*   **Smoking (No):** -1 (Absence of smoking significantly reduces risk of numerous chronic diseases and respiratory issues, thus decreasing hospitalization risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Absence of depression reduces the risk of mental health-related hospitalizations and improves overall health management.)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of persistent sadness or fatigue indicates better mental and physical well-being, reducing hospitalization risk.)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, "Loss of Interest" can be an indicator of subclinical distress or early signs of mental health issues that, if unaddressed, could escalate to require hospitalization.)
+*   **Hours_of_Sleep (9.4):** -1 (Adequate to high hours of sleep are generally protective against various health issues, reducing hospitalization risk.)
+*   **Employment (Employed):** -1 (Employment often correlates with better access to healthcare, financial stability, and social support, all of which can reduce hospitalization risk.)
+*   **Socioeconomic_Status (High):** -1 (High socioeconomic status typically provides better access to preventative care, quality medical treatment, and healthier living conditions, thereby reducing hospitalization risk.)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, reflecting their direct causal influence on the likelihood of hospitalization. This approach isolates the impact of each specific attribute on the overall risk.

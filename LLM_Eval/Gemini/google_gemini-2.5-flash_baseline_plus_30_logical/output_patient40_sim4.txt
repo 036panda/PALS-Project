@@ -1,0 +1,19 @@
+7
+
+*   **Age (26):** +0.5 (Younger adults generally have lower hospitalization risk, but not zero)
+*   **BMI (29.1):** +1.0 (Overweight, increasing risk for various health issues)
+*   **Family_Health_History (Diabetes):** +1.0 (Genetic predisposition to a chronic condition)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization for management or crises)
+*   **Weekly_Alcohol_Intake (3):** +0.2 (Moderate intake, but still a factor)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Indicates potential underlying health or mental health issues)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, points to potential mental health concerns)
+*   **Hours_of_Sleep (6.2):** +0.3 (Slightly below recommended, can impact overall health)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer access to healthcare, higher stress, and worse health outcomes)
+*   **Allergy (Milk/Eggs):** +0.5 (Potential for accidental exposure and severe reactions requiring medical attention)
+*   **HAM-D (0-6: Normal / No Depression):** -0.5 (Absence of depression reduces mental health-related hospitalization risk)
+*   **Smoking (No):** -0.5 (Absence of a major health risk factor)
+*   **Employment (Employed):** -0.5 (Generally associated with better health outcomes and access to care)
+*   **Likes_Vegetables (Yes):** -0.2 (Positive dietary habit)
+*   **Water_Intake_oz (45.5):** -0.3 (Adequate hydration is a positive health factor)
+
+The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, with positive values for risk-increasing factors and negative values for risk-decreasing factors, based on established medical and socioeconomic correlations. Factors without a clear causal link to hospitalization risk are assigned a zero contribution.

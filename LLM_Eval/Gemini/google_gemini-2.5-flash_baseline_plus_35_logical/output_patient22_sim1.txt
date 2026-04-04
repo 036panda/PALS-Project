@@ -1,0 +1,13 @@
+1. 5.5
+
+2. *   Age (56): +1.0 (Increased risk with age, especially over 50)
+*   BMI (28.0): +0.5 (Overweight, contributing to moderate risk)
+*   Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol consumption, slight increase in risk)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mental health issues can impact physical health and hospitalization risk)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, further increasing mental health-related risk)
+*   Hours_of_Sleep (6.1): +0.5 (Slightly below optimal, contributing to minor risk)
+*   Allergy (Tree Nuts): +1.0 (Potential for severe allergic reactions requiring hospitalization)
+*   Skips_Breakfast (Yes): +0.5 (Poor dietary habit, contributing to minor health risks)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+
+3. The risk score is calculated by summing the contributions of identified risk factors such as age, BMI, mental health indicators, and allergies, while subtracting for the absence of major risk factors like smoking, reflecting their direct causal impact on hospitalization likelihood.

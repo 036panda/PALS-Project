@@ -1,0 +1,19 @@
+7
+
+*   Age: 32 (Contribution: 0) - No significant risk increase for this age.
+*   BMI: 25.7 (Contribution: 0) - Within healthy range, no risk.
+*   Family_Health_History: Asthma (Contribution: +1) - Genetic predisposition to respiratory issues, increasing hospitalization risk.
+*   Current_Diagnosis: nan (Contribution: 0) - No current acute diagnosis, no immediate risk.
+*   Race: White (Contribution: 0) - No inherent risk from race.
+*   Gender: Non-binary (Contribution: 0) - No inherent risk from gender identity.
+*   Sexual_Orientation: Other (Contribution: 0) - No inherent risk from sexual orientation.
+*   Weekly_Alcohol_Intake: 2 (Contribution: 0) - Low intake, no significant risk.
+*   Smoking: No (Contribution: 0) - No smoking, no associated risk.
+*   HAM-D: 18–24: Moderate Depression (Contribution: +3) - Moderate depression is a significant comorbidity that can exacerbate physical health issues and increase the likelihood of hospitalization.
+*   Been_Sad_or_Fatigued: No (Contribution: 0) - Absence of these symptoms, no additional risk.
+*   Loss_of_Interest: Yes (Contribution: +1) - A symptom of depression, indicating a potential decline in self-care and overall well-being, indirectly increasing risk.
+*   Hours_of_Sleep: 4.8 (Contribution: +2) - Chronic sleep deprivation significantly weakens the immune system and can worsen mental and physical health, directly increasing hospitalization risk.
+*   Employment: Employed (Contribution: 0) - Generally associated with better health outcomes, no risk.
+*   Socioeconomic_Status: Middle (Contribution: 0) - Generally associated with better access to healthcare, no risk.
+
+The risk score is calculated by summing the positive contributions from factors known to causally increase hospitalization risk, such as family history of chronic conditions, moderate depression, a symptom of depression (loss of interest), and chronic sleep deprivation, which directly impact health and well-being.

@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   **Age (32):** +0.5 (Risk increases with age, but 32 is relatively young, so a minor positive contribution)
+*   **BMI (31.6):** +1.0 (BMI > 30 indicates obesity, a significant risk factor)
+*   **Family_Health_History (Cancer):** +0.5 (Family history of serious illness increases risk)
+*   **Current_Diagnosis (nan):** +0.0 (No current diagnosis, neutral)
+*   **Weekly_Alcohol_Intake (3):** +0.2 (Moderate alcohol intake, minor positive contribution)
+*   **Smoking (Yes):** +2.0 (Significant risk factor for numerous health issues)
+*   **HAM-D (18–24: Moderate Depression):** +1.0 (Moderate depression is a health concern that can impact physical health and adherence to care)
+*   **Been_Sad_or_Fatigued (Yes):** +0.3 (Consistent sadness/fatigue can indicate underlying health issues or contribute to poor health)
+*   **Loss_of_Interest (Yes):** +0.3 (Anhedonia, often associated with depression, can lead to neglect of health)
+*   **Hours_of_Sleep (7.5):** -0.2 (Adequate sleep, a protective factor)
+*   **Socioeconomic_Status (Low):** +0.5 (Lower socioeconomic status is often correlated with poorer health outcomes and access to care)
+*   **Likes_Vegetables (Yes):** -0.2 (Positive dietary habit, a protective factor)
+*   **Exercises (No):** +1.0 (Lack of exercise is a significant risk factor for various chronic diseases)
+*   **Allergy (Shellfish):** +0.1 (Presence of an allergy, while specific, indicates a potential for adverse reactions)
+*   **Orders_Takeout (Daily):** +0.5 (Frequent takeout often implies a less healthy diet, contributing to risk)
+
+3. The risk score is calculated by summing the individual contributions of factors identified as causally linked to hospitalization risk, with positive values for risk-increasing factors and negative values for protective factors. Factors like obesity, smoking, depression, and lack of exercise are assigned higher positive contributions due to their established strong causal links to adverse health outcomes requiring hospitalization.

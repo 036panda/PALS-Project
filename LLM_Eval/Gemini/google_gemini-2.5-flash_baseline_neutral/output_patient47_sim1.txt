@@ -1,0 +1,13 @@
+1. Risk Assessment Score: 5
+
+2. Parameter Risk Values:
+    * Age (22): -1 (Lower risk due to young age)
+    * BMI (27.1): +1 (Increased risk due to overweight)
+    * Family_Health_History (Heart Disease): +1 (Increased risk)
+    * Current_Diagnosis (Schizophrenia): +3 (Significantly increased risk for various health issues and potential for psychiatric hospitalization)
+    * HAM-D (7-17: Mild Depression): +1 (Increased risk due to mental health comorbidity)
+    * Been_Sad_or_Fatigued (Yes): +0 (Already accounted for by HAM-D)
+    * Loss_of_Interest (Yes): +0 (Already accounted for by HAM-D)
+    * Hours_of_Sleep (8.9): -1 (Lower risk due to adequate sleep)
+
+3. Rationale: The primary drivers of this patient's moderate risk are the diagnosis of schizophrenia and a family history of heart disease, which are partially offset by their young age and adequate sleep.

@@ -1,0 +1,16 @@
+1. 6.5
+
+2. *   Age (18): +0.5 (Young adult, generally lower risk, but not zero)
+*   BMI (30.9): +2.0 (Obese, significant risk factor)
+*   Current_Diagnosis (Bipolar): +3.0 (Major mental health condition, high risk for hospitalization)
+*   Loss_of_Interest (Yes): +1.0 (Symptom of potential mental health distress, even without full depression diagnosis)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better access to care and resources, reducing risk)
+*   Weekly_Alcohol_Intake (1): -0.5 (Very low, negligible or even slightly protective effect compared to higher intake)
+*   Hours_of_Sleep (9.7): -1.0 (Excellent sleep duration, protective factor)
+*   Likes_Vegetables (No): +1.0 (Indicates potentially poorer dietary habits, contributing to health risk)
+*   Travels (No): -0.5 (Less exposure to novel pathogens/environments, slightly protective)
+*   Relationship_Status (Dating): -0.5 (Social support can be a protective factor)
+*   Religious (No): +0.5 (Lack of community support sometimes associated with higher risk, though not universally)
+*   Water_Intake_oz (44.0): +0.5 (Slightly below recommended for general health, minor risk)
+
+3. The risk score is calculated by summing the individual contributions of factors, where positive values indicate increased hospitalization risk and negative values indicate decreased risk, based on established medical and social determinants of health. Causal relationships are inferred from the direct impact of conditions (e.g., Bipolar diagnosis) or lifestyle choices (e.g., BMI, diet, sleep) on health outcomes and the likelihood of requiring hospitalization.

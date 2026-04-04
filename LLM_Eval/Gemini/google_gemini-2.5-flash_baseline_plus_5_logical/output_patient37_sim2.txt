@@ -1,0 +1,22 @@
+7
+
+*   **Age (53):** +1.5 (Increased risk with age, particularly over 50, due to general physiological decline and higher prevalence of chronic conditions.)
+*   **BMI (25.3):** +0.5 (Slightly overweight, which can contribute to various health issues, though not severely obese.)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to respiratory issues, which can be exacerbated by other factors and lead to hospitalization.)
+*   **Current_Diagnosis (Depression):** +2.0 (Mental health conditions, especially depression, are strongly linked to poorer physical health outcomes, reduced self-care, and increased hospitalization risk.)
+*   **Race (Black):** +1.0 (Systemic health disparities and socioeconomic factors often lead to higher hospitalization rates for Black individuals.)
+*   **Gender (Male):** +0.5 (Males, on average, tend to seek healthcare less proactively than females, potentially leading to more severe conditions requiring hospitalization.)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate alcohol intake, within recommended limits, does not significantly increase hospitalization risk.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk of numerous chronic diseases and respiratory issues.)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Confirms the severity of depression, reinforcing its contribution to hospitalization risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms, despite depression diagnosis, suggests some level of functional resilience.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of anhedonia, a core symptom of severe depression, indicates a potentially less debilitating form of the condition.)
+*   **Hours_of_Sleep (5.7):** +1.0 (Chronic sleep deprivation is linked to weakened immune function, increased stress, and higher risk of various health problems.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare, financial stability, and social support, reducing hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to healthcare and resources compared to lower statuses.)
+*   **Drinks_Coffee (Yes):** +0.0 (Coffee consumption, in moderation, is not a significant factor in hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits, indicated by disliking vegetables, can contribute to nutritional deficiencies and chronic diseases.)
+*   **Votes (Never):** +0.0 (Political engagement is not directly causally linked to hospitalization risk.)
+*   **Height_in_Inches (74):** +0.0 (Height is not a direct causal factor for hospitalization risk.)
+
+The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age, existing medical conditions, lifestyle choices, and socioeconomic determinants. Positive contributions reflect increased risk due to factors like depression, family history of asthma, and sleep deprivation, while negative contributions reflect reduced risk from factors like not smoking and being employed.

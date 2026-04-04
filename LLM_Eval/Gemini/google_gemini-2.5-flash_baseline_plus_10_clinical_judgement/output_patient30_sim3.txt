@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 6.5
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (49):** +0.5 (Slightly elevated risk compared to younger adults, but not elderly)
+*   **BMI (29.7):** +0.5 (Approaching obesity, which can exacerbate mental health conditions and general health)
+*   **Family_Health_History (nan):** +0.0 (No information, so neutral impact)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant risk factor for hospitalization due to potential for manic or depressive episodes requiring acute care)
+*   **Race (Native American):** +0.5 (Potential for health disparities and access to care issues, contributing to slightly higher risk)
+*   **Gender (Female):** +0.0 (Neutral impact in this context)
+*   **Sexual_Orientation (Other):** +0.5 (May indicate belonging to a marginalized group, potentially facing additional stressors or barriers to care)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Low intake, neutral impact)
+*   **Smoking (No):** -0.5 (Positive health behavior, reduces risk)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (While mild, it indicates current depressive symptoms which, combined with bipolar disorder, increases risk of escalation)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms is a positive indicator)
+*   **Loss_of_Interest (Yes):** +1.0 (Anhedonia is a core symptom of depression and can indicate worsening mental state)
+*   **Hours_of_Sleep (5.8):** +1.0 (Insufficient sleep, a known trigger and exacerbating factor for bipolar disorder)
+*   **Employment (Employed):** -0.5 (Positive social determinant of health, provides structure and income)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to resources and support)
+*   **Drinks_Coffee (No):** +0.0 (Neutral impact)
+*   **Likes_Vegetables (No):** +0.0 (Neutral impact)
+*   **Favourite_Sport (Basketball):** +0.0 (Neutral impact)
+*   **Votes (Never):** +0.0 (Neutral impact)
+*   **Height_in_Inches (60):** +0.0 (Neutral impact)
+*   **Has_Drivers_License (No):** +0.5 (May indicate limited access to transportation for appointments or support, especially if public transport is not always reliable)
+*   **Picks_Up_Litter (Never):** +0.0 (Neutral impact)
+*   **Uses_Public_Transportation (Always):** +0.0 (Neutral impact, given the lack of driver's license, this is their primary mode)
+*   **Donated_Blood (Yes):** +0.0 (Neutral impact)
+*   **Birthday_Month (August):** +0.0 (Neutral impact)
+
+3. Clinical Rationale: This patient presents with a significant risk of hospitalization primarily due to their current diagnosis of Bipolar Disorder, compounded by active mild depressive symptoms (HAM-D 7-17, loss of interest), and insufficient sleep, all known triggers for mood episodes. While some protective factors exist (employment, no smoking), the presence of multiple risk factors, including potential health disparities and limited transportation, warrants a moderately high concern for acute care needs.

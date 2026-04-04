@@ -1,0 +1,12 @@
+1. 4.0
+
+2. *   **Current_Diagnosis: Bipolar:** +3.0 (Bipolar disorder significantly increases hospitalization risk due to potential for acute episodes, medication management, and co-occurring conditions.)
+*   **Socioeconomic_Status: Low:** +1.0 (Low socioeconomic status is associated with reduced access to healthcare, higher stress levels, and poorer health outcomes, increasing hospitalization risk.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (While HAM-D is normal, persistent sadness/fatigue can indicate underlying issues or a prodromal phase of mental health conditions, slightly increasing risk.)
+*   **Allergy: Shellfish:** +0.5 (Presence of a known allergy, even if not severe, introduces a potential for allergic reactions requiring medical attention.)
+*   **Skips_Breakfast: Yes:** +0.5 (Skipping meals can lead to nutritional deficiencies or exacerbate existing health conditions, contributing to a minor increase in risk.)
+*   **Weekly_Alcohol_Intake: 1:** -0.5 (Low alcohol intake is generally considered to have minimal or even slightly beneficial health effects compared to abstinence or heavy drinking.)
+*   **Employment: Employed:** -1.0 (Employment generally correlates with better access to healthcare, financial stability, and mental well-being, reducing hospitalization risk.)
+*   **HAM-D: 0–6: Normal / No Depression:** -1.0 (Absence of depression, as indicated by a normal HAM-D score, significantly reduces mental health-related hospitalization risk.)
+
+3. The hospitalization risk score is calculated by summing the positive contributions from factors indicating increased vulnerability (e.g., Bipolar diagnosis, low socioeconomic status) and subtracting negative contributions from protective factors (e.g., employment, absence of depression), reflecting their direct causal impact on health and healthcare utilization.

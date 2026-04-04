@@ -1,0 +1,13 @@
+7
+
+*   **Age (52):** +1 (Increased risk with age, though not elderly)
+*   **BMI (16.4):** +2 (Underweight, indicating potential health issues)
+*   **Family_Health_History (Cancer):** +1 (Genetic predisposition to serious illness)
+*   **Current_Diagnosis (Bipolar):** +2 (Significant chronic mental health condition with potential physical comorbidities)
+*   **Smoking (Yes):** +2 (Major risk factor for numerous health problems)
+*   **Hours_of_Sleep (4.8):** +1 (Chronic sleep deprivation, detrimental to health)
+*   **Loss_of_Interest (Yes):** +1 (Symptom of depression, indicating mental health strain)
+*   **Weekly_Alcohol_Intake (7):** -1 (Moderate alcohol consumption, potentially protective or neutral)
+*   **Likes_Vegetables (Yes):** -1 (Positive dietary habit)
+
+The risk score is calculated by summing the positive and negative contributions of specific health and lifestyle factors known to causally influence hospitalization risk, with higher values assigned to more severe or impactful risk factors. This method directly reflects the cumulative impact of these individual characteristics on the likelihood of hospitalization.

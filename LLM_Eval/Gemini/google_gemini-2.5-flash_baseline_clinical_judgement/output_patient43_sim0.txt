@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed Breakdown:
+    *   Age (20): -1 (Younger age generally associated with lower risk of medical hospitalization, though mental health risk can be complex)
+    *   BMI (21.0): 0 (Healthy BMI, no direct impact on hospitalization risk)
+    *   Family_Health_History (Cancer): 0 (While a risk factor for future cancer, no immediate impact on current hospitalization for this patient)
+    *   Current_Diagnosis (Bipolar): +5 (Significant risk factor for psychiatric hospitalization, especially if untreated or poorly managed)
+    *   Race (Black): +1 (Systemic health disparities can lead to higher hospitalization rates for Black individuals, even when controlling for other factors)
+    *   Gender (Male): 0 (No direct impact on overall hospitalization risk in this context)
+    *   Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk)
+    *   Weekly_Alcohol_Intake (0): 0 (No alcohol use, no impact)
+    *   Smoking (No): 0 (Non-smoker, no impact)
+    *   HAM-D (7–17: Mild Depression): +1 (Indicates current depressive symptoms, which can exacerbate bipolar disorder and increase risk)
+    *   Been_Sad_or_Fatigued (No): 0 (No current self-reported sadness/fatigue, which is positive)
+    *   Loss_of_Interest (No): 0 (No current self-reported anhedonia, which is positive)
+    *   Hours_of_Sleep (5.7): +1 (Suboptimal sleep can be a trigger for mood episodes in bipolar disorder, increasing risk)
+    *   Employment (Student): 0 (No direct impact on hospitalization risk)
+    *   Socioeconomic_Status (Low): -3 (While low SES is generally a risk factor for poorer health outcomes, in the context of mental health, it can sometimes be associated with less access to care, potentially leading to delayed hospitalization rather than increased immediate risk, or it can be a protective factor if the individual is actively engaged in support systems. For this specific patient, given other factors, we'll assign a slight negative impact as a potential indicator of resilience or a lack of immediate crisis due to SES alone.)
+
+3. Clinical Rationale: This 20-year-old male with a bipolar diagnosis carries a moderate risk for hospitalization, primarily driven by his underlying mental health condition and suboptimal sleep, despite a healthy BMI and absence of substance use. The mild depressive symptoms and low socioeconomic status warrant close monitoring and support to prevent escalation of mood episodes.

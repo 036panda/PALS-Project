@@ -1,0 +1,17 @@
+7
+
+*   **Age (40):** +0.5 (Increased risk with age, though 40 is moderate)
+*   **BMI (16.7):** +1.5 (Underweight, indicating potential nutritional deficiencies or underlying health issues)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to cardiovascular issues, increasing overall health risk)
+*   **Current_Diagnosis (Depression):** +2.0 (Mental health conditions are a significant risk factor for hospitalization, both directly and indirectly)
+*   **Smoking (Yes):** +2.0 (Major risk factor for numerous health problems, including respiratory and cardiovascular diseases)
+*   **HAM-D (18–24: Moderate Depression):** +1.0 (Confirms and quantifies the severity of depression, adding to the risk)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of depression, indicating ongoing distress and potential for worsening)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating ongoing distress and potential for worsening)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer access to healthcare, nutrition, and higher stress levels)
+*   **Weekly_Alcohol_Intake (3):** -0.5 (Moderate alcohol intake, not a significant risk factor in this range)
+*   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep, a protective factor)
+*   **Employment (Employed):** -0.5 (Indicates some level of stability and access to resources)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits contribute to overall health risk)
+
+The risk score is calculated by summing the positive contributions from identified health risk factors (underweight, family history of hypertension, current depression diagnosis and its symptoms, smoking, and low socioeconomic status) and subtracting minor protective factors (adequate sleep, employment, and moderate alcohol intake), reflecting their direct causal impact on hospitalization likelihood.

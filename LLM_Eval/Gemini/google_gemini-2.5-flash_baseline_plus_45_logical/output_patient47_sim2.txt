@@ -1,0 +1,33 @@
+7.5
+
+**Input Factors and Contributions:**
+
+*   **Current_Diagnosis: Schizophrenia:** +3.0 (Significant chronic mental illness, high risk of hospitalization for management or acute episodes)
+*   **Family_Health_History: Heart Disease:** +0.5 (Increased genetic predisposition to cardiovascular issues, which can lead to hospitalization)
+*   **BMI: 27.1 (Overweight):** +0.5 (Increased risk for various health complications, including cardiovascular and metabolic issues)
+*   **HAM-D: 7–17: Mild Depression:** +1.0 (While mild, depression can exacerbate other conditions or lead to self-harm if untreated, increasing hospitalization risk)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (Symptoms often associated with mental health decline or underlying physical issues)
+*   **Loss_of_Interest: Yes:** +0.5 (Anhedonia, a key symptom of depression and other mental health conditions, indicating potential worsening)
+*   **Age: 22:** -0.5 (Generally lower risk of age-related hospitalization compared to older adults)
+*   **Weekly_Alcohol_Intake: 2:** -0.2 (Low, non-problematic alcohol consumption)
+*   **Smoking: No:** -0.5 (Absence of a major risk factor for numerous diseases)
+*   **Hours_of_Sleep: 8.9:** -0.2 (Adequate sleep, beneficial for overall health)
+*   **Employment: Student:** +0.2 (Potential for academic stress, but also access to university health services)
+*   **Socioeconomic_Status: Middle:** -0.2 (Generally better access to healthcare and resources than lower SES)
+*   **Likes_Vegetables: No:** +0.3 (Poor dietary habit, contributing to potential health issues)
+*   **Exercises: No:** +0.5 (Lack of physical activity, a significant risk factor for numerous chronic diseases)
+*   **Orders_Takeout: Daily:** +0.5 (Likely indicative of a diet high in processed foods, contributing to poor health)
+*   **Skips_Breakfast: Yes:** +0.2 (Poor dietary habit, can impact metabolism and energy levels)
+*   **Allergy: Pollen:** +0.2 (Can lead to respiratory issues or severe allergic reactions requiring medical attention)
+*   **Wears_Glasses: Yes:** -0.1 (Indicates access to and utilization of healthcare for vision correction)
+*   **Water_Intake_oz: 43.4:** -0.1 (Adequate hydration, beneficial for health)
+*   **Annual_Charity_Donation: Always:** -0.1 (Suggests a degree of prosocial behavior and potentially better mental well-being)
+*   **Helps_Elderly: Sometimes:** -0.1 (Prosocial behavior, potentially linked to better mental health)
+*   **Relationship_Status: Dating:** -0.1 (Social support can be a protective factor)
+*   **Bilingual: Yes:** -0.1 (Cognitive benefits, potentially linked to better health outcomes)
+*   **Picks_Up_Litter: Always:** -0.1 (Prosocial behavior, potentially linked to better mental well-being)
+*   **Votes: Always:** -0.1 (Civic engagement, potentially linked to better mental well-being)
+
+**Justification:**
+
+The risk score is calculated by summing the contributions of factors causally linked to hospitalization risk, with positive values for increased risk and negative for decreased risk. The primary drivers are the severe mental health diagnosis (Schizophrenia) and associated symptoms (depression, sadness, loss of interest), compounded by lifestyle factors like lack of exercise and poor diet, while protective factors like age and healthy habits slightly mitigate the overall risk.

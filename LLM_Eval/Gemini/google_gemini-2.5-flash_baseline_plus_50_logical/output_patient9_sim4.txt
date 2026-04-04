@@ -1,0 +1,15 @@
+1. 4
+
+2. *   Age (35): +0.5 (Slightly elevated risk for this age group compared to younger, but not high risk)
+*   BMI (26.8): +0.5 (Overweight, contributing to slightly increased risk)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant chronic mental health condition, directly increasing hospitalization risk)
+*   Weekly_Alcohol_Intake (4 units): +0.5 (Moderate intake, but still a factor in overall health)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (7–17: Mild Depression): +1.0 (Indicates current mental health distress, increasing risk)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of potential underlying issues or exacerbation of existing conditions)
+*   Hours_of_Sleep (5.3): +1.0 (Insufficient sleep, a significant contributor to poor health and mental well-being)
+*   Exercises (No): +0.5 (Lack of physical activity, contributing to overall health risks)
+*   Socioeconomic_Status (Middle): 0.0 (Neutral, neither significantly protective nor detrimental)
+*   All other factors: 0.0 (No direct or significant causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as chronic conditions (Bipolar), lifestyle choices (alcohol, sleep, exercise), and current health symptoms (mild depression, fatigue, overweight BMI). Protective factors (non-smoking) reduce the score, while other factors are deemed neutral due to a lack of direct causal impact on hospitalization.

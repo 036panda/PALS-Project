@@ -1,0 +1,12 @@
+1. Risk Assessment Score: 4
+
+2. Parameter contributions:
+    * BMI (30.9): +1 (Obese Class I)
+    * Current_Diagnosis (Bipolar): +3
+    * Loss_of_Interest (Yes): +1
+    * Skips_Breakfast (Yes): +1
+    * Exercises (No): +1
+    * Has_Cheated_on_an_Assignment_Before (Yes): -1 (This is a negative risk factor, as it suggests a willingness to take shortcuts, which might extend to health-seeking behaviors, but in this context, it's a very minor and speculative factor. For the purpose of this exercise, I'll assign a small negative value to demonstrate its consideration, though its impact on hospitalization risk is likely negligible.)
+    * Annual_Charity_Donation (Always): -2 (Suggests a pro-social behavior and potentially better access to resources or a more stable life, which can indirectly reduce health risks.)
+
+3. Rationale: The primary drivers of this score are the diagnosis of Bipolar disorder and an obese BMI. Other factors like loss of interest, skipping breakfast, and lack of exercise contribute to a higher risk, while consistent charity donation slightly mitigates it.

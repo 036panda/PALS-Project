@@ -1,0 +1,19 @@
+1. 2.0
+
+2. *   **Age (52):** +0.5 (Increased risk with age, though moderate for this age)
+*   **BMI (23.2):** +0.0 (Normal range, no direct contribution)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues, a common cause for hospitalization)
+*   **Current_Diagnosis (Anxiety):** +0.5 (Mental health conditions can exacerbate physical symptoms or lead to stress-related health issues requiring hospitalization)
+*   **Weekly_Alcohol_Intake (5):** +0.0 (Moderate intake, no significant direct contribution to hospitalization risk)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor for numerous health conditions)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of depression, which can negatively impact physical health and increase hospitalization risk)
+*   **Been_Sad_or_Fatigued (No):** -0.2 (Absence of symptoms often associated with underlying health issues)
+*   **Loss_of_Interest (No):** -0.2 (Absence of a symptom often associated with underlying health issues)
+*   **Hours_of_Sleep (7.4):** +0.0 (Within healthy range, no direct contribution)
+*   **Employment (Employed):** -0.2 (Often correlates with better access to healthcare and financial stability, reducing risk of delayed care)
+*   **Socioeconomic_Status (Middle):** -0.2 (Generally associated with better access to healthcare and resources)
+*   **Likes_Vegetables (Yes):** -0.2 (Indicates healthier dietary habits, reducing risk of diet-related illnesses)
+*   **Water_Intake_oz (43.6):** +0.0 (Within a reasonable range, no direct contribution)
+*   **All other factors (Race, Gender, Sexual_Orientation, Drinks_Coffee, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal):** +0.0 (No direct or established causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the contributions of factors known to directly influence health outcomes and healthcare utilization. Positive contributions reflect increased risk due to existing conditions, family history, or age, while negative contributions reflect protective factors such as healthy lifestyle choices and the absence of common risk factors.

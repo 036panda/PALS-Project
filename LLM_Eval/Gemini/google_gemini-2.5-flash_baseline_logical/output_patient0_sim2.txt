@@ -1,0 +1,19 @@
+7
+
+*   **Age (37):** +0 (No significant direct contribution to hospitalization risk at this age, assuming general health)
+*   **BMI (20.3):** +0 (Healthy BMI, no direct contribution to increased risk)
+*   **Family_Health_History (Heart Disease):** +1 (Genetic predisposition to a serious chronic condition, increasing long-term risk)
+*   **Current_Diagnosis (Schizophrenia):** +3 (Severe mental illness with high comorbidity and potential for acute episodes requiring hospitalization)
+*   **Race (Asian):** +0 (No direct causal link to increased hospitalization risk)
+*   **Gender (Female):** +0 (No direct causal link to increased hospitalization risk)
+*   **Sexual_Orientation (Homosexual):** +0 (No direct causal link to increased hospitalization risk)
+*   **Weekly_Alcohol_Intake (3 units):** +0 (Within recommended low-risk limits, no direct contribution)
+*   **Smoking (Yes):** +2 (Significant risk factor for numerous chronic diseases, increasing likelihood of hospitalization)
+*   **HAM-D (25+: Severe Depression):** +2 (Severe depression is a significant mental health crisis, increasing risk of self-harm, acute exacerbation, and need for inpatient care)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of these common depressive symptoms, despite HAM-D, suggests some resilience or atypical presentation, slightly mitigating risk)
+*   **Loss_of_Interest (Yes):** +1 (A core symptom of depression, indicating severity and potential for functional impairment)
+*   **Hours_of_Sleep (6.3):** -1 (Adequate sleep, mitigating factor against stress and physical decline)
+*   **Employment (Employed):** -1 (Indicates functional capacity and access to resources, reducing risk)
+*   **Socioeconomic_Status (Middle):** +0 (Neutral, neither significantly increasing nor decreasing risk compared to extremes)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk due to direct causal links to health deterioration or acute events, and negative values indicate mitigating factors. The presence of severe mental illness (Schizophrenia, Severe Depression) and significant lifestyle risk factors (Smoking) are the primary drivers of the elevated score, while employment and adequate sleep offer some protective effects.

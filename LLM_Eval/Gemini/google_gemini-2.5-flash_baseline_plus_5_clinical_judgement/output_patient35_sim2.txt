@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 4.5
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (18):** +0.5 (Younger adults, particularly those with mental health diagnoses, can sometimes face higher hospitalization risks due to acute symptom presentation or less established coping mechanisms.)
+*   **BMI (25.6):** +0.2 (Slightly overweight, which can contribute to general health concerns, but not a primary driver of acute hospitalization risk in itself.)
+*   **Family_Health_History (Hypertension):** +0.3 (While not directly impacting acute psychiatric hospitalization, a family history of chronic conditions can indicate a predisposition to health issues that might complicate care or increase overall vulnerability.)
+*   **Current_Diagnosis (Bipolar):** +2.5 (This is a significant risk factor. Bipolar disorder inherently carries a higher risk of hospitalization due to manic or depressive episodes, psychosis, or suicidal ideation, even if currently stable.)
+*   **Race (Hispanic):** +0.2 (Systemic healthcare disparities and potential cultural barriers can sometimes lead to delayed care or more severe presentations, subtly increasing hospitalization risk for certain minority groups.)
+*   **Gender (Non-binary):** +0.5 (Non-binary individuals often face increased stress, discrimination, and mental health challenges, which can elevate the risk of acute mental health crises requiring hospitalization.)
+*   **Sexual_Orientation (Heterosexual):** 0.0 (No direct impact on hospitalization risk in this context.)
+*   **Weekly_Alcohol_Intake (5):** +0.3 (Moderate alcohol intake, while not excessive, can still interact with mental health conditions or medications, potentially increasing instability.)
+*   **Smoking (No):** -0.2 (Positive health behavior, reducing risk of respiratory or cardiovascular complications that could necessitate hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (This is a strong protective factor, indicating current absence of depressive symptoms, which significantly lowers the immediate risk of hospitalization related to depression.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Further reinforces the absence of acute depressive symptoms, reducing immediate risk.)
+*   **Loss_of_Interest (No):** -0.5 (Another indicator of current mental stability, mitigating risk.)
+*   **Hours_of_Sleep (5.7):** +0.5 (Suboptimal sleep can exacerbate mental health conditions, particularly bipolar disorder, and increase the likelihood of mood dysregulation or acute episodes.)
+*   **Employment (Employed):** -0.3 (Employment often correlates with better mental health, structure, and access to resources, acting as a protective factor.)
+*   **Socioeconomic_Status (High):** -0.5 (Higher socioeconomic status generally provides better access to care, resources, and a more stable environment, reducing hospitalization risk.)
+*   **Drinks_Coffee (No):** 0.0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.2 (Poor dietary habits can contribute to overall poorer physical health, which can indirectly impact mental health stability or complicate care.)
+*   **Favourite_Sport (nan):** 0.0 (No direct impact on hospitalization risk.)
+*   **Votes (Never):** +0.2 (May indicate a degree of disengagement or lack of civic participation, which can sometimes correlate with broader social isolation or mental health challenges, though this is a very minor factor.)
+*   **Height_in_Inches (59):** 0.0 (No direct impact on hospitalization risk.)
+
+3. Clinical-style rationale: This 18-year-old non-binary individual with a bipolar diagnosis presents with a moderate risk of hospitalization, primarily driven by their underlying mental health condition and suboptimal sleep, despite current euthymia and high socioeconomic status. While currently stable, the inherent volatility of bipolar disorder, compounded by potential stressors related to gender identity and sleep deprivation, warrants close monitoring.

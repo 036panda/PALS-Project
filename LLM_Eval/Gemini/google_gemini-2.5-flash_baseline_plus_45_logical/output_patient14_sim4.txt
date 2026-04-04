@@ -1,0 +1,13 @@
+1. 4.5
+
+2. *   **Age (18):** +0.5 (Slightly elevated risk for young adults due to lifestyle factors and potential for new diagnoses.)
+*   **BMI (30.9):** +2.0 (Obesity, BMI > 30, is a significant risk factor for numerous health complications requiring hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Mental health conditions, particularly bipolar disorder, can increase the likelihood of hospitalization due to acute episodes or related physical health issues.)
+*   **Loss_of_Interest (Yes):** +0.5 (While HAM-D is normal, "Loss of Interest" can be an indicator of underlying or emerging mental health concerns that may escalate.)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habits, such as skipping breakfast, can negatively impact overall health and contribute to chronic conditions.)
+*   **Exercises (No):** +1.0 (Lack of regular exercise is a major risk factor for cardiovascular disease, diabetes, and other conditions that may necessitate hospitalization.)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Moderate alcohol intake, within recommended limits, is not considered a risk factor and may even have minor protective effects compared to no intake or heavy intake.)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep, especially at 9.7 hours, is protective against various health issues and promotes overall well-being.)
+*   **Annual_Charity_Donation (Always):** -1.0 (Prosocial behaviors like consistent charity donation often correlate with better mental health and social integration, which are protective factors.)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors (obesity, bipolar disorder, lack of exercise, and certain lifestyle choices) and subtracting the negative contributions from protective factors (adequate sleep, moderate alcohol intake, and prosocial behavior). Each contribution reflects a direct causal link to increased or decreased hospitalization likelihood.

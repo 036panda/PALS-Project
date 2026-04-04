@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed Breakdown:
+
+*   **Age (22):** -0.5 (Younger age generally associated with lower risk of hospitalization for many conditions, though mental health crises can occur at any age.)
+*   **BMI (27.1):** +0.5 (Overweight, which can contribute to various health issues over time, but not acutely high risk.)
+*   **Family_Health_History (Heart Disease):** +0.5 (Increases baseline risk for future cardiovascular events, but not directly impacting immediate hospitalization for current diagnosis.)
+*   **Current_Diagnosis (Schizophrenia):** +5.0 (This is the most significant factor. Schizophrenia carries a high risk of acute exacerbations requiring hospitalization for stabilization, medication adjustment, or safety concerns.)
+*   **Race (Hispanic):** +0.2 (Minority groups can face disparities in healthcare access and outcomes, potentially increasing hospitalization risk due to delayed or inadequate care, though this is a small direct impact.)
+*   **Gender (Non-binary):** +0.2 (Non-binary individuals may experience increased stress, discrimination, and barriers to mental healthcare, potentially increasing risk.)
+*   **Sexual_Orientation (Bisexual):** +0.2 (Similar to gender identity, bisexual individuals may face unique stressors and discrimination, impacting mental health and access to care.)
+*   **Weekly_Alcohol_Intake (2):** -0.1 (Low alcohol intake, unlikely to be a significant factor.)
+*   **Smoking (No):** -0.2 (Absence of smoking is a positive health factor.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (While mild, co-occurring depression with schizophrenia can complicate management and increase distress, potentially contributing to a crisis.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptoms consistent with depression, reinforcing the HAM-D score's impact.)
+*   **Loss_of_Interest (Yes):** +0.5 (Another symptom of depression, further indicating mental health strain.)
+*   **Hours_of_Sleep (8.9):** -0.5 (Good sleep hygiene is a protective factor for mental health.)
+*   **Employment (Student):** +0.3 (Student life can be stressful, potentially exacerbating mental health conditions, but also provides structure.)
+*   **Socioeconomic_Status (Middle):** -0.2 (Middle socioeconomic status generally indicates better access to resources and support compared to lower SES.)
+*   **Drinks_Coffee (Yes):** 0 (Neutral impact.)
+*   **Likes_Vegetables (No):** +0.1 (Poor dietary habits can subtly impact overall health, but not a major driver here.)
+*   **Favourite_Sport (Basketball):** 0 (Neutral impact.)
+*   **Votes (Always):** 0 (Neutral impact.)
+*   **Height_in_Inches (74):** 0 (Neutral impact.)
+*   **Has_Drivers_License (No):** +0.1 (May indicate some limitations in independence or access to services, but minor.)
+*   **Picks_Up_Litter (Always):** 0 (Neutral impact.)
+*   **Uses_Public_Transportation (Sometimes):** 0 (Neutral impact.)
+*   **Donated_Blood (No):** 0 (Neutral impact.)
+*   **Birthday_Month (February):** 0 (Neutral impact.)
+
+3. Clinical Rationale: This young adult faces a significant risk of hospitalization primarily due to their current diagnosis of schizophrenia, which inherently carries a high potential for acute exacerbations requiring inpatient care, further compounded by co-occurring mild depressive symptoms and potential stressors related to their identity and student status.

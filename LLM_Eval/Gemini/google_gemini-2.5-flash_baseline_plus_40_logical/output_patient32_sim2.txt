@@ -1,0 +1,14 @@
+1. 8
+
+2. *   Current_Diagnosis: Schizophrenia: +4 (Directly linked to higher hospitalization rates for mental health crises)
+*   HAM-D: 25+: Severe Depression: +3 (Indicates severe mental health distress requiring potential inpatient care)
+*   Family_Health_History: Diabetes: +1 (Genetic predisposition to a chronic condition that can lead to hospitalization)
+*   BMI: 17.6 (Underweight): +1 (Increased risk of health complications, including those requiring hospitalization)
+*   Skips_Breakfast: Yes: +0.5 (Poor nutritional habit, can exacerbate health issues)
+*   Likes_Vegetables: No: +0.5 (Poor dietary habit, can lead to nutritional deficiencies and health problems)
+*   Age: 19: -1 (Younger age generally correlates with lower overall hospitalization risk compared to older adults, assuming no other severe conditions)
+*   Socioeconomic_Status: High: -1 (Access to better healthcare, nutrition, and living conditions reduces hospitalization risk)
+*   Exercises: Yes: -1 (Positive health behavior, reduces risk of various conditions)
+*   Volunteers: Always: -1 (Indicates social engagement and potentially better mental well-being, reducing risk)
+
+3. The risk score is primarily driven by the severe mental health conditions (Schizophrenia and Severe Depression), which are direct and strong causal factors for hospitalization. Additional contributions come from family history and poor lifestyle choices, while positive health behaviors and socioeconomic status provide mitigating effects.

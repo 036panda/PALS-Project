@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   **Age (40):** +0.5 (Increased risk with age, but 40 is moderate)
+*   **BMI (34.6):** +1.5 (Obese, significant risk factor)
+*   **Family_Health_History (Cancer):** +0.5 (General family history of serious illness increases risk)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition, often requiring hospitalization)
+*   **Race (White):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Gender (Non-binary):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Sexual_Orientation (Bisexual):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +0.0 (Already accounted for by Bipolar diagnosis, or considered mild enough not to add significant independent risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common symptom of worsening mental health)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential for worsening mental health)
+*   **Hours_of_Sleep (8.9):** -0.5 (Adequate sleep, a protective factor)
+*   **Employment (Employed):** -0.5 (Protective factor, often associated with better health outcomes and access to care)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither high nor low risk)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. The causal basis is that certain demographic, health, and lifestyle factors are known to directly influence the likelihood of requiring hospitalization.

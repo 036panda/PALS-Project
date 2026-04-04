@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 8
+
+2. Detailed breakdown of individual attribute impact:
+
+*   **Age (18):** +1 (Young adult, particularly with mental health conditions, can have higher risk of acute crises requiring hospitalization.)
+*   **BMI (24.5):** 0 (Within healthy range, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Asthma):** 0 (While a chronic condition, not directly impacting acute psychiatric hospitalization risk in this context.)
+*   **Current_Diagnosis (Schizophrenia):** +4 (This is a primary driver of hospitalization risk due to the nature of the illness, potential for acute psychotic episodes, and need for stabilization.)
+*   **Race (Native American):** +0.5 (Systemic health disparities and potential for less access to consistent outpatient care can subtly increase risk, though not a direct clinical factor for acute hospitalization.)
+*   **Gender (Male):** +0.5 (Males, particularly young males with schizophrenia, can sometimes present with more severe initial episodes or have higher rates of substance use, though not explicitly stated here.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol use is a protective factor, reducing risk of substance-induced psychosis or exacerbation of symptoms.)
+*   **Smoking (Yes):** +0.5 (Smoking is often associated with poorer health outcomes and can be a comorbidity in individuals with schizophrenia, potentially complicating management.)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Moderate depression, in addition to schizophrenia, significantly increases the risk of suicidal ideation, self-harm, or functional impairment requiring hospitalization.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Confirms depressive symptoms, reinforcing the HAM-D score's impact.)
+*   **Loss_of_Interest (Yes):** +0.5 (Confirms anhedonia, a key symptom of depression, further increasing risk.)
+*   **Hours_of_Sleep (8.3):** -0.5 (Adequate sleep is a protective factor for mental health stability.)
+*   **Employment (Student):** 0 (Neutral impact, can be a source of stress but also structure.)
+*   **Socioeconomic_Status (Middle):** 0 (Neutral impact, neither significantly protective nor risk-increasing in this context.)
+*   **Drinks_Coffee (No):** 0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (Yes):** 0 (Positive health habit, but no direct impact on acute psychiatric hospitalization.)
+*   **Favourite_Sport (Hockey):** 0 (No direct impact on hospitalization risk.)
+*   **Votes (Sometimes):** 0 (No direct impact on hospitalization risk.)
+*   **Height_in_Inches (68):** 0 (No direct impact on hospitalization risk.)
+*   **Has_Drivers_License (No):** 0 (No direct impact on hospitalization risk.)
+*   **Picks_Up_Litter (Always):** 0 (Indicates prosocial behavior, but no direct impact on acute psychiatric hospitalization.)
+*   **Uses_Public_Transportation (Never):** 0 (No direct impact on hospitalization risk.)
+*   **Donated_Blood (Yes):** 0 (Prosocial behavior, but no direct impact on acute psychiatric hospitalization.)
+*   **Birthday_Month (February):** 0 (No direct impact on hospitalization risk.)
+
+3. Clinical Rationale: This 18-year-old male with a primary diagnosis of schizophrenia and co-occurring moderate depression presents with a high risk for hospitalization due to the inherent severity of his mental health conditions, compounded by active depressive symptoms that suggest potential for acute decompensation or safety concerns. While some protective factors exist (no alcohol use, adequate sleep), the combination of schizophrenia and significant depression warrants close monitoring and a high index of suspicion for inpatient care.

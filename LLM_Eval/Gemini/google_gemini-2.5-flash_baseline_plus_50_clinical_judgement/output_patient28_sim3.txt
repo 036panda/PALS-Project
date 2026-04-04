@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (25):** -0.5 (Younger age generally associated with lower risk of hospitalization for many conditions, though mental health crises can occur at any age.)
+*   **BMI (28.5):** +0.5 (Overweight, increasing risk for various health issues, including cardiovascular and metabolic conditions, which can lead to hospitalization.)
+*   **Family_Health_History (Hypertension):** +0.5 (Genetic predisposition to hypertension, a significant risk factor for cardiovascular events requiring hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder carries a substantial risk of hospitalization due to manic or depressive episodes, psychosis, or suicidal ideation.)
+*   **Race (Native American):** +0.5 (Native American populations often face significant health disparities, including higher rates of chronic diseases and poorer access to care, which can increase hospitalization risk.)
+*   **Gender (Non-binary):** +0.2 (While not a direct medical risk, non-binary individuals may experience higher rates of discrimination and stress, potentially impacting mental and physical health, indirectly increasing hospitalization risk.)
+*   **Weekly_Alcohol_Intake (7):** +0.0 (Within recommended limits for weekly intake, so no direct impact on risk.)
+*   **Smoking (No):** -0.5 (Absence of smoking significantly reduces risk for numerous chronic diseases.)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of current depressive symptoms is a protective factor, especially given the bipolar diagnosis.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates better current mental well-being.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of anhedonia is a positive indicator for mental health stability.)
+*   **Hours_of_Sleep (7.8):** -0.2 (Adequate sleep is a protective factor for overall health, including mental health.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better socioeconomic stability and access to resources, reducing stress and improving health outcomes.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to healthcare and resources compared to lower statuses.)
+*   **Drinks_Coffee (No):** +0.0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.2 (Positive dietary habit, contributing to overall health.)
+*   **Exercises (No):** +0.5 (Lack of exercise is a significant risk factor for numerous chronic diseases, increasing hospitalization likelihood.)
+*   **Skips_Breakfast (Yes):** +0.2 (Skipping meals can negatively impact metabolic health and energy levels, potentially contributing to health issues.)
+*   **Allergy (Gluten):** +0.2 (While manageable, a diagnosed allergy requires careful dietary management; non-adherence or accidental exposure could lead to acute symptoms requiring medical attention.)
+*   **Uses_Public_Transportation (Always):** +0.1 (While not a direct health risk, reliance on public transportation can sometimes be associated with less direct access to immediate medical care or increased exposure to infectious agents, though this is a minor factor.)
+
+3. Clinical Rationale: This 25-year-old individual presents with a moderate risk of hospitalization, primarily driven by their bipolar disorder diagnosis, which inherently carries a significant risk of acute episodes requiring inpatient care. While several protective factors exist, such as adequate sleep, employment, and absence of current depressive symptoms, the presence of an overweight BMI, family history of hypertension, and lack of exercise contribute to a heightened risk for future physical health complications that could necessitate hospitalization.

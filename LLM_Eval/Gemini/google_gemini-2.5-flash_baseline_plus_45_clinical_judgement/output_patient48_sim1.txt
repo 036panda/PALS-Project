@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (46):** +0.5 (Moderate increase in risk with increasing age, though 46 is not elderly, it's past young adulthood)
+*   **BMI (28.3):** +0.5 (Overweight, which is a mild risk factor for various health issues)
+*   **Family_Health_History (Heart Disease):** +1.0 (Significant genetic predisposition to a major chronic illness)
+*   **Current_Diagnosis (Bipolar):** +2.0 (This is a primary driver of hospitalization risk, especially if not well-managed, even with a normal HAM-D score, the diagnosis itself carries inherent risk for acute episodes)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Excellent mental health indicator, significantly mitigating the risk associated with Bipolar diagnosis)
+*   **Loss_of_Interest (Yes):** +0.5 (While HAM-D is normal, loss of interest can be a subtle sign of mood dysregulation or an early symptom of a mood episode in bipolar disorder)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to care and resources, reducing risk)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources, often including health insurance)
+*   **Exercises (No):** +0.5 (Lack of exercise is a risk factor for various physical and mental health conditions)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habit, can impact energy levels and overall health)
+*   **Relationship_Status (Single):** +0.5 (Lack of social support can be a risk factor for mental health crises)
+
+3. Clinical Rationale: This individual presents with a moderate risk of hospitalization, primarily driven by their Bipolar diagnosis and family history of heart disease, despite current euthymic mood as indicated by the HAM-D score. Mitigating factors include stable employment, middle socioeconomic status, and good sleep, but the presence of "loss of interest" and lack of exercise warrant close monitoring for potential mood destabilization or general health decline.

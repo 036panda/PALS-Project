@@ -1,0 +1,22 @@
+7
+
+**Input Factors and Contributions:**
+
+*   **Age (36):** +0.5 (Slightly elevated risk for this age group compared to younger adults, but not high risk)
+*   **BMI (31.3 - Obese Class I):** +2.0 (Obesity is a significant risk factor for various health complications requiring hospitalization)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to respiratory issues, increasing hospitalization risk if asthma is severe or poorly managed)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can exacerbate physical symptoms or lead to health-seeking behaviors that may involve hospitalization, or in severe cases, require psychiatric hospitalization)
+*   **Weekly_Alcohol_Intake (5 units):** +0.5 (Moderate alcohol intake, while not excessive, still carries some health risks over time)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (Normal / No Depression):** -0.5 (Good mental health reduces overall health risks)
+*   **Hours_of_Sleep (6.0):** +1.0 (Chronic sleep deprivation is linked to various health problems and weakened immune function, increasing hospitalization risk)
+*   **Employment (Employed):** -0.5 (Generally associated with better access to healthcare and resources, and lower stress than unemployment)
+*   **Socioeconomic_Status (Low):** +2.0 (Strongly correlated with poorer health outcomes, limited access to quality healthcare, and higher rates of chronic diseases, leading to increased hospitalization risk)
+*   **Likes_Vegetables (No):** +1.0 (Poor dietary habits contribute to various health issues)
+*   **Allergy (Pollen):** +0.5 (Can trigger respiratory issues or allergic reactions requiring medical attention, especially if severe)
+*   **Skips_Breakfast (Yes):** +0.5 (Irregular eating habits can negatively impact metabolism and overall health)
+*   **Exercises (Yes):** -1.0 (Regular exercise is a protective factor against many diseases)
+
+**Justification:**
+
+The risk score is calculated by summing the contributions of factors directly linked to physical and mental health, lifestyle choices, and socioeconomic determinants known to influence hospitalization likelihood. Positive contributions are assigned to risk factors like obesity, low socioeconomic status, and poor sleep, while negative contributions are given for protective factors such as not smoking and exercising.

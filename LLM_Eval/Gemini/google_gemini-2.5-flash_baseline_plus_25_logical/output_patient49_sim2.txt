@@ -1,0 +1,14 @@
+1. 4.5
+
+2. *   Age (34): +0.5 (Slightly elevated risk compared to younger adults, but not elderly)
+*   BMI (24.2): +0.0 (Normal range)
+*   Current_Diagnosis (Bipolar): +3.0 (Significant risk factor for hospitalization due to potential for acute episodes, medication management, and co-occurring conditions)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer access to healthcare, higher stress, and worse health outcomes, increasing hospitalization risk)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (While HAM-D is normal, persistent sadness/fatigue can indicate underlying issues or contribute to mental health instability, especially with a bipolar diagnosis)
+*   Weekly_Alcohol_Intake (1): -0.5 (Very low, potentially protective or neutral)
+*   Hours_of_Sleep (8.3): -0.5 (Adequate sleep, generally protective)
+*   Employment (Employed): -0.5 (Indicates stability and access to resources, generally protective)
+*   Smoking (No): -0.5 (Protective factor)
+*   HAM-D (0-6: Normal / No Depression): -0.5 (Protective factor against depression-related hospitalization)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, with a strong emphasis on the direct impact of the Bipolar diagnosis and socioeconomic status, while mitigating factors like good sleep and employment reduce the overall score.

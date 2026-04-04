@@ -1,0 +1,15 @@
+1. 4.5
+
+2. *   **Age (36):** +0.5 (Slightly elevated risk for individuals in their late 30s compared to younger adults, as the body's resilience begins a subtle decline, increasing susceptibility to various health issues.)
+*   **BMI (31.3):** +2.0 (Obesity (BMI > 30) is a significant risk factor for numerous health complications, including cardiovascular disease, diabetes, and respiratory issues, all of which increase hospitalization risk.)
+*   **Family_Health_History (Asthma):** +0.5 (A family history of asthma indicates a genetic predisposition to respiratory conditions, which can exacerbate other health issues or lead to direct hospitalization.)
+*   **Socioeconomic_Status (Low):** +1.0 (Low socioeconomic status is causally linked to reduced access to quality healthcare, poorer nutrition, higher stress levels, and less healthy living environments, all contributing to increased hospitalization risk.)
+*   **Weekly_Alcohol_Intake (5):** +0.0 (Moderate alcohol intake (1-7 drinks/week) is generally not considered a significant independent risk factor for hospitalization.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces the risk of numerous chronic diseases, particularly respiratory and cardiovascular conditions, thereby lowering hospitalization probability.)
+*   **HAM-D (0-6: Normal / No Depression):** -0.5 (Absence of depression indicates better mental health, which is associated with better physical health outcomes and reduced likelihood of hospitalization.)
+*   **Hours_of_Sleep (6.0):** +1.0 (Chronic sleep deprivation (less than 7 hours) weakens the immune system, increases inflammation, and impairs cognitive function, making individuals more susceptible to illness and accidents requiring hospitalization.)
+*   **Allergy (Pollen):** +0.0 (Pollen allergy, while potentially uncomfortable, is not typically a direct cause of hospitalization unless severe and poorly managed, which is not indicated.)
+*   **Skips_Breakfast (Yes):** +0.5 (Skipping breakfast is associated with poorer dietary habits, potential nutrient deficiencies, and an increased risk of metabolic issues, which can indirectly contribute to health problems requiring hospitalization.)
+*   **Exercises (Yes):** -0.5 (Regular exercise is a protective factor, improving cardiovascular health, boosting immunity, and maintaining a healthy weight, thereby reducing the risk of hospitalization.)
+
+3. The risk score is calculated by summing the individual contributions of factors directly and causally linked to health outcomes and healthcare utilization, with positive values indicating increased risk and negative values indicating decreased risk. Factors not directly or causally related to hospitalization risk are assigned a neutral contribution of 0.0.

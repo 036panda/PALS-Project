@@ -1,0 +1,24 @@
+1. 5.5
+
+2. *   Age (73): +2.0 (Increased risk with advanced age)
+*   BMI (22.5): +0.0 (Normal BMI, no direct contribution)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues, potential for complications)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical health and increase hospitalization risk)
+*   Race (Native American): +0.5 (Acknowledged systemic health disparities and limited access to care in some Native American communities)
+*   Gender (Non-binary): +0.0 (No direct causal link to hospitalization risk based on gender identity itself)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (6 units): +0.0 (Moderate intake, not considered a significant risk factor for hospitalization)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Absence of depression, a protective factor)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Indicates potential underlying health issues or stress, even without a depression diagnosis)
+*   Loss_of_Interest (No): +0.0 (No direct contribution)
+*   Hours_of_Sleep (9.7): -0.5 (Adequate sleep, a protective factor)
+*   Employment (Retired): +0.0 (No direct causal link to hospitalization risk)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer health outcomes, limited access to care, and higher hospitalization rates)
+*   Drinks_Coffee (No): +0.0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (No): +0.5 (Indicates potentially suboptimal dietary habits, contributing to poorer health)
+*   Favourite_Sport (Basketball): +0.0 (No direct causal link to hospitalization risk)
+*   Votes (Sometimes): +0.0 (No direct causal link to hospitalization risk)
+*   Height_in_Inches (70): +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age, pre-existing conditions, socioeconomic status, and lifestyle choices, while mitigating factors like good sleep and absence of smoking reduce the score. Each contribution reflects an established epidemiological or clinical relationship between the factor and the likelihood of hospitalization.

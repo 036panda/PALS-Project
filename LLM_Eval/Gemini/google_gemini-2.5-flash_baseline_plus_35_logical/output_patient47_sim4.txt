@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   Age (22): +0.5 (Young adult, generally lower risk, but not zero)
+*   BMI (27.1): +0.5 (Overweight, slight increase in risk)
+*   Family_Health_History (Heart Disease): +1.0 (Genetic predisposition to a serious condition)
+*   Current_Diagnosis (Schizophrenia): +3.0 (Significant mental health condition, often associated with higher hospitalization rates)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mental health concern, even if mild, contributes to overall risk)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of potential underlying issues, including mental health)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of potential underlying issues, including mental health)
+*   Weekly_Alcohol_Intake (2): -0.5 (Low intake, generally considered healthy or neutral)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   Hours_of_Sleep (8.9): -0.5 (Adequate sleep, generally protective)
+*   Employment (Student): +0.5 (Potential for stress, financial strain, or irregular health habits)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better access to healthcare and resources)
+*   Likes_Vegetables (No): +0.5 (Indicates potentially less healthy dietary habits)
+*   Water_Intake_oz (43.4): -0.5 (Adequate hydration, generally protective)
+*   Skips_Breakfast (Yes): +0.5 (Potentially indicates less healthy eating habits or routine)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to health outcomes and hospitalization risk, such as existing diagnoses, family history, lifestyle choices, and mental health indicators, while excluding irrelevant personal preferences or demographic details without established causal links. Positive contributions reflect increased risk, and negative contributions reflect decreased risk.

@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   Age (52): +0.5 (Increased age is a general risk factor for hospitalization)
+*   BMI (16.4): +1.5 (Underweight (BMI < 18.5) is associated with increased health complications and hospitalization risk)
+*   Family_Health_History (Cancer): +1.0 (Family history of cancer indicates a genetic predisposition to serious illness, potentially leading to hospitalization)
+*   Current_Diagnosis (Bipolar): +2.0 (Bipolar disorder is a severe mental illness often requiring hospitalization for acute episodes or medication management)
+*   Weekly_Alcohol_Intake (7 units): +0.0 (Moderate alcohol intake, generally considered up to 14 units per week for men, is not a significant independent risk factor for hospitalization at this level)
+*   Smoking (Yes): +1.5 (Smoking is a major risk factor for numerous chronic diseases that can lead to hospitalization)
+*   HAM-D (7–17: Mild Depression): +0.0 (Mild depression, while a health concern, does not typically directly lead to hospitalization without other compounding factors)
+*   Loss_of_Interest (Yes): +0.0 (While a symptom of depression, it's not a direct hospitalization risk in isolation)
+*   Hours_of_Sleep (4.8): +1.0 (Chronic sleep deprivation (less than 6 hours) is linked to various health problems and increased risk of hospitalization)
+*   Employment (Employed): -0.5 (Employment is generally associated with better health outcomes and access to care, reducing hospitalization risk)
+*   Socioeconomic_Status (Middle): +0.0 (Middle socioeconomic status is not a direct positive or negative contributor to hospitalization risk in this model)
+*   Has_Drivers_License (No): +0.0 (Lack of a driver's license is not a direct causal factor for hospitalization)
+*   Uses_Public_Transportation (Always): +0.0 (Using public transportation is not a direct causal factor for hospitalization)
+*   Donated_Blood (Yes): -0.5 (Donating blood often indicates a healthier individual, potentially reducing hospitalization risk)
+*   Water_Intake_oz (43.7): +0.0 (This water intake level is not a direct causal factor for hospitalization)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as chronic conditions, lifestyle choices, and health indicators, while excluding factors with no direct causal link. Positive contributions reflect increased risk, and negative contributions reflect decreased risk.

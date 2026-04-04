@@ -1,0 +1,19 @@
+1. 5.0
+
+2. *   **Age (19):** +0.5 (Increased risk for young adults with mental health conditions)
+*   **BMI (25.1):** +0.0 (Normal weight, no direct contribution)
+*   **Family_Health_History (nan):** +0.0 (No data, no contribution)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant risk factor for hospitalization)
+*   **Race (Black):** +0.5 (Potential for systemic healthcare disparities contributing to risk)
+*   **Gender (Female):** +0.0 (No direct contribution in this context)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct contribution)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, no significant contribution to hospitalization risk)
+*   **Smoking (No):** -0.5 (Protective factor)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Mild depression adds to overall mental health burden)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of mental health distress)
+*   **Loss_of_Interest (No):** -0.5 (Absence of a significant depressive symptom)
+*   **Hours_of_Sleep (10.3):** +0.0 (Within a reasonable range, no direct contribution)
+*   **Employment (Employed):** -0.5 (Protective factor, indicates stability)
+*   **Socioeconomic_Status (Middle):** +0.5 (While "middle" is generally stable, the presence of severe mental illness can still lead to hospitalization despite this status, and it doesn't fully mitigate the risk from other factors.)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate protective factors. The primary drivers of this score are the severe mental health diagnosis (Schizophrenia) and the presence of mild depression and related symptoms, partially offset by protective factors like being employed and not smoking.

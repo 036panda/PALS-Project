@@ -1,0 +1,21 @@
+7
+
+*   **Age (26):** +0.5 (Younger adults generally have lower hospitalization risk, but not zero.)
+*   **BMI (29.1):** +1.0 (Overweight, increasing risk for various health issues.)
+*   **Family_Health_History (Diabetes):** +1.0 (Genetic predisposition to a chronic condition.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization or increasing risk for physical health complications.)
+*   **HAM-D (0-6: Normal / No Depression):** -0.5 (Absence of clinical depression reduces mental health-related hospitalization risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Indicates potential underlying health issues or mental health strain despite HAM-D score.)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, suggests potential underlying issues.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below recommended, can impact overall health and immune function.)
+*   **Employment (Employed):** -0.5 (Generally associated with better access to healthcare and resources.)
+*   **Socioeconomic_Status (Low):** +1.5 (Strongly correlated with poorer health outcomes and reduced access to preventative care.)
+*   **Weekly_Alcohol_Intake (3):** -0.2 (Moderate intake, generally not a significant risk factor.)
+*   **Smoking (No):** -1.0 (Absence of a major health risk factor.)
+*   **Drinks_Coffee (Yes):** -0.1 (Moderate coffee consumption can have some health benefits.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthier dietary habit.)
+*   **Skips_Breakfast (Yes):** +0.5 (Can negatively impact metabolism and overall health.)
+*   **Allergy (Milk/Eggs):** +0.5 (Requires careful dietary management, potential for accidental exposure and adverse reactions.)
+*   **Water_Intake_oz (45.5):** -0.2 (Adequate hydration, a positive health factor.)
+
+The hospitalization risk score is calculated by summing the contributions of factors directly related to physical and mental health, lifestyle choices, and socioeconomic determinants known to influence health outcomes and the likelihood of requiring medical intervention. Positive contributions reflect increased risk, while negative contributions reflect reduced risk.

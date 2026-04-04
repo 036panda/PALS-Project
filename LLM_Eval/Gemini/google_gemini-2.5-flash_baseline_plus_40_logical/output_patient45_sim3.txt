@@ -1,0 +1,17 @@
+1. 5.5
+
+2. *   Age (41): +0.5 (Slightly elevated risk for middle age, but not elderly)
+*   BMI (26.5): +0.5 (Overweight, contributing to some health risks)
+*   Family_Health_History (Diabetes): +1.0 (Significant genetic predisposition to a chronic condition)
+*   Current_Diagnosis (Depression): +1.5 (Mental health condition directly impacting overall health and potentially leading to hospitalization)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Contradicts Current_Diagnosis, indicating a potential misdiagnosis or remission, reducing risk)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, even if HAM-D is low, indicating ongoing mental health concern)
+*   Hours_of_Sleep (4.7): +1.5 (Severely inadequate sleep, a major contributor to various health issues and hospitalization risk)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   Weekly_Alcohol_Intake (1): -0.2 (Very low, negligible risk)
+*   Socioeconomic_Status (High): -0.5 (Access to better healthcare, nutrition, and living conditions)
+*   Exercises (No): +1.0 (Lack of physical activity is a significant risk factor for numerous health problems)
+*   Skips_Breakfast (Yes): +0.2 (Minor negative health habit)
+*   Allergy (Penecillin): +0.5 (Specific allergy can complicate medical treatment if hospitalization is needed)
+
+3. The risk score is calculated by summing the individual contributions of factors known to causally influence hospitalization risk, with positive values for risk-increasing factors and negative values for risk-decreasing factors, reflecting their direct impact on health and healthcare needs.

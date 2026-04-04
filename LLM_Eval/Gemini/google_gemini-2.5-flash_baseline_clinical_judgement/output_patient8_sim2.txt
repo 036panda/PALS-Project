@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed Breakdown of Attributes:
+
+*   **Age (29):** -1 (Younger age generally associated with lower risk of medical hospitalization, though mental health crises can occur at any age. In this context, it's a slight protective factor against general medical complications.)
+*   **BMI (25.9):** 0 (Normal BMI, no direct impact on hospitalization risk.)
+*   **Family_Health_History (nan):** 0 (Lack of information, no impact.)
+*   **Current_Diagnosis (Anxiety):** +2 (Anxiety, especially if severe or poorly managed, can lead to functional impairment, panic attacks requiring emergency care, or exacerbate other conditions, increasing hospitalization risk.)
+*   **Race (Asian):** 0 (No direct impact on hospitalization risk.)
+*   **Gender (Male):** 0 (No direct impact on hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (5):** 0 (Moderate intake, not a significant risk factor for hospitalization.)
+*   **Smoking (No):** -1 (Absence of smoking is a protective factor against numerous health conditions that could lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Indicates no current depressive symptoms, which is a protective factor against mental health-related hospitalization.)
+*   **Been_Sad_or_Fatigued (Yes):** +1 (Despite a normal HAM-D, the presence of sadness/fatigue suggests some underlying distress or subclinical symptoms that could escalate.)
+*   **Loss_of_Interest (Yes):** +1 (Similar to sadness/fatigue, loss of interest indicates a degree of anhedonia or distress that, while not meeting depression criteria, could contribute to functional decline or mental health crisis.)
+*   **Hours_of_Sleep (3.7):** +2 (Severely restricted sleep is a significant risk factor for exacerbating anxiety, impairing cognitive function, and potentially leading to acute mental health decompensation or physical health issues.)
+*   **Employment (Employed):** -1 (Employment often indicates better functional status and access to resources, a protective factor.)
+*   **Socioeconomic_Status (Middle):** 0 (Middle socioeconomic status is generally neutral in terms of direct hospitalization risk.)
+
+3. Clinical Rationale: This 29-year-old male presents with a primary diagnosis of anxiety, compounded by significant sleep deprivation (3.7 hours), and reported sadness/fatigue and loss of interest, despite a normal HAM-D score. While several protective factors exist (young age, no smoking, employment), the severe sleep deprivation and ongoing distress associated with anxiety significantly elevate the risk for acute mental health decompensation or functional impairment requiring hospitalization.

@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   **Age (42):** +0.5 (Slightly increased risk with age, but not a major factor at 42)
+*   **BMI (13.4):** +3.0 (Severely underweight, indicating significant health concerns)
+*   **Family_Health_History (Diabetes):** +1.0 (Genetic predisposition to a chronic condition)
+*   **Current_Diagnosis (nan):** +0.0 (No immediate acute diagnosis)
+*   **Race (Native American):** +0.5 (Some health disparities exist for this demographic)
+*   **Gender (Other):** +0.0 (No direct causal link to hospitalization risk)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mental health can impact physical health and adherence to care)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common symptom of underlying issues)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential for worsening mental health)
+*   **Hours_of_Sleep (5.0):** +1.0 (Insufficient sleep, impacting overall health and immune function)
+*   **Employment (Employed):** -0.5 (Indicates some level of stability and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources)
+*   **Drinks_Coffee (Yes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Never):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (64):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. The primary drivers of this score are the severely low BMI, family history of diabetes, and insufficient sleep, which are direct indicators of potential health vulnerabilities.

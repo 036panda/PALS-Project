@@ -1,0 +1,19 @@
+1. 0.5
+
+2. *   **Age (22):** -0.5 (Younger age generally correlates with lower hospitalization risk)
+*   **BMI (21.9):** 0.0 (Within healthy range, no direct contribution)
+*   **Family_Health_History (Cancer):** +0.5 (Indicates a potential genetic predisposition or increased vigilance for health issues, slightly increasing risk)
+*   **Current_Diagnosis (nan):** 0.0 (No current diagnosis, no direct contribution)
+*   **Race (White):** 0.0 (No inherent risk contribution based on race alone)
+*   **Gender (Non-binary):** 0.0 (No inherent risk contribution based on gender identity alone)
+*   **Sexual_Orientation (Heterosexual):** 0.0 (No inherent risk contribution based on sexual orientation alone)
+*   **Weekly_Alcohol_Intake (3):** 0.0 (Within moderate limits, no direct contribution)
+*   **Smoking (No):** 0.0 (Absence of smoking, no direct contribution)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Mild depression can be a comorbidity or a factor influencing health-seeking behavior, slightly increasing risk)
+*   **Been_Sad_or_Fatigued (No):** 0.0 (Absence of these symptoms, no direct contribution)
+*   **Loss_of_Interest (No):** 0.0 (Absence of this symptom, no direct contribution)
+*   **Hours_of_Sleep (9.6):** 0.0 (Within healthy range, no direct contribution)
+*   **Employment (Employed):** 0.0 (Generally associated with better health outcomes, but no direct numerical contribution in this model)
+*   **Socioeconomic_Status (Middle):** 0.0 (No direct numerical contribution in this model)
+
+3. The risk score is calculated by summing the contributions of factors that either positively or negatively influence hospitalization risk based on established health correlations. Younger age is a protective factor, while a family history of serious illness and mild depression are considered minor risk factors due to their potential impact on health or healthcare utilization.

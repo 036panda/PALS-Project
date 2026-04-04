@@ -1,0 +1,24 @@
+1. 6
+
+2. * Age (63): +1 (Increased risk with age)
+* BMI (33.3): +1 (Obesity, BMI > 30)
+* Family_Health_History (Heart Disease): +1 (Genetic predisposition)
+* Current_Diagnosis (Bipolar): +2 (Significant comorbidity increasing hospitalization risk)
+* Race (Hispanic): +0 (No direct causal link to hospitalization risk in this model)
+* Gender (Non-binary): +0 (No direct causal link to hospitalization risk in this model)
+* Sexual_Orientation (Heterosexual): +0 (No direct causal link to hospitalization risk in this model)
+* Weekly_Alcohol_Intake (1): +0 (Low intake, not a significant risk factor)
+* Smoking (No): -1 (Absence of a major risk factor)
+* HAM-D (7–17: Mild Depression): +1 (Mild mental health concern, can contribute to overall health decline)
+* Been_Sad_or_Fatigued (No): -1 (Absence of a symptom often associated with health decline)
+* Loss_of_Interest (No): -1 (Absence of a symptom often associated with health decline)
+* Hours_of_Sleep (7.7): +0 (Within healthy range)
+* Employment (Retired): +0 (No direct causal link to hospitalization risk in this model)
+* Socioeconomic_Status (Middle): +0 (No direct causal link to hospitalization risk in this model)
+* Drinks_Coffee (Yes): +0 (No direct causal link to hospitalization risk in this model)
+* Likes_Vegetables (No): +1 (Poor dietary habit, contributing to overall health risk)
+* Favourite_Sport (Soccer): +0 (No direct causal link to hospitalization risk in this model)
+* Votes (Always): +0 (No direct causal link to hospitalization risk in this model)
+* Height_in_Inches (64): +0 (No direct causal link to hospitalization risk in this model)
+
+3. The risk score is computed by summing individual contributions from factors known to causally influence hospitalization risk, such as age, obesity, family history of disease, and existing mental health conditions, while subtracting for the absence of negative health behaviors. Each contribution reflects a direct causal link to increased or decreased likelihood of hospitalization based on established medical understanding.

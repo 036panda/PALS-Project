@@ -1,0 +1,14 @@
+1. 6.5
+
+2. *   **Age (20):** -0.5 (Lower age generally correlates with lower hospitalization risk.)
+*   **BMI (24.6):** 0.0 (Within healthy range, no direct contribution.)
+*   **Family_Health_History (Cancer):** +0.5 (Indicates a genetic predisposition to certain health issues, increasing general risk.)
+*   **Current_Diagnosis (Schizophrenia):** +4.0 (A severe mental health condition significantly increasing the likelihood of hospitalization due to acute episodes, medication management, or co-occurring physical health issues.)
+*   **Weekly_Alcohol_Intake (6):** +0.5 (Moderate alcohol intake, while not excessive, can contribute to various health issues over time.)
+*   **Smoking (No):** -0.5 (Absence of smoking significantly reduces risk for numerous conditions.)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of depression reduces mental health-related hospitalization risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (While HAM-D is normal, "loss of interest" can be an early or isolated symptom of distress, potentially increasing vulnerability.)
+*   **Socioeconomic_Status (Low):** +1.0 (Lower socioeconomic status is strongly correlated with poorer access to healthcare, higher stress levels, and increased risk of various health complications leading to hospitalization.)
+*   **Exercises (No):** +1.0 (Lack of exercise is a significant risk factor for numerous chronic diseases that can lead to hospitalization.)
+
+3. The hospitalization risk score is calculated by summing the contributions of factors known to causally influence health outcomes and the likelihood of requiring inpatient care, with a strong emphasis on the direct impact of a severe current diagnosis and modifiable lifestyle factors.

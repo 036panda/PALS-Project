@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (35):** +0.5 (Younger adults with mental health conditions may have slightly higher acute risk due to less established coping mechanisms or support systems compared to older, more stable individuals, though this is a minor factor here.)
+*   **BMI (26.8):** +0.2 (Slightly overweight, which can be a minor comorbidity factor, but not significant enough to drive hospitalization risk on its own.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder inherently carries a significant risk of hospitalization due to potential for manic or depressive episodes requiring acute stabilization.)
+*   **Weekly_Alcohol_Intake (4):** +0.3 (Moderate alcohol intake, while not excessive, can subtly exacerbate mood symptoms in bipolar disorder.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (While "mild," depression in the context of bipolar disorder can escalate quickly and indicates a current symptomatic state.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Confirms current symptomatic experience, aligning with the HAM-D score and indicating active mood disturbance.)
+*   **Hours_of_Sleep (5.3):** +1.0 (Chronic sleep deprivation is a known trigger for mood episodes in bipolar disorder and significantly increases risk.)
+*   **Employment (Employed):** -0.5 (Employment often indicates a degree of stability and functional capacity, reducing risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally correlates with better access to resources and support, reducing risk.)
+*   **Relationship_Status (Dating):** -0.5 (Having a romantic relationship can provide social support, which is a protective factor.)
+*   **Religious (Yes):** -0.3 (Religious affiliation can provide a community and coping framework, offering some protective benefit.)
+
+3. Clinical Rationale: This 35-year-old male with bipolar disorder presents with several concerning factors, including current mild depressive symptoms, reported sadness/fatigue, and significantly reduced sleep, all of which are known triggers for mood episodes and increase the likelihood of requiring acute psychiatric intervention. However, his employment, middle socioeconomic status, and relationship status offer some protective factors, mitigating the overall risk.

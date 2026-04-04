@@ -1,0 +1,14 @@
+7
+
+*   **Age (18):** +0.5 (Young adult, generally lower risk than elderly, but past childhood)
+*   **BMI (25.6):** +0.5 (Slightly overweight, minor risk factor)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition, often requiring hospitalization for management or crises)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate alcohol intake, can contribute to health issues over time)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep, linked to various health problems and exacerbation of mental health conditions)
+*   **Socioeconomic_Status (High):** -0.5 (Access to better healthcare, nutrition, and living conditions)
+*   **Allergy (Shellfish):** +0.5 (Potential for severe allergic reaction requiring emergency care)
+*   **Exercises (Yes):** -0.5 (Positive health behavior)
+*   **Orders_Takeout (Weekly):** +0.5 (Frequent takeout can indicate less healthy dietary habits)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as chronic conditions (Bipolar, Family History of Hypertension), lifestyle choices (sleep, alcohol, exercise, diet), and potential acute issues (allergy), while mitigating for protective factors (high socioeconomic status).

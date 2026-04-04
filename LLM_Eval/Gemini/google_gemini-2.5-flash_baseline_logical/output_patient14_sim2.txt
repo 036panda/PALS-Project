@@ -1,0 +1,19 @@
+1. 4.0
+
+2. *   Age (18): +0.0 (No increased risk for hospitalization at this age)
+*   BMI (30.9): +1.0 (Obesity, BMI $\ge$ 30, is a risk factor for various health complications that may necessitate hospitalization)
+*   Family_Health_History (nan): +0.0 (No information, no contribution)
+*   Current_Diagnosis (Bipolar): +2.0 (Bipolar disorder is a significant mental health condition that can lead to acute episodes requiring hospitalization)
+*   Race (Other): +0.0 (No inherent risk contribution from race)
+*   Gender (Non-binary): +0.0 (No inherent risk contribution from gender identity)
+*   Sexual_Orientation (Bisexual): +0.0 (No inherent risk contribution from sexual orientation)
+*   Weekly_Alcohol_Intake (1): +0.0 (Low alcohol intake, not a significant risk factor)
+*   Smoking (No): -0.0 (Absence of smoking is a protective factor, but not a negative contribution to risk)
+*   HAM-D (0–6: Normal / No Depression): -0.0 (Normal HAM-D score, not a negative contribution to risk)
+*   Been_Sad_or_Fatigued (No): -0.0 (Absence of these symptoms, not a negative contribution to risk)
+*   Loss_of_Interest (Yes): +1.0 (While HAM-D is normal, "Loss of Interest" can be a symptom of underlying mental health distress or a precursor to a mood episode, especially in the context of Bipolar disorder, increasing hospitalization risk)
+*   Hours_of_Sleep (9.7): +0.0 (Within a healthy range for an 18-year-old, not a risk factor)
+*   Employment (Student): +0.0 (No inherent risk contribution from student status)
+*   Socioeconomic_Status (Middle): +0.0 (No inherent risk contribution from middle socioeconomic status)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors: obesity (BMI), the presence of a severe mental health diagnosis (Bipolar disorder), and a specific symptom (Loss of Interest) that, while not indicative of current depression, can signal potential instability or worsening of the existing mental health condition, thereby increasing the likelihood of hospitalization.

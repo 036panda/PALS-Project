@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed Breakdown:
+    *   Age (20): -1 (Younger age generally correlates with lower risk of hospitalization for many conditions, though mental health crises can occur at any age.)
+    *   BMI (21.0): 0 (Healthy BMI, no direct impact on hospitalization risk.)
+    *   Family_Health_History (Cancer): 0 (While relevant for long-term health, no immediate impact on current hospitalization risk for the given diagnosis.)
+    *   Current_Diagnosis (Bipolar): +5 (Bipolar disorder carries a significant risk of hospitalization, especially during acute manic or depressive episodes, or for medication management.)
+    *   Race (Black): +1 (Systemic health disparities and potential for delayed or inadequate care can slightly increase hospitalization risk for Black individuals.)
+    *   Gender (Male): 0 (No direct impact on hospitalization risk for bipolar disorder.)
+    *   Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk.)
+    *   Weekly_Alcohol_Intake (0): -1 (Absence of alcohol use reduces risk of complications or exacerbation of mental health symptoms.)
+    *   Smoking (No): -1 (Absence of smoking reduces overall health risks.)
+    *   HAM-D (7–17: Mild Depression): +1 (While mild, it indicates a current depressive state, which can contribute to overall instability in bipolar disorder.)
+    *   Been_Sad_or_Fatigued (No): -1 (Absence of these symptoms suggests better current emotional regulation.)
+    *   Loss_of_Interest (No): -1 (Absence of anhedonia is a positive indicator.)
+    *   Hours_of_Sleep (5.7): +1 (Suboptimal sleep can be a trigger or symptom of mood dysregulation in bipolar disorder, increasing risk.)
+    *   Employment (Student): 0 (Neutral impact.)
+    *   Socioeconomic_Status (Low): +1 (Lower socioeconomic status can be associated with reduced access to consistent care, medication adherence challenges, and increased stress, potentially increasing hospitalization risk.)
+    *   Drinks_Coffee (Yes): 0 (Neutral impact.)
+    *   Likes_Vegetables (Yes): 0 (Neutral impact.)
+    *   Favourite_Sport (Hockey): 0 (Neutral impact.)
+    *   Votes (Sometimes): 0 (Neutral impact.)
+    *   Height_in_Inches (70): 0 (Neutral impact.)
+
+3. Clinical Rationale: This 20-year-old male with bipolar disorder, despite showing some positive indicators like no alcohol/smoking and absence of severe depressive symptoms, presents with a significant underlying risk due to his primary diagnosis, suboptimal sleep, and low socioeconomic status, which can impede consistent care and increase vulnerability to mood episodes requiring hospitalization.

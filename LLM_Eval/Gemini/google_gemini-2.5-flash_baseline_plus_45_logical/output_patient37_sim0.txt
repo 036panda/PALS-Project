@@ -1,0 +1,16 @@
+1. 5.5
+
+2. *   Age (53): +1.0 (Increased risk with age, particularly over 50)
+    *   BMI (25.3): +0.5 (Slightly elevated BMI, approaching overweight)
+    *   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues, which can complicate other health conditions)
+    *   Current_Diagnosis (Depression): +1.0 (Mental health conditions can impact physical health and adherence to treatment)
+    *   HAM-D (18–24: Moderate Depression): +1.0 (Confirms and quantifies the severity of depression, increasing risk)
+    *   Hours_of_Sleep (5.7): +1.0 (Insufficient sleep is a significant risk factor for various health problems)
+    *   Weekly_Alcohol_Intake (4): +0.0 (Moderate intake, not a significant risk factor at this level)
+    *   Smoking (No): -0.5 (Absence of a major risk factor)
+    *   Exercises (No): +1.0 (Lack of physical activity is a significant risk factor for numerous health issues)
+    *   Orders_Takeout (Daily): +0.5 (Frequent takeout often indicates a less healthy diet, contributing to risk)
+    *   Allergy (Dust): +0.0 (Common allergy, not directly increasing hospitalization risk unless severe or poorly managed, which is not indicated)
+    *   Likes_Vegetables (No): +0.5 (Indicates a potentially less healthy diet, contributing to risk)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors such as age, BMI, depression, insufficient sleep, and lack of exercise, and subtracting the negative contribution from the absence of smoking, reflecting their direct causal impact on hospitalization likelihood.

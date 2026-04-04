@@ -1,0 +1,25 @@
+1. Risk Assessment Score: 3
+
+2. Parameter Contributions:
+    * Age (20): -1 (Lower risk due to young age)
+    * Family_Health_History (Cancer): +1 (Increased risk due to family history of a serious illness)
+    * Current_Diagnosis (Bipolar): +2 (Increased risk due to chronic mental health condition)
+    * Hours_of_Sleep (5.7): +1 (Increased risk due to insufficient sleep)
+    * Socioeconomic_Status (Low): +1 (Increased risk due to socioeconomic factors)
+    * BMI (21.0): 0 (Normal BMI, no direct impact)
+    * Race (Black): 0 (No direct impact on hospitalization risk in this context)
+    * Gender (Male): 0 (No direct impact on hospitalization risk in this context)
+    * Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk)
+    * Weekly_Alcohol_Intake (0): 0 (No alcohol intake, no direct impact)
+    * Smoking (No): 0 (Non-smoker, no direct impact)
+    * HAM-D (7–17: Mild Depression): 0 (Mild depression, not severe enough to significantly increase hospitalization risk on its own)
+    * Been_Sad_or_Fatigued (No): 0 (Absence of these symptoms, no direct impact)
+    * Loss_of_Interest (No): 0 (Absence of this symptom, no direct impact)
+    * Employment (Student): 0 (No direct impact on hospitalization risk)
+    * Drinks_Coffee (Yes): 0 (No direct impact on hospitalization risk)
+    * Likes_Vegetables (Yes): 0 (Positive health habit, but not directly reducing hospitalization risk in this model)
+    * Favourite_Sport (Hockey): 0 (No direct impact on hospitalization risk)
+    * Votes (Sometimes): 0 (No direct impact on hospitalization risk)
+    * Height_in_Inches (70): 0 (No direct impact on hospitalization risk)
+
+3. Rationale: The patient's young age is a protective factor, but the presence of bipolar disorder, a family history of cancer, insufficient sleep, and low socioeconomic status contribute to an elevated risk for hospitalization.

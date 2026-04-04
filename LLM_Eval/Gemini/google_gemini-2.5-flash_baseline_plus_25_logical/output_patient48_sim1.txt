@@ -1,0 +1,28 @@
+7.5
+
+**Input Factors and Contributions:**
+
+*   **Age (46):** +0.5 (Increased risk with age, though moderate for this age)
+*   **BMI (28.3):** +1.0 (Overweight, contributing to health risks)
+*   **Family_Health_History (Heart Disease):** +1.5 (Genetic predisposition to a serious condition)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition often requiring hospitalization)
+*   **Race (Native American):** +1.0 (Known disparities in healthcare access and outcomes)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Moderate, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Good mental health indicator, despite Bipolar diagnosis, suggesting current stability)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Positive mental health indicator)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, even with normal HAM-D, indicating potential instability in Bipolar)
+*   **Hours_of_Sleep (7.0):** +0.0 (Adequate sleep)
+*   **Employment (Employed):** -0.5 (Associated with better health outcomes and access to care)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally better access to healthcare and resources)
+*   **Drinks_Coffee (Yes):** +0.0 (Neutral)
+*   **Likes_Vegetables (Yes):** -0.2 (Positive dietary habit)
+*   **Votes (Never):** +0.2 (May indicate disengagement or lack of civic participation, potentially correlating with less proactive health management)
+*   **Has_Drivers_License (No):** +0.3 (Potential barrier to accessing healthcare)
+*   **Uses_Public_Transportation (Always):** +0.2 (May indicate reliance on public services, potentially correlating with lower income or less personal control over transport, impacting healthcare access)
+*   **Water_Intake_oz (44.8):** +0.0 (Adequate)
+*   **Bilingual (Yes):** -0.1 (Potential advantage in navigating healthcare systems)
+*   **Can_Ride_Bicycle (No):** +0.1 (May indicate lower physical activity or mobility issues)
+*   **Religious (Yes):** -0.1 (Potential social support network)
+
+The risk score is calculated by summing the contributions of factors directly related to physical and mental health, socioeconomic determinants, and access to care, with the Bipolar diagnosis being the most significant contributor due to its inherent hospitalization risk.

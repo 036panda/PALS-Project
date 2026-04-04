@@ -1,0 +1,19 @@
+1. 4
+
+2. *   Age (74): +2 (Increased age is a significant risk factor for hospitalization)
+*   BMI (29.4): +1 (Overweight BMI is a moderate risk factor)
+*   Family_Health_History (Cancer): +1 (Family history of cancer can indicate a genetic predisposition to health issues, increasing hospitalization risk)
+*   Weekly_Alcohol_Intake (4): +0 (Moderate alcohol intake, not a significant risk factor)
+*   Smoking (No): -1 (Absence of smoking reduces risk)
+*   HAM-D (0-6: Normal / No Depression): -1 (Good mental health reduces risk)
+*   Been_Sad_or_Fatigued (No): -1 (Absence of these symptoms reduces risk)
+*   Loss_of_Interest (No): -1 (Absence of this symptom reduces risk)
+*   Hours_of_Sleep (7.0): +0 (Adequate sleep, not a significant risk factor)
+*   Employment (Retired): +1 (While not inherently a risk, retirement can sometimes be associated with reduced physical activity or social engagement, indirectly increasing risk for some individuals, especially when combined with other factors like age)
+*   Socioeconomic_Status (Middle): +0 (Neutral risk factor)
+*   Drinks_Coffee (No): +0 (Neutral risk factor)
+*   Likes_Vegetables (Yes): -1 (Healthy dietary habit reduces risk)
+*   Water_Intake_oz (44.7): +0 (Adequate hydration, not a significant risk factor)
+*   All other factors (Current_Diagnosis, Race, Gender, Sexual_Orientation, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal): +0 (No direct causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age and BMI, while subtracting contributions from protective factors like healthy lifestyle choices. Factors without a clear causal link to hospitalization risk are assigned a neutral contribution.

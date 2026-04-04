@@ -1,0 +1,17 @@
+7.5
+
+*   **Age (64):** +1.5 (Increased age is a direct risk factor for hospitalization due to general physiological decline and increased comorbidity likelihood.)
+*   **BMI (29.9):** +1.0 (BMI near the overweight/obese threshold increases risk for various health complications, including cardiovascular issues and diabetes, which can lead to hospitalization.)
+*   **Family_Health_History (Asthma):** +0.5 (Family history of asthma suggests a genetic predisposition to respiratory issues, which can exacerbate other conditions or lead to acute episodes requiring hospitalization.)
+*   **Current_Diagnosis (Depression):** +1.5 (Depression, especially when moderate to severe, can lead to poorer self-care, increased risk of other physical illnesses, and in some cases, psychiatric hospitalization.)
+*   **HAM-D (18-24: Moderate Depression):** +1.0 (Confirms and quantifies the severity of depression, directly contributing to the risk associated with the diagnosis.)
+*   **Loss_of_Interest (Yes):** +0.5 (A symptom of depression indicating potential for further decline in self-care or engagement in health-promoting activities.)
+*   **Hours_of_Sleep (6.4):** +0.5 (Slightly below the recommended 7-9 hours, indicating potential for chronic sleep deprivation which can negatively impact immune function and overall health.)
+*   **Employment (Retired):** +0.5 (While not inherently negative, retirement can sometimes be associated with reduced physical activity or social engagement, indirectly impacting health, especially when combined with other risk factors.)
+*   **Race (Native American):** +0.5 (Acknowledging systemic health disparities and higher prevalence of certain chronic conditions within this demographic, which can increase hospitalization risk.)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Moderate alcohol consumption, within recommended limits, is generally not a risk factor and may even have some protective effects for certain conditions, though this is a minor contribution.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk for numerous chronic diseases, particularly cardiovascular and respiratory conditions.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthy dietary habit, contributing to overall well-being and reducing risk of diet-related illnesses.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms, despite a depression diagnosis, suggests some resilience or better management of certain aspects of the condition.)
+
+The risk score is calculated by summing the individual contributions of factors that are causally linked to increased or decreased hospitalization risk, based on established medical and public health knowledge. Positive contributions reflect factors that directly or indirectly elevate the likelihood of hospitalization, while negative contributions reflect protective factors.

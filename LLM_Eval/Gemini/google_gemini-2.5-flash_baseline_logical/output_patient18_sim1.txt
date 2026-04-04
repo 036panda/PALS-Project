@@ -1,0 +1,19 @@
+1. 5.0
+
+2. *   Age (74 years): +2.0 (Increased risk with advanced age)
+*   BMI (29.4): +1.0 (Overweight, contributing to moderate risk)
+*   Family_Health_History (Cancer): +1.0 (Genetic predisposition to certain health issues)
+*   Current_Diagnosis (nan): +0.0 (No immediate diagnosis, neutral)
+*   Race (White): +0.0 (Neutral contribution in this model)
+*   Gender (Male): +0.0 (Neutral contribution in this model)
+*   Sexual_Orientation (Heterosexual): +0.0 (Neutral contribution in this model)
+*   Weekly_Alcohol_Intake (4 units): +0.0 (Moderate intake, neutral)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Absence of a significant mental health risk factor)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of a symptom often associated with underlying health issues)
+*   Loss_of_Interest (No): -0.5 (Absence of a symptom often associated with underlying health issues)
+*   Hours_of_Sleep (7.0): +0.0 (Adequate sleep, neutral)
+*   Employment (Retired): +1.0 (Potential for reduced physical activity and social engagement, increasing risk)
+*   Socioeconomic_Status (Middle): +1.0 (While not low, middle status can still present some barriers to optimal health resources compared to high status)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate reduced risk, reflecting established epidemiological associations between these factors and hospitalization likelihood.

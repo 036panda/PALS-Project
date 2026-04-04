@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +0.5 (Younger adults, especially those with mental health diagnoses, can have higher rates of crisis and hospitalization.)
+*   **BMI (25.6):** +0.2 (Slightly overweight, which can contribute to general health risks, though not a primary driver here.)
+*   **Family_Health_History (Hypertension):** +0.3 (Indicates a genetic predisposition to chronic health issues, which can indirectly increase hospitalization risk over time.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is a significant risk factor for hospitalization due to the nature of the illness, including manic or depressive episodes requiring acute care.)
+*   **Race (Hispanic):** +0.2 (Systemic healthcare disparities and potential barriers to consistent care can slightly elevate risk.)
+*   **Gender (Non-binary):** +0.3 (Minority stress and potential discrimination in healthcare settings can contribute to poorer health outcomes and increased need for acute care.)
+*   **Weekly_Alcohol_Intake (5):** +0.1 (Moderate alcohol intake, while not excessive, can interact with mental health conditions or medications.)
+*   **Hours_of_Sleep (5.7):** +0.4 (Chronic sleep deprivation can exacerbate bipolar symptoms and negatively impact overall health, increasing the likelihood of needing medical intervention.)
+*   **Socioeconomic_Status (High):** -0.5 (Higher socioeconomic status generally correlates with better access to care, resources, and support, reducing hospitalization risk.)
+*   **Donated_Blood (Yes):** -0.1 (Suggests a level of health consciousness and engagement with healthcare, slightly reducing risk.)
+*   **Allergy (Shellfish):** +0.1 (Presence of an allergy, while common, adds a minor layer of potential acute health concern.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with a bipolar diagnosis faces a moderate risk of hospitalization, primarily driven by their mental health condition and suboptimal sleep, despite protective factors like high socioeconomic status. The inherent instability of bipolar disorder, particularly in a young adult, necessitates careful monitoring and proactive management to mitigate acute episodes.

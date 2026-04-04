@@ -1,0 +1,14 @@
+1. 5.5
+
+2. *   Age (22): -0.5 (Lower age generally correlates with lower risk of severe hospitalization)
+*   BMI (23.8): -0.2 (Healthy BMI range)
+*   Family_Health_History (Cancer): +0.5 (Increased genetic predisposition to certain health issues)
+*   Current_Diagnosis (Anxiety): +0.5 (Mental health conditions can exacerbate physical health or lead to poorer health outcomes)
+*   Weekly_Alcohol_Intake (7): +0.2 (Moderate alcohol intake, but still a factor)
+*   Smoking (Yes): +2.0 (Significant risk factor for numerous health complications)
+*   HAM-D (25+: Severe Depression): +2.0 (Severe depression is a major health concern, impacting physical health and adherence to treatment)
+*   Socioeconomic_Status (Low): +0.5 (Associated with poorer access to healthcare, nutrition, and higher stress levels)
+*   Allergy (Gluten): +0.5 (Can lead to health complications if not managed, and indicates a pre-existing health condition)
+*   Exercises (No): +0.5 (Lack of exercise is a risk factor for various chronic diseases)
+
+3. The risk score is calculated by summing the individual contributions of factors known to causally influence hospitalization risk, with positive values indicating increased risk and negative values indicating decreased risk, based on established medical and public health knowledge. Factors like smoking and severe depression carry the highest positive contributions due to their direct and substantial impact on health outcomes and the likelihood of requiring medical intervention.

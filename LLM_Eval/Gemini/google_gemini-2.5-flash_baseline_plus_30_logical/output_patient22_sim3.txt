@@ -1,0 +1,11 @@
+1. 4.5
+
+2. *   Age (56): +1.0 (Increased age is a known risk factor for hospitalization)
+    *   BMI (28.0): +0.5 (BMI in the overweight range is a moderate risk factor)
+    *   Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol intake can contribute to health issues over time)
+    *   HAM-D (7–17: Mild Depression): +1.0 (Depression, even mild, can impact overall health and increase hospitalization risk)
+    *   Loss_of_Interest (Yes): +0.5 (A symptom of depression, indicating potential for worsening mental health)
+    *   Hours_of_Sleep (6.1): +0.5 (Less than optimal sleep can negatively affect health)
+    *   Allergy (Tree Nuts): +0.5 (Presence of a known allergy, even if managed, carries a small inherent risk of severe reaction requiring hospitalization)
+
+3. The risk score is calculated by summing the positive contributions of identified health-related factors that are causally linked to an increased likelihood of hospitalization, such as age, BMI, alcohol intake, depression symptoms, and sleep duration. Other factors are considered neutral as they lack a direct, established causal link to hospitalization risk.

@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed Breakdown:
+    *   **Age (18):** +1 (Younger adults, especially those transitioning to adulthood, with mental health diagnoses can have increased risk due to developing coping mechanisms and navigating new life stages.)
+    *   **BMI (30.9):** +0.5 (Obesity is a general health risk factor, but its direct impact on acute psychiatric hospitalization for bipolar disorder in the absence of other physical health complications is moderate.)
+    *   **Family_Health_History (nan):** +0 (No information, therefore no direct impact on risk score.)
+    *   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder inherently carries a significant risk of hospitalization due to the nature of manic and depressive episodes, requiring stabilization.)
+    *   **Race (Other):** +0 (No specific impact on hospitalization risk based on this category alone without further context.)
+    *   **Gender (Non-binary):** +0.5 (Non-binary individuals may face unique stressors and discrimination, potentially increasing mental health vulnerability, though this is not a direct cause for hospitalization.)
+    *   **Sexual_Orientation (Bisexual):** +0.5 (Similar to gender identity, bisexual individuals may experience minority stress, which can contribute to mental health challenges, but not a direct cause for hospitalization.)
+    *   **Weekly_Alcohol_Intake (1):** -0.5 (Low alcohol intake, indicating responsible use and not a risk factor for hospitalization.)
+    *   **Smoking (No):** -0.5 (Absence of smoking is a positive health indicator.)
+    *   **HAM-D (0–6: Normal / No Depression):** -2 (A normal HAM-D score significantly reduces the immediate risk of hospitalization, indicating no current depressive episode.)
+    *   **Been_Sad_or_Fatigued (No):** -1 (Absence of these symptoms further reduces the immediate risk of a depressive episode requiring hospitalization.)
+    *   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, "loss of interest" can be an anhedonic symptom, which, in the context of bipolar disorder, warrants attention as a potential prodrome or residual symptom.)
+    *   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep is a protective factor for mental health stability.)
+    *   **Employment (Student):** +0 (Being a student can be both a protective factor (structure) and a stressor (academic pressure); neutral impact without further context.)
+    *   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally indicates access to resources and support, reducing risk compared to lower SES.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with bipolar disorder has a moderate risk of hospitalization, primarily driven by their diagnosis and the presence of "loss of interest," despite a normal HAM-D score and adequate sleep. While several protective factors are present, the inherent instability of bipolar disorder, especially in a young adult, necessitates careful monitoring for symptom exacerbation.

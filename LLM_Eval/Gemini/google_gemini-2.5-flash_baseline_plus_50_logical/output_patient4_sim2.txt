@@ -1,0 +1,21 @@
+1. 7.5
+
+2. *   Age (40): +0.5 (Increased risk with age, but 40 is moderate)
+*   BMI (16.7): +1.0 (Underweight, associated with health complications)
+*   Family_Health_History (Hypertension): +1.0 (Genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis (Depression): +1.5 (Mental health conditions can impact physical health and adherence to treatment)
+*   Weekly_Alcohol_Intake (3): +0.0 (Moderate intake, no significant direct contribution)
+*   Smoking (Yes): +2.0 (Major risk factor for numerous diseases)
+*   HAM-D (18–24: Moderate Depression): +1.0 (Confirms and quantifies the impact of depression)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating potential for further health decline)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential for further health decline)
+*   Hours_of_Sleep (8.0): -0.5 (Adequate sleep is protective)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer access to healthcare and healthy lifestyle choices)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits contribute to health risks)
+*   Exercises (No): +1.0 (Lack of physical activity is a significant risk factor)
+*   Skips_Breakfast (Yes): +0.5 (Irregular eating habits can negatively impact metabolism and overall health)
+*   Orders_Takeout (Daily): +0.5 (Frequent takeout often implies less healthy food choices)
+*   Allergy (Mold): +0.0 (Specific allergy, not a general hospitalization risk factor in this context)
+*   Other factors: +0.0 (No direct causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to increased hospitalization risk, such as chronic conditions, lifestyle choices, and socioeconomic determinants, while subtracting for protective factors. Each contribution reflects the established impact of the factor on an individual's likelihood of requiring hospitalization.

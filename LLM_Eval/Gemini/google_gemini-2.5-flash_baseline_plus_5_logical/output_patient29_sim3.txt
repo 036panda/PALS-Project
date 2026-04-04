@@ -1,0 +1,24 @@
+1. 5.5
+
+2. *   **Age (22):** +0.5 (Young adult, generally lower risk, but not zero)
+*   **BMI (35.9):** +2.0 (Obese, significant risk factor for various health issues)
+*   **Family_Health_History (Cancer):** +1.0 (Increased genetic predisposition to certain conditions)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health condition that can exacerbate physical symptoms or lead to poorer health choices)
+*   **Race (Hispanic):** +0.5 (Some ethnic groups face disparities in healthcare access and outcomes, contributing to risk)
+*   **Gender (Female):** +0.0 (Neutral in this context)
+*   **Sexual_Orientation (Bisexual):** +0.5 (Potential for increased stress, discrimination, and healthcare access barriers)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate, generally not a significant risk factor)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression can impact overall health and adherence to care)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common symptoms of worsening mental or physical health)
+*   **Loss_of_Interest (No):** -0.5 (Absence of a key symptom of depression or other health issues)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep, a significant contributor to various health problems)
+*   **Employment (Student):** +0.0 (Neutral, can be stressful but also offers access to health services)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, generally stable access to resources)
+*   **Drinks_Coffee (No):** +0.0 (Neutral)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits, a risk factor for various diseases)
+*   **Favourite_Sport (Soccer):** +0.0 (Neutral)
+*   **Votes (Sometimes):** +0.0 (Neutral)
+*   **Height_in_Inches (61):** +0.0 (Neutral in this context)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established medical and social determinants of health. Factors like obesity, insufficient sleep, and mental health conditions are weighted more heavily due to their direct and significant impact on hospitalization likelihood.

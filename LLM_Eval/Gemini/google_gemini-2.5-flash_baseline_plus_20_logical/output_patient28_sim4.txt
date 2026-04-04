@@ -1,0 +1,17 @@
+1. 3.5
+
+2. *   Age (25): +0.5 (Slightly elevated risk for young adults due to potential for risk-taking behaviors or undiagnosed conditions, though generally lower than older adults)
+*   BMI (28.5): +1.0 (Overweight, a known risk factor for various health issues)
+*   Family_Health_History (Hypertension): +1.0 (Genetic predisposition to a common chronic condition)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant mental health condition often requiring hospitalization for management or acute episodes)
+*   Weekly_Alcohol_Intake (7): +0.5 (Moderate alcohol intake, can contribute to health issues over time)
+*   HAM-D (0-6: Normal / No Depression): -1.0 (Absence of depression, a protective factor against mental health-related hospitalizations)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of common indicators of mental distress)
+*   Loss_of_Interest (No): -0.5 (Absence of a key symptom of depression)
+*   Employment (Employed): -0.5 (Associated with better access to healthcare, financial stability, and mental well-being)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better health outcomes and access to resources)
+*   Hours_of_Sleep (7.8): -0.5 (Adequate sleep, a protective factor for overall health)
+*   Likes_Vegetables (Yes): -0.5 (Indicates healthy dietary habits, a protective factor)
+*   Water_Intake_oz (44.4): +0.5 (Slightly below recommended intake, could contribute to minor health issues)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors (e.g., BMI, Bipolar diagnosis, family history) and subtracting the negative contributions from protective factors (e.g., no depression, employment, healthy sleep), reflecting their direct causal impact on hospitalization likelihood.

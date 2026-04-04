@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   Age (45): +0.5 (Increased risk with age, but 45 is moderate)
+*   BMI (25.2): +0.2 (Slightly overweight, minor risk)
+*   Family_Health_History (Hypertension): +1.0 (Genetic predisposition to a common chronic condition)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical health issues and increase healthcare utilization)
+*   Smoking (Yes): +1.5 (Significant, well-established risk factor for numerous health problems)
+*   HAM-D (7–17: Mild Depression): +0.5 (Mild depression can impact overall health and adherence to care)
+*   Weekly_Alcohol_Intake (1): -0.2 (Very low, potentially protective or neutral)
+*   Hours_of_Sleep (7.9): -0.1 (Adequate sleep, generally protective)
+*   Employment (Employed): -0.2 (Associated with better health outcomes and access to care)
+*   Socioeconomic_Status (Middle): -0.2 (Generally associated with better health access and outcomes than lower SES)
+*   Likes_Vegetables (Yes): -0.2 (Positive dietary habit)
+*   Water_Intake_oz (46.1): -0.1 (Adequate hydration, generally protective)
+*   Donated_Blood (Yes): -0.1 (Implies a certain level of health and engagement with healthcare system)
+*   Picks_Up_Litter (Always): -0.1 (Indicates a proactive and responsible personality, potentially extending to self-care)
+*   Religious (Yes): -0.1 (Can provide social support and coping mechanisms)
+
+3. The risk score is calculated by summing the causal contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. Factors like smoking and family history of hypertension are assigned higher positive contributions due to their well-established causal links to hospitalization, while protective factors like adequate sleep and employment receive negative contributions.

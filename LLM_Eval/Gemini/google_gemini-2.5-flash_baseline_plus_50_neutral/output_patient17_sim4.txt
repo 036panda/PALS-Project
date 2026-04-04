@@ -1,0 +1,15 @@
+1. Risk Assessment Score: 6
+
+2. Parameter contributions:
+    * Age: 20 = -1 (Lower risk for hospitalization in this age group)
+    * BMI: 24.6 = 0 (Normal weight)
+    * Family_Health_History: Cancer = +1 (Increased genetic predisposition to certain health issues)
+    * Current_Diagnosis: Schizophrenia = +4 (Significant risk factor for hospitalization due to mental health crisis or complications)
+    * Socioeconomic_Status: Low = +1 (Associated with poorer health outcomes and access to care)
+    * Loss_of_Interest: Yes = +1 (Symptom of potential mental health decline, even with normal HAM-D)
+    * Smoking: No = -1 (Reduced risk)
+    * Weekly_Alcohol_Intake: 6 = 0 (Moderate, not a significant risk factor)
+    * Exercises: No = +1 (Lack of physical activity can negatively impact overall health)
+    * Allergy: Peanut = +1 (Risk of anaphylaxis, requiring emergency care)
+
+3. Rationale: The primary driver of this score is the current diagnosis of Schizophrenia, which significantly increases the likelihood of hospitalization. This is compounded by low socioeconomic status, a family history of cancer, and a peanut allergy, while a young age and absence of smoking slightly mitigate the overall risk.

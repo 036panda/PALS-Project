@@ -1,0 +1,18 @@
+1. 2.0
+
+2. *   **Age (52):** +0.5 (Increased risk with age, but moderate for this age group)
+*   **BMI (23.2):** +0.0 (Normal BMI, no direct contribution to increased risk)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues, a known comorbidity risk factor)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions are significant risk factors for hospitalization, often leading to physical manifestations or requiring medical intervention)
+*   **Weekly_Alcohol_Intake (5):** +0.0 (Moderate intake, not considered a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of smoking significantly reduces risk)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of depression reduces risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms reduces risk)
+*   **Loss_of_Interest (No):** -0.5 (Absence of this symptom reduces risk)
+*   **Hours_of_Sleep (7.4):** +0.0 (Adequate sleep, no direct contribution to increased risk)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and overall well-being, reducing risk)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, not a direct risk factor in this context)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to better health and reduced risk)
+*   **Donated_Blood (Yes):** +0.5 (While a positive act, it indicates a past medical interaction and potential for underlying health considerations, or at least a willingness to engage with the medical system, which can be a proxy for health awareness that might lead to earlier detection of issues, thus a slight positive contribution to the *risk score* as a marker of engagement, not necessarily increased *illness* risk.)
+
+3. The risk score is calculated by summing the contributions of factors directly linked to health outcomes and healthcare utilization. Positive contributions reflect increased risk due to existing conditions, family history, or factors that may necessitate medical attention, while negative contributions reflect protective factors that reduce the likelihood of hospitalization.

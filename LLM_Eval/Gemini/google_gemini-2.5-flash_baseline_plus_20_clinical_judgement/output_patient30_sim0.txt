@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (49):** +0.5 (Middle age, while not a direct risk factor for hospitalization, can be a period of increased stress and life transitions that may exacerbate mental health conditions.)
+*   **BMI (29.7):** +0.5 (Approaching obesity, which is associated with increased risk of various health complications and can negatively impact mental health.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder carries a significant risk of hospitalization due to mood episodes, psychosis, and potential for self-harm or impaired judgment.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (While mild, the presence of depressive symptoms in a patient with bipolar disorder indicates ongoing mood instability and potential for worsening.)
+*   **Loss_of_Interest (Yes):** +0.5 (Anhedonia is a core symptom of depression and can indicate a more severe or persistent depressive episode, increasing risk.)
+*   **Hours_of_Sleep (5.8):** +1.0 (Chronic sleep deprivation is a known trigger for mood episodes in bipolar disorder and can worsen overall mental and physical health.)
+*   **Employment (Employed):** -0.5 (Employment generally indicates a degree of stability and functioning, which can be a protective factor.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status often correlates with better access to resources and support, reducing risk.)
+*   **Has_Drivers_License (No):** +0.5 (Lack of a driver's license could indicate limited independence or access to services, potentially increasing vulnerability.)
+*   **Uses_Public_Transportation (Always):** +0.5 (While not inherently negative, relying solely on public transportation can sometimes limit access to timely care or support, especially in crisis.)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Low alcohol intake is a protective factor against substance-related complications and mood destabilization.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health indicator and reduces overall health risks.)
+
+3. Clinical Rationale: This patient presents with a significant risk of hospitalization primarily due to their bipolar disorder diagnosis, compounded by mild depressive symptoms, anhedonia, and chronic sleep deprivation, which are known triggers for mood episodes. While some protective factors exist, the combination of mental health vulnerability and lifestyle factors warrants close monitoring.

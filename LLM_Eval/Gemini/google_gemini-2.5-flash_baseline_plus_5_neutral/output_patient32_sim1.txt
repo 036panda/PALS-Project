@@ -1,0 +1,12 @@
+1. Risk Assessment Score: 6
+
+2. Parameter Contributions:
+    * Age (19): -1 (Lower age generally correlates with lower hospitalization risk)
+    * BMI (17.6): +1 (Underweight, which can indicate underlying health issues or poor nutrition)
+    * Family_Health_History (Diabetes): +1 (Increased genetic predisposition to health issues)
+    * Current_Diagnosis (Schizophrenia): +3 (Significant mental health condition with higher hospitalization rates)
+    * HAM-D (25+ Severe Depression): +2 (Severe depression is a major risk factor for hospitalization, especially in conjunction with other mental health diagnoses)
+    * Loss_of_Interest (Yes): +1 (Symptom of depression, indicating potential worsening mental health)
+    * Socioeconomic_Status (High): -1 (Generally associated with better access to healthcare and resources)
+
+3. Rationale: The primary drivers of this score are the severe mental health diagnoses (Schizophrenia and Severe Depression) and the underweight BMI, which collectively indicate a heightened need for potential medical intervention or monitoring. The patient's young age and high socioeconomic status offer some protective factors, but are outweighed by the significant mental health risks.

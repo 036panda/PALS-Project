@@ -1,0 +1,19 @@
+1. 4.0
+
+2. *   **Age (26):** -0.5 (Lower risk for younger age)
+*   **BMI (29.1):** +0.5 (Increased risk for overweight/borderline obese)
+*   **Family_Health_History (Diabetes):** +1.0 (Increased risk due to genetic predisposition)
+*   **Current_Diagnosis (Bipolar):** +1.5 (Increased risk due to chronic mental health condition)
+*   **Weekly_Alcohol_Intake (3):** -0.2 (Moderate intake, potentially protective or neutral)
+*   **Smoking (No):** -1.0 (Significantly reduced risk)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Reduced risk due to absence of depression)
+*   **Been_Sad_or_Fatigued (Yes):** +0.3 (Minor increased risk, potential early indicator)
+*   **Loss_of_Interest (Yes):** +0.3 (Minor increased risk, potential early indicator)
+*   **Hours_of_Sleep (6.2):** +0.5 (Increased risk for insufficient sleep)
+*   **Socioeconomic_Status (Low):** +1.0 (Increased risk due to socioeconomic determinants of health)
+*   **Exercises (No):** +1.0 (Increased risk due to lack of physical activity)
+*   **Allergy (Milk/Eggs):** +0.2 (Minor increased risk due to dietary restrictions/potential inflammation)
+*   **Skips_Breakfast (Yes):** +0.2 (Minor increased risk due to inconsistent nutrition)
+*   **Orders_Takeout (Daily):** +0.5 (Increased risk due to potential for less healthy food choices)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these factors and general health outcomes relevant to hospitalization. Factors like chronic conditions, lifestyle choices, and socioeconomic status are weighted more heavily due to their direct and significant impact on health.

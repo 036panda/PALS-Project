@@ -1,0 +1,19 @@
+1. 5.5
+
+2. *   Age (42): +0.5 (Increased risk with age, but 42 is not elderly)
+*   BMI (13.4): +2.0 (Severely underweight, indicating potential malnutrition or underlying health issues)
+*   Family_Health_History (Diabetes): +1.0 (Genetic predisposition to a chronic condition)
+*   Current_Diagnosis (nan): +0.0 (No current diagnosis, neutral)
+*   Race (Native American): +0.5 (Known health disparities and higher prevalence of certain conditions)
+*   Gender (Other): +0.0 (Neutral, no specific risk assigned without further context)
+*   Sexual_Orientation (Heterosexual): +0.0 (Neutral)
+*   Weekly_Alcohol_Intake (4): +0.0 (Moderate, generally not considered high risk)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mental health can impact physical health and adherence to care)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of a common symptom of underlying issues)
+*   Loss_of_Interest (Yes): +1.0 (Symptom of depression, indicating potential for worsening mental health)
+*   Hours_of_Sleep (5.0): +0.5 (Insufficient sleep, impacting overall health and immune function)
+*   Employment (Employed): -0.5 (Indicates stability and access to resources)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better health outcomes and access to care)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate reduced risk. The primary drivers of this score are the severely low BMI, family history of diabetes, and indicators of mild depression and insufficient sleep, which collectively suggest vulnerabilities that could lead to hospitalization.

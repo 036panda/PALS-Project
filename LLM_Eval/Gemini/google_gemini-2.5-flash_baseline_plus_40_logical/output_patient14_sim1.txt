@@ -1,0 +1,17 @@
+7
+
+*   **Age (18):** +0.5 (Young adult, generally lower risk, but still susceptible to certain conditions)
+*   **BMI (30.9):** +1.5 (Obese, significantly increases risk for various health complications)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Mental health conditions like bipolar disorder are strongly associated with increased hospitalization risk)
+*   **Loss_of_Interest (Yes):** +1.0 (Indicates potential for worsening mental health or other underlying issues)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habits can negatively impact overall health)
+*   **Exercises (No):** +1.0 (Lack of exercise is a significant risk factor for numerous health problems)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Low alcohol intake, potentially protective or neutral)
+*   **Smoking (No):** -1.0 (Absence of smoking is a strong protective factor)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of depression symptoms is a protective factor)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms is a protective factor)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep is a protective factor)
+*   **Water_Intake_oz (44.0):** -0.5 (Adequate hydration is a protective factor)
+*   **Allergy (Penecillin):** +0.5 (Presence of an allergy, while specific, indicates a potential for adverse reactions in a medical setting)
+
+The risk score is calculated by summing the contributions of factors known to either increase or decrease hospitalization risk, with a strong emphasis on direct health indicators and lifestyle choices. The presence of obesity, bipolar disorder, lack of exercise, and loss of interest are significant contributors to increased risk, while the absence of smoking and depression, along with adequate sleep and hydration, provide some protective effects.

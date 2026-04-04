@@ -1,0 +1,18 @@
+7
+
+*   Age (53): +1.0 (Increased age is a general risk factor for hospitalization)
+*   BMI (25.3): +0.5 (Slightly overweight, which can contribute to health issues)
+*   Family_Health_History (Asthma): +1.0 (Genetic predisposition to respiratory issues, which can exacerbate other conditions or lead to hospitalization)
+*   Current_Diagnosis (Depression): +1.5 (Mental health conditions can lead to physical health neglect or direct physical manifestations requiring hospitalization)
+*   Race (Black): +1.0 (Systemic health disparities and higher prevalence of certain chronic conditions in this demographic can increase hospitalization risk)
+*   Gender (Male): +0.5 (Males may have higher rates of certain conditions or less frequent healthcare seeking behavior compared to females)
+*   Weekly_Alcohol_Intake (4 units): +0.0 (Moderate alcohol intake, not a significant risk factor at this level)
+*   Smoking (No): -0.5 (Absence of smoking reduces risk)
+*   HAM-D (18–24: Moderate Depression): +1.5 (Moderate depression directly indicates a higher severity of the current diagnosis, increasing risk)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of these symptoms, despite depression diagnosis, indicates some level of functional resilience)
+*   Loss_of_Interest (No): -0.5 (Absence of this symptom, despite depression diagnosis, indicates some level of functional resilience)
+*   Hours_of_Sleep (5.7): +1.0 (Insufficient sleep is a significant contributor to various health problems)
+*   Employment (Employed): -0.5 (Employment often correlates with better access to healthcare and overall well-being)
+*   Socioeconomic_Status (Middle): -0.5 (Middle socioeconomic status generally implies better access to resources and healthcare compared to lower statuses)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these factors and hospitalization.

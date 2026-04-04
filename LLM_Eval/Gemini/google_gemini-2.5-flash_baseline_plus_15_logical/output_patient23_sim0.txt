@@ -1,0 +1,18 @@
+1. 6
+
+2. *   Age (56): +1 (Increased risk with age)
+*   BMI (31.1): +1 (Obesity increases risk)
+*   Family_Health_History (Asthma): +1 (Genetic predisposition to respiratory issues, which can complicate hospital stays)
+*   Current_Diagnosis (Schizophrenia): +2 (Significant mental health condition often requiring hospitalization or increasing risk of physical health complications)
+*   Race (Black): +1 (Systemic health disparities often lead to higher hospitalization rates)
+*   Loss_of_Interest (Yes): +0.5 (Indicates potential underlying mental health distress, even without full depression diagnosis)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better access to healthcare and resources, reducing risk)
+*   Weekly_Alcohol_Intake (0): -0.5 (Absence of alcohol-related health risks)
+*   Smoking (No): -0.5 (Absence of smoking-related health risks)
+*   HAM-D (0-6: Normal / No Depression): -0.5 (Absence of depressive symptoms, reducing mental health-related hospitalization risk)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of common indicators of mental or physical distress)
+*   Hours_of_Sleep (8.0): -0.5 (Adequate sleep is protective for overall health)
+*   Employment (Employed): -0.5 (Associated with better access to healthcare and financial stability)
+*   Picks_Up_Litter (Always): -0.5 (Indicates a proactive and responsible attitude, potentially correlating with better self-care)
+
+3. The risk score is calculated by summing the contributions of factors known to either increase or decrease hospitalization risk, based on established medical and social determinants of health. Positive contributions are assigned to factors like age, obesity, chronic mental illness, and racial disparities, while negative contributions are given to protective factors such as healthy lifestyle choices, good mental health, and stable socioeconomic status.

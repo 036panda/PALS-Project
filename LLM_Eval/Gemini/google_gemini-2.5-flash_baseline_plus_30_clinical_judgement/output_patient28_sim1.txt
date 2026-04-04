@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (25):** -1 (Younger age generally associated with lower hospitalization risk, especially for chronic conditions.)
+*   **BMI (28.5):** +1 (Overweight, which can contribute to various health issues over time, though not acutely high risk.)
+*   **Family_Health_History (Hypertension):** +1 (Genetic predisposition to a common chronic condition increases long-term risk.)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder carries a significant risk of hospitalization, particularly during acute episodes, even if currently stable.)
+*   **Race (Native American):** +1 (Systemic health disparities and higher prevalence of certain conditions in this population can increase risk.)
+*   **Weekly_Alcohol_Intake (7):** 0 (Within recommended limits, no significant impact.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Absence of depressive symptoms reduces immediate mental health-related hospitalization risk.)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of these symptoms reduces immediate mental health-related hospitalization risk.)
+*   **Loss_of_Interest (No):** -1 (Absence of this symptom reduces immediate mental health-related hospitalization risk.)
+*   **Employment (Employed):** -1 (Employment is a protective factor for mental and physical health.)
+*   **Socioeconomic_Status (Middle):** -1 (Generally associated with better access to healthcare and resources.)
+*   **Allergy (Gluten):** +1 (Requires dietary management; potential for complications if not managed, or if accidental exposure occurs.)
+
+3. Clinical Rationale: This individual presents with a moderate risk of hospitalization primarily due to their diagnosis of bipolar disorder and a family history of hypertension, which are significant risk factors despite current mental health stability and several protective factors. The gluten allergy also introduces a minor, but present, risk of acute health issues if not meticulously managed.

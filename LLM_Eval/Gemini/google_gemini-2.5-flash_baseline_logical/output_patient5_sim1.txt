@@ -1,0 +1,19 @@
+1. 3.5
+
+2. *   Age (61): +1.0 (Increased risk with age, particularly over 60)
+*   BMI (25.8): +0.5 (Slightly overweight, contributing to minor risk)
+*   Family_Health_History (Asthma): +1.0 (Genetic predisposition to respiratory issues)
+*   Current_Diagnosis (nan): +0.0 (No current acute diagnosis, neutral)
+*   Race (Black): +0.5 (Acknowledged disparities in healthcare access and outcomes)
+*   Gender (Female): +0.0 (Neutral for general hospitalization risk)
+*   Sexual_Orientation (Heterosexual): +0.0 (Neutral for general hospitalization risk)
+*   Weekly_Alcohol_Intake (1): +0.0 (Low intake, neutral)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (7–17: Mild Depression): +0.5 (Mental health can impact physical health and healthcare seeking)
+*   Been_Sad_or_Fatigued (No): +0.0 (Absence of these symptoms, neutral)
+*   Loss_of_Interest (No): +0.0 (Absence of this symptom, neutral)
+*   Hours_of_Sleep (5.4): +0.5 (Insufficient sleep, contributing to overall health decline)
+*   Employment (Employed): -0.5 (Often correlates with better health insurance and access to care)
+*   Socioeconomic_Status (High): -0.5 (Correlates with better access to healthcare and healthier lifestyle choices)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk due to factors like age, family history, and insufficient sleep, and negative values reflect protective factors such as not smoking and high socioeconomic status. Each contribution is assigned based on established epidemiological links between the factor and hospitalization risk.

@@ -1,0 +1,22 @@
+1. 5.5
+
+2. *   Age (32): +0.5 (Slightly elevated risk for individuals in their 30s compared to younger adults, but not a major factor)
+*   BMI (25.7): +0.5 (Overweight category, slightly increasing risk)
+*   Family_Health_History (Asthma): +1.0 (Known chronic respiratory condition, increasing susceptibility to respiratory complications)
+*   Current_Diagnosis (nan): +0.0 (No current diagnosis, neutral)
+*   HAM-D (18–24: Moderate Depression): +2.0 (Moderate depression is a significant comorbidity that can impact overall health and increase hospitalization risk)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, contributing to overall health decline)
+*   Hours_of_Sleep (4.8): +1.0 (Significantly low sleep duration, a major risk factor for various health issues)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habit, contributing to overall health risk)
+*   Skips_Breakfast (Yes): +0.5 (Poor dietary habit, contributing to overall health risk)
+*   Exercises (Yes): -1.0 (Positive health behavior, reducing risk)
+*   Allergy (Animal Dander): +0.0 (Specific allergy, but not directly increasing general hospitalization risk without further context)
+*   Water_Intake_oz (44.0): +0.0 (Adequate, neutral)
+*   Weekly_Alcohol_Intake (2): +0.0 (Moderate, neutral)
+*   Smoking (No): -0.5 (Positive health behavior, reducing risk)
+*   Binge_Watches_TV (No): -0.0 (Neutral)
+*   Orders_Takeout (Daily): +0.0 (While frequent takeout can be unhealthy, without specific dietary details, it's not assigned a direct risk)
+*   All other factors: +0.0 (No direct causal link to hospitalization risk based on the provided information)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to health outcomes that could necessitate hospitalization, such as chronic conditions, mental health status, and lifestyle choices, while subtracting contributions from positive health behaviors. Factors with no clear causal link to hospitalization risk are assigned a neutral value.

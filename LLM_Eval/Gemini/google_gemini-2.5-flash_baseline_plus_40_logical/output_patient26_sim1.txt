@@ -1,0 +1,25 @@
+1. 3.5
+
+2. *   Age (52): +0.5 (Slightly elevated risk due to age over 50)
+*   BMI (23.2): +0.0 (Normal BMI, no contribution)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues, increasing hospitalization risk)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical symptoms or lead to hospital visits)
+*   Weekly_Alcohol_Intake (5): +0.0 (Moderate intake, no significant contribution)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Absence of depression, a protective factor)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of symptoms often associated with underlying health issues)
+*   Loss_of_Interest (No): -0.5 (Absence of a symptom of depression or other health concerns)
+*   Hours_of_Sleep (7.4): +0.0 (Adequate sleep, no significant contribution)
+*   Employment (Employed): -0.5 (Associated with better health outcomes and access to care)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral contribution)
+*   Likes_Vegetables (Yes): -0.5 (Indicates a healthy dietary habit)
+*   Exercises (Yes): -0.5 (Significant protective factor against numerous health conditions)
+*   Allergy (Shellfish): +1.0 (Risk of severe allergic reaction requiring hospitalization)
+*   Skips_Breakfast (Yes): +0.5 (Potentially indicates less consistent healthy habits)
+*   Wears_Glasses (Yes): +0.0 (Neutral contribution)
+*   Water_Intake_oz (43.6): +0.0 (Neutral contribution)
+*   Donated_Blood (Yes): -0.5 (Often indicates good general health)
+*   Registered_Organ_Donor (Yes): -0.5 (Often indicates good general health)
+*   Binge_Watches_TV (Yes): +0.5 (May indicate a more sedentary lifestyle)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as existing medical conditions, family history, lifestyle choices, and allergies. Positive contributions reflect increased risk, while negative contributions reflect protective factors, with neutral factors contributing zero.

@@ -1,0 +1,12 @@
+1. 5.5
+
+2. *   Age (49): +0.5 (Increased risk for individuals approaching 50, a common threshold for age-related health concerns.)
+*   BMI (29.7): +1.0 (BMI in the overweight category, approaching obese, is a known risk factor for various health complications.)
+*   Current_Diagnosis (Bipolar): +2.0 (Bipolar disorder is a significant mental health condition that can impact physical health and increase hospitalization risk.)
+*   Loss_of_Interest (Yes): +0.5 (A symptom of depression, indicating potential mental health distress that could escalate.)
+*   Hours_of_Sleep (5.8): +1.0 (Insufficient sleep is a known contributor to various health issues and can exacerbate existing conditions.)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits contribute to overall health decline and increased risk.)
+*   Exercises (No): +0.5 (Lack of physical activity is a significant risk factor for numerous chronic diseases.)
+*   HAM-D (7–17: Mild Depression): -0.5 (While present, the "mild" classification suggests a lower immediate risk compared to moderate or severe depression.)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors such as age, BMI, current diagnosis, sleep deprivation, and unhealthy lifestyle choices, and subtracting a minor negative contribution for the mild severity of depression, reflecting their direct causal impact on hospitalization likelihood.

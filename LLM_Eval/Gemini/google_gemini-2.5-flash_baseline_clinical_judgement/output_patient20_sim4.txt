@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed Breakdown of Attribute Impacts:
+    * Age (19): -1 (Younger age, while potentially associated with first-episode psychosis, also suggests better physical health and resilience compared to older adults with chronic conditions.)
+    * BMI (25.1): 0 (Normal weight, no direct impact on hospitalization risk for schizophrenia.)
+    * Family_Health_History: 0 (Missing data, no impact.)
+    * Current_Diagnosis (Schizophrenia): +5 (Primary driver of hospitalization risk due to potential for acute psychotic episodes, poor insight, and safety concerns.)
+    * Race (Black): +1 (Systemic healthcare disparities and potential for misdiagnosis or delayed treatment can increase hospitalization risk in some contexts.)
+    * Gender (Female): 0 (No direct impact on hospitalization risk for schizophrenia.)
+    * Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk.)
+    * Weekly_Alcohol_Intake (4): 0 (Moderate intake, not a significant risk factor for hospitalization in this context.)
+    * Smoking (No): 0 (Positive health behavior, no direct impact on hospitalization risk for schizophrenia.)
+    * HAM-D (7–17: Mild Depression): +1 (Comorbid mild depression can exacerbate symptoms of schizophrenia and potentially impact functioning, increasing risk slightly.)
+    * Been_Sad_or_Fatigued (Yes): +1 (Consistent with mild depression, indicating some level of distress that could contribute to functional impairment.)
+    * Loss_of_Interest (No): -1 (Absence of anhedonia, a core symptom of depression, suggests better overall mood and engagement compared to if it were present.)
+    * Hours_of_Sleep (10.3): -1 (Adequate to high sleep duration, suggesting good sleep hygiene and potentially better symptom management compared to sleep deprivation.)
+    * Employment (Employed): -1 (Indicates a level of functional stability and social integration, reducing risk.)
+    * Socioeconomic_Status (Middle): -1 (Suggests access to resources and support, reducing risk compared to lower socioeconomic status.)
+
+3. Clinical Rationale: This young individual with a diagnosis of schizophrenia carries a moderate risk of hospitalization primarily due to the inherent nature of the illness, despite several protective factors such as employment, adequate sleep, and the absence of severe depressive symptoms or substance abuse. The presence of mild depression and potential healthcare disparities for Black individuals slightly elevate the overall risk.

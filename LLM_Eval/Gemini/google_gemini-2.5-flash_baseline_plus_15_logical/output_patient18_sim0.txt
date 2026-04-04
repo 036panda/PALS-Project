@@ -1,0 +1,18 @@
+7
+
+*   Age (74): +3 (Increased age is a significant risk factor for hospitalization due to general health decline and increased susceptibility to illness.)
+*   BMI (29.4): +1 (BMI in the overweight range slightly increases hospitalization risk due to associated health complications.)
+*   Family_Health_History (Cancer): +1 (Family history of cancer indicates a genetic predisposition to certain health issues, potentially increasing future hospitalization risk.)
+*   Weekly_Alcohol_Intake (4): +0 (Moderate alcohol intake is generally not considered a significant independent risk factor for hospitalization.)
+*   Smoking (No): -1 (Absence of smoking significantly reduces hospitalization risk.)
+*   HAM-D (0–6: Normal / No Depression): -1 (Normal mental health reduces hospitalization risk.)
+*   Been_Sad_or_Fatigued (No): -1 (Absence of sadness or fatigue indicates good mental and physical well-being, reducing hospitalization risk.)
+*   Loss_of_Interest (No): -1 (Absence of loss of interest indicates good mental health, reducing hospitalization risk.)
+*   Hours_of_Sleep (7.0): +0 (7 hours of sleep is within a healthy range and does not significantly impact hospitalization risk positively or negatively.)
+*   Employment (Retired): +1 (While retirement itself isn't a direct risk, it often correlates with older age and potentially less physical activity, indirectly increasing risk.)
+*   Socioeconomic_Status (Middle): +0 (Middle socioeconomic status is generally neutral in terms of direct hospitalization risk compared to extremes.)
+*   Likes_Vegetables (Yes): -1 (A healthy diet, indicated by liking vegetables, reduces hospitalization risk.)
+*   Water_Intake_oz (44.7): +0 (Adequate water intake is neutral in terms of direct hospitalization risk.)
+*   Donated_Blood (Yes): +1 (Donating blood suggests good overall health and access to healthcare, but also implies a potential for underlying conditions that are monitored, or a temporary physiological stressor, thus a slight positive contribution.)
+
+The risk score is calculated by summing the individual contributions of factors known to causally influence hospitalization risk, with positive values for increased risk and negative values for decreased risk, based on established medical and lifestyle correlations. The patient's advanced age and overweight BMI are the primary drivers of increased risk, while healthy lifestyle choices and good mental health mitigate some of these factors.

@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** -1 (Young age generally associated with lower risk of hospitalization for many conditions, though mental health crises can occur at any age.)
+*   **BMI (25.6):** 0 (Normal weight, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Hypertension):** +0.5 (While a risk factor for future cardiovascular issues, at age 18, its immediate impact on hospitalization is low unless there are early onset complications, which are not indicated.)
+*   **Current_Diagnosis (Bipolar):** +3 (This is a significant risk factor for hospitalization, particularly for mood episodes or crisis management.)
+*   **Race (Hispanic):** 0 (No direct impact on hospitalization risk based on race alone.)
+*   **Gender (Non-binary):** 0 (No direct impact on hospitalization risk based on gender identity alone.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk based on sexual orientation alone.)
+*   **Weekly_Alcohol_Intake (5):** 0 (Moderate intake, not a significant risk factor for hospitalization.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health factor.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Absence of depressive symptoms is a strong protective factor against hospitalization, especially given the bipolar diagnosis.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms is a positive indicator.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of anhedonia is a positive indicator.)
+*   **Hours_of_Sleep (5.7):** +0.5 (Slightly below recommended, which can impact mood stability in bipolar disorder, but not severely low.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better mental health and access to resources.)
+*   **Socioeconomic_Status (High):** -0.5 (Higher socioeconomic status often provides better access to healthcare and support systems.)
+*   **Exercises (Yes):** -0.5 (Regular exercise is a protective factor for both physical and mental health.)
+*   **All other attributes:** 0 (No direct or significant impact on hospitalization risk in this context.)
+
+3. This 18-year-old individual with a bipolar diagnosis presents with a moderate risk of hospitalization, primarily driven by the inherent nature of their mental health condition. However, several protective factors, including the absence of current depressive symptoms, employment, high socioeconomic status, and regular exercise, significantly mitigate this risk.

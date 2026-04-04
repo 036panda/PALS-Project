@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +1 (Young adults, especially those with mental health diagnoses, can be at higher risk for acute episodes requiring hospitalization.)
+*   **BMI (30.9):** +0.5 (Obesity is a general health risk factor, but its direct impact on *acute psychiatric hospitalization* for bipolar disorder at this age is moderate.)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder inherently carries a significant risk of hospitalization due to manic or depressive episodes, especially in early stages of diagnosis or management.)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, "Loss of Interest" can be a symptom of emerging or subthreshold depressive symptoms, which can escalate.)
+*   **Employment (Student):** +0.5 (Academic stress can be a trigger for mood episodes in individuals with bipolar disorder.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to resources and support, reducing risk compared to lower SES.)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep is a protective factor for mood stability in bipolar disorder.)
+*   **Exercises (No):** +0.5 (Lack of exercise is a general health risk and can negatively impact mood regulation.)
+*   **Skips_Breakfast (Yes):** +0.5 (Irregular eating habits can sometimes destabilize mood in vulnerable individuals.)
+
+3. Clinical Rationale: This 18-year-old with a recent diagnosis of bipolar disorder presents with several risk factors, including the inherent nature of their diagnosis, academic stressors, and some lifestyle choices that could impact mood stability. While they report adequate sleep and a normal HAM-D score, the presence of "loss of interest" warrants close monitoring for potential depressive exacerbation, contributing to a moderate-to-high risk of hospitalization.

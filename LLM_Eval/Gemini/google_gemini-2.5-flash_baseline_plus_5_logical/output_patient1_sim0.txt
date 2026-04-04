@@ -1,0 +1,24 @@
+1. 7.5
+
+2. *   **Age (22):** +0.0 (Younger age generally lower risk, but not a protective factor here)
+*   **BMI (23.8):** +0.0 (Healthy range)
+*   **Family_Health_History (Cancer):** +0.5 (Increased genetic predisposition to various health issues, including those that may necessitate hospitalization)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions, especially when untreated or severe, can lead to physical symptoms or exacerbate existing conditions, increasing hospitalization risk)
+*   **Race (Other):** +0.5 (Acknowledging potential systemic health disparities and access to care issues that can increase risk for marginalized groups)
+*   **Gender (Non-binary):** +0.5 (Similar to race, potential for systemic health disparities, discrimination, and unique health challenges that can increase risk)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (7 units):** +0.0 (Within recommended limits, no direct causal link to increased risk)
+*   **Smoking (Yes):** +2.0 (Significant causal factor for numerous chronic diseases, respiratory issues, and cardiovascular problems, all increasing hospitalization risk)
+*   **HAM-D (25+: Severe Depression):** +2.0 (Severe depression is a major mental health crisis that can lead to self-harm, neglect of physical health, or require inpatient psychiatric care, directly increasing hospitalization risk)
+*   **Been_Sad_or_Fatigued (No):** -0.0 (Absence of these symptoms is not a protective factor given other severe conditions)
+*   **Loss_of_Interest (No):** -0.0 (Absence of this symptom is not a protective factor given other severe conditions)
+*   **Hours_of_Sleep (6.3):** +0.0 (Slightly below ideal, but not a significant causal factor for immediate hospitalization risk in isolation)
+*   **Employment (Student):** +0.0 (No direct causal link to hospitalization risk)
+*   **Socioeconomic_Status (Low):** +1.0 (Strong causal link to poorer health outcomes, limited access to healthcare, and higher rates of chronic conditions, all increasing hospitalization risk)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -0.0 (Positive health behavior, but not a strong enough protective factor to offset other risks)
+*   **Favourite_Sport (Hockey):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Sometimes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (59):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as severe depression, smoking, and low socioeconomic status, which directly increase the likelihood of needing inpatient care. Factors like family history, anxiety, and marginalized identities contribute due to their association with increased health vulnerabilities and systemic barriers to care.

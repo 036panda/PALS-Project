@@ -1,0 +1,29 @@
+7
+
+**Input Factors and Contributions:**
+
+*   **Age (46):** +0.5 (Increased risk with age, though 46 is moderate)
+*   **BMI (28.3):** +1.0 (Overweight, contributing to health risks)
+*   **Family_Health_History (Heart Disease):** +1.5 (Genetic predisposition to a serious condition)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Moderate, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depressive symptoms, a protective factor)
+*   **Loss_of_Interest (Yes):** +0.5 (Potential indicator of underlying mental health issues or worsening Bipolar symptoms)
+*   **Hours_of_Sleep (7.0):** +0.0 (Adequate sleep, neutral)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes)
+*   **Exercises (No):** +1.0 (Lack of physical activity is a significant health risk)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habit, can impact overall health)
+*   **Allergy (Pollen):** +0.0 (Common allergy, not typically a hospitalization risk)
+*   **Can_Ride_Bicycle (No):** +0.5 (May indicate lower physical activity or mobility issues)
+*   **Has_Drivers_License (No):** +0.5 (May indicate limited access to transportation for healthcare, or other underlying issues)
+*   **Uses_Public_Transportation (Always):** +0.0 (Neutral, but combined with no driver's license, could imply limited access to care)
+*   **Water_Intake_oz (44.8):** +0.0 (Adequate, neutral)
+*   **Relationship_Status (Single):** +0.5 (Lack of social support can be a risk factor for mental and physical health)
+*   **Binge_Watches_TV (Yes):** +0.5 (Sedentary behavior, often linked to poor health habits)
+*   **Orders_Takeout (Weekly):** +0.5 (Frequent takeout can indicate poor dietary choices)
+
+**Justification:**
+
+The risk score is derived by summing the contributions of factors causally linked to hospitalization risk, such as existing medical conditions (Bipolar), family history, lifestyle choices (lack of exercise, poor diet), and socioeconomic indicators. Protective factors like employment and absence of depression reduce the score, while risk factors like being overweight and a family history of heart disease increase it.

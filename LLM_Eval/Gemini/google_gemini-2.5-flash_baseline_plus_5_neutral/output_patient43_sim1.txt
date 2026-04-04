@@ -1,0 +1,25 @@
+1. Risk Assessment Score: 3
+
+2. Parameter contributions:
+    * Age (20): -1 (Lower risk for hospitalization at this age)
+    * BMI (21.0): 0 (Healthy weight)
+    * Family_Health_History (Cancer): +1 (Increased genetic predisposition to health issues)
+    * Current_Diagnosis (Bipolar): +2 (Significant mental health condition requiring ongoing management)
+    * Race (Black): +1 (Systemic health disparities can increase risk)
+    * Gender (Male): 0 (No direct impact on hospitalization risk in this context)
+    * Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk)
+    * Weekly_Alcohol_Intake (0): -1 (No alcohol consumption is a positive health factor)
+    * Smoking (No): -1 (Non-smoker is a positive health factor)
+    * HAM-D (7–17: Mild Depression): +1 (Mild depression can contribute to overall health burden)
+    * Been_Sad_or_Fatigued (No): 0 (Absence of these symptoms is positive)
+    * Loss_of_Interest (No): 0 (Absence of this symptom is positive)
+    * Hours_of_Sleep (5.7): +1 (Slightly below recommended sleep, can impact health)
+    * Employment (Student): 0 (No direct impact on hospitalization risk)
+    * Socioeconomic_Status (Low): +1 (Associated with poorer health outcomes and access to care)
+    * Drinks_Coffee (Yes): 0 (No direct impact on hospitalization risk)
+    * Likes_Vegetables (Yes): -1 (Positive dietary habit)
+    * Favourite_Sport (Hockey): 0 (No direct impact on hospitalization risk)
+    * Votes (Sometimes): 0 (No direct impact on hospitalization risk)
+    * Height_in_Inches (70): 0 (No direct impact on hospitalization risk)
+
+3. Rationale: The patient's bipolar diagnosis and low socioeconomic status are significant risk factors, while their young age, healthy BMI, and positive lifestyle choices (no smoking, no alcohol, likes vegetables) mitigate some of the overall risk.

@@ -1,0 +1,25 @@
+7
+
+**Input Factors and Contributions:**
+
+*   **Age (18):** +0.5 (Young adult, generally lower risk, but still susceptible to certain conditions)
+*   **BMI (25.6):** +0.5 (Slightly overweight, minor risk factor)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition, often associated with higher hospitalization rates)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate alcohol consumption, can contribute to health issues over time)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep, negatively impacts overall health and immune function)
+*   **Socioeconomic_Status (High):** -0.5 (Generally associated with better access to healthcare and healthier lifestyles)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources)
+*   **Exercises (Yes):** -0.5 (Positive health behavior)
+*   **Allergy (Shellfish):** +0.5 (Potential for severe allergic reaction requiring hospitalization)
+*   **Water_Intake_oz (44.2):** +0.5 (Slightly below recommended intake, can impact overall health)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habit, contributes to health risks)
+*   **Donated_Blood (Yes):** -0.5 (Indicates good general health and willingness to engage in health-promoting activities)
+*   **Registered_Organ_Donor (Yes):** -0.5 (Similar to blood donation, suggests good health and civic engagement)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of depression, a significant protective factor)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common symptoms of underlying health issues)
+*   **Loss_of_Interest (No):** -0.5 (Absence of a key symptom of depression/mental health decline)
+
+**Justification:**
+
+The hospitalization risk score is calculated by summing the positive and negative contributions of various health, lifestyle, and demographic factors. The logical basis is that factors known to increase the likelihood of illness or injury requiring medical intervention contribute positively, while protective factors that reduce such likelihood contribute negatively, with the magnitude of contribution reflecting the strength of the causal relationship.

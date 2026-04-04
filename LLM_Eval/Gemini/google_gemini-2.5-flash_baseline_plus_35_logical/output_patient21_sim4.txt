@@ -1,0 +1,20 @@
+1. 5.5
+
+2. *   **Age (42):** +0.5 (Slightly elevated risk due to age, though not elderly)
+*   **BMI (26.4):** +0.5 (Overweight, contributing to increased health risks)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to serious illness)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can exacerbate physical health issues and increase hospitalization likelihood)
+*   **Race (Native American):** +1.0 (Acknowledged systemic health disparities and higher rates of certain conditions)
+*   **Weekly_Alcohol_Intake (4):** +0.2 (Moderate alcohol intake, slight increase in risk)
+*   **HAM-D (7–17: Mild Depression):** +0.8 (Depression, even mild, can impact self-care and health-seeking behaviors)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptoms indicative of underlying health issues or mental distress)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, impacting overall well-being)
+*   **Hours_of_Sleep (10.2):** -0.5 (Adequate sleep is generally protective, though excessive sleep can sometimes indicate an issue, here interpreted as beneficial)
+*   **Employment (Employed):** -0.5 (Associated with better access to healthcare and resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes than lower SES)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit)
+*   **Donated_Blood (Yes):** -0.2 (Indicates a level of health and engagement with healthcare system)
+*   **Water_Intake_oz (44.7):** +0.2 (Slightly below recommended intake, minor negative impact)
+*   **Allergy (Peanut):** +0.5 (Risk of severe allergic reaction requiring hospitalization)
+
+3. The hospitalization risk score is computed by summing the individual contributions of various health, lifestyle, and demographic factors, where positive values indicate increased risk and negative values indicate decreased risk. Each contribution reflects a direct causal link to potential hospitalization, such as chronic conditions, lifestyle choices, or recognized health disparities.

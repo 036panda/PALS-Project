@@ -1,0 +1,16 @@
+5
+
+*   **Age (45):** +0.5 (Increased risk with age, but 45 is moderate)
+*   **BMI (25.2):** +0.5 (Slightly overweight, contributing to minor risk)
+*   **Family_Health_History (Hypertension):** +1.0 (Direct genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can exacerbate physical health issues and increase healthcare utilization)
+*   **Smoking (Yes):** +2.0 (Significant, well-established risk factor for numerous health problems)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Mild depression can impact overall health and adherence to care)
+*   **Weekly_Alcohol_Intake (1):** -0.2 (Very low, potentially protective or neutral)
+*   **Hours_of_Sleep (7.9):** -0.3 (Adequate sleep is protective)
+*   **Employment (Employed):** -0.5 (Associated with better access to care and overall health)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes and access to resources)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, protective)
+*   **Donated_Blood (Yes):** -0.5 (Indicates a generally healthy individual, able to donate blood)
+
+The risk score is calculated by summing the contributions of identified health risk factors (e.g., smoking, family history, anxiety) and protective factors (e.g., healthy diet, adequate sleep, employment status), with higher weights assigned to factors with stronger, more direct causal links to hospitalization risk.

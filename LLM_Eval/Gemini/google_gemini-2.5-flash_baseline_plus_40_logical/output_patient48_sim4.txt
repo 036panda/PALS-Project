@@ -1,0 +1,18 @@
+1. 5
+
+2. *   Age (46): +0 (No significant increase for this age)
+*   BMI (28.3): +1 (Overweight, contributing to health risks)
+*   Family_Health_History (Heart Disease): +1 (Genetic predisposition to a major health issue)
+*   Current_Diagnosis (Bipolar): +2 (Significant mental health condition often requiring hospitalization)
+*   Weekly_Alcohol_Intake (2): +0 (Moderate, not a significant risk factor)
+*   Smoking (No): -1 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -1 (Absence of depressive symptoms)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of a common symptom of underlying issues)
+*   Loss_of_Interest (Yes): +0.5 (Potential indicator of underlying mental health or other issues)
+*   Hours_of_Sleep (7.0): +0 (Adequate sleep)
+*   Employment (Employed): -0.5 (Indicates stability and access to resources)
+*   Socioeconomic_Status (Middle): -0.5 (Better access to healthcare and resources)
+*   Exercises (No): +1 (Lack of physical activity is a significant health risk)
+*   Skips_Breakfast (Yes): +0.5 (Poor dietary habit, can impact overall health)
+
+3. The risk score is derived by summing the contributions of factors directly and causally linked to hospitalization risk, such as existing medical conditions, family history of disease, lifestyle choices, and mental health indicators, while subtracting contributions from protective factors. Each contribution reflects a direct causal link to increased or decreased likelihood of requiring hospitalization.

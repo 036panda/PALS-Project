@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (25):** -1 (Younger age generally associated with lower risk of hospitalization for many conditions, especially chronic ones.)
+*   **BMI (28.5):** +1 (Overweight, which can contribute to various health issues over time.)
+*   **Family_Health_History (Hypertension):** +1 (Genetic predisposition to a common chronic condition.)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder significantly increases the risk of psychiatric hospitalization, even with current symptom absence.)
+*   **Weekly_Alcohol_Intake (7 units):** 0 (Within recommended low-risk limits.)
+*   **Smoking (No):** -1 (Absence of a major health risk factor.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Absence of current depressive symptoms, which can be a trigger for hospitalization in bipolar disorder.)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of common prodromal or active symptoms of mood episodes.)
+*   **Loss_of_Interest (No):** -1 (Absence of anhedonia, a key symptom of depression.)
+*   **Hours_of_Sleep (7.8):** 0 (Adequate sleep, generally protective.)
+*   **Employment (Employed):** -1 (Indicates stability and access to resources.)
+*   **Socioeconomic_Status (Middle):** -1 (Associated with better access to healthcare and resources.)
+*   **Exercises (No):** +1 (Lack of regular exercise is a risk factor for various health conditions.)
+*   **Allergy (Gluten):** +1 (While manageable, can lead to health complications if not properly managed, and may indicate underlying inflammatory processes.)
+
+3. Clinical-style rationale: This young adult presents with a significant risk factor in their bipolar diagnosis, which inherently carries a higher likelihood of hospitalization despite current symptom remission. However, several protective factors, including good sleep, employment, absence of current depressive symptoms, and healthy alcohol intake, mitigate this risk, resulting in a moderate overall score.

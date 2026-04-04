@@ -1,0 +1,16 @@
+1. 7
+
+2. * Age (18): +0.5 (Young age, while generally lower risk, can be associated with higher risk for certain mental health conditions and risk-taking behaviors)
+* BMI (24.5): +0.0 (Normal weight)
+* Family_Health_History (Asthma): +0.5 (Genetic predisposition to chronic respiratory conditions, which can complicate hospitalizations)
+* Current_Diagnosis (Schizophrenia): +3.0 (Major mental illness with high hospitalization rates)
+* Smoking (Yes): +1.5 (Significant risk factor for numerous health complications requiring hospitalization)
+* HAM-D (18–24: Moderate Depression): +1.0 (Moderate depression increases risk of self-harm or worsening mental state requiring hospitalization)
+* Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, contributing to overall mental health risk)
+* Loss_of_Interest (Yes): +0.5 (Symptom of depression, contributing to overall mental health risk)
+* Weekly_Alcohol_Intake (0): -0.5 (Absence of alcohol consumption reduces risk)
+* Hours_of_Sleep (8.3): -0.5 (Adequate sleep is a protective factor for overall health)
+* Exercises (Yes): -0.5 (Regular exercise is a protective factor for physical and mental health)
+* Allergy (Peanut): +0.5 (Risk of anaphylaxis requiring emergency hospitalization)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as severe mental illness, smoking, and allergies, while mitigating factors like adequate sleep and exercise reduce the score.

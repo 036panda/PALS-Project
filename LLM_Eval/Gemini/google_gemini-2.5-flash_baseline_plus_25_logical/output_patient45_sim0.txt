@@ -1,0 +1,22 @@
+6
+
+**Input Factors and Contributions:**
+
+*   **Age (41):** +0.5 (Increased age generally correlates with higher health risks, though 41 is moderate)
+*   **BMI (26.5):** +1.0 (Overweight category, increasing risk for various conditions)
+*   **Family_Health_History (Diabetes):** +1.5 (Genetic predisposition to a chronic condition)
+*   **Current_Diagnosis (Depression):** +2.0 (Mental health conditions can exacerbate physical health issues and increase hospitalization likelihood)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Contradicts Current_Diagnosis, suggesting the depression might be mild or well-managed, reducing risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential severity or impact on daily functioning)
+*   **Hours_of_Sleep (4.7):** +2.0 (Significantly low sleep, a major risk factor for numerous health problems)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habit, contributing to overall health risk)
+*   **Socioeconomic_Status (High):** -0.5 (Generally associated with better access to healthcare and healthier lifestyles)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Very low, considered protective or neutral)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common depression symptoms, aligning with HAM-D score)
+*   **Employment (Employed):** -0.5 (Associated with better mental and physical health outcomes)
+*   **Water_Intake_oz (44.8):** +0.5 (Slightly below recommended intake, potentially contributing to minor health issues)
+
+**Justification:**
+
+The risk score is derived by summing the individual contributions of factors, where positive values indicate increased risk and negative values indicate decreased risk. The calculation prioritizes direct health indicators, lifestyle choices, and diagnosed conditions known to causally influence hospitalization likelihood.

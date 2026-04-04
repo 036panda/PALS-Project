@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   **Age (53):** +1.0 (Increased risk with age, particularly over 50)
+*   **BMI (25.3):** +0.5 (Slightly overweight, contributing to minor increased risk)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues, which can complicate other conditions)
+*   **Current_Diagnosis (Depression):** +1.5 (Mental health conditions are significant risk factors for hospitalization)
+*   **Race (Black):** +0.5 (Acknowledged disparities in healthcare access and outcomes)
+*   **Gender (Male):** +0.0 (Neutral factor in this specific context)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Neutral factor)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Confirms and quantifies the severity of depression, a direct contributor)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common depressive symptoms, indicating some resilience)
+*   **Loss_of_Interest (No):** -0.5 (Absence of a key depressive symptom, suggesting better coping mechanisms)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep, a significant health detractor)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Suggests adequate access to healthcare and resources)
+*   **Drinks_Coffee (Yes):** +0.0 (Neutral factor)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habit, contributing to overall health risk)
+*   **Favourite_Sport (Soccer):** +0.0 (Neutral factor)
+*   **Votes (Never):** +0.0 (Neutral factor)
+*   **Height_in_Inches (74):** +0.0 (Neutral factor)
+
+3. The risk score is calculated by summing the contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, reflecting established causal links between these health and lifestyle variables and hospitalization likelihood. Factors like age, existing diagnoses, and poor sleep habits directly elevate risk, while the absence of smoking and stable employment mitigate it.

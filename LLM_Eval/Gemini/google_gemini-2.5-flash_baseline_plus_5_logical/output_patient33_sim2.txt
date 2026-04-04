@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   **Age (42):** +0.5 (Slightly increased risk with age, but not a major factor at 42)
+*   **BMI (13.4):** +2.0 (Severely underweight, significantly increases risk of various health complications)
+*   **Family_Health_History (Diabetes):** +1.0 (Genetic predisposition to a chronic condition)
+*   **Current_Diagnosis (nan):** +0.0 (No current diagnosis, neutral)
+*   **Race (Native American):** +0.5 (Some health disparities exist for this demographic)
+*   **Gender (Other):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, generally not a significant risk factor)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mental health can impact physical health and increase hospitalization risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common symptom of underlying health issues)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, contributing to overall mental health impact)
+*   **Hours_of_Sleep (5.0):** +1.0 (Insufficient sleep, a significant risk factor for various health problems)
+*   **Employment (Employed):** -0.5 (Generally associated with better health outcomes and access to care)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither high nor low risk)
+*   **Drinks_Coffee (Yes):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to better health)
+*   **Favourite_Sport (Soccer):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Votes (Never):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Height_in_Inches (64):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+
+3. The risk score is derived by summing the individual contributions of factors, where positive values indicate increased risk (e.g., very low BMI, insufficient sleep, family history of chronic disease, and mild depression) and negative values indicate reduced risk (e.g., not smoking, being employed, and healthy dietary habits). Each contribution reflects a direct or indirect causal link to potential health complications or protective factors influencing hospitalization likelihood.

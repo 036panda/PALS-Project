@@ -1,0 +1,24 @@
+1. 7.5
+
+2. *   Age (22): +0.5 (Younger age, while generally protective, can be a risk factor for certain mental health-related hospitalizations, especially with severe depression.)
+*   BMI (23.8): +0.0 (Normal BMI, no direct contribution to hospitalization risk.)
+*   Family_Health_History (Cancer): +0.5 (Indicates a genetic predisposition to health issues, increasing overall vulnerability.)
+*   Current_Diagnosis (Anxiety): +1.0 (A significant mental health condition that can escalate to require hospitalization, especially when co-occurring with severe depression.)
+*   Race (Other): +0.5 (Often associated with disparities in healthcare access and outcomes, increasing risk.)
+*   Gender (Non-binary): +0.5 (May face unique healthcare challenges and discrimination, contributing to higher risk.)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct contribution to hospitalization risk.)
+*   Weekly_Alcohol_Intake (7 units): +0.5 (Moderate alcohol intake, but can exacerbate mental health conditions.)
+*   Smoking (Yes): +1.0 (Significant risk factor for numerous health complications, including those that may require hospitalization.)
+*   HAM-D (25+: Severe Depression): +2.0 (The most significant individual risk factor, directly indicating a high likelihood of needing intensive care.)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of these specific symptoms, despite severe depression, might indicate some resilience or atypical presentation.)
+*   Loss_of_Interest (No): -0.5 (Similar to above, absence of this key depressive symptom might slightly mitigate immediate risk compared to a full symptom profile.)
+*   Hours_of_Sleep (6.3): +0.5 (Slightly below optimal, contributing to overall health strain.)
+*   Employment (Student): +0.5 (Can be a stressful environment, potentially exacerbating mental health issues.)
+*   Socioeconomic_Status (Low): +1.0 (Strongly correlated with poorer health outcomes, limited access to care, and increased stress, all contributing to higher hospitalization risk.)
+*   Drinks_Coffee (No): +0.0 (No direct contribution to hospitalization risk.)
+*   Likes_Vegetables (Yes): -0.5 (Positive health behavior, slightly mitigating overall risk.)
+*   Favourite_Sport (Hockey): +0.0 (No direct contribution to hospitalization risk.)
+*   Votes (Sometimes): +0.0 (No direct contribution to hospitalization risk.)
+*   Height_in_Inches (59): +0.0 (No direct contribution to hospitalization risk.)
+
+3. The risk score is primarily driven by the severe depression diagnosis and low socioeconomic status, which are major indicators for hospitalization. Other factors like smoking, anxiety, and certain demographic characteristics contribute positively, while the absence of some specific depressive symptoms and positive health behaviors slightly mitigate the overall risk.

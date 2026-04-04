@@ -1,0 +1,24 @@
+7
+
+*   **Age (18):** +0.5 (Young adult, generally lower risk but not zero)
+*   **BMI (30.9):** +1.5 (Obese, increased risk for various health complications)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition, often associated with higher hospitalization rates)
+*   **Race (Other):** +0.0 (No specific risk assigned based on 'Other')
+*   **Gender (Non-binary):** +0.5 (May face healthcare disparities or unique stressors, slightly increasing risk)
+*   **Sexual_Orientation (Bisexual):** +0.5 (May face healthcare disparities or unique stressors, slightly increasing risk)
+*   **Weekly_Alcohol_Intake (1):** +0.0 (Low intake, no significant risk)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Good mental health indicator, reduces risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common symptoms of distress)
+*   **Loss_of_Interest (Yes):** +1.0 (Despite normal HAM-D, this symptom can indicate underlying issues or a need for monitoring)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep, positive health factor)
+*   **Employment (Student):** +0.5 (Potential for stress, irregular schedules, or limited access to consistent care)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither high nor low risk)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (No):** +0.5 (Indicates potentially poorer dietary habits, contributing to overall health risk)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Never):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (62):** +0.0 (No direct causal link to hospitalization risk)
+
+The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as chronic conditions (Bipolar), lifestyle choices (BMI, diet), and mental health indicators (Loss of Interest), while mitigating factors (no smoking, good sleep) reduce the score. Factors with no direct causal link or insufficient information contribute zero.

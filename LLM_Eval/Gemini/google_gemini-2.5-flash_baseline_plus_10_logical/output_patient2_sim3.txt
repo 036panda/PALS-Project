@@ -1,0 +1,18 @@
+1. 6.5
+
+2. *   **Age (40):** +0.5 (Increased risk with age, though moderate at 40)
+*   **BMI (34.6):** +1.5 (Obese, significant risk factor)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to serious illness)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Mental health conditions often require hospitalization, especially if not well-managed)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Indicates a current mental health concern, albeit mild)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential for worsening mental health)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate, not a significant risk factor at this level)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common symptom of worsening mental health)
+*   **Hours_of_Sleep (8.9):** -0.5 (Adequate sleep, protective factor)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes and access to care)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits, potential for long-term health issues)
+*   **Race (White), Gender (Non-binary), Sexual_Orientation (Bisexual), Drinks_Coffee (Yes), Favourite_Sport (nan), Votes (Always), Height_in_Inches (70), Has_Drivers_License (Yes), Picks_Up_Litter (Never), Uses_Public_Transportation (Sometimes), Donated_Blood (No), Birthday_Month (November):** +0.0 (No direct causal link to hospitalization risk in this context)
+
+3. The risk score is calculated by summing the contributions of factors known to directly influence health and the likelihood of requiring medical intervention, particularly focusing on chronic conditions, mental health, and lifestyle choices. Positive contributions are assigned to risk factors (e.g., high BMI, mental illness), while negative contributions are assigned to protective factors (e.g., no smoking, adequate sleep).

@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   **Age (56):** +1.0 (Increased risk with age, particularly for individuals over 50)
+*   **BMI (31.1):** +1.5 (Obesity, BMI > 30, is a significant risk factor)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues can increase hospitalization risk)
+*   **Current_Diagnosis (Schizophrenia):** +2.0 (Severe mental illness is a strong predictor of increased healthcare utilization and hospitalization)
+*   **Race (Black):** +0.5 (Systemic health disparities often lead to higher hospitalization rates for certain racial groups)
+*   **Gender (Other):** +0.5 (Non-binary or other gender identities may face unique healthcare challenges and disparities)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to increased hospitalization risk)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol consumption reduces risk)
+*   **Smoking (No):** -1.0 (Non-smoker status significantly reduces respiratory and cardiovascular risks)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of depression reduces mental health-related hospitalization risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates better overall well-being)
+*   **Loss_of_Interest (Yes):** +0.5 (While not full depression, anhedonia can be a symptom of underlying mental health issues or general malaise)
+*   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep is protective against various health issues)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and financial stability)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral contribution; neither high nor low SES)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to increased hospitalization risk)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits can contribute to various health problems)
+*   **Favourite_Sport (Basketball):** +0.0 (No direct causal link to increased hospitalization risk)
+*   **Votes (Never):** +0.5 (Lack of civic engagement can sometimes correlate with lower health literacy or engagement with preventative care)
+*   **Height_in_Inches (63):** +0.0 (No direct causal link to increased hospitalization risk)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. The causal basis is derived from established epidemiological and clinical associations between these factors and the likelihood of hospitalization, reflecting both direct physiological impacts and indirect socioeconomic or behavioral influences on health outcomes.

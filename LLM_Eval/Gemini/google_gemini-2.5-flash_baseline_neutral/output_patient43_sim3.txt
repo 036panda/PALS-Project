@@ -1,0 +1,20 @@
+1. Risk Assessment Score: 4
+
+2. Parameter Contributions:
+    * Age (20): -1 (Lower risk for hospitalization compared to older adults)
+    * BMI (21.0): 0 (Healthy weight)
+    * Family_Health_History (Cancer): +1 (Increased genetic predisposition to health issues)
+    * Current_Diagnosis (Bipolar): +2 (Significant mental health condition with potential for acute episodes requiring hospitalization)
+    * Race (Black): +1 (Systemic health disparities and increased risk for certain conditions)
+    * Gender (Male): 0 (No direct impact on hospitalization risk in this context)
+    * Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk)
+    * Weekly_Alcohol_Intake (0): 0 (No alcohol consumption, no associated risk)
+    * Smoking (No): 0 (Non-smoker, no associated risk)
+    * HAM-D (7–17: Mild Depression): +1 (Mild depression can exacerbate other conditions or lead to self-neglect)
+    * Been_Sad_or_Fatigued (No): 0 (Absence of these symptoms is positive)
+    * Loss_of_Interest (No): 0 (Absence of this symptom is positive)
+    * Hours_of_Sleep (5.7): +1 (Insufficient sleep can negatively impact physical and mental health)
+    * Employment (Student): 0 (No direct impact on hospitalization risk)
+    * Socioeconomic_Status (Low): +1 (Associated with poorer access to healthcare and higher stress levels)
+
+3. Rationale: The patient's bipolar diagnosis is the primary driver of the risk score, compounded by mild depression, insufficient sleep, and socioeconomic factors that can hinder access to care and worsen health outcomes.

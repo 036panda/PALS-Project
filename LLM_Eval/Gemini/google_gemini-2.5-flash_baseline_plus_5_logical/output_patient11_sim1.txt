@@ -1,0 +1,24 @@
+7
+
+*   **Age (31):** +0 (No significant risk increase for hospitalization at this age)
+*   **BMI (29.7):** +1 (Approaching obesity, which is a risk factor for various health complications)
+*   **Family_Health_History (nan):** +0 (No information, so no contribution)
+*   **Current_Diagnosis (Schizophrenia):** +4 (Schizophrenia is a significant risk factor for hospitalization due to acute episodes, medication management, and co-occurring conditions)
+*   **Race (White):** +0 (No direct causal link to increased hospitalization risk)
+*   **Gender (Female):** +0 (No direct causal link to increased hospitalization risk)
+*   **Sexual_Orientation (Bisexual):** +0 (No direct causal link to increased hospitalization risk)
+*   **Weekly_Alcohol_Intake (4):** +0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -1 (Absence of smoking reduces hospitalization risk)
+*   **HAM-D (7–17: Mild Depression):** +1 (Mild depression can contribute to overall health decline and may necessitate hospitalization in some cases, especially when combined with other factors)
+*   **Been_Sad_or_Fatigued (No):** +0 (Absence of this symptom reduces risk)
+*   **Loss_of_Interest (Yes):** +1 (A symptom of depression, indicating potential for worsening mental health)
+*   **Hours_of_Sleep (7.1):** +0 (Adequate sleep, no contribution to risk)
+*   **Employment (Employed):** -1 (Employment is generally associated with better health outcomes and access to care, reducing hospitalization risk)
+*   **Socioeconomic_Status (Low):** +2 (Low socioeconomic status is a significant predictor of poorer health outcomes, limited access to care, and increased hospitalization rates)
+*   **Drinks_Coffee (No):** +0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (No):** +0 (While a healthy diet is beneficial, not liking vegetables alone isn't a direct hospitalization risk)
+*   **Favourite_Sport (nan):** +0 (No information, so no contribution)
+*   **Votes (Always):** +0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (71):** +0 (No direct causal link to hospitalization risk)
+
+The risk score is derived from the direct causal impact of the individual's current diagnosis of schizophrenia and low socioeconomic status, which are strong predictors of hospitalization, combined with the contributing factors of elevated BMI and mild depression. These positive contributions are partially offset by the absence of smoking and being employed.

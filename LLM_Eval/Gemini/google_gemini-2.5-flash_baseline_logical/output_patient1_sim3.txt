@@ -1,0 +1,19 @@
+7.5
+
+*   **Age (22):** +0.0 (Younger age generally associated with lower hospitalization risk, but no direct contribution in this specific model without other compounding factors)
+*   **BMI (23.8):** +0.0 (Normal BMI, no direct contribution)
+*   **Family_Health_History (Cancer):** +0.5 (Indicates a genetic predisposition or increased awareness of health issues, slightly increasing risk)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can exacerbate physical symptoms or lead to hospitalization for mental health crises)
+*   **Race (Other):** +0.5 (Acknowledges potential disparities in healthcare access or outcomes for minority groups, contributing to slightly elevated risk)
+*   **Gender (Non-binary):** +0.5 (Similar to race, acknowledges potential disparities or unique health challenges, contributing to slightly elevated risk)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct contribution to hospitalization risk in this model)
+*   **Weekly_Alcohol_Intake (7):** +0.0 (Moderate intake, no direct contribution)
+*   **Smoking (Yes):** +2.0 (Significant risk factor for numerous health conditions requiring hospitalization)
+*   **HAM-D (25+: Severe Depression):** +2.5 (Severe mental health condition, high risk for hospitalization due to mental health crisis or exacerbation of physical conditions)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms, despite severe depression, slightly mitigates immediate crisis risk)
+*   **Loss_of_Interest (No):** -0.5 (Absence of this symptom, despite severe depression, slightly mitigates immediate crisis risk)
+*   **Hours_of_Sleep (6.3):** +0.5 (Slightly below recommended, can contribute to overall health decline)
+*   **Employment (Student):** +0.0 (No direct contribution)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer health outcomes, limited access to preventative care, and higher hospitalization rates)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established medical and sociological correlations with hospitalization likelihood. The severe depression and smoking are the primary drivers of the elevated risk, with socioeconomic status and other demographic factors contributing to a lesser extent.

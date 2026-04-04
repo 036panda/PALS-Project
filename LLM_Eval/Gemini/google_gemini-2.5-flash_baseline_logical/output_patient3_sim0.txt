@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   **Age (64):** +1.0 (Increased risk with advancing age, particularly beyond 60)
+*   **BMI (29.9):** +1.0 (Approaching obesity, which is a risk factor for various health complications)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues, which can exacerbate other conditions or lead to hospitalizations)
+*   **Current_Diagnosis (Depression):** +1.0 (Mental health conditions can lead to physical health neglect, increased comorbidity, and direct psychiatric hospitalizations)
+*   **Race (Native American):** +0.5 (Acknowledged health disparities and higher rates of certain chronic conditions in this demographic)
+*   **Gender (Male):** +0.0 (No direct causal contribution in this specific context)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal contribution in this specific context)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Moderate alcohol consumption, potentially protective for cardiovascular health in some contexts, or negligible risk)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor for numerous diseases)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Confirms and quantifies the severity of depression, increasing the risk associated with mental health)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common depressive symptoms, suggesting some resilience or less severe impact in this specific area)
+*   **Loss_of_Interest (Yes):** +0.5 (A key symptom of depression, indicating functional impairment and potential for worsening mental health)
+*   **Hours_of_Sleep (6.4):** +0.5 (Slightly below optimal, which can impact immune function and overall health)
+*   **Employment (Retired):** +0.0 (Neutral; can be positive or negative depending on individual circumstances, but no direct causal link here)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral; generally associated with better access to care than lower SES, but not a direct positive or negative contributor in isolation)
+
+3. The risk score is computed by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established epidemiological and clinical associations with hospitalization. Factors such as age, BMI, existing diagnoses, and the severity of depression are assigned positive contributions due to their direct causal links to increased morbidity and the need for medical intervention, while the absence of smoking and moderate alcohol intake contribute negatively by reducing overall health risks.

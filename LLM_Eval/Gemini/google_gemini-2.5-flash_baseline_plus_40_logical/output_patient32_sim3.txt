@@ -1,0 +1,19 @@
+1. 7
+
+2. *   **Age (19):** +0.5 (Young adult, generally lower risk, but not zero)
+*   **BMI (17.6):** +1.0 (Underweight, potential health complications)
+*   **Family_Health_History (Diabetes):** +0.5 (Increased genetic predisposition to chronic illness)
+*   **Current_Diagnosis (Schizophrenia):** +2.0 (Significant mental health condition requiring ongoing care, often associated with higher hospitalization rates)
+*   **HAM-D (25+ Severe Depression):** +2.0 (Severe mental health condition, high risk of hospitalization for psychiatric care)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating severity)
+*   **Socioeconomic_Status (High):** -0.5 (Access to better healthcare and resources)
+*   **Weekly_Alcohol_Intake (3):** +0.0 (Moderate, no significant impact)
+*   **Smoking (No):** -0.5 (Absence of a major health risk factor)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common symptom of depression, slightly mitigating HAM-D score)
+*   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep, positive health factor)
+*   **Employment (Student):** +0.0 (Neutral, can be stressful but also provides structure)
+*   **Allergy (Gluten):** +0.5 (Requires dietary management, potential for complications if not managed)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habit, can impact overall health)
+*   **Exercises (Yes):** -0.5 (Positive health behavior)
+
+3. The risk score is calculated by summing the contributions of factors directly impacting physical and mental health, with higher positive values for conditions increasing hospitalization likelihood (e.g., severe mental illness, underweight, chronic conditions) and negative values for protective factors (e.g., good sleep, exercise, high socioeconomic status).

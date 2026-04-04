@@ -1,0 +1,24 @@
+1. 2.5
+
+2. *   **Age (38):** +0.5 (Slightly elevated risk for this age group compared to younger adults, but not high risk)
+*   **BMI (21.8):** +0.0 (Healthy weight, no contribution to risk)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to a chronic respiratory condition, increasing potential for hospitalization if triggered or poorly managed)
+*   **Current_Diagnosis (Anxiety):** +0.5 (Mental health conditions can indirectly impact physical health and healthcare utilization, though this is a mild contribution)
+*   **Race (Black):** +0.0 (No direct causal link to hospitalization risk based on race itself; disparities are due to systemic factors not inherent biological risk)
+*   **Gender (Non-binary):** +0.0 (No direct causal link to hospitalization risk)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Within recommended low-risk limits)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor, reducing overall risk)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of depression, a factor that can increase hospitalization risk)
+*   **Been_Sad_or_Fatigued (No):** -0.0 (Absence of symptoms often associated with underlying health issues)
+*   **Loss_of_Interest (No):** -0.0 (Absence of symptoms often associated with underlying health issues)
+*   **Hours_of_Sleep (6.3):** +0.5 (Slightly below optimal sleep duration, which can impact immune function and overall health)
+*   **Employment (Employed):** -0.0 (Often correlated with better access to healthcare and resources, but not a direct causal reduction in risk)
+*   **Socioeconomic_Status (High):** -0.0 (Often correlated with better access to healthcare and resources, but not a direct causal reduction in risk)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable intake can indicate a less healthy diet, potentially impacting long-term health)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Always):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (73):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence health and healthcare utilization, such as family history of chronic disease, current mental health diagnoses, and lifestyle choices like sleep and diet, while negating the impact of protective factors.

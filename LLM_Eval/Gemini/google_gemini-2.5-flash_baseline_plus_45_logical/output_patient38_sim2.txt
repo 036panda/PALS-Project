@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   Age (62): +1.0 (Increased risk with age, particularly over 60)
+*   BMI (33.4): +1.5 (Obese, significantly increases risk)
+*   Current_Diagnosis (Depression): +1.0 (Mental health conditions are linked to higher hospitalization rates)
+*   HAM-D (7–17: Mild Depression): +0.5 (Confirms and quantifies the depression diagnosis)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating ongoing mental health concern)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating ongoing mental health concern)
+*   Hours_of_Sleep (6.7): +0.3 (Slightly below optimal 7-9 hours, contributing to general health decline)
+*   Employment (Retired): +0.2 (Can sometimes correlate with reduced physical activity or social engagement, though not always negative)
+*   Socioeconomic_Status (Low): +1.0 (Strongly correlated with poorer health outcomes and higher hospitalization rates)
+*   Weekly_Alcohol_Intake (1): -0.1 (Moderate to low intake, potentially protective or neutral)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   Likes_Vegetables (Yes): -0.2 (Positive dietary habit)
+*   Exercises (Yes): -0.5 (Positive health behavior)
+*   Skips_Breakfast (Yes): +0.2 (Potentially negative dietary habit)
+*   Orders_Takeout (Daily): +0.5 (Frequent takeout often indicates less healthy eating habits)
+*   Allergy (Shellfish): +0.1 (Potential for accidental exposure and allergic reaction)
+*   Binge_Watches_TV (Yes): +0.2 (Can be associated with sedentary lifestyle)
+*   Uses_Public_Transportation (Always): +0.1 (Increased exposure to pathogens)
+*   Water_Intake_oz (44.6): -0.1 (Adequate hydration, slightly positive)
+*   Recycling_Habits (Never): +0.1 (Indicates a lack of engagement in community health/environmental practices, minor indirect correlation)
+
+3. The risk score is calculated by summing the contributions of various health, lifestyle, and socioeconomic factors, where positive values indicate increased risk and negative values indicate decreased risk. This approach directly reflects the causal impact of each factor on an individual's likelihood of hospitalization, with higher weights assigned to established medical and socioeconomic determinants.

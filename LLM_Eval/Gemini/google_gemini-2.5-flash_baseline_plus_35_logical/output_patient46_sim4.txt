@@ -1,0 +1,12 @@
+7.5
+
+Age (32): +0.5 (Increased age generally correlates with higher hospitalization risk, though 32 is still relatively young, so a small positive contribution)
+BMI (25.7): +0.5 (Slightly overweight, which can contribute to minor health risks)
+Family_Health_History (Asthma): +1.0 (Genetic predisposition to a chronic respiratory condition increases risk)
+HAM-D (18–24: Moderate Depression): +2.0 (Moderate depression is a significant mental health concern that can lead to physical health neglect or exacerbate existing conditions, increasing hospitalization risk)
+Loss_of_Interest (Yes): +1.0 (A symptom of depression, indicating potential for further mental health decline or neglect of self-care)
+Hours_of_Sleep (4.8): +1.5 (Chronic sleep deprivation significantly impairs immune function and overall health, increasing susceptibility to illness and hospitalization)
+Skips_Breakfast (Yes): +0.5 (Irregular eating habits can negatively impact metabolism and overall health)
+Wears_Glasses (Yes): +0.5 (Indicates a pre-existing health condition requiring correction, suggesting a slightly higher propensity for health issues)
+
+The risk score is calculated by summing the positive contributions of identified risk factors, such as family history of asthma, moderate depression, chronic sleep deprivation, and slightly elevated BMI, which are causally linked to increased hospitalization likelihood. Each factor's contribution reflects its estimated impact on health and potential need for medical intervention.

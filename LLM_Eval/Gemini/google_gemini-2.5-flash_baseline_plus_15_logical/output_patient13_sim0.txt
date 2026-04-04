@@ -1,0 +1,16 @@
+1. 7.5
+
+2. *   **Current_Diagnosis: Schizophrenia:** +3.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   **Socioeconomic_Status: Low:** +1.5 (Low socioeconomic status is associated with poorer access to healthcare, higher stress levels, and less stable living conditions, increasing hospitalization risk.)
+*   **Smoking: Yes:** +1.0 (Smoking is a significant risk factor for numerous chronic diseases that can lead to hospitalization, including cardiovascular and respiratory conditions.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (Indicates potential worsening of mental health or underlying physical issues that could escalate.)
+*   **Loss_of_Interest: Yes:** +0.5 (Similar to sadness/fatigue, this suggests potential mental health deterioration.)
+*   **HAM-D: 7–17: Mild Depression:** +0.5 (While mild, depression can exacerbate other conditions or, if untreated, progress to more severe states requiring intervention.)
+*   **BMI: 27.3 (Overweight):** +0.5 (Being overweight increases the risk of various health complications, such as diabetes, heart disease, and joint problems, which can lead to hospitalization.)
+*   **Age: 56:** +0.5 (Risk of hospitalization generally increases with age due to accumulated health issues and decreased physiological reserve.)
+*   **Hours_of_Sleep: 6.0:** +0.5 (Chronic sleep deprivation can negatively impact physical and mental health, increasing susceptibility to illness and exacerbating existing conditions.)
+*   **Weekly_Alcohol_Intake: 2:** +0.0 (Moderate alcohol intake, while not entirely risk-free, is not a significant direct contributor to hospitalization risk at this level.)
+*   **Employment: Employed:** -0.5 (Employment often correlates with better access to healthcare, financial stability, and a sense of purpose, which can be protective factors.)
+*   **Picks_Up_Litter: Always:** -0.5 (Suggests a proactive, community-minded individual, which may correlate with better self-care and adherence to health recommendations.)
+
+3. The risk score is calculated by summing the contributions of factors known to causally increase or decrease the likelihood of hospitalization, with a strong emphasis on severe mental health conditions, socioeconomic determinants, and established physical health risk factors. Each contribution reflects the direct impact of the factor on the need for inpatient medical care.

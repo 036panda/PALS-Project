@@ -1,0 +1,18 @@
+1. Risk Assessment Score: 6
+
+2. Parameter Contributions:
+    * Age (18): -0.5 (Lower risk for hospitalization at this age)
+    * BMI (24.5): -0.5 (Healthy BMI)
+    * Family_Health_History (Asthma): +0.5 (Potential for respiratory complications, though not directly linked to current hospitalization risk)
+    * Current_Diagnosis (Schizophrenia): +3.0 (Significantly increases risk for various hospitalizations, including psychiatric and general medical)
+    * Smoking (Yes): +1.5 (Increases risk for numerous health issues leading to hospitalization)
+    * HAM-D (18–24: Moderate Depression): +1.0 (Moderate depression can exacerbate existing conditions or lead to self-harm/neglect requiring hospitalization)
+    * Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, contributing to overall mental health risk)
+    * Loss_of_Interest (Yes): +0.5 (Symptom of depression, contributing to overall mental health risk)
+    * Hours_of_Sleep (8.3): -0.5 (Adequate sleep is a protective factor)
+    * Employment (Student): -0.5 (Suggests some level of structure and engagement, potentially protective)
+    * Socioeconomic_Status (Middle): -0.5 (Generally associated with better access to healthcare and resources)
+    * Allergy (Peanut): +0.5 (Risk of accidental exposure and anaphylaxis requiring hospitalization)
+    * Binge_Watches_TV (Yes): +0.5 (Sedentary behavior, potential for poorer physical health outcomes)
+
+3. Rationale: The patient's schizophrenia and smoking habit are major contributors to the elevated risk, compounded by moderate depression and a peanut allergy. These factors outweigh the protective effects of their age, healthy BMI, and adequate sleep.

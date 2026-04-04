@@ -1,0 +1,22 @@
+7.5
+
+**Input Factors and Contributions:**
+
+*   **Age (40):** +0.5 (Increased risk with age, though 40 is moderate)
+*   **BMI (34.6):** +1.5 (Obese, significant risk factor for various health issues)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to serious illness)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Mental health conditions increase hospitalization risk)
+*   **Weekly_Alcohol_Intake (4):** +0.2 (Moderate alcohol intake, slight risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating mental health concern)
+*   **Skips_Breakfast (Yes):** +0.3 (Poor dietary habit, potential health impact)
+*   **Exercises (No):** +1.5 (Lack of exercise is a significant risk factor for numerous conditions)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Indicates current mental health challenge)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources)
+*   **Hours_of_Sleep (8.9):** -0.2 (Adequate sleep, positive health factor)
+*   **Employment (Employed):** -0.3 (Associated with better mental and financial stability)
+*   **Water_Intake_oz (42.6):** -0.5 (Adequate hydration, positive health factor)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habit, potential health impact)
+
+**Justification:**
+
+The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as obesity, mental health conditions, family history of serious illness, and lifestyle choices like exercise and diet, while mitigating factors like adequate sleep and employment reduce the score.

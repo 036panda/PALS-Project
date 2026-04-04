@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impact:
+
+*   **Age (35):** -0.5 (Younger age generally associated with lower risk of hospitalization for mental health conditions compared to older adults, assuming no acute crisis.)
+*   **BMI (26.8):** +0.2 (Slightly overweight, which can contribute to general health risks, though not a primary driver for psychiatric hospitalization in isolation.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder carries a significant inherent risk of hospitalization due to mood episodes, including mania and severe depression, and potential for psychosis.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (While "mild," depression in the context of bipolar disorder can escalate and contribute to functional impairment or suicidal ideation, increasing risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Confirms current depressive symptoms, reinforcing the HAM-D score's impact.)
+*   **Hours_of_Sleep (5.3):** +0.8 (Chronic sleep deprivation can exacerbate mood instability in bipolar disorder and increase the likelihood of mood episodes.)
+*   **Employment (Employed):** -0.5 (Employment suggests a degree of functional stability and social engagement, which can be protective.)
+*   **Socioeconomic_Status (Middle):** -0.3 (Middle socioeconomic status often correlates with better access to care and resources, reducing risk.)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate alcohol intake, not considered a significant risk factor for hospitalization at this level.)
+*   **Smoking (No):** -0.2 (Absence of smoking is a positive health factor.)
+*   **Exercises (No):** +0.2 (Lack of exercise can negatively impact overall physical and mental health, potentially contributing to poorer mood regulation.)
+*   **Relationship_Status (Dating):** -0.2 (Having a relationship can provide social support, a protective factor.)
+
+3. Clinical Rationale: This 35-year-old male with bipolar disorder presents with several risk factors, including a current mild depressive episode, chronic sleep deprivation, and the inherent instability of his diagnosis, which collectively elevate his risk for hospitalization despite some protective factors like employment and social support.

@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   **Age (46):** +0.5 (Increased risk with age, but moderate for this age)
+*   **BMI (28.3):** +0.5 (Overweight, contributing to moderate risk)
+*   **Family_Health_History (Heart Disease):** +1.0 (Significant genetic predisposition to a major health issue)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Chronic mental health condition with known hospitalization risk)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of current depressive symptoms reduces mental health-related risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Potential indicator of underlying mental health distress or early symptom, despite HAM-D)
+*   **Weekly_Alcohol_Intake (2):** -0.2 (Low, responsible alcohol consumption, potentially protective or neutral)
+*   **Smoking (No):** -1.0 (Absence of a major modifiable risk factor)
+*   **Hours_of_Sleep (7.0):** -0.3 (Adequate sleep, contributing to good health)
+*   **Employment (Employed):** -0.5 (Associated with better access to care and mental well-being)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes and access to resources)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to overall health)
+*   **Water_Intake_oz (44.8):** -0.5 (Adequate hydration, contributing to overall health)
+*   **Uses_Public_Transportation (Always):** +0.5 (Potential for increased exposure to infectious diseases, though minor)
+*   **Has_Drivers_License (No):** +0.5 (May indicate limited access to private transportation for medical appointments, though public transport is used)
+
+3. The risk score is calculated by summing the individual contributions of factors directly linked to health outcomes and access to care. Positive contributions reflect increased risk due to existing health conditions, genetic predispositions, or lifestyle factors, while negative contributions reflect protective factors or the absence of risk.

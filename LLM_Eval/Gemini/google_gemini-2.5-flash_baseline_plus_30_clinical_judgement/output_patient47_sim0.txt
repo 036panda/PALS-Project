@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Current_Diagnosis: Schizophrenia:** +5 (Schizophrenia is a severe mental illness with a high risk of acute exacerbations requiring hospitalization for stabilization, medication management, and safety.)
+*   **Age: 22:** +1 (Younger adults with severe mental illness, especially schizophrenia, may have less established coping mechanisms and support systems, increasing vulnerability to crisis.)
+*   **Family_Health_History: Heart Disease:** +0.5 (While not directly impacting psychiatric hospitalization, a family history of chronic disease can sometimes indicate a broader genetic predisposition to health issues, and cardiovascular risk factors are often comorbid with severe mental illness, though this is a minor direct impact on *psychiatric* hospitalization risk.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (Indicates current depressive symptoms, which, in the context of schizophrenia, can worsen overall functioning and increase the risk of decompensation.)
+*   **Loss_of_Interest: Yes:** +0.5 (Anhedonia is a significant symptom of depression and can be part of the negative symptoms of schizophrenia, contributing to functional decline and potential need for intervention.)
+*   **BMI: 27.1:** +0.5 (Overweight status is a common comorbidity with schizophrenia, often linked to medication side effects and lifestyle factors, which can indirectly impact overall health and resilience, making hospitalization for any cause potentially more complex.)
+*   **HAM-D: 7–17: Mild Depression:** +0.5 (While "mild," any level of depression in a patient with schizophrenia warrants close monitoring as it can exacerbate psychotic symptoms or lead to suicidal ideation, increasing hospitalization risk.)
+*   **Socioeconomic_Status: Middle:** -0.5 (Generally indicates better access to resources and support compared to lower socioeconomic status, potentially mitigating some risks.)
+*   **Employment: Student:** -0.5 (Being a student suggests some level of cognitive function and engagement, which can be a protective factor, though the stress of academics can also be a trigger.)
+*   **Hours_of_Sleep: 8.9:** -1 (Adequate sleep is a significant protective factor for mental health, especially in schizophrenia, reducing the likelihood of symptom exacerbation.)
+*   **Smoking: No:** -0.5 (Absence of smoking removes a major health risk factor often associated with poorer outcomes in mental illness.)
+*   **Weekly_Alcohol_Intake: 2:** -0.5 (Low alcohol intake is a protective factor, as substance use can significantly worsen schizophrenia symptoms and increase hospitalization risk.)
+*   **Likes_Vegetables: No:** +0.5 (Poor dietary habits can negatively impact overall physical and mental health, potentially reducing resilience.)
+*   **Has_Drivers_License: No:** +0.5 (May indicate reliance on others for transportation, potentially limiting access to immediate care or support in a crisis, or reflecting functional limitations.)
+*   **Can_Ride_Bicycle: No:** +0.5 (Similar to not having a driver's license, this might suggest limitations in independent mobility or physical activity, which can be a general risk factor for overall well-being.)
+
+3. Clinical Rationale: This 22-year-old non-binary individual with schizophrenia faces a high risk of hospitalization primarily due to their severe mental illness, compounded by current depressive symptoms and potential functional limitations, despite some protective factors like adequate sleep and low alcohol intake. The presence of mild depression and reported sadness/fatigue, alongside a diagnosis of schizophrenia, indicates a need for vigilant monitoring and proactive management to prevent acute decompensation.

@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   Age (32): +0.5 (Slightly elevated risk due to being outside the lowest risk age bracket, but not significantly high)
+*   BMI (25.7): +0.5 (Slightly overweight, contributing to a minor increase in risk)
+*   Family_Health_History (Asthma): +1.0 (Known chronic respiratory condition, increasing susceptibility to complications)
+*   Current_Diagnosis (nan): +0.0 (No current diagnosis, no direct contribution)
+*   Race (White): +0.0 (No inherent risk contribution based on race alone)
+*   Gender (Non-binary): +0.0 (No inherent risk contribution based on gender identity alone)
+*   Sexual_Orientation (Other): +0.0 (No inherent risk contribution based on sexual orientation alone)
+*   Weekly_Alcohol_Intake (2): +0.0 (Moderate intake, not considered a significant risk factor)
+*   Smoking (No): -0.5 (Absence of smoking reduces risk)
+*   HAM-D (18–24: Moderate Depression): +2.0 (Moderate depression is a significant comorbidity that can impact physical health and adherence to care)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of these symptoms reduces risk)
+*   Loss_of_Interest (Yes): +1.0 (Symptom of depression, indicating potential for reduced self-care)
+*   Hours_of_Sleep (4.8): +1.5 (Significantly low sleep duration, a major contributor to poor health outcomes)
+*   Employment (Employed): -0.5 (Employment often correlates with better access to healthcare and resources)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral contribution, neither high nor low risk)
+*   Drinks_Coffee (No): +0.0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (No): +0.5 (Lack of vegetable intake suggests a less healthy diet, increasing risk)
+*   Favourite_Sport (nan): +0.0 (No direct causal link to hospitalization risk)
+*   Votes (Sometimes): +0.0 (No direct causal link to hospitalization risk)
+*   Height_in_Inches (63): +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence health and hospitalization likelihood, such as chronic conditions (family history of asthma), lifestyle choices (sleep, diet, smoking), and mental health status (moderate depression, loss of interest). Negative contributions are assigned to protective factors, while positive contributions reflect increased risk.

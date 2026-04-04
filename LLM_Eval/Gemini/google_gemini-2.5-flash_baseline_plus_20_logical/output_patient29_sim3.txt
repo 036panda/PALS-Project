@@ -1,0 +1,14 @@
+1. 4.5
+
+2. *   **Age (22):** +0.5 (Younger adults, especially students, may have less established healthcare routines or be more prone to certain acute conditions, though 22 is not an extreme age for high risk.)
+*   **BMI (35.9 - Obese Class II):** +2.0 (Significantly elevated BMI is a direct risk factor for numerous health complications requiring hospitalization, including cardiovascular issues, diabetes, and respiratory problems.)
+*   **Family_Health_History (Cancer):** +0.5 (Indicates a genetic predisposition to serious illness, increasing the likelihood of future health issues that might require hospitalization.)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Anxiety, especially if severe or poorly managed, can lead to physical symptoms, panic attacks, or exacerbate existing conditions, potentially requiring emergency care or hospitalization for stabilization.)
+*   **Weekly_Alcohol_Intake (4 units):** +0.0 (Within generally accepted low-risk guidelines, no significant contribution to hospitalization risk.)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor for numerous chronic diseases, reducing overall hospitalization risk.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (While mild, depression can impair self-care, adherence to medical advice, and increase vulnerability to physical health problems, potentially leading to hospitalization if it worsens or contributes to other conditions.)
+*   **Hours_of_Sleep (5.7):** +0.5 (Chronic sleep deprivation is linked to weakened immune function, increased risk of accidents, and exacerbation of mental health conditions, all of which can increase hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral; neither significantly increasing nor decreasing risk compared to extremes.)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits, indicated by a dislike of vegetables, contribute to nutritional deficiencies and increased risk of chronic diseases, potentially leading to hospitalization.)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to increased or decreased hospitalization likelihood, such as high BMI, existing mental health conditions, family history of serious illness, and poor lifestyle choices like inadequate sleep and diet, while mitigating factors like not smoking reduce the score.

@@ -1,0 +1,15 @@
+7.5
+
+*   **Age (18):** +0.5 (Young adults, especially those with mental health conditions, may have unique hospitalization risks related to acute episodes or treatment adherence.)
+*   **BMI (30.9):** +1.0 (BMI over 30 indicates obesity, a significant risk factor for various health complications requiring hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder is a severe mental illness with a high risk of hospitalization due to manic or depressive episodes, psychosis, or treatment-related complications.)
+*   **Loss_of_Interest (Yes):** +1.0 (While HAM-D is low, "Loss of Interest" can be a symptom of underlying mental health issues or a precursor to depressive episodes, increasing hospitalization risk.)
+*   **Weekly_Alcohol_Intake (1):** +0.5 (Even low alcohol intake can exacerbate mental health conditions or interact with medications, increasing risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally correlates with better access to healthcare and resources, potentially reducing hospitalization risk compared to lower statuses.)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep is protective for mental and physical health, reducing the likelihood of hospitalization.)
+*   **Employment (Student):** +0.5 (Student status, especially at 18, can be associated with stress, academic pressure, and transitions that may impact mental health and increase hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits can negatively impact overall health and mental well-being, potentially increasing hospitalization risk.)
+*   **Water_Intake_oz (44.0):** -0.5 (Adequate hydration is beneficial for overall health, potentially reducing hospitalization risk.)
+*   **Travels (No):** +0.5 (Lack of travel might indicate a more sedentary lifestyle or limited social engagement, which can negatively impact mental and physical health.)
+
+The risk score is calculated by summing the individual contributions of factors that logically and causally influence hospitalization risk, with a strong emphasis on the direct impact of mental health conditions, lifestyle choices, and physiological indicators. Each contribution reflects the potential for a factor to either increase or decrease the likelihood of needing hospital care.

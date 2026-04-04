@@ -1,0 +1,14 @@
+7
+
+*   **Age (40):** +0.5 (Increased age generally correlates with higher hospitalization risk due to cumulative health issues.)
+*   **BMI (34.6):** +1.5 (BMI > 30 indicates obesity, a significant risk factor for numerous health complications requiring hospitalization.)
+*   **Family_Health_History (Cancer):** +1.0 (Family history of cancer suggests a genetic predisposition to serious illness, increasing potential for hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Bipolar disorder is a severe mental health condition often requiring hospitalization for acute episodes or medication management.)
+*   **Weekly_Alcohol_Intake (4):** +0.2 (Moderate alcohol intake, while not extremely high, still carries some health risks compared to no intake.)
+*   **Loss_of_Interest (Yes):** +0.8 (A symptom of depression, indicating potential for worsening mental health and need for intervention.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally correlates with better access to healthcare and resources, reducing risk compared to lower status.)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits can contribute to various health issues, increasing hospitalization risk.)
+*   **Hours_of_Sleep (8.9):** -0.5 (Adequate sleep is protective against many health problems.)
+*   **HAM-D (7-17: Mild Depression):** +1.5 (Mild depression, while not severe, still indicates a mental health vulnerability that could escalate.)
+
+The risk score is calculated by summing the positive and negative contributions of specific health and lifestyle factors known to causally influence hospitalization likelihood, with higher values assigned to more direct and severe risk factors.

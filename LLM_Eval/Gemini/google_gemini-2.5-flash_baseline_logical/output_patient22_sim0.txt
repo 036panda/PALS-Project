@@ -1,0 +1,19 @@
+1. 3.5
+
+2. * Age (56): +0.5 (Increased risk with age, but not yet in high-risk elderly category)
+* BMI (28.0): +0.5 (Overweight, contributing to some health risks)
+* Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol consumption, contributing to some health risks)
+* Loss_of_Interest (Yes): +1.0 (Symptom of depression, indicating potential mental health impact on physical well-being)
+* Hours_of_Sleep (6.1): +1.0 (Slightly below optimal sleep, contributing to general health decline)
+* HAM-D (7–17: Mild Depression): +0.0 (Already accounted for by "Loss_of_Interest" to avoid double-counting; mild depression itself, without other severe symptoms, is not a direct hospitalization driver)
+* Family_Health_History (nan): +0.0 (No information, no contribution)
+* Current_Diagnosis (nan): +0.0 (No information, no contribution)
+* Race (Asian): +0.0 (No direct causal link to hospitalization risk in this context)
+* Gender (Other): +0.0 (No direct causal link to hospitalization risk in this context)
+* Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk in this context)
+* Smoking (No): +0.0 (Absence of a risk factor)
+* Been_Sad_or_Fatigued (No): +0.0 (Absence of a risk factor)
+* Employment (Employed): +0.0 (Absence of a risk factor)
+* Socioeconomic_Status (Middle): +0.0 (Absence of a risk factor)
+
+3. The risk score is calculated by summing the positive contributions of identified individual health and lifestyle factors that are causally linked to increased hospitalization risk, such as being overweight, moderate alcohol intake, insufficient sleep, and a symptom of depression. Factors with no direct causal link or those indicating the absence of a risk are assigned zero contribution.

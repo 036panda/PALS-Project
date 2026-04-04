@@ -1,0 +1,26 @@
+7
+
+**Positive Contributions:**
+
+*   **BMI (16.7 - Underweight):** +1.5 (Underweight is associated with various health complications, increasing hospitalization risk.)
+*   **Family_Health_History (Hypertension):** +0.5 (Genetic predisposition to hypertension increases risk of cardiovascular events requiring hospitalization.)
+*   **Current_Diagnosis (Depression):** +1.5 (Depression can lead to self-neglect, exacerbate physical conditions, and in severe cases, require psychiatric hospitalization.)
+*   **Smoking (Yes):** +2.0 (Smoking is a major risk factor for numerous chronic diseases, significantly increasing hospitalization likelihood.)
+*   **HAM-D (18–24: Moderate Depression):** +1.0 (Confirms and quantifies the severity of depression, reinforcing its contribution to risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptoms of depression, indicating potential for worsening mental health or underlying physical issues.)
+*   **Loss_of_Interest (Yes):** +0.5 (Another key symptom of depression, contributing to overall mental health burden.)
+*   **Socioeconomic_Status (Low):** +1.0 (Low socioeconomic status is linked to poorer access to healthcare, higher stress, and worse health outcomes, increasing hospitalization risk.)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habits can negatively impact overall health and energy levels, potentially leading to health issues.)
+*   **Orders_Takeout (Daily):** +0.5 (Frequent takeout often implies a less healthy diet, contributing to poor health outcomes.)
+*   **Exercises (No):** +1.0 (Lack of exercise is a significant risk factor for numerous chronic diseases, increasing hospitalization risk.)
+
+**Negative Contributions:**
+
+*   **Age (40):** -0.5 (Relatively young, reducing age-related risk compared to older individuals.)
+*   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep is crucial for physical and mental health, reducing risk.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and financial stability, reducing stress and improving health outcomes.)
+*   **Water_Intake_oz (44.9):** -0.5 (Adequate hydration is beneficial for overall health.)
+
+**Neutral Factors (0 contribution):** Race, Gender, Sexual_Orientation, Weekly_Alcohol_Intake, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Allergy, Binge_Watches_TV, Favourite_Super_Store, Pet_Preference, Volunteers, Favourite_Movie_Genre, Registered_Organ_Donor, Annual_Charity_Donation, Favourite_Cuisine, Likes_Art, Academic_Preference, Political_Ideology, Preferred_Grocery_Store, Helps_Elderly, Likes_Chocolate, Reads_Novels, Has_Cheated_on_an_Assignment_Before, Eye_Color, Spotify_vs_AppleMusic, Favourite_Season.
+
+The risk score is calculated by summing the positive and negative contributions of factors directly and causally linked to hospitalization risk, such as existing health conditions, lifestyle choices, and socioeconomic determinants. Factors with no clear causal link to hospitalization risk are assigned a neutral contribution.

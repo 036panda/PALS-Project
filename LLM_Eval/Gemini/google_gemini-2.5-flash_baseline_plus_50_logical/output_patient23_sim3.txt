@@ -1,0 +1,12 @@
+1. 6
+
+2. *   **Age (56):** +1 (Increased risk with age, particularly for chronic conditions)
+*   **BMI (31.1):** +1 (Obese, a significant risk factor for various health issues)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues, potentially exacerbating other conditions)
+*   **Current_Diagnosis (Schizophrenia):** +2 (Severe mental illness, often associated with poorer physical health outcomes, medication side effects, and reduced self-care)
+*   **Race (Black):** +0.5 (Systemic health disparities and increased prevalence of certain conditions in this demographic)
+*   **Loss_of_Interest (Yes):** +1 (Symptom of depression, which can negatively impact physical health and adherence to treatment, even with a normal HAM-D score)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources compared to lower SES)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habit, can lead to nutritional deficiencies and impact overall health)
+
+3. The hospitalization risk score is calculated by summing the individual contributions of factors known to causally influence health outcomes and hospitalization likelihood, such as age, BMI, existing diagnoses, and socioeconomic determinants, while excluding factors without a direct or established causal link to hospitalization risk.

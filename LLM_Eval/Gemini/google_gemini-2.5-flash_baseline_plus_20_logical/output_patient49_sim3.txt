@@ -1,0 +1,17 @@
+1. 5.5
+
+2. *   Age (34): +0.5 (Increased risk with age, but 34 is relatively young, so a small positive contribution)
+*   BMI (24.2): +0.0 (Normal BMI, no direct contribution to risk)
+*   Current_Diagnosis (Bipolar): +3.0 (Significant chronic mental health condition, high risk factor for hospitalization)
+*   Been_Sad_or_Fatigued (Yes): +1.0 (Indicates potential underlying health issues or exacerbation of existing conditions)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer health outcomes and reduced access to preventative care)
+*   Weekly_Alcohol_Intake (1): +0.0 (Low intake, no significant contribution)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0-6: Normal / No Depression): -0.5 (Absence of current depressive symptoms, mitigating risk)
+*   Loss_of_Interest (No): -0.5 (Absence of a common symptom of mental health decline)
+*   Hours_of_Sleep (8.3): -0.5 (Adequate sleep, a protective factor)
+*   Employment (Employed): -0.5 (Associated with better health and access to resources)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits can contribute to health issues)
+*   Water_Intake_oz (44.1): +0.0 (Within a reasonable range, no direct contribution)
+
+3. The risk score is calculated by summing the individual contributions of factors known to causally influence hospitalization risk, with positive values for risk-increasing factors and negative values for risk-decreasing factors, reflecting the direct impact of each attribute on the likelihood of hospitalization. The primary drivers of this score are the chronic mental health diagnosis (Bipolar) and low socioeconomic status, which are known to significantly increase hospitalization risk, while several positive lifestyle factors provide some mitigation.

@@ -1,0 +1,19 @@
+1. 1.0
+
+2. *   Age (38): +0.5 (Slightly elevated risk due to age, but not elderly)
+*   BMI (21.8): -0.5 (Healthy BMI, protective factor)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues, a potential comorbidity risk)
+*   Current_Diagnosis (Anxiety): +0.5 (Mental health conditions can indirectly impact physical health and healthcare-seeking behavior)
+*   Weekly_Alcohol_Intake (2): -0.2 (Moderate intake, potentially protective or neutral)
+*   Smoking (No): -1.0 (Significant protective factor against numerous health issues)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Good mental health, protective)
+*   Been_Sad_or_Fatigued (No): -0.2 (Absence of common health decline indicators)
+*   Loss_of_Interest (No): -0.2 (Absence of common health decline indicators)
+*   Hours_of_Sleep (6.3): +0.3 (Slightly below optimal 7-9 hours, minor risk factor)
+*   Employment (Employed): -0.3 (Associated with better health outcomes and access to care)
+*   Socioeconomic_Status (High): -0.5 (Strong protective factor due to access to resources and quality healthcare)
+*   Exercises (No): +1.0 (Significant risk factor for various chronic diseases)
+*   Allergy (Penecillin): +0.1 (Minor risk for specific medical interventions, but generally low impact on overall hospitalization risk)
+*   Water_Intake_oz (43.6): +0.2 (Slightly below recommended intake, minor risk factor for dehydration/overall health)
+
+3. The risk score is calculated by summing the individual contributions of factors identified as having a direct or indirect causal relationship with hospitalization risk, based on established health and socioeconomic determinants. Positive contributions reflect increased risk, while negative contributions reflect protective factors, resulting in a net score that quantifies the individual's specific risk profile.

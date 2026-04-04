@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (18):** -1 (Young age generally associated with lower risk of hospitalization for chronic conditions, though mental health is a factor here.)
+*   **BMI (30.9):** +1 (Class I obesity, a risk factor for various health issues, though not acutely critical here.)
+*   **Current_Diagnosis (Bipolar):** +5 (This is the most significant risk factor. Bipolar disorder carries a substantial risk of hospitalization due to manic or depressive episodes, psychosis, or suicidality, even if currently stable.)
+*   **HAM-D (0-6: Normal / No Depression):** -2 (Indicates current absence of depressive symptoms, which is a positive factor for immediate stability.)
+*   **Been_Sad_or_Fatigued (No):** -1 (Further supports current emotional stability.)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is low, loss of interest can be an anhedonic symptom, potentially indicating subthreshold or emerging mood dysregulation, or a lingering symptom of bipolar disorder even in remission.)
+*   **Hours_of_Sleep (9.7):** -1 (Adequate sleep is generally protective for mental and physical health.)
+*   **Socioeconomic_Status (Middle):** -1 (Generally associated with better access to care and resources, reducing risk.)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Very low, indicating minimal substance use risk.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health factor.)
+
+3. Clinical-style rationale:
+Despite the current absence of depressive symptoms and adequate sleep, the primary diagnosis of bipolar disorder inherently confers a significant risk of future hospitalization due to the episodic nature of the illness. The presence of obesity and reported loss of interest, even with a low HAM-D score, warrant continued monitoring for potential mood shifts or subthreshold symptoms.

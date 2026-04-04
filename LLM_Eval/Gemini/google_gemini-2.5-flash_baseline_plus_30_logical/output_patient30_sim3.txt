@@ -1,0 +1,16 @@
+7
+
+*   **Current_Diagnosis: Bipolar:** +3 (Bipolar disorder significantly increases hospitalization risk due to potential for severe mood episodes requiring inpatient care.)
+*   **HAM-D: 7–17: Mild Depression:** +1 (Mild depression, while not severe, can still contribute to overall mental health instability and potential for escalation.)
+*   **Loss_of_Interest: Yes:** +1 (Anhedonia is a symptom of depression and can indicate a worsening mental state, increasing risk.)
+*   **Hours_of_Sleep: 5.8:** +1 (Chronic sleep deprivation is detrimental to both physical and mental health, increasing vulnerability to various health issues.)
+*   **BMI: 29.7:** +1 (Being overweight (BMI 25-29.9) is a risk factor for various health complications that may necessitate hospitalization.)
+*   **Age: 49:** +0.5 (While not elderly, being in late middle age can slightly increase the risk of age-related health issues compared to younger adults.)
+*   **Weekly_Alcohol_Intake: 2:** +0.5 (Even moderate alcohol intake can have negative health impacts over time, especially when combined with other risk factors.)
+*   **Socioeconomic_Status: Middle:** -1 (Middle socioeconomic status generally correlates with better access to healthcare and resources, reducing risk.)
+*   **Employment: Employed:** -1 (Employment often provides structure, financial stability, and access to health insurance, reducing hospitalization risk.)
+*   **Smoking: No:** -1 (Absence of smoking significantly reduces the risk of numerous chronic diseases that often lead to hospitalization.)
+*   **Has_Drivers_License: No:** +0.5 (Lack of a driver's license might indicate limited access to transportation for routine medical appointments, potentially leading to delayed care and increased risk of hospitalization for preventable conditions.)
+*   **Allergy: Shellfish:** +0.5 (Presence of a known allergy, even if managed, carries a small inherent risk of accidental exposure and severe reaction requiring emergency care.)
+
+The risk score is calculated by summing the positive contributions from factors indicating increased vulnerability (e.g., Bipolar diagnosis, sleep deprivation, overweight BMI) and subtracting negative contributions from protective factors (e.g., no smoking, employment, middle socioeconomic status), with specific causal links assigned to each.

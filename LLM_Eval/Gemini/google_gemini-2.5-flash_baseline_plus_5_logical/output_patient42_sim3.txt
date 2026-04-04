@@ -1,0 +1,24 @@
+1. 2.0
+
+2. *   **Age (49):** +0.5 (Increased age generally correlates with higher health risks)
+*   **BMI (23.2):** +0.0 (Within healthy range, no direct positive or negative contribution)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to a chronic respiratory condition)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can impact physical health and increase healthcare utilization)
+*   **Race (Hispanic):** +0.0 (No direct causal link to hospitalization risk in this model without further context)
+*   **Gender (Male):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, not considered a significant risk factor)
+*   **Smoking (No):** -1.0 (Absence of a major health risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of depressive symptoms reduces risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common indicators of poor mental or physical health)
+*   **Loss_of_Interest (Yes):** +1.0 (Despite normal HAM-D, this symptom can indicate underlying distress or early signs of mental health issues)
+*   **Hours_of_Sleep (9.4):** -0.5 (Adequate sleep is protective against various health issues)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better health outcomes and access to care)
+*   **Socioeconomic_Status (High):** -1.0 (Higher socioeconomic status is generally associated with better health and lower hospitalization rates)
+*   **Drinks_Coffee (Yes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable consumption can indicate poorer dietary habits, increasing health risks)
+*   **Favourite_Sport (Basketball):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Sometimes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (65):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is computed by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate reduced risk. Causal relationships are inferred from established health correlations, such as the protective effect of not smoking and high socioeconomic status, and the increased risk associated with family history of chronic disease and current mental health diagnoses.

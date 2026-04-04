@@ -1,0 +1,24 @@
+6
+
+*   **Age (32):** +0 (No significant risk increase for hospitalization at this age without other comorbidities)
+*   **BMI (25.7):** +0 (Within healthy weight range, no direct contribution to hospitalization risk)
+*   **Family_Health_History (Asthma):** +1 (Genetic predisposition to a chronic respiratory condition, increasing potential for acute exacerbations requiring hospitalization)
+*   **Current_Diagnosis (nan):** +0 (Absence of an acute diagnosis, no immediate risk contribution)
+*   **Race (White):** +0 (No direct causal link to increased hospitalization risk)
+*   **Gender (Non-binary):** +0 (No direct causal link to increased hospitalization risk)
+*   **Sexual_Orientation (Other):** +0 (No direct causal link to increased hospitalization risk)
+*   **Weekly_Alcohol_Intake (2):** +0 (Moderate intake, not a significant risk factor for hospitalization)
+*   **Smoking (No):** -1 (Absence of smoking, a significant protective factor against numerous health issues leading to hospitalization)
+*   **HAM-D (18–24: Moderate Depression):** +2 (Moderate depression can lead to poorer self-care, increased risk of accidents, and exacerbation of physical health issues, potentially requiring hospitalization)
+*   **Been_Sad_or_Fatigued (No):** +0 (Absence of these symptoms, no direct risk contribution)
+*   **Loss_of_Interest (Yes):** +1 (A symptom of depression, indicating potential for reduced engagement in health-promoting activities and self-care)
+*   **Hours_of_Sleep (4.8):** +2 (Chronic sleep deprivation significantly impairs immune function, increases stress, and contributes to various health problems, raising hospitalization risk)
+*   **Employment (Employed):** +0 (Generally associated with better health outcomes, but no direct negative contribution)
+*   **Socioeconomic_Status (Middle):** +0 (Generally associated with access to healthcare, no direct negative contribution)
+*   **Drinks_Coffee (No):** +0 (No direct causal link to increased hospitalization risk)
+*   **Likes_Vegetables (No):** +1 (Poor dietary habits can contribute to various health issues over time, increasing long-term hospitalization risk)
+*   **Favourite_Sport (nan):** +0 (No direct causal link to increased hospitalization risk)
+*   **Votes (Sometimes):** +0 (No direct causal link to increased hospitalization risk)
+*   **Height_in_Inches (63):** +0 (No direct causal link to increased hospitalization risk)
+
+The risk score is calculated by summing the contributions of factors that causally increase or decrease the likelihood of hospitalization, such as chronic conditions, lifestyle choices, and mental health status, based on established medical and public health knowledge. Each factor's contribution is weighted according to its direct and indirect impact on health outcomes that could necessitate hospitalization.

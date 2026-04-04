@@ -1,0 +1,14 @@
+1. 4.0
+
+2. *   Age (20): +0.5 (Younger age generally correlates with lower risk of age-related hospitalizations, but not zero, reflecting a baseline vulnerability to general health issues.)
+*   BMI (21.0): +0.0 (Normal BMI, no direct contribution to increased or decreased risk.)
+*   Family_Health_History (Cancer): +0.5 (Genetic predisposition to a serious illness, increasing long-term risk.)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant mental health condition often requiring medical management and potentially hospitalization for acute episodes or complications.)
+*   Weekly_Alcohol_Intake (0): +0.0 (No alcohol consumption, no direct contribution.)
+*   Smoking (No): +0.0 (Non-smoker, no direct contribution.)
+*   HAM-D (7–17: Mild Depression): +0.5 (Mild depression, while not severe, can still impact overall health and potentially lead to complications or require intervention.)
+*   Hours_of_Sleep (5.7): +0.5 (Insufficient sleep, which can negatively impact immune function and overall health, increasing susceptibility to illness.)
+*   Socioeconomic_Status (Low): +1.0 (Lower socioeconomic status is often associated with reduced access to quality healthcare, poorer nutrition, and higher stress levels, all contributing to increased hospitalization risk.)
+*   Allergy (Pollen): -1.0 (While an allergy, it's a common and generally manageable condition that does not typically lead to hospitalization unless severe and uncontrolled, thus a slight negative contribution for its commonality and manageability.)
+
+3. The risk score is calculated by summing the positive contributions from factors indicating increased vulnerability (e.g., Bipolar diagnosis, low socioeconomic status, insufficient sleep) and subtracting a minor contribution for a common, manageable health condition (pollen allergy), reflecting a direct causal link between these factors and the likelihood of hospitalization.

@@ -1,0 +1,15 @@
+1. 8
+
+2. *   Age (68): +1.5 (Increased age is a significant risk factor for hospitalization due to general health decline and increased susceptibility to illness.)
+*   BMI (29.7): +0.5 (Overweight BMI increases risk for various health complications.)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to hypertension increases personal risk for cardiovascular events requiring hospitalization.)
+*   Current_Diagnosis (Schizophrenia): +2.0 (Schizophrenia is a severe mental illness often associated with higher rates of physical comorbidities, medication side effects, and potential for acute psychiatric crises requiring hospitalization.)
+*   Smoking (Yes): +1.5 (Smoking is a major risk factor for numerous chronic diseases, including respiratory, cardiovascular, and cancer, all of which can lead to hospitalization.)
+*   HAM-D (25+: Severe Depression): +1.5 (Severe depression significantly increases the risk of self-harm, neglect of physical health, and exacerbation of existing medical conditions, often necessitating hospitalization.)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptoms of depression, even if not meeting full HAM-D criteria, indicate a compromised mental state that can indirectly affect physical health and increase hospitalization risk.)
+*   Loss_of_Interest (Yes): +0.5 (Anhedonia, a core symptom of depression, can lead to self-neglect and reduced engagement in health-promoting behaviors.)
+*   Socioeconomic_Status (Low): +1.0 (Low socioeconomic status is consistently linked to poorer health outcomes, limited access to care, and higher rates of chronic disease, increasing hospitalization likelihood.)
+*   Exercises (No): +0.5 (Lack of exercise contributes to obesity, cardiovascular disease, and other conditions that increase hospitalization risk.)
+*   Weekly_Alcohol_Intake (3): -0.5 (Moderate alcohol intake, while not universally beneficial, is not a significant risk factor for hospitalization at this level and may even be associated with some cardiovascular benefits in certain populations, though this is debated.)
+
+3. The hospitalization risk score is calculated by summing the contributions of factors directly and causally linked to increased or decreased health risks and the likelihood of requiring inpatient medical care, with a strong emphasis on established medical and socioeconomic determinants. Factors with no clear causal link to hospitalization risk are assigned a neutral contribution of zero.

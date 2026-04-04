@@ -1,0 +1,14 @@
+7
+
+*   Age (64): +2 (Increased age is a direct causal factor for higher hospitalization risk due to age-related physiological decline and increased comorbidity likelihood.)
+*   BMI (29.9): +1 (A BMI of 29.9 is classified as overweight, which is causally linked to an increased risk of various health complications requiring hospitalization.)
+*   Family_Health_History (Asthma): +1 (A family history of asthma indicates a genetic predisposition to respiratory issues, causally increasing the individual's risk of hospitalization for related conditions.)
+*   Current_Diagnosis (Depression): +1 (Depression is a chronic health condition that can directly lead to physical health deterioration, non-adherence to treatment, and increased risk of hospitalization for both mental and physical health crises.)
+*   HAM-D (18–24: Moderate Depression): +1 (Moderate depression, as indicated by the HAM-D score, is a direct causal factor for increased hospitalization risk due to the severity of symptoms and potential for self-neglect or exacerbation of other conditions.)
+*   Loss_of_Interest (Yes): +1 (Loss of interest is a symptom of depression, causally linked to reduced self-care, social isolation, and poorer health outcomes, thereby increasing hospitalization risk.)
+*   Hours_of_Sleep (6.4): +0.5 (Suboptimal sleep duration (less than 7 hours) is causally associated with weakened immune function, increased inflammation, and higher risk of chronic diseases, contributing to hospitalization risk.)
+*   Weekly_Alcohol_Intake (2): -0.5 (Moderate alcohol consumption, within recommended limits, is sometimes associated with a slightly reduced risk of certain cardiovascular conditions, thus a minor negative contribution to hospitalization risk.)
+*   Smoking (No): -1 (Absence of smoking significantly reduces the risk of numerous chronic diseases and acute respiratory events, causally lowering hospitalization risk.)
+*   Likes_Vegetables (Yes): -1 (A diet rich in vegetables is causally linked to better overall health, reduced risk of chronic diseases, and improved immune function, thereby decreasing hospitalization risk.)
+
+The risk score is calculated by summing the positive and negative contributions of each factor, where each contribution reflects a direct causal relationship between the factor and the likelihood of hospitalization. Factors like age, BMI, and existing diagnoses directly increase risk, while healthy behaviors like not smoking and consuming vegetables directly decrease it.

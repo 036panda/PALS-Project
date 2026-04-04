@@ -1,0 +1,18 @@
+1. 5
+
+2. *   Age: 20 (Contribution: +0.5, Causal Relationship: Younger age generally correlates with lower hospitalization risk, but not zero, so a small positive contribution is assigned to reflect general health risks.)
+*   BMI: 21.0 (Contribution: +0.5, Causal Relationship: Healthy BMI, but not exceptionally low, so a small positive contribution for general health.)
+*   Family_Health_History: Cancer (Contribution: +1.0, Causal Relationship: Family history of cancer increases genetic predisposition to various health issues, potentially leading to hospitalization.)
+*   Current_Diagnosis: Bipolar (Contribution: +2.0, Causal Relationship: Bipolar disorder is a significant mental health condition that can require hospitalization for acute episodes or medication management.)
+*   Weekly_Alcohol_Intake: 0 (Contribution: -0.5, Causal Relationship: No alcohol intake is a positive health factor, reducing risk.)
+*   Smoking: No (Contribution: -1.0, Causal Relationship: Non-smoker status significantly reduces the risk of numerous health complications requiring hospitalization.)
+*   HAM-D: 7–17: Mild Depression (Contribution: +1.0, Causal Relationship: Mild depression, while not severe, can still impact overall health and potentially contribute to hospitalization risk, especially when combined with other mental health diagnoses.)
+*   Been_Sad_or_Fatigued: No (Contribution: -0.5, Causal Relationship: Absence of these symptoms indicates better current mental and physical well-being.)
+*   Loss_of_Interest: No (Contribution: -0.5, Causal Relationship: Absence of this symptom indicates better current mental well-being.)
+*   Hours_of_Sleep: 5.7 (Contribution: +1.0, Causal Relationship: Insufficient sleep (below 7-9 hours) negatively impacts physical and mental health, increasing susceptibility to illness and exacerbating existing conditions.)
+*   Socioeconomic_Status: Low (Contribution: +1.5, Causal Relationship: Low socioeconomic status is often associated with reduced access to healthcare, poorer nutrition, and higher stress levels, all of which increase hospitalization risk.)
+*   Skips_Breakfast: Yes (Contribution: +0.5, Causal Relationship: Skipping breakfast can lead to poorer nutritional intake and energy levels, potentially impacting overall health.)
+*   Exercises: Yes (Contribution: -1.0, Causal Relationship: Regular exercise is a strong protective factor against numerous chronic diseases and improves overall health, reducing hospitalization risk.)
+*   Allergy: Pollen (Contribution: +0.5, Causal Relationship: Allergies, while often manageable, can sometimes lead to severe reactions or exacerbate respiratory issues requiring medical attention.)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to health outcomes and healthcare utilization. Positive contributions are assigned to factors increasing risk (e.g., existing diagnoses, poor health habits, socioeconomic disadvantages), while negative contributions are assigned to protective factors (e.g., healthy habits, absence of symptoms).

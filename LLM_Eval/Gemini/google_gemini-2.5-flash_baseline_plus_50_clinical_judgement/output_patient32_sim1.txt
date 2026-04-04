@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 8
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (19):** +1 (Young adult, particularly with mental health diagnoses, can be at higher risk for acute crises requiring hospitalization.)
+*   **BMI (17.6):** +1 (Underweight, potentially indicating poor nutritional status or exacerbating mental health symptoms, increasing vulnerability.)
+*   **Family_Health_History (Diabetes):** +0 (While a chronic condition, its direct impact on acute psychiatric hospitalization risk for this individual is minimal.)
+*   **Current_Diagnosis (Schizophrenia):** +4 (This is a primary driver of hospitalization risk. Schizophrenia often involves acute psychotic episodes, severe functional impairment, and a higher likelihood of requiring inpatient care for stabilization and safety.)
+*   **HAM-D (25+):** +2 (Severe Depression, especially when co-occurring with schizophrenia, significantly elevates the risk of self-harm, suicidal ideation, or functional decline requiring hospitalization.)
+*   **Loss_of_Interest (Yes):** +0.5 (Anhedonia is a core symptom of depression and schizophrenia, contributing to functional impairment and potentially increasing the need for structured support.)
+*   **Socioeconomic_Status (High):** -0.5 (While not a protective factor against mental illness, higher socioeconomic status can sometimes provide better access to outpatient resources and support, potentially mitigating some risk.)
+*   **Skips_Breakfast (Yes):** +0.5 (Indicates potential for poor self-care or disrupted routines, which can be a red flag in mental health management.)
+*   **Orders_Takeout (Daily):** +0.5 (Suggests reliance on convenience food, potentially indicating poor self-care habits or difficulty with daily living tasks, which can be exacerbated during mental health crises.)
+
+3. Clinical-style rationale: This 19-year-old non-binary individual presents with a severe mental health profile, including a diagnosis of schizophrenia and severe depression (HAM-D 25+), which are primary drivers of acute hospitalization risk due to the potential for psychotic episodes, severe functional impairment, and safety concerns. Contributing factors such as underweight BMI and poor self-care habits further elevate the need for potential inpatient stabilization and comprehensive care.

@@ -1,0 +1,19 @@
+7.5
+
+**Input Factors and Contributions:**
+
+*   **Age (56):** +0.5 (Increased risk with age, but not elderly)
+*   **BMI (27.3):** +0.5 (Overweight, contributing to health risks)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant chronic mental health condition requiring potential hospitalization)
+*   **Smoking (Yes):** +1.0 (Major health risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mental health condition, though mild, adds to risk)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of potential underlying health issues or worsening mental health)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of potential underlying health issues or worsening mental health)
+*   **Hours_of_Sleep (6.0):** +0.5 (Insufficient sleep, contributing to health issues)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer health outcomes and access to care)
+*   **Allergy (Tree Nuts):** +0.0 (Managed allergy, no direct hospitalization risk unless severe and unmanaged, which is not indicated)
+*   **Exercises (Yes):** -1.0 (Positive health behavior, reduces risk)
+
+**Justification:**
+
+The hospitalization risk score is calculated by summing the individual contributions of various health, lifestyle, and socioeconomic factors. Positive contributions are assigned to factors that increase the likelihood of hospitalization (e.g., chronic illness, poor lifestyle choices, low socioeconomic status), while negative contributions are assigned to protective factors (e.g., exercise).

@@ -1,0 +1,15 @@
+1. 4.5
+
+2. *   **Age (35):** +0.5 (Slightly elevated risk due to age, though not a primary driver at 35)
+*   **BMI (26.8):** +0.5 (Overweight, contributing to increased health risks)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant risk factor for hospitalization due to potential for acute episodes and comorbidities)
+*   **Weekly_Alcohol_Intake (4):** +0.5 (Moderate alcohol intake, contributing to some health risk)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression, indicating a mental health concern that can escalate or contribute to physical health issues)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of potential underlying health issues or worsening mental health)
+*   **Hours_of_Sleep (5.3):** +1.0 (Insufficient sleep, a known contributor to various health problems)
+*   **Employment (Employed):** -0.5 (Protective factor, generally associated with better health outcomes)
+*   **Socioeconomic_Status (Middle):** -0.5 (Protective factor, generally associated with better access to healthcare and resources)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive health habit)
+*   **Water_Intake_oz (46.2):** -0.5 (Adequate hydration, a positive health habit)
+
+3. The risk score is calculated by summing the contributions of factors known to directly influence hospitalization risk, such as chronic conditions (Bipolar), lifestyle choices (BMI, alcohol, sleep), and mental health indicators (depression, fatigue), while mitigating factors like employment, socioeconomic status, and healthy habits are subtracted. This reflects a direct causal link between these specific attributes and the likelihood of requiring hospitalization.

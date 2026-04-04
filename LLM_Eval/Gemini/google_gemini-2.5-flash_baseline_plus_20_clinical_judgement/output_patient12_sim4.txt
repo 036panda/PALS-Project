@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 6.5
+
+2. Detailed Breakdown:
+
+*   **Age (90):** +3.0 (Advanced age is a significant risk factor for hospitalization due to increased frailty, comorbidity burden, and susceptibility to acute illness.)
+*   **BMI (32.5 - Obese Class I):** +0.5 (Obesity increases the risk of various health complications, including cardiovascular disease, diabetes, and respiratory issues, which can lead to hospitalization.)
+*   **Family_Health_History (Hypertension):** +0.2 (Genetic predisposition to hypertension increases the individual's risk of developing the condition and its associated complications.)
+*   **Current_Diagnosis (Depression):** +0.0 (While depression can increase hospitalization risk, the HAM-D score indicates no current depression, negating this as an active risk factor.)
+*   **Weekly_Alcohol_Intake (4 units):** -0.1 (Moderate alcohol intake, especially in older adults, is not a significant risk factor for hospitalization and may even have some protective cardiovascular effects, though this is debated.)
+*   **Smoking (Yes):** +2.0 (Active smoking is a major risk factor for numerous chronic diseases, including cardiovascular disease, respiratory illness, and cancer, all of which can lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of current depressive symptoms reduces the risk of mental health-related hospitalizations and may indicate better overall coping mechanisms.)
+*   **Been_Sad_or_Fatigued (No):** -0.2 (Lack of these symptoms suggests good mental and physical well-being, reducing the likelihood of hospitalization.)
+*   **Loss_of_Interest (No):** -0.2 (Similar to the above, indicates good mental health and engagement.)
+*   **Hours_of_Sleep (7.4):** -0.3 (Adequate sleep is crucial for physical and mental health, reducing the risk of illness and accidents.)
+*   **Socioeconomic_Status (Middle):** -0.2 (Middle socioeconomic status generally correlates with better access to healthcare, nutrition, and living conditions, reducing hospitalization risk compared to lower SES.)
+*   **Drinks_Coffee (Yes):** -0.1 (Moderate coffee consumption has been linked to some health benefits, including reduced risk of certain chronic diseases.)
+*   **Likes_Vegetables (No):** +0.3 (Lack of vegetable consumption can indicate a less healthy diet, potentially increasing the risk of nutritional deficiencies and chronic diseases.)
+*   **Water_Intake_oz (44.2):** +0.0 (This is within a reasonable range for an older adult, neither significantly positive nor negative.)
+*   **Bilingual (Yes):** -0.1 (Bilingualism has been associated with cognitive benefits and potentially better social engagement, which can indirectly contribute to better health outcomes.)
+*   **Travels (Yes):** -0.1 (Indicates an active lifestyle and potentially better physical and mental health, reducing the risk of sedentary-related issues.)
+
+3. Clinical Rationale: This 90-year-old patient presents with significant age-related vulnerability and active smoking, which are primary drivers of hospitalization risk, despite the absence of current depression and a relatively healthy sleep pattern. The combination of advanced age, obesity, and smoking creates a high cumulative burden for acute medical events.

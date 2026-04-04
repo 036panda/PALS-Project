@@ -1,0 +1,17 @@
+1. 6
+
+2. *   **Age (32):** +0 (No significant risk increase for hospitalization at this age, assuming general health)
+*   **BMI (25.7):** +0 (Within healthy range, no direct contribution to hospitalization risk)
+*   **Family_Health_History (Asthma):** +1 (Increased predisposition to respiratory issues, a common cause for hospitalization)
+*   **Current_Diagnosis (nan):** +0 (Absence of current diagnosis is neutral)
+*   **HAM-D (18–24: Moderate Depression):** +2 (Moderate depression is a significant risk factor for various health complications, including those requiring hospitalization, and can impact adherence to treatment for other conditions.)
+*   **Loss_of_Interest (Yes):** +1 (Symptom of depression, reinforcing the risk associated with HAM-D score)
+*   **Hours_of_Sleep (4.8):** +2 (Chronic sleep deprivation significantly weakens the immune system and increases the risk of various health problems, including cardiovascular issues and infections, which can lead to hospitalization.)
+*   **Smoking (No):** -1 (Absence of smoking reduces risk)
+*   **Weekly_Alcohol_Intake (2):** +0 (Moderate intake, no significant risk increase)
+*   **Socioeconomic_Status (Middle):** +0 (Neutral, neither high nor low risk)
+*   **Employment (Employed):** -1 (Suggests better access to healthcare and resources, and potentially better mental well-being)
+*   **Exercises (Yes):** -1 (Positive health behavior, reduces risk)
+*   **Skips_Breakfast (Yes):** +1 (Can lead to poor dietary habits and energy regulation, potentially impacting overall health and increasing susceptibility to illness)
+
+3. The hospitalization risk score is calculated by summing the contributions of factors directly impacting physical and mental health, with particular emphasis on chronic conditions, lifestyle choices, and mental health indicators known to increase the likelihood of requiring medical intervention. Factors like moderate depression, chronic sleep deprivation, and a family history of asthma are assigned positive contributions due to their established causal links to increased health complications and hospitalization risk, while positive health behaviors like exercising and not smoking are assigned negative contributions.

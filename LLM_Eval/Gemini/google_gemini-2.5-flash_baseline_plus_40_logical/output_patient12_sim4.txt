@@ -1,0 +1,27 @@
+1. 8.5
+
+2. *   Age (90): +2.0 (Advanced age is a significant risk factor for hospitalization due to increased frailty and comorbidity likelihood.)
+*   BMI (32.5): +1.0 (Obesity, indicated by BMI > 30, increases the risk of various health complications requiring hospitalization.)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to hypertension increases the individual's risk of cardiovascular events, a common cause of hospitalization.)
+*   Current_Diagnosis (Depression): +1.0 (Depression, even if HAM-D is currently low, is a chronic condition that can exacerbate physical health issues and lead to hospitalization.)
+*   Smoking (Yes): +1.5 (Smoking is a major risk factor for numerous chronic diseases, including respiratory, cardiovascular, and oncological conditions, all of which can lead to hospitalization.)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (A low HAM-D score indicates current mental stability, reducing the immediate risk of hospitalization due to acute mental health crisis.)
+*   Hours_of_Sleep (7.4): -0.2 (Adequate sleep is generally associated with better health outcomes, reducing hospitalization risk.)
+*   Weekly_Alcohol_Intake (4): -0.1 (Moderate alcohol intake, within recommended limits, is not a significant risk factor and may even have minor protective effects for some conditions.)
+*   Exercises (Yes): -0.5 (Regular exercise is a strong protective factor against many chronic diseases, reducing the likelihood of hospitalization.)
+*   Volunteers (Always): -0.2 (Volunteering is associated with better mental and physical well-being, potentially reducing stress-related health issues.)
+*   Allergy (Dust): +0.1 (Allergies, even common ones, can sometimes trigger respiratory issues or other complications requiring medical attention.)
+*   Wears_Glasses (Yes): +0.1 (While not a direct cause, wearing glasses often indicates underlying vision issues that can be associated with other age-related health concerns.)
+*   Skips_Breakfast (Yes): +0.2 (Skipping meals can lead to poor nutritional habits and potentially impact metabolic health, increasing risk.)
+*   Likes_Vegetables (No): +0.3 (Lack of vegetable consumption indicates a potentially less healthy diet, increasing the risk of various chronic diseases.)
+*   Has_Drivers_License (No): +0.1 (While not directly causal, not having a driver's license in an older individual might indicate mobility limitations or other health issues.)
+*   Binge_Watches_TV (Yes): +0.2 (Sedentary behavior is a risk factor for various health problems, including cardiovascular disease and obesity-related complications.)
+*   Religious (Yes): -0.1 (Religious involvement can provide social support and coping mechanisms, potentially reducing stress-related health issues.)
+*   Donated_Blood (Yes): -0.1 (Donating blood often indicates a generally healthy individual who is aware of their health status.)
+*   Recycling_Habits (Always): -0.1 (Positive health behaviors often correlate with other responsible lifestyle choices.)
+*   Travels (Yes): -0.1 (Ability to travel often indicates a certain level of physical health and mobility.)
+*   Bilingual (Yes): -0.1 (Cognitive engagement, such as being bilingual, is associated with better brain health and potentially overall well-being.)
+*   Registered_Organ_Donor (Yes): -0.1 (Similar to blood donation, this often indicates a healthy individual.)
+*   Annual_Charity_Donation (Always): -0.1 (Philanthropic behavior is often associated with positive mental well-being.)
+
+3. The risk score is calculated by summing the contributions of various health and lifestyle factors, where positive values indicate increased risk and negative values indicate decreased risk, reflecting established causal relationships between these factors and hospitalization likelihood. The patient's advanced age, obesity, smoking, and family history of hypertension are primary drivers of increased risk, while factors like adequate sleep, exercise, and current mental stability mitigate some of this risk.

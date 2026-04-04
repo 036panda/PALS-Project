@@ -1,0 +1,15 @@
+1. 6.5
+
+2. *   Age (74): +3.0 (Increased risk due to advanced age)
+*   BMI (29.4): +1.0 (Slightly elevated BMI, approaching overweight/obese category)
+*   Family_Health_History (Cancer): +1.0 (Increased genetic predisposition to health issues)
+*   Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol intake, potential long-term health implications)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   HAM-D (0-6: Normal / No Depression): -0.5 (Good mental health, reducing stress-related risks)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of symptoms often associated with underlying health issues)
+*   Loss_of_Interest (No): -0.5 (Absence of symptoms often associated with underlying health issues)
+*   Hours_of_Sleep (7.0): 0.0 (Adequate sleep, neutral contribution)
+*   Exercises (No): +2.0 (Lack of physical activity is a significant risk factor)
+*   Allergy (Tree Nuts): +1.0 (Presence of an allergy, indicating a potential for adverse reactions)
+
+3. The risk score is calculated by summing the contributions of identified risk factors and protective factors. Positive contributions are assigned to factors that increase hospitalization risk (e.g., advanced age, lack of exercise, elevated BMI, family history of disease, allergies), while negative contributions are assigned to factors that decrease risk (e.g., no smoking, good mental health).

@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   **Age (42):** +0.5 (Increased risk with age, but 42 is moderate)
+*   **BMI (26.4):** +0.5 (Slightly overweight, contributing to minor increased risk)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to serious illness)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can exacerbate physical health issues and increase hospitalization likelihood)
+*   **Race (Native American):** +1.0 (Acknowledged systemic health disparities and higher rates of certain conditions)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Mild depression can impact overall health and adherence to care)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptoms often associated with underlying health issues or mental health decline)
+*   **Loss_of_Interest (Yes):** +0.5 (Another indicator of potential mental health decline or underlying issues)
+*   **Hours_of_Sleep (10.2):** -0.5 (Adequate sleep is generally protective, though excessive sleep could be a symptom)
+*   **Employment (Employed):** -0.5 (Often correlates with better access to healthcare and resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes than lower SES)
+*   **Allergy (Peanut):** +0.5 (Risk of severe allergic reaction requiring hospitalization)
+*   **All other factors:** +0.0 (No direct or significant causal link to hospitalization risk based on available information)
+
+3. The risk score is calculated by summing the individual contributions of factors directly and causally linked to increased or decreased hospitalization risk, such as existing diagnoses, family history, and recognized demographic health disparities, while excluding factors with no clear causal relationship.

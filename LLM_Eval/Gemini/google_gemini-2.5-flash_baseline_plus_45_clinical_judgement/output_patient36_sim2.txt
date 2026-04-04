@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 8
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (68):** +1.0 (Increased risk with advancing age, particularly over 65, due to higher prevalence of chronic conditions and frailty.)
+*   **BMI (29.7):** +0.5 (Approaching obesity, which is a risk factor for various health complications.)
+*   **Family_Health_History (Hypertension):** +0.5 (Genetic predisposition to a common chronic condition that can lead to acute events.)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant independent risk factor for hospitalization due to acute exacerbations, medication non-adherence, and co-occurring medical conditions.)
+*   **Weekly_Alcohol_Intake (3):** -0.2 (Low to moderate intake, generally not a significant risk factor for hospitalization on its own.)
+*   **Smoking (Yes):** +1.5 (Major risk factor for numerous chronic diseases, including cardiovascular and respiratory conditions, increasing likelihood of acute events.)
+*   **HAM-D (25+: Severe Depression):** +2.0 (Severe depression significantly increases the risk of psychiatric hospitalization, self-harm, and functional decline.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Corroborates severe depression, indicating ongoing symptomatic burden.)
+*   **Loss_of_Interest (Yes):** +0.5 (Anhedonia, a core symptom of severe depression, further indicating significant functional impairment.)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer access to healthcare, nutrition, and higher stress levels, all contributing to increased hospitalization risk.)
+*   **Exercises (No):** +0.5 (Lack of physical activity contributes to overall poor health and increased risk of chronic diseases.)
+*   **Allergy (Animal Dander):** -0.3 (While an allergy, it's generally manageable and not a direct driver of hospitalization unless severe and uncontrolled, which is not indicated.)
+*   **Hours_of_Sleep (7.7):** -0.5 (Adequate sleep, a protective factor for overall health.)
+*   **Volunteers (Always):** -0.5 (Suggests some level of social engagement and purpose, which can be protective for mental health.)
+*   **Relationship_Status (Dating):** -0.5 (Suggests some social support, which can be a protective factor.)
+*   **Bilingual (Yes):** -0.5 (May indicate cognitive resilience and broader social engagement.)
+
+3. Clinical Rationale: This patient presents with a high risk of hospitalization primarily due to the severe mental health burden of schizophrenia and severe depression, compounded by significant physical health risk factors such as smoking, advanced age, and low socioeconomic status, despite some protective social factors.

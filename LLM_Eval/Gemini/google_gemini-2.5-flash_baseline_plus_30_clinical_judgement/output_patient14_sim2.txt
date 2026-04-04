@@ -1,0 +1,14 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (18):** +1 (Young adults, especially those with mental health diagnoses, can be at higher risk for acute episodes requiring hospitalization due to developmental factors, stress, and potential for less established coping mechanisms.)
+*   **BMI (30.9):** +0.5 (Obesity is a general health risk factor that can complicate mental health management and overall well-being, subtly increasing the likelihood of needing more intensive care if other factors align.)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder inherently carries a significant risk of hospitalization due to the potential for severe manic or depressive episodes, psychosis, and safety concerns.)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, "Loss of Interest" is a key symptom of depression or anhedonia, which, in the context of bipolar disorder, could indicate a developing depressive episode or a mixed state, increasing hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally implies better access to resources and support compared to lower SES, which can be a protective factor against hospitalization.)
+*   **Relationship_Status (Dating):** -0.5 (Having a supportive relationship can be a protective factor, offering social support and potentially earlier recognition of symptom escalation.)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep is generally a positive indicator for mental health stability, especially in bipolar disorder where sleep disruption can trigger episodes.)
+*   **Gender (Non-binary), Sexual_Orientation (Bisexual), Race (Other):** +1 (While not direct causes, these demographic factors can be associated with increased experiences of discrimination, minority stress, and barriers to culturally competent care, which can indirectly elevate mental health risks and the need for higher levels of support.)
+
+3. Clinical Rationale: This 18-year-old with a bipolar diagnosis faces a moderate to high risk of hospitalization, primarily driven by the inherent instability of bipolar disorder and the presence of "loss of interest," which could signal an impending mood episode despite a normal HAM-D score. While some protective factors exist, the combination of a significant mental health diagnosis in a young adult, coupled with potential minority stress, warrants close monitoring.

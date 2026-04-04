@@ -1,0 +1,15 @@
+1. 7
+
+2. *   Age (56): +1 (Increased age is associated with higher hospitalization risk due to general physiological decline and increased comorbidity likelihood.)
+*   BMI (31.1 - Obese Class I): +1 (Obesity is a known risk factor for numerous health conditions requiring hospitalization.)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues can increase hospitalization risk, especially if triggered.)
+*   Current_Diagnosis (Schizophrenia): +3 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   Race (Black): +1 (Systemic health disparities and socioeconomic factors often lead to higher hospitalization rates in certain racial groups.)
+*   Gender (Other): +0.5 (Individuals identifying as "Other" gender may face unique healthcare access barriers or discrimination, potentially increasing hospitalization risk.)
+*   Weekly_Alcohol_Intake (0): -0.5 (Absence of alcohol consumption reduces risk of alcohol-related hospitalizations.)
+*   Smoking (No): -1 (Non-smoking significantly reduces risk of numerous smoking-related illnesses requiring hospitalization.)
+*   Loss_of_Interest (Yes): +1 (While HAM-D is normal, "Loss of Interest" can be a symptom of underlying mental health issues or a precursor to worsening mental state, especially in the context of Schizophrenia, increasing hospitalization risk.)
+*   Employment (Employed): -0.5 (Employment often correlates with better access to healthcare, financial stability, and social support, reducing hospitalization risk.)
+*   Socioeconomic_Status (Middle): -0.5 (Middle socioeconomic status generally provides better access to preventative care and resources, reducing hospitalization risk compared to lower statuses.)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age, BMI, and existing severe diagnoses like schizophrenia, while mitigating factors like non-smoking and employment reduce the score. Each contribution reflects an established causal link between the factor and the likelihood of requiring hospitalization.

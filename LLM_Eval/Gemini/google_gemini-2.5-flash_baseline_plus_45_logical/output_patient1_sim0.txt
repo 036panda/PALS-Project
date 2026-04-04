@@ -1,0 +1,14 @@
+1. 6
+
+2. *   **Current_Diagnosis: Anxiety:** +1 (Anxiety can exacerbate physical health issues and lead to increased healthcare utilization.)
+*   **Smoking: Yes:** +2 (Smoking is a significant risk factor for numerous chronic diseases requiring hospitalization.)
+*   **HAM-D: 25+: Severe Depression:** +2 (Severe depression is strongly linked to poorer physical health outcomes, increased risk of self-harm, and higher rates of hospitalization.)
+*   **Socioeconomic_Status: Low:** +1 (Lower socioeconomic status is associated with reduced access to preventative care, poorer health literacy, and higher rates of chronic conditions, increasing hospitalization risk.)
+*   **Allergy: Gluten:** +0.5 (While not directly a high hospitalization risk, managing a gluten allergy can sometimes lead to complications or require medical attention if not properly managed.)
+*   **Exercises: No:** +0.5 (Lack of exercise contributes to various health problems, including cardiovascular disease and obesity, which can increase hospitalization risk over time.)
+*   **Age: 22:** -1 (Younger age generally correlates with lower hospitalization risk compared to older populations, assuming no other significant risk factors.)
+*   **BMI: 23.8:** -0.5 (A healthy BMI reduces the risk of obesity-related complications that often lead to hospitalization.)
+*   **Weekly_Alcohol_Intake: 7:** -0.5 (Moderate alcohol intake, within recommended limits, is not typically a direct hospitalization risk factor and may even have some protective effects for certain conditions.)
+*   **Likes_Vegetables: Yes:** -0.5 (A diet rich in vegetables is associated with better overall health and reduced risk of chronic diseases.)
+
+3. The risk score is calculated by summing the contributions of factors that logically and causally increase or decrease the likelihood of hospitalization, based on established medical and social determinants of health. Positive contributions are assigned to conditions or behaviors known to elevate health risks, while negative contributions are given to protective factors.

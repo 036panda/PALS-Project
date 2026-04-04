@@ -1,0 +1,19 @@
+6.0
+
+*   Age (56): +1.0 (Increased age is a known risk factor for hospitalization due to general health decline and increased susceptibility to various conditions.)
+*   BMI (28.0): +1.0 (A BMI of 28.0 is considered overweight, which is associated with an increased risk of various health complications that may lead to hospitalization.)
+*   Weekly_Alcohol_Intake (4 units): +0.5 (Moderate alcohol intake, while not excessively high, still carries a slight increased risk for certain health issues compared to no intake.)
+*   HAM-D (7–17: Mild Depression): +2.0 (Mild depression can impact overall health, adherence to medical advice, and increase the likelihood of physical health issues requiring hospitalization.)
+*   Loss_of_Interest (Yes): +1.0 (Loss of interest, often a symptom of depression or other underlying conditions, can indicate a decline in self-care and overall well-being, increasing hospitalization risk.)
+*   Hours_of_Sleep (6.1): +0.5 (Slightly less than optimal sleep duration can negatively impact immune function and overall health, contributing to a higher risk of illness and hospitalization.)
+*   Smoking (No): -0.0 (No contribution, as the absence of smoking removes a significant risk factor.)
+*   Been_Sad_or_Fatigued (No): -0.0 (No contribution, as the absence of these symptoms removes potential indicators of declining health.)
+*   Family_Health_History (nan): +0.0 (No contribution due to missing information.)
+*   Current_Diagnosis (nan): +0.0 (No contribution due to missing information.)
+*   Race (Asian): +0.0 (No direct causal link to hospitalization risk without further context.)
+*   Gender (Other): +0.0 (No direct causal link to hospitalization risk without further context.)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk.)
+*   Employment (Employed): +0.0 (Generally associated with better health outcomes, but not a direct negative contributor to risk in this context.)
+*   Socioeconomic_Status (Middle): +0.0 (Generally associated with better health outcomes, but not a direct negative contributor to risk in this context.)
+
+The risk score is calculated by summing the positive contributions from identified risk factors such as age, overweight BMI, mild depression, and suboptimal sleep, which are causally linked to an increased likelihood of health complications requiring hospitalization. Factors that do not directly increase risk or are missing information contribute zero.

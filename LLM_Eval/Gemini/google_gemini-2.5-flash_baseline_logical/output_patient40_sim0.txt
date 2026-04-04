@@ -1,0 +1,19 @@
+5.5
+
+*   Age (26): +0.5 (Younger adults generally have lower hospitalization risk, but not zero, reflecting some baseline risk for any individual.)
+*   BMI (29.1): +1.0 (Overweight, increasing risk for various health complications.)
+*   Family_Health_History (Diabetes): +1.0 (Genetic predisposition to a chronic condition that can lead to hospitalization.)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant mental health condition with a known association with increased hospitalization risk, especially if not well-managed.)
+*   Race (Other): +0.0 (No direct causal link to hospitalization risk without further context.)
+*   Gender (Non-binary): +0.0 (No direct causal link to hospitalization risk.)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk.)
+*   Weekly_Alcohol_Intake (3): +0.0 (Within recommended low-risk limits.)
+*   Smoking (No): -0.5 (Absence of a major risk factor reduces overall risk.)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Absence of clinical depression reduces mental health-related hospitalization risk.)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Indicates potential underlying health issues or early signs of mental health decline, even without a formal diagnosis.)
+*   Loss_of_Interest (Yes): +0.5 (Similar to sadness/fatigue, suggests potential underlying issues.)
+*   Hours_of_Sleep (6.2): +0.5 (Slightly below optimal, potentially impacting overall health and resilience.)
+*   Employment (Employed): -0.5 (Generally associated with better health outcomes and access to resources.)
+*   Socioeconomic_Status (Low): +1.0 (Strongly correlated with poorer health outcomes, limited access to care, and higher hospitalization rates.)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, reflecting their direct causal influence on the likelihood of hospitalization. The presence of a significant mental health diagnosis (Bipolar) and low socioeconomic status are major contributors to the elevated risk, while the absence of smoking and clinical depression mitigate it somewhat.

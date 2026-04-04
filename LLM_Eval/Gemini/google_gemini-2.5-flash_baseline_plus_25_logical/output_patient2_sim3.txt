@@ -1,0 +1,16 @@
+7.5
+
+*   BMI (34.6, Obese Class I): +1.5 (Increased risk of various health complications)
+*   Family_Health_History (Cancer): +1.0 (Genetic predisposition to certain illnesses)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant comorbidity with physical health issues, increased risk of hospitalization for mental health crises or related physical conditions)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential for worsening mental health)
+*   Weekly_Alcohol_Intake (4 units): +0.5 (Moderate intake, but still contributes to overall health burden)
+*   HAM-D (7–17: Mild Depression): +1.0 (Indicates current mental health challenge, increasing hospitalization risk if it escalates)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habit, contributing to overall health risk)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better access to healthcare and resources compared to lower SES)
+*   Hours_of_Sleep (8.9): -0.5 (Adequate sleep, a protective factor for overall health)
+*   Employment (Employed): -0.5 (Indicates stability and access to resources, often including health insurance)
+*   Water_Intake_oz (42.6): -0.5 (Adequate hydration, a protective factor)
+*   Age (40): +1.0 (Risk generally increases with age, even at 40, compared to younger adults)
+
+The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as chronic conditions, lifestyle choices, and mental health status, while subtracting contributions from protective factors. Each factor's contribution is weighted based on its established impact on health outcomes and hospitalization likelihood.

@@ -1,0 +1,19 @@
+7
+
+*   **Age (19):** +0.5 (Younger age, while generally healthier, can be a risk factor for certain mental health-related hospitalizations due to less developed coping mechanisms or support systems compared to older adults with established routines.)
+*   **BMI (25.1):** +0.5 (Slightly overweight, which can contribute to general health issues that may necessitate hospitalization, especially when combined with other factors.)
+*   **Family_Health_History (nan):** +0 (No information, therefore no contribution.)
+*   **Current_Diagnosis (Schizophrenia):** +5 (Schizophrenia is a severe mental illness with a high risk of hospitalization due to acute psychotic episodes, medication management needs, and safety concerns.)
+*   **Race (Black):** +0.5 (Systemic health disparities and socioeconomic factors can lead to higher hospitalization rates for certain racial groups.)
+*   **Gender (Female):** +0.5 (Some mental health conditions, including depression, have higher prevalence or different presentation in females, potentially increasing hospitalization risk in certain contexts.)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct causal link to hospitalization risk in this context.)
+*   **Weekly_Alcohol_Intake (4 units):** +0.5 (Moderate alcohol intake, while not excessive, can exacerbate mental health symptoms or interact with medications, increasing risk.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health factor, reducing overall health risks.)
+*   **HAM-D (7–17: Mild Depression):** +1 (Mild depression, while not severe, can contribute to overall mental health instability and increase the likelihood of hospitalization, especially when co-occurring with schizophrenia.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (These symptoms are indicative of ongoing mental distress, which can escalate and require hospitalization.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of anhedonia is a positive indicator, suggesting some level of engagement and potentially better coping.)
+*   **Hours_of_Sleep (10.3):** +0.5 (Excessive sleep can be a symptom of depression or other mental health issues, indicating a potential need for intervention.)
+*   **Employment (Employed):** -0.5 (Employment often provides structure, social support, and financial stability, which are protective factors against hospitalization.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally implies better access to resources and support, reducing hospitalization risk compared to lower statuses.)
+
+The risk score is calculated by summing the contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established clinical understanding of their causal impact on hospitalization likelihood. The primary driver of this score is the diagnosis of schizophrenia, significantly amplified by co-occurring mild depression and other contributing factors like age, BMI, and racial disparities, while mitigated by protective factors such as not smoking and being employed.

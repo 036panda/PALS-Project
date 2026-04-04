@@ -1,0 +1,24 @@
+1. 3
+
+2. *   Age (52): +1 (Increased risk with age, though moderate at 52)
+    *   BMI (23.2): +0 (Normal BMI, no direct contribution to risk)
+    *   Family_Health_History (Asthma): +1 (Genetic predisposition to respiratory issues, which can exacerbate other conditions or lead to hospitalization)
+    *   Current_Diagnosis (Anxiety): +1 (Mental health conditions can indirectly increase hospitalization risk through stress-related physical symptoms or impact on self-care)
+    *   Race (Other): +0 (No inherent risk from race itself without further context)
+    *   Gender (Non-binary): +0 (No inherent risk from gender identity itself)
+    *   Sexual_Orientation (Heterosexual): +0 (No inherent risk from sexual orientation itself)
+    *   Weekly_Alcohol_Intake (5): +0 (Moderate alcohol intake, generally not a significant risk factor)
+    *   Smoking (No): -1 (Absence of smoking reduces risk)
+    *   HAM-D (0–6: Normal / No Depression): -1 (Absence of depression reduces risk)
+    *   Been_Sad_or_Fatigued (No): -1 (Absence of these symptoms reduces risk)
+    *   Loss_of_Interest (No): -1 (Absence of this symptom reduces risk)
+    *   Hours_of_Sleep (7.4): +0 (Adequate sleep, no direct contribution to risk)
+    *   Employment (Employed): -1 (Employment often correlates with better access to healthcare and resources, reducing risk)
+    *   Socioeconomic_Status (Middle): +0 (Middle socioeconomic status, no direct contribution to risk)
+    *   Drinks_Coffee (No): +0 (No direct contribution to risk)
+    *   Likes_Vegetables (Yes): -1 (Healthy dietary habits reduce risk)
+    *   Favourite_Sport (Soccer): +0 (No direct contribution to risk)
+    *   Votes (Always): +0 (No direct contribution to risk)
+    *   Height_in_Inches (68): +0 (No direct contribution to risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence health outcomes and the likelihood of requiring hospitalization, such as age, family history of chronic conditions, current mental health diagnoses, and lifestyle choices. Positive contributions reflect increased risk, while negative contributions reflect protective factors.

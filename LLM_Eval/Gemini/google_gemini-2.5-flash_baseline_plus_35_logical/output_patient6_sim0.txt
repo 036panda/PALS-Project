@@ -1,0 +1,17 @@
+7
+
+*   **Age (36):** +0.5 (Increased risk with age, though 36 is relatively young, it's not zero risk)
+*   **BMI (31.3):** +2.0 (BMI > 30 is classified as obese, a significant risk factor for various health issues requiring hospitalization)
+*   **Family_Health_History (Asthma):** +1.0 (Family history of chronic respiratory conditions increases individual susceptibility to respiratory issues, potentially leading to hospitalization)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can exacerbate physical symptoms or lead to health-seeking behaviors that might involve hospitalization, or in severe cases, direct hospitalization for mental health)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate alcohol intake, while not excessive, still carries some health risks compared to no intake)
+*   **Socioeconomic_Status (Low):** +1.5 (Lower socioeconomic status is strongly correlated with poorer health outcomes, reduced access to preventative care, and higher rates of hospitalization)
+*   **Allergy (Pollen):** +0.5 (Allergies, especially to common environmental factors like pollen, can trigger severe reactions requiring medical attention or hospitalization)
+*   **Skips_Breakfast (Yes):** +0.5 (Irregular eating habits can negatively impact overall health and immune function, increasing vulnerability to illness)
+*   **Smoking (No):** -0.5 (Absence of smoking significantly reduces risk)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Good mental health reduces overall health risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates better overall well-being)
+*   **Loss_of_Interest (No):** -0.5 (Absence of this symptom indicates better mental health)
+*   **Hours_of_Sleep (6.0):** +0.5 (Slightly below the recommended 7-9 hours, which can impact immune function and overall health)
+
+The risk score is calculated by summing the contributions of factors directly linked to physical and mental health, lifestyle choices, and socioeconomic determinants known to influence hospitalization rates. Positive contributions are assigned to factors increasing risk (e.g., obesity, low socioeconomic status, anxiety), while negative contributions are assigned to factors mitigating risk (e.g., no smoking, good mental health).

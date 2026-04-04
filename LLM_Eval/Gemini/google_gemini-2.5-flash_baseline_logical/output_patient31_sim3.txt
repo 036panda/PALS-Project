@@ -1,0 +1,19 @@
+7.5
+
+*   **Age (36):** +0.5 (While not elderly, being past the prime young adult years slightly increases general health risks, including hospitalization likelihood, compared to younger adults.)
+*   **BMI (36.8 - Obese Class III):** +2.0 (Severe obesity is a significant independent risk factor for numerous health complications requiring hospitalization, including cardiovascular disease, diabetes, and respiratory issues.)
+*   **Family_Health_History (Hypertension):** +1.0 (A family history of hypertension indicates a genetic predisposition to cardiovascular issues, which can lead to hospitalizations.)
+*   **Current_Diagnosis (nan):** +0.0 (No current diagnosis means no immediate, known illness contributing to hospitalization risk.)
+*   **Race (Black):** +0.5 (Systemic health disparities and higher prevalence of certain chronic conditions in Black populations, independent of socioeconomic status, contribute to increased hospitalization risk.)
+*   **Gender (Non-binary):** +0.0 (Gender identity itself does not directly contribute to hospitalization risk in a causal manner, though societal factors might.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Sexual orientation itself does not directly contribute to hospitalization risk.)
+*   **Weekly_Alcohol_Intake (7 units):** +0.0 (This level is within moderate consumption guidelines and does not significantly increase hospitalization risk.)
+*   **Smoking (Yes):** +2.0 (Active smoking is a major, well-established risk factor for a wide array of severe health conditions, including cardiovascular disease, cancer, and respiratory illnesses, all of which frequently necessitate hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** +0.0 (Absence of depression reduces mental health-related hospitalization risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Persistent sadness or fatigue, even without a formal depression diagnosis, can indicate underlying health issues or stress that, if unaddressed, could escalate to require hospitalization.)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, anhedonia can be a symptom of various physical or mental health conditions that, if left untreated, could lead to hospitalization.)
+*   **Hours_of_Sleep (5.7):** +0.5 (Chronic sleep deprivation is linked to weakened immune function, increased risk of chronic diseases, and impaired cognitive function, all of which can indirectly increase hospitalization risk.)
+*   **Employment (Employed):** -0.5 (Employment generally correlates with better access to healthcare, financial stability, and a sense of purpose, which can be protective against severe health outcomes requiring hospitalization.)
+*   **Socioeconomic_Status (Middle):** +0.0 (Middle socioeconomic status generally implies adequate access to healthcare and resources, neither significantly increasing nor decreasing risk compared to extremes.)
+
+The risk score is derived by summing the causal contributions of each factor, where significant health risks like severe obesity and smoking are weighted heavily due to their direct and strong association with conditions requiring hospitalization, while protective factors like employment slightly reduce the score. Factors indicating potential, but not immediate, health concerns (e.g., sleep deprivation, persistent fatigue) contribute moderately, reflecting their potential to escalate into more serious conditions.

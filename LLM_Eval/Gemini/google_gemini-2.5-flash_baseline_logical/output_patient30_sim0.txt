@@ -1,0 +1,19 @@
+7
+
+*   **Age (49):** +0.5 (Increased age generally correlates with higher hospitalization risk due to cumulative health issues.)
+*   **BMI (29.7):** +1.0 (BMI in the overweight/obese range is a known risk factor for various health complications requiring hospitalization.)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder is a significant mental health condition often requiring hospitalization for acute episodes or medication management.)
+*   **Race (Native American):** +0.5 (Systemic health disparities and limited access to care for Native American populations can increase hospitalization risk.)
+*   **Gender (Female):** +0.0 (No direct causal link to increased hospitalization risk in this context.)
+*   **Sexual_Orientation (Other):** +0.5 (Individuals identifying as "Other" in sexual orientation may face healthcare discrimination or lack of culturally competent care, potentially leading to delayed treatment and increased hospitalization risk.)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Moderate alcohol intake, not a significant risk factor for hospitalization.)
+*   **Smoking (No):** -0.5 (Absence of smoking reduces hospitalization risk compared to smokers.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (While mild, depression can exacerbate other conditions or, if untreated, progress to more severe states requiring hospitalization.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms suggests better current mental well-being, reducing immediate hospitalization risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (A symptom of depression, indicating a potential decline in mental health and increased risk.)
+*   **Hours_of_Sleep (5.8):** +0.5 (Insufficient sleep is linked to various health problems and can worsen existing conditions, increasing hospitalization risk.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and financial stability, reducing hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** +0.0 (Middle socioeconomic status is generally neutral in terms of direct hospitalization risk compared to extremes.)
+
+The risk score is calculated by summing the contributions of each factor, where positive values reflect increased risk and negative values reflect decreased risk, based on established medical and social determinants of health. The causal basis is that each factor either directly contributes to health complications, influences access to care, or impacts the severity and progression of existing conditions, thereby affecting the likelihood of hospitalization.

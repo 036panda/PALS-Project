@@ -1,0 +1,19 @@
+7
+
+*   Age (73): +2 (Increased age is a significant risk factor for hospitalization due to general health decline and increased susceptibility to various conditions.)
+*   BMI (22.5): 0 (Normal BMI, no direct contribution to increased or decreased risk.)
+*   Family_Health_History (Asthma): +1 (Family history of chronic respiratory conditions can indicate a genetic predisposition to health issues, potentially increasing hospitalization risk.)
+*   Current_Diagnosis (Anxiety): +1 (Mental health conditions like anxiety can indirectly increase hospitalization risk through stress-related physical symptoms, impact on self-care, or comorbidity with other conditions.)
+*   Race (Native American): +1 (Systemic health disparities and socioeconomic factors often lead to higher health risks and hospitalization rates in certain racial groups.)
+*   Gender (Non-binary): 0 (No direct causal link to hospitalization risk based on gender identity itself.)
+*   Sexual_Orientation (Heterosexual): 0 (No direct causal link to hospitalization risk based on sexual orientation itself.)
+*   Weekly_Alcohol_Intake (6): 0 (Moderate alcohol intake, not considered a significant risk factor for hospitalization at this level.)
+*   Smoking (No): -1 (Absence of smoking significantly reduces risk for numerous chronic diseases and associated hospitalizations.)
+*   HAM-D (0–6: Normal / No Depression): -1 (Absence of depression reduces mental health-related hospitalization risk and generally indicates better overall well-being.)
+*   Been_Sad_or_Fatigued (Yes): +1 (While not a diagnosis, persistent sadness or fatigue can be a symptom of underlying health issues or stress, potentially increasing risk.)
+*   Loss_of_Interest (No): 0 (Absence of anhedonia, which is a symptom of depression, thus not contributing to increased risk.)
+*   Hours_of_Sleep (9.7): 0 (Adequate sleep, not a risk factor.)
+*   Employment (Retired): 0 (Retirement itself is not a direct risk factor for hospitalization; its impact is often mediated by other factors like socioeconomic status or activity level.)
+*   Socioeconomic_Status (Low): +3 (Low socioeconomic status is a major determinant of health, often correlating with poorer access to healthcare, nutrition, and higher exposure to environmental risks, significantly increasing hospitalization risk.)
+
+The risk score is calculated by summing the positive and negative contributions of each factor, reflecting their established causal relationships with hospitalization risk. Factors like age, family history, certain diagnoses, and socioeconomic status are known to increase risk, while the absence of smoking and depression reduce it.

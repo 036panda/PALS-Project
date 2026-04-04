@@ -1,0 +1,20 @@
+7
+
+*   **Age (25):** +0.5 (Younger adults generally have lower hospitalization risk, but not zero.)
+*   **BMI (28.5):** +1.0 (Overweight, increasing risk for various health issues.)
+*   **Family_Health_History (Hypertension):** +1.5 (Genetic predisposition to a common chronic condition.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition with known hospitalization risks for mood episodes, medication management, and co-occurring conditions.)
+*   **Race (Native American):** +1.0 (Systemic health disparities and higher rates of certain chronic diseases in this population.)
+*   **Gender (Non-binary):** +0.5 (Potential for healthcare discrimination and stress, indirectly increasing risk.)
+*   **Weekly_Alcohol_Intake (7):** +0.5 (Moderate intake, but still a factor in overall health.)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor.)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of current depressive symptoms, which would otherwise increase risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common indicators of declining mental or physical health.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of a key symptom of depression.)
+*   **Hours_of_Sleep (7.8):** -0.5 (Adequate sleep, contributing to good health.)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources, generally protective.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Better access to healthcare and resources than lower SES.)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit.)
+*   **All other factors (Sexual_Orientation, Drinks_Coffee, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal):** +0.0 (No direct, established causal link to hospitalization risk in this model.)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, with positive values for risk-increasing factors and negative values for risk-decreasing factors, reflecting the individual's specific health and social determinants. The primary drivers of this score are the current bipolar diagnosis and family history of hypertension, alongside the protective effects of good sleep, employment, and absence of smoking/depression.

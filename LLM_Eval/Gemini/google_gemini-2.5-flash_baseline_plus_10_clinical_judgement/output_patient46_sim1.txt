@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 5.5
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (32):** +0.5 (Younger adults, while generally healthier, can experience acute mental health crises requiring hospitalization, especially with co-occurring factors.)
+*   **BMI (25.7):** +0.0 (Within healthy weight range, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Asthma):** +0.0 (While a chronic condition, family history of asthma in a 32-year-old without a current diagnosis doesn't directly increase immediate hospitalization risk.)
+*   **Current_Diagnosis (nan):** +0.0 (Absence of a current diagnosis doesn't inherently increase or decrease risk without further information.)
+*   **Race (White):** +0.0 (No direct impact on hospitalization risk based on race alone.)
+*   **Gender (Non-binary):** +0.5 (Non-binary individuals may face unique stressors and discrimination, potentially impacting mental health and increasing risk of crisis requiring hospitalization.)
+*   **Sexual_Orientation (Other):** +0.5 (Similar to gender, individuals with non-normative sexual orientations can experience increased stress and discrimination, contributing to mental health challenges.)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Moderate intake, not a significant risk factor for hospitalization.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health factor, slightly reducing overall risk.)
+*   **HAM-D (18–24: Moderate Depression):** +3.0 (Moderate depression is a significant risk factor for mental health crisis and potential hospitalization, especially if not adequately managed.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms, despite depression, suggests some resilience or less severe presentation of certain depressive features.)
+*   **Loss_of_Interest (Yes):** +1.0 (Anhedonia is a core symptom of depression and indicates a more pervasive impact on well-being, increasing risk.)
+*   **Hours_of_Sleep (4.8):** +1.0 (Chronic severe sleep deprivation is a significant stressor and can exacerbate mental health conditions, increasing the likelihood of crisis.)
+*   **Employment (Employed):** -0.5 (Employment can provide structure, social connection, and financial stability, which are protective factors against hospitalization.)
+*   **Socioeconomic_Status (Middle):** +0.0 (Middle socioeconomic status is generally neutral in terms of direct hospitalization risk.)
+*   **Drinks_Coffee (No):** +0.0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.0 (While a healthy diet is beneficial, this single factor doesn't directly impact immediate hospitalization risk.)
+*   **Favourite_Sport (nan):** +0.0 (No direct impact on hospitalization risk.)
+*   **Votes (Sometimes):** +0.0 (No direct impact on hospitalization risk.)
+*   **Height_in_Inches (63):** +0.0 (No direct impact on hospitalization risk.)
+*   **Has_Drivers_License (No):** +0.0 (No direct impact on hospitalization risk.)
+*   **Picks_Up_Litter (Sometimes):** +0.0 (No direct impact on hospitalization risk.)
+*   **Uses_Public_Transportation (Never):** +0.0 (No direct impact on hospitalization risk.)
+*   **Donated_Blood (No):** +0.0 (No direct impact on hospitalization risk.)
+*   **Birthday_Month (July):** +0.0 (No direct impact on hospitalization risk.)
+
+3. This individual presents with moderate depression, significant sleep deprivation, and anhedonia, which are substantial risk factors for mental health deterioration requiring acute intervention. While some protective factors exist, the severity of depressive symptoms and sleep disturbance elevate the overall likelihood of hospitalization.

@@ -1,0 +1,19 @@
+7
+
+*   **Age (52):** +0.5 (Increased risk with age, but not elderly)
+*   **BMI (16.4):** +1.5 (Underweight, associated with various health complications)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to a serious illness)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization)
+*   **Race (Asian):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Gender (Male):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Sexual_Orientation (Other):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Weekly_Alcohol_Intake (7 units):** +0.5 (Moderate intake, but still a contributing factor to overall health)
+*   **Smoking (Yes):** +1.5 (Major risk factor for numerous severe health conditions)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Indicates mental health distress, though not severe)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common symptom of worsening mental health)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating mental health impact)
+*   **Hours_of_Sleep (4.8):** +1.0 (Chronic sleep deprivation, detrimental to physical and mental health)
+*   **Employment (Employed):** -0.5 (Indicates a degree of stability and social function)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources)
+
+The risk score is derived from the cumulative impact of multiple health risk factors (e.g., smoking, bipolar disorder, underweight, sleep deprivation) and protective factors (e.g., employment, absence of fatigue), where each factor's contribution is weighted based on its established causal link to increased or decreased hospitalization likelihood.

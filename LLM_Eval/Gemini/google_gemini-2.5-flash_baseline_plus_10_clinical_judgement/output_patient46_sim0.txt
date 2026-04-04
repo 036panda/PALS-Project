@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (32):** -1 (Younger age generally reduces risk of hospitalization for many conditions.)
+*   **BMI (25.7):** 0 (Within healthy weight range, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Asthma):** +0.5 (Slightly increases risk for respiratory issues, but not a direct hospitalization driver for this individual without current symptoms.)
+*   **Current_Diagnosis (nan):** -1 (Absence of an acute or chronic medical diagnosis significantly reduces immediate hospitalization risk.)
+*   **Race (White):** 0 (No direct impact on hospitalization risk in this context.)
+*   **Gender (Non-binary):** 0 (No direct impact on hospitalization risk.)
+*   **Sexual_Orientation (Other):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Low alcohol intake, generally protective.)
+*   **Smoking (No):** -1 (Absence of smoking is a significant protective factor.)
+*   **HAM-D (18–24: Moderate Depression):** +4 (Moderate depression is a significant risk factor for mental health-related hospitalization, especially when combined with other factors.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these specific symptoms, despite depression, slightly mitigates immediate crisis.)
+*   **Loss_of_Interest (Yes):** +1 (Anhedonia is a core symptom of depression and indicates a more severe presentation.)
+*   **Hours_of_Sleep (4.8):** +1.5 (Significantly low sleep, exacerbates mental health issues and can contribute to physical health decline.)
+*   **Employment (Employed):** -0.5 (Employment often indicates a degree of functional capacity and social integration, which can be protective.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to care and resources, reducing hospitalization risk.)
+*   **Drinks_Coffee (No):** 0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits can contribute to overall health decline, though not an immediate hospitalization driver.)
+*   **Favourite_Sport (nan):** 0 (No direct impact on hospitalization risk.)
+*   **Votes (Sometimes):** 0 (No direct impact on hospitalization risk.)
+*   **Height_in_Inches (63):** 0 (No direct impact on hospitalization risk.)
+*   **Has_Drivers_License (No):** 0 (No direct impact on hospitalization risk.)
+*   **Picks_Up_Litter (Sometimes):** 0 (No direct impact on hospitalization risk.)
+*   **Uses_Public_Transportation (Never):** 0 (No direct impact on hospitalization risk.)
+*   **Donated_Blood (No):** 0 (No direct impact on hospitalization risk.)
+*   **Birthday_Month (July):** 0 (No direct impact on hospitalization risk.)
+
+3. Clinical-style rationale: This non-binary individual presents with moderate depression and significant anhedonia, compounded by severely restricted sleep, which collectively elevate the risk for mental health-related hospitalization despite the absence of acute physical diagnoses and several protective lifestyle factors.

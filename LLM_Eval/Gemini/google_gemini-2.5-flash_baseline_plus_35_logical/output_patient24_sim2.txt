@@ -1,0 +1,17 @@
+1. 6.5
+
+2. *   **Age (52):** +0.5 (Increased risk with age, though not elderly)
+*   **BMI (16.4):** +1.5 (Underweight, indicating potential nutritional deficiencies or underlying health issues)
+*   **Family_Health_History (Cancer):** +0.5 (Genetic predisposition to serious illness)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition requiring ongoing management, increasing hospitalization risk)
+*   **Weekly_Alcohol_Intake (7):** +0.5 (Moderate alcohol intake, can exacerbate mental health conditions or lead to other issues)
+*   **Smoking (Yes):** +1.0 (Major risk factor for numerous health problems)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Co-occurring mental health symptom, can worsen bipolar or indicate inadequate treatment)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential for worsening mental health)
+*   **Hours_of_Sleep (4.8):** +1.0 (Chronic sleep deprivation, detrimental to physical and mental health)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources)
+*   **Allergy (Dust):** +0.5 (Chronic condition that can lead to respiratory issues, potentially requiring hospitalization)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor nutritional habit, can impact overall health and energy levels)
+
+3. The risk score is calculated by summing the contributions of factors known to either increase or decrease hospitalization risk, based on established medical and public health knowledge. Positive contributions are assigned to risk factors like chronic conditions, unhealthy habits, and poor mental health indicators, while negative contributions are assigned to protective factors like stable employment and socioeconomic status.

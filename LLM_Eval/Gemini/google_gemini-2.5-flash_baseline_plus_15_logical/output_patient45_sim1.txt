@@ -1,0 +1,12 @@
+1. 3.5
+
+2. *   **Age (41):** +0.5 (Slightly increased risk with age, but not yet a major factor at 41)
+*   **BMI (26.5):** +0.5 (Overweight, contributing to slightly elevated risk)
+*   **Family_Health_History (Diabetes):** +1.0 (Significant genetic predisposition to a chronic condition)
+*   **Current_Diagnosis (Depression):** +1.0 (Mental health condition directly impacts overall health and hospitalization risk)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Contradicts Current_Diagnosis, indicating a potential misdiagnosis or remission, thus reducing risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom often associated with mental health issues, increasing risk)
+*   **Hours_of_Sleep (4.7):** +1.0 (Significantly low sleep, a major contributor to poor health and increased risk)
+*   **Likes_Vegetables (No):** +1.0 (Poor dietary habit, increasing risk of various health issues)
+
+3. The risk score is calculated by summing the contributions of factors directly linked to health outcomes and hospitalization likelihood. Positive contributions are assigned to risk factors like poor sleep, unhealthy diet, family history of disease, and current diagnoses, while negative contributions are assigned to factors that mitigate risk, such as a normal HAM-D score despite a depression diagnosis, indicating potential remission or misdiagnosis.

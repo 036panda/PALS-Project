@@ -1,0 +1,28 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (46):** +0.5 (Moderate increase in risk with age, though not elderly)
+*   **BMI (28.3):** +0.5 (Overweight, contributing to some health risks)
+*   **Family_Health_History (Heart Disease):** +1.0 (Significant genetic predisposition to a major chronic illness)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Primary driver of hospitalization risk, given the nature of the condition)
+*   **Race (Native American):** +0.5 (Acknowledged health disparities and potential access issues)
+*   **Gender (Non-binary):** +0.5 (Potential for increased stress and healthcare access challenges due to minority status)
+*   **Weekly_Alcohol_Intake (2):** -0.2 (Low intake, generally not a risk factor)
+*   **Smoking (No):** -0.5 (Positive health behavior)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depressive symptoms is a protective factor, especially with bipolar diagnosis)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms is positive)
+*   **Loss_of_Interest (Yes):** +0.5 (Despite normal HAM-D, this symptom can indicate underlying mood instability or subthreshold symptoms)
+*   **Hours_of_Sleep (7.0):** -0.2 (Adequate sleep, a protective factor)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes and access to care)
+*   **Drinks_Coffee (Yes):** +0.1 (Minor, potential for sleep disruption or anxiety in some individuals with bipolar disorder)
+*   **Likes_Vegetables (Yes):** -0.2 (Positive health behavior)
+*   **Uses_Public_Transportation (Always):** +0.2 (May indicate lack of personal transportation, potentially impacting access to urgent care)
+*   **Allergy (Pollen):** +0.1 (Minor, but can exacerbate other health issues or require medical attention)
+*   **Relationship_Status (Single):** +0.2 (May indicate less social support, which can be a risk factor for mental health crises)
+*   **Religious (Yes):** -0.2 (Can be a source of social support and coping mechanisms)
+*   **Travels (Yes):** -0.1 (Indicates some level of functional capacity and engagement)
+*   **Bilingual (Yes):** -0.1 (Potential for better communication in healthcare settings)
+
+3. Clinical Rationale: The primary driver of hospitalization risk for this individual is their Bipolar diagnosis, despite current euthymia as indicated by the HAM-D score. While several protective factors exist (e.g., employment, good sleep, no smoking), the presence of a family history of heart disease, overweight BMI, and reported loss of interest, coupled with potential systemic disadvantages related to race and gender identity, elevate the overall risk for a future acute episode requiring hospitalization.

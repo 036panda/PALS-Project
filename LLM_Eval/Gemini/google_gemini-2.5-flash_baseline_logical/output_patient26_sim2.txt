@@ -1,0 +1,19 @@
+1. 2.0
+
+2. *   Age (52): +0.5 (Increased risk with age, but moderate for this range)
+*   BMI (23.2): +0.0 (Normal range, no direct contribution)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues, a common comorbidity or complication in hospitalization)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical symptoms, lead to poorer health-seeking behaviors, or be a direct cause for hospitalization in severe cases)
+*   Race (Other): +0.0 (No inherent risk assigned based on race alone without further context)
+*   Gender (Non-binary): +0.0 (No inherent risk assigned based on gender identity alone)
+*   Sexual_Orientation (Heterosexual): +0.0 (No inherent risk assigned based on sexual orientation alone)
+*   Weekly_Alcohol_Intake (5 units): +0.0 (Moderate intake, not considered a significant risk factor for hospitalization)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Absence of a significant mental health risk factor)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of a symptom often preceding or indicating health issues)
+*   Loss_of_Interest (No): -0.5 (Absence of a symptom often preceding or indicating health issues)
+*   Hours_of_Sleep (7.4): +0.0 (Within healthy range, no direct contribution)
+*   Employment (Employed): -0.5 (Indicates better access to healthcare, financial stability, and potentially better overall health)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral, not a high-risk or low-risk category for hospitalization)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values reflect increased risk and negative values reflect decreased risk. Causal relationships are inferred based on established medical and social determinants of health, such as age and family history contributing to physiological vulnerability, anxiety impacting overall health, and the absence of smoking or depression reducing risk.

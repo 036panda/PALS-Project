@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (25):** -1 (Younger age generally associated with lower risk of hospitalization for many conditions, though mental health crises can occur at any age. In this context, it's a protective factor against age-related physical health hospitalizations.)
+*   **BMI (28.5):** +0.5 (Overweight, but not obese. This carries a slightly elevated risk for some health issues over time, but not an immediate high risk for hospitalization.)
+*   **Family_Health_History (Hypertension):** +0.5 (Indicates a genetic predisposition to a chronic condition, which could increase future health risks, but not an immediate hospitalization risk for this individual.)
+*   **Current_Diagnosis (Bipolar):** +3 (This is a significant risk factor for hospitalization, particularly if not well-managed or if experiencing an acute episode. Even with current stability, the diagnosis itself carries an inherent risk of future episodes requiring hospitalization.)
+*   **Race (Native American):** +0.5 (Systemic health disparities and historical trauma can contribute to poorer health outcomes and access to care, subtly increasing risk, though not a direct clinical risk factor for hospitalization in itself.)
+*   **Gender (Non-binary):** +0.5 (Experiences of discrimination and minority stress can negatively impact mental and physical health, potentially increasing healthcare needs, though not a direct clinical risk factor for hospitalization in itself.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk in this context.)
+*   **Weekly_Alcohol_Intake (7):** 0 (Within recommended low-risk guidelines, no impact on hospitalization risk.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a protective factor against numerous health conditions that could lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Indicates current mental health stability, significantly reducing immediate hospitalization risk related to depressive episodes.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Further reinforces current mental health stability.)
+*   **Loss_of_Interest (No):** -0.5 (Further reinforces current mental health stability.)
+*   **Hours_of_Sleep (7.8):** -0.5 (Adequate sleep is a protective factor for overall health, including mental health.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better socioeconomic stability and access to resources, which can be protective against hospitalization.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally indicates better access to healthcare and resources, reducing hospitalization risk.)
+
+3. Clinical Rationale: While the patient has a significant diagnosis of Bipolar Disorder, current indicators of mental health stability (normal HAM-D, no sadness/fatigue, no loss of interest, adequate sleep) and positive lifestyle factors (non-smoker, moderate alcohol intake, employed) mitigate immediate hospitalization risk. However, the inherent nature of Bipolar Disorder and certain demographic factors warrant continued monitoring.

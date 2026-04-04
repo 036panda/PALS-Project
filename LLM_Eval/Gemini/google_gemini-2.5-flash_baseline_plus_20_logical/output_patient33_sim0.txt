@@ -1,0 +1,11 @@
+1. 6.5
+
+2. *   BMI (13.4, underweight): +2.0
+*   Family_Health_History (Diabetes): +1.0
+*   Loss_of_Interest (Yes): +1.0
+*   Hours_of_Sleep (5.0, insufficient): +1.0
+*   Has_Drivers_License (No, potential mobility/access issue): +0.5
+*   Weekly_Alcohol_Intake (4, moderate): +0.5
+*   HAM-D (7-17: Mild Depression): +0.5
+
+3. The risk score is calculated by summing the positive contributions from factors directly associated with increased health risks (e.g., underweight BMI, family history of diabetes, insufficient sleep, depression, loss of interest) and potential barriers to care (lack of driver's license), while other factors are considered neutral or not directly causal to hospitalization risk in this context.

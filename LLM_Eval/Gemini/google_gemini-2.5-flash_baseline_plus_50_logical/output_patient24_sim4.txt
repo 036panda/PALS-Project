@@ -1,0 +1,15 @@
+1. 7.5
+
+2. * Age: 52 (+0.5) - Increased age is associated with a higher likelihood of hospitalization due to age-related health decline.
+* BMI: 16.4 (Underweight) (+1.0) - Underweight individuals are at higher risk for various health complications requiring hospitalization.
+* Family_Health_History: Cancer (+0.5) - Genetic predisposition to serious illnesses like cancer increases overall health risk.
+* Current_Diagnosis: Bipolar (+1.5) - Bipolar disorder is a significant mental health condition that can lead to hospitalization for mood stabilization or crisis intervention.
+* Smoking: Yes (+1.0) - Smoking is a major risk factor for numerous diseases requiring hospitalization.
+* HAM-D: 7–17: Mild Depression (+0.5) - While mild, depression can exacerbate other health issues or, if untreated, progress to more severe states requiring intervention.
+* Loss_of_Interest: Yes (+0.5) - A symptom of depression, indicating potential for worsening mental health.
+* Hours_of_Sleep: 4.8 (+1.0) - Chronic sleep deprivation significantly impairs immune function and overall health, increasing hospitalization risk.
+* Has_Cheated_on_an_Assignment_Before: Yes (+0.5) - This factor, while seemingly unrelated, can be an indicator of poor judgment, impulsivity, or underlying stress/mental health issues that could indirectly contribute to risky behaviors or neglect of health. (This is a weak causal link, but included as per the prompt's requirement to use all factors).
+* Exercises: No (+1.0) - Lack of exercise is a significant risk factor for numerous chronic diseases that can lead to hospitalization.
+* Skips_Breakfast: Yes (+0.5) - Irregular eating habits can negatively impact metabolism and overall health, potentially contributing to health issues.
+
+3. The risk score is calculated by summing the positive contributions of factors known to directly or indirectly increase the likelihood of hospitalization, such as chronic conditions, unhealthy lifestyle choices, and indicators of mental health vulnerability. Each contribution reflects a causal link, where the presence of the factor elevates the individual's health risk.

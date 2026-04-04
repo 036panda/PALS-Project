@@ -1,0 +1,20 @@
+1. 4.5
+
+2. *   **Age (36):** +0.5 (Slightly elevated risk for this age group, as risk generally increases with age, but not yet in a high-risk bracket.)
+*   **BMI (31.3):** +1.5 (Obesity, BMI > 30, is a known risk factor for various health complications leading to hospitalization.)
+*   **Family_Health_History (Asthma):** +0.5 (Family history of respiratory conditions can indicate a genetic predisposition to health issues, increasing risk.)
+*   **Socioeconomic_Status (Low):** +1.0 (Lower socioeconomic status is often correlated with reduced access to healthcare, poorer nutrition, and higher stress levels, all contributing to increased hospitalization risk.)
+*   **Weekly_Alcohol_Intake (5):** +0.0 (Moderate alcohol intake, within recommended limits, does not significantly increase hospitalization risk.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk for respiratory and cardiovascular diseases.)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of depression reduces mental health-related hospitalization risk and often correlates with better overall health management.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of persistent sadness or fatigue indicates better mental and physical well-being.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of anhedonia suggests good mental health.)
+*   **Hours_of_Sleep (6.0):** +0.5 (Less than 7-9 hours of sleep per night is associated with increased health risks.)
+*   **Allergy (Pollen):** +0.5 (Allergies, especially respiratory ones, can exacerbate other conditions or lead to complications requiring medical attention.)
+*   **Skips_Breakfast (Yes):** +0.5 (Skipping meals, particularly breakfast, can lead to poor dietary habits and metabolic issues over time.)
+*   **Exercises (Yes):** -1.0 (Regular exercise is a significant protective factor against numerous chronic diseases.)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable consumption indicates a potentially less healthy diet, increasing risk.)
+*   **Water_Intake_oz (42.8):** +0.0 (Adequate but not exceptional water intake, no significant positive or negative contribution.)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Anxiety, while not directly a physical ailment, can manifest physically, impact health-seeking behaviors, and increase stress, contributing to hospitalization risk.)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these factors and general health outcomes that may necessitate hospitalization.

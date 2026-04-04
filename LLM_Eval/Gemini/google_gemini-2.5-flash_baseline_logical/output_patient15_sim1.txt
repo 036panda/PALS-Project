@@ -1,0 +1,19 @@
+7
+
+*   Age (64): +1.5 (Increased risk with advancing age, particularly over 60)
+*   BMI (21.6): +0.0 (Normal BMI, no direct contribution to increased risk)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to a common chronic condition)
+*   Current_Diagnosis (nan): +0.0 (No current diagnosis, no direct contribution)
+*   Race (Native American): +1.0 (Known health disparities and higher prevalence of certain chronic conditions)
+*   Gender (Other): +0.0 (No established direct causal link to hospitalization risk)
+*   Sexual_Orientation (Heterosexual): +0.0 (No established direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (2): +0.0 (Moderate intake, not a significant risk factor)
+*   Smoking (Yes): +2.0 (Significant risk factor for numerous chronic diseases and acute events)
+*   HAM-D (0–6: Normal / No Depression): +0.0 (No depression indicated, no direct contribution)
+*   Been_Sad_or_Fatigued (No): +0.0 (Absence of this symptom, no direct contribution)
+*   Loss_of_Interest (Yes): +0.5 (Potential indicator of underlying mental or physical health issues, even without full depression)
+*   Hours_of_Sleep (3.4): +1.0 (Severely inadequate sleep, significantly impacts immune function and overall health)
+*   Employment (Retired): +0.0 (No direct causal link to hospitalization risk)
+*   Socioeconomic_Status (Low): +0.5 (Associated with poorer access to healthcare, nutrition, and higher stress levels)
+
+The risk score is derived from the cumulative impact of several modifiable and non-modifiable factors, with significant contributions from smoking, inadequate sleep, and age, alongside considerations for race and socioeconomic status which are known determinants of health outcomes. The presence of "Loss of Interest" also suggests a potential underlying health concern, even in the absence of a full depression diagnosis.

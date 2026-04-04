@@ -1,0 +1,20 @@
+4.5
+
+*   Age (22): -0.5 (Younger age generally correlates with lower hospitalization risk, assuming no other significant health issues.)
+*   BMI (35.9): +1.5 (BMI > 30 indicates obesity, a significant risk factor for various health complications requiring hospitalization.)
+*   Family_Health_History (Cancer): +0.5 (Family history of cancer suggests a genetic predisposition to certain health issues, increasing overall risk.)
+*   Current_Diagnosis (Anxiety): +0.5 (Anxiety, while not directly a physical ailment, can exacerbate existing conditions or lead to stress-related physical symptoms requiring medical attention.)
+*   Weekly_Alcohol_Intake (4): +0.2 (Moderate alcohol intake, while not high, contributes to overall health burden and can slightly increase risk over time.)
+*   Smoking (No): -0.5 (Absence of smoking significantly reduces risk for numerous respiratory and cardiovascular conditions.)
+*   HAM-D (7–17: Mild Depression): +0.5 (Mild depression can impact overall well-being, adherence to health regimens, and potentially lead to physical symptoms.)
+*   Hours_of_Sleep (5.7): +0.8 (Insufficient sleep (less than 7 hours) is linked to weakened immune function, increased inflammation, and higher risk of chronic diseases.)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral impact; neither significantly protective nor detrimental compared to extremes.)
+*   Allergy (Gluten): +0.5 (Gluten allergy, if not managed properly, can lead to gastrointestinal issues and nutritional deficiencies requiring medical intervention.)
+*   Skips_Breakfast (Yes): +0.5 (Skipping breakfast is associated with poorer dietary habits and increased risk of metabolic issues.)
+*   Exercises (Yes): -1.0 (Regular exercise is a strong protective factor against numerous chronic diseases and improves overall health.)
+*   Height_in_Inches (61): +0.0 (Neutral impact; height itself is not a direct risk factor for hospitalization.)
+*   Water_Intake_oz (46.6): +0.0 (Neutral impact; this intake is within a reasonable range and not a significant risk factor.)
+*   Relationship_Status (Single): +0.0 (Neutral impact; while social support can be beneficial, being single is not a direct hospitalization risk factor.)
+*   Academic_Preference (Humanities): +0.0 (Neutral impact; academic preference has no direct causal link to hospitalization risk.)
+
+The risk score is calculated by summing the contributions of identified health-related factors, where positive values indicate increased risk and negative values indicate decreased risk, reflecting their established causal links to hospitalization likelihood.

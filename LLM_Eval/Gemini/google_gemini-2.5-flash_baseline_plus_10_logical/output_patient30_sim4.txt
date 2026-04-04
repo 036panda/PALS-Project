@@ -1,0 +1,27 @@
+7
+
+*   Age (49): +0.5 (Increased age generally correlates with higher hospitalization risk due to cumulative health issues.)
+*   BMI (29.7): +1.0 (BMI in the overweight/obese range is a known risk factor for various health complications requiring hospitalization.)
+*   Current_Diagnosis (Bipolar): +2.0 (Bipolar disorder is a significant mental health condition that can lead to hospitalization for mood episodes, medication management, or co-occurring physical health issues.)
+*   Race (Native American): +1.0 (Systemic health disparities and limited access to care often lead to higher hospitalization rates for Native American individuals.)
+*   Gender (Female): +0.5 (Some health conditions requiring hospitalization are more prevalent in females.)
+*   Weekly_Alcohol_Intake (2): +0.0 (Moderate alcohol intake is not a significant direct hospitalization risk factor.)
+*   Smoking (No): -0.5 (Absence of smoking reduces risk.)
+*   HAM-D (7–17: Mild Depression): +1.0 (Even mild depression can exacerbate existing conditions or lead to mental health crises requiring intervention.)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of these symptoms reduces immediate mental health crisis risk.)
+*   Loss_of_Interest (Yes): +0.5 (A symptom of depression, indicating potential for worsening mental health.)
+*   Hours_of_Sleep (5.8): +1.0 (Chronic sleep deprivation is linked to various physical and mental health problems that can necessitate hospitalization.)
+*   Employment (Employed): -0.5 (Employment often correlates with better access to healthcare and financial stability, reducing hospitalization risk.)
+*   Socioeconomic_Status (Middle): +0.0 (Middle socioeconomic status is generally neutral in terms of direct hospitalization risk compared to lower or higher extremes.)
+*   Drinks_Coffee (No): +0.0 (No direct causal link to hospitalization risk.)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits can contribute to various health issues over time, increasing hospitalization risk.)
+*   Favourite_Sport (Basketball): +0.0 (No direct causal link to hospitalization risk.)
+*   Votes (Never): +0.0 (No direct causal link to hospitalization risk.)
+*   Height_in_Inches (60): +0.0 (No direct causal link to hospitalization risk.)
+*   Has_Drivers_License (No): +0.0 (No direct causal link to hospitalization risk.)
+*   Picks_Up_Litter (Never): +0.0 (No direct causal link to hospitalization risk.)
+*   Uses_Public_Transportation (Always): +0.0 (No direct causal link to hospitalization risk.)
+*   Donated_Blood (Yes): -0.5 (Indicates a level of general health and engagement with healthcare, potentially reducing risk.)
+*   Birthday_Month (August): +0.0 (No direct causal link to hospitalization risk.)
+
+The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as existing medical conditions (Bipolar, mild depression), lifestyle choices (BMI, sleep, diet), and demographic factors associated with health disparities (Race, Gender). Positive contributions are assigned to factors increasing risk, and negative contributions to factors decreasing risk, reflecting their direct impact on the likelihood of requiring hospitalization.

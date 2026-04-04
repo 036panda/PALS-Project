@@ -1,0 +1,19 @@
+4
+
+*   **Age (34):** +0 (No significant direct contribution to hospitalization risk at this age, assuming general health)
+*   **BMI (24.2):** +0 (Healthy weight, no direct contribution to increased risk)
+*   **Family_Health_History (nan):** +0 (Unknown, no contribution)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder is a significant mental health condition that can lead to hospitalization for mood episodes, medication management, or safety concerns.)
+*   **Race (Hispanic):** +0 (No direct causal link to increased hospitalization risk based on race alone in this model.)
+*   **Gender (Female):** +0 (No direct causal link to increased hospitalization risk based on gender alone in this model.)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct causal link to increased hospitalization risk based on sexual orientation alone in this model.)
+*   **Weekly_Alcohol_Intake (1):** +0 (Low intake, not a significant risk factor)
+*   **Smoking (No):** -1 (Absence of smoking reduces overall health risks, including those that might lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Normal HAM-D score indicates no current depressive symptoms, reducing mental health-related hospitalization risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +1 (While HAM-D is normal, experiencing sadness or fatigue, even without full depression, can indicate underlying stress or early signs of mood instability, especially with a bipolar diagnosis, potentially increasing risk.)
+*   **Loss_of_Interest (No):** +0 (Absence of this symptom is positive, but not a strong negative contributor given other factors.)
+*   **Hours_of_Sleep (8.3):** -1 (Adequate sleep is a protective factor for mental and physical health, reducing hospitalization risk.)
+*   **Employment (Employed):** -1 (Employment often correlates with better access to care, social support, and financial stability, which can reduce hospitalization risk.)
+*   **Socioeconomic_Status (Low):** +4 (Low socioeconomic status is a significant independent risk factor for hospitalization due to limited access to healthcare, poorer living conditions, and increased stress.)
+
+The risk score is calculated by summing the contributions of factors directly impacting health and access to care. The primary drivers are the existing bipolar diagnosis and low socioeconomic status, which are partially mitigated by positive lifestyle factors and the absence of current depressive symptoms.

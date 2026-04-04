@@ -1,0 +1,14 @@
+1. 5.0
+
+2. *   Age (61): +2.0 (Increased risk with age, particularly over 60)
+*   BMI (25.8): +0.5 (Slightly elevated BMI, approaching overweight)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues)
+*   Weekly_Alcohol_Intake (1): -0.2 (Moderate, low intake, potentially protective)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mental health can impact physical health and recovery)
+*   Hours_of_Sleep (5.4): +1.0 (Insufficient sleep is a risk factor for various health issues)
+*   Allergy (Dust): +0.5 (Can exacerbate respiratory conditions, especially with family history of asthma)
+*   Wears_Glasses (Yes): +0.5 (Indicates a pre-existing health condition requiring correction)
+*   Gender (Female): +0.2 (Some conditions have higher prevalence or severity in females)
+
+3. The risk score is calculated by summing the individual contributions of identified risk and protective factors. Each factor's contribution is determined by its known or plausible causal relationship with hospitalization risk, with positive values indicating increased risk and negative values indicating decreased risk.

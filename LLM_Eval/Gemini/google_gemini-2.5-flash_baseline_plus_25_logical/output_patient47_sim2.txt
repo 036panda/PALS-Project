@@ -1,0 +1,23 @@
+1. 6.5
+
+2. *   **Age (22):** +0.5 (Younger age generally associated with lower hospitalization risk, but not zero, as other factors can contribute)
+*   **BMI (27.1):** +0.8 (Overweight, increasing risk for various health complications)
+*   **Family_Health_History (Heart Disease):** +1.0 (Genetic predisposition to a major chronic illness)
+*   **Current_Diagnosis (Schizophrenia):** +2.5 (Significant mental health condition with high comorbidity and increased risk of hospitalization)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mental health condition, even if mild, can exacerbate other issues or lead to hospitalization)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of potential underlying health issues or worsening mental health)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of potential underlying health issues or worsening mental health)
+*   **Weekly_Alcohol_Intake (2):** -0.2 (Low, generally considered within healthy limits, slightly reducing risk compared to higher intake)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor for numerous diseases)
+*   **Hours_of_Sleep (8.9):** -0.5 (Adequate sleep, contributing to overall health and resilience)
+*   **Employment (Student):** +0.2 (Potential for stress, but also access to university health services; a minor positive contribution due to potential stress)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources, reducing risk)
+*   **Race (Hispanic):** +0.5 (Acknowledging systemic health disparities and potential barriers to care, leading to slightly elevated risk)
+*   **Gender (Non-binary):** +0.5 (Acknowledging potential for discrimination and barriers to healthcare access, contributing to slightly elevated risk)
+*   **Sexual_Orientation (Bisexual):** +0.5 (Acknowledging potential for discrimination and barriers to healthcare access, contributing to slightly elevated risk)
+*   **Drinks_Coffee (Yes):** -0.1 (Minor positive health effects for some, or neutral)
+*   **Likes_Vegetables (No):** +0.3 (Indicates a potentially less healthy diet, increasing risk)
+*   **Water_Intake_oz (43.4):** -0.1 (Adequate hydration, minor positive contribution)
+*   **Can_Ride_Bicycle (No):** +0.1 (Minor indicator of potentially lower physical activity, slightly increasing risk)
+
+3. The risk score is calculated by summing the individual contributions of factors directly and causally linked to health outcomes and healthcare access. Factors like current diagnosis, family history, and mental health symptoms significantly increase risk, while healthy behaviors and adequate sleep reduce it, with social determinants of health also playing a role.

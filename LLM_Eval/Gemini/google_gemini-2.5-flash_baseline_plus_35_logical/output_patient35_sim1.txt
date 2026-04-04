@@ -1,0 +1,13 @@
+1. 3.5
+
+2. *   Age (18): +0.5 (Young adult, generally lower risk, but still susceptible to certain conditions)
+*   BMI (25.6): +0.5 (Slightly overweight, minor increased risk)
+*   Family_Health_History (Hypertension): +1.0 (Genetic predisposition to a common chronic condition)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant mental health condition often requiring hospitalization for management or crises)
+*   Weekly_Alcohol_Intake (5): +0.5 (Moderate alcohol intake, potential for minor health impacts over time)
+*   Hours_of_Sleep (5.7): +1.0 (Insufficient sleep, negatively impacts overall health and mental well-being)
+*   Socioeconomic_Status (High): -1.0 (Access to better healthcare, nutrition, and living conditions)
+*   Allergy (Shellfish): +0.0 (Specific allergy, but not inherently increasing general hospitalization risk unless severe and unmanaged, which is not indicated)
+*   Donated_Blood (Yes): -1.0 (Indicates a generally healthy individual, able to donate blood)
+
+3. The risk score is calculated by summing the contributions of factors known to directly influence hospitalization risk, such as chronic conditions, lifestyle choices, and access to resources. Positive contributions reflect increased risk (e.g., bipolar diagnosis, insufficient sleep), while negative contributions reflect protective factors (e.g., high socioeconomic status, good general health indicated by blood donation).

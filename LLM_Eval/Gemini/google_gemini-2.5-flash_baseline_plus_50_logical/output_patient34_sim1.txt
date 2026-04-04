@@ -1,0 +1,11 @@
+1. 6.5
+
+2. *   BMI (46.7): +3.0 (Obesity Class III, significantly increases risk)
+*   Current_Diagnosis (Anxiety): +1.0 (Can exacerbate physical health issues and lead to hospitalization)
+*   Smoking (Yes): +1.5 (Major risk factor for numerous health problems)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Indicates potential underlying health issues or mental health strain)
+*   Loss_of_Interest (Yes): +0.5 (Indicates potential underlying health issues or mental health strain)
+*   Orders_Takeout (Daily): +0.5 (Suggests a diet potentially high in unhealthy fats/sodium, contributing to health issues)
+*   Age (19): -0.5 (Younger age generally correlates with lower hospitalization risk, assuming no severe pre-existing conditions)
+
+3. The hospitalization risk score is calculated by summing the positive contributions from significant health risk factors like severe obesity, smoking, and mental health indicators, and subtracting a minor contribution for younger age, reflecting their direct causal link to increased or decreased hospitalization likelihood.

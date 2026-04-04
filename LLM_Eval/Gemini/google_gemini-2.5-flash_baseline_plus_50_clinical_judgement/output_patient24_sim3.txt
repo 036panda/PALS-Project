@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed Breakdown:
+
+*   **Age (52):** +0.5 (Increased age generally correlates with higher risk for various health issues, though 52 is not elderly, it's past young adulthood.)
+*   **BMI (16.4 - Underweight):** +2.0 (Significantly underweight, indicating potential malnutrition, underlying health issues, or an eating disorder, all of which increase hospitalization risk.)
+*   **Family_Health_History (Cancer):** +0.2 (While not directly impacting immediate hospitalization for current diagnosis, a family history of serious illness can indicate a predisposition to health issues, albeit a minor factor here.)
+*   **Current_Diagnosis (Bipolar):** +2.5 (Bipolar disorder carries a significant risk of hospitalization, especially during manic or depressive episodes, or for medication management.)
+*   **Weekly_Alcohol_Intake (7 units):** +0.0 (Moderate intake, not a significant risk factor on its own.)
+*   **Smoking (Yes):** +1.0 (Smoking is a major risk factor for numerous health conditions, increasing the likelihood of hospitalization for respiratory, cardiovascular, and other issues.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (While mild, depression in the context of bipolar disorder can escalate and contribute to functional impairment or need for intervention.)
+*   **Loss_of_Interest (Yes):** +0.3 (Anhedonia is a symptom of depression and can indicate worsening mental health, potentially leading to a need for more intensive care.)
+*   **Hours_of_Sleep (4.8):** +1.0 (Chronic severe sleep deprivation is detrimental to both physical and mental health, exacerbating bipolar symptoms and increasing overall health risks.)
+*   **Employment (Employed):** -0.5 (Employment suggests a degree of functional stability and social engagement, which can be protective.)
+*   **Socioeconomic_Status (Middle):** -0.2 (Generally associated with better access to healthcare and resources compared to lower SES.)
+*   **Exercises (No):** +0.5 (Lack of exercise is a risk factor for various physical and mental health conditions, including cardiovascular disease and poorer mood regulation.)
+*   **Relationship_Status (Single):** +0.2 (Lack of a primary support system can sometimes increase vulnerability during health crises.)
+*   **Has_Drivers_License (No) & Uses_Public_Transportation (Always):** +0.1 (While not a direct health risk, reliance on public transport can sometimes be a barrier to timely medical access, especially in emergencies, or indicate limited personal resources.)
+
+3. Clinical Rationale: This patient presents with several significant risk factors for hospitalization, primarily driven by their current diagnosis of bipolar disorder compounded by severe sleep deprivation, underweight status, and active smoking. While some protective factors exist, the combination of mental health vulnerability and poor physical health indicators elevates the overall risk.

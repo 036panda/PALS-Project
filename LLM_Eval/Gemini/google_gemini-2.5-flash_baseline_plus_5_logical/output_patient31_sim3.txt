@@ -1,0 +1,24 @@
+1. 7.0
+
+2. *   **Age (36):** +0.0 (No significant risk contribution at this age without other compounding factors)
+*   **BMI (36.8):** +1.5 (Obesity, BMI > 30, is a significant risk factor)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (nan):** +0.0 (Absence of current diagnosis is neutral)
+*   **Race (Black):** +0.5 (Acknowledging systemic health disparities and higher prevalence of certain conditions in this demographic)
+*   **Gender (Non-binary):** +0.5 (Acknowledging potential for healthcare disparities and unique stressors)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Neutral in this context)
+*   **Weekly_Alcohol_Intake (7 units):** +0.0 (Within moderate limits, no significant direct contribution)
+*   **Smoking (Yes):** +2.0 (Major, well-established risk factor for numerous health issues)
+*   **HAM-D (0–6: Normal / No Depression):** +0.0 (Absence of depression is neutral)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Indicates potential underlying stress or early signs of health decline)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to fatigue, suggests potential underlying issues or stress)
+*   **Hours_of_Sleep (5.7):** +0.5 (Chronic sleep deprivation, less than 7 hours, is a risk factor)
+*   **Employment (Employed):** -0.5 (Positive socioeconomic factor, often associated with better health outcomes)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither high risk nor protective compared to extremes)
+*   **Drinks_Coffee (No):** +0.0 (Neutral)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributes to better health)
+*   **Favourite_Sport (Soccer):** +0.0 (Neutral)
+*   **Votes (Never):** +0.0 (Neutral in terms of direct health risk)
+*   **Height_in_Inches (60):** +0.0 (Neutral, already factored into BMI)
+
+3. The score is derived by summing the contributions of identified risk factors, such as high BMI, smoking, family history of hypertension, and indicators of stress/poor sleep, while mitigating factors like employment and healthy diet provide negative contributions. This reflects a causal model where established health risks and indicators of potential health decline increase the likelihood of hospitalization.

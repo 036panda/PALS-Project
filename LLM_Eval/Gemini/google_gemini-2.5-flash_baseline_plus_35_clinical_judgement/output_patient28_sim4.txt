@@ -1,0 +1,19 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed Breakdown:
+
+*   **Age (25):** -1 (Younger age generally associated with lower risk of hospitalization for many conditions, especially chronic ones. However, this is somewhat offset by the Bipolar diagnosis.)
+*   **BMI (28.5):** +0.5 (Overweight, which can slightly increase risk for various health issues over time, but not acutely concerning at this level.)
+*   **Family_Health_History (Hypertension):** +0.5 (Indicates a genetic predisposition to a common chronic condition, increasing long-term risk.)
+*   **Current_Diagnosis (Bipolar):** +3 (This is a significant factor. Bipolar disorder carries a substantial risk of hospitalization, particularly during manic or depressive episodes, even with a current HAM-D score indicating no depression. The diagnosis itself is a primary driver of risk.)
+*   **Race (Native American):** +0.5 (Certain health disparities exist within Native American populations, including higher rates of some chronic diseases and mental health challenges, which can subtly increase hospitalization risk.)
+*   **Weekly_Alcohol_Intake (7):** +0.5 (While within recommended limits for some, any alcohol consumption can interact with mental health conditions or medications, and consistent intake carries a small, cumulative health risk.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Current lack of depressive symptoms is a positive indicator, reducing immediate mental health crisis risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Further reinforces current mental stability.)
+*   **Loss_of_Interest (No):** -0.5 (Another positive indicator for current mental well-being.)
+*   **Employment (Employed):** -0.5 (Employment is a protective factor, often indicating better social support, financial stability, and routine, which can reduce mental health crises.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally correlates with better access to healthcare and resources, reducing hospitalization risk.)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habits, even seemingly minor ones, can contribute to overall health issues and impact mood/energy, especially for someone with bipolar disorder.)
+*   **Allergy (Gluten):** +1 (Managing a significant dietary allergy requires vigilance and can lead to health complications if not properly managed, potentially requiring medical attention.)
+
+3. Clinical Rationale: The primary driver of this patient's hospitalization risk is their diagnosis of Bipolar disorder, which inherently carries a significant risk of acute episodes requiring inpatient care, despite current symptom stability. This is moderately mitigated by positive current mental health indicators, employment, and socioeconomic status, but slightly elevated by family history, overweight status, and the presence of a managed allergy.

@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (25):** -1 (Younger age generally associated with lower risk of hospitalization for many conditions, assuming no acute issues.)
+*   **BMI (28.5):** +1 (Overweight, increasing risk for various health issues over time, though not acutely high.)
+*   **Family_Health_History (Hypertension):** +1 (Genetic predisposition to a common chronic condition, increasing long-term risk.)
+*   **Current_Diagnosis (Bipolar):** +3 (Significant mental health condition with inherent risk of acute episodes requiring hospitalization for stabilization.)
+*   **Race (Native American):** +1 (Systemic health disparities and higher prevalence of certain chronic diseases in this population can increase hospitalization risk.)
+*   **Weekly_Alcohol_Intake (7):** 0 (Within recommended limits, no direct impact on hospitalization risk.)
+*   **Smoking (No):** -1 (Absence of a major risk factor for numerous chronic diseases.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Good mental health status, mitigating risk associated with the bipolar diagnosis in the short term.)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of common symptoms that could indicate worsening mental or physical health.)
+*   **Loss_of_Interest (No):** -1 (Absence of a key symptom of depression, further supporting current mental stability.)
+*   **Hours_of_Sleep (7.8):** 0 (Adequate sleep, no direct impact.)
+*   **Employment (Employed):** -1 (Indicates stability and access to resources, generally protective.)
+*   **Socioeconomic_Status (Middle):** -1 (Access to healthcare and resources, generally protective.)
+*   **Allergy (Gluten):** +1 (Requires dietary management; potential for accidental exposure and adverse reactions, though not typically leading to hospitalization if managed.)
+*   **Skips_Breakfast (Yes):** +0.5 (Minor negative health habit, but unlikely to directly cause hospitalization.)
+*   **Exercises (No):** +1 (Lack of regular physical activity is a risk factor for various chronic diseases.)
+
+3. Clinical Rationale: This individual presents with a moderate risk of hospitalization primarily due to their bipolar diagnosis, which carries an inherent risk of acute episodes, and several chronic health risk factors such as overweight BMI, family history of hypertension, and lack of exercise, compounded by systemic health disparities associated with their race. However, their current mental stability, employment, and healthy lifestyle choices in other areas mitigate this risk.

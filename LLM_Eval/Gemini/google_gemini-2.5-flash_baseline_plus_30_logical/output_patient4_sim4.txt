@@ -1,0 +1,15 @@
+7
+
+*   Age (40): +0.5 (Increased age generally correlates with higher hospitalization risk, though 40 is not extremely high)
+*   BMI (16.7): +1.5 (Underweight (BMI < 18.5) is associated with increased health complications and hospitalization risk)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to chronic conditions increases risk)
+*   Current_Diagnosis (Depression): +1.0 (Mental health conditions can exacerbate physical health issues and increase hospitalization likelihood)
+*   Weekly_Alcohol_Intake (3): +0.0 (Moderate alcohol intake, not a significant risk factor at this level)
+*   Smoking (Yes): +2.0 (Smoking is a major risk factor for numerous health problems requiring hospitalization)
+*   HAM-D (18–24: Moderate Depression): +1.0 (Confirms and quantifies the severity of depression, increasing risk)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating potential for worsening mental or physical health)
+*   Loss_of_Interest (Yes): +0.5 (Another symptom of depression, indicating potential for worsening mental or physical health)
+*   Socioeconomic_Status (Low): +1.0 (Lower socioeconomic status is often linked to poorer health outcomes and reduced access to preventative care, increasing hospitalization risk)
+*   Allergy (Mold): +0.5 (Allergies can trigger respiratory issues or other complications requiring medical attention)
+
+The risk score is calculated by summing the positive contributions of identified health risk factors and socioeconomic determinants, where each factor's contribution is weighted based on its established causal link to increased hospitalization likelihood. Factors like underweight BMI, smoking, moderate depression, and low socioeconomic status are assigned higher contributions due to their significant impact on health and access to care.

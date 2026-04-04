@@ -1,0 +1,14 @@
+1. 6.5
+
+2. *   Current_Diagnosis: Schizophrenia: +4.0 (Strong causal link to increased hospitalization risk due to acute episodes, medication management, and potential for self-harm or harm to others.)
+*   Age: 19: +0.5 (Younger adults, particularly those with mental health diagnoses, may have higher hospitalization rates due to less established coping mechanisms and support systems.)
+*   BMI: 25.1: +0.5 (Slightly overweight, which can contribute to various health issues over time, increasing long-term hospitalization risk.)
+*   Been_Sad_or_Fatigued: Yes: +0.5 (Indicates ongoing mental health distress, which can exacerbate existing conditions or lead to new ones requiring hospitalization.)
+*   Weekly_Alcohol_Intake: 4: +0.5 (Moderate alcohol intake, while not immediately critical, can interact negatively with psychiatric medications and contribute to overall health decline.)
+*   HAM-D: 7–17: Mild Depression: +0.5 (While mild, depression can worsen and, especially in conjunction with schizophrenia, increase the likelihood of hospitalization.)
+*   Smoking: No: -0.5 (Absence of smoking reduces risk of numerous chronic diseases that often lead to hospitalization.)
+*   Hours_of_Sleep: 10.3: -0.5 (Adequate sleep is a protective factor for both physical and mental health, reducing the likelihood of hospitalization.)
+*   Employment: Employed: -0.5 (Employment often correlates with better access to healthcare, financial stability, and social support, all of which reduce hospitalization risk.)
+*   Likes_Vegetables: Yes: -0.5 (Good dietary habits contribute to overall health and reduce the risk of diet-related hospitalizations.)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as the presence of schizophrenia and mild depression, while subtracting contributions from protective factors like adequate sleep and employment. The primary driver is the severe mental health diagnosis, with other factors providing minor additive or subtractive adjustments based on their established health impacts.

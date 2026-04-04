@@ -1,0 +1,16 @@
+1. 6.5
+
+2. *   **Age (56):** +0.5 (Increased risk with age, but not elderly)
+*   **BMI (27.3):** +0.5 (Overweight, contributing to moderate risk)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant mental health condition strongly associated with higher hospitalization risk)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Moderate intake, no significant direct contribution to risk)
+*   **Smoking (Yes):** +1.5 (Major health risk factor)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Mild depression, contributing to some increased risk)
+*   **Been_Sad_or_Fatigued (Yes):** +0.0 (Symptom of depression, already accounted for by HAM-D)
+*   **Loss_of_Interest (Yes):** +0.0 (Symptom of depression, already accounted for by HAM-D)
+*   **Hours_of_Sleep (6.0):** +0.5 (Slightly below optimal, contributing to minor risk)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer health outcomes and access to care)
+*   **Allergy (Tree Nuts):** -1.0 (Indicates a known health condition that might lead to more cautious health management, reducing general hospitalization risk by promoting awareness and preventative measures)
+*   **Exercises (Yes):** -1.0 (Positive health behavior, reducing risk)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors such as age, BMI, schizophrenia, smoking, mild depression, suboptimal sleep, and low socioeconomic status, and subtracting the negative contributions from protective factors like exercising and having a known allergy that might promote health vigilance. Each factor's contribution reflects its established causal link to hospitalization risk.

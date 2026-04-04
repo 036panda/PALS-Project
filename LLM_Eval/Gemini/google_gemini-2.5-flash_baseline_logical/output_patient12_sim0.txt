@@ -1,0 +1,19 @@
+7
+
+*   **Age (90):** +3 (Advanced age is a significant independent risk factor for hospitalization due to increased frailty, comorbidity burden, and reduced physiological reserve.)
+*   **BMI (32.5 - Obese Class I):** +1 (Obesity is associated with a higher risk of various health complications requiring hospitalization, including cardiovascular disease, diabetes, and respiratory issues.)
+*   **Family_Health_History (Hypertension):** +0.5 (While not a direct personal diagnosis, a family history of hypertension indicates a genetic predisposition to a common condition that can lead to hospitalization if poorly managed.)
+*   **Current_Diagnosis (Depression):** +0 (The HAM-D score indicates no current depression, negating the direct hospitalization risk associated with active mental health crises.)
+*   **Race (Hispanic):** +0 (Race is not a direct causal factor for hospitalization risk; any observed disparities are typically due to socioeconomic or systemic factors not directly captured here.)
+*   **Gender (Non-binary):** +0 (Gender identity is not a direct causal factor for hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** +0 (Sexual orientation is not a direct causal factor for hospitalization risk.)
+*   **Weekly_Alcohol_Intake (4 units):** +0 (This level of alcohol intake is generally considered low-risk and not a significant contributor to hospitalization.)
+*   **Smoking (Yes):** +2 (Active smoking is a major independent risk factor for numerous chronic diseases, including cardiovascular, respiratory, and oncological conditions, significantly increasing hospitalization likelihood.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Absence of depression, as indicated by a normal HAM-D score, reduces the risk of hospitalization related to mental health crises or exacerbations of physical conditions due to poor self-care.)
+*   **Been_Sad_or_Fatigued (No):** +0 (Consistent with no depression, this factor does not contribute to hospitalization risk.)
+*   **Loss_of_Interest (No):** +0 (Consistent with no depression, this factor does not contribute to hospitalization risk.)
+*   **Hours_of_Sleep (7.4):** +0.5 (While within a healthy range, slightly elevated sleep duration in older adults can sometimes be an early indicator of underlying health issues or increased frailty, subtly increasing risk.)
+*   **Employment (Retired):** +0 (Retirement itself is not a direct causal factor for hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** +1 (While not low, middle socioeconomic status can still present barriers to optimal healthcare access or adherence compared to higher socioeconomic strata, subtly increasing risk.)
+
+The risk score is calculated by summing the contributions of individual factors, where advanced age and active smoking are the primary drivers of increased risk, while the absence of depression mitigates some risk. The logical basis is that factors known to directly impact physiological health, disease progression, or healthcare access contribute positively or negatively to the likelihood of requiring inpatient medical care.

@@ -1,0 +1,19 @@
+7
+
+*   **Age (34):** +0.5 (Slightly elevated risk due to age, though not a primary factor at this age)
+*   **BMI (23.1):** +0.5 (Healthy BMI, but not exceptionally low, so a minor positive contribution)
+*   **Current_Diagnosis (Depression):** +2.0 (Significant risk factor for hospitalization, even with low HAM-D)
+*   **Been_Sad_or_Fatigued (Yes):** +1.0 (Indicates potential underlying health issues or mental health strain)
+*   **Socioeconomic_Status (Low):** +1.5 (Strongly correlated with poorer health outcomes and higher hospitalization rates)
+*   **Exercises (No):** +1.0 (Lack of exercise is a known risk factor for various health problems)
+*   **Wears_Glasses (Yes):** +0.5 (Indicates a pre-existing health condition, even if minor)
+*   **Allergy (Animal Dander):** +0.5 (Chronic condition that can exacerbate respiratory issues or lead to complications)
+*   **Orders_Takeout (Weekly):** +0.5 (Suggests a diet that may not be optimally healthy, contributing to risk)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Mitigates the risk from the depression diagnosis, indicating good management)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Moderate intake, not a significant risk factor)
+*   **Hours_of_Sleep (7.0):** -0.5 (Adequate sleep, contributing to overall health)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habit, contributing to risk)
+
+The risk score is calculated by summing the contributions of factors directly related to physical and mental health, lifestyle choices, and socioeconomic determinants. Positive contributions are assigned to indicators of existing health conditions, unhealthy habits, or socioeconomic vulnerability, while negative contributions are assigned to protective factors or the absence of major risks.

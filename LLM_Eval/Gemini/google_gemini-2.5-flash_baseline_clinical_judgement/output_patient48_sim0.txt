@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (46):** +0 (Middle age, generally not a primary risk factor for hospitalization in this context without other comorbidities)
+*   **BMI (28.3):** +0.5 (Overweight, a mild contributor to overall health risk but not a direct driver of acute hospitalization in isolation)
+*   **Family_Health_History (Heart Disease):** +0.5 (Indicates a genetic predisposition to chronic illness, increasing long-term health risk, but not an immediate hospitalization driver)
+*   **Current_Diagnosis (Bipolar):** +4 (This is a significant risk factor for psychiatric hospitalization, especially if not well-managed or if experiencing an acute episode, even if HAM-D is low, as bipolar disorder has its own distinct acute phases.)
+*   **Race (Native American):** +0.5 (Certain racial groups, including Native Americans, face systemic health disparities and may have higher rates of chronic conditions and poorer access to care, subtly increasing overall risk.)
+*   **Gender (Non-binary):** +0.5 (Non-binary individuals may experience unique stressors and healthcare access challenges due to discrimination, potentially increasing mental health-related hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct impact on hospitalization risk in this context.)
+*   **Weekly_Alcohol_Intake (2):** +0 (Low intake, not a risk factor.)
+*   **Smoking (No):** +0 (Positive health behavior, no negative impact.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Indicates current absence of depressive symptoms, which is a protective factor against immediate depressive crisis hospitalization, but does not negate bipolar risk.)
+*   **Been_Sad_or_Fatigued (No):** +0 (Consistent with low HAM-D, no direct impact.)
+*   **Loss_of_Interest (Yes):** +1 (Despite low HAM-D, anhedonia can be a symptom of a mood episode in bipolar disorder or a sign of underlying distress, warranting attention.)
+*   **Hours_of_Sleep (7.0):** +0 (Adequate sleep, no direct impact.)
+*   **Employment (Employed):** +0 (Protective factor for stability, no direct impact on acute hospitalization.)
+*   **Socioeconomic_Status (Middle):** +0 (Generally associated with better access to care, no direct impact on acute hospitalization.)
+
+3. Clinical Rationale: The primary driver of this patient's hospitalization risk is their current diagnosis of Bipolar Disorder, which inherently carries a significant risk for acute mood episodes requiring inpatient care, despite a current low HAM-D score. The reported "Loss of Interest" warrants further clinical investigation as it could indicate an emerging or subthreshold mood episode, contributing to the overall risk.

@@ -1,0 +1,14 @@
+1. 6.5
+
+2. *   **Age (19):** +0.5 (Young adult, generally lower risk, but not zero due to other factors)
+*   **BMI (25.1):** +0.5 (Slightly overweight, minor contribution to risk)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant mental health condition, strong contributor to hospitalization risk)
+*   **Weekly_Alcohol_Intake (4):** +0.5 (Moderate intake, minor contribution)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression, adds to mental health burden)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Indicates potential for emotional distress or underlying health issues)
+*   **Hours_of_Sleep (10.3):** -0.5 (Adequate sleep, a protective factor)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better health outcomes and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally associated with better health access and stability)
+*   **Exercises (No):** +1.0 (Lack of exercise is a risk factor for various health issues)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors such as schizophrenia, mild depression, lack of exercise, and moderate alcohol intake, and subtracting the negative contributions from protective factors like adequate sleep, employment, and middle socioeconomic status, reflecting their direct causal impact on hospitalization likelihood.

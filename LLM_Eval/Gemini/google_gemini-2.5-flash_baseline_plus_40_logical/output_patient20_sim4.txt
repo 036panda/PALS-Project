@@ -1,0 +1,15 @@
+1. 6.5
+
+2. *   **Current_Diagnosis: Schizophrenia:** +5.0 (Directly increases hospitalization risk due to the nature of the condition and potential for acute episodes requiring inpatient care.)
+*   **Age: 19:** +0.5 (Younger age, especially late teens/early twenties, can be a period of higher risk for first-episode psychosis or exacerbation of mental health conditions, potentially leading to hospitalization.)
+*   **BMI: 25.1:** +0.2 (Slightly overweight, which can be associated with some health complications, though minor in this context.)
+*   **HAM-D: 7–17: Mild Depression:** +0.8 (While mild, depression can exacerbate other mental health conditions and, if untreated or worsening, could contribute to hospitalization risk.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (Symptoms of sadness/fatigue, even if mild, can indicate underlying distress that, when combined with other factors, increases risk.)
+*   **Weekly_Alcohol_Intake: 4:** +0.3 (Moderate alcohol intake can interact negatively with mental health conditions and medications, potentially increasing risk.)
+*   **Smoking: No:** -0.5 (Absence of smoking reduces overall health risks, including those that might necessitate hospitalization.)
+*   **Hours_of_Sleep: 10.3:** -0.3 (Adequate to high sleep duration can be protective for mental and physical health, reducing risk.)
+*   **Employment: Employed:** -0.5 (Employment often indicates a degree of stability and social integration, which can be protective against hospitalization.)
+*   **Socioeconomic_Status: Middle:** -0.5 (Middle socioeconomic status generally implies better access to resources and support, reducing risk.)
+*   **Exercises: No:** +0.5 (Lack of exercise is a risk factor for various physical and mental health issues, which can indirectly increase hospitalization risk.)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, primarily focusing on the severe mental health diagnosis of schizophrenia and its exacerbating or mitigating factors. Positive contributions reflect conditions or behaviors that increase the likelihood of needing inpatient care, while negative contributions reflect protective factors.

@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (19):** -1 (Younger age, while potentially associated with higher risk in some mental health contexts, here is slightly protective due to general physical resilience and fewer comorbidities compared to older adults.)
+*   **BMI (25.1):** 0 (Healthy weight, no direct impact on hospitalization risk.)
+*   **Family_Health_History (nan):** 0 (Missing data, cannot assess impact.)
+*   **Current_Diagnosis (Schizophrenia):** +7 (This is the primary driver of risk. Schizophrenia is a severe mental illness with a high likelihood of acute exacerbations requiring hospitalization for stabilization, medication management, and safety.)
+*   **Race (Black):** +1 (Systemic health disparities and potential for delayed or inadequate access to care can increase hospitalization risk for Black individuals with severe mental illness.)
+*   **Gender (Female):** 0 (No direct impact on hospitalization risk for schizophrenia.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (4):** 0 (Moderate intake, not a significant risk factor for hospitalization in this context.)
+*   **Smoking (No):** 0 (Protective factor, but not directly reducing hospitalization risk from schizophrenia.)
+*   **HAM-D (7–17: Mild Depression):** +1 (While mild, co-occurring depression can complicate schizophrenia management and slightly increase the threshold for crisis, though not a primary driver.)
+*   **Been_Sad_or_Fatigued (Yes):** +1 (Consistent with mild depression and can indicate a worsening of overall mental state, increasing vulnerability.)
+*   **Loss_of_Interest (No):** 0 (Absence of this symptom is slightly protective, indicating not all depressive symptoms are present.)
+*   **Hours_of_Sleep (10.3):** -1 (Adequate to high sleep duration, suggesting some level of self-care or stability, which is protective.)
+*   **Employment (Employed):** -1 (Employment is a significant protective factor, indicating a level of functional stability, social engagement, and routine.)
+*   **Socioeconomic_Status (Middle):** 0 (Neutral impact, neither significantly protective nor a risk factor compared to extremes.)
+*   **Drinks_Coffee (Yes):** 0 (No direct impact.)
+*   **Likes_Vegetables (Yes):** 0 (Indicates healthy habits, but no direct impact on hospitalization risk.)
+*   **Favourite_Sport (Hockey):** 0 (No direct impact.)
+*   **Votes (Sometimes):** 0 (No direct impact.)
+*   **Height_in_Inches (72):** 0 (No direct impact.)
+
+3. Clinical Rationale: This young individual with a primary diagnosis of schizophrenia carries a substantial inherent risk for hospitalization due to the nature of the illness, compounded by systemic disparities and mild depressive symptoms, despite protective factors like employment and adequate sleep.

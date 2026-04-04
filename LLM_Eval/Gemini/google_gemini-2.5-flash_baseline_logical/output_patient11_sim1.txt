@@ -1,0 +1,19 @@
+1. 6.0
+
+2. *   **Age (31):** +0.0 (No significant increase in hospitalization risk for this age group in isolation)
+*   **BMI (29.7):** +0.5 (Approaching overweight/obese, contributing to minor increased risk)
+*   **Family_Health_History (nan):** +0.0 (No information, thus no contribution)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant chronic mental health condition with high hospitalization risk)
+*   **Race (White):** +0.0 (No direct causal link to increased hospitalization risk in this context)
+*   **Gender (Female):** +0.0 (No direct causal link to increased hospitalization risk in this context)
+*   **Sexual_Orientation (Bisexual):** +0.5 (Potential for increased stress/discrimination, contributing to minor increased risk)
+*   **Weekly_Alcohol_Intake (4 units):** +0.0 (Within moderate limits, no significant contribution)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor, reducing risk)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression, contributing to increased risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common depressive symptom, reducing risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Presence of a depressive symptom, increasing risk)
+*   **Hours_of_Sleep (7.1):** +0.0 (Within healthy range, no contribution)
+*   **Employment (Employed):** -0.5 (Protective factor, reducing risk)
+*   **Socioeconomic_Status (Low):** +2.0 (Significant social determinant of health, increasing risk)
+
+3. The risk score is derived by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these factors and hospitalization likelihood. The most substantial contributions come from the severe mental health diagnosis (Schizophrenia) and low socioeconomic status, while the absence of smoking and being employed provide some mitigating effects.

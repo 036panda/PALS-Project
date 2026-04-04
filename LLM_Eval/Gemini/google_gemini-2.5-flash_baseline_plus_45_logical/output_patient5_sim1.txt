@@ -1,0 +1,14 @@
+1. 4.5
+
+2. *   Age (61): +2.0 (Increased risk with age, especially over 60)
+*   BMI (25.8): +0.5 (Slightly elevated BMI, bordering overweight)
+*   Family_Health_History (Asthma): +1.0 (Genetic predisposition to respiratory issues)
+*   Weekly_Alcohol_Intake (1): -0.2 (Very low, potentially protective or neutral)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   HAM-D (Mild Depression): +0.5 (Mental health can impact physical health)
+*   Hours_of_Sleep (5.4): +0.5 (Insufficient sleep is a risk factor)
+*   Socioeconomic_Status (High): -0.5 (Access to better healthcare and resources)
+*   Skips_Breakfast (Yes): +0.3 (Potentially indicates less healthy eating habits)
+*   Exercises (Yes): -0.6 (Positive health behavior)
+
+3. The risk score is calculated by summing the contributions of identified health-related factors, where positive values indicate increased risk (e.g., age, family history, poor sleep) and negative values indicate reduced risk (e.g., no smoking, exercise, high socioeconomic status), reflecting their direct causal impact on hospitalization likelihood.

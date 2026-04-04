@@ -1,0 +1,24 @@
+7
+
+*   **Age (26):** +0.5 (Younger adults, while generally healthier, may have higher hospitalization risk for certain mental health conditions or due to risk-taking behaviors. Here, it's a slight positive contribution due to the Bipolar diagnosis.)
+*   **BMI (29.1):** +1.0 (Overweight BMI is a known risk factor for various health complications, increasing hospitalization likelihood.)
+*   **Family_Health_History (Diabetes):** +0.5 (Genetic predisposition to chronic conditions like diabetes can indirectly increase overall health risks and potential for hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder is a significant mental health condition often requiring hospitalization for acute episodes or medication management.)
+*   **Race (Other):** +0.5 (In some healthcare systems, individuals identifying as "Other" may face disparities in care or have less access to preventative resources, subtly increasing risk.)
+*   **Gender (Non-binary):** +0.5 (Non-binary individuals may experience unique stressors, discrimination, or barriers to healthcare access, potentially increasing hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk in this context.)
+*   **Weekly_Alcohol_Intake (3):** +0.0 (Moderate alcohol intake, within recommended limits, is not a significant risk factor for hospitalization.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk for numerous health conditions.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Normal HAM-D score indicates good current mental health, reducing risk of hospitalization related to depressive episodes.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (While HAM-D is normal, self-reported sadness/fatigue can be an early indicator of underlying issues or stress, subtly increasing risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, loss of interest can be a symptom of various conditions, including mental health fluctuations, increasing risk.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below optimal sleep duration can negatively impact physical and mental health, increasing susceptibility to illness or exacerbating existing conditions.)
+*   **Employment (Employed):** -0.5 (Employment generally correlates with better socioeconomic stability and access to healthcare, reducing risk.)
+*   **Socioeconomic_Status (Low):** +1.5 (Low socioeconomic status is a significant predictor of poorer health outcomes, limited access to care, and higher hospitalization rates.)
+*   **Drinks_Coffee (Yes):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (Healthy dietary habits contribute to overall well-being, reducing risk.)
+*   **Favourite_Sport (Gymnastics):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Votes (Always):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Height_in_Inches (64):** +0.0 (No direct causal link to hospitalization risk.)
+
+The risk score is calculated by summing the contributions of factors known to causally influence health and hospitalization likelihood, with particular emphasis on the significant impact of the Bipolar diagnosis and socioeconomic status, while mitigating factors like not smoking and healthy diet reduce the overall score.

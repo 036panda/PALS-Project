@@ -1,0 +1,21 @@
+4
+
+**Input Factors and Contributions:**
+
+*   **Age (18):** +0.5 (Young adult, generally lower risk, but still susceptible to certain conditions)
+*   **BMI (25.6):** +0.5 (Slightly overweight, minor increase in risk)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization for stabilization or crisis management)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate alcohol consumption, potential for minor health impacts over time)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep, linked to various health issues and exacerbation of mental health conditions)
+*   **Socioeconomic_Status (High):** -1.0 (Access to better healthcare, nutrition, and living conditions, reducing risk)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources, generally lower risk)
+*   **Allergy (Shellfish):** +0.5 (Potential for severe allergic reaction requiring emergency care)
+*   **HAM-D (0-6: Normal / No Depression):** -0.5 (Absence of depressive symptoms, reducing mental health-related hospitalization risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common indicators of mental or physical distress)
+*   **Loss_of_Interest (No):** -0.5 (Absence of a key symptom of depression)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor for numerous chronic diseases)
+
+**Justification:**
+
+The risk score is calculated by summing the individual contributions of factors known to either increase or decrease hospitalization likelihood, with a strong emphasis on direct health conditions, lifestyle choices, and socioeconomic determinants. Positive contributions are assigned to factors that elevate risk (e.g., chronic diagnoses, poor sleep, family history), while negative contributions are assigned to protective factors (e.g., high socioeconomic status, no smoking, good mental health indicators).

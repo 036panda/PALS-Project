@@ -1,0 +1,19 @@
+7
+
+*   **Age (52):** +1 (Increased risk with age, though moderate for this range)
+*   **BMI (23.2):** +0 (Normal weight, no direct contribution to increased risk)
+*   **Family_Health_History (Asthma):** +1 (Genetic predisposition to respiratory issues, which can complicate other conditions or lead to hospitalization)
+*   **Current_Diagnosis (Anxiety):** +2 (Mental health conditions, especially anxiety, can exacerbate physical symptoms, lead to somatic complaints, or require hospitalization for crisis management)
+*   **Race (Other):** +1 (Acknowledging potential systemic disparities in healthcare access and outcomes for non-majority racial groups, which can indirectly increase hospitalization risk)
+*   **Gender (Non-binary):** +1 (Acknowledging potential systemic disparities and discrimination in healthcare for non-binary individuals, which can indirectly increase hospitalization risk)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct contribution to increased risk)
+*   **Weekly_Alcohol_Intake (5):** +0 (Moderate intake, not typically associated with increased hospitalization risk)
+*   **Smoking (No):** -1 (Absence of a major risk factor, reducing overall risk)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Absence of depression, a significant mental health risk factor, reducing overall risk)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of common symptoms of underlying health issues, reducing overall risk)
+*   **Loss_of_Interest (No):** -1 (Absence of a common symptom of depression or other mental health issues, reducing overall risk)
+*   **Hours_of_Sleep (7.4):** +0 (Adequate sleep, no direct contribution to increased risk)
+*   **Employment (Employed):** +1 (While generally a positive indicator, employment can also be a source of stress, contributing to anxiety or other health issues that might lead to hospitalization)
+*   **Socioeconomic_Status (Middle):** +1 (While not low, middle socioeconomic status can still present financial barriers to preventative care or lead to delayed treatment, indirectly increasing hospitalization risk compared to higher socioeconomic status)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values reflect increased risk due to existing conditions, predispositions, or systemic factors, and negative values reflect the absence of common risk factors. This approach directly links each input to its causal impact on hospitalization likelihood.

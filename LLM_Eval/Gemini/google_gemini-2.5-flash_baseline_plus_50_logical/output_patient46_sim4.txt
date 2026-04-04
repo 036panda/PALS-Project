@@ -1,0 +1,22 @@
+1. 6
+
+2. *   Age (32): +0 (No significant increased risk for hospitalization at this age without other major comorbidities)
+*   BMI (25.7): +0 (Within healthy range, no increased risk)
+*   Family_Health_History (Asthma): +1 (Genetic predisposition to respiratory issues, increasing hospitalization risk if triggered)
+*   Current_Diagnosis (nan): +0 (No current diagnosis means no immediate risk from this factor)
+*   Weekly_Alcohol_Intake (2): +0 (Moderate intake, no significant risk)
+*   Smoking (No): -1 (Absence of smoking significantly reduces risk of respiratory and cardiovascular hospitalizations)
+*   HAM-D (18–24: Moderate Depression): +2 (Moderate depression is associated with increased risk of various health issues, including poorer self-care and potential for mental health crises requiring hospitalization)
+*   Been_Sad_or_Fatigued (No): +0 (Absence of this symptom, despite depression, doesn't add further risk)
+*   Loss_of_Interest (Yes): +1 (A key symptom of depression, indicating potential for worsening mental health and associated physical health neglect)
+*   Hours_of_Sleep (4.8): +2 (Chronic severe sleep deprivation significantly increases risk of various health problems, including cardiovascular issues, weakened immune system, and mental health exacerbation, all potentially leading to hospitalization)
+*   Employment (Employed): -1 (Employment often correlates with better access to healthcare, financial stability, and mental well-being, reducing hospitalization risk)
+*   Socioeconomic_Status (Middle): +0 (Neutral, neither significantly increasing nor decreasing risk compared to extremes)
+*   Drinks_Coffee (No): +0 (Neutral)
+*   Likes_Vegetables (No): +1 (Poor dietary habits can contribute to various health issues over time, increasing hospitalization risk)
+*   Allergy (Animal Dander): +1 (Presence of an allergy, especially respiratory, increases risk of acute allergic reactions or exacerbation of conditions like asthma, potentially requiring hospitalization)
+*   Skips_Breakfast (Yes): +0 (While not ideal, skipping breakfast alone doesn't directly cause hospitalization risk)
+*   Exercises (Yes): -1 (Regular exercise is a protective factor against numerous chronic diseases, reducing hospitalization risk)
+*   Orders_Takeout (Daily): +1 (Frequent takeout often implies a diet high in unhealthy fats, sodium, and sugar, contributing to long-term health issues and increasing hospitalization risk)
+
+3. The hospitalization risk score is calculated by summing the contributions of factors directly and causally linked to health outcomes and healthcare utilization. Factors like moderate depression, severe sleep deprivation, and poor dietary habits are assigned positive contributions due to their established causal links to increased morbidity and potential need for hospitalization, while protective factors like not smoking and exercising regularly receive negative contributions.

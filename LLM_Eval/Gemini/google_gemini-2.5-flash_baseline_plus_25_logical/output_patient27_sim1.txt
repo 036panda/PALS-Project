@@ -1,0 +1,17 @@
+1. 2.5
+
+2. *   **Age (38):** +0.5 (Slightly elevated risk due to age, though not a primary driver at this age)
+*   **BMI (21.8):** -0.5 (Healthy BMI, reducing risk)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to a chronic respiratory condition, increasing risk)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can indirectly increase hospitalization risk through various pathways, including exacerbation of physical symptoms or increased healthcare utilization)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Low alcohol intake, reducing risk)
+*   **Smoking (No):** -1.0 (Absence of a major health risk factor, significantly reducing risk)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depression, reducing risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common indicators of underlying health issues, reducing risk)
+*   **Loss_of_Interest (No):** -0.5 (Absence of a symptom often associated with mental or physical health decline, reducing risk)
+*   **Hours_of_Sleep (6.3):** +0.5 (Slightly below optimal sleep duration, which can impact overall health and immunity, slightly increasing risk)
+*   **Employment (Employed):** -0.5 (Associated with better health outcomes and access to care, reducing risk)
+*   **Socioeconomic_Status (High):** -1.0 (Strongly correlated with better health outcomes and access to resources, significantly reducing risk)
+*   **Water_Intake_oz (43.6):** +0.5 (Slightly below recommended daily water intake, which can impact overall health, slightly increasing risk)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to health outcomes and healthcare utilization. Positive contributions reflect factors that increase the likelihood of hospitalization, while negative contributions reflect protective factors.

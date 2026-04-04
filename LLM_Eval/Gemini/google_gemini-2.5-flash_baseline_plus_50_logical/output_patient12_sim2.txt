@@ -1,0 +1,12 @@
+1. 7
+
+2. *   Age (90): +3 (Advanced age significantly increases hospitalization risk due to general physiological decline and increased susceptibility to illness.)
+*   BMI (32.5, Obese Class I): +1 (Obesity is a known risk factor for various health complications that may necessitate hospitalization.)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to hypertension increases the individual's risk of related cardiovascular events requiring hospitalization.)
+*   Current_Diagnosis (Depression): +0.5 (While HAM-D is normal, a current diagnosis of depression can be a comorbidity that exacerbates other health issues or, in severe cases, lead to hospitalization for mental health reasons.)
+*   Smoking (Yes): +1.5 (Smoking is a major risk factor for numerous chronic diseases, including respiratory, cardiovascular, and oncological conditions, all of which can lead to hospitalization.)
+*   Weekly_Alcohol_Intake (4 units): +0.5 (While moderate, any alcohol consumption carries some health risks, and in conjunction with other factors, can contribute to hospitalization risk.)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits, specifically lack of vegetable intake, can lead to nutritional deficiencies and increased risk of chronic diseases.)
+*   Skips_Breakfast (Yes): +0.5 (Skipping meals, particularly breakfast, can negatively impact metabolism and overall health, potentially increasing health risks.)
+
+3. The hospitalization risk score is calculated by summing the positive contributions of identified risk factors, where each contribution reflects a direct causal link between the factor and an increased likelihood of hospitalization. Factors with no clear causal link to hospitalization risk were assigned a zero contribution.

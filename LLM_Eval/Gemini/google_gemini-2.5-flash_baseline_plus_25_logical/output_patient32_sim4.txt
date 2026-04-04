@@ -1,0 +1,17 @@
+1. 7
+
+2. *   Age (19): +0 (While age can be a factor, 19 is not typically a high-risk age for hospitalization in itself, and other factors dominate.)
+*   BMI (17.6 - Underweight): +1 (Underweight can indicate nutritional deficiencies or underlying health issues, increasing vulnerability.)
+*   Family_Health_History (Diabetes): +1 (Genetic predisposition to chronic conditions like diabetes increases overall health risk, even if not directly causing current hospitalization.)
+*   Current_Diagnosis (Schizophrenia): +3 (Severe mental health conditions like schizophrenia are strongly associated with higher rates of hospitalization due to acute episodes, medication management, and co-occurring physical health issues.)
+*   HAM-D (25+ - Severe Depression): +2 (Severe depression significantly increases the risk of hospitalization, particularly for psychiatric care, and can also impact physical health.)
+*   Loss_of_Interest (Yes): +1 (A symptom of depression, indicating a potential worsening of mental health and reduced self-care.)
+*   Weekly_Alcohol_Intake (3): +0 (Moderate alcohol intake is not a significant direct hospitalization risk factor.)
+*   Smoking (No): -1 (Absence of smoking reduces a major health risk factor.)
+*   Socioeconomic_Status (High): -1 (Higher socioeconomic status often correlates with better access to healthcare, nutrition, and living conditions, reducing general health risks.)
+*   Employment (Student): +0 (Being a student is not a direct risk factor for hospitalization.)
+*   Hours_of_Sleep (8.0): -1 (Adequate sleep is a protective factor for overall health.)
+*   Been_Sad_or_Fatigued (No): -1 (Absence of these symptoms, despite severe depression, suggests some resilience or symptom management in this specific area.)
+*   All other factors: +0 (These factors are not directly or causally linked to hospitalization risk in a significant way for this individual based on current medical understanding.)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, with a strong emphasis on severe mental health conditions and their associated symptoms, as well as general health indicators. Protective factors are subtracted to reflect their mitigating effect.

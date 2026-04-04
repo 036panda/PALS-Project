@@ -1,0 +1,18 @@
+1. 5.5
+
+2. *   Age (64): +1.0 (Increased age is a direct risk factor for hospitalization)
+*   BMI (29.9): +0.5 (BMI in the overweight/obese range is a direct risk factor)
+*   Family_Health_History (Asthma): +0.5 (Family history of respiratory conditions can indicate a genetic predisposition to health issues requiring hospitalization)
+*   Current_Diagnosis (Depression): +1.0 (Mental health conditions, especially depression, can lead to physical health complications or self-neglect requiring hospitalization)
+*   HAM-D (18–24: Moderate Depression): +1.0 (Moderate depression severity directly increases the risk of health complications and need for medical intervention)
+*   Loss_of_Interest (Yes): +0.5 (A symptom of depression, indicating potential for self-neglect or worsening mental state)
+*   Hours_of_Sleep (6.4): +0.5 (Insufficient sleep is a direct risk factor for various health problems)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better access to healthcare and resources, reducing risk)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   Likes_Vegetables (Yes): -0.5 (Indicates healthier lifestyle choices, reducing risk)
+*   Water_Intake_oz (44.4): +0.5 (Slightly below recommended intake, potentially contributing to minor health issues)
+*   Donated_Blood (Yes): -0.5 (Suggests a generally healthy individual, reducing risk)
+*   Employment (Retired): +0.5 (While not inherently negative, retirement can sometimes be associated with reduced physical activity or social engagement, indirectly increasing risk for some individuals)
+*   Weekly_Alcohol_Intake (2): -0.5 (Moderate alcohol consumption is not a significant risk factor and can even be associated with some health benefits compared to abstention or heavy drinking)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values reflect direct causal links to increased hospitalization risk (e.g., age, BMI, depression severity, insufficient sleep) and negative values reflect factors that mitigate risk (e.g., no smoking, healthy diet, good socioeconomic status). Each contribution is assigned based on the established medical and social determinants of health, reflecting their direct or indirect influence on the likelihood of requiring hospitalization.

@@ -1,0 +1,20 @@
+1. 6.5
+
+2. *   **Current_Diagnosis: Schizophrenia:** +3.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, and stabilization.)
+*   **Family_Health_History: Heart Disease:** +0.5 (Indicates a genetic predisposition to cardiovascular issues, which can lead to hospitalization.)
+*   **BMI: 27.1:** +0.5 (Overweight, increasing risk for various health complications that may require hospitalization.)
+*   **HAM-D: 7–17: Mild Depression:** +0.5 (While mild, depression can exacerbate other conditions or, if untreated, escalate to a point requiring hospitalization.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (Symptoms of depression or other underlying health issues that could lead to hospitalization.)
+*   **Loss_of_Interest: Yes:** +0.5 (Another symptom of depression or other underlying health issues that could lead to hospitalization.)
+*   **Age: 22:** -0.5 (Generally lower risk of hospitalization compared to older age groups, assuming no other significant risk factors.)
+*   **Weekly_Alcohol_Intake: 2:** -0.2 (Low alcohol intake, generally considered healthy or neutral.)
+*   **Smoking: No:** -0.5 (Absence of a major risk factor for numerous diseases requiring hospitalization.)
+*   **Hours_of_Sleep: 8.9:** -0.3 (Adequate sleep, contributing to overall health and reducing risk.)
+*   **Socioeconomic_Status: Middle:** -0.5 (Generally associated with better access to healthcare and resources, reducing hospitalization risk.)
+*   **Drinks_Coffee: Yes:** -0.1 (Moderate coffee consumption has been linked to some health benefits.)
+*   **Likes_Vegetables: No:** +0.2 (Lack of vegetable consumption can negatively impact health over time.)
+*   **Uses_Public_Transportation: Sometimes:** -0.1 (Suggests some physical activity and potentially lower car-related risks.)
+*   **Water_Intake_oz: 43.4:** -0.1 (Adequate hydration, contributing to overall health.)
+*   **Binge_Watches_TV: Yes:** +0.2 (Sedentary behavior, potentially contributing to health issues.)
+
+3. The hospitalization risk score is calculated by summing the positive contributions from significant health risks and negative contributions from protective factors, with a strong emphasis on the immediate and severe impact of schizophrenia and other mental health indicators. The causal basis is that certain conditions and lifestyle choices directly increase the likelihood of needing medical intervention and inpatient care.

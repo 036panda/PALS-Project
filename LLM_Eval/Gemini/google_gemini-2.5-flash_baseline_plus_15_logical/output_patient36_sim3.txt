@@ -1,0 +1,14 @@
+1. 8
+
+2. * Age (68): +1.5 (Increased age is a direct risk factor for hospitalization due to general health decline and comorbidity likelihood.)
+* BMI (29.7): +0.5 (BMI in the overweight category increases risk for various health issues.)
+* Family_Health_History (Hypertension): +0.5 (Genetic predisposition to hypertension increases personal risk of related complications.)
+* Current_Diagnosis (Schizophrenia): +2.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes or management of chronic symptoms.)
+* Weekly_Alcohol_Intake (3): +0.0 (Moderate alcohol intake, while not beneficial, is not a significant direct hospitalization risk at this level.)
+* Smoking (Yes): +1.5 (Smoking is a major risk factor for numerous chronic diseases leading to hospitalization.)
+* HAM-D (25+: Severe Depression): +1.5 (Severe depression significantly increases the risk of hospitalization for mental health crises or self-harm.)
+* Been_Sad_or_Fatigued (Yes): +0.0 (While a symptom of depression, the HAM-D score already captures the severity.)
+* Loss_of_Interest (Yes): +0.0 (While a symptom of depression, the HAM-D score already captures the severity.)
+* Socioeconomic_Status (Low): +0.5 (Low socioeconomic status is associated with poorer access to healthcare, leading to delayed treatment and increased hospitalization risk.)
+
+3. The hospitalization risk score is calculated by summing the direct, causally linked contributions of established medical and socioeconomic risk factors, with higher values assigned to conditions known to significantly increase the likelihood of hospitalization. Factors without a clear, direct causal link to hospitalization risk are assigned a neutral contribution.

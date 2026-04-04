@@ -1,0 +1,24 @@
+1. 5.5
+
+2. *   Age (73 years): +2.0 (Increased risk with advanced age)
+*   BMI (22.5): +0.0 (Normal range, no direct contribution)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical health risks)
+*   Race (Native American): +0.5 (Acknowledged disparities in healthcare access and outcomes)
+*   Gender (Non-binary): +0.5 (Potential for healthcare discrimination and unique health challenges)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct contribution to hospitalization risk)
+*   Weekly_Alcohol_Intake (6 units): +0.0 (Moderate intake, no significant direct contribution)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Good mental health indicator)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Potential indicator of underlying health issues or stress)
+*   Loss_of_Interest (No): -0.0 (No direct contribution to hospitalization risk)
+*   Hours_of_Sleep (9.7): -0.5 (Adequate sleep is protective)
+*   Employment (Retired): +0.0 (No direct contribution to hospitalization risk)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer health outcomes and limited access to care)
+*   Drinks_Coffee (No): +0.0 (No direct contribution to hospitalization risk)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits increase health risks)
+*   Favourite_Sport (Basketball): +0.0 (No direct contribution to hospitalization risk)
+*   Votes (Sometimes): +0.0 (No direct contribution to hospitalization risk)
+*   Height_in_Inches (70): +0.0 (No direct contribution to hospitalization risk)
+
+3. The risk score is computed by summing individual contributions, where positive values reflect factors increasing hospitalization risk (e.g., age, anxiety, low socioeconomic status) and negative values reflect protective factors (e.g., no smoking, adequate sleep). Each contribution is causally linked to established health determinants and disparities.

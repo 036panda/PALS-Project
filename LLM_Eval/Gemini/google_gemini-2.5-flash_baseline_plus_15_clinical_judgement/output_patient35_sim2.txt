@@ -1,0 +1,36 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +1 (Young adult, often a period of increased vulnerability for mental health crises, especially with a pre-existing diagnosis.)
+*   **BMI (25.6):** 0 (Normal weight, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Hypertension):** 0 (While a risk factor for general health, not directly linked to acute psychiatric hospitalization in this context.)
+*   **Current_Diagnosis (Bipolar):** +5 (Significant positive impact. Bipolar disorder inherently carries a higher risk of hospitalization due to potential for manic or depressive episodes requiring acute stabilization.)
+*   **Race (Hispanic):** 0 (No direct impact on hospitalization risk in this context.)
+*   **Gender (Non-binary):** +1 (While not a direct cause, non-binary individuals may face increased societal stress and discrimination, which can exacerbate mental health conditions and increase risk of crisis.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (5):** 0 (Moderate intake, not a significant risk factor for acute hospitalization.)
+*   **Smoking (No):** 0 (Positive health behavior, but no direct negative impact on hospitalization risk.)
+*   **HAM-D (0-6: Normal / No Depression):** -3 (Significant negative impact. Absence of depressive symptoms is a strong protective factor against hospitalization.)
+*   **Been_Sad_or_Fatigued (No):** -1 (Protective factor, indicating current emotional stability.)
+*   **Loss_of_Interest (No):** -1 (Protective factor, indicating current engagement and lack of anhedonia.)
+*   **Hours_of_Sleep (5.7):** +1 (Slightly below recommended, chronic sleep deprivation can exacerbate mood disorders and increase risk of instability.)
+*   **Employment (Employed):** -1 (Protective factor, indicating stability, routine, and potential access to resources.)
+*   **Socioeconomic_Status (High):** -1 (Protective factor, indicating access to resources, support, and potentially better healthcare.)
+*   **Drinks_Coffee (No):** 0 (No direct impact.)
+*   **Likes_Vegetables (No):** 0 (No direct impact.)
+*   **Favourite_Sport (nan):** 0 (No direct impact.)
+*   **Votes (Never):** 0 (No direct impact.)
+*   **Height_in_Inches (59):** 0 (No direct impact.)
+*   **Has_Drivers_License (No):** 0 (No direct impact.)
+*   **Picks_Up_Litter (Never):** 0 (No direct impact.)
+*   **Uses_Public_Transportation (Never):** 0 (No direct impact.)
+*   **Donated_Blood (Yes):** 0 (Positive social behavior, but no direct impact on hospitalization risk.)
+*   **Birthday_Month (January):** 0 (No direct impact.)
+*   **Water_Intake_oz (44.2):** 0 (Adequate, no direct impact.)
+*   **Bilingual (No):** 0 (No direct impact.)
+*   **Handedness (Right):** 0 (No direct impact.)
+*   **Likes_Kids (No):** 0 (No direct impact.)
+*   **Favourite_Meal (Dinner):** 0 (No direct impact.)
+
+3. This 18-year-old non-binary individual with a bipolar diagnosis presents with a moderate risk of hospitalization, primarily driven by the inherent instability of their mental health condition and slightly suboptimal sleep, despite current symptom remission and strong protective factors like employment and high socioeconomic status. The absence of current depressive symptoms significantly mitigates immediate risk, but the underlying diagnosis remains a substantial vulnerability.

@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +0.5 (Younger adults, especially those with mental health diagnoses, can have higher rates of acute crises requiring hospitalization.)
+*   **BMI (25.6):** +0.1 (Slightly overweight, a minor contributor to overall health risk.)
+*   **Family_Health_History (Hypertension):** +0.2 (Genetic predisposition to chronic disease, though not directly impacting acute hospitalization risk for bipolar, it's a general health concern.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is the most significant factor. Bipolar disorder carries a substantial risk of hospitalization due to manic or depressive episodes, psychosis, or suicidal ideation.)
+*   **Race (Hispanic):** +0.1 (Minority stress and potential disparities in healthcare access can slightly elevate risk.)
+*   **Gender (Non-binary):** +0.2 (Experiences of discrimination and minority stress can contribute to mental health challenges and increase the likelihood of needing acute care.)
+*   **Weekly_Alcohol_Intake (5):** +0.1 (Moderate alcohol use, but can interact with bipolar medication or exacerbate symptoms.)
+*   **Hours_of_Sleep (5.7):** +0.5 (Chronic sleep deprivation is a significant trigger for mood episodes in bipolar disorder and can worsen overall mental and physical health.)
+*   **Socioeconomic_Status (High):** -0.5 (Access to better healthcare, resources, and support systems can mitigate hospitalization risk.)
+*   **Exercises (Yes):** -0.2 (Regular exercise is beneficial for both physical and mental health, reducing overall risk.)
+*   **HAM-D (0-6: Normal / No Depression), Been_Sad_or_Fatigued (No), Loss_of_Interest (No):** -1.0 (Absence of current depressive symptoms significantly reduces immediate hospitalization risk related to depression.)
+*   **Employment (Employed):** -0.1 (Provides structure, financial stability, and a sense of purpose, which can be protective factors.)
+*   **Relationship_Status (Single):** +0.1 (Lack of immediate social support can sometimes increase vulnerability during crises.)
+*   **All other attributes:** 0 (No direct or significant positive or negative impact on hospitalization risk in this context.)
+
+3. Clinical Rationale: This 18-year-old individual with bipolar disorder faces a moderate risk of hospitalization, primarily driven by their diagnosis and chronic sleep deprivation, despite the current absence of depressive symptoms and high socioeconomic status. The combination of a serious mental health condition with a known trigger like insufficient sleep warrants careful monitoring and proactive management.

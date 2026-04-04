@@ -1,0 +1,24 @@
+7
+
+*   **Age (52):** +0.5 (Increased age generally correlates with higher hospitalization risk due to cumulative health issues.)
+*   **BMI (16.4 - Underweight):** +1.5 (Underweight individuals are at higher risk for various health complications, including weakened immune system and nutritional deficiencies.)
+*   **Family_Health_History (Cancer):** +0.5 (Family history of cancer indicates a genetic predisposition to certain diseases, potentially increasing overall health risk.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Bipolar disorder is a significant mental health condition that can lead to hospitalization due to acute episodes, medication management, or co-occurring physical health issues.)
+*   **Race (Asian):** +0.0 (No direct causal link to hospitalization risk in this context without further specific health data.)
+*   **Gender (Male):** +0.0 (No direct causal link to hospitalization risk in this context without further specific health data.)
+*   **Sexual_Orientation (Other):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Weekly_Alcohol_Intake (7 units):** +0.0 (Within moderate limits, not directly contributing to increased risk.)
+*   **Smoking (Yes):** +1.5 (Smoking is a major risk factor for numerous chronic diseases, significantly increasing hospitalization likelihood.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Mild depression, while not severe, can still impact overall health and potentially lead to complications or exacerbation of other conditions.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms suggests better current mental well-being, slightly reducing risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (A symptom of depression, indicating a potential decline in mental health and engagement in self-care.)
+*   **Hours_of_Sleep (4.8):** +1.0 (Chronic sleep deprivation significantly impairs immune function, cognitive abilities, and overall physical health, increasing susceptibility to illness and hospitalization.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and financial stability, potentially reducing hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** +0.0 (No direct causal link to hospitalization risk in this context without further specific health data.)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthier dietary habit, potentially reducing risk.)
+*   **Favourite_Sport (nan):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Votes (Always):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Height_in_Inches (71):** +0.0 (No direct causal link to hospitalization risk.)
+
+The risk score is calculated by summing the positive and negative contributions of each factor, where each contribution reflects a direct causal link to increased or decreased hospitalization likelihood based on established medical and public health knowledge. Factors like severe underweight, smoking, bipolar disorder, and chronic sleep deprivation are assigned higher positive contributions due to their strong causal association with adverse health outcomes requiring hospitalization.

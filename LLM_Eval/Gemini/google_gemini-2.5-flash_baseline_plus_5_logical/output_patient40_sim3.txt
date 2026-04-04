@@ -1,0 +1,24 @@
+7
+
+*   **Age (26):** +0 (No significant risk increase at this age for hospitalization)
+*   **BMI (29.1):** +1 (Approaching overweight/obese, increasing risk for various health issues)
+*   **Family_Health_History (Diabetes):** +1 (Genetic predisposition to a chronic condition that can lead to hospitalization)
+*   **Current_Diagnosis (Bipolar):** +3 (Significant mental health condition with a high potential for acute episodes requiring hospitalization)
+*   **Race (Other):** +0 (No inherent risk contribution without further context)
+*   **Gender (Non-binary):** +0 (No inherent risk contribution)
+*   **Sexual_Orientation (Heterosexual):** +0 (No inherent risk contribution)
+*   **Weekly_Alcohol_Intake (3):** +0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -1 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Indicates good current mental health, mitigating some risk)
+*   **Been_Sad_or_Fatigued (Yes):** +1 (Potential indicator of underlying stress or emerging health issues, especially with Bipolar diagnosis)
+*   **Loss_of_Interest (Yes):** +1 (Similar to sadness/fatigue, can be a symptom of worsening mental health or other conditions)
+*   **Hours_of_Sleep (6.2):** +1 (Slightly below optimal, can contribute to overall health decline and stress)
+*   **Employment (Employed):** -1 (Indicates a degree of stability and access to resources, reducing risk)
+*   **Socioeconomic_Status (Low):** +2 (Associated with poorer access to healthcare, nutrition, and higher stress, significantly increasing hospitalization risk)
+*   **Drinks_Coffee (Yes):** +0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -1 (Positive dietary habit, contributing to better health)
+*   **Favourite_Sport (Gymnastics):** +0 (No direct causal link to hospitalization risk)
+*   **Votes (Always):** +0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (64):** +0 (No direct causal link to hospitalization risk)
+
+The risk score is calculated by summing the positive and negative contributions of each factor, where factors like a Bipolar diagnosis and low socioeconomic status significantly increase risk, while positive health behaviors and employment mitigate it. The presence of symptoms like sadness/fatigue and loss of interest, despite a normal HAM-D, suggests potential instability given the Bipolar diagnosis, contributing to the overall risk.

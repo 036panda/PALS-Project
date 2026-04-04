@@ -1,0 +1,15 @@
+1. 6.5
+
+2. *   Age (53): +1.0 (Increased risk with age)
+*   BMI (25.3): +0.5 (Slightly elevated BMI, borderline overweight)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues, potential comorbidity)
+*   Current_Diagnosis (Depression): +1.0 (Mental health conditions can impact physical health and adherence to treatment)
+*   Weekly_Alcohol_Intake (4): +0.2 (Moderate alcohol intake, but still a factor)
+*   HAM-D (18–24: Moderate Depression): +1.0 (Confirms and quantifies the impact of depression)
+*   Hours_of_Sleep (5.7): +0.8 (Insufficient sleep is a significant health risk factor)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits contribute to health risks)
+*   Exercises (No): +1.0 (Lack of physical activity is a major risk factor)
+*   Orders_Takeout (Daily): +0.5 (Frequent takeout often indicates less healthy dietary choices)
+*   Water_Intake_oz (44.1): -0.5 (Adequate hydration is a positive factor)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors such as age, BMI, family history, current diagnosis of depression, insufficient sleep, poor diet, and lack of exercise, while subtracting a minor contribution for adequate water intake, reflecting their direct causal impact on hospitalization risk.

@@ -1,0 +1,20 @@
+1. Risk Assessment Score: 5
+
+2. Parameter Contributions:
+    * Age (20): -1 (Lower risk due to young age)
+    * BMI (24.6): 0 (Normal weight)
+    * Family_Health_History (Cancer): +1 (Increased risk for general health complications)
+    * Current_Diagnosis (Schizophrenia): +3 (Significant risk factor for hospitalization)
+    * Race (Black): +1 (Acknowledged health disparities)
+    * Gender (Other): +1 (Potential for unique healthcare challenges/disparities)
+    * Sexual_Orientation (Heterosexual): 0 (No direct impact on hospitalization risk)
+    * Weekly_Alcohol_Intake (6): 0 (Moderate, generally not a significant risk)
+    * Smoking (No): -1 (Reduced risk)
+    * HAM-D (0-6: Normal / No Depression): -1 (Reduced mental health-related hospitalization risk)
+    * Been_Sad_or_Fatigued (No): -1 (Reduced mental health-related hospitalization risk)
+    * Loss_of_Interest (Yes): +1 (Indicates a potential mental health concern, even without full depression)
+    * Hours_of_Sleep (7.6): 0 (Adequate sleep)
+    * Employment (Student): 0 (Neutral, but can be a stressor)
+    * Socioeconomic_Status (Low): +1 (Associated with higher hospitalization rates due to various factors)
+
+3. Rationale: The primary driver of this score is the current diagnosis of schizophrenia, which significantly increases hospitalization risk. This is compounded by factors like low socioeconomic status, family history of cancer, and racial/gender disparities, despite positive indicators like young age and no smoking.

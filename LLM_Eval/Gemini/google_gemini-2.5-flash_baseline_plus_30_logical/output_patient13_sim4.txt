@@ -1,0 +1,15 @@
+1. 7.5
+
+2. *   Age (56): +0.5 (Increased risk with age, though not elderly)
+*   BMI (27.3): +0.5 (Overweight, contributing to health risks)
+*   Current_Diagnosis (Schizophrenia): +3.0 (Significant mental health condition requiring potential hospitalization)
+*   Smoking (Yes): +1.0 (Major health risk factor)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mental health condition, can exacerbate other issues)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of potential underlying health or mental health issues)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of potential underlying health or mental health issues)
+*   Hours_of_Sleep (6.0): +0.5 (Insufficient sleep, impacting overall health)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer health outcomes and access to care)
+*   Weekly_Alcohol_Intake (2): -0.5 (Moderate alcohol consumption, not a significant risk factor)
+*   Employment (Employed): -0.5 (Indicates some level of stability and access to resources)
+
+3. The hospitalization risk score is calculated by summing the positive contributions from identified health risk factors and mental health conditions, and subtracting minor negative contributions from protective factors. The primary drivers of this score are the severe mental health diagnosis, smoking, and low socioeconomic status, which are known to significantly increase the likelihood of hospitalization.

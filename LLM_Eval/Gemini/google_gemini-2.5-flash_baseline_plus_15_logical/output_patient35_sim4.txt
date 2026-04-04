@@ -1,0 +1,12 @@
+1. 3.0
+
+2. *   **Age (18):** +0.0 (No significant risk at this age for hospitalization based on general health models)
+*   **BMI (25.6):** +0.5 (Slightly overweight, contributing to a minor increase in risk)
+*   **Family_Health_History (Hypertension):** +0.5 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Bipolar):** +1.5 (Mental health conditions, especially bipolar disorder, are associated with increased hospitalization risk due to potential for acute episodes or comorbidity management)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate alcohol consumption, contributing to a minor increase in risk)
+*   **Hours_of_Sleep (5.7):** +0.5 (Insufficient sleep, a known factor for various health issues and increased risk)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits, contributing to a minor increase in risk)
+*   **All other factors:** +0.0 (No direct or significant causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the positive contributions of identified risk factors, where each factor's contribution is based on its established causal link to increased hospitalization likelihood. Factors with no direct or significant causal relationship to hospitalization risk are assigned a zero contribution.

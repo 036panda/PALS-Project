@@ -1,0 +1,27 @@
+1. 5.5
+
+2.
+* Age (46): +0.5 (Increased risk with age, but not yet in high-risk elderly category)
+* BMI (28.3): +0.5 (Overweight, but not obese)
+* Family_Health_History (Heart Disease): +1.0 (Genetic predisposition to a serious condition)
+* Current_Diagnosis (Bipolar): +2.0 (Mental health conditions can increase hospitalization risk due to potential for acute episodes, medication management, or co-occurring physical health issues)
+* Weekly_Alcohol_Intake (2): -0.2 (Moderate alcohol intake, potentially protective or neutral)
+* Smoking (No): -1.0 (Absence of a major risk factor)
+* HAM-D (0–6: Normal / No Depression): -1.0 (Absence of current depressive symptoms)
+* Loss_of_Interest (Yes): +0.5 (While HAM-D is normal, "loss of interest" can be a subtle indicator of underlying mental health vulnerability or stress)
+* Hours_of_Sleep (7.0): -0.5 (Adequate sleep, generally protective)
+* Employment (Employed): -0.5 (Associated with better access to healthcare and financial stability)
+* Socioeconomic_Status (Middle): -0.5 (Generally associated with better health outcomes than lower SES)
+* Likes_Vegetables (Yes): -0.5 (Indicates healthier dietary habits)
+* Exercises (No): +1.0 (Lack of exercise is a significant risk factor for numerous health conditions)
+* Skips_Breakfast (Yes): +0.2 (Minor negative dietary habit)
+* Orders_Takeout (Weekly): +0.5 (Frequent takeout can indicate less healthy eating habits)
+* Water_Intake_oz (44.8): -0.5 (Adequate hydration, generally protective)
+* Allergy (Pollen): +0.5 (Allergies can sometimes exacerbate respiratory issues or lead to complications requiring medical attention)
+* Binge_Watches_TV (Yes): +0.2 (Sedentary behavior, minor negative)
+* Can_Ride_Bicycle (No): +0.2 (May indicate lower physical activity or coordination)
+* Has_Drivers_License (No): +0.2 (May indicate reliance on public transport, which can expose individuals to more pathogens, or a lack of access to personal transport for healthcare)
+* Uses_Public_Transportation (Always): +0.2 (Increased exposure to pathogens)
+* Relationship_Status (Single): +0.5 (Lack of social support can be a risk factor for mental and physical health)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these factors and hospitalization likelihood. Factors related to chronic conditions, mental health, and lifestyle choices contribute positively, while protective factors like healthy habits and social support contribute negatively.

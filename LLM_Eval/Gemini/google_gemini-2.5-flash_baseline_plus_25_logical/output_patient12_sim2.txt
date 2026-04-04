@@ -1,0 +1,44 @@
+1. 7.5
+
+2. * Age: 90 (+2.0) - Advanced age is a significant risk factor for hospitalization.
+* BMI: 32.5 (+1.0) - Obesity (BMI > 30) increases health risks.
+* Family_Health_History: Hypertension (+0.5) - Genetic predisposition to chronic conditions.
+* Current_Diagnosis: Depression (0.0) - While depression can increase hospitalization risk, the HAM-D score indicates no current depressive symptoms, negating this factor's direct contribution.
+* Smoking: Yes (+2.0) - Smoking is a major contributor to numerous health issues requiring hospitalization.
+* Weekly_Alcohol_Intake: 4 (0.0) - Moderate alcohol intake (below 14 drinks/week for men, 7 for women) is generally not considered a significant risk factor.
+* HAM-D: 0–6: Normal / No Depression (-1.0) - Absence of depressive symptoms reduces mental health-related hospitalization risk.
+* Been_Sad_or_Fatigued: No (-0.5) - Lack of these symptoms indicates better current mental and physical well-being.
+* Loss_of_Interest: No (-0.5) - Further indication of good mental health.
+* Hours_of_Sleep: 7.4 (0.0) - Within healthy sleep range.
+* Employment: Retired (0.0) - Neutral, as it doesn't inherently increase or decrease hospitalization risk.
+* Socioeconomic_Status: Middle (0.0) - Neutral, as it doesn't inherently increase or decrease hospitalization risk.
+* Likes_Vegetables: No (+0.5) - Poor dietary habits can contribute to health issues.
+* Has_Drivers_License: No (+0.5) - May indicate reduced mobility or access to personal transportation for healthcare, especially at an advanced age.
+* Uses_Public_Transportation: Never (+0.5) - Combined with no driver's license, this suggests potential transportation barriers to healthcare access.
+* Donated_Blood: Yes (-0.5) - Suggests a generally healthier individual, as blood donation has health requirements.
+* Water_Intake_oz: 44.2 (0.0) - Adequate hydration.
+* Can_Ride_Bicycle: No (+0.5) - May indicate reduced physical activity or balance issues, especially at an advanced age.
+* Religious: Yes (0.0) - Neutral.
+* Race: Hispanic (0.0) - Neutral.
+* Gender: Non-binary (0.0) - Neutral.
+* Sexual_Orientation: Heterosexual (0.0) - Neutral.
+* Drinks_Coffee: Yes (0.0) - Neutral.
+* Favourite_Sport: Hockey (0.0) - Neutral.
+* Votes: Sometimes (0.0) - Neutral.
+* Picks_Up_Litter: Never (0.0) - Neutral.
+* Birthday_Month: March (0.0) - Neutral.
+* Bilingual: Yes (0.0) - Neutral.
+* Handedness: Right (0.0) - Neutral.
+* Likes_Kids: Yes (0.0) - Neutral.
+* Favourite_Meal: Dinner (0.0) - Neutral.
+* Favourite_Color: Green (0.0) - Neutral.
+* Recycling_Habits: Always (0.0) - Neutral.
+* Hair_Color: Black (0.0) - Neutral.
+* Best_Highschool_Subject: History (0.0) - Neutral.
+* Travels: Yes (0.0) - Neutral.
+* Relationship_Status: Dating (0.0) - Neutral.
+* Favourite_Music_Genre: Pop (0.0) - Neutral.
+* Phone: Apple (0.0) - Neutral.
+* Height_in_Inches: 71 (0.0) - Neutral, as BMI already accounts for height and weight.
+
+3. The risk score is calculated by summing the contributions of factors directly linked to health outcomes and healthcare access. Positive contributions are assigned to established risk factors like advanced age, obesity, smoking, and poor dietary habits, while negative contributions reflect protective factors or the absence of risk.

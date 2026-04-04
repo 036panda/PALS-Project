@@ -1,0 +1,14 @@
+1. 6
+
+2. *   Current_Diagnosis: Schizophrenia: +3 (Directly increases hospitalization risk due to the nature of the condition)
+*   BMI: 29.7 (Overweight): +1 (Increases risk of various health complications)
+*   Socioeconomic_Status: Low: +1 (Associated with poorer health outcomes and access to care)
+*   HAM-D: 7–17: Mild Depression: +1 (Mental health conditions can exacerbate other health issues or lead to hospitalization)
+*   Allergy: Gluten: +0.5 (Can lead to health complications if not managed, potentially requiring hospitalization)
+*   Exercises: No: +0.5 (Lack of exercise contributes to poor health)
+*   Smoking: No: -1 (Reduces risk of numerous health problems)
+*   Weekly_Alcohol_Intake: 4 (Moderate): -0.5 (Moderate alcohol intake is not a significant risk factor for hospitalization)
+*   Hours_of_Sleep: 7.1 (Adequate): -0.5 (Good sleep promotes overall health)
+*   Employment: Employed: -0.5 (Provides stability and access to resources)
+
+3. The risk score is calculated by summing the positive contributions from factors directly increasing hospitalization risk (e.g., schizophrenia, low socioeconomic status, overweight BMI) and subtracting negative contributions from protective factors (e.g., not smoking, adequate sleep). Each contribution reflects a direct causal link to increased or decreased likelihood of hospitalization based on established health and social determinants.

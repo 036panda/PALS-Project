@@ -1,0 +1,24 @@
+1. 6.0
+
+2. *   **Age (74):** +3.0 (Increased age is a significant risk factor for hospitalization.)
+*   **BMI (29.4):** +1.0 (BMI in the overweight category increases risk.)
+*   **Family_Health_History (Cancer):** +1.0 (Family history of cancer suggests a genetic predisposition to health issues.)
+*   **Current_Diagnosis (nan):** +0.0 (No current diagnosis, neutral contribution.)
+*   **Race (White):** +0.0 (Neutral contribution in this model.)
+*   **Gender (Male):** +0.0 (Neutral contribution in this model.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Neutral contribution in this model.)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate alcohol intake, neutral contribution.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depression reduces risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms reduces risk.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of this symptom reduces risk.)
+*   **Hours_of_Sleep (7.0):** +0.0 (Adequate sleep, neutral contribution.)
+*   **Employment (Retired):** +0.0 (Neutral contribution in this model.)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral contribution in this model.)
+*   **Drinks_Coffee (No):** +0.0 (Neutral contribution in this model.)
+*   **Likes_Vegetables (Yes):** -1.0 (Positive dietary habit reduces risk.)
+*   **Favourite_Sport (Hockey):** +0.0 (Neutral contribution in this model.)
+*   **Votes (Never):** +0.0 (Neutral contribution in this model.)
+*   **Height_in_Inches (58):** +2.0 (Short stature can be associated with certain health risks.)
+
+3. The risk score is calculated by summing the contributions of individual health and lifestyle factors, where positive values indicate increased risk and negative values indicate reduced risk. This approach directly reflects the causal impact of each factor on the likelihood of hospitalization.

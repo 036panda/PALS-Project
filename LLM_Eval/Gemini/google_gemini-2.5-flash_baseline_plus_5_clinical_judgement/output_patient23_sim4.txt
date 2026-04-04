@@ -1,0 +1,27 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed Breakdown:
+
+*   **Patient_ID: 23** (No impact on risk)
+*   **Age: 56** (-0.5) - While older age can increase risk for some conditions, for schizophrenia, the peak age of onset is typically earlier. At 56, the patient is likely managing a chronic condition, and this age itself doesn't inherently increase acute hospitalization risk unless there are new complications.
+*   **BMI: 31.1 (Obese Class I)** (+0.5) - Obesity is a known comorbidity with schizophrenia, increasing the risk of various physical health issues (e.g., cardiovascular disease, diabetes) which can necessitate hospitalization.
+*   **Family_Health_History: Asthma** (No impact on risk) - While asthma is a chronic condition, it's not directly linked to acute psychiatric hospitalization risk for schizophrenia.
+*   **Current_Diagnosis: Schizophrenia** (+5.0) - This is the primary driver of risk. Schizophrenia inherently carries a significant risk of hospitalization due to potential for acute psychotic episodes, medication non-adherence, or exacerbation of symptoms requiring inpatient stabilization.
+*   **Race: Black** (+0.5) - Systemic inequities in healthcare access and quality for Black individuals can lead to delayed or inadequate care, potentially increasing the likelihood of hospitalization when care is eventually sought.
+*   **Gender: Other** (No impact on risk) - No direct impact on hospitalization risk for schizophrenia.
+*   **Sexual_Orientation: Heterosexual** (No impact on risk) - No direct impact on hospitalization risk for schizophrenia.
+*   **Weekly_Alcohol_Intake: 0** (-0.5) - Absence of alcohol use is a protective factor, reducing the risk of substance-induced psychosis or complications that could lead to hospitalization.
+*   **Smoking: No** (-0.5) - Absence of smoking is a protective factor, reducing the risk of respiratory and cardiovascular complications common in individuals with schizophrenia.
+*   **HAM-D: 0–6: Normal / No Depression** (-1.0) - The absence of depression, as indicated by a normal HAM-D score, is a significant protective factor, as co-occurring depression can worsen schizophrenia symptoms and increase suicide risk, both leading to hospitalization.
+*   **Been_Sad_or_Fatigued: No** (-0.5) - Absence of these symptoms suggests better overall mood stability, reducing the likelihood of a depressive episode or exacerbation of negative symptoms that might require hospitalization.
+*   **Loss_of_Interest: Yes** (+1.0) - While HAM-D is normal, "loss of interest" (anhedonia) is a core negative symptom of schizophrenia. Its presence suggests ongoing symptom burden, which can contribute to functional decline and potentially increase the risk of needing inpatient support.
+*   **Hours_of_Sleep: 8.0** (-0.5) - Adequate sleep is a protective factor, indicating good sleep hygiene and potentially better symptom management, reducing the risk of sleep deprivation-induced psychosis or exacerbation.
+*   **Employment: Employed** (-1.0) - Employment is a strong protective factor, indicating better functional status, social integration, and potentially better adherence to treatment, all of which reduce hospitalization risk.
+*   **Socioeconomic_Status: Middle** (-0.5) - Middle socioeconomic status generally implies better access to resources, stable housing, and support systems, which are protective against hospitalization.
+*   **Drinks_Coffee: No** (No impact on risk)
+*   **Likes_Vegetables: No** (No impact on risk)
+*   **Favourite_Sport: Basketball** (No impact on risk)
+*   **Votes: Never** (No impact on risk)
+*   **Height_in_Inches: 63** (No impact on risk)
+
+3. Clinical Rationale: This patient, diagnosed with schizophrenia, carries an inherent high risk for hospitalization, further elevated by the presence of obesity and reported loss of interest, a negative symptom. However, several significant protective factors, including stable employment, middle socioeconomic status, absence of substance use, adequate sleep, and a lack of depressive symptoms, mitigate this risk, suggesting a relatively stable presentation despite the chronic diagnosis.

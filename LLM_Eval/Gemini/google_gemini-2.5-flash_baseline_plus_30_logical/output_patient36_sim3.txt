@@ -1,0 +1,16 @@
+1. 8.5
+
+2. *   **Age (68):** +1.5 (Increased risk with advanced age)
+*   **BMI (29.7):** +0.5 (Approaching obesity, indicating potential health issues)
+*   **Family_Health_History (Hypertension):** +0.5 (Genetic predisposition to cardiovascular issues)
+*   **Current_Diagnosis (Schizophrenia):** +2.0 (Significant chronic mental health condition requiring potential hospitalization)
+*   **Weekly_Alcohol_Intake (3):** +0.0 (Moderate intake, no significant direct contribution)
+*   **Smoking (Yes):** +1.5 (Major risk factor for numerous health complications)
+*   **HAM-D (25+: Severe Depression):** +1.5 (Severe mental health condition, high risk of hospitalization)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of depression, reinforcing risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, reinforcing risk)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer health outcomes and access to care)
+*   **Likes_Vegetables (No):** +0.5 (Indicates potentially poor dietary habits)
+*   **Allergy (Animal Dander):** -0.5 (Minor, manageable allergy, slight negative contribution as it's not a severe, systemic allergy)
+
+3. The risk score is derived by summing the positive contributions from significant health risk factors (age, BMI, family history, current diagnoses, smoking, severe depression, and socioeconomic status) and symptoms of depression, with a minor negative adjustment for a manageable allergy. Each contribution reflects a direct causal link to increased hospitalization likelihood.

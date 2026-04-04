@@ -1,0 +1,16 @@
+7
+
+*   Age (61): +2 (Increased age is a significant risk factor for hospitalization)
+*   BMI (25.8): +0.5 (Slightly overweight, contributing to minor increased risk)
+*   Family_Health_History (Asthma): +1 (Genetic predisposition to respiratory issues increases hospitalization risk)
+*   Hours_of_Sleep (5.4): +1 (Insufficient sleep is linked to weakened immune function and increased health risks)
+*   Socioeconomic_Status (High): -0.5 (Higher socioeconomic status generally correlates with better access to healthcare and healthier lifestyles, reducing risk)
+*   Smoking (No): -1 (Absence of smoking significantly reduces risk)
+*   Exercises (Yes): -1 (Regular exercise improves overall health and reduces hospitalization risk)
+*   Allergy (Dust): +1 (Allergies can exacerbate respiratory conditions, increasing hospitalization risk)
+*   Skips_Breakfast (Yes): +1 (Skipping meals can negatively impact metabolism and overall health)
+*   Water_Intake_oz (46.1): +0.5 (Slightly below recommended intake, contributing to minor dehydration risk)
+*   HAM-D (7–17: Mild Depression): +1 (Mental health conditions can impact physical health and adherence to treatment, increasing risk)
+*   Relationship_Status (Single): +0.5 (Lack of social support can sometimes negatively impact health outcomes)
+
+The risk score is calculated by summing the individual contributions of factors known to causally influence hospitalization risk, such as age, pre-existing conditions, lifestyle choices, and mental health, while subtracting contributions from protective factors. Each factor's contribution is weighted based on its established impact on health and hospitalization likelihood.

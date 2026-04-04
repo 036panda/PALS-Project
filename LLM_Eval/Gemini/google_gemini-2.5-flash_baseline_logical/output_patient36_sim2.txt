@@ -1,0 +1,19 @@
+1. 8.5
+
+2. *   Age (68): +1.0 (Increased risk with advanced age)
+*   BMI (29.7): +0.5 (Elevated BMI, approaching overweight/obese category)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis (Schizophrenia): +1.5 (Significant chronic mental health condition with systemic health implications)
+*   Weekly_Alcohol_Intake (3): +0.0 (Moderate intake, not a significant direct contributor to increased risk)
+*   Smoking (Yes): +2.0 (Major modifiable risk factor for numerous health complications)
+*   HAM-D (25+: Severe Depression): +1.5 (Severe mental health condition impacting overall well-being and adherence to care)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of underlying health issues or mental distress)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of underlying health issues or mental distress)
+*   Hours_of_Sleep (7.7): +0.0 (Adequate sleep duration)
+*   Employment (Retired): +0.0 (Neutral factor in this context)
+*   Socioeconomic_Status (Low): +0.5 (Associated with poorer health outcomes due to limited access to resources and care)
+*   Race (Hispanic): +0.0 (Neutral factor in this context without specific health disparities data)
+*   Gender (Other): +0.0 (Neutral factor in this context)
+*   Sexual_Orientation (Bisexual): +0.0 (Neutral factor in this context)
+
+3. The risk score is calculated by summing the positive contributions of identified risk factors, where each factor's contribution is weighted based on its established causal link to increased hospitalization risk. Factors such as advanced age, smoking, severe mental health conditions (schizophrenia, severe depression), and low socioeconomic status are assigned higher positive contributions due to their strong and direct causal impact on health and healthcare utilization.

@@ -1,0 +1,16 @@
+1. 2.5
+
+2. *   Age (38): +0.5 (Slightly elevated risk compared to younger adults, but not elderly)
+*   BMI (21.8): -0.5 (Healthy weight, protective factor)
+*   Family_Health_History (Asthma): +1.0 (Genetic predisposition to respiratory issues, increasing hospitalization risk)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical symptoms or lead to health-seeking behaviors, increasing hospitalization likelihood)
+*   Weekly_Alcohol_Intake (2): -0.2 (Low intake, protective factor)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Good mental health, protective factor)
+*   Hours_of_Sleep (6.3): +0.3 (Slightly below optimal, can impact immune function and overall health)
+*   Socioeconomic_Status (High): -0.5 (Access to better healthcare, nutrition, and living conditions, protective factor)
+*   Allergy (Penicillin): +0.4 (Indicates a known adverse reaction, which could complicate medical treatment if hospitalization is needed for other reasons)
+*   Binge_Watches_TV (Yes): +0.5 (Associated with sedentary lifestyle, which can contribute to various health issues)
+*   Other factors (Patient_ID, Race, Gender, Sexual_Orientation, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Favourite_Super_Store): 0.0 (No direct causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as family history of disease, current diagnoses, and lifestyle choices. Protective factors like healthy BMI and absence of smoking reduce the score, while risk factors like family history of asthma and anxiety increase it.

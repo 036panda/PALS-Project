@@ -1,0 +1,13 @@
+7
+
+*   **Current_Diagnosis: Schizophrenia:** +5 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   **BMI: 25.1:** +0.5 (Slightly overweight, which can contribute to various health issues, but not a major direct hospitalization risk.)
+*   **Weekly_Alcohol_Intake: 4:** +0.5 (Moderate alcohol intake, while not immediately critical, can exacerbate mental health conditions or lead to other health problems over time.)
+*   **HAM-D: 7–17: Mild Depression:** +1 (Mild depression, especially when co-occurring with schizophrenia, increases the likelihood of symptom exacerbation and potential need for more intensive care.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (These symptoms are indicative of ongoing mental health distress, which can escalate and necessitate hospitalization.)
+*   **Socioeconomic_Status: Middle:** -0.5 (Middle socioeconomic status generally implies better access to resources and support, potentially reducing hospitalization risk compared to lower statuses.)
+*   **Hours_of_Sleep: 10.3:** -0.5 (Adequate to high sleep duration can be protective for mental and physical health, reducing the likelihood of acute crises.)
+*   **Employment: Employed:** -0.5 (Employment often provides structure, financial stability, and social connection, which are protective factors against hospitalization.)
+*   **Exercises: No:** +0.5 (Lack of exercise can negatively impact both physical and mental health, potentially increasing the need for medical intervention.)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, particularly focusing on the severe mental health diagnosis and its associated symptoms, while also considering mitigating and exacerbating lifestyle factors.

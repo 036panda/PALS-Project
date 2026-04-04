@@ -1,0 +1,20 @@
+1. 6
+
+2. *   **Age (40):** +0.5 (Increased risk with age, but 40 is not elderly)
+*   **BMI (16.7):** +1.0 (Underweight, indicating potential nutritional deficiencies or underlying health issues)
+*   **Family_Health_History (Hypertension):** +0.5 (Genetic predisposition to cardiovascular issues)
+*   **Current_Diagnosis (Depression):** +1.5 (Directly impacts mental health and can lead to physical health neglect)
+*   **Weekly_Alcohol_Intake (3):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (Yes):** +1.5 (Major risk factor for numerous health conditions)
+*   **HAM-D (18–24: Moderate Depression):** +1.0 (Confirms and quantifies the severity of depression, increasing risk)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of depression, indicating ongoing distress)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential self-neglect)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer access to healthcare, nutrition, and higher stress)
+*   **Likes_Vegetables (No):** +0.5 (Indicates potentially poor dietary habits)
+*   **Has_Drivers_License (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Uses_Public_Transportation (Sometimes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Water_Intake_oz (44.9):** +0.0 (Adequate, not a risk factor)
+*   **Can_Ride_Bicycle (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **All other factors (Patient_ID, Race, Gender, Sexual_Orientation, Hours_of_Sleep, Employment, Drinks_Coffee, Favourite_Sport, Votes, Height_in_Inches, Picks_Up_Litter, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Religious, Phone):** +0.0 (No direct or established causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to health outcomes and healthcare utilization. Factors like underweight BMI, smoking, diagnosed depression with moderate severity, and low socioeconomic status are assigned positive contributions due to their established negative impact on health and increased likelihood of requiring hospitalization.

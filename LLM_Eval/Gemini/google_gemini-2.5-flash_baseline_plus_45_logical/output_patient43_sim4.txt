@@ -1,0 +1,17 @@
+1. 4.0
+
+2. *   Age (20): +0.5 (Younger age generally correlates with lower hospitalization risk, but not zero, as acute events can occur. A slight positive contribution acknowledges this baseline risk.)
+*   BMI (21.0): +0.0 (Normal BMI, no direct contribution to increased risk.)
+*   Family_Health_History (Cancer): +0.5 (Genetic predisposition to certain conditions can increase long-term health risks, potentially leading to hospitalization.)
+*   Current_Diagnosis (Bipolar): +2.0 (Mental health conditions, especially bipolar disorder, are associated with higher rates of hospitalization due to acute episodes, medication management, or co-occurring physical health issues.)
+*   Weekly_Alcohol_Intake (0): -0.5 (No alcohol intake is a protective factor against alcohol-related health issues that could lead to hospitalization.)
+*   Smoking (No): -0.5 (Not smoking is a protective factor against numerous smoking-related diseases that often require hospitalization.)
+*   HAM-D (7–17: Mild Depression): +0.5 (While mild, depression can exacerbate existing conditions or lead to behaviors that increase hospitalization risk.)
+*   Hours_of_Sleep (5.7): +0.5 (Insufficient sleep is linked to various health problems, including weakened immune function and increased risk of chronic diseases, potentially leading to hospitalization.)
+*   Socioeconomic_Status (Low): +1.0 (Lower socioeconomic status is a significant risk factor for poorer health outcomes, reduced access to care, and higher hospitalization rates.)
+*   Allergy (Pollen): +0.0 (Common allergy, generally manageable and not a direct cause of hospitalization unless severe and uncontrolled, which is not indicated.)
+*   Skips_Breakfast (Yes): +0.0 (While not ideal for health, skipping breakfast is not a direct, strong causal factor for hospitalization.)
+*   Exercises (Yes): -0.5 (Regular exercise is a protective factor against many chronic diseases that can lead to hospitalization.)
+*   Helps_Elderly (Always): +0.0 (Prosocial behavior, no direct causal link to hospitalization risk.)
+
+3. The risk score is calculated by summing the contributions of factors causally linked to hospitalization risk, with positive values for risk-increasing factors and negative values for protective factors. The primary drivers of this individual's score are their current diagnosis of bipolar disorder and low socioeconomic status, which are well-established predictors of increased hospitalization.

@@ -1,0 +1,17 @@
+1. 6.5
+
+2. * Age (62): +1.0 (Increased risk with age)
+* BMI (33.4): +1.5 (Obesity increases risk)
+* Current_Diagnosis (Depression): +1.5 (Mental health conditions can increase hospitalization risk)
+* Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, contributing to overall health concern)
+* Loss_of_Interest (Yes): +0.5 (Symptom of depression, contributing to overall health concern)
+* Socioeconomic_Status (Low): +1.0 (Lower socioeconomic status often correlates with poorer health outcomes and access to care)
+* Allergy (Shellfish): +0.5 (Potential for severe allergic reaction requiring hospitalization)
+* Weekly_Alcohol_Intake (1): -0.2 (Moderate alcohol intake, not a significant risk factor)
+* Smoking (No): -0.5 (Absence of a major risk factor)
+* Likes_Vegetables (Yes): -0.3 (Indicates healthier dietary habits)
+* Water_Intake_oz (44.6): -0.2 (Adequate hydration)
+* Has_Drivers_License (No): +0.2 (May indicate limited access to personal transportation for routine medical care, potentially leading to delayed treatment)
+* Uses_Public_Transportation (Always): +0.1 (Reliance on public transport can expose individuals to more pathogens, though this is a minor factor)
+
+3. The hospitalization risk score is calculated by summing the individual contributions of various health, lifestyle, and socioeconomic factors. Positive contributions are assigned to factors known to increase hospitalization risk (e.g., age, obesity, depression, low socioeconomic status, allergies), while negative contributions are assigned to protective factors (e.g., no smoking, healthy diet, adequate hydration).

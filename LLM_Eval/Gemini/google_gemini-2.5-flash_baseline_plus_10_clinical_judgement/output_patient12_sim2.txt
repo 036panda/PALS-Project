@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed Breakdown of Attribute Impact:
+
+*   **Age (90):** +4 (Advanced age significantly increases the risk of hospitalization due to general frailty, increased likelihood of acute illness, and slower recovery.)
+*   **BMI (32.5):** +1 (Obesity (BMI > 30) is a risk factor for various health complications, including cardiovascular disease, diabetes, and mobility issues, which can lead to hospitalization.)
+*   **Family_Health_History (Hypertension):** +0.5 (While not a direct personal diagnosis, a family history of hypertension suggests a genetic predisposition to cardiovascular issues, which can increase future health risks.)
+*   **Current_Diagnosis (Depression):** +0 (The HAM-D score indicates no current depression, negating the impact of this historical diagnosis on immediate hospitalization risk.)
+*   **Race (Hispanic):** +0 (No direct impact on hospitalization risk in this context.)
+*   **Gender (Non-binary):** +0 (No direct impact on hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (4):** +0 (Moderate alcohol intake, within recommended limits, does not significantly increase hospitalization risk.)
+*   **Smoking (Yes):** +2 (Active smoking is a major risk factor for numerous chronic diseases, including respiratory, cardiovascular, and oncological conditions, significantly increasing the likelihood of hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Indicates good mental health, which is a protective factor against hospitalization.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms suggests good general well-being and lower immediate health concerns.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of anhedonia further supports good mental and emotional health.)
+*   **Hours_of_Sleep (7.4):** -0.5 (Adequate sleep is a protective factor for overall health and well-being.)
+*   **Employment (Retired):** +0 (Neutral impact; while retirement can sometimes be associated with reduced activity, it doesn't inherently increase hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** +0 (Neutral impact; generally associated with access to healthcare, but not a direct risk factor for hospitalization in this context.)
+*   **Drinks_Coffee (Yes):** +0 (Neutral impact.)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits can contribute to various health issues over time, increasing long-term risk.)
+*   **Favourite_Sport (Hockey):** +0 (Neutral impact.)
+*   **Votes (Sometimes):** +0 (Neutral impact.)
+*   **Height_in_Inches (71):** +0 (Neutral impact.)
+*   **Has_Drivers_License (No):** +0 (Neutral impact.)
+*   **Picks_Up_Litter (Never):** +0 (Neutral impact.)
+*   **Uses_Public_Transportation (Never):** +0 (Neutral impact.)
+*   **Donated_Blood (Yes):** -0.5 (Suggests a generally healthy individual who meets donation criteria, indicating good underlying health.)
+*   **Birthday_Month (March):** +0 (Neutral impact.)
+
+3. Clinical Rationale: This 90-year-old non-binary individual presents with significant risk factors for hospitalization, primarily due to advanced age and active smoking, compounded by obesity. While their mental health appears stable and sleep adequate, the cumulative burden of age-related frailty and chronic health risks associated with smoking and BMI warrants a moderate to high concern for potential hospitalization.

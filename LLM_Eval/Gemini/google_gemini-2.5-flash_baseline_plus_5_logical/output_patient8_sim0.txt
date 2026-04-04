@@ -1,0 +1,24 @@
+1. 4.0
+
+2. *   **Age (29):** +0.0 (No significant risk increase for young adults)
+*   **BMI (25.9):** +0.0 (Within healthy range)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can increase hospitalization risk)
+*   **Race (Asian):** +0.0 (No direct causal link to increased hospitalization risk in this context)
+*   **Gender (Male):** +0.0 (No direct causal link to increased hospitalization risk in this context)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to increased hospitalization risk)
+*   **Weekly_Alcohol_Intake (5 units):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of clinical depression, a protective factor)
+*   **Been_Sad_or_Fatigued (Yes):** +1.0 (Indicates potential underlying health issues or stress)
+*   **Loss_of_Interest (Yes):** +1.0 (Indicates potential underlying health issues or stress)
+*   **Hours_of_Sleep (3.7):** +2.0 (Severely inadequate sleep is a significant health risk factor)
+*   **Employment (Employed):** -0.0 (Neutral, but generally associated with better health outcomes)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, but generally associated with better health outcomes than lower SES)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -0.0 (Positive health behavior, but not directly quantifiable for hospitalization risk without more data)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Sometimes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (60):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors directly linked to health outcomes and potential need for medical intervention. Positive contributions arise from existing health concerns (Anxiety, fatigue, loss of interest) and significant lifestyle risks (severe sleep deprivation), while negative contributions reflect the absence of major risk factors (no smoking, no clinical depression).

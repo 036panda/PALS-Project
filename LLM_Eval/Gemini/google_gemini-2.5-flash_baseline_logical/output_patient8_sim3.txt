@@ -1,0 +1,19 @@
+5
+
+*   Age (29): +0 (No significant direct causal link to increased hospitalization risk at this age, assuming no other comorbidities)
+*   BMI (25.9): +0 (Normal weight, no direct causal link to increased hospitalization risk)
+*   Family_Health_History (nan): +0 (Missing data, no direct causal contribution)
+*   Current_Diagnosis (Anxiety): +2 (Anxiety can lead to physical symptoms, increased healthcare utilization, and in severe cases, hospitalization for crisis management or exacerbation of other conditions.)
+*   Race (Asian): +0 (No direct causal link to increased hospitalization risk based on race alone)
+*   Gender (Male): +0 (No direct causal link to increased hospitalization risk based on gender alone)
+*   Sexual_Orientation (Heterosexual): +0 (No direct causal link to increased hospitalization risk based on sexual orientation alone)
+*   Weekly_Alcohol_Intake (5 units): +0 (Moderate intake, no direct causal link to increased hospitalization risk)
+*   Smoking (No): -1 (Absence of smoking reduces risk, as smoking is a known contributor to numerous health issues requiring hospitalization.)
+*   HAM-D (0–6: Normal / No Depression): -1 (Absence of depression reduces risk, as depression can exacerbate physical conditions and lead to increased healthcare needs.)
+*   Been_Sad_or_Fatigued (Yes): +2 (Persistent sadness/fatigue, especially when not explained by a medical condition, can indicate underlying health issues or mental health distress that may escalate to require hospitalization.)
+*   Loss_of_Interest (Yes): +2 (Anhedonia, or loss of interest, is a significant symptom of mental health distress, potentially indicating a worsening condition that could necessitate hospitalization for intervention.)
+*   Hours_of_Sleep (3.7): +1 (Chronic severe sleep deprivation is detrimental to physical and mental health, increasing susceptibility to illness and exacerbating existing conditions, potentially leading to hospitalization.)
+*   Employment (Employed): -1 (Employment often correlates with better access to healthcare, financial stability, and social support, which can reduce the likelihood of severe health crises requiring hospitalization.)
+*   Socioeconomic_Status (Middle): +0 (Middle socioeconomic status generally implies adequate access to resources, not directly increasing or decreasing hospitalization risk in isolation.)
+
+The risk score is calculated by summing the positive contributions from current mental health symptoms (Anxiety, Sadness/Fatigue, Loss of Interest) and severe sleep deprivation, while subtracting the negative contributions from the absence of smoking and depression, and the presence of employment, reflecting their direct causal impact on hospitalization likelihood.

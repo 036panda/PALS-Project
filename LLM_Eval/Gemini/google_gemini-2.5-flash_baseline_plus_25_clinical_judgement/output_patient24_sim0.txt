@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (52):** +0.5 (Increased age generally correlates with higher risk of hospitalization, though 52 is not elderly, it's past young adulthood.)
+*   **BMI (16.4):** +2.0 (Severely underweight, indicating potential malnutrition or underlying health issues, significantly increases hospitalization risk.)
+*   **Family_Health_History (Cancer):** +0.5 (While not directly impacting current hospitalization for bipolar, a family history of serious illness can indicate a genetic predisposition to health vulnerabilities.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Bipolar disorder is a significant mental health condition that often requires hospitalization for acute episodes or medication management.)
+*   **Weekly_Alcohol_Intake (7):** +0.5 (Moderate alcohol intake, while not excessive, can interact with medications or exacerbate mental health symptoms.)
+*   **Smoking (Yes):** +1.0 (Smoking is a major risk factor for numerous health problems, increasing the likelihood of hospitalization for various conditions.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (While mild, depression can worsen bipolar symptoms or indicate a need for closer monitoring.)
+*   **Loss_of_Interest (Yes):** +0.5 (A symptom of depression, indicating potential worsening of mental health and a need for intervention.)
+*   **Hours_of_Sleep (4.8):** +1.0 (Significantly low sleep, a common trigger for manic or depressive episodes in bipolar disorder, greatly increases hospitalization risk.)
+*   **Employment (Employed):** -0.5 (Employment can be a protective factor, indicating some level of stability and functioning.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to healthcare and resources, reducing risk.)
+*   **Likes_Vegetables (Yes):** -0.2 (Indicates a potentially healthier diet, a minor positive impact.)
+*   **Water_Intake_oz (43.7):** -0.3 (Adequate hydration is a minor positive health indicator.)
+*   **Donated_Blood (Yes):** -0.2 (Suggests a generally healthy individual who is able to donate blood, a minor positive indicator.)
+
+3. Clinical Rationale: This individual presents with several significant risk factors for hospitalization, primarily driven by severe underweight (BMI 16.4), poorly managed bipolar disorder with symptoms of depression and severe sleep deprivation, and active smoking, which collectively elevate the need for potential acute medical or psychiatric intervention.

@@ -1,0 +1,24 @@
+1. 2.5
+
+2. *   Age (22): +0.5 (Younger age generally correlates with lower hospitalization risk, but not zero, reflecting general health risks)
+*   BMI (21.9): +0.0 (Healthy BMI range)
+*   Family_Health_History (Cancer): +1.0 (Increased genetic predisposition to certain health issues, potentially requiring hospitalization)
+*   Current_Diagnosis (nan): +0.0 (No current acute diagnosis, so no immediate risk from this factor)
+*   Race (White): +0.0 (No direct causal link to hospitalization risk in this context without further information)
+*   Gender (Non-binary): +0.0 (No direct causal link to hospitalization risk)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (3): +0.0 (Moderate intake, not typically associated with increased hospitalization risk)
+*   Smoking (No): -0.5 (Absence of a major risk factor for numerous health conditions requiring hospitalization)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mental health conditions, even mild, can sometimes necessitate hospitalization or lead to behaviors that increase physical health risks)
+*   Been_Sad_or_Fatigued (No): +0.0 (Absence of these symptoms, which could indicate underlying issues)
+*   Loss_of_Interest (No): +0.0 (Absence of this symptom, which could indicate underlying issues)
+*   Hours_of_Sleep (9.6): -0.5 (Adequate to high sleep duration, generally protective against health issues)
+*   Employment (Employed): +0.0 (Indicates a degree of stability and access to resources, but not a direct health risk factor)
+*   Socioeconomic_Status (Middle): +0.0 (Generally associated with better access to healthcare, but not a direct health risk factor)
+*   Drinks_Coffee (No): +0.0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (Yes): -0.5 (Positive dietary habit, contributing to overall health and lower risk)
+*   Favourite_Sport (Soccer): +0.0 (No direct causal link to hospitalization risk)
+*   Votes (Always): +0.0 (No direct causal link to hospitalization risk)
+*   Height_in_Inches (69): +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing contributions from factors known to causally influence hospitalization risk, such as family health history and mental health status, while subtracting contributions from protective factors like not smoking and healthy lifestyle choices. Factors with no direct or established causal link to hospitalization risk are assigned a neutral contribution.

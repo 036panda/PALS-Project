@@ -1,0 +1,19 @@
+7
+
+*   **Age (26):** +0.5 (Slightly elevated risk due to being in young adulthood, a period where some mental health conditions may manifest or worsen, but not a primary driver of hospitalization risk at this age.)
+*   **BMI (29.1):** +1.0 (Overweight, which can contribute to various health complications and may exacerbate existing conditions, increasing hospitalization risk.)
+*   **Family_Health_History (Diabetes):** +0.5 (Indicates a genetic predisposition to chronic health issues, which can indirectly increase overall health vulnerability.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (A significant mental health condition known for episodes requiring hospitalization for stabilization and management.)
+*   **Race (Other):** +0.0 (No direct causal link to hospitalization risk without further context.)
+*   **Gender (Non-binary):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk.)
+*   **Weekly_Alcohol_Intake (3):** +0.0 (Moderate intake, not a significant risk factor for hospitalization.)
+*   **Smoking (No):** -0.5 (Absence of smoking reduces risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Indicates current absence of depressive symptoms, which reduces immediate mental health hospitalization risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +1.0 (Despite HAM-D, self-reported sadness/fatigue suggests underlying distress or symptom burden that could escalate.)
+*   **Loss_of_Interest (Yes):** +1.0 (Similar to sadness/fatigue, indicates potential for worsening mental health, even if not meeting full depressive criteria.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below optimal, which can negatively impact physical and mental health, increasing vulnerability.)
+*   **Employment (Employed):** -0.5 (Provides structure, financial stability, and social engagement, generally reducing mental health crisis risk.)
+*   **Socioeconomic_Status (Low):** +1.5 (Associated with reduced access to healthcare, higher stress levels, and poorer health outcomes, significantly increasing hospitalization risk.)
+
+The risk score is derived from the direct and indirect causal impacts of the individual's current diagnosis, mental health symptoms, and socioeconomic factors, which are known drivers of hospitalization. Mitigating factors like employment and absence of smoking partially offset these risks.

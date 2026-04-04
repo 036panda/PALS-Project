@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   Age: 53 (+0.5) - Increased age is a known risk factor for hospitalization due to general health decline and increased likelihood of comorbidities.
+*   BMI: 25.3 (0.0) - Within healthy range, no direct contribution.
+*   Family_Health_History: Asthma (+0.5) - Genetic predisposition to respiratory issues can increase hospitalization risk, especially if triggered.
+*   Current_Diagnosis: Depression (+1.0) - Mental health conditions, particularly depression, are associated with poorer physical health outcomes and increased healthcare utilization, including hospitalization.
+*   Race: Black (+0.5) - Systemic health disparities and socioeconomic factors often lead to higher hospitalization rates for certain racial groups.
+*   Gender: Male (0.0) - No direct contribution in this context.
+*   Sexual_Orientation: Heterosexual (0.0) - No direct contribution.
+*   Weekly_Alcohol_Intake: 4 (0.0) - Moderate intake, not a significant risk factor.
+*   Smoking: No (0.0) - Absence of a major risk factor.
+*   HAM-D: 18–24: Moderate Depression (+1.0) - Quantifies the severity of depression, directly contributing to the risk associated with the diagnosis.
+*   Been_Sad_or_Fatigued: No (0.0) - Absence of these specific symptoms does not increase risk.
+*   Loss_of_Interest: No (0.0) - Absence of this specific symptom does not increase risk.
+*   Hours_of_Sleep: 5.7 (+1.0) - Chronic sleep deprivation (less than 7 hours) is linked to various health problems and increased hospitalization risk.
+*   Employment: Employed (0.0) - Generally a protective factor, but not directly reducing risk in this model.
+*   Socioeconomic_Status: Middle (0.0) - Neither a significant risk nor protective factor in this model.
+
+3. The risk score is calculated by summing the positive contributions of individual factors known to increase hospitalization risk, such as age, family history of chronic conditions, diagnosed mental health conditions and their severity, and lifestyle factors like insufficient sleep, reflecting their causal impact on health outcomes and healthcare utilization.

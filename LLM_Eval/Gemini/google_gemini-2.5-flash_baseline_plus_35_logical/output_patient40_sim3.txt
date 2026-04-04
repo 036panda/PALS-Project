@@ -1,0 +1,20 @@
+7
+
+*   **Age (26):** +0.5 (Younger age generally correlates with lower hospitalization risk, but not zero, as acute events can occur.)
+*   **BMI (29.1):** +1.0 (BMI in the overweight category increases risk for various health complications.)
+*   **Family_Health_History (Diabetes):** +1.0 (Genetic predisposition to chronic conditions like diabetes increases overall health risk.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Mental health conditions, especially bipolar disorder, are associated with higher rates of hospitalization due to acute episodes or comorbidities.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptoms of sadness/fatigue can indicate underlying health issues or worsening mental health, increasing risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, loss of interest can be a symptom of mental or physical health decline.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Insufficient sleep (below 7-9 hours) is linked to various health problems and weakened immune function.)
+*   **Socioeconomic_Status (Low):** +1.0 (Lower socioeconomic status is a significant predictor of poorer health outcomes and higher hospitalization rates due to limited access to care, nutrition, and stressful living conditions.)
+*   **Allergy (Milk/Eggs):** +0.5 (Food allergies, even if managed, carry a risk of accidental exposure and severe reactions requiring hospitalization.)
+*   **Skips_Breakfast (Yes):** +0.5 (Skipping meals, especially breakfast, can negatively impact metabolism, energy levels, and overall health.)
+*   **Weekly_Alcohol_Intake (3):** -0.5 (Moderate alcohol intake, within recommended limits, is not typically a significant risk factor and may even have minor protective effects for some conditions, though this is not a strong negative contributor.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk for numerous chronic diseases.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of clinical depression, as indicated by a normal HAM-D score, reduces mental health-related hospitalization risk.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare, financial stability, and a sense of purpose, reducing stress-related health issues.)
+*   **Likes_Vegetables (Yes):** -0.5 (A diet rich in vegetables is associated with better overall health and reduced risk of chronic diseases.)
+*   **Volunteers (Always):** -0.5 (Volunteering is linked to improved mental well-being and social connection, which can positively impact health.)
+
+The hospitalization risk score is calculated by summing the contributions of factors causally linked to health outcomes and hospitalization likelihood. Positive contributions are assigned to risk factors (e.g., chronic conditions, poor lifestyle choices, socioeconomic disadvantages), while negative contributions are assigned to protective factors (e.g., healthy habits, absence of disease).

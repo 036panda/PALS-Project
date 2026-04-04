@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   **Age (52):** +0.5 (Increased risk with age, but not elderly)
+*   **BMI (16.4):** +1.0 (Underweight, indicating potential nutritional deficiencies or underlying health issues)
+*   **Family_Health_History (Cancer):** +0.5 (Genetic predisposition to a serious illness)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition requiring ongoing management, often associated with higher hospitalization rates)
+*   **Race (Asian):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Gender (Male):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Sexual_Orientation (Other):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Weekly_Alcohol_Intake (7):** +0.0 (Moderate intake, not considered a significant risk factor)
+*   **Smoking (Yes):** +1.5 (Major risk factor for numerous health complications requiring hospitalization)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Indicates a current mental health challenge, potentially exacerbating other conditions or leading to self-neglect)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common symptom of declining health, indicating better current well-being)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential for further mental health decline or reduced self-care)
+*   **Hours_of_Sleep (4.8):** +1.0 (Significantly low sleep, a major contributor to poor physical and mental health, increasing susceptibility to illness and accidents)
+*   **Employment (Employed):** -0.5 (Indicates a degree of stability and access to resources, potentially reducing stress-related health issues)
+*   **Socioeconomic_Status (Middle):** +0.0 (No direct causal link to hospitalization risk in this model, assuming adequate access to care)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to better overall health)
+*   **Favourite_Sport (nan):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Votes (Always):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Height_in_Inches (71):** +0.0 (No direct causal link to hospitalization risk in this model)
+
+3. The risk score is computed by summing the contributions of factors causally linked to increased or decreased hospitalization likelihood, such as chronic conditions (Bipolar), lifestyle choices (Smoking, low sleep), and indicators of overall health status (BMI, HAM-D, loss of interest). Positive contributions reflect factors that directly elevate the probability of requiring hospital care, while negative contributions reflect protective factors.

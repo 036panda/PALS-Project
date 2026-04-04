@@ -1,0 +1,24 @@
+1. 7.5
+
+2. *   **Age (40):** +0.5 (Increased risk with age, though 40 is moderate)
+*   **BMI (16.7):** +1.5 (Underweight, indicating potential nutritional deficiencies or other health issues)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to cardiovascular issues)
+*   **Current_Diagnosis (Depression):** +1.5 (Mental health conditions can impact physical health and adherence to treatment)
+*   **Weekly_Alcohol_Intake (3):** +0.5 (Moderate alcohol intake, but still a factor)
+*   **Smoking (Yes):** +2.0 (Significant risk factor for numerous health complications)
+*   **HAM-D (18–24: Moderate Depression):** +1.0 (Confirms and quantifies the impact of depression)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of depression, indicating current distress)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating current distress)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer access to healthcare, nutrition, and higher stress)
+*   **Likes_Vegetables (No):** +0.5 (Indicates potentially poor dietary habits)
+*   **Race (Asian):** 0.0 (No direct causal link to hospitalization risk without further context)
+*   **Gender (Other):** 0.0 (No direct causal link to hospitalization risk)
+*   **Sexual_Orientation (Asexual):** 0.0 (No direct causal link to hospitalization risk)
+*   **Hours_of_Sleep (8.0):** 0.0 (Adequate sleep, no contribution)
+*   **Employment (Employed):** 0.0 (Positive factor, but not directly reducing hospitalization risk in this model)
+*   **Drinks_Coffee (Yes):** 0.0 (No direct causal link to hospitalization risk)
+*   **Favourite_Sport (Soccer):** 0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Always):** 0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (71):** 0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the positive contributions of identified risk factors, where each factor's contribution is weighted based on its established causal link to increased hospitalization risk. Factors with no direct or established causal link to hospitalization risk are assigned a zero contribution.

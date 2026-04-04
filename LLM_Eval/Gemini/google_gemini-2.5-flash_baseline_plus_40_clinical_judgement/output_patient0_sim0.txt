@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed Breakdown:
+
+*   **Current_Diagnosis: Schizophrenia:** +4 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   **HAM-D: 25+: Severe Depression:** +2 (Severe depression significantly increases the risk of hospitalization, especially if associated with suicidal ideation or severe functional impairment.)
+*   **Smoking: Yes:** +1 (Smoking is a significant risk factor for numerous physical health complications that can necessitate hospitalization, and it can also exacerbate mental health conditions.)
+*   **Loss_of_Interest: Yes:** +0.5 (A core symptom of depression, indicating significant functional impairment and potential for worsening mental state.)
+*   **Family_Health_History: Heart Disease:** +0.5 (While not directly impacting mental health hospitalization, it indicates a predisposition to chronic physical health issues that could lead to hospitalization, especially given the patient's smoking status.)
+*   **Weekly_Alcohol_Intake: 3:** -0.2 (Moderate alcohol intake, while not ideal, is not a significant risk factor for hospitalization at this level and may even be a coping mechanism, though not a healthy one.)
+*   **BMI: 20.3:** -0.3 (Healthy BMI, indicating good general physical health which reduces the risk of hospitalization for obesity-related complications.)
+*   **Age: 37:** -0.5 (Middle age, generally a period of lower acute medical risk compared to very young or very old populations, assuming no other major health issues.)
+*   **Employment: Employed:** -1 (Employment provides structure, social connection, and financial stability, all of which are protective factors against mental health crises and hospitalization.)
+
+3. Clinical Rationale: This patient presents with a high risk of hospitalization primarily due to the co-occurrence of schizophrenia and severe depression, both of which are serious mental health conditions often requiring intensive care. The additional risk factor of smoking further compounds potential health complications, despite some protective factors like employment and a healthy BMI.

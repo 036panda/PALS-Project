@@ -1,0 +1,24 @@
+1. 7.5
+
+2. *   **Age (32):** +0.5 (Slightly elevated risk for young adults due to lifestyle factors, but generally low compared to extremes)
+*   **BMI (31.6):** +1.5 (Obese, a significant risk factor for various health complications leading to hospitalization)
+*   **Family_Health_History (Cancer):** +1.0 (Increased genetic predisposition to serious illness, potentially requiring hospitalization)
+*   **Current_Diagnosis (nan):** +0.0 (No current diagnosis, neutral impact)
+*   **Race (Asian):** +0.0 (Neutral impact on hospitalization risk in this context)
+*   **Gender (Male):** +0.0 (Neutral impact on hospitalization risk in this context)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Neutral impact on hospitalization risk in this context)
+*   **Weekly_Alcohol_Intake (3):** +0.0 (Moderate intake, generally not a significant risk factor)
+*   **Smoking (Yes):** +2.0 (Major risk factor for numerous chronic diseases and acute events requiring hospitalization)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Moderate depression can lead to physical health neglect, increased stress, and potential for self-harm or exacerbation of other conditions requiring hospitalization)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of depression, contributing to overall mental health burden and potential for physical health decline)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, contributing to overall mental health burden and potential for physical health decline)
+*   **Hours_of_Sleep (7.5):** +0.0 (Adequate sleep, neutral impact)
+*   **Employment (Employed):** -0.5 (Generally associated with better access to healthcare and lower stress, reducing risk)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer access to healthcare, higher stress, and less healthy lifestyle choices, increasing risk)
+*   **Drinks_Coffee (No):** +0.0 (Neutral impact)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to better overall health)
+*   **Favourite_Sport (Gymnastics):** +0.0 (Neutral impact)
+*   **Votes (Sometimes):** +0.0 (Neutral impact)
+*   **Height_in_Inches (66):** +0.0 (Neutral impact)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as obesity, smoking, family history of serious illness, and mental health status, while mitigating factors like employment and healthy diet reduce the overall score. Each contribution reflects the direct impact of the factor on the likelihood of requiring hospital care.

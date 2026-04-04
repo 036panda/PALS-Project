@@ -1,0 +1,19 @@
+7
+
+*   **Age (18):** +0 (Younger age generally correlates with lower hospitalization risk, but 18 is an age where some risk factors begin to emerge, so a neutral contribution is assigned.)
+*   **BMI (24.5):** +0 (Within healthy range, no direct contribution to increased risk.)
+*   **Family_Health_History (Asthma):** +1 (Genetic predisposition to respiratory issues can increase hospitalization risk, especially if triggered.)
+*   **Current_Diagnosis (Schizophrenia):** +3 (A severe mental health condition with a high likelihood of requiring hospitalization for management, acute episodes, or co-occurring physical health issues.)
+*   **Smoking (Yes):** +2 (Significant risk factor for numerous health conditions requiring hospitalization, including respiratory and cardiovascular diseases.)
+*   **HAM-D (18–24: Moderate Depression):** +1 (Moderate depression can escalate to severe episodes requiring hospitalization, or contribute to neglect of physical health.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of depression, contributing to the overall mental health burden.)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, contributing to the overall mental health burden.)
+*   **Socioeconomic_Status (Middle):** +0 (Generally associated with better access to healthcare and resources, thus neutral contribution.)
+*   **Employment (Student):** +0 (Neutral, as it doesn't inherently increase or decrease hospitalization risk.)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol consumption is a protective factor against many health issues.)
+*   **Hours_of_Sleep (8.3):** -0.5 (Adequate sleep is a protective factor for overall health.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthier diet, a protective factor.)
+*   **Water_Intake_oz (43.0):** +0 (Adequate but not exceptionally high, so neutral.)
+*   **Religious (Yes):** -0.5 (Religious involvement can provide social support and coping mechanisms, potentially reducing mental health-related hospitalizations.)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to increased or decreased hospitalization likelihood, with a strong emphasis on existing diagnoses, lifestyle choices, and family history. Mental health conditions and smoking are primary drivers of increased risk, while healthy habits and social support act as mitigating factors.

@@ -1,0 +1,17 @@
+1. 2.5
+
+2. *   **Age (49):** +0.5 (Increased risk with age, though moderate for this age)
+*   **BMI (23.2):** +0.0 (Normal range, no direct contribution)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to respiratory issues, a common cause for hospitalization)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can exacerbate physical symptoms or lead to hospital visits)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, no significant direct contribution)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of a significant mental health risk factor)
+*   **Loss_of_Interest (Yes):** +0.5 (While HAM-D is normal, this symptom can indicate underlying stress or early signs of mental health issues that could escalate)
+*   **Hours_of_Sleep (9.4):** -0.5 (Adequate sleep is protective)
+*   **Employment (Employed):** -0.5 (Associated with better health outcomes and access to care)
+*   **Socioeconomic_Status (High):** -1.0 (Strong protective factor due to access to healthcare, nutrition, and less stress)
+*   **Allergy (Mold):** +1.0 (Specific allergen can trigger respiratory issues, potentially leading to hospitalization)
+*   **Exercises (Yes):** -0.5 (Protective factor for overall health)
+
+3. The risk score is calculated by summing the contributions of factors directly linked to health outcomes and healthcare utilization. Positive contributions are assigned to known risk factors like family history of asthma, current anxiety, and a specific allergy, while negative contributions are given for protective factors such as not smoking, good sleep, employment, high socioeconomic status, and regular exercise.

@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 6.5
+
+2. Detailed Breakdown:
+
+*   **Age (26):** +0.5 (Younger adults, particularly those with mental health diagnoses, can sometimes face higher hospitalization risks due to acute symptom presentation or less established coping mechanisms compared to older adults with chronic, stable conditions. However, this is a minor factor here.)
+*   **BMI (29.1):** +0.5 (Approaching overweight/obese, which can contribute to general health complications and potentially exacerbate mental health symptoms, but not a primary driver of acute hospitalization risk on its own.)
+*   **Family_Health_History (Diabetes):** +0.0 (While a family history of diabetes is a risk factor for developing diabetes, it does not directly impact acute psychiatric hospitalization risk in the absence of the patient having diabetes themselves.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder carries a significant inherent risk for hospitalization due to the potential for severe manic or depressive episodes, psychosis, and increased impulsivity or suicidality.)
+*   **Race (Other):** +0.0 (Race itself is not a direct risk factor for hospitalization. Disparities in healthcare access or systemic biases *can* influence outcomes, but this attribute alone doesn't directly increase or decrease the individual's clinical risk for hospitalization.)
+*   **Gender (Non-binary):** +0.0 (Gender identity itself is not a direct risk factor for hospitalization. However, individuals identifying as non-binary may experience unique stressors or discrimination that could indirectly impact mental health, but this is not quantifiable as a direct risk here.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Sexual orientation is not a direct risk factor for hospitalization.)
+*   **Weekly_Alcohol_Intake (3 units):** +0.0 (This is within recommended low-risk guidelines and does not contribute to hospitalization risk.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health factor, reducing overall health risks that could indirectly lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (A normal HAM-D score indicates no current depressive symptoms, significantly reducing the risk of hospitalization related to a depressive episode.)
+*   **Been_Sad_or_Fatigued (Yes):** +1.0 (Despite a normal HAM-D, self-reported sadness/fatigue suggests subthreshold symptoms or a prodromal phase, which can indicate underlying distress and potential for symptom escalation, especially in bipolar disorder.)
+*   **Loss_of_Interest (Yes):** +1.0 (Similar to sadness/fatigue, loss of interest (anhedonia) is a significant symptom of mood disturbance and, in the context of bipolar disorder, could precede a more severe episode.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below optimal sleep duration, which can exacerbate mood instability and mental health symptoms, particularly in bipolar disorder.)
+*   **Employment (Employed):** -0.5 (Employment often indicates a degree of stability, routine, and social engagement, which can be protective factors against acute mental health crises.)
+*   **Socioeconomic_Status (Low):** +1.0 (Low socioeconomic status is associated with increased stress, limited access to resources, and poorer health outcomes, all of which can elevate the risk of hospitalization for mental health conditions.)
+
+3. Clinical Rationale: This young adult with bipolar disorder, despite a normal HAM-D score, exhibits concerning subthreshold symptoms (sadness, fatigue, loss of interest) and suboptimal sleep, which are significant indicators of potential mood instability and increased vulnerability to an acute episode. Coupled with the inherent risk of bipolar disorder and the compounding stress of low socioeconomic status, these factors elevate the overall risk for hospitalization, despite some protective elements like employment and absence of smoking.

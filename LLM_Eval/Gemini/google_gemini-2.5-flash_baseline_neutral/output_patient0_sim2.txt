@@ -1,0 +1,20 @@
+1. Risk Assessment Score: 7
+
+2. Parameter Contributions:
+    * Age: 0 (37 years old, generally low risk for hospitalization)
+    * BMI: 0 (20.3, healthy weight)
+    * Family_Health_History: +1 (Heart Disease, increases risk)
+    * Current_Diagnosis: +3 (Schizophrenia, significantly increases risk of hospitalization due to mental health crises, medication side effects, or co-occurring physical health issues)
+    * Race: 0 (Asian, no inherent increased risk for hospitalization)
+    * Gender: 0 (Female, no inherent increased risk for hospitalization)
+    * Sexual_Orientation: 0 (Homosexual, no inherent increased risk for hospitalization)
+    * Weekly_Alcohol_Intake: 0 (3 units, moderate, not a significant risk factor)
+    * Smoking: +1 (Yes, increases risk for various health complications)
+    * HAM-D: +2 (25+: Severe Depression, significantly increases risk of hospitalization, especially in conjunction with schizophrenia)
+    * Been_Sad_or_Fatigued: 0 (No, does not add to risk)
+    * Loss_of_Interest: 0 (Yes, but already captured by HAM-D score for depression severity)
+    * Hours_of_Sleep: 0 (6.3 hours, within a reasonable range)
+    * Employment: 0 (Employed, generally a protective factor)
+    * Socioeconomic_Status: 0 (Middle, generally not a high-risk factor)
+
+3. Rationale: The primary drivers of this patient's elevated risk are the severe mental health diagnoses of schizophrenia and severe depression, compounded by a family history of heart disease and current smoking status. These factors significantly increase the likelihood of hospitalization for mental health crises or related physical health complications.

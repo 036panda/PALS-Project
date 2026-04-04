@@ -1,0 +1,24 @@
+1. 3.0
+
+2. *   Age (18): +0.0 (No increased risk for this age)
+*   BMI (25.6): +0.0 (Normal range)
+*   Family_Health_History (Hypertension): +0.5 (Increased genetic predisposition)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant mental health condition increasing hospitalization risk)
+*   Race (Hispanic): +0.0 (No direct causal link to increased hospitalization risk in this model)
+*   Gender (Non-binary): +0.0 (No direct causal link to increased hospitalization risk in this model)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to increased hospitalization risk in this model)
+*   Weekly_Alcohol_Intake (5): +0.0 (Moderate, not exceeding harmful levels)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Absence of depressive symptoms)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of common indicators of distress)
+*   Loss_of_Interest (No): -0.5 (Absence of common indicators of distress)
+*   Hours_of_Sleep (5.7): +1.0 (Insufficient sleep, contributing to health issues)
+*   Employment (Employed): -0.0 (Neutral, but often associated with better health outcomes)
+*   Socioeconomic_Status (High): -0.5 (Access to better healthcare and resources)
+*   Drinks_Coffee (No): +0.0 (Neutral)
+*   Likes_Vegetables (No): +1.0 (Poor dietary habit, increasing health risks)
+*   Favourite_Sport (nan): +0.0 (Neutral, lack of information)
+*   Votes (Never): +0.0 (Neutral, not a direct health factor)
+*   Height_in_Inches (59): +0.0 (Neutral)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate reduced risk, based on established causal links between these factors and hospitalization likelihood. The primary drivers of this score are the existing Bipolar diagnosis, insufficient sleep, and poor dietary habits, partially offset by the absence of smoking and depression, and high socioeconomic status.

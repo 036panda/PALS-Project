@@ -1,0 +1,24 @@
+1. 7
+
+2. * Age (37): +0.5 (Increased risk with age, but 37 is relatively young, so a small positive contribution)
+* BMI (20.3): +0.0 (Healthy BMI, no direct contribution to hospitalization risk)
+* Family_Health_History (Heart Disease): +1.0 (Genetic predisposition to a serious condition)
+* Current_Diagnosis (Schizophrenia): +2.5 (Significant mental health condition often requiring hospitalization)
+* Race (Asian): +0.0 (No direct causal link to hospitalization risk)
+* Gender (Female): +0.0 (No direct causal link to hospitalization risk)
+* Sexual_Orientation (Homosexual): +0.0 (No direct causal link to hospitalization risk)
+* Weekly_Alcohol_Intake (3): +0.0 (Moderate intake, not a significant risk factor)
+* Smoking (Yes): +1.5 (Major risk factor for numerous health issues leading to hospitalization)
+* HAM-D (25+: Severe Depression): +1.5 (Severe mental health condition, often co-occurs with schizophrenia and increases hospitalization likelihood)
+* Been_Sad_or_Fatigued (No): +0.0 (Absence of this symptom does not increase risk)
+* Loss_of_Interest (Yes): +0.0 (Symptom of depression, already accounted for by HAM-D score)
+* Hours_of_Sleep (6.3): +0.0 (Slightly below ideal, but not a significant independent hospitalization risk)
+* Employment (Employed): -0.5 (Positive social determinant of health, potentially reducing stress and improving access to care)
+* Socioeconomic_Status (Middle): +0.0 (Neutral, neither high nor low risk)
+* Drinks_Coffee (No): +0.0 (No direct causal link to hospitalization risk)
+* Likes_Vegetables (Yes): -0.5 (Positive health behavior, potentially reducing risk)
+* Favourite_Sport (Basketball): +0.0 (No direct causal link to hospitalization risk)
+* Votes (Never): +0.0 (No direct causal link to hospitalization risk)
+* Height_in_Inches (71): +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as severe mental health conditions (schizophrenia, severe depression), significant lifestyle risks (smoking), and genetic predispositions (family history of heart disease), while mitigating factors like healthy diet and employment reduce the score.

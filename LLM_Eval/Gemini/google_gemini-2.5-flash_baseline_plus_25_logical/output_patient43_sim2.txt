@@ -1,0 +1,19 @@
+4
+
+**Input Factors and Contributions:**
+
+*   **Age (20):** +0.5 (Younger age generally correlates with lower hospitalization risk, but not zero, as acute events can occur.)
+*   **BMI (21.0):** +0.5 (Healthy BMI, contributing to lower risk.)
+*   **Family_Health_History (Cancer):** +1.0 (Presence of a significant family health history, even if not directly impacting current health, indicates a genetic predisposition to certain conditions, increasing long-term risk.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (A chronic mental health condition that often requires hospitalization for management of acute episodes or medication adjustments.)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (No alcohol consumption is a positive health factor.)
+*   **Smoking (No):** -0.5 (Non-smoker, a significant positive health factor.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (While mild, depression can exacerbate other conditions or, if untreated, progress to more severe states requiring intervention.)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep is a known risk factor for various health issues, both physical and mental.)
+*   **Socioeconomic_Status (Low):** +1.0 (Lower socioeconomic status is consistently linked to poorer health outcomes, reduced access to care, and higher hospitalization rates.)
+*   **Water_Intake_oz (43.7):** -0.5 (Adequate hydration is a positive health factor.)
+*   **Can_Ride_Bicycle (No):** +0.5 (Lack of a basic physical skill like riding a bicycle can sometimes indicate a lower level of general physical activity or coordination, which can be a minor risk factor for overall health.)
+
+**Justification:**
+
+The risk score is derived by summing the individual contributions of factors directly and causally linked to hospitalization risk, such as chronic diagnoses, lifestyle choices, and socioeconomic determinants, while mitigating factors like healthy BMI and no smoking reduce the overall score.

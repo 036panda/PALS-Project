@@ -1,0 +1,24 @@
+1. 1.0
+
+2. *   **Age (22):** -0.5 (Lower age generally correlates with lower hospitalization risk due to better overall health and fewer age-related complications.)
+*   **BMI (21.9):** -0.5 (BMI within the healthy range (18.5-24.9) is associated with lower risk of obesity-related complications requiring hospitalization.)
+*   **Family_Health_History (Cancer):** +1.0 (Presence of a significant family health history, like cancer, indicates a potential genetic predisposition to health issues that could lead to hospitalization.)
+*   **Current_Diagnosis (nan):** 0.0 (Absence of a current diagnosis suggests no immediate health concerns requiring hospitalization.)
+*   **Race (White):** 0.0 (Race is not a direct causal factor for hospitalization risk in this model without specific health disparities data.)
+*   **Gender (Non-binary):** 0.0 (Gender identity is not a direct causal factor for hospitalization risk in this model.)
+*   **Sexual_Orientation (Heterosexual):** 0.0 (Sexual orientation is not a direct causal factor for hospitalization risk in this model.)
+*   **Weekly_Alcohol_Intake (3):** -0.5 (Moderate alcohol intake (e.g., 1-3 drinks/week) is not typically associated with increased hospitalization risk and may even be linked to some health benefits.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces the risk of numerous chronic diseases that often lead to hospitalization.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression, while not severe, can still impact overall health and potentially lead to complications or require medical attention.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of persistent sadness or fatigue indicates better mental and physical well-being, reducing the likelihood of hospitalization.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of loss of interest suggests better mental health and engagement, reducing the risk of health decline.)
+*   **Hours_of_Sleep (9.6):** -0.5 (Adequate to high hours of sleep are generally associated with better health outcomes and reduced risk of illness.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare, financial stability, and overall well-being, reducing hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** 0.0 (Middle socioeconomic status is not a direct causal factor for increased or decreased hospitalization risk in this model without further specific data.)
+*   **Drinks_Coffee (No):** 0.0 (Coffee consumption is not a direct causal factor for hospitalization risk in this model.)
+*   **Likes_Vegetables (Yes):** -0.5 (A diet rich in vegetables is associated with better health and reduced risk of chronic diseases.)
+*   **Favourite_Sport (Soccer):** 0.0 (Favourite sport is not a direct causal factor for hospitalization risk in this model.)
+*   **Votes (Always):** 0.0 (Voting habits are not a direct causal factor for hospitalization risk in this model.)
+*   **Height_in_Inches (69):** 0.0 (Height is not a direct causal factor for hospitalization risk in this model without considering extreme deviations or specific conditions.)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. Causal relationships are inferred based on established medical and public health knowledge regarding how these factors influence the likelihood of requiring hospitalization.

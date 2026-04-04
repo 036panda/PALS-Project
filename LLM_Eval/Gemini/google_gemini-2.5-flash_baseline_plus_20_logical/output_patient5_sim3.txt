@@ -1,0 +1,14 @@
+7
+
+*   **Age (61):** +2 (Increased age is a direct causal factor for higher hospitalization risk due to age-related physiological decline and increased susceptibility to various health conditions.)
+*   **BMI (25.8):** +0.5 (A BMI in the overweight range, while not obese, is causally linked to a slightly elevated risk of various health issues that may necessitate hospitalization.)
+*   **Family_Health_History (Asthma):** +1 (A family history of asthma indicates a genetic predisposition, causally increasing the individual's risk of developing or experiencing severe asthma exacerbations requiring hospitalization.)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Moderate alcohol intake, specifically one drink per week, is causally associated with a slightly reduced risk of certain cardiovascular conditions, potentially lowering hospitalization risk.)
+*   **Smoking (No):** -1 (Absence of smoking is a direct causal factor for lower hospitalization risk, as smoking is a major contributor to numerous chronic diseases.)
+*   **HAM-D (7–17: Mild Depression):** +1 (Mild depression is causally linked to increased stress, potential neglect of self-care, and a higher likelihood of developing or exacerbating physical health problems that may require hospitalization.)
+*   **Hours_of_Sleep (5.4):** +1.5 (Insufficient sleep (less than 7 hours) is a direct causal factor for weakened immune function, increased inflammation, and higher risk of chronic diseases, all contributing to hospitalization risk.)
+*   **Socioeconomic_Status (High):** -1 (High socioeconomic status is causally associated with better access to healthcare, healthier lifestyle choices, and reduced exposure to environmental hazards, thereby lowering hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (A diet rich in vegetables is causally linked to better overall health and reduced risk of chronic diseases, thus lowering hospitalization risk.)
+*   **Water_Intake_oz (46.1):** +1 (Inadequate water intake (below recommended 64oz) is causally linked to dehydration, which can exacerbate existing conditions and lead to various health problems requiring hospitalization.)
+
+The risk score is calculated by summing the causal contributions of each relevant health and lifestyle factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established medical and public health causal relationships.

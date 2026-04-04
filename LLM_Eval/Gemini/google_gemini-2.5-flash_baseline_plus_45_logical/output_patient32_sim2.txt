@@ -1,0 +1,18 @@
+1. 7.5
+
+2. *   **Age (19):** +0.5 (Young adult, generally lower risk, but not a child)
+*   **BMI (17.6):** +1.0 (Underweight, associated with increased health risks)
+*   **Family_Health_History (Diabetes):** +0.5 (Genetic predisposition to chronic disease)
+*   **Current_Diagnosis (Schizophrenia):** +2.0 (Severe mental illness, significantly increases hospitalization risk)
+*   **Weekly_Alcohol_Intake (3):** +0.0 (Moderate intake, no significant direct contribution)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (25+):** +2.0 (Severe Depression, a critical indicator for mental health hospitalization)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, contributing to mental health risk)
+*   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep, a protective factor)
+*   **Socioeconomic_Status (High):** -0.5 (Access to resources and healthcare, a protective factor)
+*   **Allergy (Gluten):** +0.5 (Potential for dietary complications and health management challenges)
+*   **Skips_Breakfast (Yes):** +0.5 (Potentially indicative of poor nutritional habits)
+*   **Exercises (Yes):** -0.5 (Positive health behavior)
+*   **Orders_Takeout (Daily):** +0.5 (Potentially indicative of less healthy dietary patterns)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, with positive values for risk-increasing factors and negative values for risk-decreasing factors, focusing on the individual's specific health conditions, lifestyle, and socioeconomic context.

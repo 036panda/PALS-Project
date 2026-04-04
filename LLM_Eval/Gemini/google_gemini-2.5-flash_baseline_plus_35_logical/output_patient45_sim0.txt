@@ -1,0 +1,13 @@
+1. 4
+
+2. *   **Age (41):** +1 (Increased age generally correlates with higher health risks, though 41 is moderate.)
+*   **BMI (26.5):** +1 (Overweight BMI increases risk for various health conditions.)
+*   **Family_Health_History (Diabetes):** +1 (Genetic predisposition to a chronic disease.)
+*   **Current_Diagnosis (Depression):** +1 (Mental health conditions can impact physical health and adherence to treatment.)
+*   **Loss_of_Interest (Yes):** +1 (A symptom often associated with underlying mental or physical health issues.)
+*   **Hours_of_Sleep (4.7):** +1 (Significantly low sleep duration is detrimental to overall health.)
+*   **Smoking (No):** -1 (Absence of a major risk factor.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Indicates good current mental health despite previous diagnosis.)
+*   **Socioeconomic_Status (High):** -1 (Generally associated with better access to healthcare and healthier lifestyles.)
+
+3. The risk score is calculated by summing the positive contributions from identified health risk factors (age, BMI, family history, current diagnosis, sleep deprivation, loss of interest) and subtracting the negative contributions from protective factors (no smoking, normal HAM-D, high socioeconomic status), reflecting their direct causal impact on hospitalization likelihood.

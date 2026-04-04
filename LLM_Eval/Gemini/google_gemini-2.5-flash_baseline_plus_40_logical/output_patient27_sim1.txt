@@ -1,0 +1,18 @@
+1. 2
+
+2. *   Age (38): +0.5 (Slightly elevated risk compared to younger adults, but not elderly)
+*   BMI (21.8): +0 (Healthy weight, no direct contribution to hospitalization risk)
+*   Family_Health_History (Asthma): +1.0 (Genetic predisposition to a chronic respiratory condition, increasing potential for hospitalization if exacerbated)
+*   Current_Diagnosis (Anxiety): +0.5 (While not directly a physical ailment, severe anxiety can lead to physical symptoms or exacerbate existing conditions, potentially requiring hospitalization)
+*   Weekly_Alcohol_Intake (2): +0 (Low, within healthy limits, no direct contribution)
+*   Smoking (No): -1.0 (Absence of a major risk factor for numerous chronic diseases, significantly reducing hospitalization risk)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Good mental health, reducing risk of mental health-related hospitalizations or exacerbation of physical conditions)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of symptoms often associated with underlying health issues or mental distress)
+*   Loss_of_Interest (No): -0.5 (Absence of a symptom often associated with depression or other health concerns)
+*   Hours_of_Sleep (6.3): +0.5 (Slightly below optimal 7-9 hours, chronic sleep deprivation can negatively impact health)
+*   Employment (Employed): -0.5 (Indicates stability and access to resources, generally associated with better health outcomes)
+*   Socioeconomic_Status (High): -1.0 (Access to better healthcare, nutrition, and living conditions, significantly reducing hospitalization risk)
+*   Exercises (No): +1.0 (Lack of regular physical activity is a significant risk factor for numerous chronic diseases, increasing hospitalization risk)
+*   Allergy (Penicillin): +0 (Common allergy, managed with avoidance, no direct impact on hospitalization risk unless exposure occurs)
+
+3. The hospitalization risk score is calculated by summing the individual contributions of factors directly and causally linked to health outcomes and healthcare utilization. Positive contributions reflect increased risk due to pre-existing conditions, unhealthy behaviors, or lack of protective factors, while negative contributions reflect protective factors or the absence of risk factors.

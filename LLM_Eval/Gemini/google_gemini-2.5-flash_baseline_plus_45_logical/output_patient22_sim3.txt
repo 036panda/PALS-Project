@@ -1,0 +1,16 @@
+1. 6.5
+
+2. *   Age (56): +1.0 (Increased risk with age, but not elderly)
+*   BMI (28.0): +1.0 (Overweight, contributing to moderate risk)
+*   Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol intake, slight increase in risk)
+*   Smoking (No): -1.0 (Absence of smoking significantly reduces risk)
+*   HAM-D (7–17: Mild Depression): +1.5 (Mild depression is a known health risk factor)
+*   Loss_of_Interest (Yes): +1.0 (Symptom of depression, indicating potential health impact)
+*   Hours_of_Sleep (6.1): +1.0 (Slightly below optimal, contributing to minor risk)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral, neither high nor low risk)
+*   Likes_Vegetables (No): +1.0 (Poor dietary habit, increasing risk)
+*   Skips_Breakfast (Yes): +0.5 (Unhealthy eating habit, minor risk increase)
+*   Exercises (Yes): -1.0 (Positive health behavior, reducing risk)
+*   Allergy (Tree Nuts): +1.0 (Presence of an allergy, even if managed, is a health vulnerability)
+
+3. The risk score is calculated by summing the individual contributions of identified health-related factors, where positive values indicate increased risk and negative values indicate reduced risk, based on established causal links between these factors and general health outcomes. Factors like age, BMI, mild depression, poor sleep, and unhealthy eating habits increase risk, while the absence of smoking and regular exercise decrease it.

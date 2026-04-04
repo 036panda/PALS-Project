@@ -1,0 +1,24 @@
+7
+
+*   **Age (20):** +0.5 (Younger adults, especially those with mental health conditions, may have higher hospitalization rates due to acute crises or lack of established coping mechanisms.)
+*   **BMI (24.6):** +0.0 (Normal BMI, no direct contribution to hospitalization risk.)
+*   **Family_Health_History (Cancer):** +0.0 (While cancer is a serious condition, a family history of cancer in a 20-year-old without a current cancer diagnosis does not directly increase immediate hospitalization risk.)
+*   **Current_Diagnosis (Schizophrenia):** +5.0 (Schizophrenia is a severe mental illness with a high risk of acute episodes requiring hospitalization for stabilization, medication management, or safety concerns.)
+*   **Race (Black):** +0.5 (Systemic health disparities and biases can lead to higher hospitalization rates for Black individuals, particularly in mental health crises, due to unequal access to care and culturally insensitive treatment.)
+*   **Gender (Other):** +0.5 (Individuals identifying as "Other" gender may face unique challenges in healthcare access and discrimination, potentially increasing hospitalization risk due to delayed or inadequate care.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct contribution to hospitalization risk.)
+*   **Weekly_Alcohol_Intake (6):** +0.5 (Moderate alcohol intake, while not immediately critical, can exacerbate mental health conditions or lead to poor judgment, increasing the likelihood of situations requiring hospitalization.)
+*   **Smoking (No):** -0.5 (Absence of smoking reduces risk of respiratory and cardiovascular complications that could lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depression reduces overall mental health burden and associated hospitalization risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates better current mental well-being, reducing immediate hospitalization risk.)
+*   **Loss_of_Interest (Yes):** +1.0 (While HAM-D is normal, loss of interest can be a symptom of underlying mental distress or a prodromal symptom of worsening schizophrenia, increasing risk.)
+*   **Hours_of_Sleep (7.6):** -0.5 (Adequate sleep is protective for mental and physical health, reducing hospitalization risk.)
+*   **Employment (Student):** +0.0 (Student status itself does not directly increase or decrease hospitalization risk, though academic stress could be a factor not explicitly weighted here.)
+*   **Socioeconomic_Status (Low):** +1.0 (Low socioeconomic status is a significant predictor of poorer health outcomes, including higher hospitalization rates, due to limited access to resources, quality healthcare, and stable living conditions.)
+*   **Drinks_Coffee (Yes):** +0.0 (No direct contribution to hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.0 (While healthy eating is beneficial, not liking vegetables does not directly translate to an immediate hospitalization risk.)
+*   **Favourite_Sport (Gymnastics):** +0.0 (No direct contribution to hospitalization risk.)
+*   **Votes (Sometimes):** +0.0 (No direct contribution to hospitalization risk.)
+*   **Height_in_Inches (58):** +0.0 (No direct contribution to hospitalization risk.)
+
+The risk score is primarily driven by the severe mental health diagnosis of schizophrenia, which inherently carries a high risk of hospitalization. This is compounded by factors such as racial and gender disparities, low socioeconomic status, and some indicators of mental distress despite a normal HAM-D score, while being partially mitigated by positive lifestyle choices like not smoking and adequate sleep.

@@ -1,0 +1,16 @@
+1. **Final Hospitalization Risk Score:** 6
+
+2. **Detailed Breakdown of Attribute Impact:**
+
+    *   **Age (18):** +0.5 (Young adult, often a period of vulnerability for mental health conditions)
+    *   **BMI (30.9):** +0.5 (Obese, increasing risk for various health complications, though not directly for psychiatric hospitalization in this context)
+    *   **Current_Diagnosis (Bipolar):** +4.0 (Significant risk factor for hospitalization, especially during acute episodes)
+    *   **HAM-D (0-6: Normal / No Depression):** -1.0 (Indicates current absence of depressive symptoms, which is protective)
+    *   **Loss_of_Interest (Yes):** +1.0 (While HAM-D is low, "loss of interest" can be a symptom of mood dysregulation or an early warning sign in bipolar disorder)
+    *   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep is generally protective for mental health)
+    *   **Employment (Student):** +0.5 (Academic stress can be a trigger for mood episodes in bipolar disorder)
+    *   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to resources and support)
+    *   **Weekly_Alcohol_Intake (1):** -0.5 (Low alcohol intake is protective against substance-related complications)
+    *   **Exercises (No):** +1.0 (Lack of exercise can negatively impact mood regulation and overall physical health, which can influence mental health stability)
+
+3. **Clinical Rationale:** This 18-year-old non-binary individual with a diagnosis of Bipolar Disorder carries a significant inherent risk for hospitalization due to their primary mental health condition, despite currently reporting no depressive symptoms on the HAM-D. The presence of "loss of interest" and lack of exercise, coupled with the potential stressors of being a student and obesity, contribute to an elevated risk profile, necessitating close monitoring and proactive management.

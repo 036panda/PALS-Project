@@ -1,0 +1,14 @@
+7
+
+*   Age (63): +2 (Increased risk with age, particularly over 60)
+*   BMI (33.3): +2 (Obesity, BMI > 30, significantly increases hospitalization risk)
+*   Family_Health_History (Heart Disease): +1 (Genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis (Bipolar): +2 (Mental health conditions, especially severe ones like bipolar disorder, are associated with higher hospitalization rates)
+*   HAM-D (7–17: Mild Depression): +0 (Mild depression, while a concern, does not independently contribute to immediate hospitalization risk in this model without other exacerbating factors)
+*   Weekly_Alcohol_Intake (1): +0 (Low alcohol intake, not a significant risk factor)
+*   Smoking (No): -1 (Absence of smoking reduces risk)
+*   Hours_of_Sleep (7.7): -1 (Adequate sleep reduces risk)
+*   Allergy (Dust): +1 (Allergies can exacerbate respiratory issues or lead to acute reactions requiring hospitalization)
+*   All other factors: +0 (No direct, established causal link to hospitalization risk in this model)
+
+The hospitalization risk score is calculated by summing the individual contributions of factors with established causal links to increased or decreased hospitalization risk, such as age, obesity, family history of chronic disease, and severe mental health diagnoses, while mitigating factors like adequate sleep and absence of smoking reduce the score.

@@ -1,0 +1,11 @@
+1. 4.5
+
+2. *   Age (35): +0.5 (Slightly elevated risk for individuals in their mid-30s compared to younger adults, as general health risks begin a gradual increase.)
+*   BMI (26.8): +0.5 (Overweight category, which is a known risk factor for various health complications.)
+*   Current_Diagnosis (Bipolar): +2.0 (Bipolar disorder is associated with increased comorbidity and healthcare utilization, significantly elevating hospitalization risk.)
+*   Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol intake, while not excessive, still contributes to a slight increase in overall health risk.)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mild depression, even if not severe, can impact overall health and potentially lead to complications requiring medical attention.)
+*   Hours_of_Sleep (5.3): +0.5 (Insufficient sleep is a known contributor to various health issues and can weaken the immune system.)
+*   Exercises (No): +0.5 (Lack of regular exercise is a significant risk factor for numerous chronic diseases and poorer health outcomes.)
+
+3. The risk score is calculated by summing the positive contributions of identified health risk factors, such as age, BMI, current diagnosis, alcohol intake, depression, insufficient sleep, and lack of exercise, each of which is causally linked to an increased likelihood of hospitalization.

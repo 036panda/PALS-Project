@@ -1,0 +1,20 @@
+1. Risk Assessment Score: 3
+
+2. Parameter Contributions:
+    * Age (41): +0 (Neutral, as it's not in a high-risk age bracket)
+    * BMI (26.5): +0 (Neutral, as it's within a healthy range)
+    * Family_Health_History (Diabetes): +1 (Increased risk due to genetic predisposition)
+    * Current_Diagnosis (Depression): +0 (Neutral, as HAM-D indicates no current depression)
+    * Race (White): +0 (Neutral, no direct risk factor for hospitalization)
+    * Gender (Male): +0 (Neutral, no direct risk factor for hospitalization)
+    * Sexual_Orientation (Heterosexual): +0 (Neutral, no direct risk factor for hospitalization)
+    * Weekly_Alcohol_Intake (1): +0 (Neutral, low intake)
+    * Smoking (No): -1 (Reduced risk)
+    * HAM-D (0-6: Normal / No Depression): -1 (Reduced risk)
+    * Been_Sad_or_Fatigued (No): -1 (Reduced risk)
+    * Loss_of_Interest (Yes): +2 (Increased risk, despite HAM-D, indicates a potential mental health concern)
+    * Hours_of_Sleep (4.7): +3 (Significantly increased risk due to chronic sleep deprivation)
+    * Employment (Employed): -1 (Reduced risk, indicates stability)
+    * Socioeconomic_Status (High): -1 (Reduced risk, indicates access to resources)
+
+3. Rationale: The primary drivers of this score are the significant sleep deprivation and the reported loss of interest, which, despite a normal HAM-D score, suggests an underlying mental health vulnerability. These factors are partially offset by positive lifestyle choices and socioeconomic stability.

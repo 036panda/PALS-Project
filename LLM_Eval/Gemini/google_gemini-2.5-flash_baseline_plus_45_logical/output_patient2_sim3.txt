@@ -1,0 +1,13 @@
+1. 5.5
+
+2. *   Age (40): +0.5 (Increased risk with age, but 40 is moderate)
+*   BMI (34.6): +2.0 (Obese, significant risk factor)
+*   Family_Health_History (Cancer): +1.0 (Increased genetic predisposition to health issues)
+*   Current_Diagnosis (Bipolar): +1.5 (Mental health conditions can complicate physical health and increase hospitalization risk)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of potential underlying health issues or worsening mental health)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   Weekly_Alcohol_Intake (4): -0.5 (Moderate intake, not a significant risk factor for hospitalization)
+*   Exercises (No): +1.0 (Lack of physical activity increases health risks)
+*   Skips_Breakfast (Yes): +0.5 (Potentially indicates less healthy eating habits)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as obesity, existing chronic conditions, family history of disease, and lifestyle choices, while subtracting contributions for the absence of major risk factors. Each contribution reflects the direct impact of the factor on the likelihood of requiring hospitalization.

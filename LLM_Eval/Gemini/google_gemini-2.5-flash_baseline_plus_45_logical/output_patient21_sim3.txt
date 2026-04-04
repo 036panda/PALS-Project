@@ -1,0 +1,20 @@
+1. 5.5
+
+2. *   Age (42): +0.5 (Moderate increase in risk with age, but not elderly)
+*   BMI (26.4): +0.5 (Slightly overweight, contributing to minor risk)
+*   Family_Health_History (Cancer): +1.0 (Significant genetic predisposition to health issues)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical health risks and lead to hospitalization)
+*   Race (Native American): +0.5 (Acknowledged disparities in healthcare access and outcomes)
+*   Weekly_Alcohol_Intake (4): +0.2 (Moderate alcohol intake, minor contribution)
+*   HAM-D (7–17: Mild Depression): +1.0 (Depression is a significant risk factor for various health complications and hospitalization)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of potential underlying health issues or mental health strain)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of potential underlying health issues or mental health strain)
+*   Hours_of_Sleep (10.2): -0.5 (Adequate sleep is protective, but excessive sleep can sometimes indicate underlying issues; here, interpreted as generally protective)
+*   Employment (Employed): -0.5 (Associated with better access to healthcare and resources)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better health outcomes than lower SES)
+*   Likes_Vegetables (Yes): -0.5 (Positive dietary habit)
+*   Exercises (Yes): -0.5 (Positive health behavior)
+*   Allergy (Peanut): +0.5 (Risk of severe allergic reaction requiring hospitalization)
+*   Orders_Takeout (Daily): +0.5 (Frequent takeout can indicate a less healthy diet, increasing risk)
+
+3. The risk score is calculated by summing the individual contributions of factors identified as causally linked to hospitalization risk, with positive values for risk-increasing factors and negative values for risk-decreasing factors, based on established health and socioeconomic determinants.

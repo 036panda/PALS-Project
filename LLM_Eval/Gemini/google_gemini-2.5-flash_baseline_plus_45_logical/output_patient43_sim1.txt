@@ -1,0 +1,17 @@
+1. 4
+
+2. *   Age (20): +0 (Young age, generally lower risk)
+*   BMI (21.0): +0 (Healthy weight)
+*   Family_Health_History (Cancer): +1 (Increased genetic predisposition to certain health issues, though not directly to hospitalization for current diagnosis)
+*   Current_Diagnosis (Bipolar): +3 (Significant mental health condition often requiring hospitalization for management)
+*   HAM-D (7–17: Mild Depression): +0 (Already accounted for by Bipolar diagnosis, mild depression itself not a primary hospitalization driver)
+*   Hours_of_Sleep (5.7): +1 (Suboptimal sleep, can exacerbate mental health conditions and general health)
+*   Socioeconomic_Status (Low): +1 (Associated with poorer access to healthcare, higher stress, and worse health outcomes)
+*   Smoking (No): -1 (Positive health behavior)
+*   Weekly_Alcohol_Intake (0): -1 (Positive health behavior)
+*   Exercises (Yes): -1 (Positive health behavior)
+*   Likes_Vegetables (Yes): -1 (Positive health behavior)
+*   Water_Intake_oz (43.7): +0 (Within a reasonable range, no significant impact)
+*   Skips_Breakfast (Yes): +1 (Potentially poor nutritional habit, can impact energy and overall health)
+
+3. The risk score is calculated by summing contributions from factors directly impacting health and healthcare access, with a strong emphasis on the current mental health diagnosis and related lifestyle factors that could necessitate hospitalization. Positive contributions are assigned to risk factors like bipolar disorder, low socioeconomic status, and poor sleep, while negative contributions are given for positive health behaviors like not smoking and exercising.

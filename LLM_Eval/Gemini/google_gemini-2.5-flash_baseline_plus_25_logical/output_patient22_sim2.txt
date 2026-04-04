@@ -1,0 +1,14 @@
+1. 4
+
+2. *   Age (56): +1 (Increased risk with age)
+    *   BMI (28.0): +1 (Overweight, increased risk)
+    *   Weekly_Alcohol_Intake (4): +0 (Moderate intake, no significant contribution)
+    *   Smoking (No): -1 (Absence of smoking, reduced risk)
+    *   HAM-D (7–17: Mild Depression): +1 (Presence of depression, increased risk)
+    *   Loss_of_Interest (Yes): +1 (Symptom of depression, increased risk)
+    *   Hours_of_Sleep (6.1): +1 (Slightly below recommended, increased risk)
+    *   Socioeconomic_Status (Middle): +0 (Neutral contribution)
+    *   Likes_Vegetables (No): +1 (Poor dietary habit, increased risk)
+    *   Water_Intake_oz (43.8): -1 (Adequate hydration, reduced risk)
+
+3. The risk score is calculated by summing the contributions of factors known to directly influence hospitalization risk, such as age, BMI, mental health, sleep, and diet, while negating the impact of protective factors like not smoking and adequate hydration.

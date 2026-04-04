@@ -1,0 +1,23 @@
+1. 6.5
+
+2. *   Age (74): +2.0 (Increased age directly correlates with higher hospitalization risk due to general physiological decline and increased susceptibility to illness.)
+*   BMI (29.4): +1.0 (A BMI in the overweight category increases the risk of various health complications that may lead to hospitalization.)
+*   Family_Health_History (Cancer): +0.5 (A family history of cancer suggests a genetic predisposition to certain health issues, indirectly increasing overall health risk.)
+*   Weekly_Alcohol_Intake (4 units): +0.2 (Moderate alcohol intake, while not high, still carries a small, cumulative health risk.)
+*   Smoking (No): -1.0 (Absence of smoking significantly reduces the risk of numerous chronic diseases and acute respiratory issues.)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Good mental health reduces the likelihood of stress-related physical ailments and non-compliance with health regimens.)
+*   Been_Sad_or_Fatigued (No): -0.2 (Absence of persistent sadness or fatigue indicates better overall well-being.)
+*   Loss_of_Interest (No): -0.2 (Absence of anhedonia suggests good mental health and engagement in life.)
+*   Hours_of_Sleep (7.0): -0.3 (Adequate sleep is crucial for immune function and overall health.)
+*   Socioeconomic_Status (Middle): -0.1 (Middle socioeconomic status generally correlates with better access to healthcare and healthier living conditions compared to lower status.)
+*   Likes_Vegetables (Yes): -0.5 (A diet rich in vegetables is associated with better health outcomes and reduced risk of chronic diseases.)
+*   Exercises (No): +2.0 (Lack of exercise is a significant risk factor for numerous chronic diseases, including cardiovascular disease, diabetes, and obesity, all of which can lead to hospitalization.)
+*   Allergy (Tree Nuts): +0.5 (Presence of a known allergy, even if managed, carries a risk of accidental exposure and severe reaction requiring hospitalization.)
+*   Skips_Breakfast (Yes): +0.3 (Skipping breakfast can lead to poorer dietary choices and metabolic issues over time.)
+*   Wears_Glasses (Yes): +0.1 (While not a direct cause, wearing glasses can sometimes indicate underlying health conditions or age-related changes that might indirectly contribute to overall frailty.)
+*   Water_Intake_oz (44.7): -0.1 (Adequate hydration contributes to overall health and bodily function.)
+*   Donated_Blood (Yes): -0.1 (Voluntary blood donation often indicates a generally healthy individual who is aware of their health status.)
+*   Binge_Watches_TV (Yes): +0.2 (Sedentary behavior, even if not extreme, contributes to a less active lifestyle.)
+*   Recycling_Habits (Never): +0.1 (While not directly health-related, a lack of engagement in community-oriented healthy habits can sometimes correlate with a broader lack of self-care or awareness.)
+
+3. The risk score is calculated by summing the individual contributions of various health and lifestyle factors, where positive values indicate increased risk and negative values indicate decreased risk. This approach reflects the cumulative impact of multiple causal elements on an individual's overall hospitalization likelihood.

@@ -1,0 +1,15 @@
+1. 6.5
+
+2. *   **Age (63):** +1.5 (Increased risk with advancing age due to general physiological decline and higher prevalence of chronic conditions.)
+*   **BMI (33.3 - Obese Class I):** +1.5 (Obesity is a significant risk factor for numerous health complications requiring hospitalization, including cardiovascular disease, diabetes, and respiratory issues.)
+*   **Family_Health_History (Heart Disease):** +1.0 (Genetic predisposition to heart disease increases the individual's risk of cardiac events requiring hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +1.5 (Bipolar disorder can lead to acute psychiatric episodes, medication-related complications, or co-occurring physical health issues that necessitate hospitalization.)
+*   **Socioeconomic_Status (Middle):** -0.5 (While not a direct protective factor against specific diseases, a stable middle socioeconomic status generally correlates with better access to healthcare, nutrition, and living conditions, potentially reducing the likelihood of severe health crises.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces the risk of numerous smoking-related illnesses that often lead to hospitalization, such as lung disease, heart disease, and various cancers.)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Low alcohol intake is generally associated with fewer alcohol-related health complications compared to moderate or heavy drinking.)
+*   **HAM-D (7-17: Mild Depression):** +0.5 (While mild, depression can exacerbate existing conditions or, in some cases, lead to a decline in self-care, increasing the risk of hospitalization.)
+*   **Hours_of_Sleep (7.7):** -0.5 (Adequate sleep is crucial for immune function and overall health, reducing susceptibility to illness and improving recovery.)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable consumption can indicate a less healthy diet, potentially contributing to nutrient deficiencies and chronic diseases that increase hospitalization risk.)
+*   **Donated_Blood (Yes):** -0.5 (Voluntary blood donation often implies a certain level of general health and engagement with healthcare, suggesting a lower baseline risk.)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as age, BMI, family history, and current diagnoses, while subtracting contributions from protective factors like not smoking and adequate sleep. Factors without a clear, direct causal link to hospitalization risk (e.g., favorite sport, hair color, phone type) are assigned a neutral contribution of zero.

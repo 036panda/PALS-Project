@@ -1,0 +1,17 @@
+1. 2.0
+
+2. *   Age (52): +1.0 (Increased age is a known risk factor for hospitalization.)
+*   BMI (23.2): +0.0 (Within healthy range, no direct contribution.)
+*   Family_Health_History (Asthma): +1.0 (Family history of respiratory conditions can indicate a predisposition to health issues requiring hospitalization.)
+*   Current_Diagnosis (Anxiety): +0.0 (While anxiety can impact health, it's not a direct, high-magnitude hospitalization risk factor in itself without further complications.)
+*   Weekly_Alcohol_Intake (5): +0.0 (Moderate intake, not a significant risk factor.)
+*   Smoking (No): -1.0 (Absence of smoking reduces hospitalization risk.)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Absence of depression reduces hospitalization risk.)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of these symptoms reduces hospitalization risk.)
+*   Loss_of_Interest (No): -0.5 (Absence of this symptom reduces hospitalization risk.)
+*   Hours_of_Sleep (7.4): +0.0 (Within a healthy range, no direct contribution.)
+*   Exercises (Yes): -1.0 (Regular exercise is a protective factor against many health conditions requiring hospitalization.)
+*   Skips_Breakfast (Yes): +1.0 (Skipping meals can be associated with poorer nutritional habits and overall health, potentially increasing risk.)
+*   Allergy (Shellfish): +1.0 (Presence of a known allergy, even if managed, carries a baseline risk of severe reaction requiring hospitalization.)
+
+3. The risk score is calculated by summing the positive and negative contributions of specific health-related and lifestyle factors that are causally linked to an increased or decreased likelihood of hospitalization. Factors like age, family history of asthma, and the presence of an allergy increase risk, while the absence of smoking, depression, and regular exercise decrease risk.

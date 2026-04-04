@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed Breakdown:
+
+*   **Age (18):** +1 (Young adults, especially those with mental health diagnoses, can be at higher risk for acute episodes requiring hospitalization due to developmental factors, less established coping mechanisms, and potential for first-episode psychosis or severe mood episodes.)
+*   **BMI (30.9):** +0.5 (While not a direct driver of psychiatric hospitalization, obesity can be associated with poorer physical health, which can exacerbate mental health conditions or complicate treatment, indirectly increasing risk.)
+*   **Family_Health_History (nan):** +0 (Lack of information means no direct impact can be assigned. It's a neutral factor in this specific assessment.)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder is a significant risk factor for hospitalization due to the potential for severe manic or depressive episodes, psychosis, and increased risk of self-harm or harm to others during acute phases.)
+*   **Race (Other):** +0.5 (Individuals identifying as "Other" race may experience unique stressors, discrimination, or barriers to care that can indirectly increase mental health crisis risk, though this is a generalized observation and not universally applicable.)
+*   **Gender (Non-binary):** +0.5 (Non-binary individuals often face societal discrimination, stigma, and minority stress, which can contribute to higher rates of mental health challenges and crisis, potentially increasing hospitalization risk.)
+*   **Sexual_Orientation (Bisexual):** +0.5 (Similar to gender identity, bisexual individuals can experience minority stress, discrimination, and stigma, which are known risk factors for mental health issues and potential crises.)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Very low alcohol intake suggests responsible use and is unlikely to contribute to hospitalization risk; in fact, it may indicate a protective factor against substance-induced mood episodes or complications.)
+*   **Smoking (No):** -0.5 (Non-smoking is a positive health behavior that reduces overall health risks and is often associated with better self-care, which can be protective against mental health crises.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (A normal HAM-D score indicates no current depressive symptoms, which is a significant protective factor against hospitalization, especially for someone with bipolar disorder where depressive episodes can be severe.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of sadness or fatigue further supports the lack of current depressive symptoms, reinforcing a protective factor.)
+*   **Loss_of_Interest (Yes):** +1 (Despite a normal HAM-D, "loss of interest" (anhedonia) is a core symptom of depression and can indicate a subthreshold or emerging depressive episode, or a residual symptom of bipolar disorder, increasing vulnerability.)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate and even slightly elevated sleep duration can be a protective factor, suggesting good sleep hygiene or a compensatory mechanism, which can stabilize mood.)
+*   **Employment (Student):** +0 (Being a student can be both a protective factor (structure, social engagement) and a risk factor (academic stress). Without further context, it's neutral.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally implies access to resources, stable housing, and healthcare, which are protective factors against acute mental health crises and hospitalization.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with bipolar disorder presents with several significant risk factors, including their primary diagnosis and minority stress, which are partially mitigated by a lack of current depressive symptoms and positive health behaviors. The presence of "loss of interest" despite a normal HAM-D score warrants close monitoring for an emerging mood episode, contributing to a moderate overall risk of hospitalization.

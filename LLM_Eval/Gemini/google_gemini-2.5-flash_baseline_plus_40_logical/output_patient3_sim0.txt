@@ -1,0 +1,17 @@
+1. 6.5
+
+2. *   Age (64): +1.5 (Increased age is a direct risk factor for hospitalization due to age-related physiological decline and increased susceptibility to illness.)
+*   BMI (29.9): +1.0 (BMI in the overweight/obese range increases the risk of various health complications that may lead to hospitalization.)
+*   Family_Health_History (Asthma): +0.5 (Family history of chronic conditions like asthma suggests a genetic predisposition to respiratory issues, which can exacerbate other health problems or lead to acute episodes requiring hospitalization.)
+*   Current_Diagnosis (Depression): +1.0 (Depression can lead to poorer self-care, weakened immune function, and increased risk of other physical health problems, potentially necessitating hospitalization.)
+*   HAM-D (18–24: Moderate Depression): +1.0 (Moderate depression, as indicated by HAM-D score, directly contributes to the risk of hospitalization due to its impact on physical health and potential for acute mental health crises.)
+*   Loss_of_Interest (Yes): +0.5 (Anhedonia, or loss of interest, is a symptom of depression that can indicate a more severe or persistent mental health state, increasing hospitalization risk.)
+*   Hours_of_Sleep (6.4): +0.5 (Insufficient sleep (less than 7 hours) is linked to weakened immune function, increased inflammation, and higher risk of chronic diseases, all contributing to hospitalization risk.)
+*   Smoking (No): -0.5 (Absence of smoking reduces the risk of numerous smoking-related illnesses that often lead to hospitalization.)
+*   Weekly_Alcohol_Intake (2): -0.5 (Low alcohol intake is associated with fewer alcohol-related health problems, thus reducing hospitalization risk.)
+*   Likes_Vegetables (Yes): -0.5 (A diet rich in vegetables is associated with better overall health and reduced risk of chronic diseases, lowering hospitalization risk.)
+*   Exercises (No): +1.0 (Lack of exercise is a significant risk factor for numerous chronic diseases, including cardiovascular disease, diabetes, and obesity, all of which can lead to hospitalization.)
+*   Allergy (Animal Dander): +0.5 (Allergies can trigger respiratory issues or other acute reactions that may require medical intervention and potentially hospitalization.)
+*   Skips_Breakfast (Yes): +0.5 (Skipping breakfast is associated with poorer dietary quality, increased risk of weight gain, and metabolic issues, indirectly increasing hospitalization risk.)
+
+3. The risk score is calculated by summing the positive and negative contributions of various health, lifestyle, and demographic factors, where each contribution reflects a direct or indirect causal link to increased or decreased hospitalization likelihood. Factors like age, BMI, existing diagnoses, and unhealthy habits increase risk, while positive lifestyle choices decrease it.

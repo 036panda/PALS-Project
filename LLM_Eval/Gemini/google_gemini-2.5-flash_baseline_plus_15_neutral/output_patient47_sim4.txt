@@ -1,0 +1,16 @@
+1. Risk Assessment Score: 5
+
+2. Parameter Risk Values:
+    * Age (22): -1 (Lower risk due to young age)
+    * BMI (27.1): +1 (Slightly elevated BMI, indicating overweight)
+    * Family_Health_History (Heart Disease): +1 (Increased genetic predisposition)
+    * Current_Diagnosis (Schizophrenia): +3 (Significant risk factor for hospitalization)
+    * HAM-D (7-17: Mild Depression): +1 (Mild depression can increase risk)
+    * Been_Sad_or_Fatigued (Yes): +1 (Symptom of potential mental health issues)
+    * Loss_of_Interest (Yes): +1 (Symptom of potential mental health issues)
+    * Hours_of_Sleep (8.9): -1 (Good sleep hygiene, reducing risk)
+    * Weekly_Alcohol_Intake (2): 0 (Moderate, not a significant risk factor)
+    * Smoking (No): -1 (Absence of smoking reduces risk)
+    * Likes_Vegetables (No): +1 (Poor dietary habit, potential health impact)
+
+3. Rationale: The primary drivers of this score are the current diagnosis of schizophrenia and the presence of mild depression symptoms, which significantly increase the risk of hospitalization. These are partially offset by the patient's young age, good sleep habits, and absence of smoking.

@@ -1,0 +1,13 @@
+1. Risk Assessment Score: 4
+
+2. Parameter contributions:
+    * Age: 18 = -1 (Lower risk for hospitalization at this age)
+    * BMI: 25.6 = 0 (Normal weight, no direct risk)
+    * Family_Health_History: Hypertension = +1 (Increased genetic predisposition to health issues)
+    * Current_Diagnosis: Bipolar = +3 (Significant risk factor for hospitalization)
+    * Hours_of_Sleep: 5.7 = +1 (Insufficient sleep, contributing to health issues)
+    * Has_Drivers_License: No = 0 (No direct impact on hospitalization risk)
+    * Uses_Public_Transportation: Never = 0 (No direct impact on hospitalization risk)
+    * Allergy: Shellfish = 0 (No direct impact on hospitalization risk unless severe reaction occurs)
+
+3. Rationale: The primary drivers of this individual's risk are their bipolar diagnosis and insufficient sleep, with a minor contribution from family history of hypertension. Their young age partially mitigates the overall risk.

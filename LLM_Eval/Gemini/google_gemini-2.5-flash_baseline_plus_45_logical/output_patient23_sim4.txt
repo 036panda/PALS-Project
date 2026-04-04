@@ -1,0 +1,17 @@
+1. 6.5
+
+2.
+*   Age (56): +1.0 (Increased risk with age, particularly over 50)
+*   BMI (31.1): +1.0 (BMI > 30 indicates obesity, a significant health risk factor)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues can increase hospitalization risk)
+*   Current_Diagnosis (Schizophrenia): +2.0 (Serious mental health conditions are strongly associated with higher hospitalization rates due to complex care needs and potential for acute episodes)
+*   Loss_of_Interest (Yes): +0.5 (Indicates potential underlying mental health distress or early signs of depression, even with a normal HAM-D score)
+*   Skips_Breakfast (Yes): +0.2 (Poor dietary habits can negatively impact overall health and immune function)
+*   Orders_Takeout (Daily): +0.3 (Frequent takeout often implies a diet high in processed foods, contributing to poor health outcomes)
+*   Exercises (Yes): -0.5 (Regular exercise is a protective factor against many health conditions)
+*   Volunteers (Always): -0.5 (Engagement in prosocial activities can be indicative of better mental well-being and social support, which are protective factors)
+*   Annual_Charity_Donation (Always): -0.5 (Similar to volunteering, indicates prosocial behavior and potentially better mental health)
+*   Socioeconomic_Status (Middle): +0.5 (While not low, middle status can still face financial stressors that impact healthcare access and adherence compared to high socioeconomic status)
+*   Has_Drivers_License (No): +0.5 (May indicate limited access to transportation for routine medical appointments, potentially leading to delayed care)
+
+3. The risk score is calculated by summing the contributions of factors known to directly or indirectly influence hospitalization risk, with positive values for risk-increasing factors (e.g., age, obesity, chronic mental illness, poor diet, limited access) and negative values for protective factors (e.g., exercise, prosocial engagement).

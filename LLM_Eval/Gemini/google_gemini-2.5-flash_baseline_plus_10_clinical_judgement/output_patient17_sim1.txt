@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (20):** -0.5 (Younger age generally associated with lower risk of hospitalization for many conditions, though mental health crises can occur at any age.)
+*   **BMI (24.6):** -0.2 (Healthy BMI, indicating no immediate obesity-related hospitalization risk.)
+*   **Family_Health_History (Cancer):** +0.1 (While not directly impacting current hospitalization for schizophrenia, a family history of chronic illness can sometimes indicate a broader genetic predisposition to health issues, albeit a very minor factor here.)
+*   **Current_Diagnosis (Schizophrenia):** +6.0 (This is the most significant factor. Schizophrenia is a severe mental illness with a high risk of acute exacerbations requiring hospitalization for stabilization, medication management, and safety.)
+*   **Race (Black):** +0.5 (Systemic inequities in healthcare access and quality for Black individuals can lead to delayed care and more severe presentations, increasing hospitalization risk when care is eventually sought.)
+*   **Gender (Other):** +0.3 (Individuals identifying as "Other" gender may face unique stressors, discrimination, and barriers to mental healthcare, potentially increasing risk of crisis and hospitalization.)
+*   **Sexual_Orientation (Heterosexual):** -0.1 (No direct impact on hospitalization risk; slight negative as it doesn't introduce additional stressors seen in some LGBTQ+ populations.)
+*   **Weekly_Alcohol_Intake (6):** +0.2 (Moderate alcohol intake, while not excessive, can interact with psychiatric medications or exacerbate symptoms in individuals with schizophrenia, slightly increasing risk.)
+*   **Smoking (No):** -0.3 (Absence of smoking reduces risk of respiratory and cardiovascular complications that could lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depressive symptoms is a protective factor, as co-occurring depression can worsen schizophrenia outcomes and increase hospitalization risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates better current emotional stability, reducing immediate risk.)
+*   **Loss_of_Interest (Yes):** +0.8 (Anhedonia, or loss of interest, is a core negative symptom of schizophrenia and can indicate worsening illness or poor functional status, increasing the likelihood of needing more intensive care.)
+*   **Hours_of_Sleep (7.6):** -0.2 (Adequate sleep is a protective factor for mental health.)
+*   **Employment (Student):** +0.4 (While being a student can provide structure, the academic demands and social pressures can also be significant stressors for someone with schizophrenia, potentially increasing risk of decompensation.)
+*   **Socioeconomic_Status (Low):** +1.0 (Low SES is a significant risk factor for hospitalization in individuals with severe mental illness due to limited access to consistent care, stable housing, nutritious food, and other resources that support mental health stability.)
+*   **Drinks_Coffee (Yes):** -0.1 (No significant impact; potentially a minor positive for alertness, but negligible.)
+*   **Likes_Vegetables (No):** +0.1 (Poor dietary habits can contribute to overall poorer physical health, which can indirectly impact mental health stability and hospitalization risk.)
+*   **Favourite_Sport (Gymnastics):** -0.1 (Engagement in physical activity, even if just as a fan, can be a minor positive indicator of engagement and interest.)
+*   **Votes (Sometimes):** -0.1 (Civic engagement, even if inconsistent, can indicate some level of social integration.)
+*   **Height_in_Inches (58):** -0.1 (No direct impact on hospitalization risk.)
+*   **Has_Drivers_License (No):** +0.1 (Lack of a driver's license might indicate limited independence or access to transportation, which could be a barrier to consistent outpatient care, slightly increasing risk.)
+*   **Picks_Up_Litter (Always):** -0.2 (Indicates prosocial behavior and a sense of responsibility, which can be a protective factor for overall well-being.)
+*   **Uses_Public_Transportation (Never):** +0.1 (If no driver's license, this suggests reliance on others for transportation, which could be a barrier to accessing care, increasing risk.)
+*   **Donated_Blood (Yes):** -0.1 (Indicates altruism and engagement, a minor positive.)
+*   **Birthday_Month (April):** 0.0 (No impact on hospitalization risk.)
+
+3. This young individual with a primary diagnosis of schizophrenia, despite exhibiting some protective factors like adequate sleep and absence of depression, faces a high risk of hospitalization due to the inherent severity of their mental illness, compounded by socioeconomic disadvantages and the presence of a core negative symptom (loss of interest).

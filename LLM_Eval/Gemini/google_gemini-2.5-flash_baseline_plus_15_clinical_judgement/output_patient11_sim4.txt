@@ -1,0 +1,36 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (31):** +0.5 (Younger adults with mental health conditions may have higher risk of acute episodes requiring hospitalization compared to older, more stable populations, though this is offset by general health.)
+*   **BMI (29.7):** +0.2 (Approaching obesity, which can be associated with poorer physical health and potentially exacerbate mental health conditions, but not a primary driver for acute hospitalization.)
+*   **Family_Health_History (nan):** +0.0 (No information, so no direct impact.)
+*   **Current_Diagnosis (Schizophrenia):** +4.0 (This is a primary driver of hospitalization risk due to the nature of the illness, potential for acute psychotic episodes, and need for stabilization.)
+*   **Race (White):** +0.0 (No direct impact on hospitalization risk.)
+*   **Gender (Female):** +0.0 (No direct impact on hospitalization risk.)
+*   **Sexual_Orientation (Bisexual):** +0.0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (4):** +0.3 (Moderate alcohol intake, while not excessive, can interact with medications or contribute to mood instability in individuals with schizophrenia.)
+*   **Smoking (No):** -0.2 (Positive health behavior, reducing overall health complications.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Co-occurring mild depression can increase distress and complicate management of schizophrenia, potentially increasing risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.1 (Absence of these symptoms is a positive indicator.)
+*   **Loss_of_Interest (Yes):** +0.3 (Anhedonia is a common symptom of depression and schizophrenia, indicating ongoing symptom burden.)
+*   **Hours_of_Sleep (7.1):** -0.1 (Adequate sleep is a protective factor.)
+*   **Employment (Employed):** -0.5 (Employment is a significant protective factor, indicating better functioning, structure, and social integration.)
+*   **Socioeconomic_Status (Low):** +1.0 (Low SES is a significant risk factor for hospitalization due to limited access to resources, poorer living conditions, and increased stress.)
+*   **Drinks_Coffee (No):** +0.0 (No direct impact.)
+*   **Likes_Vegetables (No):** +0.1 (Indicates potentially poorer dietary habits, which can impact overall health and mental well-being.)
+*   **Favourite_Sport (nan):** +0.0 (No information, no direct impact.)
+*   **Votes (Always):** -0.1 (Indicates civic engagement and potentially better social integration/functioning.)
+*   **Height_in_Inches (71):** +0.0 (No direct impact.)
+*   **Has_Drivers_License (Yes):** -0.1 (Indicates independence and access to transportation, which can facilitate care.)
+*   **Picks_Up_Litter (Sometimes):** +0.0 (No direct impact.)
+*   **Uses_Public_Transportation (Always):** +0.1 (While not inherently negative, reliance on public transport can sometimes indicate limited personal mobility or financial constraints, especially in areas with poor public transport infrastructure, potentially impacting access to care.)
+*   **Donated_Blood (No):** +0.0 (No direct impact.)
+*   **Birthday_Month (April):** +0.0 (No direct impact.)
+*   **Water_Intake_oz (42.9):** -0.1 (Adequate hydration is a positive health behavior.)
+*   **Bilingual (No):** +0.0 (No direct impact.)
+*   **Handedness (Right):** +0.0 (No direct impact.)
+*   **Likes_Kids (Yes):** +0.0 (No direct impact.)
+*   **Favourite_Meal (Dinner):** +0.0 (No direct impact.)
+
+3. Clinical Rationale: This individual presents with a significant baseline risk due to a diagnosis of schizophrenia, compounded by low socioeconomic status and co-occurring mild depression, which collectively increase the likelihood of an acute exacerbation requiring inpatient care. However, protective factors such as employment, adequate sleep, and absence of severe fatigue offer some resilience against immediate hospitalization.

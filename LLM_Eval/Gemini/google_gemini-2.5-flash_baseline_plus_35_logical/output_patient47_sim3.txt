@@ -1,0 +1,19 @@
+7.5
+
+*   **Age (22):** +0.0 (Younger age generally implies lower risk, but 22 is not an extreme, so neutral contribution)
+*   **BMI (27.1):** +0.5 (Overweight, increasing risk for various health issues)
+*   **Family_Health_History (Heart Disease):** +1.0 (Genetic predisposition to a major chronic illness)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant mental health condition with high hospitalization risk)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression, while not severe, can exacerbate other conditions or lead to hospitalization if untreated)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptoms consistent with depression, adding to mental health burden)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptoms consistent with depression, adding to mental health burden)
+*   **Hours_of_Sleep (8.9):** -0.5 (Adequate sleep, a protective factor)
+*   **Employment (Student):** +0.0 (Neutral, can be stressful but also provides structure)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither high nor low risk)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habit, contributing to overall health risk)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habit, contributing to overall health risk)
+*   **Allergy (Pollen):** +0.5 (Common allergy, can lead to respiratory issues or complications requiring medical attention)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as existing diagnoses, family history of chronic disease, and lifestyle choices that impact health. Factors like race, gender, sexual orientation, hobbies, and personal preferences are excluded as they do not have a direct causal link to hospitalization risk in this formal logic model.

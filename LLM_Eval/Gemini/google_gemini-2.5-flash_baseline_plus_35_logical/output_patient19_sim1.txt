@@ -1,0 +1,54 @@
+1. 3
+
+2. *   Age: 34 (Neutral: 0) - No significant risk increase or decrease at this age.
+    *   BMI: 23.1 (Neutral: 0) - Healthy BMI.
+    *   Family_Health_History: nan (Neutral: 0) - No information, so no contribution.
+    *   Current_Diagnosis: Depression (Positive: +1) - Depression can be a comorbidity or lead to behaviors that increase hospitalization risk.
+    *   Race: Other (Neutral: 0) - No inherent risk.
+    *   Gender: Female (Neutral: 0) - No inherent risk.
+    *   Sexual_Orientation: Heterosexual (Neutral: 0) - No inherent risk.
+    *   Weekly_Alcohol_Intake: 2 (Neutral: 0) - Moderate, not a significant risk factor.
+    *   Smoking: No (Negative: -1) - Absence of a major risk factor.
+    *   HAM-D: 0–6: Normal / No Depression (Negative: -1) - Contradicts "Current_Diagnosis: Depression" but indicates current low severity, reducing risk.
+    *   Been_Sad_or_Fatigued: Yes (Positive: +1) - Suggests underlying mental or physical health issues, even if HAM-D is low.
+    *   Loss_of_Interest: No (Negative: -1) - Absence of a key depressive symptom, reducing risk.
+    *   Hours_of_Sleep: 7.0 (Neutral: 0) - Adequate sleep.
+    *   Employment: Employed (Negative: -1) - Suggests stability and access to resources.
+    *   Socioeconomic_Status: Low (Positive: +1) - Associated with poorer health outcomes and access to care.
+    *   Drinks_Coffee: Yes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Likes_Vegetables: No (Positive: +1) - Potentially indicates a less healthy diet.
+    *   Favourite_Sport: Hockey (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Votes: Sometimes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Height_in_Inches: 73 (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Has_Drivers_License: Yes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Picks_Up_Litter: Always (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Uses_Public_Transportation: Never (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Donated_Blood: Yes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Birthday_Month: November (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Water_Intake_oz: 45.2 (Neutral: 0) - Adequate hydration.
+    *   Bilingual: Yes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Handedness: Right (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Likes_Kids: Yes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Favourite_Meal: Breakfast (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Favourite_Color: Yellow (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Recycling_Habits: Always (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Hair_Color: Black (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Best_Highschool_Subject: Science (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Travels: Yes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Relationship_Status: Dating (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Favourite_Music_Genre: Pop (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Can_Ride_Bicycle: No (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Religious: No (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Phone: Android (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Wears_Glasses: Yes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Morning_or_Night: Morning (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Allergy: Animal Dander (Neutral: 0) - Manageable allergy, not a direct hospitalization risk.
+    *   Binge_Watches_TV: Yes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Favourite_Super_Store: Target (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Pet_Preference: Dog (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Volunteers: Sometimes (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Skips_Breakfast: No (Negative: -1) - Indicates a regular, potentially healthier routine.
+    *   Favourite_Movie_Genre: Romance (Neutral: 0) - No direct causal link to hospitalization risk.
+    *   Registered_Organ_Donor: Yes (Neutral: 0) - No direct causal link to hospitalization risk.
+
+3. The risk score is calculated by summing the contributions of factors directly linked to health and socioeconomic stability. The presence of a depression diagnosis and low socioeconomic status increase risk, while the absence of smoking, a normal HAM-D score, and employment reduce it, resulting in a net positive risk.

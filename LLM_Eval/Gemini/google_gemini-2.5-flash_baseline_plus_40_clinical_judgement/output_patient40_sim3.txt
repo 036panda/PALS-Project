@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (26):** -1 (Younger age generally associated with lower risk of hospitalization for many conditions, though mental health crises can occur at any age.)
+*   **BMI (29.1):** +1 (Approaching overweight/obese category, which can contribute to various health issues over time, increasing risk.)
+*   **Family_Health_History (Diabetes):** +0.5 (Indicates a genetic predisposition to a chronic condition, increasing long-term health risk.)
+*   **Current_Diagnosis (Bipolar):** +3 (This is a significant risk factor for hospitalization, particularly during acute manic or depressive episodes, or for medication management.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Current absence of significant depressive symptoms is a positive factor, reducing immediate mental health crisis risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +1 (While HAM-D is low, self-reported sadness/fatigue can be an early indicator of mood instability or subclinical symptoms in bipolar disorder.)
+*   **Loss_of_Interest (Yes):** +1 (Similar to sadness/fatigue, anhedonia can be a symptom of mood dysregulation in bipolar disorder, even if not meeting full depressive criteria.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below optimal sleep duration, which can exacerbate mood symptoms and overall health in individuals with bipolar disorder.)
+*   **Socioeconomic_Status (Low):** +1 (Lower socioeconomic status is consistently linked to poorer health outcomes, reduced access to care, and increased stress, all contributing to higher hospitalization risk.)
+*   **Allergy (Milk/Eggs):** +0.5 (While not immediately life-threatening if managed, food allergies require vigilance and can lead to acute events if exposure occurs, potentially requiring emergency care.)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habits can negatively impact overall health and mood stability, especially in individuals with mental health conditions.)
+
+3. Clinical Rationale: This 26-year-old non-binary individual with a bipolar diagnosis carries a moderate risk of hospitalization primarily due to their underlying mental health condition, despite currently low HAM-D scores, as self-reported mood symptoms and suboptimal sleep suggest potential instability. Compounding factors include lower socioeconomic status and a family history of diabetes, which can impact overall health and access to consistent care.

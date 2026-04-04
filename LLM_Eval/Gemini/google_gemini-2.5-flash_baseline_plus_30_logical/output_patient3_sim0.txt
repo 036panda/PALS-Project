@@ -1,0 +1,17 @@
+7
+
+*   Age (64): +2.0 (Increased age is a direct risk factor for hospitalization due to general physiological decline and increased susceptibility to illness.)
+*   BMI (29.9): +1.0 (BMI in the overweight/obese range is a direct risk factor for various health complications that may lead to hospitalization.)
+*   Family_Health_History (Asthma): +0.5 (Family history of asthma indicates a genetic predisposition to respiratory issues, which can exacerbate other conditions or lead to acute episodes requiring hospitalization.)
+*   Current_Diagnosis (Depression): +1.5 (Depression, especially moderate, can lead to self-neglect, poorer health outcomes, and increased risk of medical complications or psychiatric crises requiring hospitalization.)
+*   Race (Native American): +0.5 (Systemic health disparities and socioeconomic factors often place Native American individuals at higher risk for various health conditions and poorer access to preventative care, increasing hospitalization risk.)
+*   Loss_of_Interest (Yes): +0.5 (A symptom of depression, indicating a potential worsening of mental health and reduced engagement in self-care, increasing hospitalization risk.)
+*   Hours_of_Sleep (6.4): +0.5 (Insufficient sleep is linked to weakened immune function, increased inflammation, and poorer chronic disease management, all contributing to higher hospitalization risk.)
+*   Allergy (Animal Dander): +0.5 (Presence of an allergy, especially one that can trigger respiratory symptoms, increases the risk of acute allergic reactions or exacerbation of existing conditions, potentially requiring hospitalization.)
+*   Weekly_Alcohol_Intake (2): -0.2 (Moderate alcohol consumption, within recommended limits, is not a significant risk factor and may even have minor protective effects for some cardiovascular conditions, slightly reducing risk.)
+*   Smoking (No): -1.0 (Absence of smoking significantly reduces the risk of numerous chronic diseases and acute respiratory events that commonly lead to hospitalization.)
+*   Likes_Vegetables (Yes): -0.3 (A diet rich in vegetables is associated with better overall health, reduced risk of chronic diseases, and improved immune function, lowering hospitalization risk.)
+*   Employment (Retired): +0.5 (While retirement itself isn't a direct risk, it often correlates with older age and potentially reduced physical activity or social engagement, which can indirectly increase health risks.)
+*   HAM-D (18–24: Moderate Depression): +1.0 (This specific HAM-D score confirms moderate depression, a significant mental health condition that can directly lead to hospitalization for psychiatric care or indirectly due to associated physical health decline.)
+
+The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age, BMI, existing diagnoses, and lifestyle choices, while subtracting contributions from protective factors. The logical basis is that each factor either directly or indirectly increases or decreases the likelihood of requiring inpatient medical care.

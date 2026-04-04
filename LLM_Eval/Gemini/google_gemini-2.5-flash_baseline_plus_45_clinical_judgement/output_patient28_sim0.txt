@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (25):** -1 (Younger age generally associated with lower risk of hospitalization for many conditions, assuming no acute issues.)
+*   **BMI (28.5):** +0.5 (Slightly overweight, which can be a minor risk factor for some health issues, but not significantly elevated.)
+*   **Family_Health_History (Hypertension):** +0.5 (Indicates a genetic predisposition to a common chronic condition, increasing long-term risk slightly.)
+*   **Current_Diagnosis (Bipolar):** +3 (This is a significant risk factor for hospitalization, particularly if not well-managed or if experiencing an acute episode. Even with good management, the inherent nature of the condition carries a higher risk of psychiatric hospitalization.)
+*   **Weekly_Alcohol_Intake (7):** 0 (Within recommended limits, no significant impact.)
+*   **Smoking (No):** -1 (Absence of smoking is a positive health factor.)
+*   **HAM-D (0–6: Normal / No Depression):** -2 (Indicates current absence of depressive symptoms, which is a strong protective factor against psychiatric hospitalization related to depression.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms is a positive indicator.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of this symptom is a positive indicator.)
+*   **Hours_of_Sleep (7.8):** -0.5 (Adequate sleep is a protective factor for overall health and mental well-being.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to care, stability, and mental health.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to healthcare and resources.)
+*   **Allergy (Gluten):** +1 (While manageable, a diagnosed allergy requires dietary vigilance and can lead to health issues if not properly managed, potentially requiring medical attention.)
+*   **Skips_Breakfast (Yes):** +0.5 (Can contribute to less stable blood sugar and overall poorer nutritional habits, a minor risk factor.)
+*   **Exercises (No):** +1 (Lack of regular exercise is a known risk factor for various chronic diseases and overall poorer health outcomes.)
+
+3. This young adult presents with a significant psychiatric diagnosis of Bipolar Disorder, which inherently elevates hospitalization risk despite current euthymia, alongside minor lifestyle and health factors like lack of exercise and a gluten allergy. However, protective factors such as adequate sleep, employment, and absence of current depressive symptoms mitigate the overall immediate risk.

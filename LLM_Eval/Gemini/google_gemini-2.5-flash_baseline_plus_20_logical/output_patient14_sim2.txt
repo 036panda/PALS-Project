@@ -1,0 +1,11 @@
+7
+
+*   **Age (18):** +0.5 (Young adults, especially those with mental health diagnoses, can have higher hospitalization rates due to acute episodes or challenges in managing their condition independently.)
+*   **BMI (30.9 - Obese Class I):** +1.0 (Obesity is a significant risk factor for numerous health complications that may require hospitalization, including cardiovascular issues, diabetes, and respiratory problems.)
+*   **Current_Diagnosis (Bipolar):** +4.0 (Bipolar disorder is a severe mental illness with a high risk of hospitalization due due to manic or depressive episodes, psychosis, or suicidal ideation.)
+*   **Loss_of_Interest (Yes):** +1.0 (While HAM-D is normal, "Loss of Interest" can be a symptom of underlying or emerging mental health issues, including depression, which can increase hospitalization risk if it escalates.)
+*   **Socioeconomic_Status (Middle):** -0.5 (While not a direct protective factor against specific illnesses, middle socioeconomic status generally correlates with better access to healthcare and resources, potentially reducing the likelihood of hospitalization compared to lower SES.)
+*   **Weekly_Alcohol_Intake (1):** +0.5 (Even low alcohol intake, especially in individuals with mental health conditions, can exacerbate symptoms or interact with medications, potentially increasing risk.)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits, indicated by not liking vegetables, can contribute to overall poorer health and increase the risk of various conditions that may require hospitalization.)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as a severe mental health diagnosis (Bipolar), obesity, and indicators of potential worsening mental health or poor general health habits. Protective factors, like middle socioeconomic status, are subtracted.

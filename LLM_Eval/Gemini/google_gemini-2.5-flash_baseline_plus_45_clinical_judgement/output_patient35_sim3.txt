@@ -1,0 +1,19 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +0.5 (Younger adults, especially those with mental health diagnoses, can have higher rates of acute crises requiring hospitalization.)
+*   **BMI (25.6):** +0.1 (Slightly overweight, a minor contributor to general health risk.)
+*   **Family_Health_History (Hypertension):** +0.2 (Genetic predisposition to chronic conditions, though not directly impacting acute hospitalization for current diagnosis.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is a significant driver of hospitalization risk due to the nature of the illness, including manic or depressive episodes that can require inpatient stabilization.)
+*   **Gender (Non-binary):** +0.3 (Minority stress and potential for discrimination can negatively impact mental health and access to care, subtly increasing risk.)
+*   **Hours_of_Sleep (5.7):** +0.5 (Chronic sleep deprivation can exacerbate mental health conditions, particularly bipolar disorder, and increase the likelihood of mood destabilization.)
+*   **Socioeconomic_Status (High):** -0.5 (Access to better healthcare, resources, and support systems can mitigate risk.)
+*   **Employment (Employed):** -0.2 (Provides structure, financial stability, and a sense of purpose, which are protective factors for mental health.)
+*   **Exercises (Yes):** -0.2 (Regular physical activity is a known positive factor for mental and physical health.)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of current depressive symptoms is a significant protective factor against hospitalization for mood episodes.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates current mood stability.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of anhedonia further supports current mood stability.)
+*   **Weekly_Alcohol_Intake (5):** +0.3 (While not excessive, any alcohol use can interact with bipolar disorder and medications, potentially contributing to mood instability.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with a bipolar diagnosis faces a moderate risk of hospitalization, primarily driven by their underlying mental health condition and suboptimal sleep, despite current mood stability and high socioeconomic status offering some protective factors.

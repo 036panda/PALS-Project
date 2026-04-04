@@ -1,0 +1,16 @@
+1. 6.5
+
+2. *   Age (62): +1.5 (Increased risk with age, particularly over 60)
+*   BMI (33.4): +2.0 (Obesity, BMI > 30, is a significant risk factor)
+*   Current_Diagnosis (Depression): +1.0 (Mental health conditions can impact physical health and hospitalization risk)
+*   Socioeconomic_Status (Low): +1.0 (Lower socioeconomic status is associated with poorer health outcomes and higher hospitalization rates)
+*   Hours_of_Sleep (6.7): +0.5 (Less than 7 hours of sleep is associated with increased health risks)
+*   Smoking (No): -0.5 (Absence of smoking reduces risk)
+*   Exercises (Yes): -0.5 (Regular exercise reduces health risks)
+*   Likes_Vegetables (Yes): -0.5 (Healthy dietary habits reduce risk)
+*   Weekly_Alcohol_Intake (1): -0.5 (Low alcohol intake, within recommended limits, reduces risk compared to higher intake or abstinence in some contexts)
+*   Allergy (Shellfish): +0.5 (Presence of allergies can increase risk of adverse reactions or complications)
+*   Skips_Breakfast (Yes): +0.5 (Skipping meals can be associated with poorer health habits)
+*   Orders_Takeout (Daily): +0.5 (Frequent takeout consumption can indicate a less healthy diet)
+
+3. The risk score is calculated by summing the positive contributions from identified risk factors (age, obesity, depression, low socioeconomic status, insufficient sleep, allergies, skipping breakfast, frequent takeout) and subtracting the negative contributions from protective factors (no smoking, regular exercise, healthy vegetable intake, low alcohol consumption). Each contribution reflects a direct causal or strongly associated relationship with hospitalization risk.

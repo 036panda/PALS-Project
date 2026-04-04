@@ -1,0 +1,25 @@
+1. 4.5
+
+2. *   Age: 20 (Contribution: -0.5) - Younger age generally correlates with lower hospitalization risk.
+*   BMI: 21.0 (Contribution: -0.2) - Healthy BMI is associated with lower risk.
+*   Family_Health_History: Cancer (Contribution: +0.5) - Family history of chronic disease can indicate a predisposition to health issues.
+*   Current_Diagnosis: Bipolar (Contribution: +2.0) - Mental health conditions, especially bipolar disorder, are strongly linked to increased hospitalization risk due to potential for acute episodes, comorbidity, and treatment-related issues.
+*   Weekly_Alcohol_Intake: 0 (Contribution: -0.3) - No alcohol intake is a positive health factor.
+*   Smoking: No (Contribution: -0.5) - Non-smoker status is a significant positive health factor.
+*   HAM-D: 7–17: Mild Depression (Contribution: +0.5) - While mild, depression can still contribute to overall health vulnerability.
+*   Been_Sad_or_Fatigued: No (Contribution: -0.2) - Absence of these symptoms is a positive indicator.
+*   Loss_of_Interest: No (Contribution: -0.2) - Absence of this symptom is a positive indicator.
+*   Hours_of_Sleep: 5.7 (Contribution: +0.8) - Insufficient sleep (less than 7-9 hours) is a significant risk factor for various health problems.
+*   Socioeconomic_Status: Low (Contribution: +1.0) - Lower socioeconomic status is consistently associated with poorer health outcomes and higher hospitalization rates due to limited access to care, nutrition, and stressful living conditions.
+*   Drinks_Coffee: Yes (Contribution: -0.1) - Moderate coffee consumption can have some health benefits.
+*   Likes_Vegetables: Yes (Contribution: -0.2) - Healthy dietary preference.
+*   Exercises: Yes (Contribution: -0.5) - Regular exercise is a strong protective factor against many diseases.
+*   Skips_Breakfast: Yes (Contribution: +0.3) - Skipping meals, especially breakfast, can negatively impact metabolism and overall health.
+*   Allergy: Pollen (Contribution: +0.1) - Allergies can sometimes exacerbate other conditions or require medical attention.
+*   Wears_Glasses: Yes (Contribution: +0.1) - Indicates a pre-existing health condition (vision impairment) that may require ongoing management.
+*   Orders_Takeout: Weekly (Contribution: +0.2) - Frequent takeout can be associated with less healthy dietary choices.
+*   Water_Intake_oz: 43.7 (Contribution: -0.1) - Adequate hydration is a positive health factor.
+*   Volunteers: Always (Contribution: -0.1) - Volunteering can be associated with better mental well-being.
+*   Helps_Elderly: Always (Contribution: -0.1) - Prosocial behavior can be associated with better mental well-being.
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, with positive values for risk-increasing factors (e.g., bipolar disorder, low socioeconomic status, insufficient sleep) and negative values for risk-decreasing factors (e.g., healthy BMI, no smoking, regular exercise). The magnitude of each contribution reflects the estimated strength of its causal relationship with hospitalization.

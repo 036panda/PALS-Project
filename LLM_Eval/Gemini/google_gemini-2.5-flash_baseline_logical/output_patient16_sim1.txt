@@ -1,0 +1,19 @@
+1. 4
+
+2. * Age (45): +0.5 (Increased risk with age, but 45 is not elderly)
+    * BMI (25.2): +0.5 (Slightly overweight, contributing to minor risk)
+    * Family_Health_History (Hypertension): +1.0 (Genetic predisposition to a common chronic condition)
+    * Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical health issues or lead to hospitalization for mental health crises)
+    * Race (Hispanic): +0.0 (No direct causal link to hospitalization risk without further context)
+    * Gender (Male): +0.0 (No direct causal link to hospitalization risk)
+    * Sexual_Orientation (Other): +0.0 (No direct causal link to hospitalization risk)
+    * Weekly_Alcohol_Intake (1): +0.0 (Low intake, not a significant risk factor)
+    * Smoking (Yes): +1.0 (Significant risk factor for numerous health complications)
+    * HAM-D (7–17: Mild Depression): +0.0 (Mild depression, not severe enough to directly warrant hospitalization risk in itself)
+    * Been_Sad_or_Fatigued (No): -0.0 (Absence of this symptom reduces risk)
+    * Loss_of_Interest (No): -0.0 (Absence of this symptom reduces risk)
+    * Hours_of_Sleep (7.9): -0.0 (Adequate sleep, reducing risk)
+    * Employment (Employed): -0.0 (Employment often correlates with better access to care and stability, reducing risk)
+    * Socioeconomic_Status (Middle): -0.0 (Middle socioeconomic status often correlates with better access to care and stability, reducing risk)
+
+3. The risk score is calculated by summing the positive contributions from factors known to causally increase hospitalization risk, such as smoking, family history of hypertension, and current anxiety, while assigning zero or negative contributions to factors that do not directly increase risk or are protective.

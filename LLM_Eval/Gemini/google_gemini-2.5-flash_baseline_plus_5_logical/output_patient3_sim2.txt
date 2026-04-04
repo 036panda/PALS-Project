@@ -1,0 +1,24 @@
+7
+
+*   Age (64): +2 (Increased risk with advancing age)
+*   BMI (29.9): +1 (Approaching obesity, which is a risk factor)
+*   Family_Health_History (Asthma): +1 (Genetic predisposition to respiratory issues, which can complicate other conditions)
+*   Current_Diagnosis (Depression): +1 (Mental health conditions can impact physical health and adherence to treatment)
+*   Race (Native American): +1 (Certain racial groups experience health disparities and higher rates of chronic conditions)
+*   Gender (Male): +0 (No direct causal link to hospitalization risk in this context)
+*   Sexual_Orientation (Heterosexual): +0 (No direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (2): +0 (Moderate intake, not a significant risk factor)
+*   Smoking (No): -1 (Absence of a major risk factor)
+*   HAM-D (18–24: Moderate Depression): +1 (Confirms and quantifies the impact of depression)
+*   Been_Sad_or_Fatigued (No): -1 (Absence of a common symptom of worsening health)
+*   Loss_of_Interest (Yes): +1 (Symptom of depression, indicating potential for self-neglect or worsening mental state)
+*   Hours_of_Sleep (6.4): +0 (Within a reasonable range, not a significant risk factor)
+*   Employment (Retired): +0 (No direct causal link to hospitalization risk)
+*   Socioeconomic_Status (Middle): +0 (No direct causal link to hospitalization risk)
+*   Drinks_Coffee (Yes): +0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (Yes): -1 (Positive health behavior)
+*   Favourite_Sport (Soccer): +0 (No direct causal link to hospitalization risk)
+*   Votes (Always): +0 (No direct causal link to hospitalization risk)
+*   Height_in_Inches (65): +0 (No direct causal link to hospitalization risk)
+
+The risk score is derived by summing the positive and negative contributions of individual factors, where each contribution reflects a known or plausible causal relationship to hospitalization risk, such as age and pre-existing conditions increasing risk, and healthy behaviors decreasing it.

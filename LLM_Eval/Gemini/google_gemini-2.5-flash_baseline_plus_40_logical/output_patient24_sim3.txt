@@ -1,0 +1,22 @@
+1. 7.5
+
+2. *   **Age (52):** +0.5 (Increased risk with age, though not elderly)
+*   **BMI (16.4):** +1.5 (Severely underweight, indicating potential malnutrition or underlying health issues)
+*   **Family_Health_History (Cancer):** +0.5 (Genetic predisposition to a serious illness)
+*   **Current_Diagnosis (Bipolar):** +1.5 (Significant mental health condition often requiring hospitalization for stabilization)
+*   **Smoking (Yes):** +1.0 (Major risk factor for numerous health complications)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (While mild, depression can exacerbate other conditions or lead to self-neglect)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential for worsening mental health)
+*   **Hours_of_Sleep (4.8):** +1.0 (Chronic severe sleep deprivation, detrimental to physical and mental health)
+*   **Has_Drivers_License (No):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Uses_Public_Transportation (Always):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Donated_Blood (Yes):** -0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Water_Intake_oz (43.7):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Recycling_Habits (Never):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Can_Ride_Bicycle (No):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Wears_Glasses (Yes):** +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   **Allergy (Dust):** +0.0 (Neutral, common allergy, generally not a direct hospitalization risk unless severe and uncontrolled)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor nutritional habit, can contribute to overall health decline)
+*   **Exercises (No):** +1.0 (Lack of physical activity is a significant risk factor for various chronic diseases)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to increased hospitalization risk, such as severe underweight, significant mental health diagnosis, smoking, and chronic sleep deprivation, while assigning neutral contributions to factors without a clear causal relationship.

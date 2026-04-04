@@ -1,0 +1,17 @@
+6
+
+**Input Factors and Contributions:**
+
+*   **Age (18):** +0.5 (Young adult, generally lower risk, but not zero)
+*   **BMI (25.6):** +0.5 (Slightly overweight, minor risk factor)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition with known hospitalization risk)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate intake, but still a factor)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep, negatively impacts overall health and mental well-being)
+*   **Socioeconomic_Status (High):** -0.5 (Protective factor, access to resources)
+*   **Allergy (Shellfish):** +0.5 (Potential for severe allergic reaction, though not directly related to current diagnosis)
+*   **Exercises (Yes):** -0.5 (Protective factor, promotes physical and mental health)
+
+**Justification:**
+
+The risk score is primarily driven by the significant impact of the Bipolar diagnosis and insufficient sleep, which are known contributors to hospitalization risk. Other factors like family history, BMI, and alcohol intake add minor contributions, while high socioeconomic status and regular exercise offer some protective effects.

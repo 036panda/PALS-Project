@@ -1,0 +1,18 @@
+1. 6.5
+
+2. *   **Age (18):** +0.5 (Young adult, generally lower risk, but still susceptible to certain conditions)
+*   **BMI (30.9):** +1.5 (Obese, increased risk for various health complications)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition, often requiring hospitalization for management or crises)
+*   **Loss_of_Interest (Yes):** +1.0 (Symptom of depression, which can escalate to a need for hospitalization)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources, reducing risk)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor dietary habit, can contribute to overall health issues)
+*   **Exercises (No):** +1.0 (Lack of physical activity, increases risk for various health problems)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Low alcohol intake, generally not a significant risk factor)
+*   **Smoking (No):** -1.0 (Absence of a major health risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Indicates good mental health in this specific measure)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common symptom of mental health decline)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep, generally beneficial for health)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habit, can contribute to overall health issues)
+*   **Allergy (Penecillin):** +0.5 (Presence of an allergy, while not directly increasing hospitalization risk, can complicate treatment if hospitalization is needed for other reasons)
+
+3. The risk score is calculated by summing the contributions of factors known to directly influence hospitalization risk, such as chronic conditions (Bipolar), lifestyle choices (BMI, exercise, diet), and mental health indicators (loss of interest), while mitigating factors like good sleep and absence of smoking reduce the score.

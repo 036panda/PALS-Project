@@ -1,0 +1,24 @@
+1. 4.5
+
+2. *   Age (73): +2.0 (Increased risk with advanced age)
+*   BMI (22.5): +0.0 (Normal range, no direct contribution)
+*   Family_Health_History (Asthma): +0.5 (Potential genetic predisposition to respiratory issues, which can complicate hospitalizations)
+*   Current_Diagnosis (Anxiety): +0.5 (While HAM-D is normal, a diagnosis of anxiety can be a comorbidity that impacts overall health and stress response, potentially increasing hospitalization risk in certain scenarios)
+*   Race (Native American): +0.5 (Acknowledging systemic health disparities and potential access to care issues)
+*   Gender (Non-binary): +0.0 (No direct causal link to hospitalization risk)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (6): +0.0 (Moderate intake, no direct contribution to increased risk)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Absence of depression, a protective factor)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Despite normal HAM-D, persistent sadness/fatigue can indicate underlying health issues or stress, potentially increasing vulnerability)
+*   Loss_of_Interest (No): -0.0 (No direct contribution to risk)
+*   Hours_of_Sleep (9.7): -0.5 (Adequate to high sleep duration, generally a protective factor)
+*   Employment (Retired): +0.0 (No direct causal link to hospitalization risk)
+*   Socioeconomic_Status (Low): +1.0 (Significant factor due to potential limited access to preventative care, nutritious food, and higher stress levels)
+*   Drinks_Coffee (No): +0.0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (No): +0.5 (Indicates a potentially less healthy diet, increasing risk)
+*   Favourite_Sport (Basketball): +0.0 (No direct causal link to hospitalization risk)
+*   Votes (Sometimes): +0.0 (No direct causal link to hospitalization risk)
+*   Height_in_Inches (70): +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is computed by summing individual contributions from factors causally linked to health outcomes and healthcare utilization, such as age, socioeconomic status, and specific health indicators, while assigning zero or negative contributions to neutral or protective factors. This reflects a direct aggregation of known risk and protective elements.

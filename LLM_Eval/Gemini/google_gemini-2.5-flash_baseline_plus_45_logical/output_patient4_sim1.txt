@@ -1,0 +1,17 @@
+1. 7.5
+
+2. *   Age (40): +0.5 (Increased risk with age, but 40 is moderate)
+*   BMI (16.7): +1.0 (Underweight, associated with health complications)
+*   Family_Health_History (Hypertension): +1.0 (Genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis (Depression): +1.0 (Mental health conditions can impact physical health and adherence to treatment)
+*   Weekly_Alcohol_Intake (3): +0.5 (Moderate alcohol intake, still a risk factor)
+*   Smoking (Yes): +2.0 (Major risk factor for numerous diseases)
+*   HAM-D (18–24: Moderate Depression): +0.5 (Confirms and quantifies the impact of depression)
+*   Been_Sad_or_Fatigued (Yes): +0.25 (Symptom of depression, indicating potential for further health decline)
+*   Loss_of_Interest (Yes): +0.25 (Symptom of depression, indicating potential for further health decline)
+*   Socioeconomic_Status (Low): +0.5 (Associated with poorer access to healthcare and healthy lifestyle choices)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits)
+*   Skips_Breakfast (Yes): +0.25 (Poor dietary habits)
+*   Exercises (No): +0.5 (Lack of physical activity is a significant health risk)
+
+3. The risk score is calculated by summing the individual contributions of identified risk factors, where each factor's contribution is weighted based on its established causal link to increased hospitalization risk. Factors such as smoking, low BMI, family history of hypertension, and current depression diagnosis are assigned higher positive contributions due to their strong and direct causal relationship with adverse health outcomes and potential need for hospitalization.

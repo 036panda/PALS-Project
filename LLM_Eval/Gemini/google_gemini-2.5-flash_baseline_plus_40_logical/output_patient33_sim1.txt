@@ -1,0 +1,15 @@
+1. 6.5
+
+2. *   BMI (13.4, underweight): +2.0 (Causal: Underweight individuals are at higher risk for various health complications, including weakened immune system and nutrient deficiencies, increasing hospitalization likelihood.)
+*   Family_Health_History (Diabetes): +1.0 (Causal: Genetic predisposition to chronic conditions like diabetes increases an individual's own risk of developing related complications requiring hospitalization.)
+*   Hours_of_Sleep (5.0, insufficient): +1.0 (Causal: Chronic sleep deprivation negatively impacts immune function, cardiovascular health, and mental well-being, increasing susceptibility to illness and accidents.)
+*   Smoking (No): -0.5 (Causal: Absence of smoking, a major risk factor for numerous diseases, reduces the likelihood of hospitalization for smoking-related conditions.)
+*   Weekly_Alcohol_Intake (4, moderate): -0.2 (Causal: Moderate alcohol consumption, while not entirely risk-free, is generally associated with lower health risks compared to heavy drinking or abstinence in some contexts.)
+*   HAM-D (7–17: Mild Depression): +0.5 (Causal: Mild depression can impact physical health through stress responses and reduced self-care, potentially leading to conditions requiring hospitalization.)
+*   Loss_of_Interest (Yes): +0.5 (Causal: A symptom often associated with mental health issues, indicating potential underlying conditions that could escalate and require medical intervention.)
+*   Exercises (No): +1.0 (Causal: Lack of regular exercise is a significant risk factor for numerous chronic diseases, including cardiovascular disease, obesity, and diabetes, increasing hospitalization risk.)
+*   Skips_Breakfast (Yes): +0.2 (Causal: Skipping meals can lead to nutritional deficiencies, energy fluctuations, and poor metabolic control, potentially contributing to health issues.)
+*   Allergy (Gluten): +0.5 (Causal: Managing a significant allergy requires vigilance and can lead to acute reactions if exposure occurs, potentially necessitating emergency care.)
+*   Age (42): +0.5 (Causal: While not elderly, individuals in their 40s begin to experience a gradual increase in the prevalence of age-related health conditions compared to younger adults.)
+
+3. The risk score is calculated by summing the contributions of individual health and lifestyle factors, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these factors and hospitalization likelihood.

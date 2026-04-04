@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** -1 (Young age generally associated with lower risk of medical hospitalization, though mental health considerations are separate.)
+*   **BMI (30.9):** +1 (Class I obesity, a risk factor for various health complications.)
+*   **Family_Health_History (nan):** 0 (No information, neutral impact.)
+*   **Current_Diagnosis (Bipolar):** +5 (Significant risk factor for psychiatric hospitalization, especially if not well-controlled.)
+*   **Race (Other):** 0 (Neutral impact without further context.)
+*   **Gender (Non-binary):** 0 (Neutral impact.)
+*   **Sexual_Orientation (Bisexual):** 0 (Neutral impact.)
+*   **Weekly_Alcohol_Intake (1):** 0 (Low intake, not a significant risk factor.)
+*   **Smoking (No):** -1 (Absence of smoking is a protective factor.)
+*   **HAM-D (0–6: Normal / No Depression):** -2 (Indicates absence of depressive symptoms, which is a protective factor against psychiatric hospitalization.)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of these symptoms is a protective factor.)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is low, loss of interest can be a symptom of underlying mood dysregulation or anhedonia, which warrants attention in a bipolar patient.)
+*   **Hours_of_Sleep (9.7):** -1 (Adequate sleep is generally protective.)
+*   **Employment (Student):** 0 (Neutral impact.)
+*   **Socioeconomic_Status (Middle):** 0 (Neutral impact.)
+*   **Drinks_Coffee (No):** 0 (Neutral impact.)
+*   **Likes_Vegetables (No):** +1 (Poor dietary habits can contribute to overall health risks.)
+*   **Favourite_Sport (Soccer):** 0 (Neutral impact.)
+*   **Votes (Never):** 0 (Neutral impact.)
+*   **Height_in_Inches (62):** 0 (Neutral impact.)
+*   **Has_Drivers_License (No):** 0 (Neutral impact.)
+*   **Picks_Up_Litter (Never):** 0 (Neutral impact.)
+*   **Uses_Public_Transportation (Never):** 0 (Neutral impact.)
+*   **Donated_Blood (No):** 0 (Neutral impact.)
+*   **Birthday_Month (April):** 0 (Neutral impact.)
+
+3. Clinical-style rationale: This young individual with a diagnosis of Bipolar disorder carries an inherent risk for psychiatric hospitalization, despite current absence of depressive symptoms and adequate sleep. The presence of obesity and reported loss of interest, even with a low HAM-D score, suggests potential for mood instability or other health concerns that could escalate, necessitating close monitoring.

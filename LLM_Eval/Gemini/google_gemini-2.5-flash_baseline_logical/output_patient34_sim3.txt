@@ -1,0 +1,19 @@
+1. 5.5
+
+2. *   Age (19): +0.5 (Slightly elevated risk due to being a young adult, often associated with higher risk-taking behaviors or mental health crises, but not a primary driver of hospitalization at this age.)
+*   BMI (46.7): +2.0 (Severely obese, significantly increases risk for numerous health complications requiring hospitalization.)
+*   Family_Health_History (nan): +0.0 (No information, thus no contribution.)
+*   Current_Diagnosis (Anxiety): +1.0 (Anxiety, especially if severe or unmanaged, can lead to physical symptoms or mental health crises requiring hospitalization.)
+*   Race (Asian): +0.0 (No direct causal link to increased hospitalization risk in this context.)
+*   Gender (Female): +0.0 (No direct causal link to increased hospitalization risk in this context.)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to increased hospitalization risk.)
+*   Weekly_Alcohol_Intake (0): -0.5 (Absence of alcohol intake reduces risk of alcohol-related hospitalizations.)
+*   Smoking (Yes): +1.5 (Significant risk factor for numerous chronic diseases and acute respiratory issues requiring hospitalization.)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Absence of clinical depression reduces risk of mental health crisis-related hospitalization.)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (While not clinical depression, persistent sadness/fatigue can indicate underlying issues that might escalate.)
+*   Loss_of_Interest (Yes): +0.5 (Similar to sadness/fatigue, this can be a symptom of underlying issues that could worsen.)
+*   Hours_of_Sleep (9.1): -0.5 (Adequate sleep generally contributes to better health and reduced risk.)
+*   Employment (Student): +0.0 (No direct causal link to increased hospitalization risk.)
+*   Socioeconomic_Status (Middle): +0.5 (While not low, middle status can still face financial stressors or access barriers that slightly elevate risk compared to high SES.)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate reduced risk, based on established causal links between these factors and the likelihood of hospitalization. The primary drivers of this score are severe obesity, smoking, and anxiety, with some mitigating factors like no alcohol intake and adequate sleep.

@@ -1,0 +1,24 @@
+1. 3.0
+
+2. *   **Age (29):** +0.0 (No significant risk contribution for this age group)
+*   **BMI (25.9):** +0.0 (Within healthy range)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Anxiety can indirectly impact physical health and increase healthcare utilization)
+*   **Race (Asian):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Gender (Male):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (5 units):** +0.0 (Within moderate limits, no significant risk)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of a major mental health risk factor)
+*   **Been_Sad_or_Fatigued (Yes):** +1.0 (Indicates potential underlying stress or health issues, even without formal depression)
+*   **Loss_of_Interest (Yes):** +1.0 (Similar to sadness/fatigue, suggests potential underlying issues)
+*   **Hours_of_Sleep (3.7):** +2.0 (Significantly low sleep, a major contributor to various health problems)
+*   **Employment (Employed):** -0.0 (Positive factor, but not directly reducing hospitalization risk in a quantifiable way here)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral in this specific calculation)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -0.0 (Positive factor, but not directly reducing hospitalization risk in a quantifiable way here)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Sometimes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (60):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of identified health and lifestyle factors. Positive contributions arise from conditions like anxiety, low sleep, and symptoms of distress (sadness/fatigue, loss of interest), which are known to increase health vulnerabilities, while negative contributions reflect the absence of major risk factors like smoking and depression.

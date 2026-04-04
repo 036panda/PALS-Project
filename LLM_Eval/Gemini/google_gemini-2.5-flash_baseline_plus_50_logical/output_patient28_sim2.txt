@@ -1,0 +1,21 @@
+1. 3
+
+2. *   Age (25): +0 (No significant risk increase at this age)
+*   BMI (28.5): +1 (Slightly overweight, contributing to minor health risks)
+*   Family_Health_History (Hypertension): +1 (Genetic predisposition to a common chronic condition)
+*   Current_Diagnosis (Bipolar): +2 (Mental health conditions can increase hospitalization risk, especially if not well-managed)
+*   Weekly_Alcohol_Intake (7): +0 (Moderate intake, generally not a significant risk factor)
+*   Smoking (No): -1 (Absence of a major health risk factor)
+*   HAM-D (0-6: Normal / No Depression): -1 (Good mental health indicator)
+*   Been_Sad_or_Fatigued (No): -0.5 (Positive mental well-being indicator)
+*   Loss_of_Interest (No): -0.5 (Positive mental well-being indicator)
+*   Hours_of_Sleep (7.8): +0 (Adequate sleep)
+*   Employment (Employed): -0.5 (Associated with better health outcomes and access to care)
+*   Socioeconomic_Status (Middle): -0.5 (Generally associated with better health access and outcomes)
+*   Allergy (Gluten): +1 (Can lead to health complications if not managed, potentially requiring hospitalization)
+*   Exercises (No): +1 (Lack of exercise is a risk factor for various health issues)
+*   Skips_Breakfast (Yes): +0.5 (Can contribute to poor dietary habits and energy levels)
+*   Has_Cheated_on_an_Assignment_Before (Yes): +0 (No direct causal link to hospitalization risk)
+*   Other factors: +0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to health outcomes and access to care, such as existing diagnoses, family history, lifestyle choices, and socioeconomic status, while excluding irrelevant personal preferences or non-health-related behaviors.

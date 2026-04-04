@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed Breakdown of Attribute Impact:
+
+*   **Age (22):** +0.5 (Young adults, especially with mental health issues, can be at higher risk for acute crises requiring hospitalization.)
+*   **BMI (23.8):** 0 (Within healthy range, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Cancer):** 0 (While relevant for long-term health, no direct acute impact on current hospitalization risk for mental health.)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Anxiety, especially when severe and co-occurring with depression, significantly increases the likelihood of acute mental health crises.)
+*   **Race (Other):** 0 (No direct impact on hospitalization risk without further context.)
+*   **Gender (Non-binary):** +0.5 (Non-binary individuals may face unique stressors and discrimination, potentially increasing mental health vulnerability and risk of crisis.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (7):** 0 (Within moderate limits, not a significant acute risk factor for hospitalization.)
+*   **Smoking (Yes):** +1.0 (Smoking is often a coping mechanism for stress and can be associated with more severe mental health conditions, increasing overall vulnerability.)
+*   **HAM-D (25+: Severe Depression):** +3.0 (This is a primary driver of risk. Severe depression significantly increases the likelihood of suicidal ideation, self-harm, or functional impairment requiring inpatient care.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these common depressive symptoms, despite a high HAM-D, might suggest a more atypical presentation or a focus on other symptoms, slightly reducing the immediate perceived crisis level compared to someone reporting all classic symptoms.)
+*   **Loss_of_Interest (No):** -0.5 (Similar to the above, the absence of anhedonia, a core depressive symptom, might slightly mitigate the immediate crisis perception, though severe depression is still present.)
+*   **Hours_of_Sleep (6.3):** +0.5 (Slightly below optimal, indicating potential sleep disturbance which can exacerbate mental health symptoms and increase crisis risk.)
+*   **Employment (Student):** +0.5 (Students often face academic pressure and financial stress, which can exacerbate mental health conditions.)
+*   **Socioeconomic_Status (Low):** +1.0 (Low SES is a significant risk factor for poorer mental health outcomes, limited access to outpatient care, and increased likelihood of crisis requiring hospitalization.)
+*   **Drinks_Coffee (No):** 0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (Yes):** 0 (Positive health behavior, but no direct acute impact on hospitalization risk.)
+*   **Favourite_Sport (Hockey):** 0 (No direct impact on hospitalization risk.)
+*   **Votes (Sometimes):** 0 (No direct impact on hospitalization risk.)
+*   **Height_in_Inches (59):** 0 (No direct impact on hospitalization risk.)
+
+3. Clinical Rationale: This young, non-binary individual presents with severe depression and co-occurring anxiety, compounded by smoking, low socioeconomic status, and the stressors of being a student. While the absence of some classic depressive symptoms (sadness, anhedonia) is noted, the HAM-D score of 25+ indicates a high level of distress and functional impairment, making hospitalization a significant concern for safety and stabilization.

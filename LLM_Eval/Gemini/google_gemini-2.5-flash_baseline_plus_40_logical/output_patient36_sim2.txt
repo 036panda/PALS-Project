@@ -1,0 +1,18 @@
+1. 7
+
+2. *   Age (68): +1.5 (Increased risk with advanced age)
+*   BMI (29.7): +0.5 (Overweight, approaching obese, contributes to health issues)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis (Schizophrenia): +2.0 (Significant mental health condition often requiring hospitalization)
+*   Smoking (Yes): +1.0 (Major risk factor for numerous diseases)
+*   HAM-D (25+: Severe Depression): +1.5 (High severity of depression, often linked to hospitalization)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating ongoing distress)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating ongoing distress)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer health outcomes and access to care)
+*   Exercises (No): +0.5 (Lack of physical activity increases health risks)
+*   Weekly_Alcohol_Intake (3): -0.5 (Moderate intake, potentially protective or neutral, but not a significant risk factor here)
+*   Hours_of_Sleep (7.7): -0.5 (Adequate sleep, a protective factor)
+*   Volunteers (Always): -0.5 (Associated with better mental and physical well-being)
+*   Skips_Breakfast (No): -0.5 (Regular eating habits are generally positive)
+
+3. The risk score is calculated by summing the contributions of factors causally linked to hospitalization risk, such as advanced age, mental health conditions, lifestyle choices, and socioeconomic status, while subtracting contributions from protective factors like adequate sleep and positive social engagement.

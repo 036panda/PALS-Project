@@ -1,0 +1,19 @@
+1. 3.0
+
+2. *   **Age (36):** +0.0 (No significant increase in risk for this age group)
+*   **BMI (31.3):** +1.0 (Obese, contributing to increased risk)
+*   **Family_Health_History (Asthma):** +0.5 (Presence of chronic respiratory condition in family, indicating potential genetic predisposition)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health condition, can impact physical health and increase healthcare utilization)
+*   **Race (White):** +0.0 (No direct causal link to increased hospitalization risk in this model)
+*   **Gender (Male):** +0.0 (No direct causal link to increased hospitalization risk in this model)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to increased hospitalization risk in this model)
+*   **Weekly_Alcohol_Intake (5 units):** +0.0 (Within moderate limits, no significant increase in risk)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of depression, a protective factor)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of symptoms often associated with underlying health issues)
+*   **Loss_of_Interest (No):** -0.5 (Absence of symptoms often associated with underlying health issues)
+*   **Hours_of_Sleep (6.0):** +0.5 (Slightly below recommended, potentially impacting health)
+*   **Employment (Employed):** -0.5 (Indicates a degree of stability and access to resources)
+*   **Socioeconomic_Status (Low):** +2.0 (Significant contributor due to potential barriers to healthcare access, nutrition, and stress)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate reduced risk. Causal relationships are assigned based on established medical and socioeconomic determinants of health, with factors like obesity, anxiety, and low socioeconomic status directly increasing hospitalization likelihood, while the absence of smoking or depression reduces it.

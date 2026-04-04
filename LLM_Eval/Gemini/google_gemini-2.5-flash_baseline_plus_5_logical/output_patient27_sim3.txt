@@ -1,0 +1,24 @@
+1. 0.0
+
+2. *   Age (38 years): -0.5 (Lower risk due to being outside typical high-risk age ranges)
+*   BMI (21.8): -0.5 (Lower risk due to being within healthy weight range)
+*   Family_Health_History (Asthma): +0.5 (Slightly increased risk due to genetic predisposition to respiratory issues)
+*   Current_Diagnosis (Anxiety): +0.5 (Slightly increased risk due to potential for comorbidity or stress-related health impacts)
+*   Race (Black): +0.5 (Acknowledging systemic health disparities and potential for increased risk)
+*   Gender (Non-binary): +0.5 (Acknowledging potential for healthcare disparities and stress-related health impacts)
+*   Sexual_Orientation (Heterosexual): 0.0 (No direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (2 units): -0.5 (Lower risk due to moderate or no alcohol consumption)
+*   Smoking (No): -1.0 (Significantly lower risk due to absence of smoking)
+*   HAM-D (Normal / No Depression): -1.0 (Significantly lower risk due to good mental health)
+*   Been_Sad_or_Fatigued (No): -0.5 (Lower risk due to absence of these symptoms)
+*   Loss_of_Interest (No): -0.5 (Lower risk due to absence of this symptom)
+*   Hours_of_Sleep (6.3): 0.0 (Within a reasonable range, no direct causal link to increased risk)
+*   Employment (Employed): -0.5 (Lower risk due to potential for better access to healthcare and resources)
+*   Socioeconomic_Status (High): -1.0 (Significantly lower risk due to access to resources and quality healthcare)
+*   Drinks_Coffee (No): 0.0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (No): +0.5 (Slightly increased risk due to potential for less healthy diet)
+*   Favourite_Sport (Soccer): 0.0 (No direct causal link to hospitalization risk)
+*   Votes (Always): 0.0 (No direct causal link to hospitalization risk)
+*   Height_in_Inches (73): 0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. Factors like healthy BMI, absence of smoking, good mental health, and high socioeconomic status significantly reduce risk, while factors like family history of asthma, current anxiety diagnosis, and systemic health disparities associated with race and gender contribute to a slight increase in risk.

@@ -1,0 +1,24 @@
+1. 4.0
+
+2. *   **Age (56):** +1.0 (Risk increases with age; 50-60 range contributes moderately)
+*   **BMI (28.0):** +0.5 (BMI in the overweight range contributes slightly to risk)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution)
+*   **Current_Diagnosis (nan):** +0.0 (No information, no contribution)
+*   **Race (Asian):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Gender (Other):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Weekly_Alcohol_Intake (4 units):** +0.0 (Within moderate limits, no significant contribution)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression is a recognized health concern that can increase risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of persistent sadness/fatigue reduces risk)
+*   **Loss_of_Interest (Yes):** +1.0 (Presence of anhedonia, a symptom of depression, increases risk)
+*   **Hours_of_Sleep (6.1):** +0.5 (Slightly below optimal sleep duration, contributing to minor risk)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better health access and outcomes, reducing risk)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral contribution in this model)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable consumption can indicate poorer dietary habits, increasing risk)
+*   **Favourite_Sport (Basketball):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Votes (Sometimes):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Height_in_Inches (70):** +0.0 (No direct causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. Causal relationships are inferred from established health guidelines and epidemiological observations linking specific patient attributes to hospitalization likelihood.

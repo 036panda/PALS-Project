@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   **Age (36):** +0.5 (Increased risk with age, though moderate at 36)
+*   **BMI (36.8):** +2.0 (Obesity, BMI > 30, significantly increases risk)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to cardiovascular issues)
+*   **Current_Diagnosis (nan):** +0.0 (No current diagnosis, neutral)
+*   **Race (Black):** +0.5 (Acknowledged disparities in healthcare access and outcomes for certain racial groups, contributing to higher hospitalization risk)
+*   **Gender (Non-binary):** +0.5 (Potential for healthcare discrimination and unique health challenges, increasing risk)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Neutral in this context)
+*   **Weekly_Alcohol_Intake (7):** +0.0 (Moderate intake, within generally accepted low-risk guidelines)
+*   **Smoking (Yes):** +1.5 (Significant risk factor for numerous health conditions)
+*   **HAM-D (0–6: Normal / No Depression):** +0.0 (No depression, neutral)
+*   **Been_Sad_or_Fatigued (Yes):** +0.25 (Indicates potential underlying stress or health issues, even without a depression diagnosis)
+*   **Loss_of_Interest (Yes):** +0.25 (Similar to fatigue, suggests potential underlying issues)
+*   **Hours_of_Sleep (5.7):** +0.5 (Insufficient sleep, generally less than 7 hours, increases health risks)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better health outcomes and access to resources)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither high nor low risk)
+
+3. The risk score is derived by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these health and social determinants and hospitalization likelihood. The calculation reflects the cumulative impact of multiple risk factors such as obesity, smoking, family history, and insufficient sleep, while also accounting for potential disparities and protective factors.

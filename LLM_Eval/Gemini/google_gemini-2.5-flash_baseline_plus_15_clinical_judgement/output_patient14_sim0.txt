@@ -1,0 +1,36 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of attribute impacts:
+
+*   **Age (18):** +1 (Young adults, especially those with mental health diagnoses, can be at higher risk for acute episodes requiring hospitalization.)
+*   **BMI (30.9):** +0.5 (Obesity is a general health risk factor, but its direct impact on *acute psychiatric hospitalization* in this context is moderate.)
+*   **Family_Health_History (nan):** +0 (Lack of information prevents assessment of genetic predisposition to mental health crises.)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder is a significant risk factor for psychiatric hospitalization due to the nature of manic/depressive episodes.)
+*   **Race (Other):** +0 (No direct impact on hospitalization risk without further context.)
+*   **Gender (Non-binary):** +0.5 (Minority stress and discrimination can contribute to mental health challenges, potentially increasing risk.)
+*   **Sexual_Orientation (Bisexual):** +0.5 (Similar to gender, minority stress can be a contributing factor.)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Low alcohol intake is a protective factor against substance-induced mental health crises.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a protective factor for overall health and mental well-being.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Current absence of depressive symptoms is a significant protective factor against immediate hospitalization.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms is a protective factor.)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, "Loss of Interest" can be a subtle indicator of underlying mood dysregulation or an early warning sign, especially in bipolar disorder.)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep is a protective factor for mental health.)
+*   **Employment (Student):** +0 (Neutral impact; can be a source of stress or structure.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to resources and support, reducing risk.)
+*   **Drinks_Coffee (No):** +0 (Neutral impact.)
+*   **Likes_Vegetables (No):** +0 (Neutral impact.)
+*   **Favourite_Sport (Soccer):** +0 (Neutral impact.)
+*   **Votes (Never):** +0 (Neutral impact.)
+*   **Height_in_Inches (62):** +0 (Neutral impact.)
+*   **Has_Drivers_License (No):** +0 (Neutral impact.)
+*   **Picks_Up_Litter (Never):** +0 (Neutral impact.)
+*   **Uses_Public_Transportation (Never):** +0 (Neutral impact.)
+*   **Donated_Blood (No):** +0 (Neutral impact.)
+*   **Birthday_Month (April):** +0 (Neutral impact.)
+*   **Water_Intake_oz (44.0):** +0 (Neutral impact.)
+*   **Bilingual (Yes):** +0 (Neutral impact.)
+*   **Handedness (Right):** +0 (Neutral impact.)
+*   **Likes_Kids (Yes):** +0 (Neutral impact.)
+*   **Favourite_Meal (Lunch):** +0 (Neutral impact.)
+
+3. This young adult with a bipolar diagnosis carries a moderate to high risk for hospitalization, primarily driven by the inherent instability of their condition and the presence of "loss of interest" despite a normal HAM-D score, which could indicate subthreshold symptoms or an impending mood shift. However, protective factors such as low alcohol intake, no smoking, adequate sleep, and middle socioeconomic status mitigate the immediate risk.

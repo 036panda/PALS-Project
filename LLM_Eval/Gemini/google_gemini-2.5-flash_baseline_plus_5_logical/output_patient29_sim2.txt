@@ -1,0 +1,12 @@
+7.2
+
+*   **BMI (35.9):** +2.5 (Obesity is a significant risk factor for various health complications requiring hospitalization.)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to serious illness increases overall health risk.)
+*   **Current_Diagnosis (Anxiety):** +1.5 (Mental health conditions, especially if untreated or severe, can lead to physical health issues or crises requiring hospitalization.)
+*   **Weekly_Alcohol_Intake (4):** +0.2 (Moderate alcohol consumption, while not high, still carries some health risks.)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep is linked to a weakened immune system, increased stress, and higher risk of chronic diseases.)
+*   **Likes_Vegetables (No):** +1.0 (Poor dietary habits, specifically lack of vegetable intake, contribute to nutritional deficiencies and increased risk of various health problems.)
+*   **Age (22):** -0.5 (Younger age generally correlates with lower hospitalization risk compared to older populations.)
+*   **Smoking (No):** -0.5 (Absence of smoking significantly reduces risk of numerous chronic diseases.)
+
+The risk score is calculated by summing the positive contributions from factors indicating increased health vulnerabilities (obesity, family history of cancer, anxiety, insufficient sleep, poor diet) and subtracting negative contributions from protective factors (young age, no smoking), reflecting their direct causal impact on hospitalization likelihood.

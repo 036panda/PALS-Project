@@ -1,0 +1,22 @@
+1. 6
+
+2. *   Age: 74 (+3) - Increased age is a significant risk factor for hospitalization.
+    *   BMI: 29.4 (+1) - Overweight BMI contributes to increased health risks.
+    *   Family_Health_History: Cancer (+1) - Genetic predisposition to serious illness.
+    *   Weekly_Alcohol_Intake: 4 (0) - Moderate alcohol intake, no significant contribution.
+    *   Smoking: No (0) - Absence of a major risk factor.
+    *   HAM-D: 0–6: Normal / No Depression (0) - Good mental health.
+    *   Been_Sad_or_Fatigued: No (0) - Good mental health.
+    *   Loss_of_Interest: No (0) - Good mental health.
+    *   Hours_of_Sleep: 7.0 (0) - Adequate sleep.
+    *   Employment: Retired (0) - No direct impact on hospitalization risk.
+    *   Socioeconomic_Status: Middle (0) - No direct impact on hospitalization risk.
+    *   Drinks_Coffee: No (0) - No direct impact on hospitalization risk.
+    *   Likes_Vegetables: Yes (-1) - Positive health habit.
+    *   Water_Intake_oz: 44.7 (0) - Adequate water intake.
+    *   Allergy: Tree Nuts (+2) - Presence of a significant allergy that could lead to hospitalization.
+    *   Wears_Glasses: Yes (0) - No direct impact on hospitalization risk.
+    *   Can_Ride_Bicycle: No (0) - No direct impact on hospitalization risk.
+    *   All other factors (Race, Gender, Sexual_Orientation, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Religious, Phone, Morning_or_Night, Binge_Watches_TV, Favourite_Super_Store): (0) - No direct causal link to hospitalization risk.
+
+3. The risk score is calculated by summing the contributions of factors known to directly influence hospitalization risk, such as advanced age, elevated BMI, family history of serious illness, and the presence of significant allergies. Positive health behaviors like liking vegetables reduce the score.

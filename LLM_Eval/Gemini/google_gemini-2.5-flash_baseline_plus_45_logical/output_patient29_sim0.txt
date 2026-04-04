@@ -1,0 +1,14 @@
+1. 5.5
+
+2. *   **Age (22):** -0.5 (Lower risk due to young age)
+*   **BMI (35.9):** +2.0 (Increased risk due to obesity)
+*   **Family_Health_History (Cancer):** +1.0 (Increased risk due to genetic predisposition/family history of serious illness)
+*   **Current_Diagnosis (Anxiety):** +0.5 (Slightly increased risk due to mental health condition, which can impact overall health and coping mechanisms)
+*   **Weekly_Alcohol_Intake (4):** +0.2 (Slightly increased risk due to moderate alcohol consumption)
+*   **Hours_of_Sleep (5.7):** +1.0 (Increased risk due to insufficient sleep)
+*   **Allergy (Gluten):** +0.3 (Slightly increased risk due to dietary restriction and potential for related health issues if not managed)
+*   **Skips_Breakfast (Yes):** +0.5 (Increased risk due to poor dietary habit)
+*   **Exercises (Yes):** -0.5 (Decreased risk due to regular physical activity)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Increased risk due to mild depression, which can impact overall health and well-being)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as age, BMI, family health history, current diagnoses, lifestyle choices (alcohol, sleep, exercise, diet), and existing health conditions (allergies, depression). Positive contributions reflect increased risk, while negative contributions reflect decreased risk.

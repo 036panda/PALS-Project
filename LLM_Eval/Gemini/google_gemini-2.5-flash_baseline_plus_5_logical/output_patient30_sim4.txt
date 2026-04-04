@@ -1,0 +1,24 @@
+7.2
+
+*   **Age (49):** +0.5 (Increased risk with age, but 49 is not elderly)
+*   **BMI (29.7):** +0.8 (Overweight, approaching obese, contributing to health complications)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization)
+*   **Race (Native American):** +0.7 (Known disparities in healthcare access and outcomes)
+*   **Gender (Female):** +0.2 (Some conditions are more prevalent in females, slight general increase)
+*   **Sexual_Orientation (Other):** +0.3 (Potential for healthcare discrimination or lack of tailored care)
+*   **Weekly_Alcohol_Intake (2):** +0.1 (Low, but any alcohol consumption carries a minimal risk)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mental health condition, even mild, increases risk)
+*   **Been_Sad_or_Fatigued (No):** -0.2 (Absence of a common symptom of worsening mental health)
+*   **Loss_of_Interest (Yes):** +0.8 (Symptom of depression, indicating potential for worsening mental state)
+*   **Hours_of_Sleep (5.8):** +0.6 (Insufficient sleep, contributing to overall health decline)
+*   **Employment (Employed):** -0.3 (Indicates some level of stability and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.1 (Generally stable, but not high enough to negate all other risks)
+*   **Drinks_Coffee (No):** +0.0 (Neutral factor)
+*   **Likes_Vegetables (No):** +0.4 (Poor dietary habits, contributing to health issues)
+*   **Favourite_Sport (Basketball):** +0.0 (Neutral factor)
+*   **Votes (Never):** +0.4 (May indicate disengagement or lack of civic participation, potentially correlating with other risk factors)
+*   **Height_in_Inches (60):** +0.0 (Neutral factor)
+
+The risk score is derived by summing the individual contributions of each factor, where positive values represent increased risk and negative values represent decreased risk, based on established causal links between these attributes and hospitalization likelihood. The presence of multiple mental health indicators (Bipolar, Mild Depression, Loss of Interest) and lifestyle factors (BMI, poor sleep, no vegetables) significantly elevates the overall risk.

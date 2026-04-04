@@ -1,0 +1,12 @@
+7
+
+*   Age (52): +0.5 (Increased risk with age, but not elderly)
+*   BMI (16.4): +1.5 (Underweight, associated with various health issues)
+*   Family_Health_History (Cancer): +1.0 (Genetic predisposition to serious illness)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant mental health condition often requiring hospitalization)
+*   Smoking (Yes): +1.5 (Major risk factor for numerous diseases)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential for worsening mental health)
+*   Hours_of_Sleep (4.8): +1.0 (Chronic sleep deprivation, detrimental to physical and mental health)
+*   Weekly_Alcohol_Intake (7): -1.0 (Moderate alcohol intake, not a significant risk factor for hospitalization)
+
+The risk score is calculated by summing the positive contributions from factors indicating increased health vulnerabilities (e.g., underweight, bipolar disorder, smoking, poor sleep) and subtracting the negative contribution from a factor that does not significantly increase risk (moderate alcohol intake).

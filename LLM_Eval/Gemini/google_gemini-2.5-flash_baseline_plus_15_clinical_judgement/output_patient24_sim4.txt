@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (52):** +0.5 (Increased age can be a factor in overall health and comorbidity risk, though 52 is not elderly.)
+*   **BMI (16.4):** +2.0 (Severely underweight, indicating potential malnutrition or underlying health issues that significantly increase vulnerability.)
+*   **Family_Health_History (Cancer):** +0.5 (While not directly impacting current hospitalization risk for bipolar, a family history of serious illness can sometimes indicate a predisposition to other health vulnerabilities or a general genetic susceptibility.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Bipolar disorder itself carries a significant risk of hospitalization, especially during acute episodes of mania or severe depression.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (While "mild," depression in the context of bipolar disorder can escalate and contribute to functional impairment or suicidal ideation, increasing risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (Anhedonia is a core symptom of depression and can indicate worsening mental state, increasing the likelihood of needing more intensive care.)
+*   **Hours_of_Sleep (4.8):** +1.0 (Chronic severe sleep deprivation is a significant trigger for mood episodes in bipolar disorder and can severely impair judgment and functioning, directly increasing hospitalization risk.)
+*   **Smoking (Yes):** +0.5 (Smoking is a general health risk factor that can exacerbate existing conditions and complicate recovery, indirectly increasing hospitalization risk.)
+*   **Employment (Employed):** -0.5 (Employment suggests a degree of functional stability and social engagement, which can be protective.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally implies better access to resources and support, which can mitigate risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a potentially healthier lifestyle choice, which can be a protective factor for overall health.)
+
+3. Clinical Rationale: This patient presents with several significant risk factors for hospitalization, primarily driven by severe underweight (BMI 16.4), a diagnosis of bipolar disorder, and chronic severe sleep deprivation (4.8 hours). While some protective factors exist, the combination of these high-impact variables, particularly the physiological stress of being underweight and the psychiatric instability associated with bipolar disorder and poor sleep, warrants a high level of concern for potential acute care needs.

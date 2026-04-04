@@ -1,0 +1,24 @@
+1. 5.5
+
+2. *   **Age (26):** +0.5 (Young adult, generally lower risk, but not zero)
+*   **BMI (29.1):** +1.0 (Overweight, contributing to moderate risk)
+*   **Family_Health_History (Diabetes):** +1.0 (Increased genetic predisposition to chronic conditions)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization for management or crises)
+*   **Race (Other):** +0.0 (No direct causal link to hospitalization risk without further context)
+*   **Gender (Non-binary):** +0.0 (No direct causal link to hospitalization risk)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (3):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major health risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of clinical depression, reducing mental health-related hospitalization risk)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Indicates potential underlying issues or early signs of mental health decline, despite HAM-D score)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, suggests potential mental health vulnerability)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below optimal, contributing to general health strain)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources, reducing risk)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer health outcomes, limited access to care, and higher stress)
+*   **Drinks_Coffee (Yes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to better health)
+*   **Favourite_Sport (Gymnastics):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Always):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (64):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence health and hospitalization likelihood, such as chronic conditions, mental health status, lifestyle choices, and socioeconomic determinants. Positive contributions reflect increased risk, while negative contributions reflect reduced risk.

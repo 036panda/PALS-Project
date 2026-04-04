@@ -1,0 +1,24 @@
+7
+
+*   **Age (26):** +0.5 (Younger adults, especially those with mental health diagnoses, may have higher hospitalization rates due to acute episodes or less established coping mechanisms.)
+*   **BMI (29.1):** +0.5 (Approaching overweight/obese, which can contribute to various health issues.)
+*   **Family_Health_History (Diabetes):** +0.5 (Genetic predisposition to chronic conditions increases overall health risk.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Bipolar disorder is a significant risk factor for hospitalization due to mood episodes, self-harm, or psychosis.)
+*   **Weekly_Alcohol_Intake (3):** +0.2 (Moderate alcohol intake can still have health implications, especially with existing mental health conditions.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Indicates potential subclinical depression or worsening mental health symptoms.)
+*   **Loss_of_Interest (Yes):** +0.5 (Anhedonia is a key symptom of depression, suggesting a decline in mental well-being.)
+*   **Hours_of_Sleep (6.2):** +0.3 (Insufficient sleep can exacerbate mental health conditions and impair physical health.)
+*   **Socioeconomic_Status (Low):** +0.5 (Lower socioeconomic status is associated with poorer health outcomes, reduced access to care, and higher stress levels.)
+*   **Allergy (Milk/Eggs):** +0.5 (Food allergies can lead to acute health crises requiring medical attention if exposure occurs.)
+*   **Binge_Watches_TV (Yes):** +0.2 (Sedentary lifestyle habit, potentially linked to poorer physical and mental health.)
+*   **Skips_Breakfast (Yes):** +0.3 (Poor dietary habit, potentially impacting energy levels and overall health.)
+*   **Exercises (No):** +1.0 (Lack of exercise is a significant risk factor for numerous physical and mental health conditions.)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of significant depressive symptoms is a protective factor.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a significant protective factor for overall health.)
+*   **Likes_Vegetables (Yes):** -0.2 (Positive dietary habit.)
+*   **Employment (Employed):** -0.5 (Employment often provides structure, income, and access to healthcare, which are protective factors.)
+*   **Recycling_Habits (Always):** -0.1 (Indicates a degree of conscientiousness and engagement with positive habits.)
+*   **Volunteers (Always):** -0.1 (Volunteering can improve mental well-being and social connection.)
+*   **Registered_Organ_Donor (Yes):** -0.1 (Indicates a degree of civic engagement and responsibility.)
+
+The risk score is calculated by summing the contributions of factors that increase or decrease hospitalization risk, with a strong emphasis on the individual's current mental health diagnosis and related symptoms, as well as lifestyle choices and socioeconomic factors known to impact health outcomes. The presence of Bipolar disorder, coupled with symptoms like sadness, loss of interest, insufficient sleep, and a lack of exercise, significantly elevates the risk, while the absence of smoking and normal HAM-D scores provide some mitigating effect.

@@ -1,0 +1,17 @@
+1. 3.5
+
+2. *   **Age (20):** -0.5 (Younger age generally correlates with lower hospitalization risk, assuming no other significant health issues)
+*   **BMI (21.0):** -0.2 (Healthy BMI, indicating lower risk)
+*   **Family_Health_History (Cancer):** +0.5 (Presence of a significant family health history, even if not directly applicable to current diagnosis, indicates a potential genetic predisposition to health issues)
+*   **Current_Diagnosis (Bipolar):** +2.0 (A chronic mental health condition that can increase the likelihood of hospitalization due to acute episodes, medication management, or co-occurring physical health issues)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Presence of mild depression, even if not severe, can contribute to overall health vulnerability and potentially exacerbate other conditions)
+*   **Hours_of_Sleep (5.7):** +0.5 (Insufficient sleep is a known risk factor for various health problems, including weakened immune function and mental health exacerbation)
+*   **Socioeconomic_Status (Low):** +1.0 (Lower socioeconomic status is consistently linked to poorer health outcomes and higher hospitalization rates due to limited access to healthcare, nutrition, and stress)
+*   **Weekly_Alcohol_Intake (0):** -0.2 (No alcohol intake is a positive health factor)
+*   **Smoking (No):** -0.5 (Absence of smoking is a significant positive health factor)
+*   **Been_Sad_or_Fatigued (No):** -0.2 (Absence of these symptoms suggests better current mental and physical well-being)
+*   **Loss_of_Interest (No):** -0.2 (Absence of this symptom suggests better current mental well-being)
+*   **Exercises (Yes):** -0.5 (Regular exercise is a strong protective factor against numerous health conditions)
+*   **Skips_Breakfast (Yes):** +0.3 (Irregular eating habits can negatively impact metabolism and overall health)
+
+3. The risk score is calculated by summing the individual contributions of factors directly and causally linked to hospitalization risk, such as chronic conditions, lifestyle choices, and socioeconomic determinants, while excluding irrelevant personal preferences. Positive contributions reflect increased risk, and negative contributions reflect decreased risk, based on established medical and public health correlations.

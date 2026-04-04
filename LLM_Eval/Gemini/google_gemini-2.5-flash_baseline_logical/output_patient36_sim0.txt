@@ -1,0 +1,19 @@
+7.5
+
+*   Age (68): +1.0 (Increased risk with advanced age)
+*   BMI (29.7): +0.5 (Approaching obesity, contributing to health complications)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis (Schizophrenia): +2.0 (Significant comorbidity and impact on self-care/access to care)
+*   Race (Hispanic): +0.0 (No direct causal link to hospitalization risk in this model without further context)
+*   Gender (Other): +0.0 (No direct causal link to hospitalization risk in this model)
+*   Sexual_Orientation (Bisexual): +0.0 (No direct causal link to hospitalization risk in this model)
+*   Weekly_Alcohol_Intake (3): +0.0 (Moderate intake, not a significant risk factor in isolation)
+*   Smoking (Yes): +1.5 (Major risk factor for numerous health conditions)
+*   HAM-D (25+: Severe Depression): +1.0 (Significant mental health burden, impacting physical health and adherence)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating ongoing distress)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating ongoing distress)
+*   Hours_of_Sleep (7.7): -0.5 (Adequate sleep, a protective factor)
+*   Employment (Retired): +0.0 (Neutral, no direct causal link to hospitalization risk)
+*   Socioeconomic_Status (Low): +0.5 (Associated with poorer health outcomes and access to care)
+
+The risk score is calculated by summing the positive and negative contributions of each factor, where each contribution reflects an established causal link to increased or decreased hospitalization risk based on medical and social determinants of health. The individual's advanced age, severe mental health conditions (schizophrenia and depression), smoking status, and low socioeconomic status are the primary drivers of the elevated risk.

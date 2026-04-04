@@ -1,0 +1,24 @@
+1. 7
+
+2. *   **Age (32):** +0 (No significant increase in hospitalization risk at this age without other comorbidities)
+    *   **BMI (31.6):** +1 (Obesity, BMI > 30, is a known risk factor for various health complications leading to hospitalization)
+    *   **Family_Health_History (Cancer):** +1 (Indicates a genetic predisposition to a serious illness, increasing long-term risk)
+    *   **Current_Diagnosis (nan):** +0 (Absence of an acute diagnosis means no immediate risk from this factor)
+    *   **Race (Asian):** +0 (No direct causal link to increased hospitalization risk)
+    *   **Gender (Male):** +0 (No direct causal link to increased hospitalization risk)
+    *   **Sexual_Orientation (Heterosexual):** +0 (No direct causal link to increased hospitalization risk)
+    *   **Weekly_Alcohol_Intake (3):** +0 (Moderate alcohol intake, generally not considered a significant risk factor for hospitalization)
+    *   **Smoking (Yes):** +2 (Strong causal link to numerous chronic diseases and acute health events requiring hospitalization)
+    *   **HAM-D (18–24: Moderate Depression):** +1 (Moderate depression can lead to physical health neglect, increased risk of accidents, and in severe cases, psychiatric hospitalization)
+    *   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of depression, contributing to overall mental health burden and potential for physical health impact)
+    *   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, contributing to overall mental health burden and potential for physical health impact)
+    *   **Hours_of_Sleep (7.5):** +0 (Adequate sleep, not a risk factor)
+    *   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and financial stability, reducing risk)
+    *   **Socioeconomic_Status (Low):** +1 (Strong causal link to poorer health outcomes, limited access to care, and higher rates of chronic disease, increasing hospitalization risk)
+    *   **Drinks_Coffee (No):** +0 (No direct causal link to hospitalization risk)
+    *   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthier dietary habit, potentially reducing risk)
+    *   **Favourite_Sport (Gymnastics):** +0 (No direct causal link to hospitalization risk)
+    *   **Votes (Sometimes):** +0 (No direct causal link to hospitalization risk)
+    *   **Height_in_Inches (66):** +0 (No direct causal link to hospitalization risk)
+
+3. The risk score is derived by summing the contributions of factors known to causally influence hospitalization risk, such as obesity, smoking, depression, and low socioeconomic status, while mitigating factors like employment and healthy diet reduce the score. Each contribution reflects the established medical and social determinants of health that directly impact the likelihood of requiring hospital care.

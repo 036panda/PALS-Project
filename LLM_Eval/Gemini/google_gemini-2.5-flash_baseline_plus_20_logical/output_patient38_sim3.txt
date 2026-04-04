@@ -1,0 +1,20 @@
+1. 7.5
+
+2. *   Age (62): +1.0 (Increased risk with age)
+*   BMI (33.4): +1.5 (Obese, increased risk)
+*   Current_Diagnosis (Depression): +1.5 (Mental health conditions increase hospitalization risk)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of underlying health issues or worsening depression)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of underlying health issues or worsening depression)
+*   Hours_of_Sleep (6.7): +0.5 (Slightly below optimal, can impact health)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer health outcomes and access to care)
+*   Weekly_Alcohol_Intake (1): -0.2 (Moderate, potentially protective or neutral)
+*   Smoking (No): -0.5 (Protective factor)
+*   Likes_Vegetables (Yes): -0.5 (Indicates healthier dietary habits)
+*   Water_Intake_oz (44.6): -0.3 (Adequate hydration, positive for health)
+*   Employment (Retired): +0.5 (Can be associated with reduced physical activity or increased health issues)
+*   Has_Drivers_License (No): +0.5 (May indicate limited mobility or access to services)
+*   Uses_Public_Transportation (Always): +0.5 (May indicate limited mobility or access to private transport for emergencies)
+*   Recycling_Habits (Never): +0.0 (No direct causal link to hospitalization risk)
+*   All other factors: +0.0 (No direct or significant causal link to hospitalization risk based on available information)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age, BMI, existing diagnoses, and socioeconomic status, while subtracting contributions from protective factors like healthy habits. Factors without a clear causal link to hospitalization are assigned a neutral contribution.

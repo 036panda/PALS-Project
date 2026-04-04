@@ -1,0 +1,15 @@
+7
+
+*   **Age (36):** +0.5 (Slightly elevated risk compared to younger adults, but not elderly)
+*   **BMI (31.3):** +1.5 (Obese, a significant risk factor for various health issues)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to respiratory issues, increasing hospitalization risk)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Can exacerbate physical symptoms and lead to hospital visits, or be a comorbidity for other conditions)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate intake, but still contributes to overall health burden)
+*   **Socioeconomic_Status (Low):** +1.5 (Associated with poorer access to healthcare, higher stress, and worse health outcomes)
+*   **Hours_of_Sleep (6.0):** +0.5 (Insufficient sleep, impacting immune function and overall health)
+*   **Likes_Vegetables (No):** +0.5 (Indicates a potentially unhealthy diet, contributing to various health problems)
+*   **Skips_Breakfast (Yes):** +0.5 (Associated with poorer dietary habits and potential health issues)
+*   **Exercises (Yes):** -0.5 (Positive health behavior, mitigating risk)
+*   **Allergy (Pollen):** +0.5 (Can trigger respiratory issues requiring medical attention)
+
+The risk score is calculated by summing the individual contributions of factors known to either increase or decrease hospitalization risk based on established medical and socioeconomic correlations, with positive values indicating increased risk and negative values indicating decreased risk.

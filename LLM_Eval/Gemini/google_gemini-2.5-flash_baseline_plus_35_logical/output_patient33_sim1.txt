@@ -1,0 +1,13 @@
+1. 4.5
+
+2. *   **Age (42):** +0.5 (Increased risk with age, but 42 is relatively young, so a minor positive contribution)
+*   **BMI (13.4):** +2.0 (Severely underweight, indicating potential malnutrition or underlying health issues, significantly increasing risk)
+*   **Family_Health_History (Diabetes):** +1.0 (Genetic predisposition to a chronic disease, increasing personal risk)
+*   **Weekly_Alcohol_Intake (4):** +0.2 (Moderate alcohol intake, minor positive contribution to risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential mental health impact on physical well-being)
+*   **Hours_of_Sleep (5.0):** +0.8 (Insufficient sleep, negatively impacting immune function and overall health)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources, reducing risk)
+*   **Likes_Vegetables (Yes):** -0.3 (Positive dietary habit, contributing to better health)
+*   **Allergy (Gluten):** +0.3 (Indicates a specific dietary restriction and potential for related health complications if not managed)
+
+3. The risk score is calculated by summing the individual contributions of factors identified as having a direct causal or correlational impact on hospitalization risk. Positive contributions are assigned to factors increasing risk (e.g., low BMI, insufficient sleep, family history of disease), while negative contributions are assigned to factors mitigating risk (e.g., healthy diet, stable socioeconomic status).

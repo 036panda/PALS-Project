@@ -1,0 +1,17 @@
+1. 2
+
+2. *   **Age (38):** +0 (No significant increase in hospitalization risk at this age)
+*   **BMI (21.8):** +0 (Healthy BMI, no increased risk)
+*   **Family_Health_History (Asthma):** +1 (Genetic predisposition to a chronic respiratory condition, increasing potential for hospitalization if triggered or poorly managed)
+*   **Current_Diagnosis (Anxiety):** +1 (While not directly a physical ailment, severe anxiety can lead to physical symptoms requiring medical attention or exacerbate existing conditions, increasing hospitalization risk)
+*   **Weekly_Alcohol_Intake (2):** +0 (Moderate intake, no increased risk)
+*   **Smoking (No):** -1 (Absence of a major risk factor for numerous health conditions, reducing hospitalization risk)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Absence of depression, which can negatively impact physical health and adherence to treatment, reducing hospitalization risk)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of symptoms often associated with underlying health issues, reducing hospitalization risk)
+*   **Loss_of_Interest (No):** -1 (Absence of a symptom often associated with underlying health issues, reducing hospitalization risk)
+*   **Hours_of_Sleep (6.3):** +1 (Slightly below optimal sleep duration, which can negatively impact immune function and overall health, increasing hospitalization risk)
+*   **Employment (Employed):** -1 (Associated with better access to healthcare and financial stability, reducing hospitalization risk)
+*   **Socioeconomic_Status (High):** -1 (Associated with better access to healthcare, nutrition, and living conditions, reducing hospitalization risk)
+*   **Allergy (Penicillin):** +1 (While not a direct cause of hospitalization, it complicates treatment options if an infection requiring antibiotics arises, potentially leading to more severe outcomes or longer hospital stays if alternative treatments are less effective or have more side effects.)
+
+3. The risk score is calculated by summing the contributions of factors known to directly or indirectly influence hospitalization likelihood. Positive contributions are assigned to factors that increase risk (e.g., chronic conditions, suboptimal health behaviors, or complicating factors), while negative contributions are assigned to factors that decrease risk (e.g., absence of risk factors, protective health behaviors, or favorable socioeconomic conditions).

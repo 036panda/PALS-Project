@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 3.5
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (18):** -0.5 (Younger age generally associated with lower risk of hospitalization for chronic conditions, though mental health crises can occur at any age.)
+*   **BMI (25.6):** 0.0 (Within healthy weight range, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Hypertension):** +0.5 (Indicates a genetic predisposition to a chronic condition, increasing long-term health risk, though not an immediate hospitalization driver for this individual.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is a significant risk factor for hospitalization, particularly if not well-managed or if experiencing an acute episode. Even in a stable state, the diagnosis itself carries an inherent risk of future acute episodes requiring hospitalization.)
+*   **Weekly_Alcohol_Intake (5):** 0.0 (Moderate intake, not a significant risk factor for hospitalization.)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of depressive symptoms significantly reduces the immediate risk of hospitalization related to mood disorders.)
+*   **Hours_of_Sleep (5.7):** +1.0 (Suboptimal sleep duration can exacerbate mental health conditions and negatively impact overall physical health, increasing vulnerability.)
+*   **Socioeconomic_Status (High):** -0.5 (Higher socioeconomic status often correlates with better access to healthcare and resources, potentially mitigating hospitalization risk.)
+*   **Allergy (Shellfish):** +1.0 (Presence of a known allergy, while not immediately life-threatening in this context, represents a potential for acute allergic reaction requiring emergency care if exposed.)
+
+3. Clinical Rationale: This 18-year-old individual presents with a primary diagnosis of Bipolar Disorder, which is the most significant driver of hospitalization risk, despite current absence of depressive symptoms. Suboptimal sleep and a family history of hypertension contribute to a moderate overall risk, while high socioeconomic status and normal HAM-D scores offer some protective factors.

@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +1 (Young adults, especially those with mental health diagnoses, can be at higher risk for initial or recurrent hospitalizations as they navigate independence and treatment adherence.)
+*   **BMI (30.9):** +0.5 (Obesity is a general health risk factor, but its direct impact on *hospitalization* for this specific profile is moderate.)
+*   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder carries a significant inherent risk of hospitalization due to manic or depressive episodes requiring acute stabilization.)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, "Loss of Interest" can be a symptom of emerging or subthreshold mood disturbance, particularly relevant in bipolar disorder, increasing risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to resources and support, slightly mitigating risk.)
+*   **Hours_of_Sleep (9.7):** -0.5 (Adequate sleep is a protective factor for mental health, especially in bipolar disorder.)
+*   **Weekly_Alcohol_Intake (1):** -0.5 (Low alcohol intake is a protective factor against substance-related complications that can lead to hospitalization.)
+*   **Employment (Student):** +0.5 (While not inherently negative, the pressures of academic life can sometimes exacerbate mental health conditions, especially bipolar disorder, increasing the potential for crisis.)
+*   **Relationship_Status (Dating):** -0.5 (Having social support can be a protective factor against hospitalization.)
+*   **Skips_Breakfast (Yes):** +0.5 (Indicates a potential lack of consistent self-care, which can be a minor contributing factor to overall health instability.)
+*   **Wears_Glasses (Yes):** +0.5 (While seemingly benign, this can sometimes indicate other underlying health conditions or a need for regular medical attention, which, in the context of a complex mental health diagnosis, could slightly increase the likelihood of needing more intensive care.)
+
+3. Clinical Rationale: This 18-year-old individual with a diagnosis of Bipolar Disorder presents with a significant inherent risk for hospitalization due to the nature of their primary diagnosis and the presence of "loss of interest," which may signal subthreshold mood instability. While several protective factors exist, such as adequate sleep and low alcohol intake, the combination of a serious mental health condition at a vulnerable age warrants a moderately high risk assessment.

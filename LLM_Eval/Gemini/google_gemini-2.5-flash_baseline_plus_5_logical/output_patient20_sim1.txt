@@ -1,0 +1,14 @@
+1. 6.5
+
+2. *   Age (19): +0.5 (Slightly elevated risk due to being at the lower end of the typical age range for first-episode psychosis, which can sometimes lead to hospitalization for stabilization, but not a primary driver of general hospitalization risk.)
+*   BMI (25.1): +0.5 (Slightly elevated risk as it falls into the overweight category, which can be associated with minor health complications.)
+*   Current_Diagnosis (Schizophrenia): +5.0 (Significant risk factor for hospitalization, especially for stabilization of acute episodes or medication management.)
+*   Weekly_Alcohol_Intake (4 units): +0.5 (Moderate alcohol intake, slightly above recommended limits for some, contributing a minor risk.)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mild depression, while not severe, can exacerbate existing mental health conditions or lead to a need for intervention.)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Indicates a potential underlying mood disturbance or stress, which can contribute to overall health vulnerability.)
+*   Hours_of_Sleep (10.3): -1.5 (Excessive sleep can sometimes be a symptom of underlying conditions or medication side effects, but generally, adequate sleep is protective. In this context, it's considered a positive factor for physical recovery, but the excess might warrant a slight negative adjustment to reflect potential underlying issues.)
+*   Employment (Employed): -1.0 (Protective factor, indicating stability and access to resources.)
+*   Socioeconomic_Status (Middle): -1.0 (Protective factor, indicating access to resources and support.)
+*   Likes_Vegetables (Yes): -0.5 (Positive health behavior, contributing to overall well-being.)
+
+3. The risk score is calculated by summing the contributions of factors that logically and causally increase or decrease the likelihood of hospitalization, with a strong emphasis on the primary diagnosis of schizophrenia and co-occurring mental health symptoms, while also considering lifestyle and socioeconomic factors.

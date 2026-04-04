@@ -1,0 +1,19 @@
+1. 6
+
+2. *   Age (56): +1 (Increased risk with age)
+    *   BMI (31.1): +1 (Obese, increased risk)
+    *   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues, potential comorbidity)
+    *   Current_Diagnosis (Schizophrenia): +3 (Significant chronic mental health condition, often associated with higher hospitalization rates)
+    *   Loss_of_Interest (Yes): +0.5 (Symptom of potential mental health decline or comorbidity)
+    *   Socioeconomic_Status (Middle): +0 (Neutral, no direct positive or negative contribution)
+    *   Employment (Employed): -0.5 (Protective factor, associated with better health outcomes)
+    *   Weekly_Alcohol_Intake (0): -0.5 (Protective factor, no alcohol consumption)
+    *   Smoking (No): -0.5 (Protective factor, no smoking)
+    *   HAM-D (0-6: Normal / No Depression): -0.5 (Protective factor, no current depression)
+    *   Been_Sad_or_Fatigued (No): -0.5 (Protective factor, no current sadness or fatigue)
+    *   Hours_of_Sleep (8.0): -0.5 (Protective factor, adequate sleep)
+    *   Exercises (Yes): -0.5 (Protective factor, physical activity)
+    *   Gender (Other): +1 (Potential for increased healthcare disparities and unique health challenges, leading to higher risk)
+    *   Race (Black): +1 (Systemic healthcare disparities and social determinants of health can lead to higher hospitalization rates)
+
+3. The risk score is calculated by summing the contributions of factors known to directly influence hospitalization risk, such as chronic conditions, lifestyle choices, and demographic factors associated with healthcare disparities. Positive contributions are assigned to risk factors like obesity, schizophrenia, and demographic groups facing systemic disadvantages, while negative contributions are assigned to protective factors like healthy lifestyle choices and adequate sleep.

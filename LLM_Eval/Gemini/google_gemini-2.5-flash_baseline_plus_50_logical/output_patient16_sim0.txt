@@ -1,0 +1,14 @@
+1. 6
+
+2. *   **Age (45):** +0.5 (Increased risk with age, but 45 is moderate)
+*   **BMI (25.2):** +0.5 (Slightly overweight, minor risk factor)
+*   **Family_Health_History (Hypertension):** +1.0 (Significant genetic predisposition)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can exacerbate physical health issues and increase healthcare utilization)
+*   **Smoking (Yes):** +2.0 (Major risk factor for numerous health problems)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Untreated or undertreated depression can lead to poorer health outcomes)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to healthcare and resources)
+*   **Exercises (Yes):** -1.0 (Positive impact on overall health)
+*   **Skips_Breakfast (Yes):** +0.5 (Can lead to poor dietary habits and energy levels)
+*   **Orders_Takeout (Daily):** +1.0 (Frequent takeout often implies less healthy eating habits)
+
+3. The risk score is calculated by summing the contributions of identified health and lifestyle factors. Positive contributions are assigned to factors known to increase hospitalization risk (e.g., smoking, family history of hypertension, daily takeout), while negative contributions are assigned to protective factors (e.g., exercise, middle socioeconomic status).

@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed Breakdown:
+
+*   **Age (26):** -1 (Younger age generally associated with lower risk of hospitalization for many conditions, especially when other health markers are stable.)
+*   **BMI (29.1):** +0.5 (Slightly overweight, but not obese, contributing a minor increase in general health risk.)
+*   **Family_Health_History (Diabetes):** +0.5 (Increases long-term risk for diabetes-related complications, but not an immediate hospitalization driver at this age.)
+*   **Current_Diagnosis (Bipolar):** +3 (This is a significant risk factor for hospitalization, particularly if not well-managed or if symptoms are emerging/worsening.)
+*   **Race (Other):** +0 (Neutral impact without further specific information.)
+*   **Gender (Non-binary):** +0 (Neutral impact on hospitalization risk itself, though may be associated with other social determinants of health not directly assessed here.)
+*   **Sexual_Orientation (Heterosexual):** +0 (Neutral impact.)
+*   **Weekly_Alcohol_Intake (3):** -0.5 (Low to moderate intake, generally considered protective or neutral.)
+*   **Smoking (No):** -1 (Significant positive impact on health, reducing risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -2 (Crucial positive factor, indicating current absence of depressive symptoms, which is protective against hospitalization for bipolar disorder if this reflects a stable mood state.)
+*   **Been_Sad_or_Fatigued (Yes):** +1 (Despite the low HAM-D, this indicates some current subjective distress or symptom, which could be an early warning sign or a mild symptom of the bipolar disorder.)
+*   **Loss_of_Interest (Yes):** +1 (Similar to sadness/fatigue, this suggests a potential sub-threshold symptom or a mild manifestation of the bipolar disorder, warranting monitoring.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below optimal, which can impact mood stability and overall health, especially for someone with bipolar disorder.)
+*   **Employment (Employed):** -0.5 (Positive social determinant of health, often associated with better access to care and stability.)
+*   **Socioeconomic_Status (Low):** +1 (Increases general health risks due to potential barriers to care, stress, and resource limitations.)
+*   **Drinks_Coffee (Yes):** +0 (Neutral impact.)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to overall health.)
+*   **Favourite_Sport (Gymnastics):** -0.5 (Indicates physical activity, which is beneficial for mental and physical health.)
+*   **Votes (Always):** -0.5 (Suggests engagement and civic participation, often correlated with better mental well-being and social integration.)
+*   **Height_in_Inches (64):** +0 (Neutral impact.)
+
+3. Clinical Rationale: This patient presents with a significant underlying diagnosis of Bipolar Disorder, which inherently carries a risk for hospitalization; however, the current low HAM-D score is a strong protective factor. The presence of subjective symptoms like sadness/fatigue and loss of interest, coupled with slightly suboptimal sleep and low socioeconomic status, warrants close monitoring despite the current lack of severe depressive symptoms.

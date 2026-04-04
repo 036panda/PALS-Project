@@ -1,0 +1,16 @@
+7
+
+*   **Age (22):** +0.5 (Younger adults generally have lower hospitalization risk, but 22 is past the lowest childhood risk and before higher risks associated with older age. A slight positive contribution for being an adult, but not yet elderly.)
+*   **BMI (23.8):** +0.5 (Healthy weight range, but on the higher end of normal, indicating a very slight, non-zero risk compared to optimal BMI.)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to a serious illness increases overall health risk.)
+*   **Current_Diagnosis (Anxiety):** +1.5 (Mental health conditions can exacerbate physical health issues and increase healthcare utilization.)
+*   **Smoking (Yes):** +2.0 (Directly linked to numerous severe health conditions requiring hospitalization.)
+*   **HAM-D (25+: Severe Depression):** +2.5 (Severe depression is a significant health concern, increasing risk of self-harm, neglect, and comorbidity with physical illnesses.)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer access to healthcare, nutrition, and higher stress, leading to increased hospitalization risk.)
+*   **Weekly_Alcohol_Intake (7):** -0.5 (Moderate alcohol intake, within recommended limits, is not a significant risk factor for hospitalization and may even have some protective effects for certain conditions, though this is not a strong negative contribution.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthier dietary habit, reducing risk.)
+*   **Hours_of_Sleep (6.3):** -0.5 (Slightly below the recommended 7-9 hours, but not severely sleep-deprived, so a minor negative contribution for not being optimal.)
+*   **Employment (Student):** -0.5 (Students often have access to university health services and are generally in a younger, healthier demographic.)
+*   **Race (Other), Gender (Non-binary), Sexual_Orientation (Heterosexual), Been_Sad_or_Fatigued (No), Loss_of_Interest (No), Drinks_Coffee (No), Favourite_Sport (Hockey), Votes (Sometimes), Height_in_Inches (59), Has_Drivers_License (No), Picks_Up_Litter (Sometimes), Uses_Public_Transportation (Never), Donated_Blood (No), Birthday_Month (May):** +0.0 (These factors are not directly or causally linked to hospitalization risk in a general medical context.)
+
+The risk score is calculated by summing the positive and negative contributions of factors directly and causally linked to health outcomes and healthcare utilization, with higher contributions for established risk factors like severe depression and smoking, and lower or negative contributions for protective factors.

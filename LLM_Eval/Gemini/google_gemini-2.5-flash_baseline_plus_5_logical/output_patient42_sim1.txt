@@ -1,0 +1,24 @@
+6
+
+*   **Age (49):** +1 (Increased risk with age, though moderate for this age)
+*   **BMI (23.2):** +0 (Healthy weight, no direct contribution)
+*   **Family_Health_History (Asthma):** +1 (Genetic predisposition to respiratory issues, a common reason for hospitalization)
+*   **Current_Diagnosis (Anxiety):** +1 (Mental health conditions can exacerbate physical symptoms or lead to hospital visits)
+*   **Race (Hispanic):** +0 (No direct causal link to hospitalization risk without further context)
+*   **Gender (Male):** +0 (No direct causal link to hospitalization risk)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (4):** +0 (Moderate intake, no significant contribution)
+*   **Smoking (No):** -1 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Good mental health, reduces risk)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of a symptom often preceding health issues)
+*   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, this isolated symptom can indicate underlying stress or early mental health concerns that might lead to health-seeking behavior)
+*   **Hours_of_Sleep (9.4):** -1 (Adequate sleep, promotes good health)
+*   **Employment (Employed):** -1 (Often correlates with better access to healthcare and stable living conditions)
+*   **Socioeconomic_Status (High):** -1 (Correlates with better access to healthcare, nutrition, and preventative care)
+*   **Drinks_Coffee (Yes):** +0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (No):** +1 (Poor dietary habit, can contribute to various health issues over time)
+*   **Favourite_Sport (Basketball):** +0 (No direct causal link to hospitalization risk)
+*   **Votes (Sometimes):** +0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (65):** +0 (No direct causal link to hospitalization risk)
+
+The risk score is calculated by summing positive contributions from identified risk factors (e.g., family history of asthma, anxiety, poor diet) and subtracting negative contributions from protective factors (e.g., no smoking, good sleep, high socioeconomic status), with neutral factors contributing zero. The presence of a single mental health symptom (loss of interest) despite a normal HAM-D score is considered a minor risk, as it may indicate an underlying issue.

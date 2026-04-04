@@ -1,0 +1,24 @@
+1. 5.5
+
+2. *   Age (42): +0.5 (Slightly elevated risk for middle age, as health issues can begin to manifest)
+*   BMI (26.4): +0.5 (Overweight category, contributing to potential health complications)
+*   Family_Health_History (Cancer): +1.0 (Significant genetic predisposition to serious illness)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical health risks and may require hospitalization)
+*   Race (Native American): +1.0 (Acknowledged systemic health disparities and higher prevalence of certain conditions)
+*   Gender (Non-binary): +0.5 (Potential for unique healthcare challenges and disparities, though not directly a risk factor for hospitalization)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (4): +0.0 (Moderate intake, not a significant risk factor)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (7–17: Mild Depression): +1.0 (Depression, even mild, can impact physical health and adherence to treatment, increasing hospitalization potential)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptoms indicative of underlying issues, potentially related to depression or other conditions)
+*   Loss_of_Interest (Yes): +0.5 (Further indication of mental health distress, potentially linked to depression)
+*   Hours_of_Sleep (10.2): -0.5 (Adequate sleep, potentially protective)
+*   Employment (Employed): -0.5 (Associated with better access to healthcare and resources)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral, neither significantly protective nor risky compared to extremes)
+*   Drinks_Coffee (No): +0.0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (Yes): -0.5 (Positive dietary habit, potentially protective)
+*   Favourite_Sport (nan): +0.0 (Missing data, no direct causal link to hospitalization risk)
+*   Votes (Sometimes): +0.0 (No direct causal link to hospitalization risk)
+*   Height_in_Inches (63): +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established medical and social determinants of health. Causal relationships are inferred from the potential impact of each factor on an individual's likelihood of requiring hospitalization due to physical or mental health complications.

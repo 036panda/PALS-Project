@@ -1,0 +1,16 @@
+1. 4
+
+2. *   Age (41): +0.5 (Slightly elevated risk due to age, but not elderly)
+*   BMI (26.5): +0.5 (Overweight, contributing to some health risks)
+*   Family_Health_History (Diabetes): +1.0 (Genetic predisposition to a chronic condition)
+*   Current_Diagnosis (Depression): +0.0 (HAM-D indicates no current depression, so no direct contribution from this field)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Absence of depression significantly reduces mental health-related hospitalization risk)
+*   Loss_of_Interest (Yes): +0.5 (Despite normal HAM-D, this indicates a potential underlying mental health concern or stressor)
+*   Hours_of_Sleep (4.7): +1.5 (Significantly low sleep, a major contributor to various health issues)
+*   Weekly_Alcohol_Intake (1): -0.5 (Low alcohol intake, potentially protective)
+*   Smoking (No): -1.0 (Absence of smoking, a major risk factor, reduces risk)
+*   Socioeconomic_Status (High): -0.5 (Associated with better access to healthcare and healthier lifestyles)
+*   Allergy (Penecillin): +1.0 (Risk of adverse drug reactions, potentially requiring hospitalization)
+*   Binge_Watches_TV (Yes): +1.0 (Sedentary lifestyle indicator, potentially linked to poorer health outcomes)
+
+3. The risk score is calculated by summing the contributions of factors directly linked to physical or mental health, lifestyle choices, and medical history. Positive contributions reflect increased risk (e.g., low sleep, family history of diabetes), while negative contributions reflect protective factors (e.g., no smoking, high socioeconomic status).

@@ -1,0 +1,24 @@
+7.5
+
+*   **Age (32):** +0.0 (No significant risk increase for this age)
+*   **BMI (25.7):** +0.5 (Slightly overweight, minor increased risk)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to respiratory issues, increasing hospitalization risk)
+*   **Current_Diagnosis (nan):** +0.0 (No current diagnosis, neutral)
+*   **Race (White):** +0.0 (Neutral for hospitalization risk in this context)
+*   **Gender (Non-binary):** +0.0 (Neutral for hospitalization risk in this context)
+*   **Sexual_Orientation (Other):** +0.0 (Neutral for hospitalization risk in this context)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Moderate intake, no significant risk)
+*   **Smoking (No):** -0.5 (Absence of smoking reduces risk)
+*   **HAM-D (18–24: Moderate Depression):** +2.0 (Moderate depression is a significant comorbidity, increasing risk of physical health issues and hospitalization)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms reduces risk)
+*   **Loss_of_Interest (Yes):** +1.0 (Symptom of depression, indicating potential for worsening mental and physical health)
+*   **Hours_of_Sleep (4.8):** +2.0 (Chronic sleep deprivation significantly impairs immune function and overall health, increasing hospitalization risk)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and resources, reducing risk)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither high nor low risk)
+*   **Drinks_Coffee (No):** +0.0 (Neutral)
+*   **Likes_Vegetables (No):** +1.0 (Poor dietary habits contribute to overall health decline and increased risk)
+*   **Favourite_Sport (nan):** +0.0 (Neutral)
+*   **Votes (Sometimes):** +0.0 (Neutral)
+*   **Height_in_Inches (63):** +0.0 (Neutral)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. This approach directly reflects the causal impact of each health and lifestyle variable on the likelihood of hospitalization, with particular emphasis on chronic conditions, lifestyle choices, and mental health indicators.

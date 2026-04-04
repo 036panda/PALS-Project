@@ -1,0 +1,19 @@
+6
+
+*   **Age (42):** +0.5 (Increased risk with age, but 42 is relatively young, so a minor contribution)
+*   **BMI (26.4):** +0.5 (Slightly overweight, contributing to minor health risks)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to a serious illness)
+*   **Current_Diagnosis (Anxiety):** +1.5 (Mental health conditions can exacerbate physical health issues and increase healthcare utilization)
+*   **Race (Native American):** +1.0 (Acknowledging systemic health disparities and higher rates of certain conditions in this demographic)
+*   **Gender (Non-binary):** +0.5 (Potential for healthcare discrimination and unique health challenges)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Depression is linked to poorer health outcomes and increased healthcare needs)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptoms indicative of underlying health issues or worsening mental health)
+*   **Loss_of_Interest (Yes):** +0.5 (Further indication of mental health distress)
+*   **Hours_of_Sleep (10.2):** -0.5 (Adequate sleep is generally protective, though excessive sleep can sometimes be a symptom)
+*   **Employment (Employed):** -0.5 (Generally associated with better health outcomes and access to care)
+*   **Socioeconomic_Status (Middle):** -0.5 (Better access to resources and healthcare compared to lower SES)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these factors and hospitalization likelihood. The contributions reflect the severity and directness of the causal relationship, with mental health conditions, family history, and systemic disparities being significant contributors.

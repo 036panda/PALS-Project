@@ -1,0 +1,17 @@
+1. 2
+
+2. *   Age (38): +0.5 (Slightly elevated risk compared to younger adults, but not elderly)
+    *   BMI (21.8): +0 (Normal range, no contribution)
+    *   Family_Health_History (Asthma): +1.0 (Genetic predisposition to a chronic respiratory condition, increasing hospitalization risk if triggered)
+    *   Current_Diagnosis (Anxiety): +0.5 (Can exacerbate physical symptoms or lead to health-seeking behaviors that might involve hospitalization, though not a direct physical risk itself)
+    *   Weekly_Alcohol_Intake (2): +0 (Low, within healthy limits)
+    *   Smoking (No): -1.0 (Absence of a major risk factor)
+    *   HAM-D (0–6: Normal / No Depression): -0.5 (Absence of a mental health condition that can indirectly increase physical health risks)
+    *   Been_Sad_or_Fatigued (No): -0.5 (Absence of symptoms often associated with underlying health issues)
+    *   Loss_of_Interest (No): -0.5 (Absence of symptoms often associated with underlying health issues)
+    *   Hours_of_Sleep (6.3): +0.5 (Slightly below optimal 7-9 hours, can impact immune function and overall health)
+    *   Employment (Employed): -0.5 (Indicates stability and access to resources, potentially including health insurance)
+    *   Socioeconomic_Status (High): -1.0 (Access to better healthcare, nutrition, and living conditions)
+    *   Allergy (Penicillin): +1.0 (Risk of adverse reaction if penicillin is administered, requiring hospitalization)
+
+3. The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as chronic conditions, lifestyle choices, and medical history. Positive contributions reflect increased risk, while negative contributions reflect protective factors or the absence of risk.

@@ -1,0 +1,15 @@
+7
+
+*   **Age (56):** +1.0 (Increased risk with age, particularly over 50)
+*   **BMI (27.3):** +0.5 (Overweight, contributing to general health risks)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant mental health condition often requiring hospitalization)
+*   **Smoking (Yes):** +1.5 (Major contributor to various health issues)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mental health condition that can escalate or co-occur with other issues)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of underlying health or mental health issues)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of underlying health or mental health issues)
+*   **Hours_of_Sleep (6.0):** +0.5 (Insufficient sleep, impacting overall health)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer health outcomes and access to care)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Moderate intake, potentially protective or neutral compared to higher intake)
+*   **Employment (Employed):** -1.0 (Indicates a degree of stability and functionality)
+
+The risk score is calculated by summing the positive contributions from factors known to increase hospitalization risk (e.g., age, BMI, chronic conditions, lifestyle choices, socioeconomic status) and subtracting negative contributions from factors that may mitigate risk (e.g., moderate alcohol intake, employment). Each contribution reflects a direct causal link to health outcomes that could necessitate hospitalization.

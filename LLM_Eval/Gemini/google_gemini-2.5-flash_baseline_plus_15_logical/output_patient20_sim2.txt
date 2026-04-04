@@ -1,0 +1,10 @@
+6
+
+*   **Current_Diagnosis: Schizophrenia:** +5 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   **Age: 19:** +1 (Younger adults, particularly those with mental health diagnoses, may have a higher risk of hospitalization due to less established coping mechanisms or support systems.)
+*   **HAM-D: 7–17: Mild Depression:** +1 (While mild, depression can exacerbate existing mental health conditions and, in some cases, contribute to a need for more intensive care.)
+*   **Been_Sad_or_Fatigued: Yes:** +1 (Persistent sadness or fatigue can be symptoms of worsening mental health, increasing the likelihood of needing hospitalization.)
+*   **Hours_of_Sleep: 10.3:** -1 (Adequate sleep is generally protective for mental and physical health, potentially reducing the need for hospitalization.)
+*   **Employment: Employed:** -1 (Employment often indicates a degree of stability and social integration, which can be protective against hospitalization.)
+
+The hospitalization risk score is calculated by summing the contributions of factors directly related to mental health severity, age-related vulnerability, and protective factors like sleep and employment, all of which have a causal link to the likelihood of hospitalization. The primary driver is the severe mental health diagnosis, with other factors either increasing or decreasing this baseline risk.

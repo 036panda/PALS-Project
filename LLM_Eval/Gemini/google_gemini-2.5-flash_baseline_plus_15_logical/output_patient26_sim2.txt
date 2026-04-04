@@ -1,0 +1,19 @@
+1. 2.0
+
+2. *   **Age (52):** +0.5 (Increased risk with age, though moderate for this age)
+*   **BMI (23.2):** +0.0 (Normal BMI, no direct contribution to increased risk)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues, a common cause for hospitalization)
+*   **Current_Diagnosis (Anxiety):** +0.5 (Mental health conditions can indirectly increase hospitalization risk through stress-related physical ailments or exacerbation of other conditions)
+*   **Weekly_Alcohol_Intake (5):** +0.0 (Moderate intake, not considered a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of smoking significantly reduces risk)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Good mental health reduces overall health risks)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates good general well-being)
+*   **Loss_of_Interest (No):** -0.5 (Absence of this symptom indicates good mental well-being)
+*   **Hours_of_Sleep (7.4):** +0.0 (Adequate sleep, no direct contribution to increased risk)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and financial stability, reducing risk)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither significantly increasing nor decreasing risk compared to extremes)
+*   **Likes_Vegetables (Yes):** -0.5 (Healthy dietary habits contribute to better overall health)
+*   **Water_Intake_oz (43.6):** +0.0 (Adequate hydration, no direct contribution to increased risk)
+*   **All other factors (Race, Gender, Sexual_Orientation, Drinks_Coffee, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal):** +0.0 (No direct or established causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the positive and negative contributions of factors with established causal links to hospitalization risk, reflecting the individual's health status, lifestyle choices, and socio-economic determinants. Positive contributions indicate increased risk (e.g., family history of illness), while negative contributions indicate reduced risk (e.g., healthy habits, good mental health).

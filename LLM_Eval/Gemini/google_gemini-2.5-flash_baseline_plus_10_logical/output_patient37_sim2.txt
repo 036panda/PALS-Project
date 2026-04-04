@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   **Age (53):** +0.5 (Increased risk with age, but not elderly)
+*   **BMI (25.3):** +0.2 (Slightly overweight, minor contribution)
+*   **Family_Health_History (Asthma):** +0.3 (Genetic predisposition to respiratory issues, potential for exacerbation)
+*   **Current_Diagnosis (Depression):** +1.0 (Mental health conditions are significant risk factors for hospitalization)
+*   **Race (Black):** +0.5 (Acknowledged systemic health disparities)
+*   **Gender (Male):** +0.2 (Males may have higher rates of certain conditions or less frequent healthcare seeking)
+*   **Weekly_Alcohol_Intake (4):** +0.1 (Moderate intake, minor contribution)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Confirms and quantifies the severity of depression, a direct driver of hospitalization risk)
+*   **Hours_of_Sleep (5.7):** +0.8 (Insufficient sleep is a significant health risk factor)
+*   **Employment (Employed):** -0.2 (Generally associated with better health outcomes and access to care)
+*   **Socioeconomic_Status (Middle):** -0.1 (Better access to resources than lower SES, but not as protective as high SES)
+*   **Likes_Vegetables (No):** +0.3 (Poor dietary habits contribute to health risks)
+*   **Uses_Public_Transportation (Always):** +0.5 (Increased exposure to infectious agents, potential for accidents)
+*   **Donated_Blood (Yes):** -0.3 (Suggests a generally healthier individual, able to donate blood)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. Each contribution reflects a direct causal link to hospitalization risk, such as the impact of depression severity, sleep deprivation, and dietary habits, while mitigating factors like not smoking and being employed reduce the overall score.

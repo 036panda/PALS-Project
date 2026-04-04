@@ -1,0 +1,19 @@
+7
+
+*   Age: 64 (+1.5) - Increased age is a known risk factor for hospitalization.
+*   BMI: 29.9 (+1.0) - Being overweight (BMI 25-29.9) is associated with increased health risks.
+*   Family_Health_History: Asthma (+0.5) - A family history of chronic respiratory conditions can indicate a predisposition to health issues.
+*   Current_Diagnosis: Depression (+1.5) - Depression is linked to poorer physical health outcomes and increased healthcare utilization.
+*   Race: Native American (+1.0) - Systemic health disparities often lead to higher hospitalization rates in certain racial groups.
+*   Gender: Male (+0.0) - No direct causal link to hospitalization risk in this context.
+*   Sexual_Orientation: Heterosexual (+0.0) - No direct causal link to hospitalization risk in this context.
+*   Weekly_Alcohol_Intake: 2 (+0.0) - Moderate alcohol intake (up to 7 drinks/week for men) is generally not considered a significant risk factor.
+*   Smoking: No (+0.0) - Absence of smoking reduces risk.
+*   HAM-D: 18–24: Moderate Depression (+1.0) - Confirms the severity of depression, contributing to the overall risk.
+*   Been_Sad_or_Fatigued: No (-0.5) - Absence of these specific symptoms, despite depression, might indicate slightly better coping or less severe physical manifestation.
+*   Loss_of_Interest: Yes (+0.5) - A key symptom of depression, indicating potential functional impairment.
+*   Hours_of_Sleep: 6.4 (+0.5) - Slightly below the recommended 7-9 hours, which can negatively impact health.
+*   Employment: Retired (+0.0) - No direct causal link to hospitalization risk in this context.
+*   Socioeconomic_Status: Middle (+0.0) - No direct causal link to hospitalization risk in this context.
+
+The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate decreased risk, based on established medical and social determinants of health. Each factor's contribution reflects its known causal relationship with hospitalization likelihood.

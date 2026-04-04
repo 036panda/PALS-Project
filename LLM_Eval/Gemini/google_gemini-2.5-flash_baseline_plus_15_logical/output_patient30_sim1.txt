@@ -1,0 +1,20 @@
+7
+
+*   **Age (49):** +0.5 (Increased risk with age, though 49 is not elderly, it's past young adulthood)
+*   **BMI (29.7):** +1.0 (Overweight, approaching obese, which is a known health risk factor)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition often requiring hospitalization for management)
+*   **Race (Native American):** +1.0 (Acknowledged disparities in healthcare access and outcomes for Native American populations)
+*   **Gender (Female):** +0.5 (Some conditions have higher prevalence or severity in females)
+*   **Weekly_Alcohol_Intake (2):** -0.2 (Low, potentially protective or neutral)
+*   **Smoking (No):** -1.0 (Absence of a major health risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression, while not severe, can exacerbate other conditions or lead to a decline in self-care)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating potential for worsening mental health)
+*   **Hours_of_Sleep (5.8):** +1.0 (Insufficient sleep, a known contributor to various health problems)
+*   **Employment (Employed):** -0.5 (Indicates a degree of stability and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better health outcomes than lower SES)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habits contribute to health risks)
+*   **Has_Drivers_License (No):** +0.5 (May indicate limited access to transportation for healthcare appointments or social support)
+*   **Uses_Public_Transportation (Always):** +0.2 (Increased exposure to infectious diseases, though also indicates mobility)
+*   **Donated_Blood (Yes):** -0.3 (Suggests a level of health and civic engagement)
+
+The risk score is calculated by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate decreased risk, based on established causal links between these factors and hospitalization likelihood. The presence of a serious mental health diagnosis (Bipolar) and insufficient sleep are major contributors to the elevated score.

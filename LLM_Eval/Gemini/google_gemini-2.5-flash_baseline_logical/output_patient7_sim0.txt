@@ -1,0 +1,19 @@
+7
+
+*   **Age (18):** -0.5 (Lower age generally correlates with lower hospitalization risk, assuming no other significant health issues.)
+*   **BMI (24.5):** 0 (Within healthy range, no direct contribution to increased or decreased risk.)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues can slightly increase hospitalization risk, especially if triggered.)
+*   **Current_Diagnosis (Schizophrenia):** +4.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   **Race (Native American):** +0.5 (Certain racial groups, including Native Americans, experience health disparities that can increase hospitalization risk due to systemic factors and higher prevalence of certain conditions.)
+*   **Gender (Male):** 0 (No direct causal link to hospitalization risk in this context.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct causal link to hospitalization risk.)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol consumption reduces risk factors associated with substance abuse.)
+*   **Smoking (Yes):** +1.5 (Smoking significantly increases the risk of various health complications, including respiratory and cardiovascular diseases, leading to higher hospitalization likelihood.)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Moderate depression can lead to functional impairment, self-neglect, and in some cases, suicidal ideation, increasing the need for hospitalization.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (These symptoms, especially in conjunction with depression, indicate a decline in mental and physical well-being that can escalate to hospitalization.)
+*   **Loss_of_Interest (Yes):** +0.5 (A key symptom of depression, indicating a worsening mental state that may require intervention.)
+*   **Hours_of_Sleep (8.3):** -0.5 (Adequate sleep is a protective factor for overall health, reducing the likelihood of hospitalization.)
+*   **Employment (Student):** 0 (No direct causal link to hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** 0 (No direct causal link to hospitalization risk in this context.)
+
+The risk score is calculated by summing the positive contributions from significant health conditions and risk behaviors (Schizophrenia, Smoking, Depression, Race, Family History, symptoms of depression) and subtracting negative contributions from protective factors (healthy BMI, no alcohol, adequate sleep, young age). This reflects the direct causal impact of these factors on the likelihood of requiring hospitalization.

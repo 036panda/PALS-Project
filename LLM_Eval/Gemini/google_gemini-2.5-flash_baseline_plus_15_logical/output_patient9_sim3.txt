@@ -1,0 +1,16 @@
+6
+
+*   Age (35): +0.5 (Increased age is a minor risk factor for hospitalization, though 35 is relatively young.)
+*   BMI (26.8): +0.5 (BMI in the overweight range is a minor risk factor.)
+*   Current_Diagnosis (Bipolar): +3.0 (Bipolar disorder significantly increases hospitalization risk due to potential for mood episodes, psychiatric crises, and associated physical health complications.)
+*   Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol intake is a minor risk factor for various health issues.)
+*   Smoking (No): -1.0 (Absence of smoking significantly reduces hospitalization risk.)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mild depression, even if not severe, can contribute to overall health vulnerability and potential for hospitalization.)
+*   Been_Sad_or_Fatigued (Yes): +1.0 (Persistent sadness or fatigue can indicate underlying health issues or contribute to a decline in well-being, increasing hospitalization risk.)
+*   Loss_of_Interest (No): -0.5 (Absence of loss of interest suggests better mental health resilience.)
+*   Hours_of_Sleep (5.3): +1.0 (Insufficient sleep is a significant risk factor for various health problems and can exacerbate existing conditions.)
+*   Employment (Employed): -0.5 (Employment often correlates with better access to healthcare and overall stability, reducing risk.)
+*   Socioeconomic_Status (Middle): -0.5 (Middle socioeconomic status generally implies better access to resources and healthcare, reducing risk.)
+*   Water_Intake_oz (46.2): +0.5 (Slightly below recommended water intake can contribute to minor health issues.)
+
+The risk score is calculated by summing the contributions of factors that causally increase or decrease the likelihood of hospitalization, with a strong emphasis on direct health conditions, lifestyle choices, and mental health indicators.

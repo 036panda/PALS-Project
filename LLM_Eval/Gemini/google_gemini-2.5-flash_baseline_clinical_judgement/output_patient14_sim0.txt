@@ -1,0 +1,21 @@
+1.  **Final Hospitalization Risk Score:** 3
+
+2.  **Detailed Breakdown of Attribute Impacts:**
+
+    *   **Age (18):** +1 (Young adults, especially those with mental health diagnoses, can be at increased risk due to developmental factors and potential for first-episode presentations.)
+    *   **BMI (30.9):** +0.5 (Obesity is a general health risk factor, but its direct impact on acute psychiatric hospitalization risk in this context is moderate.)
+    *   **Family_Health_History (nan):** +0 (Lack of information prevents assessment; assumed neutral impact.)
+    *   **Current_Diagnosis (Bipolar):** +3 (Bipolar disorder inherently carries a significant risk of hospitalization due to mood episodes, even when currently stable.)
+    *   **Race (Other):** +0 (No direct impact on hospitalization risk based on race alone.)
+    *   **Gender (Non-binary):** +0.5 (Non-binary individuals may face increased psychosocial stressors and discrimination, which can indirectly elevate mental health risks.)
+    *   **Sexual_Orientation (Bisexual):** +0.5 (Similar to gender, bisexual individuals may experience increased minority stress, contributing to mental health vulnerability.)
+    *   **Weekly_Alcohol_Intake (1):** -0.5 (Very low alcohol intake, indicating responsible use and not a risk factor.)
+    *   **Smoking (No):** -0.5 (Absence of smoking is a positive health factor.)
+    *   **HAM-D (0–6: Normal / No Depression):** -2 (Current absence of depressive symptoms is a strong protective factor against immediate hospitalization.)
+    *   **Been_Sad_or_Fatigued (No):** -1 (Absence of these symptoms further reduces immediate risk.)
+    *   **Loss_of_Interest (Yes):** +1 (While HAM-D is normal, "loss of interest" is a concerning symptom that could indicate subthreshold mood disturbance or an early warning sign, especially in bipolar disorder.)
+    *   **Hours_of_Sleep (9.7):** -1 (Adequate sleep is a protective factor for mental health.)
+    *   **Employment (Student):** +0 (Neutral impact; can be a source of stress or structure.)
+    *   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to resources and stability, reducing risk.)
+
+3.  **Clinical Rationale:** Despite a current normal HAM-D score and adequate sleep, the inherent risk associated with a bipolar diagnosis, coupled with the presence of "loss of interest" and potential minority stress factors, warrants a moderate risk score. However, the absence of current depressive symptoms and low alcohol intake mitigate the immediate need for hospitalization.

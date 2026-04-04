@@ -1,0 +1,24 @@
+1. 3
+
+2. *   Age (34): +0.5 (Slightly elevated risk for young adults due to potential for acute conditions, but generally low risk)
+*   BMI (23.1): +0 (Normal range, no contribution)
+*   Family_Health_History (nan): +0 (Unknown, no contribution)
+*   Current_Diagnosis (Depression): +2 (Known mental health condition, can increase hospitalization risk)
+*   Race (Other): +0 (No inherent risk contribution)
+*   Gender (Female): +0 (No inherent risk contribution)
+*   Sexual_Orientation (Heterosexual): +0 (No inherent risk contribution)
+*   Weekly_Alcohol_Intake (2): +0 (Low, within healthy limits, no contribution)
+*   Smoking (No): -1 (Absence of smoking reduces risk)
+*   HAM-D (0–6: Normal / No Depression): -1 (Indicates current depression is not severe, reducing risk)
+*   Been_Sad_or_Fatigued (Yes): +1 (Symptom that could be related to underlying issues or contribute to overall distress)
+*   Loss_of_Interest (No): -0.5 (Absence of a key depression symptom, reducing risk)
+*   Hours_of_Sleep (7.0): +0 (Adequate sleep, no contribution)
+*   Employment (Employed): -0.5 (Employment often correlates with better health outcomes and access to care, reducing risk)
+*   Socioeconomic_Status (Low): +2 (Known risk factor for poorer health outcomes and access to care)
+*   Drinks_Coffee (Yes): +0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (No): +0 (Dietary preference, not a direct causal link to acute hospitalization risk)
+*   Favourite_Sport (Hockey): +0 (Leisure activity, no direct causal link to hospitalization risk)
+*   Votes (Sometimes): +0 (Civic engagement, no direct causal link to hospitalization risk)
+*   Height_in_Inches (73): +0 (Physical attribute, no direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing contributions from factors known to causally influence hospitalization risk, such as a current diagnosis of depression and low socioeconomic status, while mitigating factors like not smoking and being employed reduce the overall score. The presence of "Been_Sad_or_Fatigued" adds a minor risk despite a normal HAM-D score, indicating a potential underlying issue.

@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (46):** +0.5 (Slightly increased risk with advancing age, though 46 is still relatively young)
+*   **BMI (28.3):** +0.5 (Overweight, a known risk factor for various health issues)
+*   **Family_Health_History (Heart Disease):** +1.0 (Significant genetic predisposition to a major health concern)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Primary driver of hospitalization risk, especially if not well-managed, though HAM-D suggests current euthymia)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Indicates current absence of depressive symptoms, mitigating bipolar risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Could be a subtle indicator of underlying mood dysregulation or anhedonia, even with normal HAM-D)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally associated with better access to care and resources, reducing risk)
+*   **Weekly_Alcohol_Intake (2):** -0.2 (Low intake, generally not a risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major health risk factor)
+*   **Hours_of_Sleep (7.0):** -0.2 (Adequate sleep, a protective factor)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources, often a protective factor for mental health)
+*   **Skips_Breakfast (Yes):** +0.2 (Minor negative impact on overall health and routine)
+*   **Allergy (Pollen):** +0.5 (While not directly leading to hospitalization, chronic allergies can impact overall well-being and potentially exacerbate other conditions if severe)
+*   **Uses_Public_Transportation (Always):** +0.5 (Can increase exposure to infectious diseases, though minor)
+
+3. Clinical Rationale: This patient presents with a moderate risk of hospitalization primarily driven by their bipolar diagnosis and family history of heart disease, despite currently being euthymic. While several protective factors are present, the inherent instability associated with bipolar disorder, even in remission, warrants ongoing monitoring and careful management to prevent future acute episodes requiring inpatient care.

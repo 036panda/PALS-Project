@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (20):** +0.5 (Younger adults, particularly those with mental health conditions, can have higher rates of acute psychiatric crises requiring hospitalization.)
+*   **BMI (24.6):** 0 (Within healthy range, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Cancer):** 0 (While cancer can be a significant health concern, a family history of cancer does not directly increase the risk of hospitalization for the patient's current presentation.)
+*   **Current_Diagnosis (Schizophrenia):** +5 (Schizophrenia is a severe mental illness with a high risk of acute exacerbations, psychotic episodes, and functional impairment often necessitating hospitalization for stabilization and safety.)
+*   **Race (Black):** +0.5 (Systemic inequities and disparities in mental healthcare access and quality for Black individuals can lead to delayed or inadequate treatment, potentially increasing the likelihood of crisis and hospitalization.)
+*   **Gender (Other):** +0.5 (Individuals identifying as "Other" gender may face unique stressors, discrimination, and barriers to care, potentially increasing mental health vulnerability and risk of hospitalization.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (6):** +0.5 (While not excessive, any alcohol use can interact negatively with psychiatric medications or exacerbate symptoms of schizophrenia, increasing risk.)
+*   **Smoking (No):** 0 (Positive health behavior, no negative impact on risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Absence of depressive symptoms is a protective factor, reducing the overall burden of mental illness.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these common symptoms of distress is a positive indicator.)
+*   **Loss_of_Interest (Yes):** +1 (Anhedonia, or loss of interest, is a core negative symptom of schizophrenia and can indicate worsening functional impairment and a need for more intensive intervention.)
+*   **Hours_of_Sleep (7.6):** 0 (Adequate sleep, no direct impact on risk.)
+*   **Employment (Student):** 0 (While being a student can be stressful, it doesn't inherently increase hospitalization risk in this context.)
+*   **Socioeconomic_Status (Low):** +1 (Low socioeconomic status is a significant risk factor for poorer mental health outcomes, limited access to resources, and increased likelihood of hospitalization due to inadequate support systems and treatment adherence challenges.)
+
+3. This young adult with a diagnosis of schizophrenia and experiencing anhedonia, compounded by low socioeconomic status and systemic disparities, presents with a significant risk for hospitalization despite the absence of depressive symptoms, indicating a need for close monitoring and robust support.

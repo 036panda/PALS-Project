@@ -1,0 +1,19 @@
+7
+
+*   **Age (63):** +2 (Increased risk with age, particularly over 60)
+*   **BMI (33.3):** +2 (Obesity, BMI > 30, is a significant risk factor)
+*   **Family_Health_History (Heart Disease):** +1 (Genetic predisposition to chronic conditions increases hospitalization risk)
+*   **Current_Diagnosis (Bipolar):** +2 (Mental health disorders, especially severe ones like bipolar, are associated with higher hospitalization rates)
+*   **Race (Hispanic):** +0 (No direct causal link to increased hospitalization risk in this model without further context)
+*   **Gender (Non-binary):** +0 (No direct causal link to increased hospitalization risk in this model)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct causal link to increased hospitalization risk in this model)
+*   **Weekly_Alcohol_Intake (1):** +0 (Low alcohol intake, not a significant risk factor)
+*   **Smoking (No):** -1 (Absence of smoking reduces risk)
+*   **HAM-D (7–17: Mild Depression):** +1 (Mild depression, while not severe, can still contribute to overall health vulnerability)
+*   **Been_Sad_or_Fatigued (No):** -1 (Absence of these symptoms reduces risk)
+*   **Loss_of_Interest (No):** -1 (Absence of this symptom reduces risk)
+*   **Hours_of_Sleep (7.7):** +0 (Adequate sleep, not a significant risk factor)
+*   **Employment (Retired):** +0 (Retirement itself is not a direct risk factor for hospitalization)
+*   **Socioeconomic_Status (Middle):** +0 (Middle socioeconomic status is not a direct risk factor for hospitalization in this model)
+
+The risk score is calculated by summing the contributions of individual factors, where age, obesity, family history of heart disease, and bipolar disorder are primary drivers of increased risk, while the absence of smoking and certain depressive symptoms mitigate some of this risk.

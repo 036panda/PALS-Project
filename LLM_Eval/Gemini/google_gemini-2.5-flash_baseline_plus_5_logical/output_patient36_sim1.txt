@@ -1,0 +1,24 @@
+1. 7.5
+
+2. *   Age (68): +1.0 (Increased risk with advancing age)
+*   BMI (29.7): +0.5 (Overweight, contributing to health issues)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis (Schizophrenia): +2.0 (Significant mental health condition often requiring hospitalization)
+*   Smoking (Yes): +1.0 (Major risk factor for numerous health problems)
+*   HAM-D (25+: Severe Depression): +1.5 (Severe mental health condition with high hospitalization potential)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating current distress)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating current distress)
+*   Socioeconomic_Status (Low): +0.5 (Associated with poorer health outcomes and access to care)
+*   Weekly_Alcohol_Intake (3): +0.0 (Moderate intake, no significant direct contribution to increased risk)
+*   Race (Hispanic): +0.0 (No direct causal link to hospitalization risk in this model)
+*   Gender (Other): +0.0 (No direct causal link to hospitalization risk in this model)
+*   Sexual_Orientation (Bisexual): +0.0 (No direct causal link to hospitalization risk in this model)
+*   Hours_of_Sleep (7.7): +0.0 (Within healthy range, no direct contribution to increased risk)
+*   Employment (Retired): +0.0 (No direct causal link to hospitalization risk in this model)
+*   Drinks_Coffee (Yes): +0.0 (No direct causal link to hospitalization risk in this model)
+*   Likes_Vegetables (No): +0.0 (Indirect health factor, but not a direct causal contributor to immediate hospitalization risk in this model)
+*   Favourite_Sport (Hockey): +0.0 (No direct causal link to hospitalization risk in this model)
+*   Votes (Never): +0.0 (No direct causal link to hospitalization risk in this model)
+*   Height_in_Inches (59): +0.0 (No direct causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the positive contributions of factors known to directly increase the likelihood of hospitalization, such as severe mental health conditions, advanced age, and unhealthy lifestyle choices. Factors without a direct, immediate causal link to hospitalization risk are assigned a zero contribution.

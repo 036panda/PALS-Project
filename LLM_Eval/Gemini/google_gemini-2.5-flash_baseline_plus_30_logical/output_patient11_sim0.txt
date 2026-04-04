@@ -1,0 +1,11 @@
+1. 6.5
+
+2. *   **Current_Diagnosis: Schizophrenia:** +4.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   **Socioeconomic_Status: Low:** +1.5 (Lower socioeconomic status is associated with reduced access to healthcare, poorer health outcomes, and increased risk of hospitalization due to delayed care or inadequate resources.)
+*   **BMI: 29.7 (Overweight):** +0.5 (Being overweight increases the risk of various health complications that may necessitate hospitalization, such as cardiovascular issues or diabetes.)
+*   **Loss_of_Interest: Yes:** +0.5 (Loss of interest can be a symptom of depression or other mental health conditions that, if severe, could lead to hospitalization.)
+*   **Allergy: Gluten:** +0.5 (While not directly causing hospitalization, managing a gluten allergy can sometimes lead to complications or require medical attention if exposure occurs.)
+*   **Weekly_Alcohol_Intake: 4:** -0.5 (Moderate alcohol intake is generally not a significant risk factor for hospitalization and may even be associated with some health benefits compared to abstention, though this is a minor contribution.)
+*   **Hours_of_Sleep: 7.1:** -0.5 (Adequate sleep is crucial for physical and mental health, reducing the likelihood of health issues that might require hospitalization.)
+
+3. The risk score is calculated by summing the positive contributions from factors indicating increased vulnerability to hospitalization (e.g., severe mental illness, low socioeconomic status, overweight, specific symptoms) and subtracting minor negative contributions from factors associated with better health or lower risk. The causal basis is rooted in established medical and public health knowledge linking these factors to hospitalization likelihood.

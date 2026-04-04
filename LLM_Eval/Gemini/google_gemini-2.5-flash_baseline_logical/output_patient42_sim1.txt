@@ -1,0 +1,19 @@
+1. 2.5
+
+2. *   Age (49): +0.5 (Slightly elevated risk due to being middle-aged)
+*   BMI (23.2): +0.0 (Normal range, no contribution)
+*   Family_Health_History (Asthma): +0.5 (Increased risk for respiratory complications, potentially requiring hospitalization)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can exacerbate physical symptoms or lead to hospital visits)
+*   Race (Hispanic): +0.0 (No direct causal link to hospitalization risk in this context)
+*   Gender (Male): +0.0 (No direct causal link to hospitalization risk in this context)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk in this context)
+*   Weekly_Alcohol_Intake (4): +0.0 (Moderate intake, no significant contribution)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Good mental health, reducing risk)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of common indicators of declining health)
+*   Loss_of_Interest (Yes): +1.0 (Despite normal HAM-D, this indicates a potential underlying mental health concern or early symptom of other issues)
+*   Hours_of_Sleep (9.4): -0.5 (Adequate sleep, promoting good health)
+*   Employment (Employed): +0.0 (No direct causal link to hospitalization risk in this context)
+*   Socioeconomic_Status (High): +0.5 (While generally protective, high SES can sometimes be associated with higher stress or access to more diagnostic procedures, leading to more identified conditions. In this specific case, given other factors, it's a minor positive contribution reflecting potential for more frequent healthcare engagement.)
+
+3. The risk score is calculated by summing individual contributions from factors known to causally influence hospitalization likelihood, such as existing diagnoses, family history, and specific symptoms, while mitigating factors like good sleep and absence of smoking reduce the score. The "Loss of Interest" despite a normal HAM-D score is weighted as a significant positive contributor due to its potential as an early indicator of underlying health issues.

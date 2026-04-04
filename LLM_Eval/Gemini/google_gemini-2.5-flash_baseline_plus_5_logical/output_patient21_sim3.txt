@@ -1,0 +1,24 @@
+1. 5.5
+
+2. *   **Age (42):** +0.5 (Increased risk with age, but 42 is relatively young, so a small positive contribution)
+*   **BMI (26.4):** +0.5 (Slightly overweight, contributing to a minor increase in risk)
+*   **Family_Health_History (Cancer):** +1.0 (Genetic predisposition to serious illness, increasing risk)
+*   **Current_Diagnosis (Anxiety):** +1.5 (Mental health conditions can exacerbate physical health issues and increase the likelihood of seeking medical attention)
+*   **Race (Native American):** +1.0 (Historically marginalized groups often face systemic health disparities, increasing risk)
+*   **Gender (Non-binary):** +0.5 (Non-binary individuals may face unique healthcare challenges and discrimination, contributing to increased risk)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor, reducing risk)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Depression is linked to poorer health outcomes and increased healthcare utilization)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptoms indicative of underlying health issues or mental distress, increasing risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, contributing to increased risk)
+*   **Hours_of_Sleep (10.2):** -0.5 (Adequate sleep is generally protective, reducing risk)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and resources, reducing risk)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, as it's not extreme poverty or extreme wealth)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, reducing risk)
+*   **Favourite_Sport (nan):** +0.0 (No information, neutral)
+*   **Votes (Sometimes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (63):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values reflect increased risk due to causal links (e.g., family history of cancer, mental health conditions, systemic disparities) and negative values reflect reduced risk due to protective factors (e.g., no smoking, adequate sleep, healthy diet).

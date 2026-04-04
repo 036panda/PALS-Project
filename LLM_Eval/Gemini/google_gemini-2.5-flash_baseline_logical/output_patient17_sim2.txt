@@ -1,0 +1,19 @@
+7
+
+*   **Age (20):** +0.5 (Younger age, while generally lower risk for many conditions, can be a risk factor for first-episode psychosis hospitalizations in schizophrenia, and also for mental health crises in general.)
+*   **BMI (24.6):** +0.0 (Normal range, no direct contribution to hospitalization risk.)
+*   **Family_Health_History (Cancer):** +0.0 (While a serious condition, cancer in family history does not directly increase hospitalization risk for the patient's current diagnosis or general health in this context.)
+*   **Current_Diagnosis (Schizophrenia):** +5.0 (This is a primary and significant driver of hospitalization risk due to the nature of the illness, potential for acute episodes, and need for stabilization.)
+*   **Race (Black):** +0.5 (Systemic inequities in healthcare access and outcomes for Black individuals can lead to delayed care and increased likelihood of hospitalization when care is finally accessed.)
+*   **Gender (Other):** +0.5 (Individuals identifying as 'Other' gender may face unique societal stressors, discrimination, and barriers to healthcare, potentially increasing mental health crisis risk.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct contribution to hospitalization risk in this context.)
+*   **Weekly_Alcohol_Intake (6 units):** +0.0 (Moderate intake, not a significant risk factor for hospitalization.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a protective factor against numerous health complications that could lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depression is a significant protective factor, reducing the likelihood of hospitalization for mood-related crises or exacerbation of other conditions.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates better current mental well-being, reducing immediate crisis risk.)
+*   **Loss_of_Interest (Yes):** +1.0 (While HAM-D is normal, "Loss of Interest" is a symptom that can indicate underlying distress or a prodromal phase of a mental health condition, increasing risk.)
+*   **Hours_of_Sleep (7.6):** -0.5 (Adequate sleep is a protective factor for overall physical and mental health, reducing hospitalization risk.)
+*   **Employment (Student):** +0.5 (Being a student can involve significant academic stress, social pressures, and financial strain, which can exacerbate mental health conditions.)
+*   **Socioeconomic_Status (Low):** +1.0 (Low socioeconomic status is a significant risk factor due to limited access to quality healthcare, stable housing, nutritious food, and other resources that support health and prevent crises.)
+
+The risk score is primarily driven by the severe mental health diagnosis of schizophrenia, compounded by socioeconomic vulnerability, systemic healthcare disparities, and specific mental health symptoms, while being partially mitigated by protective factors like adequate sleep and absence of depression. The causal basis reflects how these factors directly influence the likelihood of needing acute medical or psychiatric intervention.

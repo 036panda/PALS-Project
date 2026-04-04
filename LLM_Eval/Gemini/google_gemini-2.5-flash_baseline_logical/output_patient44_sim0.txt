@@ -1,0 +1,19 @@
+7
+
+*   **Age (73):** +2 (Increased risk with advanced age due to general physiological decline and higher susceptibility to various health issues.)
+*   **BMI (22.5):** +0 (Normal BMI, no direct contribution to increased or decreased risk.)
+*   **Family_Health_History (Asthma):** +1 (Genetic predisposition to respiratory issues, which can be exacerbated by other factors or lead to hospitalization if severe.)
+*   **Current_Diagnosis (Anxiety):** +1 (Mental health conditions, especially anxiety, can lead to physical symptoms, impact adherence to medical advice, or necessitate hospitalization in severe cases.)
+*   **Race (Native American):** +1 (Systemic health disparities and historical trauma can contribute to poorer health outcomes and increased hospitalization risk in this demographic.)
+*   **Gender (Non-binary):** +0 (No direct causal link to hospitalization risk based on gender identity itself, though societal factors can indirectly impact health.)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct causal link to hospitalization risk.)
+*   **Weekly_Alcohol_Intake (6 units):** +0 (Moderate intake, generally not considered a significant risk factor for hospitalization.)
+*   **Smoking (No):** -1 (Absence of smoking significantly reduces risk of numerous chronic diseases and respiratory issues.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Absence of depression reduces risk of mental health crises and associated physical health complications.)
+*   **Been_Sad_or_Fatigued (Yes):** +1 (While not depression, persistent sadness or fatigue can be indicative of underlying health issues or stress that could escalate.)
+*   **Loss_of_Interest (No):** +0 (Absence of anhedonia, which is a symptom of depression, thus not contributing to increased risk.)
+*   **Hours_of_Sleep (9.7):** -1 (Adequate to high sleep duration, generally associated with better health and reduced risk.)
+*   **Employment (Retired):** +1 (While retirement itself isn't a risk, it can sometimes be associated with reduced physical activity, social isolation, or financial strain, indirectly increasing risk.)
+*   **Socioeconomic_Status (Low):** +2 (Low socioeconomic status is a significant predictor of poorer health outcomes, limited access to care, and higher hospitalization rates due to various systemic factors.)
+
+The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, reflecting their direct or indirect causal influence on the likelihood of hospitalization. This approach acknowledges both biological and socio-environmental determinants of health.

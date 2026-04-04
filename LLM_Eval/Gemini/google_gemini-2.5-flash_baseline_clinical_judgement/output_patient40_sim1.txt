@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed Breakdown of Attributes:
+
+*   **Age (26):** -1 (Younger age generally associated with lower risk of hospitalization for many conditions, though mental health crises can occur at any age. Here, it slightly offsets other risks.)
+*   **BMI (29.1):** +0.5 (Approaching overweight/obese, which can be a comorbidity factor, but not severely elevated to significantly increase immediate hospitalization risk on its own.)
+*   **Family_Health_History (Diabetes):** +0.5 (Indicates a genetic predisposition to chronic health issues, which can indirectly impact overall health and resilience, but not a direct driver for immediate hospitalization in this context.)
+*   **Current_Diagnosis (Bipolar):** +4 (This is a significant risk factor. Bipolar disorder inherently carries a high risk of hospitalization due to manic or depressive episodes, psychosis, or suicidal ideation.)
+*   **Race (Other):** +0 (No direct impact on hospitalization risk based on this information alone.)
+*   **Gender (Non-binary):** +0.5 (While not a direct medical risk, individuals identifying as non-binary may face unique stressors, discrimination, and barriers to care that can indirectly increase mental health crisis risk.)
+*   **Sexual_Orientation (Heterosexual):** +0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (3):** +0 (Moderate intake, not a significant risk factor for hospitalization.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health factor, slightly reducing overall risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (This is a crucial mitigating factor. Despite other symptoms, the absence of clinical depression as measured by HAM-D significantly reduces the immediate risk of hospitalization for a depressive episode.)
+*   **Been_Sad_or_Fatigued (Yes):** +1 (While HAM-D is normal, self-reported sadness/fatigue indicates sub-threshold symptoms or early warning signs that warrant monitoring, especially with bipolar disorder.)
+*   **Loss_of_Interest (Yes):** +1 (Similar to sadness/fatigue, this is a concerning symptom, even if not meeting full depressive criteria, and can precede a more severe episode in bipolar disorder.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below optimal, which can exacerbate mood instability in bipolar disorder, but not severely sleep-deprived.)
+*   **Employment (Employed):** -0.5 (Employment often indicates a degree of stability and social functioning, which can be protective.)
+*   **Socioeconomic_Status (Low):** +1 (Low socioeconomic status is a known risk factor for poorer health outcomes, limited access to care, and increased stress, all of which can contribute to hospitalization risk, particularly for mental health conditions.)
+
+3. Clinical Rationale: This young adult with bipolar disorder, despite a normal HAM-D score, exhibits concerning sub-threshold symptoms (sadness, fatigue, loss of interest) and faces significant psychosocial stressors (low socioeconomic status, potential unique stressors as non-binary), placing them at a moderate-to-high risk for hospitalization due to potential mood destabilization or crisis.

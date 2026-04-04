@@ -1,0 +1,12 @@
+7
+
+*   **Age (63):** +2 (Increased age is a direct risk factor for hospitalization due to general physiological decline and higher prevalence of chronic conditions.)
+*   **BMI (33.3 - Obese Class I):** +2 (Obesity is a significant risk factor for numerous health complications requiring hospitalization, including cardiovascular disease, diabetes, and respiratory issues.)
+*   **Family_Health_History (Heart Disease):** +1 (Genetic predisposition to heart disease increases the individual's risk of cardiac events requiring hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +2 (Bipolar disorder can lead to hospitalizations for mood stabilization, psychiatric crises, or complications from medication.)
+*   **HAM-D (7–17: Mild Depression):** +1 (Even mild depression can exacerbate existing health conditions, impair self-care, and, in some cases, escalate to more severe states requiring intervention.)
+*   **Smoking (No):** -1 (Absence of smoking significantly reduces the risk of numerous smoking-related illnesses that often lead to hospitalization.)
+*   **Exercises (No):** +1 (Lack of exercise contributes to poor cardiovascular health, obesity, and other conditions that increase hospitalization risk.)
+*   **Skips_Breakfast (Yes):** +1 (Skipping meals, particularly breakfast, can lead to poor nutritional intake, energy fluctuations, and potentially exacerbate existing health conditions or contribute to new ones.)
+
+The risk score is calculated by summing the positive contributions from identified risk factors (age, BMI, family history, current diagnosis, HAM-D, lack of exercise, skipping breakfast) and subtracting the negative contribution from the absence of smoking, reflecting direct causal links to hospitalization.

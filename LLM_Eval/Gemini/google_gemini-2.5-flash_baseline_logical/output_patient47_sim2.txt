@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   **Age (22):** -0.5 (Lower risk due to young age)
+*   **BMI (27.1):** +0.5 (Slightly elevated, indicating minor increased risk)
+*   **Family_Health_History (Heart Disease):** +1.0 (Significant genetic predisposition to a major health issue)
+*   **Current_Diagnosis (Schizophrenia):** +2.0 (Major mental health condition often requiring hospitalization or intensive care)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Indicates current mental health distress, potentially exacerbating other conditions or requiring intervention)
+*   **Been_Sad_or_Fatigued (Yes):** +0.25 (Symptom of potential underlying issues or mental health strain)
+*   **Loss_of_Interest (Yes):** +0.25 (Symptom of potential underlying issues or mental health strain)
+*   **Weekly_Alcohol_Intake (2):** -0.25 (Low intake, potentially protective or neutral)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **Hours_of_Sleep (8.9):** -0.25 (Adequate sleep, indicating good self-care or health)
+*   **Employment (Student):** +0.25 (Potential stressor, but also access to university health services)
+*   **Socioeconomic_Status (Middle):** -0.25 (Generally associated with better access to healthcare and resources)
+*   **Race (Hispanic):** 0 (No direct causal link to hospitalization risk in this model)
+*   **Gender (Non-binary):** 0 (No direct causal link to hospitalization risk in this model)
+*   **Sexual_Orientation (Bisexual):** 0 (No direct causal link to hospitalization risk in this model)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values represent increased risk and negative values represent decreased risk. The primary drivers of this score are the significant mental health diagnosis (Schizophrenia) and family history of heart disease, partially mitigated by the individual's young age, lack of smoking, and adequate sleep.

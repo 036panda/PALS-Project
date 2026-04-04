@@ -1,0 +1,16 @@
+1. Risk Assessment Score: 5
+
+2. Parameter Risk Values:
+    * Age (56): +1 (Increased risk for hospitalization with age)
+    * BMI (31.1): +1 (Obesity increases hospitalization risk)
+    * Family_Health_History (Asthma): +1 (Family history of chronic conditions can increase risk)
+    * Current_Diagnosis (Schizophrenia): +2 (Significant increase in hospitalization risk due to severe mental illness)
+    * Loss_of_Interest (Yes): +1 (Indicates potential underlying health issues or worsening mental state)
+    * HAM-D (0-6: Normal / No Depression): -1 (Lower risk due to absence of depression)
+    * Weekly_Alcohol_Intake (0): -1 (Lower risk due to no alcohol consumption)
+    * Smoking (No): -1 (Lower risk due to not smoking)
+    * Hours_of_Sleep (8.0): -1 (Adequate sleep is a protective factor)
+    * Employment (Employed): -1 (Employment is often associated with better health outcomes and access to care)
+    * Socioeconomic_Status (Middle): -1 (Middle socioeconomic status is generally associated with lower health risks compared to lower statuses)
+
+3. Rationale: The patient's schizophrenia diagnosis and obesity are significant contributors to the elevated risk, despite several protective factors like no smoking, no alcohol intake, and adequate sleep. The presence of "Loss of Interest" also adds a minor concern.

@@ -1,0 +1,24 @@
+7
+
+*   **BMI (31.3):** +2.0 (Obesity, BMI > 30, increases risk of various health complications requiring hospitalization)
+*   **Family_Health_History (Asthma):** +1.0 (Genetic predisposition to respiratory issues, potentially exacerbated by other factors)
+*   **Current_Diagnosis (Anxiety):** +1.5 (Mental health conditions can indirectly increase hospitalization risk through somatic symptoms, impaired self-care, or comorbidity with physical conditions)
+*   **Weekly_Alcohol_Intake (5):** +0.5 (Moderate alcohol consumption, while not excessive, still carries some health risks compared to none)
+*   **Socioeconomic_Status (Low):** +2.0 (Associated with poorer access to healthcare, higher stress levels, and increased exposure to environmental risks, leading to higher hospitalization rates)
+*   **Likes_Vegetables (No):** +1.0 (Poor dietary habits contribute to various chronic diseases that may require hospitalization)
+*   **Age (36):** 0.0 (Within a relatively low-risk age bracket for general hospitalization)
+*   **Race (White):** 0.0 (No inherent risk assigned based on race in this model)
+*   **Gender (Male):** 0.0 (No inherent risk assigned based on gender in this model)
+*   **Sexual_Orientation (Heterosexual):** 0.0 (No inherent risk assigned based on sexual orientation in this model)
+*   **Smoking (No):** 0.0 (Absence of a significant risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** 0.0 (Absence of a significant mental health risk factor)
+*   **Been_Sad_or_Fatigued (No):** 0.0 (Absence of a significant mental health risk factor)
+*   **Loss_of_Interest (No):** 0.0 (Absence of a significant mental health risk factor)
+*   **Hours_of_Sleep (6.0):** 0.0 (Within a generally acceptable range, though slightly below optimal, not a strong direct hospitalization risk)
+*   **Employment (Employed):** 0.0 (Generally a protective factor, but not directly reducing hospitalization risk in this model)
+*   **Drinks_Coffee (Yes):** 0.0 (No direct causal link to increased hospitalization risk)
+*   **Favourite_Sport (Gymnastics):** 0.0 (No direct causal link to increased hospitalization risk)
+*   **Votes (Sometimes):** 0.0 (No direct causal link to increased hospitalization risk)
+*   **Height_in_Inches (65):** 0.0 (No direct causal link to increased hospitalization risk)
+
+The risk score is calculated by summing the positive contributions from identified risk factors such as obesity, family history of asthma, anxiety, moderate alcohol intake, low socioeconomic status, and poor dietary habits, which are causally linked to increased likelihood of health complications requiring hospitalization. Factors without a direct causal link to increased hospitalization risk or those representing the absence of a risk factor contribute zero.

@@ -1,0 +1,36 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (20):** +0.5 (Younger adults with severe mental illness may have higher rates of acute crises requiring hospitalization, especially early in the disease course.)
+*   **BMI (24.6):** 0 (Within healthy range, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Cancer):** 0 (While cancer can be a significant health concern, family history of cancer does not directly impact acute psychiatric hospitalization risk.)
+*   **Current_Diagnosis (Schizophrenia):** +5 (Schizophrenia is a severe mental illness with a high risk of acute exacerbations, psychotic episodes, and functional impairment often necessitating hospitalization for stabilization and safety.)
+*   **Race (Black):** +0.5 (Systemic inequities and disparities in mental healthcare access and quality for Black individuals can lead to delayed or inadequate outpatient care, increasing the likelihood of crisis and hospitalization.)
+*   **Gender (Other):** +0.5 (Individuals identifying as 'Other' gender may face unique stressors, discrimination, and barriers to care, potentially increasing vulnerability to mental health crises requiring hospitalization.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (6):** 0 (Moderate intake, not indicative of problematic use that would significantly increase hospitalization risk.)
+*   **Smoking (No):** 0 (Positive health behavior, no negative impact on hospitalization risk.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Absence of depressive symptoms, which can often co-occur with schizophrenia and complicate management, reduces overall risk.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these common prodromal or residual symptoms suggests better current mental state and reduces immediate risk.)
+*   **Loss_of_Interest (Yes):** +1 (Anhedonia is a core negative symptom of schizophrenia and can indicate ongoing illness burden, functional impairment, and potential for worsening, increasing hospitalization risk.)
+*   **Hours_of_Sleep (7.6):** 0 (Adequate sleep, no direct impact on hospitalization risk.)
+*   **Employment (Student):** +0.5 (While being a student can be a protective factor, the demands of academic life combined with a severe mental illness like schizophrenia can be a significant stressor, potentially increasing risk of decompensation.)
+*   **Socioeconomic_Status (Low):** +1 (Low socioeconomic status is a significant risk factor for poorer mental health outcomes, limited access to resources, and increased likelihood of hospitalization due to inadequate support and care.)
+*   **Drinks_Coffee (Yes):** 0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (No):** 0 (Dietary preference, no direct impact on hospitalization risk.)
+*   **Favourite_Sport (Gymnastics):** 0 (Leisure activity, no direct impact on hospitalization risk.)
+*   **Votes (Sometimes):** 0 (Civic engagement, no direct impact on hospitalization risk.)
+*   **Height_in_Inches (58):** 0 (Physical attribute, no direct impact on hospitalization risk.)
+*   **Has_Drivers_License (No):** 0 (No direct impact on hospitalization risk.)
+*   **Picks_Up_Litter (Always):** 0 (Prosocial behavior, no direct impact on hospitalization risk.)
+*   **Uses_Public_Transportation (Never):** 0 (Transportation method, no direct impact on hospitalization risk.)
+*   **Donated_Blood (Yes):** 0 (Prosocial behavior, no direct impact on hospitalization risk.)
+*   **Birthday_Month (April):** 0 (No direct impact on hospitalization risk.)
+*   **Water_Intake_oz (45.2):** 0 (Adequate hydration, no direct impact on hospitalization risk.)
+*   **Bilingual (No):** 0 (Language ability, no direct impact on hospitalization risk.)
+*   **Handedness (Right):** 0 (No direct impact on hospitalization risk.)
+*   **Likes_Kids (No):** 0 (Personal preference, no direct impact on hospitalization risk.)
+*   **Favourite_Meal (Breakfast):** 0 (Personal preference, no direct impact on hospitalization risk.)
+
+3. Clinical-style rationale: This young individual with a primary diagnosis of schizophrenia, compounded by low socioeconomic status, the presence of anhedonia, and systemic disparities related to race and gender identity, faces a substantial risk of hospitalization despite the absence of acute depressive symptoms. The inherent severity and episodic nature of schizophrenia, coupled with significant social determinants of health, elevate the likelihood of acute decompensation requiring inpatient care.

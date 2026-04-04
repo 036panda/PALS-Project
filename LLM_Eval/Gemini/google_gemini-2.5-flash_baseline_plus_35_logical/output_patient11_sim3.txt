@@ -1,0 +1,13 @@
+6
+
+*   **Current_Diagnosis: Schizophrenia:** +4 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   **Socioeconomic_Status: Low:** +2 (Lower socioeconomic status is correlated with reduced access to healthcare, poorer health outcomes, and increased hospitalization rates due to delayed care or chronic condition management challenges.)
+*   **Loss_of_Interest: Yes:** +1 (Loss of interest, or anhedonia, is a symptom of depression and can indicate a worsening mental health state, increasing the likelihood of needing more intensive care.)
+*   **BMI: 29.7:** +0.5 (A BMI of 29.7 is classified as overweight, which can contribute to various health issues, though not immediately severe enough to warrant a high individual risk contribution.)
+*   **Weekly_Alcohol_Intake: 4:** +0.5 (Moderate alcohol intake can have some health implications, but 4 units per week is not typically a direct driver of hospitalization on its own.)
+*   **Allergy: Gluten:** +0 (While a gluten allergy requires dietary management, it does not inherently increase hospitalization risk unless poorly managed, which is not indicated.)
+*   **HAM-D: 7–17: Mild Depression:** -1 (While depression is a risk factor, the "mild" classification suggests a lower immediate risk of hospitalization compared to moderate or severe depression.)
+*   **Employment: Employed:** -1 (Employment generally indicates a degree of stability and access to resources, which can be protective against hospitalization.)
+*   **Hours_of_Sleep: 7.1:** -1 (Adequate sleep (around 7-9 hours) is beneficial for physical and mental health, reducing overall health risks.)
+
+The risk score is calculated by summing the individual contributions of factors directly impacting health and access to care, with a strong emphasis on the severe mental health diagnosis and socioeconomic vulnerability, while mitigating factors like employment and adequate sleep reduce the overall score.

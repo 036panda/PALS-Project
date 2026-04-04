@@ -1,0 +1,24 @@
+7.5
+
+*   Age (63): +1.5 (Increased age is a direct risk factor for hospitalization due to general physiological decline and increased comorbidity likelihood.)
+*   BMI (33.3): +1.0 (Obesity (BMI > 30) is a direct risk factor for numerous health complications requiring hospitalization.)
+*   Family_Health_History (Heart Disease): +1.0 (Genetic predisposition to heart disease increases personal risk of cardiac events requiring hospitalization.)
+*   Current_Diagnosis (Bipolar): +2.0 (Mental health conditions, especially bipolar disorder, are associated with higher rates of hospitalization for both psychiatric crises and related physical health issues.)
+*   Race (Hispanic): +0.5 (Some studies indicate health disparities and increased hospitalization rates for certain racial/ethnic groups, potentially due to socioeconomic or systemic factors.)
+*   Weekly_Alcohol_Intake (1): +0.0 (Low alcohol intake is not considered a significant risk factor.)
+*   Smoking (No): -0.5 (Absence of smoking reduces risk of numerous smoking-related illnesses requiring hospitalization.)
+*   HAM-D (7–17: Mild Depression): +1.0 (Even mild depression can impact overall health and increase the likelihood of hospitalization, either directly or by exacerbating other conditions.)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of these symptoms indicates better current mental well-being, reducing immediate risk.)
+*   Loss_of_Interest (No): -0.5 (Absence of this symptom indicates better current mental well-being, reducing immediate risk.)
+*   Hours_of_Sleep (7.7): +0.0 (Optimal sleep duration, neither too little nor too much, is not a risk factor.)
+*   Employment (Retired): +0.5 (While retirement itself isn't a direct risk, it can sometimes be associated with reduced physical activity or social engagement, indirectly increasing risk for some individuals.)
+*   Socioeconomic_Status (Middle): +0.0 (Middle socioeconomic status is generally not considered a direct positive or negative risk factor compared to extremes.)
+*   Drinks_Coffee (Yes): +0.0 (Coffee consumption is not a direct risk factor for hospitalization.)
+*   Likes_Vegetables (No): +0.5 (Lack of vegetable consumption can indicate a less healthy diet, contributing to overall health risks.)
+*   Favourite_Sport (Soccer): +0.0 (Leisure interests are not direct risk factors.)
+*   Votes (Always): +0.0 (Civic engagement is not a direct risk factor.)
+*   Height_in_Inches (64): +0.0 (Height is not a direct risk factor for hospitalization.)
+*   Gender (Non-binary): +0.0 (Gender identity itself is not a direct risk factor for hospitalization.)
+*   Sexual_Orientation (Heterosexual): +0.0 (Sexual orientation is not a direct risk factor for hospitalization.)
+
+The risk score is calculated by summing the positive and negative contributions of each input factor, where each contribution reflects a direct or indirect causal relationship to hospitalization risk based on established health and social determinants. Factors with no clear causal link to hospitalization are assigned a neutral contribution.

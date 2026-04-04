@@ -1,0 +1,16 @@
+7
+
+*   **Age (52):** +0.5 (Increased age is associated with higher hospitalization risk due to general health decline and increased comorbidity likelihood.)
+*   **BMI (16.4):** +1.5 (Underweight BMI is associated with increased hospitalization risk due to potential malnutrition, weakened immune system, and other health complications.)
+*   **Family_Health_History (Cancer):** +0.5 (A family history of cancer indicates a genetic predisposition to certain health issues, potentially increasing overall health risks.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Bipolar disorder is a significant mental health condition often requiring hospitalization for acute episodes or medication management.)
+*   **Weekly_Alcohol_Intake (7):** +0.5 (Moderate alcohol intake can contribute to various health issues over time, increasing hospitalization risk.)
+*   **Smoking (Yes):** +2.0 (Smoking is a major risk factor for numerous chronic diseases, significantly increasing the likelihood of hospitalization.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Mild depression, while not severe, can still impact overall health and potentially lead to complications requiring medical attention.)
+*   **Loss_of_Interest (Yes):** +0.5 (Loss of interest is a symptom of depression and can indicate a decline in overall well-being, potentially leading to health issues.)
+*   **Hours_of_Sleep (4.8):** +1.0 (Chronic sleep deprivation significantly impairs immune function, increases stress, and contributes to various health problems, raising hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to healthcare and resources compared to lower statuses, reducing risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (A diet rich in vegetables is associated with better overall health and reduced risk of chronic diseases, lowering hospitalization risk.)
+*   **Donated_Blood (Yes):** -0.5 (Regular blood donation often indicates a generally healthy individual with good health practices, suggesting lower overall risk.)
+
+The risk score is calculated by summing the positive and negative contributions of each factor, where each contribution reflects a direct causal link to increased or decreased hospitalization likelihood based on established medical and public health knowledge.

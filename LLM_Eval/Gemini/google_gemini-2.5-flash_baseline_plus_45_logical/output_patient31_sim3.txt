@@ -1,0 +1,12 @@
+1. 7
+
+2. *   BMI (36.8): +2 (Obesity is a significant risk factor for numerous health complications requiring hospitalization.)
+*   Family_Health_History (Hypertension): +1 (Genetic predisposition to hypertension increases the risk of related cardiovascular events.)
+*   Smoking (Yes): +2 (Smoking is a major risk factor for respiratory, cardiovascular, and various other diseases leading to hospitalization.)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (While not a direct cause, persistent sadness/fatigue can indicate underlying health issues or contribute to poor self-care, increasing hospitalization risk.)
+*   Loss_of_Interest (Yes): +0.5 (Similar to sadness/fatigue, this can be a symptom of underlying conditions or lead to neglect of health.)
+*   Hours_of_Sleep (5.7): +1 (Chronic sleep deprivation weakens the immune system and contributes to various health problems.)
+*   Skips_Breakfast (Yes): +0.5 (Skipping meals can lead to poor nutritional intake and energy levels, potentially impacting overall health.)
+*   Exercises (No): +0.5 (Lack of exercise contributes to poor cardiovascular health, obesity, and other conditions that may require hospitalization.)
+
+3. The hospitalization risk score is calculated by summing the positive contributions of identified health risk factors, such as high BMI, smoking, family history of hypertension, and poor lifestyle choices like insufficient sleep and lack of exercise, which are causally linked to increased likelihood of severe health events requiring hospitalization. Factors not directly or causally linked to hospitalization risk are assigned a neutral contribution of zero.

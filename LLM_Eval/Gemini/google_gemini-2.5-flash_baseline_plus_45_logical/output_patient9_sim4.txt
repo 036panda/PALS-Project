@@ -1,0 +1,14 @@
+1. 4.5
+
+2. *   Age (35): +0.5 (Increased risk with age, but 35 is relatively low)
+*   BMI (26.8): +0.5 (Slightly overweight, contributing to minor risk)
+*   Current_Diagnosis (Bipolar): +2.0 (Significant chronic mental health condition, increasing hospitalization risk)
+*   Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol intake, contributing to minor risk)
+*   HAM-D (7–17: Mild Depression): +1.0 (Mild depression, a mental health factor increasing risk)
+*   Hours_of_Sleep (5.3): +0.5 (Insufficient sleep, contributing to minor health risk)
+*   Exercises (No): +0.5 (Lack of exercise, contributing to minor health risk)
+*   Allergy (Shellfish): -1.0 (Specific allergy, but not a general health risk for hospitalization)
+*   Water_Intake_oz (46.2): -0.5 (Adequate water intake, a positive health factor)
+*   Likes_Vegetables (Yes): -0.5 (Positive dietary habit, reducing risk)
+
+3. The risk score is calculated by summing the positive contributions from identified health risk factors (e.g., chronic conditions, lifestyle choices) and subtracting negative contributions from protective health factors, reflecting a direct causal relationship between these attributes and hospitalization likelihood.

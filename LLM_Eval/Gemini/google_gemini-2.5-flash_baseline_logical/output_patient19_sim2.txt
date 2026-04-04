@@ -1,0 +1,19 @@
+1. 3
+
+2. *   Age: 34 (Neutral: 0)
+    *   BMI: 23.1 (Normal weight, protective: -1)
+    *   Family_Health_History: nan (Unknown, neutral: 0)
+    *   Current_Diagnosis: Depression (Risk factor: +2)
+    *   Race: Other (Neutral: 0)
+    *   Gender: Female (Neutral: 0)
+    *   Sexual_Orientation: Heterosexual (Neutral: 0)
+    *   Weekly_Alcohol_Intake: 2 (Low, protective: -1)
+    *   Smoking: No (Protective: -1)
+    *   HAM-D: 0–6: Normal / No Depression (Contradicts Current_Diagnosis, but HAM-D is more specific for current severity, protective: -1)
+    *   Been_Sad_or_Fatigued: Yes (Risk factor, aligns with depression diagnosis: +1)
+    *   Loss_of_Interest: No (Protective: -1)
+    *   Hours_of_Sleep: 7.0 (Adequate, protective: -1)
+    *   Employment: Employed (Protective: -1)
+    *   Socioeconomic_Status: Low (Risk factor: +3)
+
+3. The risk score is calculated by summing the contributions of identified risk and protective factors. The primary drivers of risk are the current diagnosis of depression and low socioeconomic status, while several lifestyle and health indicators act as protective factors.

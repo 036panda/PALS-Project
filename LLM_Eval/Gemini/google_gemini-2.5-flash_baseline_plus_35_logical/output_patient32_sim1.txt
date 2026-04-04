@@ -1,0 +1,12 @@
+1. 7
+
+2. *   **Current_Diagnosis: Schizophrenia:** +3 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   **HAM-D: 25+: Severe Depression:** +2 (Severe depression significantly increases the risk of hospitalization due to suicidal ideation, self-harm, or inability to function.)
+*   **Loss_of_Interest: Yes:** +1 (Anhedonia, or loss of interest, is a core symptom of severe depression and can indicate a worsening mental state requiring intervention.)
+*   **BMI: 17.6:** +1 (A BMI below 18.5 is considered underweight, which can be a symptom of underlying health issues, including mental health conditions like anorexia, or can lead to other health complications requiring medical attention.)
+*   **Family_Health_History: Diabetes:** +0.5 (While not a direct hospitalization risk for the individual, a family history of chronic disease can indicate a genetic predisposition to health issues that might require future medical care.)
+*   **Allergy: Gluten:** +0.5 (Gluten allergy, if not properly managed, can lead to gastrointestinal issues and nutritional deficiencies that might require medical intervention.)
+*   **Age: 19:** -1 (Younger age, particularly in the absence of other severe physical health conditions, generally correlates with lower overall physical health risks compared to older populations.)
+*   **Socioeconomic_Status: High:** -1 (Higher socioeconomic status often correlates with better access to healthcare, healthier lifestyle choices, and resources to manage health conditions, reducing hospitalization likelihood.)
+
+3. The hospitalization risk score is calculated by summing the positive contributions from severe mental health diagnoses (Schizophrenia, Severe Depression, Loss of Interest) and potential physical health vulnerabilities (underweight BMI, gluten allergy, family history of diabetes), and subtracting contributions from protective factors like younger age and high socioeconomic status, reflecting their direct causal impact on hospitalization likelihood.

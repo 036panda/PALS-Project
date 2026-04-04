@@ -1,0 +1,12 @@
+1. 4.5
+
+2. *   Age: 18 (0.5, as younger adults may have less severe chronic conditions but are still susceptible to acute issues)
+*   BMI: 30.9 (1.0, indicating obesity, a known risk factor for various health complications)
+*   Current_Diagnosis: Bipolar (2.0, a significant mental health condition often requiring hospitalization for management or acute episodes)
+*   Loss_of_Interest: Yes (0.5, a symptom that can indicate underlying mental health distress or worsening of existing conditions)
+*   Skips_Breakfast: Yes (0.5, a poor dietary habit that can negatively impact overall health and energy levels)
+*   Likes_Vegetables: No (0.5, indicating a potentially unhealthy diet lacking essential nutrients)
+*   Weekly_Alcohol_Intake: 1 (-0.5, very low alcohol intake, not a significant risk factor)
+*   Hours_of_Sleep: 9.7 (-0.5, indicating sufficient sleep, which is beneficial for health)
+
+3. The hospitalization risk score is calculated by summing the contributions of individual factors, where positive values represent increased risk (e.g., obesity, bipolar disorder, poor dietary habits) and negative values represent protective factors (e.g., sufficient sleep, low alcohol intake), reflecting their direct causal impact on health and potential need for medical intervention.

@@ -1,0 +1,14 @@
+1. 6
+
+2. *   **Age (22):** +0.5 (Younger adults, while generally healthier, may have higher hospitalization risk for certain conditions if they delay seeking care or engage in riskier behaviors. In this case, the individual's age is not a primary driver of risk, but a slight positive contribution is assigned due to the presence of other risk factors.)
+*   **BMI (23.8):** +0.0 (Normal BMI, no direct contribution to increased risk.)
+*   **Family_Health_History (Cancer):** +0.5 (Family history of cancer indicates a genetic predisposition to certain health issues, which can indirectly increase overall hospitalization risk, even if not directly related to current symptoms.)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Anxiety can exacerbate physical symptoms, lead to somatic complaints, and in severe cases, necessitate hospitalization for mental health crises or related physical complications.)
+*   **Weekly_Alcohol_Intake (7):** +0.5 (Moderate alcohol intake, while not excessive, can contribute to various health issues over time, increasing the likelihood of hospitalization.)
+*   **Smoking (Yes):** +2.0 (Smoking is a significant risk factor for numerous chronic diseases, including respiratory, cardiovascular, and various cancers, all of which substantially increase hospitalization risk.)
+*   **HAM-D (25+: Severe Depression):** +2.5 (Severe depression is a major mental health condition that significantly increases the risk of hospitalization due to suicidal ideation, self-harm, or severe functional impairment.)
+*   **Socioeconomic_Status (Low):** +1.0 (Low socioeconomic status is associated with poorer access to healthcare, delayed treatment, and higher prevalence of chronic conditions, all contributing to increased hospitalization risk.)
+*   **Allergy (Gluten):** -1.0 (Having a diagnosed allergy, especially one like gluten, often implies a greater awareness of one's health and dietary needs, potentially leading to more proactive health management and reduced risk of hospitalization from related issues.)
+*   **Has_Drivers_License (No):** -1.0 (Lack of a driver's license, especially in a younger individual, might indicate reliance on public transport or walking, which can be associated with a more active lifestyle and reduced risk of certain chronic diseases. It also suggests less exposure to driving-related accidents.)
+
+3. The risk score is derived from a direct summation of factors known to causally influence hospitalization risk, such as severe depression, smoking, and low socioeconomic status, while mitigating factors like a diagnosed allergy and lack of a driver's license are subtracted due to their association with proactive health management or reduced exposure to certain risks.

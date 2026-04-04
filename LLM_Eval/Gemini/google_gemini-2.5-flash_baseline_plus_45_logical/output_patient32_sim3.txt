@@ -1,0 +1,17 @@
+1. 7.5
+
+2. *   **Age (19):** +0.5 (Young adult, generally lower risk, but not zero due to other factors)
+*   **BMI (17.6):** +1.0 (Underweight, associated with increased health risks)
+*   **Family_Health_History (Diabetes):** +0.5 (Genetic predisposition to chronic disease)
+*   **Current_Diagnosis (Schizophrenia):** +2.0 (Severe mental illness, significantly increases hospitalization risk)
+*   **Weekly_Alcohol_Intake (3):** +0.0 (Moderate, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (25+):** +2.0 (Severe Depression, a significant comorbidity with schizophrenia, increasing risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, contributing to overall mental health burden)
+*   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep, a protective factor)
+*   **Socioeconomic_Status (High):** -0.5 (Access to resources and better care, a protective factor)
+*   **Allergy (Gluten):** +0.5 (Potential for dietary complications and inflammation)
+*   **Skips_Breakfast (Yes):** +0.5 (Poor nutritional habit, can impact overall health)
+*   **Orders_Takeout (Daily):** +0.5 (Potential for less healthy diet, contributing to overall health burden)
+
+3. The risk score is calculated by summing the individual contributions of factors, where positive values indicate increased risk and negative values indicate decreased risk. The primary drivers of this score are the severe mental health conditions (Schizophrenia and Severe Depression), underweight BMI, and certain lifestyle/dietary habits, while protective factors like adequate sleep and high socioeconomic status mitigate the overall risk.

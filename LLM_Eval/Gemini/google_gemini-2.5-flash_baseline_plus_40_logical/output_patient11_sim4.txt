@@ -1,0 +1,14 @@
+1. 6
+
+2. *   Current_Diagnosis: Schizophrenia: +4 (Directly increases hospitalization risk due to the nature of the condition and potential for acute episodes requiring inpatient care.)
+*   Socioeconomic_Status: Low: +2 (Associated with reduced access to healthcare, poorer living conditions, and increased stress, all contributing to higher hospitalization risk.)
+*   BMI: 29.7 (Overweight): +1 (Increased risk for various health complications that may necessitate hospitalization.)
+*   Loss_of_Interest: Yes: +1 (A symptom of depression, which can escalate and require hospitalization if left untreated or if it leads to self-harm.)
+*   Exercises: No: +1 (Lack of physical activity is linked to poorer overall health and increased risk of chronic conditions that may lead to hospitalization.)
+*   Allergy: Gluten: +1 (While not directly causing hospitalization, managing a severe allergy can sometimes lead to complications or require medical intervention.)
+*   Weekly_Alcohol_Intake: 4: -1 (Moderate alcohol intake, not excessive, and therefore not a significant risk factor for hospitalization in this context.)
+*   Employment: Employed: -1 (Provides financial stability and access to resources, generally reducing hospitalization risk.)
+*   Hours_of_Sleep: 7.1: -1 (Adequate sleep is beneficial for overall health and reduces the likelihood of health issues requiring hospitalization.)
+*   Smoking: No: -1 (Absence of a major risk factor for numerous chronic diseases that often lead to hospitalization.)
+
+3. The risk score is calculated by summing the positive contributions from factors directly increasing hospitalization likelihood (e.g., schizophrenia, low socioeconomic status) and subtracting negative contributions from protective factors (e.g., employment, adequate sleep), reflecting a direct causal link between these specific attributes and the need for inpatient care.

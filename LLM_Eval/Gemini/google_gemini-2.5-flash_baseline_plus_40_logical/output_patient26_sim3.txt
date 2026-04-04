@@ -1,0 +1,20 @@
+1. 3
+
+2. *   Age: 52 (+1) - Increased age is associated with a higher risk of hospitalization.
+*   BMI: 23.2 (0) - Within a healthy range, no direct contribution.
+*   Family_Health_History: Asthma (+1) - A family history of chronic respiratory conditions can indicate a predisposition to health issues requiring hospitalization.
+*   Current_Diagnosis: Anxiety (+1) - Mental health conditions, even if not severe, can sometimes exacerbate physical symptoms or lead to behaviors that increase hospitalization risk.
+*   Weekly_Alcohol_Intake: 5 (0) - Moderate intake, no direct contribution.
+*   Smoking: No (0) - Absence of a major risk factor.
+*   HAM-D: 0–6: Normal / No Depression (0) - No indication of depression, which can be a risk factor.
+*   Been_Sad_or_Fatigued: No (0) - Absence of symptoms often associated with conditions requiring hospitalization.
+*   Loss_of_Interest: No (0) - Absence of symptoms often associated with conditions requiring hospitalization.
+*   Hours_of_Sleep: 7.4 (0) - Within a healthy range, no direct contribution.
+*   Employment: Employed (0) - Generally associated with better health outcomes, but not a direct negative contributor to risk.
+*   Socioeconomic_Status: Middle (0) - No direct contribution to increased risk.
+*   Allergy: Shellfish (+1) - Allergies, especially severe ones, carry a risk of anaphylaxis or other reactions requiring emergency care.
+*   Skips_Breakfast: Yes (+1) - Irregular eating habits can negatively impact overall health and potentially increase risk.
+*   Exercises: Yes (-1) - Regular exercise is a protective factor against many conditions that lead to hospitalization.
+*   Volunteers: Always (-1) - Volunteering is often associated with better mental and physical well-being, which can reduce hospitalization risk.
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age, pre-existing conditions (anxiety, family history of asthma), and lifestyle choices (skipping breakfast, allergies), while subtracting protective factors like exercise and volunteering. Factors with no direct or significant causal link to hospitalization risk are assigned a zero contribution.

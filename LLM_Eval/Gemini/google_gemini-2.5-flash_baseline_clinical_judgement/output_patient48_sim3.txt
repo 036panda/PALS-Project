@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (46):** +0.5 (Middle age, generally stable, but some age-related health risks begin to emerge.)
+*   **BMI (28.3):** +0.5 (Overweight, increasing risk for various health issues, but not yet obese.)
+*   **Family_Health_History (Heart Disease):** +1.0 (Significant genetic predisposition to a major chronic condition.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (This is a primary driver of hospitalization risk due to potential for mood episodes requiring acute care.)
+*   **Race (Native American):** +0.5 (Known health disparities and higher prevalence of certain chronic conditions in this population.)
+*   **Gender (Non-binary):** +0.0 (No direct impact on hospitalization risk based on current clinical understanding.)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct impact on hospitalization risk.)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Low, responsible alcohol consumption, potentially protective or neutral.)
+*   **Smoking (No):** -1.0 (Absence of a major modifiable risk factor for numerous diseases.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of current depressive symptoms, which would otherwise increase risk for psychiatric hospitalization.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common prodromal or active symptoms of mental health decline.)
+*   **Loss_of_Interest (Yes):** +1.0 (Despite normal HAM-D, anhedonia is a concerning symptom, especially in the context of bipolar disorder, indicating potential subthreshold or emerging mood disturbance.)
+*   **Hours_of_Sleep (7.0):** -0.5 (Adequate sleep, a protective factor for overall health and mood stability.)
+*   **Employment (Employed):** -0.5 (Indicates stability, routine, and access to resources, generally protective.)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither significantly protective nor significantly increasing risk compared to extremes.)
+
+3. Clinical Rationale: This individual presents with a moderate risk of hospitalization primarily driven by their bipolar diagnosis and the concerning symptom of loss of interest, which, despite a normal HAM-D score, suggests potential subthreshold mood instability. While several protective factors are present, the combination of a chronic mental health condition, family history of heart disease, and overweight BMI warrants careful monitoring.

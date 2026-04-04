@@ -1,0 +1,17 @@
+1. 4.5
+
+2. *   Age (41): +0.5 (Slightly elevated risk due to age, but not elderly)
+*   BMI (26.5): +0.5 (Overweight, contributing to some health risks)
+*   Family_Health_History (Diabetes): +1.0 (Significant genetic predisposition to a chronic condition)
+*   Current_Diagnosis (Depression): +1.5 (Mental health conditions are a known risk factor for hospitalization)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of potential underlying mental health issues or general malaise)
+*   Hours_of_Sleep (4.7): +1.0 (Chronic sleep deprivation is a major health risk factor)
+*   Socioeconomic_Status (High): -0.5 (Protective factor, generally associated with better access to healthcare and healthier lifestyles)
+*   Smoking (No): -0.5 (Protective factor, absence of a major health risk)
+*   Weekly_Alcohol_Intake (1): -0.5 (Protective factor, low alcohol consumption)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Protective factor, indicates current mental state is not severely depressed despite diagnosis)
+*   Been_Sad_or_Fatigued (No): -0.5 (Protective factor, absence of common symptoms of distress)
+*   Skips_Breakfast (Yes): +0.5 (Poor dietary habit, can negatively impact health)
+*   Allergy (Penecillin): +0.5 (Indicates a specific medical vulnerability that could complicate treatment)
+
+3. The risk score is calculated by summing the contributions of factors known to either increase or decrease hospitalization risk, based on established medical and lifestyle correlations. Positive contributions are assigned to risk factors like family history of chronic disease, current mental health diagnosis, poor sleep, and unhealthy habits, while negative contributions are assigned to protective factors such as good socioeconomic status, absence of smoking, and low alcohol intake.

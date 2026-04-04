@@ -1,0 +1,16 @@
+1. Final Hospitalization Risk Score: 4.5
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +0.5 (Younger adults, especially those with mental health diagnoses, can have higher rates of acute psychiatric crises requiring hospitalization.)
+*   **BMI (25.6):** +0.2 (Slightly overweight, which can be associated with some health risks, though not a primary driver for hospitalization in this context.)
+*   **Family_Health_History (Hypertension):** +0.3 (Indicates a genetic predisposition to chronic health issues, which can indirectly increase overall health risk over time.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is a significant risk factor for hospitalization, particularly for mood stabilization, medication management, or acute episodes.)
+*   **Race (Hispanic):** +0.2 (Systemic healthcare disparities and potential cultural barriers can sometimes lead to delayed care or more severe presentations requiring hospitalization.)
+*   **Gender (Non-binary):** +0.5 (Non-binary individuals often face unique stressors, discrimination, and healthcare access challenges that can exacerbate mental health conditions and increase hospitalization risk.)
+*   **Weekly_Alcohol_Intake (5):** +0.1 (Moderate alcohol intake, while not excessive, can still interact with mental health medications or contribute to mood instability in individuals with bipolar disorder.)
+*   **Hours_of_Sleep (5.7):** +0.5 (Chronic sleep deprivation is a known trigger for mood episodes in bipolar disorder and can significantly increase the likelihood of hospitalization.)
+*   **Likes_Vegetables (No):** +0.2 (Poor dietary habits can negatively impact overall physical and mental health, potentially contributing to poorer outcomes and increased need for medical intervention.)
+*   **Has_Drivers_License (No):** -1.0 (While seemingly unrelated, for an 18-year-old, not having a driver's license might indicate limited independence or social engagement, which can be a protective factor against certain risky behaviors or exposure to triggers that might lead to hospitalization. Alternatively, it could indicate a lack of access to transportation for routine care, but in this context, we'll lean towards the former as a slight protective factor against external stressors.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with a bipolar diagnosis faces a moderate risk of hospitalization, primarily driven by their mental health condition, chronic sleep deprivation, and potential systemic stressors. While their socioeconomic status and employment are protective, the combination of bipolar disorder and insufficient sleep significantly elevates their vulnerability to acute episodes requiring inpatient care.

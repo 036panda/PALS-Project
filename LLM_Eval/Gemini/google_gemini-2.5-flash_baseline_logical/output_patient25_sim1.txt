@@ -1,0 +1,19 @@
+7
+
+*   Age (63): +2 (Increased risk with advancing age due to general physiological decline and higher prevalence of chronic conditions.)
+*   BMI (33.3): +1 (BMI > 30 indicates obesity, a risk factor for various health complications requiring hospitalization.)
+*   Family_Health_History (Heart Disease): +1 (Genetic predisposition to cardiovascular issues increases the likelihood of related hospitalizations.)
+*   Current_Diagnosis (Bipolar): +2 (Bipolar disorder is a severe mental illness often requiring hospitalization for mood stabilization or crisis intervention.)
+*   Race (Hispanic): +0 (No direct causal link to hospitalization risk in this context without further specific health disparities data.)
+*   Gender (Non-binary): +0 (No direct causal link to hospitalization risk.)
+*   Sexual_Orientation (Heterosexual): +0 (No direct causal link to hospitalization risk.)
+*   Weekly_Alcohol_Intake (1): +0 (Low alcohol intake, not considered a significant risk factor.)
+*   Smoking (No): -1 (Absence of smoking reduces risk of numerous smoking-related illnesses.)
+*   HAM-D (7–17: Mild Depression): +1 (Mild depression, while not severe, can still contribute to overall health vulnerability and may exacerbate other conditions.)
+*   Been_Sad_or_Fatigued (No): -1 (Absence of these symptoms indicates better current mental and physical well-being.)
+*   Loss_of_Interest (No): -1 (Absence of this symptom indicates better current mental well-being.)
+*   Hours_of_Sleep (7.7): +0 (Adequate sleep, not a risk factor.)
+*   Employment (Retired): +1 (Retirement can sometimes be associated with reduced physical activity or social engagement, potentially increasing health risks, though not universally.)
+*   Socioeconomic_Status (Middle): +0 (Middle socioeconomic status generally indicates access to healthcare and resources, not a direct risk factor for increased hospitalization.)
+
+The risk score is calculated by summing the positive contributions from age, obesity, family history of heart disease, and bipolar disorder, which are established causal factors for increased hospitalization. Negative contributions are applied for the absence of smoking and current depressive symptoms, as these reduce overall health risks.

@@ -1,0 +1,18 @@
+1. 5.5
+
+2. *   Age (45): +0.5 (Moderate increase in risk with age, but not elderly)
+*   BMI (25.2): +0.5 (Slightly overweight, contributing to minor risk)
+*   Family_Health_History (Hypertension): +1.0 (Genetic predisposition to a common chronic condition)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can impact physical health and increase hospitalization likelihood)
+*   Smoking (Yes): +2.0 (Significant risk factor for numerous health issues)
+*   HAM-D (7–17: Mild Depression): +0.5 (Mild depression can impact overall well-being and adherence to health practices)
+*   Weekly_Alcohol_Intake (1): -0.2 (Very low alcohol intake, potentially protective or neutral)
+*   Hours_of_Sleep (7.9): -0.5 (Adequate sleep, contributing to good health)
+*   Likes_Vegetables (Yes): -0.5 (Positive dietary habit)
+*   Exercises (Yes): -0.5 (Positive health behavior)
+*   Skips_Breakfast (Yes): +0.3 (Potentially negative dietary habit)
+*   Allergy (Pollen): +0.2 (Minor, but can exacerbate respiratory issues or require medical attention)
+*   Binge_Watches_TV (Yes): +0.3 (Sedentary behavior, potentially linked to other unhealthy habits)
+*   Orders_Takeout (Daily): +0.5 (Frequent takeout often implies less healthy food choices and higher sodium/fat intake)
+
+3. The risk score is calculated by summing the individual contributions of identified health-related factors, where positive values indicate increased risk and negative values indicate decreased risk, reflecting their established causal links to hospitalization likelihood. Factors such as smoking and family history of hypertension are assigned higher positive contributions due to their strong causal association with adverse health outcomes requiring hospitalization.

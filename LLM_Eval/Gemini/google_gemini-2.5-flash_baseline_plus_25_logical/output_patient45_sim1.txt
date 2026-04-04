@@ -1,0 +1,11 @@
+1. 4.5
+
+2. *   Age (41): +0.5 (Slightly elevated risk for middle age)
+*   BMI (26.5): +0.5 (Slightly overweight, minor risk factor)
+*   Family_Health_History (Diabetes): +1.0 (Genetic predisposition to a chronic condition)
+*   Current_Diagnosis (Depression): +1.5 (Mental health condition, can lead to physical health issues or self-neglect)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential severity or impact on self-care)
+*   Hours_of_Sleep (4.7): +1.0 (Significantly low, detrimental to overall health and immune function)
+*   Socioeconomic_Status (High): -0.5 (Access to better healthcare, nutrition, and living conditions)
+
+3. The risk score is derived by summing the positive contributions from identified health risk factors (age, BMI, family history, current diagnosis, sleep deprivation, and a symptom of depression) and subtracting the mitigating factor of high socioeconomic status, reflecting their direct causal impact on hospitalization likelihood.

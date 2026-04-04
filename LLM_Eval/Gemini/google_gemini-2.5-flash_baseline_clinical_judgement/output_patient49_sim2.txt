@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed Breakdown of Attributes:
+    *   **Age (34):** +0 (Neutral impact; not a primary driver of hospitalization risk at this age for this diagnosis without other severe factors.)
+    *   **BMI (24.2):** +0 (Healthy weight; no direct impact on hospitalization risk for bipolar disorder.)
+    *   **Family_Health_History (nan):** +0 (Missing data, cannot assess impact.)
+    *   **Current_Diagnosis (Bipolar):** +5 (Significant positive impact. Bipolar disorder inherently carries a higher risk of hospitalization due to potential for manic or depressive episodes requiring acute stabilization.)
+    *   **Race (Hispanic):** +0 (No direct impact on hospitalization risk for bipolar disorder.)
+    *   **Gender (Female):** +0 (No direct impact on hospitalization risk for bipolar disorder.)
+    *   **Sexual_Orientation (Heterosexual):** +0 (No direct impact on hospitalization risk.)
+    *   **Weekly_Alcohol_Intake (1):** -1 (Low alcohol intake, suggests good self-management and adherence to healthy lifestyle, reducing risk.)
+    *   **Smoking (No):** -1 (Absence of smoking is a positive health indicator, reducing overall health risks.)
+    *   **HAM-D (0–6: Normal / No Depression):** -3 (Significant negative impact. A normal HAM-D score indicates the patient is not currently experiencing a depressive episode, which is a major driver for hospitalization in bipolar disorder.)
+    *   **Been_Sad_or_Fatigued (Yes):** +1 (Slight positive impact. While HAM-D is normal, the presence of sadness or fatigue suggests some underlying mood lability or subthreshold symptoms that could escalate.)
+    *   **Loss_of_Interest (No):** -1 (Negative impact. Absence of anhedonia is a positive sign, indicating better overall mental well-being and engagement.)
+    *   **Hours_of_Sleep (8.3):** -1 (Negative impact. Adequate sleep is a protective factor in bipolar disorder, indicating good sleep hygiene and stability.)
+    *   **Employment (Employed):** -1 (Negative impact. Employment suggests stability, routine, and social engagement, which are protective factors against hospitalization.)
+    *   **Socioeconomic_Status (Low):** +2 (Positive impact. Low socioeconomic status can be a stressor and may limit access to consistent care or resources, increasing vulnerability to hospitalization.)
+
+3. Clinical Rationale: While the patient has a diagnosis of bipolar disorder, a significant risk factor, the current absence of depressive symptoms (normal HAM-D), adequate sleep, employment, and low alcohol intake are strong protective factors. However, the presence of reported sadness/fatigue and low socioeconomic status introduce some vulnerability, leading to a moderate overall risk.

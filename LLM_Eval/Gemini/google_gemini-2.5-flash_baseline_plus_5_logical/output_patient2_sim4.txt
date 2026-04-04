@@ -1,0 +1,10 @@
+7
+
+*   **BMI (34.6):** +2.0 (Obesity, BMI > 30, is a significant risk factor for various health complications requiring hospitalization.)
+*   **Family_Health_History (Cancer):** +1.0 (Family history of cancer increases an individual's predisposition to certain health issues, potentially leading to hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Bipolar disorder is a serious mental health condition that can lead to psychiatric crises requiring hospitalization.)
+*   **Weekly_Alcohol_Intake (4):** +0.5 (Moderate alcohol intake, while not excessive, still carries some health risks compared to no intake.)
+*   **Loss_of_Interest (Yes):** +1.0 (Loss of interest, especially in the context of mental health, can indicate worsening depression or other conditions that may necessitate hospitalization.)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable consumption is associated with poorer dietary habits and increased risk of various chronic diseases.)
+
+The risk score is calculated by summing the positive contributions of factors known to increase hospitalization risk, such as obesity, family history of serious illness, and mental health conditions, while assigning no negative contributions as no factors present actively decrease hospitalization risk.

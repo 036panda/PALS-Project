@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (26):** -0.5 (Younger age generally associated with lower risk of hospitalization for many conditions, though mental health crises can occur at any age.)
+*   **BMI (29.1):** +0.5 (Approaching overweight/obese category, which can contribute to various health issues over time, increasing risk.)
+*   **Family_Health_History (Diabetes):** +0.5 (Genetic predisposition to chronic disease, even if not directly impacting current diagnosis, adds a layer of long-term health risk.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is a significant risk factor. Bipolar disorder inherently carries a high risk of hospitalization due to manic or depressive episodes, psychosis, and potential for self-harm.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Current absence of significant depressive symptoms is a positive indicator, reducing immediate mental health crisis risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Despite normal HAM-D, recent sadness/fatigue suggests some underlying emotional vulnerability or sub-threshold symptoms that could escalate.)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, anhedonia is a concerning symptom that can precede or accompany mood episodes in bipolar disorder.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below recommended sleep duration, which can negatively impact mood stability and overall health, especially for someone with bipolar disorder.)
+*   **Employment (Employed):** -0.5 (Employment often indicates better functional status, routine, and financial stability, which are protective factors.)
+*   **Socioeconomic_Status (Low):** +1.0 (Lower socioeconomic status is consistently linked to poorer health outcomes, reduced access to care, and increased stress, all contributing to higher hospitalization risk.)
+*   **Weekly_Alcohol_Intake (3):** -0.5 (Moderate alcohol intake, not excessive, so not a significant risk factor and potentially a minor protective factor if it indicates social engagement.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a significant positive health factor.)
+*   **Allergy (Milk/Eggs):** +0.5 (Food allergies, while manageable, can sometimes lead to accidental exposure and require emergency care, or complicate nutritional intake.)
+*   **Exercises (No):** +0.5 (Lack of exercise is a general health risk factor, contributing to poorer physical and mental health outcomes.)
+
+3. Clinical Rationale: This individual presents with a moderate risk of hospitalization, primarily driven by their diagnosis of Bipolar Disorder and low socioeconomic status, which are significant and well-established risk factors for acute mental health crises and poorer health outcomes. While current depressive symptoms are absent and they are employed, the presence of recent sadness/fatigue, loss of interest, and suboptimal sleep, combined with a lack of exercise and a family history of diabetes, indicate underlying vulnerabilities that warrant close monitoring.

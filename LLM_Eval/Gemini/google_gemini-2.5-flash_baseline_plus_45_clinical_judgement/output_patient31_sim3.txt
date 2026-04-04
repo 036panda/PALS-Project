@@ -1,0 +1,16 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (36):** +0 (Relatively young, not a significant risk factor for hospitalization on its own)
+*   **BMI (36.8):** +2 (Class II obesity significantly increases risk for various health complications, including cardiovascular disease, diabetes, and respiratory issues, which can lead to hospitalization.)
+*   **Family_Health_History (Hypertension):** +1 (Genetic predisposition to hypertension increases the individual's risk of developing the condition and its associated complications, which can necessitate hospitalization.)
+*   **Current_Diagnosis (nan):** -1 (Absence of a current diagnosed illness reduces immediate hospitalization risk.)
+*   **Smoking (Yes):** +2 (Active smoking is a major risk factor for numerous chronic diseases, including cardiovascular, respiratory, and oncological conditions, all of which can lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1 (Absence of depression reduces the risk of mental health-related hospitalizations and may indicate better overall coping mechanisms.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (While not a direct hospitalization risk, persistent sadness/fatigue can be a symptom of underlying health issues or contribute to poorer self-care, subtly increasing risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to sadness/fatigue, loss of interest can be a sign of underlying issues or contribute to neglect of health, subtly increasing risk.)
+*   **Hours_of_Sleep (5.7):** +1 (Chronic sleep deprivation is linked to a weakened immune system, increased risk of accidents, and exacerbation of chronic conditions, all of which can lead to hospitalization.)
+*   **Exercises (No):** +1 (Lack of regular exercise contributes to poor cardiovascular health, obesity, and other chronic conditions, increasing hospitalization risk.)
+
+3. Clinical Rationale: This individual presents with several significant modifiable risk factors, including obesity, active smoking, and chronic sleep deprivation, which collectively elevate their risk for various acute and chronic health complications requiring hospitalization. While the absence of a current diagnosis and depression are positive, the presence of family history of hypertension and reported fatigue/loss of interest warrant close monitoring.

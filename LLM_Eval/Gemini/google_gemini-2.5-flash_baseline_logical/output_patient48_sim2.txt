@@ -1,0 +1,19 @@
+7
+
+*   **Age (46):** +0.5 (Increased risk with age, though moderate for this range)
+*   **BMI (28.3):** +1.0 (Overweight, contributing to various health risks)
+*   **Family_Health_History (Heart Disease):** +1.5 (Genetic predisposition to a major health issue)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition often requiring hospitalization for management or crises)
+*   **Race (Native American):** +1.0 (Acknowledged disparities in healthcare access and outcomes, leading to higher hospitalization rates for certain conditions)
+*   **Gender (Non-binary):** +0.5 (Potential for increased stress and discrimination, impacting mental and physical health)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to increased hospitalization risk)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Within recommended low-risk limits)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of current depressive symptoms, which can reduce hospitalization risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common indicators of declining mental or physical health)
+*   **Loss_of_Interest (Yes):** +1.0 (Despite normal HAM-D, this symptom can indicate underlying mental health issues or early signs of relapse for bipolar disorder)
+*   **Hours_of_Sleep (7.0):** +0.0 (Adequate sleep, not contributing to risk)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources, generally reducing risk)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, not significantly increasing or decreasing risk compared to extremes)
+
+The risk score is calculated by summing the contributions of individual factors, where positive values reflect increased risk and negative values reflect decreased risk, based on established medical and social determinants of health. The primary drivers of this score are the current diagnosis of Bipolar disorder and family history of heart disease, compounded by factors like overweight BMI and racial disparities, while positive lifestyle and mental health indicators provide some mitigating effect.

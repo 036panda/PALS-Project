@@ -1,0 +1,31 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** +0.5 (Young adult, often a period of first onset or exacerbation for mental health conditions, but also resilience)
+*   **BMI (24.5):** -0.2 (Healthy weight, positive for overall physical health)
+*   **Family_Health_History (Asthma):** +0.1 (While not directly psychiatric, chronic physical conditions in family can indicate a predisposition to health issues, and asthma can be exacerbated by stress, which is relevant for schizophrenia)
+*   **Current_Diagnosis (Schizophrenia):** +4.0 (Primary driver of hospitalization risk; a severe mental illness often requiring inpatient care for stabilization, medication management, or acute psychotic episodes)
+*   **Race (Native American):** +0.5 (Systemic health disparities and potential for limited access to culturally competent care can increase risk)
+*   **Gender (Male):** +0.3 (Males with schizophrenia may have an earlier onset and more severe course, and higher rates of substance use, though not present here)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol use is a protective factor, reducing risk of exacerbation or poor medication adherence)
+*   **Smoking (Yes):** +0.8 (Smoking is highly prevalent in schizophrenia and can worsen symptoms, interfere with medication, and lead to poorer physical health outcomes, increasing overall vulnerability)
+*   **HAM-D (18–24: Moderate Depression):** +1.5 (Co-occurring moderate depression significantly increases distress, functional impairment, and risk of self-harm or poor self-care, especially in the context of schizophrenia)
+*   **Been_Sad_or_Fatigued (Yes):** +0.3 (Confirms depressive symptoms, adding to the HAM-D score's impact)
+*   **Loss_of_Interest (Yes):** +0.3 (Confirms anhedonia, a core depressive symptom, further increasing risk)
+*   **Hours_of_Sleep (8.3):** -0.3 (Adequate sleep is a protective factor, indicating some level of stability and self-care)
+*   **Employment (Student):** +0.2 (While engagement is positive, the stress of academic demands can be a trigger or exacerbating factor for schizophrenia and depression)
+*   **Socioeconomic_Status (Middle):** -0.2 (Generally indicates better access to resources and support compared to lower SES)
+*   **Drinks_Coffee (No):** 0 (No direct impact)
+*   **Likes_Vegetables (Yes):** -0.1 (Indicates some healthy lifestyle choices)
+*   **Favourite_Sport (Hockey):** 0 (No direct impact)
+*   **Votes (Sometimes):** 0 (No direct impact)
+*   **Height_in_Inches (68):** 0 (No direct impact)
+*   **Has_Drivers_License (No):** +0.1 (May indicate some functional limitations or reliance on others for transportation to appointments, potentially impacting adherence)
+*   **Picks_Up_Litter (Always):** -0.1 (Suggests a degree of conscientiousness and engagement with the environment, potentially a positive coping mechanism)
+*   **Uses_Public_Transportation (Never):** +0.1 (If no driver's license, this implies reliance on others or limited mobility, which can hinder access to care)
+*   **Donated_Blood (Yes):** -0.1 (Indicates a capacity for prosocial behavior and engagement, potentially a protective factor)
+*   **Birthday_Month (February):** 0 (No direct impact)
+
+3. Clinical-style rationale: This young male with schizophrenia and co-occurring moderate depression, compounded by smoking and potential access barriers, presents a significant risk for hospitalization despite some protective factors like healthy weight and adequate sleep, as the severity of his primary diagnosis and depressive symptoms warrant close monitoring and potential acute intervention.

@@ -1,0 +1,13 @@
+1. 8.5
+
+2. * Age (68): +1.0 (Older age is associated with increased hospitalization risk due to general health decline and comorbidity likelihood.)
+* BMI (29.7): +0.5 (BMI in the overweight category is a moderate risk factor for various health issues that may lead to hospitalization.)
+* Family_Health_History (Hypertension): +0.5 (Genetic predisposition to hypertension increases the individual's risk of developing related complications requiring hospitalization.)
+* Current_Diagnosis (Schizophrenia): +2.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+* Smoking (Yes): +1.5 (Smoking is a significant risk factor for numerous chronic diseases, including cardiovascular and respiratory conditions, which frequently lead to hospitalization.)
+* HAM-D (25+: Severe Depression): +1.5 (Severe depression is a major mental health condition that can necessitate hospitalization for intensive treatment, safety, or stabilization.)
+* Been_Sad_or_Fatigued (Yes): +0.5 (These symptoms, especially in conjunction with severe depression, indicate a worsening mental state that could escalate to a need for hospitalization.)
+* Loss_of_Interest (Yes): +0.5 (Anhedonia, or loss of interest, is a core symptom of severe depression, suggesting a more profound and potentially debilitating mental health state.)
+* Socioeconomic_Status (Low): +0.5 (Low socioeconomic status is linked to poorer access to healthcare, higher rates of chronic conditions, and delayed treatment, all increasing hospitalization risk.)
+
+3. The hospitalization risk score is calculated by summing the positive contributions of factors known to causally increase the likelihood of hospitalization, such as advanced age, specific chronic diagnoses (schizophrenia, severe depression), unhealthy lifestyle choices (smoking, overweight BMI), and socioeconomic disadvantages. Each factor's contribution reflects its established impact on health outcomes and the need for acute medical care.

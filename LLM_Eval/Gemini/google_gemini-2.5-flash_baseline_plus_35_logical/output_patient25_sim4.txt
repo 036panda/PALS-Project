@@ -1,0 +1,14 @@
+1. 6
+
+2. *   Age (63): +2 (Increased risk with age, particularly over 60)
+    *   BMI (33.3): +2 (Obesity, BMI > 30, is a significant risk factor)
+    *   Family_Health_History (Heart Disease): +1 (Genetic predisposition to chronic illness)
+    *   Current_Diagnosis (Bipolar): +2 (Mental health conditions, especially severe ones, increase hospitalization risk)
+    *   Weekly_Alcohol_Intake (1): -1 (Moderate or no alcohol consumption is protective compared to heavy drinking)
+    *   Smoking (No): -1 (Absence of smoking is a protective factor)
+    *   HAM-D (7–17: Mild Depression): +1 (Even mild depression can contribute to overall health decline and potential need for care)
+    *   Socioeconomic_Status (Middle): -1 (Higher socioeconomic status generally correlates with better health outcomes and access to care)
+    *   Skips_Breakfast (Yes): +1 (Poor dietary habits can negatively impact health)
+    *   Allergy (Dust): +1 (Chronic allergies can exacerbate respiratory issues or lead to complications requiring medical attention)
+
+3. The risk score is derived by summing the positive contributions from established risk factors such as age, obesity, family history of chronic disease, and a severe mental health diagnosis, while subtracting contributions from protective factors like not smoking and moderate alcohol intake, and adding for minor health detriments. This calculation reflects the direct causal impact of each factor on the likelihood of hospitalization.

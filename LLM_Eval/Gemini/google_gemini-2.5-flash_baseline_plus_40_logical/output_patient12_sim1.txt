@@ -1,0 +1,11 @@
+1. 7
+
+2. * Age (90): +3 (Increased age directly correlates with higher hospitalization risk due to age-related health decline and comorbidity likelihood.)
+* BMI (32.5): +1 (BMI over 30 indicates obesity, a known risk factor for various health complications requiring hospitalization.)
+* Family_Health_History (Hypertension): +1 (Genetic predisposition to hypertension increases the individual's risk of cardiovascular events that may lead to hospitalization.)
+* Current_Diagnosis (Depression): +1 (While HAM-D is normal, a current diagnosis of depression can still impact overall health and increase the likelihood of hospitalization for mental health or related physical issues.)
+* Smoking (Yes): +1 (Smoking is a significant risk factor for numerous chronic diseases that often necessitate hospitalization.)
+* Skips_Breakfast (Yes): +0.5 (Skipping meals can negatively impact metabolic health and overall well-being, potentially contributing to health issues.)
+* Allergy (Dust): +0.5 (Allergies, especially to common environmental factors, can trigger respiratory issues or other reactions requiring medical attention.)
+
+3. The risk score is calculated by summing the positive contributions of identified health risk factors, including advanced age, obesity, family history of hypertension, current depression diagnosis, smoking, and certain lifestyle choices, each of which causally increases the likelihood of hospitalization.

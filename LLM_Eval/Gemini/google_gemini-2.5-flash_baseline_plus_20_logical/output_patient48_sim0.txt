@@ -1,0 +1,21 @@
+1. 5.5
+
+2. *   **Age (46):** +0.5 (Increased risk with age, but 46 is not elderly, so a moderate positive contribution)
+*   **BMI (28.3):** +0.5 (Overweight, which is a risk factor for various health issues)
+*   **Family_Health_History (Heart Disease):** +1.0 (Strong genetic predisposition to a major health concern)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization for management or crises)
+*   **Race (Native American):** +0.5 (Acknowledged health disparities and higher rates of certain conditions in this demographic)
+*   **Weekly_Alcohol_Intake (2):** -0.2 (Moderate, potentially beneficial or neutral, but not excessive)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Good mental health indicator, reducing risk)
+*   **Been_Sad_or_Fatigued (No):** -0.2 (Absence of common symptoms of distress)
+*   **Loss_of_Interest (Yes):** +0.5 (Despite normal HAM-D, this symptom can indicate underlying mental health vulnerability or early signs of issues)
+*   **Hours_of_Sleep (7.0):** -0.2 (Adequate sleep, contributing to overall health)
+*   **Employment (Employed):** -0.5 (Associated with better socioeconomic stability and access to care)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally better access to healthcare and resources than lower status)
+*   **Drinks_Coffee (Yes):** -0.1 (Some studies suggest moderate coffee consumption can have health benefits)
+*   **Likes_Vegetables (Yes):** -0.2 (Indicates healthy dietary habits)
+*   **Uses_Public_Transportation (Always):** +0.5 (May indicate lack of personal vehicle, potentially impacting access to immediate care in emergencies or living in areas with higher population density/exposure)
+*   **Water_Intake_oz (44.8):** -0.1 (Adequate hydration, a positive health factor)
+
+3. The risk score is calculated by summing the contributions of factors directly linked to physical or mental health vulnerabilities, or factors that indirectly influence access to care or exposure to risks. Positive contributions are assigned to known risk factors (e.g., Bipolar diagnosis, family history of heart disease, overweight BMI), while negative contributions are assigned to protective factors (e.g., no smoking, adequate sleep, healthy diet).

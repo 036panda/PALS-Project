@@ -1,0 +1,17 @@
+1. 4.5
+
+2. *   **Age (26):** +0.5 (Younger age generally lower risk, but not zero)
+*   **BMI (29.1):** +1.0 (Overweight, approaching obese, increases risk)
+*   **Family_Health_History (Diabetes):** +1.0 (Genetic predisposition to a chronic condition)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition requiring ongoing management, increasing hospitalization likelihood)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Indicates potential underlying health or mental health issues)
+*   **Loss_of_Interest (Yes):** +0.5 (Similar to above, points to potential distress or underlying issues)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer access to healthcare, higher stress, and worse health outcomes)
+*   **Weekly_Alcohol_Intake (3):** -0.5 (Moderate intake, not excessive, potentially neutral or slightly beneficial)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of clinical depression, despite other symptoms)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive health behavior)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below recommended, can impact health)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as chronic conditions, mental health diagnoses, lifestyle choices, and socioeconomic determinants, while subtracting contributions from protective factors. The logical basis is that each factor either directly increases the likelihood of needing hospital care or contributes to overall health resilience.

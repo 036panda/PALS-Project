@@ -1,0 +1,14 @@
+1. 6.5
+
+2. *   **Current_Diagnosis: Schizophrenia:** +3.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, and stabilization.)
+*   **Family_Health_History: Heart Disease:** +0.5 (Indicates a genetic predisposition to cardiovascular issues, which can lead to hospitalization.)
+*   **BMI: 27.1 (Overweight):** +0.5 (Being overweight increases the risk of various health complications that may necessitate hospitalization.)
+*   **HAM-D: 7–17: Mild Depression:** +0.5 (While mild, depression can exacerbate other conditions or, if untreated, escalate to a point requiring hospitalization.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (Symptoms of underlying health issues or worsening mental health that could lead to hospitalization.)
+*   **Loss_of_Interest: Yes:** +0.5 (Another indicator of potential mental health decline or underlying physical illness.)
+*   **Skips_Breakfast: Yes:** +0.2 (Poor nutritional habits can negatively impact overall health and increase vulnerability to illness.)
+*   **Orders_Takeout: Daily:** +0.3 (Frequent consumption of takeout often correlates with less healthy dietary choices, contributing to health risks.)
+*   **Exercises: No:** +0.5 (Lack of physical activity is a significant risk factor for numerous chronic diseases that can lead to hospitalization.)
+*   **Age: 22:** -0.5 (Younger age generally correlates with lower overall hospitalization risk compared to older populations, assuming no severe pre-existing conditions.)
+
+3. The hospitalization risk score is calculated by summing the positive contributions from significant health risk factors (schizophrenia, family history of heart disease, overweight BMI, depression symptoms, poor dietary habits, and lack of exercise) and subtracting a minor negative contribution for younger age, reflecting the direct causal links between these factors and the likelihood of requiring hospital care.

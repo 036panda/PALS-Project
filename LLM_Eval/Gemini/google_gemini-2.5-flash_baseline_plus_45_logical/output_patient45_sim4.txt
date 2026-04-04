@@ -1,0 +1,16 @@
+1. 3.5
+
+2. *   Age (41): +0.5 (Slightly elevated risk for individuals in their 40s compared to younger adults, but not a major factor)
+*   BMI (26.5): +0.5 (Overweight category, contributing to slightly increased risk)
+*   Family_Health_History (Diabetes): +1.0 (Significant genetic predisposition to a chronic condition, increasing overall health risk)
+*   Current_Diagnosis (Depression): +1.0 (Mental health conditions can impact physical health and increase hospitalization risk)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of potential underlying health issues or stress, contributing to risk)
+*   Hours_of_Sleep (4.7): +1.0 (Significantly low sleep duration, a major contributor to various health problems and increased risk)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   Weekly_Alcohol_Intake (1): -0.5 (Low alcohol intake, not a significant risk factor, potentially protective compared to higher intake)
+*   HAM-D (0-6: Normal / No Depression): -1.0 (Absence of severe depressive symptoms, mitigating risk from current diagnosis)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of a common symptom of illness or stress)
+*   Exercises (No): +1.0 (Lack of physical activity is a significant risk factor for numerous health conditions)
+*   Skips_Breakfast (Yes): +0.5 (Irregular eating habits can negatively impact metabolism and overall health)
+
+3. The risk score is calculated by summing the positive and negative contributions of specific health-related and lifestyle factors, where each contribution reflects a direct causal link to increased or decreased hospitalization risk based on established medical and public health knowledge. Factors like family history of diabetes, current depression, low sleep, and lack of exercise are assigned positive contributions due to their known adverse health impacts, while the absence of smoking and low alcohol intake are assigned negative contributions for their protective effects.

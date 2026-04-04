@@ -1,0 +1,19 @@
+1. 7
+
+2. *   Age (68): +1.0 (Increased risk with advanced age)
+*   BMI (29.7): +0.5 (Overweight, approaching obese, contributes to health issues)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis (Schizophrenia): +2.0 (Significant mental health condition often requiring hospitalization)
+*   Weekly_Alcohol_Intake (3): +0.0 (Moderate, not a significant risk factor)
+*   Smoking (Yes): +1.5 (Major risk factor for numerous health problems)
+*   HAM-D (25+: Severe Depression): +1.5 (Severe mental health condition, high risk of hospitalization)
+*   Been_Sad_or_Fatigued (Yes): +0.0 (Already captured by HAM-D score)
+*   Loss_of_Interest (Yes): +0.0 (Already captured by HAM-D score)
+*   Hours_of_Sleep (7.7): +0.0 (Adequate sleep)
+*   Employment (Retired): +0.0 (Neutral, but can be associated with lower income)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer health outcomes and access to care)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits contribute to health issues)
+*   Can_Ride_Bicycle (No): +0.0 (Neutral, not a direct health risk)
+*   Allergy (Animal Dander): +0.0 (Generally manageable, not a direct hospitalization risk)
+
+3. The risk score is calculated by summing the positive contributions of identified health risk factors and socioeconomic determinants, with higher values assigned to conditions with a more direct and severe impact on hospitalization likelihood. Factors with no direct causal link to hospitalization risk or those already accounted for by other, more specific indicators are assigned a neutral contribution.

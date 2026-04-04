@@ -1,0 +1,20 @@
+1. 6
+
+2. *   **Age (26):** +0 (Younger age generally lower risk, but 26 is not exceptionally low to warrant negative contribution without other factors)
+*   **BMI (29.1):** +1 (Overweight, increasing risk for various health issues)
+*   **Family_Health_History (Diabetes):** +1 (Genetic predisposition to a chronic condition)
+*   **Current_Diagnosis (Bipolar):** +2 (Significant mental health condition often requiring hospitalization for management or crises)
+*   **Weekly_Alcohol_Intake (3):** +0 (Moderate, not a significant risk factor)
+*   **Smoking (No):** -1 (Absence of a major health risk factor)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Good mental health indicator, despite other mental health diagnosis)
+*   **Been_Sad_or_Fatigued (Yes):** +1 (Indicates potential underlying issues or exacerbation of existing conditions)
+*   **Loss_of_Interest (Yes):** +1 (Similar to sadness/fatigue, points to potential mental health challenges or worsening of Bipolar)
+*   **Hours_of_Sleep (6.2):** +1 (Slightly below recommended, can impact overall health and mental well-being)
+*   **Employment (Employed):** -1 (Indicates stability and access to resources)
+*   **Socioeconomic_Status (Low):** +2 (Associated with poorer health outcomes, limited access to care, and higher stress)
+*   **Allergy (Milk/Eggs):** +0 (Common allergies, manageable, not a direct hospitalization risk unless severe and unmanaged, which is not indicated)
+*   **Skips_Breakfast (Yes):** +0 (Minor health habit, not a direct hospitalization risk)
+*   **Exercises (No):** +1 (Lack of exercise contributes to overall poorer health)
+*   **Orders_Takeout (Daily):** +1 (Suggests a diet potentially high in unhealthy fats/sodium, contributing to long-term health risks)
+
+3. The risk score is calculated by summing the contributions of factors directly related to physical and mental health, lifestyle choices impacting health, and socioeconomic determinants of health. Positive contributions are assigned to factors increasing hospitalization risk (e.g., chronic conditions, poor lifestyle, low socioeconomic status), while negative contributions are assigned to protective factors (e.g., absence of smoking, good mental health indicators, employment).

@@ -1,0 +1,21 @@
+1. 4.5
+
+2. *   Age (25): -0.5 (Lower age generally correlates with lower hospitalization risk)
+*   BMI (28.5): +0.5 (BMI in the overweight range increases risk)
+*   Family_Health_History (Hypertension): +1.0 (Genetic predisposition to a common chronic condition increases risk)
+*   Current_Diagnosis (Bipolar): +2.0 (Mental health conditions, especially bipolar disorder, are associated with higher hospitalization rates)
+*   Race (Native American): +1.0 (Systemic health disparities and historical factors often lead to higher health risks for this demographic)
+*   Gender (Non-binary): +0.5 (Experiences of discrimination and lack of culturally competent care can contribute to health disparities)
+*   Weekly_Alcohol_Intake (7): +0.0 (Moderate intake, not significantly increasing or decreasing risk)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Absence of current depressive symptoms reduces risk)
+*   Been_Sad_or_Fatigued (No): -0.5 (Absence of common indicators of declining mental or physical health)
+*   Loss_of_Interest (No): -0.5 (Absence of a common indicator of declining mental health)
+*   Hours_of_Sleep (7.8): -0.5 (Adequate sleep reduces risk)
+*   Employment (Employed): -0.5 (Employment often correlates with better access to healthcare and resources)
+*   Socioeconomic_Status (Middle): -0.5 (Middle socioeconomic status generally correlates with better health outcomes than lower status)
+*   Allergy (Gluten): +1.0 (Presence of a dietary restriction that, if not managed, can lead to health issues)
+*   Exercises (No): +1.0 (Lack of regular exercise is a significant risk factor for numerous health conditions)
+*   Skips_Breakfast (Yes): +0.5 (Irregular eating habits can negatively impact metabolic health)
+
+3. The risk score is computed by summing the individual contributions of identified health risk factors and protective factors. Each factor's contribution is based on established causal relationships between the characteristic and the likelihood of hospitalization, with positive values indicating increased risk and negative values indicating decreased risk.

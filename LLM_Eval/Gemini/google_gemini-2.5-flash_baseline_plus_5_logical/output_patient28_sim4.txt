@@ -1,0 +1,24 @@
+5
+
+*   **Age (25):** +0.5 (Younger age generally lower risk, but not zero)
+*   **BMI (28.5):** +1.0 (Overweight, contributing to some health risks)
+*   **Family_Health_History (Hypertension):** +1.5 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Bipolar):** +3.0 (Significant mental health condition with potential for acute episodes requiring hospitalization)
+*   **Race (Native American):** +0.5 (Acknowledged systemic health disparities and access to care issues)
+*   **Gender (Non-binary):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Weekly_Alcohol_Intake (7):** +0.5 (Moderate intake, but still a factor)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Good mental health indicator)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Positive mental well-being indicator)
+*   **Loss_of_Interest (No):** -0.5 (Positive mental well-being indicator)
+*   **Hours_of_Sleep (7.8):** -0.5 (Adequate sleep, contributing to good health)
+*   **Employment (Employed):** -0.5 (Associated with better access to healthcare and stability)
+*   **Socioeconomic_Status (Middle):** -0.5 (Generally better access to resources and healthcare)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit)
+*   **Favourite_Sport (Basketball):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Votes (Never):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Height_in_Inches (70):** +0.0 (No direct causal link to hospitalization risk in this model)
+
+The score is derived by summing the contributions of factors known to directly influence health outcomes and healthcare utilization, with a significant weight given to the current diagnosis of Bipolar disorder due to its inherent risk of acute episodes requiring hospitalization. Positive contributions reflect increased risk, while negative contributions reflect protective factors.

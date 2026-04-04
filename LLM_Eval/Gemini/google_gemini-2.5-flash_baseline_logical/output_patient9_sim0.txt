@@ -1,0 +1,19 @@
+1. 4.0
+
+2. *   **Age (35):** +0.0 (No significant risk contribution for this age range in isolation)
+*   **BMI (26.8):** +0.0 (Within healthy range, no significant risk contribution)
+*   **Family_Health_History (nan):** +0.0 (Unknown, no contribution)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant chronic mental health condition with potential for acute episodes requiring hospitalization)
+*   **Race (Asian):** +0.0 (No inherent risk contribution)
+*   **Gender (Male):** +0.0 (No inherent risk contribution)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No inherent risk contribution)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Within moderate limits, no significant risk contribution)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Presence of current depressive symptoms, even if mild, increases risk of needing support)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Confirms subjective experience of symptoms, aligning with HAM-D)
+*   **Loss_of_Interest (No):** -0.5 (Absence of a key depressive symptom, mitigating overall depression severity)
+*   **Hours_of_Sleep (5.3):** +1.0 (Chronic sleep deprivation is a significant stressor and can exacerbate mental health conditions)
+*   **Employment (Employed):** -0.5 (Protective factor, indicating stability and social engagement)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither significantly protective nor a risk factor)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. Causal relationships are inferred from established medical and psychological understanding of how these factors influence the likelihood of requiring hospitalization, particularly in the context of mental health.

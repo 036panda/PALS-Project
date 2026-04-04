@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (56):** +0.5 (Increased risk with advancing age, though not elderly, still a factor for general health decline and comorbidity risk.)
+*   **BMI (31.1 - Obese Class I):** +1.0 (Obesity is a significant risk factor for numerous health complications, including cardiovascular disease, diabetes, and respiratory issues, which can necessitate hospitalization.)
+*   **Family_Health_History (Asthma):** +0.5 (While not directly impacting current hospitalization, a family history of a chronic respiratory condition like asthma suggests a genetic predisposition to respiratory issues, which can be exacerbated by other factors.)
+*   **Current_Diagnosis (Schizophrenia):** +4.0 (This is a major driver of hospitalization risk. Schizophrenia is a severe mental illness often requiring inpatient care for acute exacerbations, medication management, and safety concerns.)
+*   **Race (Black):** +0.5 (Systemic health disparities and socioeconomic factors often lead to poorer health outcomes and increased hospitalization rates in Black individuals.)
+*   **Gender (Other):** +0.5 (Individuals identifying as "Other" gender may face unique healthcare access barriers, discrimination, and mental health challenges, potentially increasing hospitalization risk.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk in this context.)
+*   **Weekly_Alcohol_Intake (0):** -0.5 (Absence of alcohol consumption is a protective factor against numerous alcohol-related health issues that can lead to hospitalization.)
+*   **Smoking (No):** -0.5 (Non-smoker status is a significant protective factor against respiratory, cardiovascular, and oncological diseases that frequently lead to hospitalization.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depression is a strong protective factor, as depression can exacerbate other health conditions and increase the likelihood of hospitalization.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms suggests better overall mental and physical well-being, reducing the likelihood of hospitalization.)
+*   **Loss_of_Interest (Yes):** +0.5 (While HAM-D is normal, "Loss of Interest" can be a symptom of an underlying mental health issue or a prodromal sign of worsening schizophrenia, increasing risk.)
+*   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep is a protective factor for overall physical and mental health.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare, financial stability, and social support, all of which can reduce hospitalization risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to resources and healthcare compared to lower statuses, reducing hospitalization risk.)
+*   **Drinks_Coffee (No):** 0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable consumption indicates a potentially less healthy diet, which can contribute to various health issues over time.)
+*   **Favourite_Sport (Basketball):** 0 (No direct impact on hospitalization risk.)
+*   **Votes (Never):** +0.5 (While not a direct health factor, "Never Votes" can sometimes correlate with lower civic engagement and potentially less proactive health-seeking behaviors or engagement with community resources.)
+*   **Height_in_Inches (63):** 0 (No direct impact on hospitalization risk.)
+
+3. Clinical Rationale: This individual presents with a high risk of hospitalization primarily due to their current diagnosis of schizophrenia, a severe mental illness frequently requiring inpatient care for symptom management and safety. This significant risk is compounded by obesity, a family history of asthma, and potential health disparities associated with race and gender identity, despite protective factors such as being a non-smoker, abstaining from alcohol, and having adequate sleep.

@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attributes:
+
+*   **Age (29):** -1 (Younger age generally associated with lower risk of hospitalization for general medical conditions, though mental health crises can occur at any age. Here, it slightly offsets other risks.)
+*   **BMI (25.9):** 0 (Normal weight, no direct impact on hospitalization risk.)
+*   **Family_Health_History (nan):** 0 (Lack of information prevents assessment, thus no impact.)
+*   **Current_Diagnosis (Anxiety):** +2 (Anxiety, especially if severe or poorly managed, can lead to functional impairment, panic attacks requiring emergency care, or exacerbate other conditions, increasing hospitalization risk.)
+*   **Race (Asian):** 0 (No direct impact on hospitalization risk based on race alone.)
+*   **Gender (Male):** 0 (No direct impact on hospitalization risk based on gender alone.)
+*   **Sexual_Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk based on sexual orientation alone.)
+*   **Weekly_Alcohol_Intake (5):** 0 (Moderate intake, not typically a direct risk factor for hospitalization.)
+*   **Smoking (No):** -1 (Absence of smoking is a positive health factor, reducing overall health risks.)
+*   **HAM-D (0–6: Normal / No Depression):** -2 (Normal HAM-D score indicates absence of depressive symptoms, significantly reducing mental health-related hospitalization risk.)
+*   **Been_Sad_or_Fatigued (Yes):** +2 (While HAM-D is normal, self-reported sadness/fatigue, especially with other symptoms, suggests underlying distress that could escalate.)
+*   **Loss_of_Interest (Yes):** +2 (Anhedonia, or loss of interest, is a significant symptom of distress and can be associated with worsening mental health, increasing risk.)
+*   **Hours_of_Sleep (3.7):** +2 (Severely restricted sleep is a major stressor, can exacerbate anxiety, impair judgment, and increase the likelihood of needing acute care.)
+*   **Employment (Employed):** -1 (Employment often indicates better functional capacity and social support, reducing risk.)
+*   **Socioeconomic_Status (Middle):** -1 (Middle socioeconomic status generally correlates with better access to resources and support, reducing risk.)
+
+3. Clinical Rationale: Despite a normal HAM-D score and employment, this patient presents with significant anxiety, severe sleep deprivation, and self-reported sadness/fatigue and loss of interest, which are concerning indicators of distress that could escalate to a crisis requiring hospitalization. The protective factors of age, non-smoking status, and socioeconomic stability are somewhat offset by these acute mental health stressors.

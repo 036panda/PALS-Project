@@ -1,0 +1,17 @@
+7
+
+*   **Age (26):** +0.5 (Younger adults, while generally healthier, can still face hospitalization risks, especially with co-occurring conditions. This is a minor positive contribution due to the presence of other risk factors.)
+*   **BMI (29.1):** +1.0 (Overweight BMI increases risk for various health complications.)
+*   **Family_Health_History (Diabetes):** +1.0 (Genetic predisposition to diabetes increases risk for related complications that may require hospitalization.)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Bipolar disorder significantly increases the risk of hospitalization due to acute manic or depressive episodes, medication management, and co-occurring physical health issues.)
+*   **Been_Sad_or_Fatigued (Yes):** +1.0 (Indicates potential for worsening mental health or underlying physical issues requiring intervention.)
+*   **Loss_of_Interest (Yes):** +1.0 (Similar to sadness/fatigue, suggests potential for mental health deterioration.)
+*   **Hours_of_Sleep (6.2):** +0.5 (Slightly below recommended sleep duration, which can negatively impact overall health and exacerbate existing conditions.)
+*   **Socioeconomic_Status (Low):** +1.0 (Lower socioeconomic status is consistently linked to poorer health outcomes, reduced access to care, and higher hospitalization rates.)
+*   **Weekly_Alcohol_Intake (3):** -0.5 (Moderate alcohol intake, while not entirely risk-free, is not a significant contributor to hospitalization risk at this level and may even have minor protective effects compared to heavy drinking or abstinence in some contexts.)
+*   **Smoking (No):** -1.0 (Absence of smoking significantly reduces risk for numerous chronic diseases and associated hospitalizations.)
+*   **HAM-D (0-6: Normal / No Depression):** -1.0 (Absence of clinical depression, despite reported sadness/fatigue, reduces the immediate mental health hospitalization risk.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and a more stable lifestyle, reducing some hospitalization risks.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthier dietary habit, contributing to better overall health.)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, with mental health conditions, family history, and socioeconomic status being primary drivers, while positive lifestyle choices and absence of major risk factors provide mitigating effects.

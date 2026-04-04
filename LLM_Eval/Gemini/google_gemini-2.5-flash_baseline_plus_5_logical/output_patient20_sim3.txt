@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   **Current_Diagnosis: Schizophrenia:** +5.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, or safety concerns.)
+*   **Age: 19:** +0.5 (Young adults, particularly those with mental health diagnoses, may have a slightly elevated risk due to developmental factors, first-episode psychosis, or challenges with treatment adherence.)
+*   **HAM-D: 7–17: Mild Depression:** +0.5 (While mild, depression can exacerbate other mental health conditions and, in some cases, contribute to a need for more intensive care.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.5 (This symptom, especially in conjunction with a diagnosis of schizophrenia and mild depression, indicates current distress that could escalate.)
+*   **Socioeconomic_Status: Middle:** -0.5 (Middle socioeconomic status generally correlates with better access to resources and support, potentially mitigating risk compared to lower statuses.)
+*   **Hours_of_Sleep: 10.3:** -0.5 (Adequate or even abundant sleep can be a protective factor, indicating better physical and mental regulation, though excessive sleep could also be a symptom of depression.)
+*   **Employment: Employed:** -0.5 (Employment often provides structure, social connection, and financial stability, which are protective factors against hospitalization.)
+*   **BMI: 25.1:** +0.0 (Normal BMI, no direct contribution to hospitalization risk.)
+*   **Family_Health_History: nan:** +0.0 (Unknown, no direct contribution.)
+*   **Race: Black:** +0.0 (No direct causal link to hospitalization risk in this model.)
+*   **Gender: Female:** +0.0 (No direct causal link to hospitalization risk in this model.)
+*   **Sexual_Orientation: Heterosexual:** +0.0 (No direct causal link to hospitalization risk in this model.)
+*   **Weekly_Alcohol_Intake: 4:** +0.0 (Moderate intake, no direct contribution to hospitalization risk.)
+*   **Smoking: No:** +0.0 (Non-smoker, no direct contribution to hospitalization risk.)
+*   **Loss_of_Interest: No:** +0.0 (Absence of this symptom is a positive indicator, but not a direct negative contribution to risk.)
+*   **Drinks_Coffee: Yes:** +0.0 (No direct causal link to hospitalization risk.)
+*   **Likes_Vegetables: Yes:** +0.0 (No direct causal link to hospitalization risk.)
+*   **Favourite_Sport: Hockey:** +0.0 (No direct causal link to hospitalization risk.)
+*   **Votes: Sometimes:** +0.0 (No direct causal link to hospitalization risk.)
+*   **Height_in_Inches: 72:** +0.0 (No direct causal link to hospitalization risk.)
+
+3. The risk score is primarily driven by the severe mental health diagnosis of schizophrenia, which inherently carries a high risk of hospitalization. This is slightly exacerbated by current symptoms of mild depression and fatigue, while protective factors like employment, adequate sleep, and middle socioeconomic status offer some mitigation.

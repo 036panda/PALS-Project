@@ -1,0 +1,19 @@
+1. 5.0
+
+2. *   **Age (74):** +3.0 (Increased risk with advanced age)
+*   **BMI (29.4):** +1.0 (Slightly elevated BMI, indicating overweight)
+*   **Family_Health_History (Cancer):** +0.5 (Presence of a significant family health history)
+*   **Current_Diagnosis (nan):** +0.0 (No current diagnosis, neutral)
+*   **Race (White):** +0.0 (Neutral contribution in this model)
+*   **Gender (Male):** +0.0 (Neutral contribution in this model)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (Neutral contribution in this model)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, neutral)
+*   **Smoking (No):** -1.0 (Absence of smoking, a significant protective factor)
+*   **HAM-D (0–6: Normal / No Depression):** -0.5 (Absence of depression, a protective factor)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms, a protective factor)
+*   **Loss_of_Interest (No):** -0.5 (Absence of this symptom, a protective factor)
+*   **Hours_of_Sleep (7.0):** +0.0 (Adequate sleep, neutral)
+*   **Employment (Retired):** +1.0 (Potential for reduced physical activity and social engagement compared to active employment)
+*   **Socioeconomic_Status (Middle):** +2.0 (While not low, middle status can still present some barriers to optimal health compared to high socioeconomic status, and is not a protective factor in this model)
+
+3. The risk score is calculated by summing the contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, reflecting the causal impact of each attribute on hospitalization likelihood. Factors like advanced age and certain socioeconomic statuses are assigned positive contributions due to their established correlation with higher hospitalization rates, while the absence of smoking and depression are assigned negative contributions as protective factors.

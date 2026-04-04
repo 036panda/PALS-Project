@@ -1,0 +1,19 @@
+6.5
+
+*   Age (34): +0.5 (Increased risk with age, though 34 is relatively young, it's not zero risk)
+*   BMI (24.2): +0.0 (Normal BMI, no direct contribution to increased risk)
+*   Family_Health_History (nan): +0.0 (No information, no contribution)
+*   Current_Diagnosis (Bipolar): +4.0 (Significant chronic mental health condition, high risk factor for hospitalization)
+*   Race (Hispanic): +0.0 (No direct causal link to increased hospitalization risk in this model)
+*   Gender (Female): +0.0 (No direct causal link to increased hospitalization risk in this model)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to increased hospitalization risk in this model)
+*   Weekly_Alcohol_Intake (1): +0.0 (Low intake, no significant contribution to risk)
+*   Smoking (No): -0.5 (Absence of a major risk factor, reduces overall risk)
+*   HAM-D (0–6: Normal / No Depression): -1.0 (Absence of depression, reduces risk)
+*   Been_Sad_or_Fatigued (Yes): +1.0 (Indicates potential underlying issues or stress, contributing to risk)
+*   Loss_of_Interest (No): -0.0 (Absence of a depressive symptom, no contribution to increased risk)
+*   Hours_of_Sleep (8.3): +0.0 (Adequate sleep, no contribution to increased risk)
+*   Employment (Employed): -0.5 (Employment often correlates with better health outcomes and stability, reducing risk)
+*   Socioeconomic_Status (Low): +3.0 (Significant risk factor due to potential limited access to care, stress, and poorer living conditions)
+
+The risk score is calculated by summing the contributions of each factor, with Bipolar disorder and low socioeconomic status being the primary drivers of increased risk, while the absence of smoking and depression, and being employed, slightly mitigate it. The presence of "Been Sad or Fatigued" also adds a moderate risk due to its potential as an early indicator of health decline or stress.

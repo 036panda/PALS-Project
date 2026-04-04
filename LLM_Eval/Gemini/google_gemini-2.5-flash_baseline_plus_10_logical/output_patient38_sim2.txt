@@ -1,0 +1,12 @@
+1. 6.5
+
+2. *   Age (62): +1.0 (Increased risk with age)
+*   BMI (33.4): +1.5 (Obesity, BMI > 30, increases risk)
+*   Current_Diagnosis (Depression): +2.0 (Mental health conditions, especially depression, are linked to higher hospitalization rates)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating potential severity or impact on daily function)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential severity or impact on daily function)
+*   Hours_of_Sleep (6.7): +0.5 (Suboptimal sleep, less than 7 hours, can negatively impact health)
+*   Socioeconomic_Status (Low): +1.0 (Lower socioeconomic status is associated with poorer health outcomes and access to care)
+*   Weekly_Alcohol_Intake (1): -0.5 (Moderate alcohol intake, within recommended limits, may have a slight protective or neutral effect compared to heavy drinking or abstinence)
+
+3. The risk score is calculated by summing the positive contributions from factors known to increase hospitalization risk (age, obesity, depression, poor sleep, low socioeconomic status) and subtracting a minor protective contribution from moderate alcohol intake, reflecting direct causal links to health outcomes.

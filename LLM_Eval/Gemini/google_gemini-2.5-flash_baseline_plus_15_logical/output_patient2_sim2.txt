@@ -1,0 +1,11 @@
+1. 5.5
+
+2. *   BMI (34.6): +1.5 (Obesity increases risk of various health complications requiring hospitalization.)
+*   Family_Health_History (Cancer): +1.0 (Genetic predisposition to serious illness increases hospitalization risk.)
+*   Current_Diagnosis (Bipolar): +2.0 (Bipolar disorder often requires hospitalization for mood stabilization or crisis management.)
+*   Loss_of_Interest (Yes): +0.5 (A symptom of depression, which can worsen and necessitate hospitalization.)
+*   Weekly_Alcohol_Intake (4): +0.5 (Moderate alcohol intake can contribute to health issues over time.)
+*   Likes_Vegetables (No): +0.5 (Poor dietary habits are linked to various health problems that may require hospitalization.)
+*   HAM-D (7–17: Mild Depression): -0.5 (While present, it's mild, suggesting less immediate hospitalization risk compared to severe depression.)
+
+3. The risk score is calculated by summing the positive contributions from factors indicating increased health risks or conditions often requiring hospitalization, and subtracting a minor contribution for a mitigating factor. This reflects a direct causal link between these specific individual characteristics and the likelihood of hospitalization.

@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   **Age (18):** +0.5 (Young adult, generally lower risk than elderly, but not zero)
+*   **BMI (25.6):** +0.5 (Slightly overweight, minor risk factor)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to a common chronic condition)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant mental health condition often requiring hospitalization for acute episodes or medication management)
+*   **Race (Hispanic):** +0.0 (No direct causal link to hospitalization risk in this model without further context)
+*   **Gender (Non-binary):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Weekly_Alcohol_Intake (5):** +0.0 (Moderate intake, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of depression, a significant protective factor)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of common symptoms of mental distress)
+*   **Loss_of_Interest (No):** -0.5 (Absence of a common symptom of mental distress)
+*   **Hours_of_Sleep (5.7):** +1.0 (Insufficient sleep, a moderate risk factor for overall health and mental well-being)
+*   **Employment (Employed):** -0.5 (Indicates stability and access to resources, a protective factor)
+*   **Socioeconomic_Status (High):** -0.5 (Access to better healthcare, nutrition, and living conditions, a protective factor)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values represent increased risk and negative values represent decreased risk, reflecting the direct causal impact of each attribute on the likelihood of hospitalization. The primary drivers of risk are the Bipolar diagnosis and insufficient sleep, while the absence of depression, smoking, and positive socioeconomic factors mitigate the overall score.

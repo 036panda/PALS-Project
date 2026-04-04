@@ -1,0 +1,24 @@
+1. 6.5
+
+2. *   Age (73): +2.0 (Increased risk with advanced age)
+*   BMI (22.5): +0.0 (Normal BMI, no direct contribution)
+*   Family_Health_History (Asthma): +0.5 (Genetic predisposition to respiratory issues, potentially exacerbated by hospitalization)
+*   Current_Diagnosis (Anxiety): +1.0 (Mental health conditions can complicate recovery and increase hospitalization likelihood)
+*   Race (Native American): +1.0 (Acknowledged systemic health disparities and increased risk factors)
+*   Gender (Non-binary): +0.0 (No direct causal link to hospitalization risk)
+*   Sexual_Orientation (Heterosexual): +0.0 (No direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (6 units): +0.0 (Moderate intake, no significant contribution)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (0–6: Normal / No Depression): -0.5 (Good mental health, reducing risk)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Indicates potential underlying health issues or stress)
+*   Loss_of_Interest (No): -0.0 (No contribution, as it's not present)
+*   Hours_of_Sleep (9.7): -0.5 (Adequate sleep, promoting good health)
+*   Employment (Retired): +0.5 (May indicate reduced physical activity or social engagement, though not always)
+*   Socioeconomic_Status (Low): +1.5 (Associated with poorer access to healthcare, nutrition, and higher stress)
+*   Drinks_Coffee (No): +0.0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (No): +0.5 (Indicates potentially poorer dietary habits)
+*   Favourite_Sport (Basketball): +0.0 (No direct causal link to hospitalization risk)
+*   Votes (Sometimes): +0.0 (No direct causal link to hospitalization risk)
+*   Height_in_Inches (70): +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the positive and negative contributions of each factor, where each contribution reflects a direct causal relationship to hospitalization risk based on established health and socioeconomic determinants. Factors like advanced age, existing health conditions, and socioeconomic disadvantage increase risk, while healthy lifestyle choices and good mental health decrease it.

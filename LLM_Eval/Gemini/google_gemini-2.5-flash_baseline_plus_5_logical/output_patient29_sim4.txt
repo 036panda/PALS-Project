@@ -1,0 +1,24 @@
+1. 4.5
+
+2. *   **Age (22):** +0.0 (Younger age generally reduces hospitalization risk, but at 22, it's not a significant protective factor for acute hospitalization without other comorbidities.)
+*   **BMI (35.9):** +2.0 (BMI > 30 is classified as obese, significantly increasing risk for various health complications and hospitalizations.)
+*   **Family_Health_History (Cancer):** +0.5 (While not directly impacting acute hospitalization for this individual, a family history of a serious illness like cancer indicates a potential genetic predisposition to health issues, warranting a minor increase.)
+*   **Current_Diagnosis (Anxiety):** +0.5 (Anxiety can exacerbate physical symptoms, lead to stress-related health issues, and in severe cases, may require medical intervention or contribute to other conditions requiring hospitalization.)
+*   **Race (Hispanic):** +0.0 (No direct causal link to increased or decreased hospitalization risk in this model without further context.)
+*   **Gender (Female):** +0.0 (No direct causal link to increased or decreased hospitalization risk in this model without further context.)
+*   **Sexual_Orientation (Bisexual):** +0.0 (No direct causal link to increased or decreased hospitalization risk in this model.)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate alcohol intake, within recommended limits, does not significantly increase hospitalization risk.)
+*   **Smoking (No):** -1.0 (Absence of smoking is a significant protective factor against numerous health conditions that lead to hospitalization.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression can impact overall health, adherence to medical advice, and potentially lead to physical manifestations requiring medical attention.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms suggests better mental and physical well-being, reducing risk.)
+*   **Loss_of_Interest (No):** -0.5 (Absence of this symptom suggests better mental well-being, reducing risk.)
+*   **Hours_of_Sleep (5.7):** +1.0 (Chronic sleep deprivation (less than 7 hours) is linked to various health problems, including weakened immune function and increased risk of chronic diseases, increasing hospitalization risk.)
+*   **Employment (Student):** +0.0 (No direct causal link to increased or decreased hospitalization risk in this model.)
+*   **Socioeconomic_Status (Middle):** +0.0 (No direct causal link to increased or decreased hospitalization risk in this model.)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to increased or decreased hospitalization risk in this model.)
+*   **Likes_Vegetables (No):** +0.5 (Lack of vegetable consumption indicates a potentially less healthy diet, which can contribute to various health issues over time, increasing risk.)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to increased or decreased hospitalization risk in this model.)
+*   **Votes (Sometimes):** +0.0 (No direct causal link to increased or decreased hospitalization risk in this model.)
+*   **Height_in_Inches (61):** +0.0 (No direct causal link to increased or decreased hospitalization risk in this model.)
+
+3. The risk score is calculated by summing the contributions of factors causally linked to hospitalization risk, such as obesity (BMI), existing mental health conditions (Anxiety, Mild Depression), and lifestyle choices (lack of sleep, poor diet, non-smoking status). Positive contributions reflect increased risk, while negative contributions reflect protective factors.

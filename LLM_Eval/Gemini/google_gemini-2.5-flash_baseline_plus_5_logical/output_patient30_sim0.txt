@@ -1,0 +1,24 @@
+1. 5.5
+
+2. *   **Age (49):** +0.5 (Increased risk with age, but not yet in higher-risk elderly categories)
+*   **BMI (29.7):** +1.0 (Overweight, approaching obese, contributing to health risks)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Significant chronic mental health condition with potential for hospitalization)
+*   **Race (Native American):** +0.5 (Acknowledged health disparities and higher prevalence of certain conditions)
+*   **Gender (Female):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Sexual_Orientation (Other):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (2):** +0.0 (Moderate, not a significant risk factor)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Indicates current mental health distress, increasing risk)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of a common symptom of worsening mental health)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating mental health impact)
+*   **Hours_of_Sleep (5.8):** +0.5 (Insufficient sleep, contributing to overall health decline and mental health issues)
+*   **Employment (Employed):** -0.5 (Indicates a degree of stability and function)
+*   **Socioeconomic_Status (Middle):** +0.0 (Neutral, neither high nor low risk)
+*   **Drinks_Coffee (No):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habit, contributing to overall health risk)
+*   **Favourite_Sport (Basketball):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Never):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (60):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is computed by summing the contributions of factors known to causally influence hospitalization risk, such as chronic medical conditions (Bipolar, Mild Depression), lifestyle choices (BMI, sleep, diet), and demographic factors associated with health disparities (Race), while subtracting contributions for the absence of major risk factors (No Smoking, Employed).

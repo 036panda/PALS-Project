@@ -1,0 +1,20 @@
+1. 7.5
+
+2. *   Age: 90 (+2.0, advanced age is a significant risk factor for hospitalization)
+*   BMI: 32.5 (+1.0, obesity increases hospitalization risk)
+*   Family_Health_History: Hypertension (+0.5, genetic predisposition to cardiovascular issues)
+*   Current_Diagnosis: Depression (HAM-D: 0-6: Normal / No Depression, Been_Sad_or_Fatigued: No, Loss_of_Interest: No) (-0.5, absence of current depression symptoms reduces risk)
+*   Weekly_Alcohol_Intake: 4 (-0.2, moderate alcohol intake, not excessive)
+*   Smoking: Yes (+1.5, strong causal link to numerous health problems requiring hospitalization)
+*   Hours_of_Sleep: 7.4 (-0.3, adequate sleep promotes health)
+*   Socioeconomic_Status: Middle (-0.1, generally associated with better access to healthcare than lower SES)
+*   Likes_Vegetables: No (+0.5, poor dietary habits increase health risks)
+*   Has_Drivers_License: No (+0.2, may indicate reduced mobility or access to resources, though not directly causal)
+*   Donated_Blood: Yes (-0.1, often indicative of generally good health)
+*   Water_Intake_oz: 44.2 (-0.1, adequate hydration is beneficial)
+*   Can_Ride_Bicycle: No (+0.2, may indicate lower physical activity levels)
+*   Wears_Glasses: Yes (-0.1, indicates proactive vision correction, not a direct risk)
+*   Allergy: Dust (+0.2, chronic allergies can sometimes exacerbate respiratory issues or lead to complications)
+*   Binge_Watches_TV: Yes (+0.2, often associated with sedentary lifestyle)
+
+3. The risk score is calculated by summing the contributions of individual factors, where positive values represent increased risk and negative values represent decreased risk, based on established causal links between these factors and hospitalization likelihood. Factors like advanced age, smoking, and obesity are weighted more heavily due to their strong, direct impact on health outcomes.

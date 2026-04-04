@@ -1,0 +1,19 @@
+7.5
+
+*   Age (22): +0.0 (Younger age generally correlates with lower hospitalization risk, but this individual's age is not a significant protective factor in the context of other risk factors.)
+*   BMI (27.1): +0.5 (Slightly overweight, increasing risk for various health complications.)
+*   Family_Health_History (Heart Disease): +1.0 (Genetic predisposition to a major chronic illness.)
+*   Current_Diagnosis (Schizophrenia): +3.0 (Significant mental health condition strongly associated with higher hospitalization rates due to acute episodes, medication management, and comorbidity.)
+*   Race (Hispanic): +0.5 (Some studies indicate disparities in healthcare access and outcomes for certain racial/ethnic groups, potentially increasing hospitalization risk.)
+*   Gender (Non-binary): +0.5 (Experiences of discrimination and lack of culturally competent care can contribute to poorer health outcomes and increased hospitalization risk for non-binary individuals.)
+*   Sexual_Orientation (Bisexual): +0.5 (Similar to gender, experiences of discrimination and minority stress can negatively impact health and increase hospitalization risk.)
+*   Weekly_Alcohol_Intake (2): +0.0 (Within recommended low-risk limits.)
+*   Smoking (No): +0.0 (Absence of a major risk factor.)
+*   HAM-D (7–17: Mild Depression): +0.5 (While mild, depression can exacerbate other conditions and, in the context of schizophrenia, may indicate a more complex mental health picture.)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating current mental health distress.)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating current mental health distress.)
+*   Hours_of_Sleep (8.9): +0.0 (Adequate sleep, not a risk factor.)
+*   Employment (Student): +0.0 (Neutral factor in this context.)
+*   Socioeconomic_Status (Middle): +0.0 (Neutral factor in this context, not a significant protective or risk factor compared to extremes.)
+
+The risk score is derived by summing the individual contributions of each factor, with significant weight given to the current diagnosis of schizophrenia and the compounding effects of family history, BMI, and the added stressors associated with minority identity. The presence of mild depression symptoms further elevates the risk by indicating current mental health distress.

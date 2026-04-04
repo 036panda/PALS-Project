@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 6
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (31):** -1 (Younger age generally associated with better physical health and resilience, though mental health crises can occur at any age.)
+*   **BMI (29.7):** +0.5 (Approaching overweight, which can contribute to general health issues, but not severely obese.)
+*   **Current_Diagnosis (Schizophrenia):** +5 (Schizophrenia is a severe mental illness with a high risk of acute exacerbations requiring hospitalization for stabilization and safety.)
+*   **HAM-D (7-17: Mild Depression):** +1 (While mild, depression can exacerbate schizophrenia symptoms or lead to suicidal ideation, increasing hospitalization risk.)
+*   **Loss_of_Interest (Yes):** +0.5 (Anhedonia is a common symptom of depression and can be a negative symptom of schizophrenia, indicating worsening mental state.)
+*   **Socioeconomic_Status (Low):** +1 (Lower socioeconomic status is often associated with reduced access to care, increased stress, and poorer health outcomes, increasing hospitalization risk.)
+*   **Employment (Employed):** -0.5 (Employment can provide structure, social support, and financial stability, which are protective factors.)
+*   **Weekly_Alcohol_Intake (4):** +0.5 (While moderate, any alcohol use can interact with psychotropic medications and potentially worsen psychiatric symptoms.)
+*   **Smoking (No):** -0.5 (Absence of smoking is a positive health factor.)
+*   **Hours_of_Sleep (7.1):** -0.5 (Adequate sleep is a protective factor for mental health.)
+*   **Uses_Public_Transportation (Always):** +0.5 (While not inherently negative, reliance on public transportation can sometimes indicate limited personal mobility or financial constraints, which can indirectly impact access to care or support during a crisis.)
+
+3. Clinical Rationale: This patient presents with a significant risk of hospitalization primarily due to their diagnosis of schizophrenia, compounded by mild depression and low socioeconomic status, which can hinder access to consistent care and support. While some protective factors exist, the severity of the primary mental health diagnosis and associated symptoms elevate the overall risk.

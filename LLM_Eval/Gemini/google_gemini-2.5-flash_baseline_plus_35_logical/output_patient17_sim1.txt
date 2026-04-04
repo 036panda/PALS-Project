@@ -1,0 +1,11 @@
+1. 6
+
+2. *   Current_Diagnosis: Schizophrenia: +5 (Significant mental health condition often requiring hospitalization)
+    *   Socioeconomic_Status: Low: +2 (Associated with poorer health outcomes and reduced access to preventative care, increasing hospitalization likelihood)
+    *   Family_Health_History: Cancer: +1 (Indicates a genetic predisposition to serious illness, though not directly to hospitalization for current diagnosis)
+    *   Loss_of_Interest: Yes: +1 (A symptom of depression or other mental health issues, which can exacerbate existing conditions or lead to new ones requiring hospitalization)
+    *   Age: 20: -1 (Younger age generally associated with lower risk of hospitalization compared to older adults)
+    *   BMI: 24.6: -1 (Healthy BMI, indicating good general physical health)
+    *   Smoking: No: -1 (Absence of a major risk factor for numerous health conditions)
+
+3. The risk score is calculated by summing the positive contributions from factors directly increasing hospitalization likelihood (e.g., severe mental illness, low socioeconomic status) and subtracting negative contributions from protective factors (e.g., healthy BMI, non-smoking status). The primary driver is the current diagnosis of Schizophrenia, a condition frequently necessitating inpatient care.

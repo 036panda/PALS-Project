@@ -1,0 +1,26 @@
+1. Final Hospitalization Risk Score: 5.5
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (46):** +0.5 (Middle age, while not a primary risk factor for hospitalization in itself, can be associated with the onset or progression of certain chronic conditions, including mental health disorders, if not well-managed.)
+*   **BMI (28.3):** +1.0 (Overweight, increasing risk for various health complications, including cardiovascular issues, which can exacerbate mental health conditions or lead to hospitalization for physical health reasons.)
+*   **Family_Health_History (Heart Disease):** +1.0 (Genetic predisposition to heart disease, which can be a comorbidity with mental health conditions and increase overall health risk.)
+*   **Current_Diagnosis (Bipolar):** +3.0 (This is a significant risk factor for hospitalization due to the nature of the illness, including potential for manic or depressive episodes requiring acute care.)
+*   **Race (Native American):** +0.5 (Systemic health disparities and historical trauma can contribute to higher rates of certain health conditions and barriers to care, potentially increasing hospitalization risk.)
+*   **Gender (Non-binary):** +0.5 (Experiences of discrimination and minority stress can negatively impact mental health and access to appropriate care, increasing vulnerability.)
+*   **Sexual_Orientation (Heterosexual):** -0.0 (No direct impact on hospitalization risk in this context.)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Low alcohol intake, generally considered protective or neutral.)
+*   **Smoking (No):** -1.0 (Absence of smoking is a significant protective factor against numerous health issues.)
+*   **HAM-D (0–6: Normal / No Depression):** -1.0 (Absence of current depressive symptoms is a strong protective factor against hospitalization related to depressive episodes.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Absence of these symptoms indicates better current mental state.)
+*   **Loss_of_Interest (Yes):** +0.5 (While HAM-D is normal, loss of interest can be a subtle indicator of underlying mood dysregulation or a prodromal symptom, especially in bipolar disorder.)
+*   **Hours_of_Sleep (7.0):** -0.5 (Adequate sleep is a protective factor for overall health and mental well-being.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better socioeconomic stability and access to resources, which can be protective.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally provides better access to healthcare and resources compared to lower statuses.)
+*   **Drinks_Coffee (Yes):** -0.0 (No direct impact on hospitalization risk.)
+*   **Likes_Vegetables (Yes):** -0.5 (Indicates a healthier dietary habit, which is generally protective.)
+*   **Favourite_Sport (Basketball):** -0.0 (No direct impact on hospitalization risk.)
+*   **Votes (Never):** +0.0 (While not a direct health risk, lack of civic engagement can sometimes correlate with social isolation or disengagement from community resources, but its impact on hospitalization risk is negligible here.)
+*   **Height_in_Inches (65):** -0.0 (No direct impact on hospitalization risk.)
+
+3. Clinical Rationale: This individual presents with a moderate risk of hospitalization primarily due to their bipolar diagnosis, which inherently carries a significant risk for acute episodes requiring inpatient care, compounded by an overweight BMI and family history of heart disease. However, protective factors such as the absence of current depressive symptoms, non-smoking status, adequate sleep, and employment mitigate the overall risk.

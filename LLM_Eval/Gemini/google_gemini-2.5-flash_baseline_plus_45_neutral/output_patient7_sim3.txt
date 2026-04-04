@@ -1,0 +1,19 @@
+1. Risk Assessment Score: 7
+
+2. Parameter contributions:
+    * Age: 18 = -1 (Lower risk due to young age)
+    * BMI: 24.5 = 0 (Normal BMI)
+    * Family_Health_History: Asthma = +1 (Increased risk for respiratory complications, though not directly for hospitalization in this context, it's a chronic condition)
+    * Current_Diagnosis: Schizophrenia = +5 (Significantly increased risk for hospitalization due to mental health crisis, medication management, or co-occurring conditions)
+    * Race: Native American = +1 (Higher rates of certain health disparities and limited access to care in some areas)
+    * Smoking: Yes = +1 (Increased risk for various health issues, including respiratory and cardiovascular problems)
+    * HAM-D: 18–24: Moderate Depression = +1 (Increased risk for mental health crisis or worsening of existing conditions)
+    * Been_Sad_or_Fatigued: Yes = +1 (Symptom of depression, contributing to overall mental health risk)
+    * Loss_of_Interest: Yes = +1 (Symptom of depression, contributing to overall mental health risk)
+    * Weekly_Alcohol_Intake: 0 = 0 (No alcohol-related risk)
+    * Hours_of_Sleep: 8.3 = 0 (Adequate sleep)
+    * Employment: Student = 0 (Neutral)
+    * Socioeconomic_Status: Middle = 0 (Neutral)
+    * Allergy: Peanut = +1 (Risk of anaphylaxis, requiring emergency care)
+
+3. Rationale: The primary drivers of this patient's high risk score are the current diagnosis of schizophrenia and moderate depression, which significantly increase the likelihood of mental health-related hospitalization. Contributing factors include a family history of asthma, being Native American (associated with health disparities), and smoking, along with a peanut allergy.

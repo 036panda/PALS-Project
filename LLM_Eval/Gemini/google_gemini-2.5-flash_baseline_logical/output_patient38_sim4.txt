@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   Age (62): +1.0 (Increased risk with age, particularly over 60)
+*   BMI (33.4): +1.5 (Obesity, BMI > 30, is a significant risk factor)
+*   Current_Diagnosis (Depression): +1.5 (Depression is linked to poorer physical health outcomes and increased hospitalization risk)
+*   HAM-D (7–17: Mild Depression): +0.5 (Confirms and quantifies the impact of depression)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptoms of depression, indicating ongoing mental health challenges)
+*   Loss_of_Interest (Yes): +0.5 (Another symptom of depression, reinforcing mental health impact)
+*   Hours_of_Sleep (6.7): +0.5 (Suboptimal sleep, less than 7 hours, is associated with health issues)
+*   Socioeconomic_Status (Low): +0.5 (Low SES is a known determinant of poorer health outcomes and access to care)
+*   Weekly_Alcohol_Intake (1): -0.0 (Moderate alcohol intake, not a significant positive or negative contributor at this level)
+*   Smoking (No): -0.0 (Absence of a major risk factor)
+*   Family_Health_History (nan): -0.0 (No information, thus no contribution)
+*   Race (White): -0.0 (No direct causal link to hospitalization risk in this context)
+*   Gender (Male): -0.0 (No direct causal link to hospitalization risk in this context)
+*   Sexual_Orientation (Bisexual): -0.0 (No direct causal link to hospitalization risk in this context)
+*   Employment (Retired): -0.0 (No direct causal link to hospitalization risk in this context)
+
+3. The risk score is derived by summing the positive contributions from age, obesity, depression (diagnosis and symptoms), suboptimal sleep, and low socioeconomic status, as these factors are causally linked to increased hospitalization risk. Factors without a clear causal link or with a neutral impact at the given level contribute zero.

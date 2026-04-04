@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed breakdown of individual attribute impacts:
+
+*   **Age (18):** -1 (Younger age generally associated with fewer age-related health complications requiring hospitalization, though mental health considerations are separate.)
+*   **BMI (25.6):** 0 (Normal weight, no direct impact on hospitalization risk.)
+*   **Family_Health_History (Hypertension):** +0.5 (Indicates a genetic predisposition to a chronic condition, but not a current personal diagnosis.)
+*   **Current_Diagnosis (Bipolar):** +4 (Bipolar disorder carries a significant risk of hospitalization, particularly during acute manic or depressive episodes, or for medication management and stabilization.)
+*   **HAM-D (0-6: Normal / No Depression):** -1 (Absence of current depressive symptoms reduces the immediate risk associated with bipolar disorder.)
+*   **Been_Sad_or_Fatigued (No):** -0.5 (Further reinforces the current absence of depressive symptoms.)
+*   **Loss_of_Interest (No):** -0.5 (Further reinforces the current absence of depressive symptoms.)
+*   **Hours_of_Sleep (5.7):** +0.5 (Slightly below recommended sleep duration, which can negatively impact overall health and potentially exacerbate mental health conditions.)
+*   **Weekly_Alcohol_Intake (5):** 0 (Moderate intake, not a significant risk factor for hospitalization.)
+*   **Smoking (No):** -0.5 (Absence of smoking reduces risk of numerous health complications.)
+*   **Employment (Employed):** -0.5 (Indicates a level of stability and functioning, which can be protective.)
+*   **Socioeconomic_Status (High):** -1 (Higher socioeconomic status is generally associated with better access to healthcare and resources, reducing hospitalization risk.)
+*   **Exercises (Yes):** -0.5 (Regular exercise is beneficial for both physical and mental health.)
+*   **Allergy (Shellfish):** +0.5 (While not a constant risk, severe allergic reactions can necessitate emergency care and hospitalization.)
+
+3. Clinical Rationale: This 18-year-old non-binary individual with bipolar disorder presents with a moderate risk of hospitalization, primarily driven by their current diagnosis, despite the absence of acute depressive symptoms and several protective factors such as employment, high socioeconomic status, and healthy lifestyle choices. The potential for future manic or depressive episodes, or the need for medication adjustments, remains a significant concern.

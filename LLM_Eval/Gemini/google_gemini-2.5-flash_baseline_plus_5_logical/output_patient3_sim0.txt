@@ -1,0 +1,24 @@
+1. 5.5
+
+2. *   **Age (64):** +1.0 (Increased risk with advancing age)
+*   **BMI (29.9):** +0.5 (Approaching obesity, indicating higher health risk)
+*   **Family_Health_History (Asthma):** +0.5 (Genetic predisposition to respiratory issues)
+*   **Current_Diagnosis (Depression):** +1.0 (Mental health conditions can exacerbate physical health risks)
+*   **Race (Native American):** +0.5 (Acknowledged health disparities in certain racial groups)
+*   **Gender (Male):** +0.0 (No direct causal link to hospitalization risk in this context)
+*   **Sexual_Orientation (Heterosexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (2):** -0.5 (Moderate alcohol consumption, potentially protective for some cardiovascular conditions)
+*   **Smoking (No):** -1.0 (Absence of a major risk factor)
+*   **HAM-D (18–24: Moderate Depression):** +1.0 (Confirms and quantifies the impact of depression)
+*   **Been_Sad_or_Fatigued (No):** -0.0 (Absence of this specific symptom does not reduce the overall depression risk)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, contributing to overall mental health burden)
+*   **Hours_of_Sleep (6.4):** +0.5 (Slightly below optimal, indicating potential for fatigue and reduced immune function)
+*   **Employment (Retired):** +0.0 (No direct causal link to hospitalization risk)
+*   **Socioeconomic_Status (Middle):** +0.0 (No direct causal link to hospitalization risk)
+*   **Drinks_Coffee (Yes):** +0.0 (No direct causal link to hospitalization risk)
+*   **Likes_Vegetables (Yes):** -0.5 (Positive dietary habit, contributing to better health)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Always):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (65):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is computed by summing the contributions of individual factors, where positive values indicate increased risk and negative values indicate decreased risk. Causal relationships are inferred from established medical and public health knowledge regarding the impact of age, BMI, family history, existing diagnoses, lifestyle choices, and socioeconomic factors on overall health and the likelihood of requiring hospitalization.

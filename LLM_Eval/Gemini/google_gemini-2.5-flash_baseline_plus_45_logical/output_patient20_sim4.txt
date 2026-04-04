@@ -1,0 +1,14 @@
+1. 5.5
+
+2. *   **Age (19):** +0.5 (Slightly elevated risk due to being at the younger end of the adult spectrum, where certain mental health conditions might be more acutely managed, but not a primary driver of general hospitalization risk.)
+*   **BMI (25.1):** +0.5 (Slightly overweight, which can contribute to minor health risks over time, but not an immediate high-risk factor.)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Significant risk factor due to the nature of the condition, which often requires medical management and can lead to acute episodes necessitating hospitalization.)
+*   **Weekly_Alcohol_Intake (4):** +0.5 (Moderate alcohol intake, which can have minor health implications but is not a high-risk factor for immediate hospitalization.)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Mild depression, while not as severe as major depression, can still contribute to overall health vulnerability and may require medical attention or lead to complications.)
+*   **Been_Sad_or_Fatigued (Yes):** +0.0 (This is a symptom often associated with depression, already accounted for by the HAM-D score. No additional contribution to avoid double-counting.)
+*   **Hours_of_Sleep (10.3):** +0.0 (While excessive sleep can sometimes indicate underlying issues, in this context, it's not a direct, high-impact hospitalization risk factor without further information.)
+*   **Employment (Employed):** -0.5 (Positive factor, indicating stability and access to resources, reducing risk.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Positive factor, indicating access to resources and healthcare, reducing risk.)
+*   **Exercises (No):** +0.5 (Lack of exercise is a general health risk factor, contributing to overall vulnerability.)
+
+3. The risk score is calculated by summing the individual contributions of factors directly and causally linked to hospitalization risk, such as chronic conditions (Schizophrenia, Mild Depression), lifestyle choices (BMI, alcohol intake, lack of exercise), and socioeconomic stability. Positive contributions reflect increased risk, while negative contributions reflect decreased risk, with the magnitude reflecting the perceived strength of the causal link.

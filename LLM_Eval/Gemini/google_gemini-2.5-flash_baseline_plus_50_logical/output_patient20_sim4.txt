@@ -1,0 +1,16 @@
+1. 6.5
+
+2. *   **Current_Diagnosis: Schizophrenia:** +5.0 (Schizophrenia is a severe mental illness often requiring hospitalization for acute episodes, medication management, and stabilization.)
+*   **Age: 19:** +0.5 (Younger age, especially late adolescence/early adulthood, can be a period of increased vulnerability for first-episode psychosis or exacerbation of mental health conditions, potentially leading to hospitalization.)
+*   **BMI: 25.1:** +0.2 (Slightly overweight, which can be associated with some health risks, though minor in this context.)
+*   **HAM-D: 7–17: Mild Depression:** +0.5 (While mild, depression can exacerbate other mental health conditions and, if untreated or worsening, could contribute to hospitalization risk.)
+*   **Been_Sad_or_Fatigued: Yes:** +0.3 (These symptoms are consistent with depression and can indicate a need for mental health support, potentially escalating to hospitalization if severe.)
+*   **Weekly_Alcohol_Intake: 4:** +0.0 (Moderate alcohol intake, not a significant risk factor for hospitalization on its own.)
+*   **Smoking: No:** -0.5 (Absence of smoking reduces overall health risks.)
+*   **Hours_of_Sleep: 10.3:** -0.5 (Adequate to high sleep duration, generally indicative of good physical and mental health, reducing risk.)
+*   **Employment: Employed:** -0.5 (Employment often correlates with better mental health, financial stability, and access to resources, reducing hospitalization risk.)
+*   **Socioeconomic_Status: Middle:** -0.5 (Middle socioeconomic status generally implies better access to healthcare and resources, reducing risk.)
+*   **Allergy: Animal Dander:** +0.5 (Allergies can sometimes exacerbate respiratory issues or lead to acute reactions requiring medical attention, though less directly linked to hospitalization for mental health.)
+*   **Exercises: No:** +0.3 (Lack of exercise can negatively impact physical and mental health, potentially increasing overall health risks.)
+
+3. The risk score is primarily driven by the severe mental health diagnosis of Schizophrenia, which inherently carries a high risk of hospitalization. Other factors like age, mild depression, and lack of exercise contribute positively to the risk, while positive lifestyle choices and socioeconomic stability contribute negatively, reflecting their causal impact on overall health and access to care.

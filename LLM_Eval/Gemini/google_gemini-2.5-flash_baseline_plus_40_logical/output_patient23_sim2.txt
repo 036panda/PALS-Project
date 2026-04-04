@@ -1,0 +1,11 @@
+1. 5
+
+2. *   Age (56): +1 (Increased age is a risk factor for hospitalization)
+    *   BMI (31.1): +1 (Obesity, BMI > 30, is a risk factor)
+    *   Family_Health_History (Asthma): +1 (Family history of chronic conditions can indicate genetic predisposition or shared environmental factors)
+    *   Current_Diagnosis (Schizophrenia): +2 (Severe mental illness significantly increases hospitalization risk)
+    *   Loss_of_Interest (Yes): +1 (Symptom of depression, even if HAM-D is normal, indicating potential mental health vulnerability)
+    *   Skips_Breakfast (Yes): +1 (Poor dietary habits can negatively impact overall health)
+    *   Exercises (Yes): -1 (Regular exercise is a protective factor)
+
+3. The hospitalization risk score is calculated by summing the positive contributions from identified risk factors such as age, obesity, family history of chronic illness, severe mental illness, and poor dietary habits, and subtracting the protective contribution from regular exercise, reflecting their direct causal impact on health and hospitalization likelihood.

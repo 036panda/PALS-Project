@@ -1,0 +1,21 @@
+1. 5.5
+
+2. *   Age (64): +1.0 (Increased risk with age)
+*   BMI (29.9): +0.5 (Overweight, approaching obese)
+*   Family_Health_History (Asthma): +0.3 (Genetic predisposition to respiratory issues)
+*   Current_Diagnosis (Depression): +1.0 (Mental health comorbidity)
+*   Weekly_Alcohol_Intake (2): -0.1 (Moderate, potentially protective)
+*   Smoking (No): -0.5 (Absence of a major risk factor)
+*   HAM-D (18–24: Moderate Depression): +1.5 (Significant mental health burden)
+*   Been_Sad_or_Fatigued (No): -0.2 (Absence of a common symptom of worsening health)
+*   Loss_of_Interest (Yes): +0.5 (Symptom of depression, indicating potential functional impairment)
+*   Hours_of_Sleep (6.4): +0.3 (Slightly below optimal, indicating potential sleep deprivation)
+*   Employment (Retired): +0.2 (Potential for reduced physical activity and social engagement, though not inherently negative)
+*   Socioeconomic_Status (Middle): -0.2 (Access to resources, generally protective)
+*   Likes_Vegetables (Yes): -0.3 (Positive dietary habit)
+*   Water_Intake_oz (44.4): -0.1 (Adequate hydration)
+*   Donated_Blood (Yes): -0.1 (Indicates general health and access to healthcare)
+*   Race (Native American): +0.5 (Acknowledging systemic health disparities)
+*   Gender (Male): +0.2 (Slightly higher risk for certain conditions)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk. Causal relationships are inferred from established medical knowledge and public health data regarding the impact of these factors on hospitalization likelihood.

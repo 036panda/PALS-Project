@@ -1,0 +1,24 @@
+1. 7.5
+
+2. *   Age (64): +1.0 (Increased risk with advancing age)
+*   BMI (21.6): +0.0 (Normal BMI, no direct contribution)
+*   Family_Health_History (Hypertension): +0.5 (Genetic predisposition to a common chronic condition)
+*   Current_Diagnosis (nan): +0.0 (No current diagnosis, no direct contribution)
+*   Race (Native American): +0.5 (Known health disparities and higher prevalence of certain conditions)
+*   Gender (Other): +0.0 (No established direct causal link to hospitalization risk)
+*   Sexual_Orientation (Heterosexual): +0.0 (No established direct causal link to hospitalization risk)
+*   Weekly_Alcohol_Intake (2): +0.0 (Moderate intake, no significant direct contribution)
+*   Smoking (Yes): +2.0 (Significant risk factor for numerous chronic diseases and acute events)
+*   HAM-D (0–6: Normal / No Depression): +0.0 (No depression, no direct contribution)
+*   Been_Sad_or_Fatigued (No): +0.0 (Absence of these symptoms, no direct contribution)
+*   Loss_of_Interest (Yes): +0.5 (Potential indicator of underlying mental health issues or early stages of illness)
+*   Hours_of_Sleep (3.4): +2.0 (Severe sleep deprivation, significantly impacts immune function and overall health)
+*   Employment (Retired): +0.0 (No direct causal link to hospitalization risk)
+*   Socioeconomic_Status (Low): +1.0 (Associated with poorer access to healthcare, nutrition, and higher stress)
+*   Drinks_Coffee (Yes): +0.0 (No direct causal link to hospitalization risk)
+*   Likes_Vegetables (No): +0.5 (Indicates potentially poor dietary habits, contributing to health issues)
+*   Favourite_Sport (Gymnastics): +0.0 (No direct causal link to hospitalization risk)
+*   Votes (Sometimes): +0.0 (No direct causal link to hospitalization risk)
+*   Height_in_Inches (71): +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence health outcomes and healthcare utilization, such as age, smoking, severe sleep deprivation, and socioeconomic status, while assigning zero contribution to factors without a direct causal link. Each contribution reflects the established impact of the factor on the likelihood of requiring hospitalization.

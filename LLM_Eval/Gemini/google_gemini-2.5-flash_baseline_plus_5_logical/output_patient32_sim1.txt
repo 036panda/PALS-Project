@@ -1,0 +1,15 @@
+7
+
+*   **Age (19):** +0.5 (Young adults, especially those with mental health conditions, may have higher hospitalization risk due to acute episodes or lack of established coping mechanisms.)
+*   **BMI (17.6):** +1.0 (Underweight, potentially indicating poor nutrition or underlying health issues, increases vulnerability.)
+*   **Family_Health_History (Diabetes):** +0.5 (Genetic predisposition to chronic conditions can indirectly increase overall health fragility.)
+*   **Current_Diagnosis (Schizophrenia):** +3.0 (Schizophrenia is a severe mental illness with a high risk of hospitalization for acute episodes, medication management, or safety concerns.)
+*   **HAM-D (25+: Severe Depression):** +2.0 (Severe depression significantly increases the risk of hospitalization due to suicidal ideation, self-neglect, or inability to function.)
+*   **Loss_of_Interest (Yes):** +0.5 (A symptom of severe depression, indicating a worsening mental state and potential for self-neglect.)
+*   **Weekly_Alcohol_Intake (3):** -0.5 (Moderate alcohol intake, while not ideal, is not a significant risk factor for hospitalization in this context and may even indicate some social engagement.)
+*   **Smoking (No):** -0.5 (Absence of smoking reduces risk of respiratory and cardiovascular complications.)
+*   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep is a protective factor for overall health and mental well-being.)
+*   **Employment (Student):** +0.5 (While employment is generally protective, being a student with severe mental health conditions can be a stressor and may lead to academic difficulties, indirectly increasing risk.)
+*   **Socioeconomic_Status (High):** -0.5 (Higher socioeconomic status often correlates with better access to healthcare and resources, reducing hospitalization risk.)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, with mental health conditions and their severity being the primary drivers, while protective factors like adequate sleep and absence of smoking reduce the score.

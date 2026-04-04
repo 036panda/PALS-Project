@@ -1,0 +1,25 @@
+1. 4
+
+2. *   **Age (45):** +0.5 (Increased age generally correlates with higher hospitalization risk due to cumulative health issues.)
+*   **BMI (25.2):** +0.2 (Slightly overweight, which can contribute to minor health risks.)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to a common chronic condition increases risk.)
+*   **Current_Diagnosis (Anxiety):** +1.0 (Mental health conditions can exacerbate physical symptoms or lead to health-seeking behaviors.)
+*   **Smoking (Yes):** +2.0 (Significant risk factor for numerous chronic diseases requiring hospitalization.)
+*   **HAM-D (7–17: Mild Depression):** +0.5 (Mild depression can impact overall health and adherence to medical advice.)
+*   **Weekly_Alcohol_Intake (1):** -0.1 (Very low alcohol intake, potentially protective or neutral.)
+*   **Hours_of_Sleep (7.9):** -0.2 (Adequate sleep is generally protective for health.)
+*   **Employment (Employed):** -0.5 (Employment often correlates with better access to healthcare and financial stability.)
+*   **Socioeconomic_Status (Middle):** -0.5 (Middle socioeconomic status generally implies better access to resources and healthcare.)
+*   **Likes_Vegetables (Yes):** -0.2 (Positive dietary habit, contributing to better health.)
+*   **Exercises (Yes):** -0.5 (Regular exercise is a significant protective factor against many diseases.)
+*   **Skips_Breakfast (Yes):** +0.3 (Skipping meals can negatively impact metabolism and overall health.)
+*   **Wears_Glasses (Yes):** +0.1 (Indicates a pre-existing health condition, albeit minor.)
+*   **Allergy (Pollen):** +0.1 (Allergies can sometimes lead to respiratory issues requiring medical attention.)
+*   **Binge_Watches_TV (Yes):** +0.2 (Sedentary behavior, potentially linked to poorer health outcomes.)
+*   **Registered_Organ_Donor (Yes):** -0.1 (Indicates a proactive approach to health and community, potentially correlating with better self-care.)
+*   **Donated_Blood (Yes):** -0.1 (Similar to organ donation, suggests a proactive health stance.)
+*   **Picks_Up_Litter (Always):** -0.1 (Indicates a conscientious individual, potentially correlating with better self-care.)
+*   **Recycling_Habits (Always):** -0.1 (Similar to picking up litter, suggests conscientiousness.)
+*   **Volunteers (Always):** -0.1 (Community involvement can be linked to better mental and physical well-being.)
+
+3. The risk score is calculated by summing the positive and negative contributions of various health and lifestyle factors, where positive values indicate increased risk and negative values indicate decreased risk. This reflects a causal model where specific attributes directly influence the likelihood of hospitalization.

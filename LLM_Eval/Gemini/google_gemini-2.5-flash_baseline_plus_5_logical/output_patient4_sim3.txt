@@ -1,0 +1,24 @@
+1. 6.0
+
+2. *   **Age (40):** +0.5 (Increased risk with age, but 40 is moderate)
+*   **BMI (16.7 - Underweight):** +1.0 (Underweight is a risk factor for various health issues)
+*   **Family_Health_History (Hypertension):** +1.0 (Genetic predisposition to a common chronic disease)
+*   **Current_Diagnosis (Depression):** +1.0 (Mental health conditions can exacerbate physical health risks and lead to hospitalization)
+*   **Race (Asian):** +0.0 (No direct causal link to hospitalization risk without further context)
+*   **Gender (Other):** +0.0 (No direct causal link to hospitalization risk without further context)
+*   **Sexual_Orientation (Asexual):** +0.0 (No direct causal link to hospitalization risk)
+*   **Weekly_Alcohol_Intake (3):** -0.2 (Moderate alcohol consumption, potentially protective or neutral)
+*   **Smoking (Yes):** +1.5 (Significant risk factor for numerous diseases requiring hospitalization)
+*   **HAM-D (18–24: Moderate Depression):** +0.5 (Confirms and quantifies the impact of depression)
+*   **Been_Sad_or_Fatigued (Yes):** +0.2 (Symptom of depression, contributing to overall health decline)
+*   **Loss_of_Interest (Yes):** +0.2 (Symptom of depression, contributing to overall health decline)
+*   **Hours_of_Sleep (8.0):** -0.5 (Adequate sleep is protective)
+*   **Employment (Employed):** -0.5 (Associated with better access to care and resources)
+*   **Socioeconomic_Status (Low):** +1.0 (Associated with poorer health outcomes and access to care)
+*   **Drinks_Coffee (Yes):** -0.2 (Potential protective effects, or neutral)
+*   **Likes_Vegetables (No):** +0.5 (Poor dietary habit, increasing risk)
+*   **Favourite_Sport (Soccer):** +0.0 (No direct causal link to hospitalization risk)
+*   **Votes (Always):** +0.0 (No direct causal link to hospitalization risk)
+*   **Height_in_Inches (71):** +0.0 (No direct causal link to hospitalization risk)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, either positively (e.g., smoking, low socioeconomic status, poor diet) or negatively (e.g., adequate sleep, employment). Each factor's contribution reflects its established impact on health and the likelihood of requiring inpatient medical care.

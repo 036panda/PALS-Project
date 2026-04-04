@@ -1,0 +1,15 @@
+7
+
+*   Age (62): +1.5 (Increased age is a known risk factor for hospitalization due to general health decline and comorbidity likelihood.)
+*   BMI (33.4 - Obese Class I): +1.5 (Obesity is a significant risk factor for numerous health conditions requiring hospitalization, including cardiovascular disease, diabetes, and respiratory issues.)
+*   Current_Diagnosis (Depression): +1.0 (Depression, especially when untreated or poorly managed, can lead to self-neglect, exacerbation of physical conditions, and increased risk of mental health crises requiring hospitalization.)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptoms like persistent sadness and fatigue are indicative of underlying health issues, including depression, which can escalate to hospitalization if not addressed.)
+*   Loss_of_Interest (Yes): +0.5 (Anhedonia is a core symptom of depression and can lead to decreased self-care and engagement in health-promoting activities, increasing hospitalization risk.)
+*   Hours_of_Sleep (6.7): +0.5 (Insufficient sleep (less than 7 hours) is linked to weakened immune function, increased inflammation, and poorer management of chronic conditions, all contributing to hospitalization risk.)
+*   Socioeconomic_Status (Low): +1.5 (Lower socioeconomic status is strongly correlated with poorer access to healthcare, higher rates of chronic diseases, and delayed treatment, leading to increased hospitalization.)
+*   Uses_Public_Transportation (Always): +0.5 (While not a direct causal factor, reliance on public transportation can sometimes indicate limited access to personal vehicles, which may correlate with lower income or reduced mobility, indirectly impacting healthcare access and increasing hospitalization risk.)
+*   Weekly_Alcohol_Intake (1): -0.5 (Moderate alcohol consumption, particularly red wine, has been associated with some cardiovascular benefits, though this is a minor and nuanced factor.)
+*   Likes_Vegetables (Yes): -0.5 (A diet rich in vegetables is associated with better overall health and reduced risk of chronic diseases, thereby lowering hospitalization risk.)
+*   Donated_Blood (Yes): -0.5 (Donating blood generally indicates a relatively healthy individual who passes screening criteria, suggesting a lower baseline risk for certain conditions.)
+
+The risk score is calculated by summing the contributions of individual factors, where positive contributions reflect increased risk due to established causal links (e.g., obesity leading to health complications) and negative contributions reflect decreased risk due to protective factors (e.g., healthy diet). Each factor's contribution is weighted based on the strength and directness of its causal relationship with hospitalization risk.

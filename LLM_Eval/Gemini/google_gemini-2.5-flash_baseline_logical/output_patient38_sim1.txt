@@ -1,0 +1,19 @@
+1. 6.5
+
+2. *   **Age (62):** +1.0 (Increased risk with age, particularly over 60)
+*   **BMI (33.4):** +1.5 (Obesity, BMI > 30, is a significant risk factor)
+*   **Family_Health_History (nan):** +0.0 (No information, no contribution)
+*   **Current_Diagnosis (Depression):** +1.0 (Depression is associated with increased hospitalization risk)
+*   **Race (White):** +0.0 (No inherent risk contribution based on race in this model)
+*   **Gender (Male):** +0.0 (No inherent risk contribution based on gender in this model)
+*   **Sexual_Orientation (Bisexual):** +0.0 (No inherent risk contribution based on sexual orientation in this model)
+*   **Weekly_Alcohol_Intake (1):** +0.0 (Low intake, no significant contribution)
+*   **Smoking (No):** -0.5 (Absence of smoking reduces risk)
+*   **HAM-D (7–17: Mild Depression):** +1.0 (Confirms and quantifies the impact of depression)
+*   **Been_Sad_or_Fatigued (Yes):** +0.5 (Symptom of depression, contributing to overall health burden)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, contributing to overall health burden)
+*   **Hours_of_Sleep (6.7):** +0.5 (Slightly below optimal, contributing to general health strain)
+*   **Employment (Retired):** +0.0 (Neutral factor in this model)
+*   **Socioeconomic_Status (Low):** +1.0 (Low SES is a known independent risk factor for poorer health outcomes and increased hospitalization)
+
+3. The risk score is calculated by summing the individual contributions of each factor, where positive values indicate increased risk and negative values indicate decreased risk, based on established medical and social determinants of health. Each contribution reflects a direct causal link to hospitalization risk, with higher values assigned to factors with stronger evidence of impact.

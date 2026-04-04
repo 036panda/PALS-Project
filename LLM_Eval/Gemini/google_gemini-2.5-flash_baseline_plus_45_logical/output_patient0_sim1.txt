@@ -1,0 +1,15 @@
+1. 7.5
+
+2. *   Current_Diagnosis: Schizophrenia: +3.0 (Directly increases hospitalization risk due to severe mental health condition)
+*   Smoking: Yes: +1.5 (Significant contributor to various health issues, increasing hospitalization likelihood)
+*   HAM-D: 25+: Severe Depression: +2.0 (Indicates severe mental health distress, a strong predictor of hospitalization)
+*   Family_Health_History: Heart Disease: +0.5 (Genetic predisposition to a major health concern)
+*   Allergy: Gluten: +0.5 (Can lead to health complications if not managed, potentially requiring hospitalization)
+*   Skips_Breakfast: Yes: +0.3 (Indicates potentially poor dietary habits, contributing to overall health risk)
+*   Wears_Glasses: Yes: +0.2 (Suggests a pre-existing health condition, albeit minor, indicating a need for corrective care)
+*   Loss_of_Interest: Yes: +0.5 (Symptom of depression, reinforcing the risk from HAM-D score)
+*   BMI: 20.3: -0.5 (Healthy BMI, reducing risk)
+*   Exercises: Yes: -0.5 (Positive health behavior, reducing risk)
+*   Likes_Vegetables: Yes: -0.5 (Positive dietary habit, reducing risk)
+
+3. The hospitalization risk score is calculated by summing the contributions of factors directly and causally linked to increased or decreased health complications and the likelihood of requiring medical intervention, with a strong emphasis on severe mental health conditions and established physical health risk factors.

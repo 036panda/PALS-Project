@@ -1,0 +1,18 @@
+7
+
+*   **Age (37):** +0.5 (Slightly elevated risk for this age group compared to younger adults, but not elderly)
+*   **BMI (20.3):** -0.2 (Healthy BMI, protective factor)
+*   **Family_Health_History (Heart Disease):** +1.0 (Genetic predisposition to a major chronic illness)
+*   **Current_Diagnosis (Schizophrenia):** +2.5 (Significant chronic mental illness, often associated with poorer physical health outcomes, medication side effects, and higher hospitalization rates)
+*   **Weekly_Alcohol_Intake (3):** -0.1 (Low alcohol intake, generally considered healthy)
+*   **Smoking (Yes):** +2.0 (Major risk factor for numerous chronic diseases and acute health events)
+*   **HAM-D (25+: Severe Depression):** +2.0 (Severe depression is a significant risk factor for self-harm, neglect of physical health, and psychiatric hospitalization)
+*   **Loss_of_Interest (Yes):** +0.5 (Symptom of depression, indicating severity)
+*   **Hours_of_Sleep (6.3):** +0.3 (Slightly below optimal 7-9 hours, can impact immune function and overall health)
+*   **Employment (Employed):** -0.2 (Protective factor, often associated with better access to healthcare and mental well-being)
+*   **Socioeconomic_Status (Middle):** -0.2 (Generally associated with better health outcomes than lower SES)
+*   **Allergy (Gluten):** +0.5 (Indicates a chronic health condition requiring management, potential for complications if not managed)
+*   **Skips_Breakfast (Yes):** +0.1 (Minor negative health habit)
+*   **Exercises (Yes):** -0.5 (Protective factor, improves cardiovascular health and mental well-being)
+
+The risk score is calculated by summing the contributions of factors directly and causally linked to hospitalization risk, such as chronic diseases, severe mental health conditions, and major lifestyle choices. Factors like smoking, severe depression, and schizophrenia contribute significantly due to their established impact on health and healthcare utilization, while healthy habits and favorable demographics offer minor protective effects.

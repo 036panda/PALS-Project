@@ -1,0 +1,17 @@
+1. 6.5
+
+2. *   Age (62): +1.0 (Increased risk with age)
+*   BMI (33.4): +1.5 (Obesity, BMI > 30, is a significant risk factor)
+*   Current_Diagnosis (Depression): +2.0 (Mental health conditions, especially depression, are linked to higher hospitalization rates)
+*   HAM-D (7–17: Mild Depression): +1.0 (Confirms and quantifies the depression diagnosis, adding to risk)
+*   Been_Sad_or_Fatigued (Yes): +0.5 (Symptom of depression, indicating ongoing distress)
+*   Loss_of_Interest (Yes): +0.5 (Another symptom of depression, indicating functional impairment)
+*   Hours_of_Sleep (6.7): +0.5 (Suboptimal sleep duration, generally less than 7 hours, is associated with health issues)
+*   Socioeconomic_Status (Low): +1.0 (Lower socioeconomic status is consistently linked to poorer health outcomes and higher hospitalization rates)
+*   Skips_Breakfast (Yes): +0.5 (Poor dietary habit, potentially indicating overall less healthy lifestyle)
+*   Orders_Takeout (Daily): +0.5 (Frequent takeout often implies less healthy food choices and higher intake of processed foods)
+*   Exercises (Yes): -0.5 (Positive health behavior, mitigating some risk)
+*   Weekly_Alcohol_Intake (1): -0.5 (Low alcohol intake, potentially protective or neutral, but not a risk factor)
+*   Smoking (No): -1.0 (Absence of a major risk factor)
+
+3. The risk score is calculated by summing the contributions of factors known to causally influence hospitalization risk, such as age, obesity, mental health conditions, and socioeconomic status, while subtracting contributions from protective factors like exercise and absence of smoking. Each contribution reflects the direct impact of the factor on an individual's likelihood of hospitalization.

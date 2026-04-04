@@ -1,0 +1,19 @@
+1. 4.5
+
+2. *   **Age (40):** +0.5 (Increased risk with age, but 40 is moderate)
+*   **BMI (34.6):** +1.5 (Obesity, BMI > 30, is a significant risk factor)
+*   **Family_Health_History (Cancer):** +0.5 (Genetic predisposition to certain illnesses can increase overall health risk)
+*   **Current_Diagnosis (Bipolar):** +2.0 (Mental health conditions, especially severe ones like bipolar disorder, are strong predictors of hospitalization)
+*   **Race (White):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Gender (Non-binary):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Sexual_Orientation (Bisexual):** +0.0 (No direct causal link to hospitalization risk in this model)
+*   **Weekly_Alcohol_Intake (4):** +0.0 (Moderate intake, not exceeding typical low-risk guidelines)
+*   **Smoking (No):** -0.5 (Absence of a major risk factor)
+*   **HAM-D (7–17: Mild Depression):** +0.0 (Already accounted for by Bipolar diagnosis, and mild depression alone might not significantly increase hospitalization risk beyond the primary diagnosis)
+*   **Been_Sad_or_Fatigued (No):** -0.0 (Absence of a symptom that could indicate worsening health)
+*   **Loss_of_Interest (Yes):** +0.0 (Symptom of depression, already accounted for by Bipolar diagnosis)
+*   **Hours_of_Sleep (8.9):** -0.0 (Adequate sleep, not a risk factor)
+*   **Employment (Employed):** -0.0 (Indicates a degree of stability and access to resources)
+*   **Socioeconomic_Status (Middle):** -0.0 (Indicates a degree of stability and access to resources)
+
+3. The risk score is derived from the cumulative impact of identified health risk factors, such as obesity and a severe mental health diagnosis (Bipolar), which are known to necessitate medical intervention, while mitigating factors like the absence of smoking and adequate sleep reduce the overall score. Each contribution reflects a direct causal link to the likelihood of requiring hospitalization.
