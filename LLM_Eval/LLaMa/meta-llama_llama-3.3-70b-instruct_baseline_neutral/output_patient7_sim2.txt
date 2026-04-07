@@ -1,0 +1,18 @@
+1. Risk Assessment Score: 6.5
+2. Parameters and risk values:
+	* Age: -1 (young age is associated with lower risk)
+	* BMI: 0 (normal BMI, no added risk)
+	* Family_Health_History (Asthma): 0.5 (some studies suggest a link between asthma and mental health, but the relationship is not strong)
+	* Current_Diagnosis (Schizophrenia): 2 (serious mental health condition with increased risk of hospitalization)
+	* Race (Native American): 0.5 (some studies suggest Native Americans may have higher rates of mental health issues, but the relationship is complex)
+	* Gender (Male): 0 (no significant added risk)
+	* Sexual_Orientation (Heterosexual): 0 (no significant added risk)
+	* Weekly_Alcohol_Intake: 0 (no alcohol intake, no added risk)
+	* Smoking: 1 (smoking is a significant health risk factor)
+	* HAM-D (18-24, Moderate Depression): 1.5 (moderate depression increases risk of hospitalization)
+	* Been_Sad_or_Fatigued: 0.5 (symptoms of depression, adds to risk)
+	* Loss_of_Interest: 0.5 (symptoms of depression, adds to risk)
+	* Hours_of_Sleep: -0.5 (adequate sleep, reduces risk)
+	* Employment (Student): -0.5 (being a student may provide structure and support, reducing risk)
+	* Socioeconomic_Status (Middle): 0 (middle socioeconomic status, no significant added risk)
+3. The patient's risk assessment score is driven by their diagnosis of schizophrenia, moderate depression, and smoking habits, which are all significant risk factors for hospitalization. However, their young age, adequate sleep, and student status help to mitigate this risk to some extent.

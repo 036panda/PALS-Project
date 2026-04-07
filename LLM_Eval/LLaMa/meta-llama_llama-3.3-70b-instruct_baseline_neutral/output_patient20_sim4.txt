@@ -1,0 +1,18 @@
+1. Risk Assessment Score: 6
+2. Parameters and risk values:
+	* Age: -2 (young age is associated with lower risk)
+	* BMI: 1 (BMI of 25.1 is slightly above normal, increasing risk)
+	* Current_Diagnosis: 3 (Schizophrenia increases risk)
+	* Weekly_Alcohol_Intake: 1 (moderate alcohol intake increases risk)
+	* HAM-D: 2 (mild depression increases risk)
+	* Been_Sad_or_Fatigued: 1 (yes increases risk)
+	* Employment: -1 (being employed decreases risk)
+	* Socioeconomic_Status: 0 (middle socioeconomic status is neutral)
+	* Race: 0 (no increased risk associated with being Black in this context)
+	* Gender: 0 (no increased risk associated with being Female)
+	* Sexual_Orientation: 0 (no increased risk associated with being Heterosexual)
+	* Smoking: 0 (not smoking decreases risk, but since it's a negative factor, it's 0)
+	* Hours_of_Sleep: -1 (getting enough sleep decreases risk)
+	* Loss_of_Interest: 0 (no increases risk)
+	* Family_Health_History: 0 (unknown, so no increased risk)
+3. The patient's risk score is moderate due to their diagnosis of schizophrenia and mild depression, which increase their risk for hospitalization. However, their young age, employment, and adequate sleep habits help mitigate this risk.
