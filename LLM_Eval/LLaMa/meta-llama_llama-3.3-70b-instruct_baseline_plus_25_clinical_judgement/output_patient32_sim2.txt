@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (19): -1.0 (young age generally associated with lower health risks)
+   - BMI (17.6): 1.2 (underweight, potential for health complications)
+   - Family_Health_History (Diabetes): 1.5 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Schizophrenia): 2.0 (serious mental health condition)
+   - HAM-D (25+): 2.5 (severe depression significantly increases risk)
+   - Loss_of_Interest: 1.0 (indicator of severe depression)
+   - Weekly_Alcohol_Intake (3): 0.5 (moderate alcohol intake, potential for increased risk)
+   - Socioeconomic_Status (High): -0.5 (better access to healthcare, lower risk)
+   - Hours_of_Sleep (8.0): -0.5 (adequate sleep, lower risk)
+   - Other attributes (e.g., Race, Gender, Sexual_Orientation, Smoking, etc.): 0.1 (cumulative minor impact of various factors)
+
+3. The patient's severe depression, schizophrenia diagnosis, and family history of diabetes contribute significantly to the hospitalization risk, while factors such as high socioeconomic status and adequate sleep partially mitigate this risk. Overall, the patient's mental health conditions and potential for complications due to underweight status and family health history drive the elevated hospitalization risk score.

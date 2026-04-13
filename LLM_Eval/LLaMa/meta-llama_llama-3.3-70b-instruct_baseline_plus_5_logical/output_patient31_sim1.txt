@@ -1,0 +1,23 @@
+1. 8.2
+2. 
+- Age: 36: 0.2 (positive, as increasing age is associated with higher health risks)
+- BMI: 36.8: 2.5 (positive, as high BMI is linked to various health issues)
+- Family_Health_History: Hypertension: 1.5 (positive, due to increased risk of cardiovascular diseases)
+- Current_Diagnosis: nan: 0 (neutral, as no diagnosis is provided)
+- Race: Black: 0.5 (positive, considering disparities in healthcare access and outcomes)
+- Gender: Non-binary: 0 (neutral, as there's no direct causal link to hospitalization risk)
+- Sexual_Orientation: Heterosexual: 0 (neutral, as there's no direct causal link to hospitalization risk)
+- Weekly_Alcohol_Intake: 7: 1.2 (positive, as excessive alcohol consumption increases health risks)
+- Smoking: Yes: 2.0 (positive, due to the significant health risks associated with smoking)
+- HAM-D: 0–6: Normal / No Depression: -1.0 (negative, indicating lower risk due to absence of depression)
+- Been_Sad_or_Fatigued: Yes: 0.5 (positive, as it may indicate underlying mental health issues)
+- Loss_of_Interest: Yes: 0.5 (positive, for similar reasons as above)
+- Hours_of_Sleep: 5.7: 0.8 (positive, as insufficient sleep is linked to various health problems)
+- Employment: Employed: -0.5 (negative, as employment can provide stability and access to healthcare)
+- Socioeconomic_Status: Middle: -0.2 (negative, as higher socioeconomic status generally correlates with better health outcomes)
+- Drinks_Coffee: No: 0 (neutral, as there's no direct causal link to hospitalization risk)
+- Likes_Vegetables: Yes: -0.5 (negative, indicating healthier dietary habits)
+- Favourite_Sport: Soccer: 0 (neutral, as there's no direct causal link to hospitalization risk)
+- Votes: Never: 0 (neutral, as there's no direct causal link to hospitalization risk)
+- Height_in_Inches: 60: 0 (neutral, as height alone does not significantly influence hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health and lifestyle factors, considering the positive and negative contributions of each factor to determine an overall risk level. This approach logically and causally links the provided factors to potential health risks, summing their contributions to yield a comprehensive risk score.

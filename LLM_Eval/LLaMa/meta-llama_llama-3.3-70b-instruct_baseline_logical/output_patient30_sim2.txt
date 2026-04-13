@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 49: 0.4 (positive, as older age is associated with higher hospitalization risk)
+   - BMI: 29.7: 1.2 (positive, as high BMI is associated with higher hospitalization risk)
+   - Family_Health_History: nan: 0 (neutral, as no information is available)
+   - Current_Diagnosis: Bipolar: 2.5 (positive, as bipolar disorder is associated with higher hospitalization risk)
+   - Race: Native American: 0.5 (positive, as Native Americans may face healthcare disparities)
+   - Gender: Female: 0.2 (positive, as females may be more likely to seek hospitalization)
+   - Sexual_Orientation: Other: 0 (neutral, as no clear association with hospitalization risk)
+   - Weekly_Alcohol_Intake: 2: -0.5 (negative, as moderate alcohol intake may have some health benefits)
+   - Smoking: No: -0.5 (negative, as not smoking reduces hospitalization risk)
+   - HAM-D: 7–17: Mild Depression: 1.5 (positive, as mild depression is associated with higher hospitalization risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative, as not experiencing sadness or fatigue reduces hospitalization risk)
+   - Loss_of_Interest: Yes: 1 (positive, as loss of interest is associated with higher hospitalization risk)
+   - Hours_of_Sleep: 5.8: 0.8 (positive, as inadequate sleep is associated with higher hospitalization risk)
+   - Employment: Employed: -0.5 (negative, as being employed may reduce hospitalization risk)
+   - Socioeconomic_Status: Middle: 0 (neutral, as middle socioeconomic status has no clear association with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, demographic characteristics, and behavioral factors, with each factor contributing a positive or negative value to the overall score, reflecting their causal relationship with hospitalization risk. The score of 6.8 indicates a moderate to high risk of hospitalization, driven by factors such as bipolar disorder, high BMI, and inadequate sleep.

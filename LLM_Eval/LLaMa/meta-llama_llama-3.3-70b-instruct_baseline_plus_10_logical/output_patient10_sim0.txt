@@ -1,0 +1,30 @@
+1. Risk Score: 6.8
+
+2. Input Factors and Contributions:
+   - Age: 32, Contribution: 0.5 (moderate risk due to being an adult but not elderly)
+   - BMI: 31.6, Contribution: 1.2 (high risk due to obesity)
+   - Family_Health_History: Cancer, Contribution: 1.5 (high risk due to genetic predisposition)
+   - Current_Diagnosis: nan, Contribution: 0 (no information)
+   - Race: Asian, Contribution: 0 (neutral, as race alone is not a direct risk factor without context)
+   - Gender: Male, Contribution: 0.2 (slightly higher risk for certain conditions)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (neutral)
+   - Weekly_Alcohol_Intake: 3, Contribution: 0.5 (moderate risk due to alcohol consumption)
+   - Smoking: Yes, Contribution: 2.0 (high risk due to smoking)
+   - HAM-D: 18–24, Contribution: 1.8 (high risk due to moderate depression)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 0.8 (moderate risk due to mental health symptoms)
+   - Loss_of_Interest: Yes, Contribution: 0.8 (moderate risk due to mental health symptoms)
+   - Hours_of_Sleep: 7.5, Contribution: -0.5 (low risk due to adequate sleep)
+   - Employment: Employed, Contribution: -0.5 (low risk due to stability)
+   - Socioeconomic_Status: Low, Contribution: 1.0 (high risk due to socioeconomic factors)
+   - Drinks_Coffee: No, Contribution: 0 (neutral)
+   - Likes_Vegetables: Yes, Contribution: -0.5 (low risk due to healthy diet)
+   - Favourite_Sport: Gymnastics, Contribution: -0.5 (low risk due to physical activity)
+   - Votes: Sometimes, Contribution: 0 (neutral)
+   - Height_in_Inches: 66, Contribution: 0 (neutral, as height alone is not a direct risk factor without context)
+   - Has_Drivers_License: Yes, Contribution: 0 (neutral)
+   - Picks_Up_Litter: Always, Contribution: -0.2 (slightly low risk due to community engagement)
+   - Uses_Public_Transportation: Sometimes, Contribution: 0 (neutral)
+   - Donated_Blood: No, Contribution: 0 (neutral)
+   - Birthday_Month: January, Contribution: 0 (neutral, as birthday month alone is not a direct risk factor)
+
+3. The risk score calculation is based on the summation of individual risk factors, considering both physical health indicators (such as BMI, smoking, and family health history) and mental health indicators (such as depression symptoms and socioeconomic status), with adjustments for protective factors like employment, sleep, and healthy lifestyle choices. This approach logically integrates various aspects of an individual's life to estimate their hospitalization risk, reflecting the complex interplay of factors that influence health outcomes.

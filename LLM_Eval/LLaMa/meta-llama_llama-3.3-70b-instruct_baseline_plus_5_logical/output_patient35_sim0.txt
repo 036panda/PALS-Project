@@ -1,0 +1,23 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: 18, Contribution: -1.5 (lower risk due to younger age)
+   - BMI: 25.6, Contribution: 1.2 (higher risk due to overweight)
+   - Family_Health_History: Hypertension, Contribution: 1.0 (higher risk due to family history of hypertension)
+   - Current_Diagnosis: Bipolar, Contribution: 1.5 (higher risk due to mental health condition)
+   - Race: Hispanic, Contribution: 0 (no direct causal relationship established)
+   - Gender: Non-binary, Contribution: 0 (no direct causal relationship established)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (no direct causal relationship established)
+   - Weekly_Alcohol_Intake: 5, Contribution: 0.5 (moderate risk due to alcohol intake)
+   - Smoking: No, Contribution: -1.0 (lower risk due to not smoking)
+   - HAM-D: 0–6, Contribution: -1.0 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (lower risk due to no reported sadness or fatigue)
+   - Loss_of_Interest: No, Contribution: -0.5 (lower risk due to no reported loss of interest)
+   - Hours_of_Sleep: 5.7, Contribution: 0.5 (moderate risk due to slightly reduced sleep)
+   - Employment: Employed, Contribution: -0.5 (lower risk due to employment)
+   - Socioeconomic_Status: High, Contribution: -0.5 (lower risk due to high socioeconomic status)
+   - Drinks_Coffee: No, Contribution: 0 (no direct causal relationship established)
+   - Likes_Vegetables: No, Contribution: 0.2 (slightly higher risk due to not liking vegetables)
+   - Favourite_Sport: nan, Contribution: 0 (no information)
+   - Votes: Never, Contribution: 0 (no direct causal relationship established)
+   - Height_in_Inches: 59, Contribution: 0 (no direct causal relationship established)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering the individual's health conditions, lifestyle, and socioeconomic status. The score reflects a moderate risk level due to the presence of bipolar disorder, family history of hypertension, and some lifestyle factors, balanced by the individual's young age, employment, and high socioeconomic status.

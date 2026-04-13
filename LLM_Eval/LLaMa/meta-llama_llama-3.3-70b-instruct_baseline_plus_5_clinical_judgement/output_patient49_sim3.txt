@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 4.5
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 34, impact: -1.5 (lower risk due to relatively young age)
+   - BMI: 24.2, impact: -0.5 (lower risk due to normal BMI)
+   - Family_Health_History: nan, impact: 0 (no information, no impact)
+   - Current_Diagnosis: Bipolar, impact: 2.5 (higher risk due to mental health condition)
+   - Race: Hispanic, impact: 0 (no specific risk association)
+   - Gender: Female, impact: 0 (no specific risk association)
+   - Sexual_Orientation: Heterosexual, impact: 0 (no specific risk association)
+   - Weekly_Alcohol_Intake: 1, impact: -0.5 (lower risk due to minimal alcohol intake)
+   - Smoking: No, impact: -0.5 (lower risk due to non-smoking status)
+   - HAM-D: 0–6, impact: -1 (lower risk due to normal depression score)
+   - Been_Sad_or_Fatigued: Yes, impact: 1 (higher risk due to reported sadness or fatigue)
+   - Loss_of_Interest: No, impact: -0.5 (lower risk due to no loss of interest)
+   - Hours_of_Sleep: 8.3, impact: -0.5 (lower risk due to adequate sleep)
+   - Employment: Employed, impact: -0.5 (lower risk due to employment status)
+   - Socioeconomic_Status: Low, impact: 1.5 (higher risk due to low socioeconomic status)
+   - Drinks_Coffee: No, impact: 0 (no specific risk association)
+   - Likes_Vegetables: No, impact: 0 (no specific risk association)
+   - Favourite_Sport: Soccer, impact: 0 (no specific risk association)
+   - Votes: Sometimes, impact: 0 (no specific risk association)
+   - Height_in_Inches: 60, impact: 0 (no specific risk association)
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and low socioeconomic status, which increase their risk, but this is somewhat mitigated by their relatively young age, normal BMI, and absence of smoking or excessive alcohol intake. Overall, the patient's risk profile suggests a moderate risk of hospitalization due to their mental health condition and socioeconomic factors.

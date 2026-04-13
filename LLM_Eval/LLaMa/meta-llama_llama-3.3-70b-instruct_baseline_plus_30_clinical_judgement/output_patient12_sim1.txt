@@ -1,0 +1,14 @@
+1. Final Hospitalization Risk Score: 8.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 90: +4.5 (high risk due to increased vulnerability to health issues)
+   - BMI: 32.5: +2.1 (increased risk due to obesity-related health problems)
+   - Family_Health_History: Hypertension: +1.3 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Depression: +0.8 (increased risk due to mental health concerns, although HAM-D score is normal)
+   - Smoking: Yes: +2.5 (high risk due to smoking-related health issues)
+   - Weekly_Alcohol_Intake: 4: +0.5 (moderate risk due to potential health effects of alcohol consumption)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (reduced risk due to normal mental health assessment)
+   - Hours_of_Sleep: 7.4: -0.5 (reduced risk due to adequate sleep)
+   - Socioeconomic_Status: Middle: -0.2 (reduced risk due to access to resources)
+   - Been_Sad_or_Fatigued: No, Loss_of_Interest: No: -0.5 (reduced risk due to absence of depressive symptoms)
+   - Other attributes (e.g., Race, Gender, Sexual_Orientation, etc.): +0.2 (minor risk due to potential social determinants of health)
+3. The patient's advanced age, obesity, family history of hypertension, and smoking habits significantly increase their risk of hospitalization, while their normal mental health assessment, adequate sleep, and middle socioeconomic status slightly mitigate this risk. Overall, the patient's cumulative health risks and lifestyle factors contribute to a high hospitalization risk score.

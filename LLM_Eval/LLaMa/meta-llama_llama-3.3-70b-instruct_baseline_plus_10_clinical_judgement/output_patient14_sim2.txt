@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attribute impacts on risk:
+   - Age: 18, Impact: -1 (younger age generally associated with lower risk of hospitalization)
+   - BMI: 30.9, Impact: +2 (high BMI is a risk factor for various health issues)
+   - Family_Health_History: nan, Impact: 0 (no information available)
+   - Current_Diagnosis: Bipolar, Impact: +1 (mental health conditions can increase risk of hospitalization)
+   - Race: Other, Impact: 0 (no specific risk associated with this category)
+   - Gender: Non-binary, Impact: 0 (no specific risk associated with this category)
+   - Sexual_Orientation: Bisexual, Impact: 0 (no specific risk associated with this category)
+   - Weekly_Alcohol_Intake: 1, Impact: 0 (low alcohol intake, minimal impact)
+   - Smoking: No, Impact: -1 (not smoking reduces health risks)
+   - HAM-D: 0–6, Impact: -1 (normal score indicates no depression)
+   - Been_Sad_or_Fatigued: No, Impact: 0 (no recent sadness or fatigue)
+   - Loss_of_Interest: Yes, Impact: +1 (can be a symptom of depression or other conditions)
+   - Hours_of_Sleep: 9.7, Impact: 0 (sleep hours within a relatively normal range)
+   - Employment: Student, Impact: 0 (being a student does not directly increase hospitalization risk)
+   - Socioeconomic_Status: Middle, Impact: 0 (middle socioeconomic status, neutral impact)
+   - Drinks_Coffee: No, Impact: 0 (no coffee consumption, minimal impact)
+   - Likes_Vegetables: No, Impact: 0 (dietary preferences, minimal direct impact)
+   - Favourite_Sport: Soccer, Impact: 0 (physical activity, but specific sport choice minimal impact)
+   - Votes: Never, Impact: 0 (voting behavior, no direct health impact)
+   - Height_in_Inches: 62, Impact: 0 (height within a normal range for age)
+   - Has_Drivers_License: No, Impact: 0 (not having a driver's license, minimal direct impact)
+   - Picks_Up_Litter: Never, Impact: 0 (environmental behavior, no direct health impact)
+   - Uses_Public_Transportation: Never, Impact: 0 (transportation method, minimal direct impact)
+   - Donated_Blood: No, Impact: 0 (blood donation history, minimal impact)
+   - Birthday_Month: April, Impact: 0 (birth month, no known health impact)
+
+3. The patient's hospitalization risk is influenced by their high BMI and bipolar diagnosis, which are countered by their young age, lack of smoking, and normal depression score, leading to a moderate risk assessment. The presence of loss of interest, despite the absence of sadness or fatigue, also contributes to the overall risk, reflecting the complexity of their mental health status.

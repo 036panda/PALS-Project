@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attribute impacts on risk:
+   - Age: 18: -1.5 (young age generally associated with lower health risks)
+   - BMI: 25.6: 1.2 (slightly elevated BMI indicating potential for health issues)
+   - Family_Health_History: Hypertension: 1.5 (family history of hypertension increases risk)
+   - Current_Diagnosis: Bipolar: 2.0 (bipolar disorder can increase risk due to potential for severe episodes)
+   - Race: Hispanic: 0.5 (some studies suggest varying health risks among different ethnic groups, but impact is complex and multifactorial)
+   - Gender: Non-binary: 0 (no direct correlation with hospitalization risk, but social determinants may play a role)
+   - Sexual_Orientation: Heterosexual: 0 (no direct correlation with hospitalization risk)
+   - Weekly_Alcohol_Intake: 5: 0.8 (moderate alcohol intake can have both positive and negative effects, but in this context, it slightly increases risk)
+   - Smoking: No: -1.0 (not smoking reduces health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (absence of depressive symptoms reduces risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (absence of recent sad or fatigued feelings reduces risk)
+   - Loss_of_Interest: No: -0.5 (no loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7: 0.5 (slightly reduced sleep can increase health risks)
+   - Employment: Employed: -0.5 (being employed can reduce stress and increase access to healthcare)
+   - Socioeconomic_Status: High: -1.0 (higher socioeconomic status generally associated with better health outcomes)
+   - Drinks_Coffee: No: 0 (no direct significant impact on hospitalization risk)
+   - Likes_Vegetables: No: 0.2 (not liking vegetables may indicate less healthy diet, slightly increasing risk)
+   - Favourite_Sport: nan: 0 (no information, no impact)
+   - Votes: Never: 0 (voting behavior not directly correlated with health risks)
+   - Height_in_Inches: 59: 0 (height alone not a significant risk factor without context of weight or other health issues)
+   - Has_Drivers_License: No: 0 (having or not having a driver's license not directly correlated with health risks)
+   - Picks_Up_Litter: Never: 0 (environmental behavior not directly correlated with health risks)
+   - Uses_Public_Transportation: Never: 0 (use of public transportation not directly correlated with health risks)
+   - Donated_Blood: Yes: -0.5 (donating blood may indicate good health and willingness to engage in health-promoting behaviors)
+   - Birthday_Month: January: 0 (birthday month not correlated with health risks)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and family history of hypertension, which are significant health concerns, but their young age, absence of depressive symptoms, and high socioeconomic status mitigate this risk to some extent. Overall, the patient's risk profile suggests a need for monitoring and management of their bipolar disorder and potential health risks associated with their family history.

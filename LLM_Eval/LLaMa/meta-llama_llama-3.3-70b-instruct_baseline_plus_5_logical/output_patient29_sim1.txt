@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 22: -1.5 (young age generally associated with lower health risks)
+   - BMI: 35.9: 2.5 (high BMI associated with increased health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer may increase individual's risk)
+   - Current_Diagnosis: Anxiety: 1.0 (anxiety can contribute to overall health risk)
+   - Race: Hispanic: 0.5 (some studies suggest racial disparities in health outcomes, but this is complex and multifaceted)
+   - Gender: Female: 0.2 (gender can influence health risks, but the effect is generally small)
+   - Sexual_Orientation: Bisexual: 0.1 (minority stress may contribute to health risks, but data is limited)
+   - Weekly_Alcohol_Intake: 4: 0.8 (moderate alcohol intake can have mixed effects on health)
+   - Smoking: No: -1.0 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.5 (mild depression can increase health risks)
+   - Been_Sad_or_Fatigued: No: -0.5 (not experiencing sadness or fatigue reduces health risks)
+   - Loss_of_Interest: No: -0.5 (not experiencing loss of interest reduces health risks)
+   - Hours_of_Sleep: 5.7: 0.5 (inadequate sleep can increase health risks)
+   - Employment: Student: -0.8 (being a student may reduce health risks due to access to resources and support)
+   - Socioeconomic_Status: Middle: -0.2 (middle socioeconomic status may reduce health risks compared to lower status)
+   - Drinks_Coffee: No: 0.1 (not drinking coffee may slightly increase health risks due to potential protective effects of moderate coffee consumption)
+   - Likes_Vegetables: No: 0.3 (not liking vegetables may increase health risks due to potential for poorer diet)
+   - Favourite_Sport: Soccer: -0.2 (engaging in sports can reduce health risks)
+   - Votes: Sometimes: 0.1 (voting behavior is not directly related to health risks, but may reflect engagement in society)
+   - Height_in_Inches: 61: 0.1 (height can influence health risks, but the effect is generally small)
+3. The hospitalization risk score is calculated based on the individual's health and lifestyle factors, with higher scores indicating a greater risk of hospitalization due to the cumulative effect of factors such as high BMI, family history of cancer, and mild depression. The assigned contributions reflect the causal relationships between these factors and health outcomes, with positive contributions indicating an increased risk and negative contributions indicating a decreased risk.

@@ -1,0 +1,14 @@
+1. Risk Assessment Score: 6.2
+2. Parameters and their associated numerical risk values:
+	* Age: -0.5 (young age is associated with lower risk)
+	* BMI: 0.2 (slightly elevated BMI is associated with moderate risk)
+	* Family_Health_History: 1.0 (asthma is associated with increased risk)
+	* Current_Diagnosis: 2.0 (schizophrenia is associated with high risk)
+	* Smoking: 1.5 (smoking is associated with increased risk)
+	* HAM-D: 1.2 (moderate depression is associated with increased risk)
+	* Been_Sad_or_Fatigued: 0.5 (associated with increased risk)
+	* Loss_of_Interest: 0.5 (associated with increased risk)
+	* Socioeconomic_Status: -0.2 (middle socioeconomic status is associated with lower risk)
+	* Employment: -0.2 (being a student is associated with lower risk)
+	* All other parameters: 0 (no significant association with hospitalization risk)
+3. The patient's risk score is driven by their diagnosis of schizophrenia, moderate depression, and smoking habits, which are all associated with increased risk of hospitalization. Despite some mitigating factors, such as their young age and middle socioeconomic status, the patient's overall risk score is moderate to high.

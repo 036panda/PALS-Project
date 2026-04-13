@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 7.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (19): -1.5 (younger age generally associated with lower risk of hospitalization due to fewer comorbidities)
+   - BMI (17.6): 1.2 (underweight, which can be associated with higher health risks)
+   - Family_Health_History (Diabetes): 1.0 (increased risk due to potential for inherited health issues)
+   - Current_Diagnosis (Schizophrenia): 2.5 (significant impact due to the severity of the condition and potential for acute episodes)
+   - Race (White): 0 (neutral, as race alone does not directly increase or decrease hospitalization risk in this context)
+   - Gender (Non-binary): 0 (neutral, as gender identity alone does not directly impact hospitalization risk)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, as sexual orientation alone does not directly impact hospitalization risk)
+   - Weekly_Alcohol_Intake (3): 0.5 (moderate alcohol intake, which may have some negative health impacts but is not excessively high)
+   - Smoking (No): -1.0 (lower risk due to avoidance of smoking-related health issues)
+   - HAM-D (25+): 3.0 (severe depression significantly increases the risk of hospitalization)
+   - Been_Sad_or_Fatigued (No): -0.5 (lower risk as this symptom is not currently present)
+   - Loss_of_Interest (Yes): 1.0 (increased risk due to presence of depressive symptoms)
+   - Hours_of_Sleep (8.0): -0.5 (adequate sleep reduces health risks)
+   - Employment (Student): -0.5 (being a student may provide structure and support, reducing risk)
+   - Socioeconomic_Status (High): -1.0 (higher socioeconomic status often correlates with better access to healthcare and lower risk)
+   - Drinks_Coffee (No): 0 (neutral, as coffee consumption alone does not significantly impact hospitalization risk)
+   - Likes_Vegetables (No): 0.5 (not liking vegetables may indicate poorer dietary habits, increasing health risks)
+   - Favourite_Sport (nan): 0 (neutral, as lack of information does not impact the risk assessment)
+   - Votes (Never): 0 (neutral, as voting behavior does not directly impact health risks)
+   - Height_in_Inches (74): 0 (neutral, as height alone does not directly impact hospitalization risk)
+
+3. The patient's severe depression, schizophrenia diagnosis, and underweight status significantly increase the risk of hospitalization, necessitating close monitoring and comprehensive treatment. Despite some protective factors such as not smoking and being a student, the overall clinical picture suggests a high risk of hospitalization due to the severity of the patient's mental health conditions.

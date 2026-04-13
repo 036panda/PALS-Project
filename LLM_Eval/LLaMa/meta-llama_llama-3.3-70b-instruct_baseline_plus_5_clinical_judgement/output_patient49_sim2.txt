@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attribute impacts:
+   - Age (34): -1 (lower risk due to relatively young age)
+   - BMI (24.2): 0 (neutral, as it's within the normal range)
+   - Family_Health_History (nan): 0 (no impact due to missing data)
+   - Current_Diagnosis (Bipolar): +2 (increased risk due to mental health condition)
+   - Race (Hispanic): 0 (neutral, as race alone does not directly influence hospitalization risk in this context)
+   - Gender (Female): 0 (neutral, as gender alone does not directly influence hospitalization risk in this context)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, as sexual orientation does not directly influence hospitalization risk)
+   - Weekly_Alcohol_Intake (1): -1 (lower risk due to minimal alcohol consumption)
+   - Smoking (No): -1 (lower risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -1 (lower risk due to no signs of depression)
+   - Been_Sad_or_Fatigued (Yes): +1 (increased risk due to reported sadness or fatigue)
+   - Loss_of_Interest (No): 0 (neutral, as there's no reported loss of interest)
+   - Hours_of_Sleep (8.3): 0 (neutral, as sleep hours are within a normal range)
+   - Employment (Employed): -1 (lower risk due to stable employment)
+   - Socioeconomic_Status (Low): +1 (increased risk due to potential barriers to healthcare access)
+   - Drinks_Coffee (No): 0 (neutral, as coffee consumption does not directly influence hospitalization risk)
+   - Likes_Vegetables (No): 0 (neutral, as vegetable preference does not directly influence hospitalization risk)
+   - Favourite_Sport (Soccer): 0 (neutral, as sports preference does not directly influence hospitalization risk)
+   - Votes (Sometimes): 0 (neutral, as voting behavior does not directly influence hospitalization risk)
+   - Height_in_Inches (60): 0 (neutral, as height does not directly influence hospitalization risk)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and socioeconomic status, which increase their risk, but this is somewhat mitigated by their stable employment, minimal alcohol intake, and absence of smoking. Overall, the patient's risk profile suggests a moderate risk of hospitalization due to their mental health condition and socioeconomic challenges.

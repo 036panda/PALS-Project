@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (31): -1.0 (younger age generally associated with lower risk of hospitalization)
+   - BMI (29.7): 1.2 (high BMI indicating potential health issues)
+   - Family_Health_History (nan): 0.0 (no information available, no impact)
+   - Current_Diagnosis (Schizophrenia): 3.0 (serious mental health condition increasing risk)
+   - Race (White): 0.0 (race not a direct factor in this assessment)
+   - Gender (Female): 0.0 (gender not a direct factor in this assessment)
+   - Sexual_Orientation (Bisexual): 0.0 (sexual orientation not a direct factor in this assessment)
+   - Weekly_Alcohol_Intake (4): 0.5 (moderate alcohol intake, potential for increased risk)
+   - Smoking (No): -0.5 (not smoking reduces health risks)
+   - HAM-D (7–17: Mild Depression): 1.5 (presence of mild depression increases risk)
+   - Been_Sad_or_Fatigued (No): -0.5 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest (Yes): 1.0 (loss of interest can be a symptom of severe depression, increasing risk)
+   - Hours_of_Sleep (7.1): -0.2 (adequate sleep reduces risk)
+   - Employment (Employed): -0.5 (being employed generally reduces risk due to stability and access to healthcare)
+   - Socioeconomic_Status (Low): 1.0 (low socioeconomic status can increase risk due to barriers in accessing healthcare)
+
+3. The patient's hospitalization risk is elevated primarily due to the diagnosis of schizophrenia and symptoms of mild depression, including loss of interest, which are significant factors in mental health assessments. The patient's relatively stable employment status and absence of smoking help mitigate the risk, but the overall clinical picture suggests a need for close monitoring and potentially intensive intervention to prevent hospitalization.

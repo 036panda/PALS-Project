@@ -1,0 +1,14 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 40: 1.2 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 34.6: 1.5 (positive, as high BMI is linked to various health issues)
+   - Family_Health_History: Cancer: 1.0 (positive, due to potential genetic predispositions)
+   - Current_Diagnosis: Bipolar: 1.2 (positive, as mental health conditions can increase hospitalization risk)
+   - HAM-D: 7–17: Mild Depression: 0.8 (positive, indicating some level of depression)
+   - Loss_of_Interest: Yes: 0.5 (positive, as a symptom of depression)
+   - Weekly_Alcohol_Intake: 4: 0.3 (positive, as moderate alcohol consumption can have negative health effects)
+   - Hours_of_Sleep: 8.9: -0.2 (negative, as adequate sleep is beneficial for health)
+   - Employment: Employed: -0.5 (negative, as employment can provide stability and access to healthcare)
+   - Socioeconomic_Status: Middle: -0.2 (negative, as middle socioeconomic status may provide some access to healthcare resources)
+   - Drinks_Coffee: Yes: -0.1 (negative, as moderate coffee consumption may have health benefits)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic conditions, with each factor contributing positively or negatively to the overall risk score, reflecting their potential causal relationships with hospitalization risk. The score of 6.8 indicates a moderate risk level, primarily driven by the patient's health conditions, family history, and lifestyle factors.

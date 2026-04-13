@@ -1,0 +1,20 @@
+1. 4.2
+2. 
+- Age: 49: 0.5 (positive, as increasing age is associated with higher health risks)
+- BMI: 23.2: -0.2 (negative, as a BMI of 23.2 is within the normal range)
+- Family_Health_History: Asthma: 0.8 (positive, as a family history of asthma may indicate a genetic predisposition to respiratory issues)
+- Current_Diagnosis: Anxiety: 1.2 (positive, as anxiety can contribute to hospitalization risk)
+- Race: Hispanic: 0.1 (positive, acknowledging potential healthcare disparities)
+- Gender: Male: 0.1 (positive, as males may have higher risk for certain conditions)
+- Weekly_Alcohol_Intake: 4: 0.2 (positive, as moderate alcohol intake can still pose health risks)
+- Smoking: No: -0.5 (negative, as not smoking reduces health risks)
+- HAM-D: 0–6: Normal / No Depression: -0.8 (negative, indicating no current depressive symptoms)
+- Been_Sad_or_Fatigued: No: -0.2 (negative, suggesting no recent mental health issues)
+- Loss_of_Interest: Yes: 0.8 (positive, as loss of interest can be a symptom of underlying mental health issues)
+- Hours_of_Sleep: 9.4: -0.3 (negative, as adequate sleep reduces health risks)
+- Employment: Employed: -0.4 (negative, as employment can indicate stability and access to healthcare)
+- Socioeconomic_Status: High: -0.6 (negative, as higher socioeconomic status is associated with better health outcomes)
+- Drinks_Coffee: Yes: 0.1 (positive, as moderate coffee consumption may have negative health effects)
+- Likes_Vegetables: No: 0.2 (positive, as not liking vegetables may indicate a less healthy diet)
+- Other factors (Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels): 0 (neutral, as these factors do not have a clear, direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as age, family health history, current diagnosis, and lifestyle choices, which are assigned positive or negative contributions reflecting their causal relationships with health risks. The sum of these contributions yields a risk score of 4.2, indicating a moderate risk level.

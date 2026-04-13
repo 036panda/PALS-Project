@@ -1,0 +1,22 @@
+1. Risk Score: 6.8
+
+2. Input Factors and Contributions:
+   - Age: 64 (+1.2, older age increases health risks)
+   - BMI: 29.9 (+1.0, high BMI indicates potential health issues)
+   - Family_Health_History: Asthma (+0.8, genetic predisposition to respiratory issues)
+   - Current_Diagnosis: Depression (+2.0, significant mental health concern)
+   - Race: Native American (+0.5, certain health disparities)
+   - Gender: Male (+0.2, some health risks more prevalent in males)
+   - Weekly_Alcohol_Intake: 2 (-0.5, moderate alcohol consumption can have protective effects)
+   - Smoking: No (-1.0, not smoking reduces health risks)
+   - HAM-D: 18-24 (+1.5, moderate depression severity)
+   - Loss_of_Interest: Yes (+0.8, symptom of depression)
+   - Hours_of_Sleep: 6.4 (-0.2, relatively adequate sleep)
+   - Employment: Retired (-0.5, potential for less social interaction and physical activity)
+   - Socioeconomic_Status: Middle (-0.3, access to some healthcare resources)
+   - Drinks_Coffee: Yes (-0.2, potential for some health benefits)
+   - Likes_Vegetables: Yes (-0.2, healthier dietary habits)
+   - Allergy: Animal Dander (+0.3, potential for allergic reactions)
+   - Other factors not directly contributing to hospitalization risk due to lack of clear causal relationships: Sexual_Orientation, Gender, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Binge_Watches_TV, Favourite_Super_Store, Pet_Preference, Volunteers, Skips_Breakfast, Favourite_Movie_Genre, Registered_Organ_Donor.
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and potential health risks, considering both physical and mental health aspects. The score reflects the cumulative effect of factors such as age, BMI, family health history, and current diagnosis of depression, adjusted for protective factors like moderate alcohol intake and absence of smoking.

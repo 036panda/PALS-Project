@@ -1,0 +1,18 @@
+1. 6.3
+2. Input factors and their assigned contributions:
+   - Age: 42: 0.8 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 13.4: -1.2 (negative, as low BMI is associated with lower hospitalization risk, but this value is underweight and may indicate health issues)
+   - Family_Health_History: Diabetes: 1.5 (positive, as family history of diabetes increases risk)
+   - Current_Diagnosis: nan: 0 (neutral, as no current diagnosis is provided)
+   - Race: Native American: 0.5 (positive, as certain racial groups may have higher health risks due to socioeconomic and access factors)
+   - Gender: Other: 0 (neutral, as no specific risk association is provided for this category)
+   - Sexual_Orientation: Heterosexual: 0 (neutral, as no specific risk association is provided for this category)
+   - Weekly_Alcohol_Intake: 4: 0.2 (positive, as moderate alcohol intake may have some health implications)
+   - Smoking: No: -0.5 (negative, as not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.8 (positive, as mild depression can increase hospitalization risk)
+   - Been_Sad_or_Fatigued: No: -0.3 (negative, as not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: Yes: 1.2 (positive, as loss of interest can be a symptom of depression, increasing risk)
+   - Hours_of_Sleep: 5.0: 0.8 (positive, as insufficient sleep can increase health risks)
+   - Employment: Employed: -0.5 (negative, as being employed can reduce stress and increase access to healthcare)
+   - Socioeconomic_Status: Middle: -0.2 (negative, as middle socioeconomic status may provide better access to healthcare and reduce risk)
+3. The hospitalization risk score is calculated based on the individual's health and socioeconomic factors, with positive contributions from factors such as age, family health history, and mild depression, and negative contributions from factors such as low BMI, not smoking, and being employed. The score reflects the cumulative effect of these factors on the individual's risk of hospitalization.

@@ -1,0 +1,30 @@
+1. Risk Score: 4.2
+
+2. Input Factors and Contributions:
+   - Age: 20: -0.5 (younger age generally associated with lower health risks)
+   - BMI: 24.6: 0.5 (slightly above normal, indicating potential health risks)
+   - Family_Health_History: Cancer: 1.0 (increased risk due to family history of serious disease)
+   - Current_Diagnosis: Schizophrenia: 1.5 (serious mental health condition increasing risk)
+   - Race: Black: 0.2 (acknowledging health disparities, though this is a complex factor)
+   - Gender: Other: 0.0 (neutral, as not enough information to assign risk)
+   - Sexual_Orientation: Heterosexual: 0.0 (neutral, as sexual orientation itself isn't a direct health risk factor)
+   - Weekly_Alcohol_Intake: 6: 0.5 (moderate alcohol intake, potential health risks)
+   - Smoking: No: -0.5 (reduces health risks)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued: No: -0.2 (reduces risk)
+   - Loss_of_Interest: Yes: 0.8 (indicative of potential mental health issues)
+   - Hours_of_Sleep: 7.6: -0.2 (adequate sleep, reduces health risks)
+   - Employment: Student: -0.5 (generally, students have access to healthcare and support systems)
+   - Socioeconomic_Status: Low: 1.0 (increased health risks due to limited access to healthcare and resources)
+   - Drinks_Coffee: Yes: 0.0 (neutral, as moderate coffee consumption is not a significant risk factor)
+   - Likes_Vegetables: No: 0.2 (potential for less healthy diet)
+   - Favourite_Sport: Gymnastics: -0.5 (indicative of physical activity, reducing health risks)
+   - Votes: Sometimes: 0.0 (neutral, as voting frequency doesn't directly impact health)
+   - Height_in_Inches: 58: 0.0 (neutral, as height alone isn't a direct risk factor without context)
+   - Has_Drivers_License: No: 0.0 (neutral, as not having a driver's license doesn't directly impact health)
+   - Picks_Up_Litter: Always: -0.2 (indicative of community engagement and possibly better mental health)
+   - Uses_Public_Transportation: Never: 0.2 (potential for less physical activity or social interaction)
+   - Donated_Blood: Yes: -0.5 (indicative of good health and community engagement)
+   - Birthday_Month: April: 0.0 (neutral, as birth month doesn't directly impact health risks)
+
+3. The risk score calculation is based on assigning numerical values to each factor reflecting its potential to increase or decrease health risks, considering both physical and mental health aspects, and summing these values to obtain a total risk score. This approach logically combines various factors to estimate an individual's hospitalization risk, acknowledging the complexity and interplay of different health determinants.

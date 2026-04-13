@@ -1,0 +1,14 @@
+1. 8.2
+2. 
+- Age: 90: +3.5 (high age is a risk factor for hospitalization)
+- BMI: 32.5: +2.0 (high BMI is a risk factor for various health issues)
+- Family_Health_History: Hypertension: +1.2 (family history of hypertension increases risk)
+- Current_Diagnosis: Depression: +1.0 (despite HAM-D score indicating no depression, diagnosis is still a risk factor)
+- Smoking: Yes: +1.5 (smoking is a significant risk factor for many health issues)
+- Weekly_Alcohol_Intake: 4: +0.5 (moderate alcohol intake can be a risk factor)
+- HAM-D: 0–6: Normal / No Depression: -1.0 (low score indicates no current depression, reducing risk)
+- Hours_of_Sleep: 7.4: -0.5 (adequate sleep reduces risk)
+- Socioeconomic_Status: Middle: -0.2 (middle socioeconomic status slightly reduces risk compared to lower status)
+- Exercises: Yes: -0.8 (regular exercise reduces risk)
+- Other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and demographic characteristics, with a focus on factors that have a direct causal relationship to increased risk of hospitalization, such as age, BMI, family health history, smoking, and current diagnosis. The score reflects the cumulative effect of these factors, adjusted for mitigating factors like regular exercise and adequate sleep.

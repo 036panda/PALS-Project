@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 64, contribution: 2.5 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 21.6, contribution: -1.0 (negative, as a BMI within the normal range is associated with lower risk)
+   - Family_Health_History: Hypertension, contribution: 1.5 (positive, as a family history of hypertension increases cardiovascular risk)
+   - Current_Diagnosis: nan, contribution: 0 (neutral, as no current diagnosis is provided)
+   - Race: Native American, contribution: 0.5 (positive, as certain racial groups may face health disparities)
+   - Gender: Other, contribution: 0 (neutral, as no clear association with hospitalization risk)
+   - Sexual_Orientation: Heterosexual, contribution: 0 (neutral, as no clear association with hospitalization risk)
+   - Weekly_Alcohol_Intake: 2, contribution: -0.5 (negative, as moderate alcohol intake may have some health benefits)
+   - Smoking: Yes, contribution: 2.0 (positive, as smoking is a significant risk factor for various health issues)
+   - HAM-D: 0–6, contribution: -1.0 (negative, as no depression is associated with lower risk)
+   - Been_Sad_or_Fatigued: No, contribution: -0.5 (negative, as not experiencing sadness or fatigue is associated with lower risk)
+   - Loss_of_Interest: Yes, contribution: 1.0 (positive, as loss of interest may indicate underlying mental health issues)
+   - Hours_of_Sleep: 3.4, contribution: 1.5 (positive, as inadequate sleep is associated with higher risk)
+   - Employment: Retired, contribution: 0 (neutral, as retirement status has a complex relationship with health)
+   - Socioeconomic_Status: Low, contribution: 1.0 (positive, as lower socioeconomic status is associated with higher health risks)
+   - Drinks_Coffee: Yes, contribution: -0.5 (negative, as moderate coffee consumption may have some health benefits)
+   - Likes_Vegetables: No, contribution: 0.5 (positive, as not liking vegetables may indicate a less healthy diet)
+   - Favourite_Sport: Gymnastics, contribution: 0 (neutral, as no clear association with hospitalization risk)
+   - Votes: Sometimes, contribution: 0 (neutral, as voting behavior has no clear association with health risks)
+   - Height_in_Inches: 71, contribution: 0 (neutral, as height has no clear association with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's factors, with higher scores indicating a greater number of risk factors, such as smoking, family history of hypertension, and inadequate sleep, which are causally linked to increased hospitalization risk. The assigned contributions reflect the logical and causal relationships between these factors and hospitalization risk.

@@ -1,0 +1,13 @@
+1. Risk Assessment Score: 6.5
+2. Parameters and risk values:
+	* Age: -1.5 (young age reduces risk)
+	* BMI: -0.5 (normal BMI reduces risk)
+	* Family_Health_History: Cancer: +2 (family history of cancer increases risk)
+	* Current_Diagnosis: Anxiety: +1.5 (anxiety increases risk)
+	* Smoking: +2 (smoking increases risk)
+	* HAM-D: 25+: Severe Depression: +3 (severe depression increases risk)
+	* Weekly_Alcohol_Intake: 7: +1 (moderate alcohol intake increases risk)
+	* Socioeconomic_Status: Low: +1 (low socioeconomic status increases risk)
+	* Hours_of_Sleep: 6.3: +0.5 (inadequate sleep increases risk)
+	* Allergy: Gluten: +0.5 (allergy increases risk)
+3. The patient's risk score is driven by their severe depression, family history of cancer, smoking, and moderate alcohol intake, which are significant risk factors for hospitalization. Despite their young age and normal BMI, which reduce their risk, the cumulative effect of these factors results in a moderate to high risk assessment score.

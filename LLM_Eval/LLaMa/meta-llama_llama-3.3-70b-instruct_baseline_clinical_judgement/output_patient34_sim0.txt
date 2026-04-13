@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (19): -1.5 (younger age generally associated with lower risk of hospitalization)
+   - BMI (46.7): 2.5 (high BMI indicating obesity, which increases risk of various health issues)
+   - Family_Health_History (nan): 0 (no information available, so no impact)
+   - Current_Diagnosis (Anxiety): 1.2 (anxiety can increase risk of hospitalization due to potential for severe episodes or comorbid conditions)
+   - Race (Asian): 0 (race alone does not directly increase or decrease hospitalization risk in this context)
+   - Gender (Female): 0 (gender alone does not directly increase or decrease hospitalization risk in this context)
+   - Sexual_Orientation (Heterosexual): 0 (sexual orientation does not directly impact hospitalization risk)
+   - Weekly_Alcohol_Intake (0): -0.5 (no alcohol intake reduces risk of alcohol-related health issues)
+   - Smoking (Yes): 1.8 (smoking significantly increases risk of various health problems)
+   - HAM-D (0–6: Normal / No Depression): -1 (indicating no depression, which reduces risk)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (symptoms of sadness or fatigue can indicate underlying issues that may increase risk)
+   - Loss_of_Interest (Yes): 0.7 (loss of interest can be a symptom of depression or other conditions that increase hospitalization risk)
+   - Hours_of_Sleep (9.1): -0.2 (adequate sleep generally reduces health risks)
+   - Employment (Student): -0.5 (being a student may indicate a level of stability and access to resources, reducing risk)
+   - Socioeconomic_Status (Middle): 0 (middle socioeconomic status does not significantly increase or decrease risk in this context)
+
+3. The patient's high BMI and smoking status are significant risk factors for hospitalization due to their association with a range of serious health conditions, while the presence of anxiety and symptoms like sadness and loss of interest also contribute to the risk. However, the patient's young age, lack of alcohol intake, and stable employment as a student somewhat mitigate these risks.

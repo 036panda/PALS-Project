@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 8.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 68: +2.5 (increased risk due to age-related health decline)
+   - BMI: 29.7: +1.8 (increased risk due to obesity)
+   - Family_Health_History: Hypertension: +1.2 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Schizophrenia: +2.0 (increased risk due to severe mental health condition)
+   - HAM-D: 25+: Severe Depression: +3.0 (high risk due to severe depressive symptoms)
+   - Been_Sad_or_Fatigued: Yes: +0.8 (increased risk due to reported symptoms)
+   - Loss_of_Interest: Yes: +0.8 (increased risk due to reported symptoms)
+   - Smoking: Yes: +1.5 (increased risk due to smoking-related health issues)
+   - Weekly_Alcohol_Intake: 3: +0.2 (slightly increased risk due to moderate alcohol consumption)
+   - Socioeconomic_Status: Low: +1.0 (increased risk due to limited access to healthcare resources)
+   - Hours_of_Sleep: 7.7: -0.5 (slightly decreased risk due to adequate sleep)
+   - Other attributes (e.g., Race, Gender, Sexual_Orientation, Employment, etc.): +0.4 (minor increased risk due to potential social determinants of health)
+3. The patient's severe depression, schizophrenia, and hypertension family history significantly increase their hospitalization risk, while their low socioeconomic status and smoking habits further exacerbate this risk. The patient's overall health profile suggests a high likelihood of hospitalization due to the complexity and severity of their mental and physical health conditions.

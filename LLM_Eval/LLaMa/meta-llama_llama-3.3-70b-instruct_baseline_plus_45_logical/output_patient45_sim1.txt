@@ -1,0 +1,17 @@
+1. 4.2
+2. 
+- Age: 41: 0.2 (positive, as increasing age is associated with higher health risks)
+- BMI: 26.5: 0.5 (positive, as higher BMI is linked to increased health risks)
+- Family_Health_History: Diabetes: 1.0 (positive, due to increased risk of developing related conditions)
+- Current_Diagnosis: Depression: 1.5 (positive, as depression can lead to various health complications)
+- HAM-D: 0–6: Normal / No Depression: -1.0 (negative, indicating lower risk)
+- Loss_of_Interest: Yes: 0.8 (positive, as it can be a symptom of underlying health issues)
+- Hours_of_Sleep: 4.7: 0.7 (positive, as insufficient sleep is linked to health problems)
+- Socioeconomic_Status: High: -0.5 (negative, as higher socioeconomic status is generally associated with better health outcomes)
+- Weekly_Alcohol_Intake: 1: 0.1 (positive, as some alcohol consumption can have negative health effects)
+- Smoking: No: -0.2 (negative, as not smoking reduces health risks)
+- Been_Sad_or_Fatigued: No: -0.3 (negative, indicating lower risk)
+- Employment: Employed: -0.2 (negative, as employment can provide stability and access to healthcare)
+- Exercises: No: 0.4 (positive, as lack of exercise is associated with higher health risks)
+- Allergy: Penecillin: 0.2 (positive, as having an allergy can increase health risks)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and personal characteristics, with a focus on conditions and behaviors that have a direct causal relationship with increased health risks, such as family health history, current diagnosis, and lifestyle habits. The score reflects the cumulative effect of these factors, with positive contributions indicating increased risk and negative contributions indicating decreased risk.

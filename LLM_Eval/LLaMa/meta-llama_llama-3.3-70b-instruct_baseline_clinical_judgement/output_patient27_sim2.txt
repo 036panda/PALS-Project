@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (38): -1 (lower risk due to being in a relatively young adult age group)
+   - BMI (21.8): -1 (lower risk due to being within the normal weight range)
+   - Family_Health_History (Asthma): +1 (increased risk due to the presence of a chronic condition in the family)
+   - Current_Diagnosis (Anxiety): +1 (increased risk due to the presence of a mental health condition)
+   - Race (Black): 0 (no direct impact on hospitalization risk in this context)
+   - Gender (Non-binary): 0 (no direct impact on hospitalization risk in this context)
+   - Sexual_Orientation (Heterosexual): 0 (no direct impact on hospitalization risk in this context)
+   - Weekly_Alcohol_Intake (2): -1 (lower risk due to moderate alcohol consumption)
+   - Smoking (No): -1 (lower risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -1 (lower risk due to no indication of depression)
+   - Been_Sad_or_Fatigued (No): -1 (lower risk due to no recent symptoms of sadness or fatigue)
+   - Loss_of_Interest (No): -1 (lower risk due to no loss of interest in activities)
+   - Hours_of_Sleep (6.3): +1 (slightly increased risk due to sleep duration being on the lower end of normal)
+   - Employment (Employed): -1 (lower risk due to having stable employment)
+   - Socioeconomic_Status (High): -2 (lower risk due to higher socioeconomic status, which can provide better access to healthcare and resources)
+3. The patient's overall low risk for hospitalization is primarily due to their healthy lifestyle choices, stable employment, and high socioeconomic status, which mitigate the risks associated with their family health history of asthma and current diagnosis of anxiety. Despite these positive factors, the presence of anxiety and a family history of a chronic condition necessitate ongoing monitoring and management to prevent potential complications.

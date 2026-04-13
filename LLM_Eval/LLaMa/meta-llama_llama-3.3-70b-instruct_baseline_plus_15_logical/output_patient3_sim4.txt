@@ -1,0 +1,15 @@
+1. 6.8
+2. 
+- Age: 64, contribution: +2.5 (increased risk due to age-related health decline)
+- BMI: 29.9, contribution: +1.8 (increased risk due to obesity-related health issues)
+- Family_Health_History: Asthma, contribution: +0.5 (potential genetic predisposition to respiratory issues)
+- Current_Diagnosis: Depression, contribution: +2.0 (mental health condition increasing hospitalization risk)
+- HAM-D: 18-24, contribution: +1.2 (moderate depression severity)
+- Loss_of_Interest: Yes, contribution: +0.5 (indicator of depression severity)
+- Hours_of_Sleep: 6.4, contribution: -0.2 (relatively normal sleep pattern reducing risk)
+- Socioeconomic_Status: Middle, contribution: -0.5 (access to healthcare reducing risk)
+- Weekly_Alcohol_Intake: 2, contribution: -0.5 (low alcohol intake reducing risk)
+- Smoking: No, contribution: -1.0 (non-smoker reducing risk)
+- Water_Intake_oz: 44.4, contribution: -0.2 (adequate hydration reducing risk)
+- Other factors (Race, Gender, Sexual_Orientation, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal), contribution: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health conditions, lifestyle, and socioeconomic factors that have a direct causal relationship to hospitalization risk, with a focus on age, BMI, family health history, current diagnosis, and mental health indicators. The score reflects the cumulative effect of these factors, with positive contributions indicating increased risk and negative contributions indicating reduced risk.

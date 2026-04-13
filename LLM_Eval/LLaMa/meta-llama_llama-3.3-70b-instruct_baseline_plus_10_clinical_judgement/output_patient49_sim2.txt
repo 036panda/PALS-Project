@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attribute impacts:
+   - Age (34): -0.5 (lower risk due to relatively young age)
+   - BMI (24.2): -0.2 (slightly lower risk due to being within a healthy weight range)
+   - Family_Health_History (nan): 0 (no impact due to missing data)
+   - Current_Diagnosis (Bipolar): 2.0 (higher risk due to mental health condition)
+   - Race (Hispanic): 0.2 (slightly higher risk due to potential socioeconomic and access to care disparities)
+   - Gender (Female): 0.1 (slightly higher risk due to gender disparities in healthcare)
+   - Sexual_Orientation (Heterosexual): 0 (no impact)
+   - Weekly_Alcohol_Intake (1): -0.1 (lower risk due to minimal alcohol consumption)
+   - Smoking (No): -0.3 (lower risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -0.5 (lower risk due to no current depression symptoms)
+   - Been_Sad_or_Fatigued (Yes): 1.0 (higher risk due to recent emotional distress)
+   - Loss_of_Interest (No): 0 (no impact)
+   - Hours_of_Sleep (8.3): -0.2 (lower risk due to adequate sleep)
+   - Employment (Employed): -0.2 (lower risk due to stable employment)
+   - Socioeconomic_Status (Low): 1.2 (higher risk due to potential barriers to healthcare access)
+   - Drinks_Coffee (No): 0 (no impact)
+   - Likes_Vegetables (No): 0.1 (slightly higher risk due to potential for poor diet)
+   - Favourite_Sport (Soccer): 0 (no impact)
+   - Votes (Sometimes): 0 (no impact)
+   - Height_in_Inches (60): 0 (no impact)
+   - Has_Drivers_License (Yes): 0 (no impact)
+   - Picks_Up_Litter (Never): 0 (no impact)
+   - Uses_Public_Transportation (Always): 0.1 (slightly higher risk due to potential exposure to infections)
+   - Donated_Blood (No): 0 (no impact)
+   - Birthday_Month (November): 0 (no impact)
+
+3. The patient's hospitalization risk is influenced significantly by their bipolar diagnosis and recent feelings of sadness or fatigue, which are countered by their stable employment, minimal alcohol intake, and absence of smoking. The socioeconomic status and potential disparities in healthcare access also play a crucial role in elevating the risk, reflecting the complex interplay between mental health, lifestyle, and socioeconomic factors.

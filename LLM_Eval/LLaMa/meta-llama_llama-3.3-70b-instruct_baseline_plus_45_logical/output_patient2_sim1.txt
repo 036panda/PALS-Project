@@ -1,0 +1,14 @@
+1. 7.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 40: 1.2 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 34.6: 2.1 (positive, as high BMI is associated with higher hospitalization risk)
+   - Family_Health_History: Cancer: 1.5 (positive, as family history of cancer increases hospitalization risk)
+   - Current_Diagnosis: Bipolar: 2.5 (positive, as bipolar disorder increases hospitalization risk)
+   - Weekly_Alcohol_Intake: 4: 0.8 (positive, as moderate alcohol intake may increase hospitalization risk)
+   - HAM-D: 7–17: Mild Depression: 1.8 (positive, as mild depression increases hospitalization risk)
+   - Loss_of_Interest: Yes: 1.2 (positive, as loss of interest is a symptom of depression)
+   - Hours_of_Sleep: 8.9: -0.5 (negative, as adequate sleep decreases hospitalization risk)
+   - Socioeconomic_Status: Middle: -0.2 (negative, as middle socioeconomic status decreases hospitalization risk)
+   - Exercises: No: 1.1 (positive, as lack of exercise increases hospitalization risk)
+   - Other factors: 0 (no significant contribution to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, family history, and lifestyle factors, which are known to contribute to the risk of hospitalization. The assigned numerical contributions reflect the causal relationships between these factors and hospitalization risk, with positive contributions indicating increased risk and negative contributions indicating decreased risk.

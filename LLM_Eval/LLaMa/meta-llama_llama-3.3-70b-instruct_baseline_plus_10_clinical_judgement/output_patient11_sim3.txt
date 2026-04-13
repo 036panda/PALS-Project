@@ -1,0 +1,13 @@
+1. Final Hospitalization Risk Score: 6.4
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 31, impact: -0.5 (younger age generally associated with lower risk)
+   - BMI: 29.7, impact: 1.2 (high BMI associated with increased health risks)
+   - Current_Diagnosis: Schizophrenia, impact: 2.5 (serious mental health condition increasing risk)
+   - HAM-D: 7–17, impact: 1.5 (mild depression contributing to risk)
+   - Loss_of_Interest: Yes, impact: 1.0 (indicator of depressive symptoms)
+   - Socioeconomic_Status: Low, impact: 1.2 (lower socioeconomic status associated with increased health risks)
+   - Weekly_Alcohol_Intake: 4, impact: 0.5 (moderate alcohol intake contributing slightly to risk)
+   - Hours_of_Sleep: 7.1, impact: -0.5 (adequate sleep generally associated with lower risk)
+   - Employment: Employed, impact: -0.5 (employment generally associated with stability and lower risk)
+   - Other attributes (Family_Health_History: nan, Race: White, Gender: Female, Sexual_Orientation: Bisexual, Smoking: No, Drinks_Coffee: No, Likes_Vegetables: No, Favourite_Sport: nan, Votes: Always, Height_in_Inches: 71, Has_Drivers_License: Yes, Picks_Up_Litter: Sometimes, Uses_Public_Transportation: Always, Donated_Blood: No, Birthday_Month: April): 0 (no significant direct impact on hospitalization risk)
+3. The patient's hospitalization risk is elevated due to the presence of schizophrenia and mild depression, compounded by socioeconomic factors and a high BMI. The overall risk assessment reflects a balance between these risk factors and the patient's stable employment and adequate sleep patterns.

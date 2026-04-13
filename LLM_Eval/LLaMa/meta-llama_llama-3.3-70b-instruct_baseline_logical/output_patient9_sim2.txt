@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 35, contribution: 0.5 (moderate positive contribution due to increased risk with age, though still relatively young)
+   - BMI: 26.8, contribution: 1.2 (positive contribution due to being overweight)
+   - Family_Health_History: nan, contribution: 0 (no information, thus no contribution)
+   - Current_Diagnosis: Bipolar, contribution: 2.5 (significant positive contribution due to severe mental health condition)
+   - Race: Asian, contribution: 0 (no direct causal link to hospitalization risk established)
+   - Gender: Male, contribution: 0.2 (slight positive contribution due to generally higher health risks in males)
+   - Sexual_Orientation: Heterosexual, contribution: 0 (no direct causal link to hospitalization risk established)
+   - Weekly_Alcohol_Intake: 4, contribution: 0.8 (moderate positive contribution due to potential health impacts)
+   - Smoking: No, contribution: -0.5 (negative contribution due to reduced health risk)
+   - HAM-D: 7–17, contribution: 1.5 (positive contribution indicating mild depression)
+   - Been_Sad_or_Fatigued: Yes, contribution: 1 (positive contribution due to mental health impact)
+   - Loss_of_Interest: No, contribution: 0 (no contribution as it's not present)
+   - Hours_of_Sleep: 5.3, contribution: 0.6 (positive contribution due to insufficient sleep)
+   - Employment: Employed, contribution: -0.5 (negative contribution due to stability and access to healthcare)
+   - Socioeconomic_Status: Middle, contribution: -0.2 (slight negative contribution due to relatively stable socioeconomic position)
+3. The hospitalization risk score is calculated based on the individual's health conditions, lifestyle, and socioeconomic factors, with significant contributions from the bipolar diagnosis, mild depression, and lifestyle factors such as alcohol intake and sleep hours. The score reflects the cumulative impact of these factors on the individual's health risk, considering both positive and negative contributions to provide a comprehensive assessment.

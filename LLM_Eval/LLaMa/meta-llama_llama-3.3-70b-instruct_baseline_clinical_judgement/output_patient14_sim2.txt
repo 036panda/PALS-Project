@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attribute impacts:
+   - Age (18): -1 (younger age generally associated with lower risk of hospitalization due to bipolar disorder)
+   - BMI (30.9): +1 (obesity can increase health risks, potentially complicating bipolar management)
+   - Family_Health_History (nan): 0 (no information available to assess impact)
+   - Current_Diagnosis (Bipolar): +2 (bipolar disorder itself carries a significant risk of hospitalization due to potential for severe episodes)
+   - Race (Other): 0 (insufficient data to determine specific risk associated with this category)
+   - Gender (Non-binary): 0 (no clear evidence to suggest increased risk of hospitalization based on gender identity)
+   - Sexual_Orientation (Bisexual): 0 (no clear evidence to suggest increased risk of hospitalization based on sexual orientation)
+   - Weekly_Alcohol_Intake (1): -1 (low alcohol intake suggests lower risk of alcohol-related complications)
+   - Smoking (No): -1 (not smoking reduces risk of smoking-related health issues)
+   - HAM-D (0–6: Normal / No Depression): -1 (low depression score indicates lower risk of hospitalization for depressive episodes)
+   - Been_Sad_or_Fatigued (No): -1 (absence of recent sadness or fatigue suggests lower risk of immediate hospitalization)
+   - Loss_of_Interest (Yes): +2 (loss of interest can be a significant symptom of bipolar disorder, increasing risk of hospitalization)
+   - Hours_of_Sleep (9.7): 0 (sleep hours are within a relatively normal range, not significantly impacting risk)
+   - Employment (Student): 0 (being a student may have varying impacts on mental health, but is not directly indicative of hospitalization risk)
+   - Socioeconomic_Status (Middle): 0 (middle socioeconomic status may provide access to healthcare resources, but its impact on hospitalization risk is neutral without further context)
+
+3. The patient's hospitalization risk is primarily driven by the diagnosis of bipolar disorder and the presence of loss of interest, a symptom that can indicate a need for close monitoring or intervention. Despite these factors, the patient's low depression score, absence of recent sadness or fatigue, and healthy behaviors such as not smoking and low alcohol intake mitigate the overall risk.

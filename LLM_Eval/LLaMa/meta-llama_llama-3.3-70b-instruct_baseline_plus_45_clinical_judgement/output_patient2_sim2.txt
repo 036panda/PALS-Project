@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Detailed breakdown:
+   - Age: 40, impact: 0.5 (moderate age, slightly increased risk)
+   - BMI: 34.6, impact: 1.2 (obese, increased risk of chronic conditions)
+   - Family_Health_History: Cancer, impact: 1.0 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Bipolar, impact: 1.5 (significant mental health condition, increased risk)
+   - HAM-D: 7–17, impact: 0.8 (mild depression, moderate risk)
+   - Loss_of_Interest: Yes, impact: 0.5 (symptom of depression, increased risk)
+   - Weekly_Alcohol_Intake: 4, impact: 0.2 (moderate alcohol intake, slight risk)
+   - Smoking: No, impact: -0.5 (reduced risk due to non-smoking status)
+   - Hours_of_Sleep: 8.9, impact: -0.3 (adequate sleep, reduced risk)
+   - Employment: Employed, impact: -0.5 (stable employment, reduced risk)
+   - Socioeconomic_Status: Middle, impact: -0.2 (middle socioeconomic status, slight reduced risk)
+   - Exercises: No, impact: 0.5 (lack of physical activity, increased risk)
+   - Water_Intake_oz: 42.6, impact: -0.1 (adequate hydration, slight reduced risk)
+   - Other attributes (e.g., race, gender, sexual orientation, etc.): 0.0 (no significant impact on hospitalization risk)
+   Total impact: 6.2
+3. The patient's hospitalization risk is elevated due to their bipolar diagnosis, family history of cancer, and obesity, which increase their likelihood of developing chronic conditions or experiencing mental health crises. A comprehensive treatment plan addressing these factors is essential to mitigate the patient's hospitalization risk.

@@ -1,0 +1,14 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 62: 2.5 (positive contribution due to increased risk with age)
+   - BMI: 33.4: 1.8 (positive contribution due to increased risk associated with high BMI)
+   - Current_Diagnosis: Depression: 1.2 (positive contribution due to increased risk associated with depression)
+   - Been_Sad_or_Fatigued: Yes: 0.5 (positive contribution due to increased risk associated with symptoms of depression)
+   - Loss_of_Interest: Yes: 0.5 (positive contribution due to increased risk associated with symptoms of depression)
+   - Hours_of_Sleep: 6.7: -0.2 (negative contribution due to relatively normal sleep hours)
+   - Socioeconomic_Status: Low: 1.0 (positive contribution due to increased risk associated with low socioeconomic status)
+   - Weekly_Alcohol_Intake: 1: -0.5 (negative contribution due to low alcohol intake)
+   - Smoking: No: -0.5 (negative contribution due to decreased risk associated with not smoking)
+   - HAM-D: 7–17: Mild Depression: 1.0 (positive contribution due to increased risk associated with mild depression)
+   - Other factors (Family_Health_History: nan, Race: White, Gender: Male, Sexual_Orientation: Bisexual, Employment: Retired, Drinks_Coffee: Yes, Likes_Vegetables: Yes, Favourite_Sport: Soccer, Votes: Sometimes, Height_in_Inches: 61): 0 (neutral contribution due to lack of direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, socioeconomic factors, and behavioral habits, with a focus on the positive contributions of age, BMI, depression diagnosis, and low socioeconomic status, as well as the negative contributions of low alcohol intake and not smoking. The score reflects the logical and causal relationships between these factors and the risk of hospitalization, without assuming any baseline or population-level risk.

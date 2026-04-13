@@ -1,0 +1,17 @@
+1. Risk Assessment Score: 6.2
+2. Parameters and risk values:
+	* Age: 42: 0.5
+	* BMI: 26.4: 1.2 (high BMI increases risk)
+	* Family_Health_History: Cancer: 1.5 (family history of cancer increases risk)
+	* Current_Diagnosis: Anxiety: 1.0 (anxiety increases risk)
+	* HAM-D: 7-17: Mild Depression: 1.0 (mild depression increases risk)
+	* Been_Sad_or_Fatigued: Yes: 0.5 (sadness and fatigue increase risk)
+	* Loss_of_Interest: Yes: 0.5 (loss of interest increases risk)
+	* Weekly_Alcohol_Intake: 4: 0.2 (moderate alcohol intake increases risk)
+	* Socioeconomic_Status: Middle: -0.5 (middle socioeconomic status decreases risk)
+	* Employment: Employed: -0.5 (employment decreases risk)
+	* Hours_of_Sleep: 10.2: -0.2 (adequate sleep decreases risk)
+	* Water_Intake_oz: 44.7: -0.2 (adequate water intake decreases risk)
+	* Bilingual: Yes: -0.2 (bilingualism decreases risk)
+	* Relationship_Status: Dating: -0.2 (being in a relationship decreases risk)
+3. The patient's risk score is moderate due to their family history of cancer, anxiety, mild depression, and moderate alcohol intake, which are offset by their employment, middle socioeconomic status, and healthy habits such as adequate sleep and water intake. The patient's overall risk is increased by their health conditions and behaviors, but decreased by their social and economic stability.

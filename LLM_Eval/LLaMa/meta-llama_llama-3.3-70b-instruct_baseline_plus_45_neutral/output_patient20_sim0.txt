@@ -1,0 +1,14 @@
+1. Risk Assessment Score: 6
+2. Parameters and risk values:
+	* Age: -1 (young age is associated with lower risk)
+	* BMI: 1 (BMI of 25.1 is considered overweight, increasing risk)
+	* Current_Diagnosis: 2 (schizophrenia is a serious mental health condition)
+	* Weekly_Alcohol_Intake: 1 (moderate alcohol intake may increase risk)
+	* HAM-D: 1 (mild depression increases risk)
+	* Been_Sad_or_Fatigued: 1 (recent feelings of sadness or fatigue increase risk)
+	* Hours_of_Sleep: -1 (10.3 hours of sleep is considered adequate, reducing risk)
+	* Socioeconomic_Status: -1 (middle socioeconomic status is associated with lower risk)
+	* Exercises: 1 (lack of exercise increases risk)
+	* Allergy: 1 (presence of allergy increases risk)
+	* Orders_Takeout: 1 (daily takeout orders may increase risk due to unhealthy diet)
+3. The patient's risk score is driven by their schizophrenia diagnosis, mild depression, and lifestyle factors such as moderate alcohol intake and lack of exercise, which contribute to a moderate risk of hospitalization. However, their young age, adequate sleep, and middle socioeconomic status help mitigate this risk to some extent.

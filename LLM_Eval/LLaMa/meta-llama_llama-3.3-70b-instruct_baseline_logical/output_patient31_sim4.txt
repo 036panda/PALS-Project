@@ -1,0 +1,18 @@
+1. Risk Score: 7.8
+2. Input Factors and Contributions:
+   - Age (36): +0.5 (moderate positive contribution due to increasing risk with age, though still relatively young)
+   - BMI (36.8): +2.0 (high positive contribution due to obesity increasing health risks)
+   - Family_Health_History (Hypertension): +1.5 (positive contribution due to genetic predisposition to cardiovascular diseases)
+   - Current_Diagnosis (nan): 0 (no contribution due to lack of information)
+   - Race (Black): +0.8 (positive contribution due to higher risk of certain health conditions in this demographic)
+   - Gender (Non-binary): 0 (neutral, as there's no direct causal link to hospitalization risk without further context)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, as sexual orientation does not directly contribute to hospitalization risk)
+   - Weekly_Alcohol_Intake (7): +1.2 (positive contribution due to increased health risks associated with alcohol consumption)
+   - Smoking (Yes): +2.5 (high positive contribution due to significant health risks associated with smoking)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (negative contribution due to lower risk of mental health-related hospitalization)
+   - Been_Sad_or_Fatigued (Yes): +0.8 (positive contribution due to potential mental health implications)
+   - Loss_of_Interest (Yes): +0.8 (positive contribution due to potential mental health implications)
+   - Hours_of_Sleep (5.7): +0.5 (moderate positive contribution due to sleep deprivation increasing health risks)
+   - Employment (Employed): -0.5 (negative contribution due to stability and access to healthcare)
+   - Socioeconomic_Status (Middle): 0 (neutral, as being in the middle class does not significantly increase or decrease risk without further context)
+3. The risk score calculation is based on the cumulative effect of individual risk factors, considering both physiological and psychological health indicators, as well as lifestyle and demographic factors that have established causal relationships with increased risk of hospitalization. The score reflects a balance between the positive contributions of risk factors like obesity, smoking, and family health history, and the negative contributions of factors like employment status and lack of depression.

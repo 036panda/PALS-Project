@@ -1,0 +1,14 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (49): 1.5 (increased risk due to age-related health decline)
+   - BMI (29.7): 1.2 (increased risk due to overweight status)
+   - Current_Diagnosis (Bipolar): 2.0 (significant increased risk due to mental health condition)
+   - Loss_of_Interest (Yes): 1.0 (increased risk due to symptom of depression)
+   - Hours_of_Sleep (5.8): 0.5 (slightly increased risk due to inadequate sleep)
+   - Socioeconomic_Status (Middle): -0.5 (decreased risk due to stable socioeconomic status)
+   - Weekly_Alcohol_Intake (2): -0.5 (decreased risk due to moderate alcohol consumption)
+   - HAM-D (7–17: Mild Depression): 1.5 (increased risk due to presence of mild depression)
+   - Other attributes (including Family_Health_History: nan, which is not considered due to missing data): 0 (no impact due to lack of information or neutral effect)
+
+3. The patient's hospitalization risk is elevated primarily due to her bipolar diagnosis and symptoms of depression, including loss of interest, which are significant risk factors for mental health decompensation. The patient's overall risk is further influenced by her age, BMI, and sleep patterns, but somewhat mitigated by her stable socioeconomic status and moderate alcohol intake.

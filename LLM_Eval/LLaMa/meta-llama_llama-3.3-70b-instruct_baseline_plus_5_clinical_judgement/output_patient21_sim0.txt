@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (42): +0.5 (moderate risk due to increasing age)
+   - BMI (26.4): +1.2 (high risk due to overweight status)
+   - Family_Health_History (Cancer): +1.5 (high risk due to family history of cancer)
+   - Current_Diagnosis (Anxiety): +1.8 (high risk due to mental health condition)
+   - Race (Native American): +0.8 (moderate risk due to health disparities)
+   - Gender (Non-binary): +0.2 (low risk, but consideration for potential healthcare access barriers)
+   - Sexual_Orientation (Heterosexual): 0 (neutral impact)
+   - Weekly_Alcohol_Intake (4): +0.5 (low to moderate risk due to alcohol consumption)
+   - Smoking (No): -0.5 (reduced risk due to non-smoking status)
+   - HAM-D (7–17: Mild Depression): +2.0 (high risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): +1.0 (moderate risk due to reported symptoms)
+   - Loss_of_Interest (Yes): +1.2 (high risk due to reported symptoms)
+   - Hours_of_Sleep (10.2): -0.5 (reduced risk due to adequate sleep)
+   - Employment (Employed): -0.5 (reduced risk due to stable employment)
+   - Socioeconomic_Status (Middle): -0.2 (low risk, but consideration for access to healthcare)
+   - Drinks_Coffee (No): 0 (neutral impact)
+   - Likes_Vegetables (Yes): -0.5 (reduced risk due to healthy dietary habits)
+   - Favourite_Sport (nan): 0 (neutral impact, due to missing data)
+   - Votes (Sometimes): 0 (neutral impact, as voting behavior is not directly related to health risk)
+   - Height_in_Inches (63): 0 (neutral impact, as height alone is not a significant risk factor without context)
+
+3. The patient's hospitalization risk is elevated primarily due to their mental health conditions, including anxiety and mild depression, compounded by a family history of cancer and being overweight. The presence of depressive symptoms such as sadness, fatigue, and loss of interest significantly contributes to the risk, while factors like stable employment and healthy dietary habits somewhat mitigate this risk.

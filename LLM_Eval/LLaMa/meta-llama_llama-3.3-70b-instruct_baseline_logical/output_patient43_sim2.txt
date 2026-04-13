@@ -1,0 +1,18 @@
+1. 4.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 20, contribution: -1.5 (younger age generally associated with lower risk)
+   - BMI: 21.0, contribution: -0.5 (normal BMI, lower risk)
+   - Family_Health_History: Cancer, contribution: 1.2 (family history of cancer may increase risk)
+   - Current_Diagnosis: Bipolar, contribution: 2.0 (bipolar diagnosis increases risk)
+   - Race: Black, contribution: 0.5 (racial disparities in healthcare access and outcomes)
+   - Gender: Male, contribution: 0.2 (gender differences in health outcomes)
+   - Sexual_Orientation: Heterosexual, contribution: 0 (no increased risk associated with heterosexual orientation)
+   - Weekly_Alcohol_Intake: 0, contribution: -0.5 (no alcohol intake, lower risk)
+   - Smoking: No, contribution: -0.5 (not smoking, lower risk)
+   - HAM-D: 7–17, contribution: 1.0 (mild depression, increased risk)
+   - Been_Sad_or_Fatigued: No, contribution: 0 (no recent sad or fatigued feelings, no increased risk)
+   - Loss_of_Interest: No, contribution: 0 (no loss of interest, no increased risk)
+   - Hours_of_Sleep: 5.7, contribution: 0.5 (inadequate sleep, increased risk)
+   - Employment: Student, contribution: -0.5 (student status, potentially lower risk due to access to resources)
+   - Socioeconomic_Status: Low, contribution: 1.5 (low socioeconomic status, increased risk due to limited access to resources)
+3. The hospitalization risk score is calculated based on the individual's specific characteristics, diagnoses, and behaviors, with each factor contributing to the overall risk score through its unique causal relationship with hospitalization risk. The score of 4.8 reflects the cumulative effect of these factors, with the bipolar diagnosis, family history of cancer, and low socioeconomic status being the primary drivers of the risk score.

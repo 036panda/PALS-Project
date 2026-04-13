@@ -1,0 +1,17 @@
+1. 4.2
+2. Input factors and their assigned contributions:
+   - Age: -0.5 (younger age generally associated with lower risk)
+   - BMI: 0.5 (BMI of 25.9 indicates overweight, contributing to higher risk)
+   - Current_Diagnosis: Anxiety: 1.0 (anxiety can increase hospitalization risk)
+   - Weekly_Alcohol_Intake: 0.5 (moderate alcohol intake may contribute to health issues)
+   - Been_Sad_or_Fatigued: 0.5 (indicative of potential mental health concerns)
+   - Loss_of_Interest: 0.5 (symptom of depression, increasing risk)
+   - Hours_of_Sleep: 0.7 (less than average sleep, potentially impacting health)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (low depression score reduces risk)
+   - Employment: Employed: -0.5 (employment generally associated with better health outcomes)
+   - Socioeconomic_Status: Middle: 0 (neutral impact)
+   - Water_Intake_oz: 0.1 (adequate hydration, slightly reducing risk)
+   - Allergy: Animal Dander: 0.2 (presence of allergy, minor increase in risk)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - Other factors not directly contributing to hospitalization risk due to lack of clear causal relationships or insufficient information: Family_Health_History, Race, Gender, Sexual_Orientation, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Binge_Watches_TV, Favourite_Super_Store, Pet_Preference, Volunteers, Skips_Breakfast, Favourite_Movie_Genre, Registered_Organ_Donor
+3. The hospitalization risk score is calculated based on factors with clear causal relationships to health outcomes, such as BMI, alcohol intake, and symptoms of mental health concerns, while considering the mitigating effects of employment and adequate sleep. The score reflects a balance of these factors, without assuming baseline or population-level risks, to provide an individualized assessment.

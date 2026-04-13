@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 8.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 90: +4.5 (high risk due to increased vulnerability to health issues)
+   - BMI: 32.5: +2.0 (obesity increases risk of various health complications)
+   - Family_Health_History: Hypertension: +1.2 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Depression: +0.5 (despite HAM-D score indicating no depression, diagnosis still poses some risk)
+   - Race: Hispanic: +0.3 (some studies suggest increased risk for certain health issues in Hispanic populations)
+   - Gender: Non-binary: +0.1 (potential for increased risk due to social determinants of health)
+   - Sexual_Orientation: Heterosexual: 0 (no significant impact)
+   - Weekly_Alcohol_Intake: 4: -0.2 (moderate alcohol intake may have some protective effects)
+   - Smoking: Yes: +2.5 (significant increase in risk due to smoking-related health issues)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (low score indicates low risk of depression-related hospitalization)
+   - Been_Sad_or_Fatigued: No: -0.2 (reduces risk of mental health-related issues)
+   - Loss_of_Interest: No: -0.2 (reduces risk of mental health-related issues)
+   - Hours_of_Sleep: 7.4: -0.1 (adequate sleep reduces health risks)
+   - Employment: Retired: 0 (no significant impact)
+   - Socioeconomic_Status: Middle: 0 (no significant impact)
+   - Drinks_Coffee: Yes: -0.1 (moderate coffee consumption may have some health benefits)
+   - Likes_Vegetables: No: +0.5 (lack of vegetable consumption increases health risks)
+   - Favourite_Sport: Hockey: 0 (no significant impact)
+   - Votes: Sometimes: 0 (no significant impact)
+   - Height_in_Inches: 71: 0 (no significant impact)
+   - Has_Drivers_License: No: +0.2 (potential for reduced mobility and increased isolation)
+   - Picks_Up_Litter: Never: +0.1 (lack of community engagement may indicate social isolation)
+   - Uses_Public_Transportation: Never: +0.2 (reduced mobility and potential for isolation)
+   - Donated_Blood: Yes: -0.1 (indicates some level of health and community engagement)
+   - Birthday_Month: March: 0 (no significant impact)
+
+3. The high hospitalization risk score is primarily driven by the patient's advanced age, obesity, smoking status, and family history of hypertension, which collectively increase the likelihood of developing serious health complications. Despite some protective factors such as moderate alcohol intake and adequate sleep, the cumulative effect of the risk factors outweighs these benefits, necessitating close monitoring and preventive care.

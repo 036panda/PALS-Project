@@ -1,0 +1,23 @@
+1. 2.8
+2. Input factors and their assigned contributions:
+   - Age: -1.5 (young age generally reduces health risks)
+   - BMI: -0.5 (BMI within normal range reduces health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer increases risk)
+   - Current_Diagnosis: nan: 0 (no current diagnosis, neutral effect)
+   - Race: White: 0 (race not a direct causal factor in this calculation)
+   - Gender: Non-binary: 0 (gender not a direct causal factor in this calculation)
+   - Sexual_Orientation: Heterosexual: 0 (sexual orientation not a direct causal factor)
+   - Weekly_Alcohol_Intake: 3: 0.5 (moderate alcohol intake may increase health risks)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.0 (mild depression increases health risks)
+   - Been_Sad_or_Fatigued: No: -0.2 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.2 (not experiencing loss of interest reduces risk)
+   - Hours_of_Sleep: 9.6: -0.3 (adequate sleep reduces health risks)
+   - Employment: Employed: -0.5 (being employed generally reduces health risks)
+   - Socioeconomic_Status: Middle: -0.2 (middle socioeconomic status reduces health risks compared to lower status)
+   - Drinks_Coffee: No: 0 (coffee consumption not a direct causal factor in this calculation)
+   - Likes_Vegetables: Yes: -0.2 (liking vegetables may indicate healthier diet and reduce risks)
+   - Favourite_Sport: Soccer: 0 (favourite sport not a direct causal factor)
+   - Votes: Always: 0 (voting habits not a direct causal factor in health risks)
+   - Height_in_Inches: 69: 0 (height not a direct causal factor in this calculation)
+3. The hospitalization risk score is calculated based on the individual's health and lifestyle factors, with a focus on those that have a direct causal relationship with increased health risks, such as family history of cancer, mild depression, and moderate alcohol intake. The score reflects the cumulative effect of these factors, with a lower score indicating a lower risk of hospitalization.

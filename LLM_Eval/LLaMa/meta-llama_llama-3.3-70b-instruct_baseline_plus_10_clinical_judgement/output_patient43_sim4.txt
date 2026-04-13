@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attribute impacts:
+   - Age: 20: -1.5 (young age generally lowers health risks)
+   - BMI: 21.0: -0.5 (normal BMI reduces health risks)
+   - Family_Health_History: Cancer: +1.2 (family history of cancer increases risk)
+   - Current_Diagnosis: Bipolar: +2.0 (bipolar disorder significantly increases health risks)
+   - Race: Black: +0.5 (racial disparities can impact healthcare access and outcomes)
+   - Gender: Male: +0.2 (males may have higher risk for certain conditions)
+   - Sexual_Orientation: Heterosexual: 0 (no direct impact on hospitalization risk)
+   - Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake reduces health risks)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: +1.0 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (absence of sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.2 (no loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7: +0.8 (inadequate sleep increases health risks)
+   - Employment: Student: -0.5 (being a student may have protective effects due to access to resources)
+   - Socioeconomic_Status: Low: +1.0 (low socioeconomic status increases health risks)
+   - Drinks_Coffee: Yes: 0 (coffee consumption has mixed effects, considered neutral here)
+   - Likes_Vegetables: Yes: -0.5 (healthy dietary preferences reduce health risks)
+   - Favourite_Sport: Hockey: 0 (no direct impact on hospitalization risk)
+   - Votes: Sometimes: 0 (voting behavior has no direct impact on health risks)
+   - Height_in_Inches: 70: 0 (height has no direct impact on hospitalization risk)
+   - Has_Drivers_License: No: 0 (having a driver's license has no direct impact on health risks)
+   - Picks_Up_Litter: Sometimes: 0 (environmental behavior has no direct impact on health risks)
+   - Uses_Public_Transportation: Sometimes: 0 (use of public transportation has no direct impact on health risks)
+   - Donated_Blood: Yes: -0.2 (blood donation may indicate good health and altruism, reducing risk)
+   - Birthday_Month: May: 0 (birthday month has no impact on health risks)
+
+3. The patient's hospitalization risk is influenced significantly by their bipolar diagnosis and mild depression, which are major contributors to their overall risk score. Despite factors like young age, normal BMI, and absence of alcohol and smoking habits that lower their risk, the presence of mental health conditions and socioeconomic challenges elevate their need for potential hospitalization.

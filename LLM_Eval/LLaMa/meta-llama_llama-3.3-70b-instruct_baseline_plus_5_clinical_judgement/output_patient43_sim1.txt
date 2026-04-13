@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4.5
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 20: -1.0 (young age generally lowers health risks)
+   - BMI: 21.0: -0.5 (normal BMI reduces health risks)
+   - Family_Health_History: Cancer: +1.5 (family history of cancer increases risk)
+   - Current_Diagnosis: Bipolar: +2.0 (bipolar disorder significantly increases health risks)
+   - Race: Black: +0.5 (racial disparities can impact healthcare access and outcomes)
+   - Gender: Male: +0.0 (neutral impact, as male gender does not inherently increase or decrease risk in this context)
+   - Sexual_Orientation: Heterosexual: +0.0 (neutral impact, as sexual orientation does not directly influence hospitalization risk here)
+   - Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake reduces health risks)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: +1.0 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (absence of sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.5 (no loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7: +0.5 (inadequate sleep increases health risks)
+   - Employment: Student: -0.5 (being a student may provide access to healthcare and support systems)
+   - Socioeconomic_Status: Low: +1.0 (low socioeconomic status increases health risks due to barriers in healthcare access)
+   - Drinks_Coffee: Yes: +0.0 (neutral impact, as coffee consumption does not directly influence hospitalization risk here)
+   - Likes_Vegetables: Yes: -0.5 (healthy dietary habits reduce health risks)
+   - Favourite_Sport: Hockey: +0.0 (neutral impact, as sports preference does not directly influence health risks)
+   - Votes: Sometimes: +0.0 (neutral impact, as voting behavior does not directly influence health risks)
+   - Height_in_Inches: 70: +0.0 (neutral impact, as height does not directly influence hospitalization risk in this context)
+
+3. The patient's hospitalization risk is influenced by the presence of bipolar disorder, mild depression, and a family history of cancer, which are significant health concerns. However, the patient's young age, normal BMI, absence of alcohol and smoking habits, and healthy lifestyle choices such as liking vegetables somewhat mitigate these risks, leading to a moderate hospitalization risk score.

@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attribute impacts on risk:
+   - Age (74): +3.5 (increased risk due to age-related health decline)
+   - BMI (29.4): +1.8 (elevated risk due to overweight status)
+   - Family_Health_History (Cancer): +1.2 (increased risk due to familial cancer history)
+   - Current_Diagnosis (nan): 0 (no impact due to lack of information)
+   - Race (White): 0 (no specific risk adjustment for this demographic)
+   - Gender (Male): 0 (no specific risk adjustment for this demographic)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment for this demographic)
+   - Weekly_Alcohol_Intake (4): -0.5 (moderate alcohol consumption may have protective effects)
+   - Smoking (No): -1.0 (reduced risk due to non-smoking status)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (reduced risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued (No), Loss_of_Interest (No): -0.5 (combined reduced risk due to absence of mood-related symptoms)
+   - Hours_of_Sleep (7.0): -0.5 (adequate sleep reduces risk)
+   - Employment (Retired): +0.5 (potential increased risk due to sedentary lifestyle or loss of social interaction)
+   - Socioeconomic_Status (Middle): 0 (neutral socioeconomic status)
+   - Drinks_Coffee (No): 0 (no specific risk adjustment for coffee consumption)
+   - Likes_Vegetables (Yes): -0.5 (healthy dietary preference reduces risk)
+   - Favourite_Sport (Hockey), Votes (Never), Height_in_Inches (58), Has_Drivers_License (Yes), Picks_Up_Litter (Sometimes), Uses_Public_Transportation (Sometimes), Donated_Blood (Yes), Birthday_Month (January): 0 (these factors do not directly impact hospitalization risk)
+
+3. The patient's advanced age, family history of cancer, and overweight status contribute to an elevated hospitalization risk, while the absence of depressive symptoms, moderate alcohol intake, and healthy lifestyle choices such as liking vegetables mitigate this risk to some extent. Overall, the patient's profile suggests a moderate risk of hospitalization, necessitating regular health check-ups and monitoring of potential health issues.

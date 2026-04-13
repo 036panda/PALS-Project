@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 4.2
+2. Breakdown of individual attribute impacts:
+   - Age (25): -1.5 (young age generally lowers health risks)
+   - BMI (28.5): +1.2 (being overweight increases health risks)
+   - Family_Health_History (Hypertension): +1.0 (family history of hypertension increases cardiovascular risk)
+   - Current_Diagnosis (Bipolar): +2.0 (bipolar disorder can significantly impact health and increase hospitalization risk)
+   - Race (Native American): +0.5 (certain health disparities may affect Native American populations)
+   - Gender (Non-binary): +0.0 (no direct impact on hospitalization risk based on provided information)
+   - Sexual_Orientation (Heterosexual): +0.0 (no direct impact on hospitalization risk based on provided information)
+   - Weekly_Alcohol_Intake (7): +0.5 (moderate alcohol intake may have some health implications)
+   - Smoking (No): -1.0 (not smoking reduces health risks)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (no signs of depression reduces mental health risks)
+   - Been_Sad_or_Fatigued (No): -0.5 (absence of sadness or fatigue reduces risk)
+   - Loss_of_Interest (No): -0.5 (no loss of interest reduces risk of depression-related hospitalization)
+   - Hours_of_Sleep (7.8): -0.5 (adequate sleep reduces health risks)
+   - Employment (Employed): -0.5 (being employed can indicate stability and reduce certain risks)
+   - Socioeconomic_Status (Middle): -0.2 (middle socioeconomic status may provide access to healthcare and reduce risks)
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and family history of hypertension, which are countered by their stable employment, middle socioeconomic status, and absence of depressive symptoms, resulting in a moderate risk score. Overall, the patient's mental health condition and lifestyle factors contribute to a notable but not extreme risk of hospitalization.

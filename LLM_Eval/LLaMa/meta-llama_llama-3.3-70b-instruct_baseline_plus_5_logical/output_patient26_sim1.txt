@@ -1,0 +1,25 @@
+1. Risk Score: 2.8
+
+2. Input Factors and Contributions:
+   - Age: 52: +0.5 (increased age contributes to higher risk)
+   - BMI: 23.2: +0.1 (slightly elevated BMI, minor contribution to risk)
+   - Family_Health_History: Asthma: +0.8 (family history of asthma increases respiratory risk)
+   - Current_Diagnosis: Anxiety: +1.2 (anxiety diagnosis contributes to mental health risk)
+   - Race: Other: 0 (no specific risk contribution assigned due to lack of data)
+   - Gender: Non-binary: 0 (no specific risk contribution assigned due to lack of data)
+   - Sexual_Orientation: Heterosexual: 0 (no specific risk contribution assigned due to lack of data)
+   - Weekly_Alcohol_Intake: 5: +0.2 (moderate alcohol intake, minor contribution to risk)
+   - Smoking: No: 0 (no smoking, no contribution to risk)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (low depression score reduces risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (absence of sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.2 (absence of loss of interest reduces risk)
+   - Hours_of_Sleep: 7.4: -0.3 (adequate sleep reduces risk)
+   - Employment: Employed: -0.5 (employment reduces risk due to stability and access to healthcare)
+   - Socioeconomic_Status: Middle: -0.2 (middle socioeconomic status, moderate access to healthcare, minor reduction in risk)
+   - Drinks_Coffee: No: 0 (no coffee consumption, no contribution to risk)
+   - Likes_Vegetables: Yes: -0.1 (healthy eating habit, minor reduction in risk)
+   - Favourite_Sport: Soccer: 0 (physical activity not quantified, no contribution to risk)
+   - Votes: Always: 0 (voting behavior, no direct contribution to health risk)
+   - Height_in_Inches: 68: 0 (height, no direct contribution to risk)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and potential health risks, with positive contributions indicating increased risk and negative contributions indicating reduced risk. The score reflects a balance between factors indicating higher risk (such as family history of asthma and current anxiety diagnosis) and those indicating lower risk (such as stable employment, adequate sleep, and healthy eating habits).

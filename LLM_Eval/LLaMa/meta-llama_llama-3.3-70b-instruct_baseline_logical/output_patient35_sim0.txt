@@ -1,0 +1,18 @@
+1. 4.2
+2. Input factors and their assigned contributions:
+   - Age: 18, contribution: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 25.6, contribution: 1.2 (BMI in the overweight category, which can increase health risks)
+   - Family_Health_History: Hypertension, contribution: 1.0 (family history of hypertension increases cardiovascular risk)
+   - Current_Diagnosis: Bipolar, contribution: 1.5 (bipolar disorder can increase risk of hospitalization due to mental health concerns)
+   - Race: Hispanic, contribution: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Gender: Non-binary, contribution: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Sexual_Orientation: Heterosexual, contribution: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Weekly_Alcohol_Intake: 5, contribution: 0.5 (moderate alcohol intake may have some health implications)
+   - Smoking: No, contribution: -0.5 (not smoking reduces health risks)
+   - HAM-D: 0–6, contribution: -1.0 (normal score indicates no depression, reducing hospitalization risk)
+   - Been_Sad_or_Fatigued: No, contribution: -0.5 (absence of sadness or fatigue reduces risk)
+   - Loss_of_Interest: No, contribution: -0.5 (absence of loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7, contribution: 0.5 (less than optimal sleep hours may increase health risks)
+   - Employment: Employed, contribution: -0.5 (being employed can reduce stress and increase access to healthcare)
+   - Socioeconomic_Status: High, contribution: -1.0 (higher socioeconomic status generally associated with better health outcomes)
+3. The hospitalization risk score is calculated based on the individual's health and socioeconomic factors, with each factor contributing positively or negatively to the overall risk, reflecting their potential causal impact on health outcomes. The score of 4.2 indicates a moderate risk level, primarily driven by the presence of bipolar disorder, overweight BMI, and family history of hypertension, balanced by protective factors such as employment, high socioeconomic status, and absence of depressive symptoms.

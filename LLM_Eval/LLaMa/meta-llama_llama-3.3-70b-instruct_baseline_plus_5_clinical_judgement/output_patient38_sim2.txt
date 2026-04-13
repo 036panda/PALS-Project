@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (62): +2.5 (increased risk due to age-related health decline)
+   - BMI (33.4): +1.8 (obesity increases risk of various health issues)
+   - Family_Health_History (nan): 0 (no information, no impact)
+   - Current_Diagnosis (Depression): +2.0 (mental health condition increases risk)
+   - Race (White): 0 (no specific risk associated with this attribute)
+   - Gender (Male): 0 (no specific risk associated with this attribute)
+   - Sexual_Orientation (Bisexual): 0 (no specific risk associated with this attribute)
+   - Weekly_Alcohol_Intake (1): -0.5 (low alcohol intake reduces risk)
+   - Smoking (No): -1.0 (not smoking reduces risk)
+   - HAM-D (7–17: Mild Depression): +1.5 (mild depression increases risk but less than severe)
+   - Been_Sad_or_Fatigued (Yes): +0.5 (symptoms of depression increase risk)
+   - Loss_of_Interest (Yes): +0.5 (symptoms of depression increase risk)
+   - Hours_of_Sleep (6.7): -0.5 (adequate sleep reduces risk)
+   - Employment (Retired): 0 (no specific risk associated with this attribute)
+   - Socioeconomic_Status (Low): +1.0 (lower socioeconomic status increases health risks)
+   - Drinks_Coffee (Yes): 0 (no specific risk associated with this attribute)
+   - Likes_Vegetables (Yes): -0.5 (healthy diet reduces risk)
+   - Favourite_Sport (Soccer): 0 (no specific risk associated with this attribute)
+   - Votes (Sometimes): 0 (no specific risk associated with this attribute)
+   - Height_in_Inches (61): 0 (no specific risk associated with this attribute)
+
+3. The patient's risk of hospitalization is elevated due to factors such as age, obesity, and mild depression, which collectively contribute to a higher likelihood of health complications. However, the patient's low alcohol intake, absence of smoking, and some healthy lifestyle choices mitigate this risk to some extent.

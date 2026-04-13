@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 22: -1 (young age generally reduces health risks)
+   - BMI: 21.9: -0.5 (normal BMI reduces health risks)
+   - Family_Health_History: Cancer: +1 (family history of cancer increases risk)
+   - Current_Diagnosis: nan: 0 (no current diagnosis provided, neutral impact)
+   - Race: White: 0 (race has complex interactions with health, but in this context, considered neutral)
+   - Gender: Non-binary: 0 (gender identity has complex interactions with health, considered neutral here)
+   - Sexual_Orientation: Heterosexual: 0 (sexual orientation has complex interactions with health, considered neutral)
+   - Weekly_Alcohol_Intake: 3: -0.5 (moderate alcohol intake, generally considered low risk)
+   - Smoking: No: -1 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: +1 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.5 (no loss of interest reduces risk)
+   - Hours_of_Sleep: 9.6: -0.5 (adequate sleep reduces health risks)
+   - Employment: Employed: -0.5 (being employed generally reduces health risks)
+   - Socioeconomic_Status: Middle: 0 (middle socioeconomic status, considered neutral)
+   - Drinks_Coffee: No: 0 (not drinking coffee, considered neutral)
+   - Likes_Vegetables: Yes: -0.5 (liking vegetables indicates healthy diet, reduces risk)
+   - Favourite_Sport: Soccer: -0.5 (engaging in sports activity reduces health risks)
+   - Votes: Always: 0 (voting behavior, considered neutral)
+   - Height_in_Inches: 69: 0 (height, considered neutral)
+
+3. The patient's overall low risk for hospitalization is primarily due to their young age, healthy lifestyle choices such as not smoking, moderate alcohol intake, and engagement in physical activity through soccer, which outweigh the mild depression and family history of cancer. The absence of current diagnoses and the patient's stable employment and socioeconomic status further contribute to the low risk assessment.

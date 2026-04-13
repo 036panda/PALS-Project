@@ -1,0 +1,20 @@
+1. 6.8
+2. 
+- Age: 40: 0.5 (positive contribution due to increased risk with age)
+- BMI: 34.6: 1.2 (positive contribution due to increased health risks associated with high BMI)
+- Family_Health_History: Cancer: 1.0 (positive contribution due to potential genetic predisposition)
+- Current_Diagnosis: Bipolar: 1.5 (positive contribution due to increased risk of hospitalization for mental health conditions)
+- Weekly_Alcohol_Intake: 4: 0.5 (positive contribution due to potential health risks associated with alcohol consumption)
+- HAM-D: 7–17: Mild Depression: 1.0 (positive contribution due to increased risk of hospitalization for mental health conditions)
+- Loss_of_Interest: Yes: 0.5 (positive contribution due to potential indicator of mental health issues)
+- Hours_of_Sleep: 8.9: -0.2 (negative contribution due to adequate sleep reducing health risks)
+- Socioeconomic_Status: Middle: -0.5 (negative contribution due to access to healthcare and resources reducing health risks)
+- Drinks_Coffee: Yes: -0.1 (negative contribution due to potential health benefits of moderate coffee consumption)
+- Height_in_Inches: 70: 0.1 (positive contribution due to potential increased risk of certain health conditions at above-average height)
+- Has_Drivers_License: Yes: -0.1 (negative contribution due to increased mobility and access to healthcare)
+- Water_Intake_oz: 42.6: -0.2 (negative contribution due to adequate hydration reducing health risks)
+- Bilingual: Yes: -0.1 (negative contribution due to potential cognitive benefits of bilingualism)
+- Handedness: Right: 0 (no contribution, as handedness is not a known risk factor)
+- Travels: Yes: -0.1 (negative contribution due to potential increased access to healthcare and reduced risk of certain health conditions)
+- Other factors (Race, Gender, Sexual_Orientation, Smoking, Been_Sad_or_Fatigued, Employment, Likes_Vegetables, Favourite_Sport, Votes, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject): 0 (no contribution, as these factors are not known to have a direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as BMI, family health history, and current diagnosis, which have established causal relationships with increased risk of hospitalization. The score reflects the cumulative effect of these factors, with positive contributions from factors that increase risk and negative contributions from factors that reduce risk.

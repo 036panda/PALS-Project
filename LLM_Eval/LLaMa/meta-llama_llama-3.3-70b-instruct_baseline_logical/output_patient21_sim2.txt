@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 42: 0.8 (positive, as increasing age is associated with higher health risks)
+   - BMI: 26.4: 1.2 (positive, as a BMI of 26.4 is considered overweight, increasing health risks)
+   - Family_Health_History: Cancer: 1.5 (positive, due to potential genetic predispositions)
+   - Current_Diagnosis: Anxiety: 1.0 (positive, as anxiety can contribute to overall health risks)
+   - Race: Native American: 0.5 (positive, considering health disparities affecting this group)
+   - Gender: Non-binary: 0.0 (neutral, as there's no direct causal link to hospitalization risk provided)
+   - Sexual_Orientation: Heterosexual: 0.0 (neutral, as there's no direct causal link to hospitalization risk provided)
+   - Weekly_Alcohol_Intake: 4: 0.8 (positive, as moderate alcohol intake can still pose health risks)
+   - Smoking: No: -1.0 (negative, as not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.2 (positive, as mild depression can impact physical health and increase hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes: 0.8 (positive, indicating potential mental health impacts on physical well-being)
+   - Loss_of_Interest: Yes: 0.8 (positive, suggesting significant mental health concerns)
+   - Hours_of_Sleep: 10.2: -0.5 (negative, as adequate sleep generally reduces health risks)
+   - Employment: Employed: -0.5 (negative, as employment can provide stability and access to healthcare, reducing risks)
+   - Socioeconomic_Status: Middle: -0.5 (negative, as a middle socioeconomic status may provide better access to healthcare, reducing risks)
+3. The hospitalization risk score is calculated based on the cumulative effect of various health, lifestyle, and socioeconomic factors that have established causal relationships with increased risk of hospitalization. The score reflects the individual's specific conditions, such as anxiety, mild depression, and family health history, balanced against protective factors like employment and adequate sleep.

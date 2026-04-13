@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 2.5
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 38, impact: -0.5 (lower risk due to being in a relatively healthy age range)
+   - BMI: 21.8, impact: -0.5 (lower risk due to being within a healthy weight range)
+   - Family_Health_History: Asthma, impact: 1.0 (increased risk due to family history of chronic condition)
+   - Current_Diagnosis: Anxiety, impact: 1.0 (increased risk due to current mental health condition)
+   - Race: Black, impact: 0.0 (no direct impact, but may be relevant in conjunction with other factors)
+   - Gender: Non-binary, impact: 0.0 (no direct impact)
+   - Sexual_Orientation: Heterosexual, impact: 0.0 (no direct impact)
+   - Weekly_Alcohol_Intake: 2, impact: -0.5 (lower risk due to moderate alcohol consumption)
+   - Smoking: No, impact: -0.5 (lower risk due to not smoking)
+   - HAM-D: 0–6, impact: -0.5 (lower risk due to no indication of depression)
+   - Been_Sad_or_Fatigued: No, impact: -0.5 (lower risk due to no recent sad or fatigued feelings)
+   - Loss_of_Interest: No, impact: -0.5 (lower risk due to no loss of interest)
+   - Hours_of_Sleep: 6.3, impact: 0.5 (slightly increased risk due to sleep duration being on the lower end)
+   - Employment: Employed, impact: -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status: High, impact: -0.5 (lower risk due to higher socioeconomic status)
+   - Allergy: Penecillin, impact: 1.0 (increased risk due to known allergy)
+   - Other attributes (e.g., coffee consumption, sports preferences, etc.): 0.0 (no direct impact on hospitalization risk)
+   Total impact: 2.5
+3. The patient's hospitalization risk is relatively low due to their healthy lifestyle choices, stable employment, and high socioeconomic status, but is slightly elevated by their family history of asthma, current anxiety diagnosis, and known allergy to penicillin. Overall, the patient's risk factors are largely mitigated by their healthy behaviors and stable social situation.

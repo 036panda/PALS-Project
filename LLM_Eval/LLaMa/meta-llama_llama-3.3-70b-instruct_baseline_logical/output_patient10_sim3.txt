@@ -1,0 +1,20 @@
+1. Risk Score: 7.8
+
+2. Input Factors and Contributions:
+   - Age: 32, Contribution: 0.5 (moderate positive contribution due to increasing age-related health risks, though still relatively young)
+   - BMI: 31.6, Contribution: 1.2 (positive contribution due to increased health risks associated with obesity)
+   - Family_Health_History: Cancer, Contribution: 1.5 (positive contribution due to potential genetic predispositions)
+   - Current_Diagnosis: nan, Contribution: 0 (no contribution due to lack of information)
+   - Race: Asian, Contribution: 0 (neutral, as race alone does not directly contribute to hospitalization risk without considering specific health conditions)
+   - Gender: Male, Contribution: 0.2 (slight positive contribution due to generally higher health risks in males compared to females)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (neutral, as sexual orientation does not directly impact physical health risks)
+   - Weekly_Alcohol_Intake: 3, Contribution: 0.5 (moderate positive contribution due to potential health impacts of alcohol consumption)
+   - Smoking: Yes, Contribution: 1.8 (significant positive contribution due to well-documented health risks associated with smoking)
+   - HAM-D: 18–24, Contribution: 1.0 (positive contribution due to moderate depression increasing health risks)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 0.5 (positive contribution due to potential mental health impacts)
+   - Loss_of_Interest: Yes, Contribution: 0.5 (positive contribution due to potential mental health impacts)
+   - Hours_of_Sleep: 7.5, Contribution: -0.2 (slight negative contribution due to adequate sleep potentially reducing health risks)
+   - Employment: Employed, Contribution: -0.5 (negative contribution due to employment generally reducing stress and increasing access to healthcare)
+   - Socioeconomic_Status: Low, Contribution: 1.0 (positive contribution due to increased health risks associated with lower socioeconomic status)
+
+3. The risk score calculation is based on the summation of positive and negative contributions from each input factor, reflecting their individual impacts on health risks. This approach logically integrates various health, lifestyle, and socioeconomic factors to estimate an individual's hospitalization risk, considering both direct and indirect causal relationships that may influence health outcomes.

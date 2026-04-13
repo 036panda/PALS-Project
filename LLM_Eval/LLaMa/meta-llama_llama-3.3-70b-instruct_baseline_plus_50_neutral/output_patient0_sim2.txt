@@ -1,0 +1,14 @@
+1. Risk Assessment Score: 6.2
+2. Parameters and risk values:
+	* Age: -0.5 (lower risk due to relatively young age)
+	* BMI: -0.2 (lower risk due to normal BMI)
+	* Family_Health_History: +1.5 (higher risk due to family history of heart disease)
+	* Current_Diagnosis: +2.0 (higher risk due to schizophrenia)
+	* Smoking: +1.2 (higher risk due to smoking)
+	* HAM-D: +1.5 (higher risk due to severe depression)
+	* Loss_of_Interest: +0.8 (higher risk due to loss of interest)
+	* Hours_of_Sleep: -0.3 (lower risk due to relatively normal sleep hours)
+	* Socioeconomic_Status: -0.2 (lower risk due to middle socioeconomic status)
+	* Weekly_Alcohol_Intake: +0.5 (higher risk due to moderate alcohol intake)
+	* All other parameters: 0 (no significant impact on hospitalization risk)
+3. The patient's risk score is driven by their family history of heart disease, current diagnosis of schizophrenia, smoking habits, and severe depression, which all contribute to a higher risk of hospitalization. Despite some mitigating factors such as a normal BMI and middle socioeconomic status, the patient's overall risk score is moderate to high due to the presence of several significant risk factors.

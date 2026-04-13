@@ -1,0 +1,24 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (25): -1 (lower risk due to younger age)
+   - BMI (28.5): +1 (higher risk due to overweight status)
+   - Family_Health_History (Hypertension): +1 (higher risk due to family history of hypertension)
+   - Current_Diagnosis (Bipolar): +2 (higher risk due to presence of bipolar disorder)
+   - Race (Native American): +0.5 (higher risk due to potential health disparities)
+   - Gender (Non-binary): +0 (neutral, as there's no direct correlation with hospitalization risk in this context)
+   - Sexual_Orientation (Heterosexual): +0 (neutral, as there's no direct correlation with hospitalization risk in this context)
+   - Weekly_Alcohol_Intake (7): +0.5 (moderate risk due to alcohol consumption)
+   - Smoking (No): -1 (lower risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -1 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued (No), Loss_of_Interest (No): -1 (lower risk due to absence of these symptoms)
+   - Hours_of_Sleep (7.8): -0.5 (lower risk due to adequate sleep)
+   - Employment (Employed): -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status (Middle): +0 (neutral, as middle socioeconomic status does not significantly increase or decrease risk in this context)
+   - Drinks_Coffee (No): +0 (neutral, as there's no direct correlation with hospitalization risk in this context)
+   - Likes_Vegetables (Yes): -0.5 (lower risk due to healthy dietary preference)
+   - Favourite_Sport (Basketball): +0 (neutral, as there's no direct correlation with hospitalization risk in this context)
+   - Votes (Never): +0 (neutral, as there's no direct correlation with hospitalization risk in this context)
+   - Height_in_Inches (70): +0 (neutral, as height alone does not significantly impact hospitalization risk)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, family history of hypertension, and moderate alcohol intake, which are offset by their stable employment, absence of depressive symptoms, and healthy lifestyle choices, resulting in a moderate risk score. Overall, the patient's risk profile suggests a need for ongoing monitoring and management of their bipolar disorder and lifestyle factors to mitigate potential health risks.

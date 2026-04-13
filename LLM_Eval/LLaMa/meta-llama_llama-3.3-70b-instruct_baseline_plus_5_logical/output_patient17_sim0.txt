@@ -1,0 +1,23 @@
+1. 4.8
+2. Input factors and their assigned contributions:
+   - Age: 20: -0.5 (young age generally associated with lower health risks)
+   - BMI: 24.6: 0.2 (slightly above normal, indicating a minor increase in health risks)
+   - Family_Health_History: Cancer: 1.0 (family history of cancer increases individual risk)
+   - Current_Diagnosis: Schizophrenia: 2.0 (serious mental health condition increasing hospitalization risk)
+   - Race: Black: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Gender: Other: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Sexual_Orientation: Heterosexual: 0.0 (no direct causal link to hospitalization risk)
+   - Weekly_Alcohol_Intake: 6: 0.5 (moderate alcohol intake may increase health risks)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (no depression reduces hospitalization risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (absence of recent sadness or fatigue reduces risk)
+   - Loss_of_Interest: Yes: 1.2 (loss of interest can be a symptom of underlying issues increasing risk)
+   - Hours_of_Sleep: 7.6: -0.2 (adequate sleep reduces health risks)
+   - Employment: Student: -0.5 (being a student may reduce certain risks due to access to resources)
+   - Socioeconomic_Status: Low: 1.5 (lower socioeconomic status increases health risks due to reduced access to care)
+   - Drinks_Coffee: Yes: 0.0 (coffee consumption has mixed effects on health, here considered neutral)
+   - Likes_Vegetables: No: 0.2 (not liking vegetables may indicate poorer dietary habits increasing risk)
+   - Favourite_Sport: Gymnastics: -0.2 (engagement in sports can reduce health risks)
+   - Votes: Sometimes: 0.0 (voting behavior has no direct causal link to hospitalization risk)
+   - Height_in_Inches: 58: 0.0 (height is not directly linked to hospitalization risk without other factors)
+3. The hospitalization risk score is calculated based on the individual's health conditions, behaviors, and socioeconomic factors, with a focus on how these elements directly influence the likelihood of hospitalization. The score reflects the cumulative effect of these factors, considering both the presence of risk-increasing conditions like schizophrenia and the mitigating effects of factors such as not smoking and adequate sleep.

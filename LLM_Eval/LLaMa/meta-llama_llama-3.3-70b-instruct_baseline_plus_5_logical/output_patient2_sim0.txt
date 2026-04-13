@@ -1,0 +1,24 @@
+1. 6.8
+2. 
+- Age: 40: 0.5 (positive contribution due to increased risk with age)
+- BMI: 34.6: 1.2 (positive contribution due to increased health risks associated with high BMI)
+- Family_Health_History: Cancer: 1.0 (positive contribution due to potential genetic predispositions)
+- Current_Diagnosis: Bipolar: 1.5 (positive contribution due to the complexity of managing bipolar disorder)
+- Race: White: 0 (neutral, as race is not a direct causal factor in this context)
+- Gender: Non-binary: 0 (neutral, as gender is not a direct causal factor in this context)
+- Sexual_Orientation: Bisexual: 0 (neutral, as sexual orientation is not a direct causal factor in this context)
+- Weekly_Alcohol_Intake: 4: 0.5 (positive contribution due to potential health impacts of alcohol)
+- Smoking: No: -1.0 (negative contribution due to reduced health risk)
+- HAM-D: 7–17: Mild Depression: 1.0 (positive contribution due to the presence of depression)
+- Been_Sad_or_Fatigued: No: -0.5 (negative contribution due to reduced symptomatology)
+- Loss_of_Interest: Yes: 1.0 (positive contribution due to symptom of depression)
+- Hours_of_Sleep: 8.9: -0.5 (negative contribution due to adequate sleep reducing health risks)
+- Employment: Employed: -0.5 (negative contribution due to stability and access to healthcare)
+- Socioeconomic_Status: Middle: 0 (neutral, as middle socioeconomic status does not significantly increase or decrease risk in this context)
+- Drinks_Coffee: Yes: 0 (neutral, as moderate coffee consumption is not a significant risk factor)
+- Likes_Vegetables: No: 0.5 (positive contribution due to potential for poorer diet)
+- Favourite_Sport: nan: 0 (neutral, as missing data does not contribute to risk)
+- Votes: Always: 0 (neutral, as voting behavior is not a direct causal factor in health risk)
+- Height_in_Inches: 70: 0 (neutral, as height is not a direct causal factor in this context)
+
+3. The hospitalization risk score is calculated based on the summation of positive and negative contributions from various factors, reflecting their potential causal relationships with health outcomes, with higher scores indicating a greater risk of hospitalization due to the compounding effects of factors like high BMI, family health history, and current diagnosis of bipolar disorder. This approach logically integrates multiple aspects of an individual's health and lifestyle to estimate their risk profile.

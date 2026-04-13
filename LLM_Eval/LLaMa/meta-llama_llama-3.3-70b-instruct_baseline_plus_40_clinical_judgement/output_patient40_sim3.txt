@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Detailed breakdown:
+   - Age: 26: -0.5 (young age generally lowers health risks)
+   - BMI: 29.1: 1.5 (obesity increases risk of various health issues)
+   - Family_Health_History: Diabetes: 1.2 (family history of diabetes increases risk of developing diabetes and related complications)
+   - Current_Diagnosis: Bipolar: 2.0 (bipolar disorder can lead to significant health complications if not managed properly)
+   - Weekly_Alcohol_Intake: 3: 0.5 (moderate alcohol intake can have both positive and negative effects, but in this context, it slightly increases risk)
+   - Been_Sad_or_Fatigued: Yes: 0.8 (indicative of potential mental health issues)
+   - Loss_of_Interest: Yes: 0.8 (another indicator of potential mental health issues)
+   - Hours_of_Sleep: 6.2: -0.2 (slightly below average sleep hours, but not significantly impacting risk)
+   - Socioeconomic_Status: Low: 1.0 (lower socioeconomic status can increase health risks due to limited access to healthcare and resources)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (low depression score decreases risk)
+   - Allergy: Milk/Eggs: 0.2 (allergies can increase risk of anaphylaxis or other severe reactions)
+   - Exercises: No: 0.5 (lack of exercise increases risk of various health issues)
+   - Other attributes (e.g., employment status, relationship status, dietary preferences, etc.): 0.7 (cumulative minor impact of various lifestyle and personal factors)
+
+3. The patient's hospitalization risk is elevated primarily due to their bipolar diagnosis, family history of diabetes, and socioeconomic status, which collectively increase their vulnerability to various health complications. Despite some mitigating factors such as stable mental health indicated by the HAM-D score, the overall profile suggests a moderate to high risk of hospitalization.

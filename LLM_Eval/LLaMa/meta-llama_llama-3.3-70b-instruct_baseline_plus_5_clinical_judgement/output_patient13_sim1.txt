@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (56): +1.2 (increased risk due to age-related health decline)
+   - BMI (27.3): +0.8 (moderate risk due to overweight status)
+   - Family_Health_History (nan): 0 (no impact due to missing data)
+   - Current_Diagnosis (Schizophrenia): +2.5 (high risk due to severe mental health condition)
+   - Race (Asian): 0 (no specific risk adjustment for this demographic)
+   - Gender (Other): 0 (no specific risk adjustment for non-binary gender)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment for sexual orientation)
+   - Weekly_Alcohol_Intake (2): -0.2 (low risk due to moderate alcohol consumption)
+   - Smoking (Yes): +1.5 (high risk due to smoking)
+   - HAM-D (7–17: Mild Depression): +1.0 (moderate risk due to mild depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): +0.5 (moderate risk due to reported sadness and fatigue)
+   - Loss_of_Interest (Yes): +0.5 (moderate risk due to loss of interest)
+   - Hours_of_Sleep (6.0): +0.2 (slight risk due to slightly reduced sleep hours)
+   - Employment (Employed): -0.5 (low risk due to stable employment)
+   - Socioeconomic_Status (Low): +1.0 (moderate risk due to socioeconomic challenges)
+   - Drinks_Coffee (No): 0 (no specific risk adjustment for coffee consumption)
+   - Likes_Vegetables (No): +0.2 (slight risk due to potential for poor diet)
+   - Favourite_Sport (Basketball): 0 (no specific risk adjustment for sports preference)
+   - Votes (Never): 0 (no specific risk adjustment for voting behavior)
+   - Height_in_Inches (62): 0 (no specific risk adjustment for height)
+
+3. The patient's hospitalization risk is significantly influenced by their schizophrenia diagnosis, smoking status, and socioeconomic challenges, which collectively indicate a need for close monitoring and potentially intensive interventions to mitigate these risks. The presence of mild depression and reported symptoms of sadness, fatigue, and loss of interest further support the need for a comprehensive treatment plan to address both physical and mental health concerns.

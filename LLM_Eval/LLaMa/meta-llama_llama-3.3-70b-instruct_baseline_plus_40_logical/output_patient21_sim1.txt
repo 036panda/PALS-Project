@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 42: 0.8 (positive, as increasing age is associated with higher health risks)
+   - BMI: 26.4: 1.2 (positive, as a BMI of 26.4 is considered overweight, increasing health risks)
+   - Family_Health_History: Cancer: 1.5 (positive, as a family history of cancer increases individual risk)
+   - Current_Diagnosis: Anxiety: 1.0 (positive, as anxiety can contribute to overall health risk)
+   - HAM-D: 7–17: Mild Depression: 1.2 (positive, as mild depression contributes to health risk)
+   - Been_Sad_or_Fatigued: Yes: 0.5 (positive, as this symptom can indicate underlying health issues)
+   - Loss_of_Interest: Yes: 0.5 (positive, as loss of interest can be a symptom of depression or other health issues)
+   - Weekly_Alcohol_Intake: 4: 0.2 (positive, as some alcohol intake can contribute to health risks, though moderate intake may have mixed effects)
+   - Hours_of_Sleep: 10.2: -0.5 (negative, as adequate sleep is beneficial for health)
+   - Employment: Employed: -0.5 (negative, as employment can provide stability and access to healthcare)
+   - Socioeconomic_Status: Middle: -0.2 (negative, as a middle socioeconomic status may provide some access to healthcare and resources)
+   - Exercises: Yes: -1.0 (negative, as regular exercise is beneficial for health)
+   - Registered_Organ_Donor: Yes: -0.1 (negative, indicating some level of health awareness and positive behavior)
+   - Annual_Charity_Donation: Always: -0.1 (negative, suggesting a level of social engagement and stability)
+   - All other factors: 0 (as they do not have a clear, direct causal relationship with hospitalization risk based on the provided information)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and socioeconomic status, with positive contributions from factors that increase health risk and negative contributions from factors that decrease risk or indicate positive health behaviors. The score reflects the cumulative effect of these factors on the individual's likelihood of hospitalization.

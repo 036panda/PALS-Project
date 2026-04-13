@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Detailed breakdown of each individual attribute and its numerical impact on risk:
+   - Age: 20, Impact: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 21.0, Impact: -0.5 (normal BMI, indicating lower risk for obesity-related health issues)
+   - Family_Health_History: Cancer, Impact: +1.2 (family history of cancer may increase risk for various health issues)
+   - Current_Diagnosis: Bipolar, Impact: +2.0 (bipolar disorder can significantly increase risk for hospitalization due to psychiatric episodes)
+   - Race: Black, Impact: +0.5 (disparities in healthcare access and outcomes may increase risk)
+   - Gender: Male, Impact: +0.2 (males may have higher risk for certain health issues, but impact is nuanced and depends on context)
+   - Sexual_Orientation: Heterosexual, Impact: 0 (no direct impact on physical health risk)
+   - Weekly_Alcohol_Intake: 0, Impact: -0.5 (abstinence from alcohol reduces risk for alcohol-related health issues)
+   - Smoking: No, Impact: -0.5 (not smoking reduces risk for smoking-related health issues)
+   - HAM-D: 7–17 (Mild Depression), Impact: +1.0 (mild depression can increase risk for worsening mental health and related hospitalization)
+   - Been_Sad_or_Fatigued: No, Impact: -0.2 (absence of recent sadness or fatigue may indicate better current mental health)
+   - Loss_of_Interest: No, Impact: -0.2 (no loss of interest may indicate better current mental health)
+   - Hours_of_Sleep: 5.7, Impact: +0.5 (less than ideal sleep hours may increase risk for health issues related to sleep deprivation)
+   - Employment: Student, Impact: -0.5 (being a student may provide access to healthcare and support systems, reducing risk)
+   - Socioeconomic_Status: Low, Impact: +1.0 (lower socioeconomic status can increase risk due to barriers in healthcare access and outcomes)
+   - Drinks_Coffee: Yes, Impact: 0 (moderate coffee consumption has mixed effects on health, but generally considered low risk)
+   - Likes_Vegetables: Yes, Impact: -0.5 (healthy dietary preferences may reduce risk for nutrition-related health issues)
+   - Favourite_Sport: Hockey, Impact: 0 (engagement in sports can have positive health effects, but choice of sport has minimal direct impact on hospitalization risk)
+   - Votes: Sometimes, Impact: 0 (voting behavior has no direct impact on physical health risk)
+   - Height_in_Inches: 70, Impact: 0 (height has minimal direct impact on hospitalization risk unless extreme)
+   - Has_Drivers_License: No, Impact: +0.2 (lack of driver's license may indicate reduced mobility or independence, potentially increasing risk)
+   - Picks_Up_Litter: Sometimes, Impact: 0 (community engagement has positive social effects, but minimal direct impact on physical health risk)
+   - Uses_Public_Transportation: Sometimes, Impact: 0 (use of public transportation has mixed effects on health, depending on context, but generally considered low risk)
+   - Donated_Blood: Yes, Impact: -0.5 (blood donation may indicate good health and willingness to engage in healthy behaviors)
+   - Birthday_Month: May, Impact: 0 (month of birth has no direct impact on health risk unless related to specific conditions like seasonal affective disorder, which is not indicated here)
+
+3. The patient's hospitalization risk is influenced significantly by their bipolar diagnosis and mild depression, which are major factors in psychiatric hospitalizations. However, their young age, normal BMI, absence of smoking and alcohol intake, and engagement in healthy behaviors like vegetable consumption and blood donation mitigate this risk to some extent.

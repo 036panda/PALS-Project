@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (26): -1.0 (young age generally reduces health risks)
+   - BMI (29.1): +1.5 (being overweight increases health risks)
+   - Family_Health_History (Diabetes): +1.2 (family history of chronic disease increases risk)
+   - Current_Diagnosis (Bipolar): +2.0 (serious mental health condition increases risk)
+   - Race (Other): 0 (no specific risk adjustment based on provided race category)
+   - Gender (Non-binary): 0 (no specific risk adjustment based on gender identity)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment based on sexual orientation)
+   - Weekly_Alcohol_Intake (3): -0.5 (moderate alcohol intake may have some protective effects against certain conditions)
+   - Smoking (No): -1.0 (not smoking reduces health risks)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (no current depression reduces risk)
+   - Been_Sad_or_Fatigued (Yes): +1.0 (recent feelings of sadness or fatigue increase risk)
+   - Loss_of_Interest (Yes): +1.0 (loss of interest can be a symptom of underlying issues increasing risk)
+   - Hours_of_Sleep (6.2): -0.5 (adequate sleep generally reduces health risks, though 6.2 hours is slightly below the often-recommended 7-9 hours)
+   - Employment (Employed): -0.5 (being employed can reduce stress and increase access to healthcare)
+   - Socioeconomic_Status (Low): +1.0 (lower socioeconomic status can increase health risks due to reduced access to healthcare and increased stress)
+   - Drinks_Coffee (Yes): 0 (coffee consumption has mixed effects on health, but generally considered neutral in moderate amounts)
+   - Likes_Vegetables (Yes): -0.5 (healthy dietary habits reduce health risks)
+   - Favourite_Sport (Gymnastics): -0.5 (regular physical activity reduces health risks)
+   - Votes (Always): 0 (voting behavior not directly related to health risk)
+   - Height_in_Inches (64): 0 (height not directly related to hospitalization risk in this context)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, family history of diabetes, and recent experiences of sadness and loss of interest, which are countered by their young age, lack of smoking, moderate alcohol intake, and healthy lifestyle choices such as regular physical activity and a balanced diet. Overall, the patient's mental health status and socioeconomic factors contribute to a moderate risk of hospitalization.

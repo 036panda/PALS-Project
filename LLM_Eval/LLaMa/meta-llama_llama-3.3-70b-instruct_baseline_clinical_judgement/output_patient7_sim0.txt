@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 6.8
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 18, -1.5 (younger age generally associated with lower risk of hospitalization)
+   - BMI: 24.5, 0.5 (slightly elevated BMI, minor contribution to risk)
+   - Family_Health_History: Asthma, 1.2 (presence of asthma in family history may indicate potential for respiratory issues)
+   - Current_Diagnosis: Schizophrenia, 2.5 (serious mental health condition significantly increasing risk)
+   - Race: Native American, 0.8 (disparities in healthcare access and outcomes may contribute to increased risk)
+   - Gender: Male, 0.2 (minor contribution to risk, as males may have slightly different health outcomes)
+   - Sexual_Orientation: Heterosexual, 0 (neutral impact, as sexual orientation is not directly related to hospitalization risk in this context)
+   - Weekly_Alcohol_Intake: 0, -1 (absence of alcohol intake reduces risk)
+   - Smoking: Yes, 1.8 (smoking significantly increases risk due to associated health issues)
+   - HAM-D: 18-24, 2 (moderate depression is a significant contributor to hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes, 0.5 (symptoms of depression contributing to risk)
+   - Loss_of_Interest: Yes, 0.5 (further indication of depressive symptoms)
+   - Hours_of_Sleep: 8.3, -0.5 (adequate sleep reduces risk)
+   - Employment: Student, -0.5 (being a student may provide structure and support, reducing risk)
+   - Socioeconomic_Status: Middle, 0 (neutral impact, as middle socioeconomic status does not significantly increase or decrease risk in this context)
+3. The patient's hospitalization risk is significantly influenced by the presence of schizophrenia, moderate depression, and smoking, which are major contributors to the overall risk score, while factors such as younger age, absence of alcohol intake, and adequate sleep slightly mitigate this risk. The combination of these factors results in a moderate to high risk of hospitalization, necessitating close monitoring and management of the patient's mental and physical health.

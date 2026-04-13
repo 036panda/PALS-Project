@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age: 18, Impact: -1.5 (lower risk due to younger age)
+   - BMI: 25.6, Impact: 1.2 (higher risk due to overweight status)
+   - Family_Health_History: Hypertension, Impact: 1.0 (higher risk due to family history of hypertension)
+   - Current_Diagnosis: Bipolar, Impact: 2.0 (higher risk due to mental health condition)
+   - Race: Hispanic, Impact: 0.0 (no specific risk adjustment for this demographic)
+   - Gender: Non-binary, Impact: 0.0 (no specific risk adjustment for this demographic)
+   - Sexual_Orientation: Heterosexual, Impact: 0.0 (no specific risk adjustment for this demographic)
+   - Weekly_Alcohol_Intake: 5, Impact: 0.5 (moderate risk due to alcohol consumption)
+   - Smoking: No, Impact: -1.0 (lower risk due to non-smoking status)
+   - HAM-D: 0–6, Impact: -1.0 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued: No, Impact: -0.5 (lower risk due to no reported sadness or fatigue)
+   - Loss_of_Interest: No, Impact: -0.5 (lower risk due to no reported loss of interest)
+   - Hours_of_Sleep: 5.7, Impact: 0.5 (moderate risk due to slightly reduced sleep hours)
+   - Employment: Employed, Impact: -0.5 (lower risk due to employment status)
+   - Socioeconomic_Status: High, Impact: -0.5 (lower risk due to high socioeconomic status)
+   - Drinks_Coffee: No, Impact: 0.0 (no specific risk adjustment for this behavior)
+   - Likes_Vegetables: No, Impact: 0.0 (no specific risk adjustment for this preference)
+   - Favourite_Sport: nan, Impact: 0.0 (no information, no risk adjustment)
+   - Votes: Never, Impact: 0.0 (no specific risk adjustment for this behavior)
+   - Height_in_Inches: 59, Impact: 0.0 (no specific risk adjustment for this physical characteristic)
+   - Has_Drivers_License: No, Impact: 0.0 (no specific risk adjustment for this status)
+   - Picks_Up_Litter: Never, Impact: 0.0 (no specific risk adjustment for this behavior)
+   - Uses_Public_Transportation: Never, Impact: 0.0 (no specific risk adjustment for this behavior)
+   - Donated_Blood: Yes, Impact: -0.5 (lower risk due to altruistic behavior indicating possible better health awareness)
+   - Birthday_Month: January, Impact: 0.0 (no specific risk adjustment for this demographic)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and family history of hypertension, which increase their risk, but this is somewhat mitigated by their young age, employment, high socioeconomic status, and absence of smoking and depression. Overall, the patient's risk profile suggests a moderate risk of hospitalization due to the presence of a significant mental health condition and lifestyle factors.

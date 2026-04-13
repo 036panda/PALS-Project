@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 18: -1.0 (young age generally associated with lower health risks)
+   - BMI: 24.5: 0.5 (slightly above normal, indicating a minor increase in health risks)
+   - Family_Health_History: Asthma: 1.0 (increased risk due to familial predisposition to chronic conditions)
+   - Current_Diagnosis: Schizophrenia: 2.5 (significant increase in risk due to severe mental health condition)
+   - Race: Native American: 0.8 (increased risk due to potential disparities in healthcare access and outcomes)
+   - Gender: Male: 0.2 (slight increase in risk due to generally higher mortality rates among males)
+   - Smoking: Yes: 1.2 (substantial increase in risk due to smoking's impact on various health conditions)
+   - HAM-D: 18-24: Moderate Depression: 1.5 (increase in risk due to presence of moderate depression)
+   - Been_Sad_or_Fatigued: Yes: 0.5 (minor increase in risk due to symptoms of depression)
+   - Loss_of_Interest: Yes: 0.5 (minor increase in risk due to symptoms of depression)
+   - Hours_of_Sleep: 8.3: -0.5 (adequate sleep, reducing health risks)
+   - Socioeconomic_Status: Middle: -0.2 (lower risk due to access to resources and healthcare)
+   - Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake, reducing risk of alcohol-related health issues)
+   - Exercises: Yes: -0.8 (regular exercise, reducing risk of various health conditions)
+   - Allergy: Peanut: 0.1 (minor increase in risk due to potential for severe allergic reactions)
+   - Total: 6.2
+
+3. The patient's hospitalization risk is elevated primarily due to the diagnosis of schizophrenia and moderate depression, compounded by smoking and a family history of asthma, indicating a need for close monitoring and management of these conditions to prevent exacerbations requiring hospitalization. The patient's engagement in regular exercise and absence of alcohol intake are positive factors mitigating some of this risk.

@@ -1,0 +1,23 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: -1.5 (lower age generally reduces risk)
+   - BMI: -0.5 (BMI within normal range reduces risk)
+   - Family_Health_History: Cancer: +2.0 (family history of cancer increases risk)
+   - Current_Diagnosis: Bipolar: +1.5 (bipolar diagnosis increases risk)
+   - Race: Black: +0.5 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender: Male: +0.2 (generally, males have higher risk for certain conditions)
+   - Sexual_Orientation: Heterosexual: 0 (no direct risk contribution)
+   - Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake reduces risk)
+   - Smoking: No: -0.5 (not smoking reduces risk)
+   - HAM-D: 7–17: Mild Depression: +1.0 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.2 (no loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7: +0.5 (less sleep increases risk)
+   - Employment: Student: -0.5 (being a student may reduce certain risks due to access to resources)
+   - Socioeconomic_Status: Low: +1.0 (lower socioeconomic status increases risk due to access to care and stress)
+   - Drinks_Coffee: Yes: 0 (no direct risk contribution)
+   - Likes_Vegetables: Yes: -0.5 (healthy eating habits reduce risk)
+   - Favourite_Sport: Hockey: 0 (no direct risk contribution)
+   - Votes: Sometimes: 0 (no direct risk contribution)
+   - Height_in_Inches: 70: 0 (no direct risk contribution)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering both the direct health implications of certain conditions and behaviors, as well as the indirect effects of socioeconomic status and access to care. The score reflects a balance of protective factors (e.g., low BMI, no smoking) and risk factors (e.g., family history of cancer, bipolar diagnosis, low socioeconomic status).

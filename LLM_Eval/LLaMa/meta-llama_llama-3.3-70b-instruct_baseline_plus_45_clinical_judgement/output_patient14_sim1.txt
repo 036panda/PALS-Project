@@ -1,0 +1,16 @@
+1. Final Hospitalization Risk Score: 4
+2. Breakdown of individual attribute impacts:
+   - Age: 18: -1 (young age generally lowers health risks)
+   - BMI: 30.9: 2 (high BMI increases risk of various health issues)
+   - Current_Diagnosis: Bipolar: 3 (mental health condition increases risk)
+   - Loss_of_Interest: Yes: 1 (potential indicator of depression or other mental health issues)
+   - Hours_of_Sleep: 9.7: -1 (adequate sleep generally lowers health risks)
+   - Socioeconomic_Status: Middle: 0 (neutral impact)
+   - Weekly_Alcohol_Intake: 1: 0 (low alcohol intake, minimal impact)
+   - Smoking: No: -1 (not smoking lowers health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1 (low depression score lowers risk)
+   - Been_Sad_or_Fatigued: No: -1 (absence of sadness or fatigue lowers risk)
+   - Allergy: Penecillin: 1 (presence of an allergy increases risk)
+   - Exercises: No: 1 (lack of exercise increases health risks)
+   - Other attributes: 0 (attributes like gender, race, sexual orientation, etc., do not directly impact hospitalization risk in this context)
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and high BMI, which are countered by their young age, lack of smoking, and normal depression score, resulting in a moderate risk level. The presence of an allergy and lack of exercise also contribute to the overall risk, highlighting the need for managed care and lifestyle adjustments.

@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 64, contribution: 2.5 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 21.6, contribution: -1.0 (negative, as a BMI within the normal range is associated with lower risk)
+   - Family_Health_History: Hypertension, contribution: 1.5 (positive, as a family history of hypertension increases cardiovascular risk)
+   - Current_Diagnosis: nan, contribution: 0 (neutral, as no current diagnosis is provided)
+   - Race: Native American, contribution: 1.0 (positive, as certain racial groups may have higher risks due to socioeconomic and healthcare access disparities)
+   - Gender: Other, contribution: 0.5 (positive, as non-binary individuals may face unique healthcare challenges)
+   - Sexual_Orientation: Heterosexual, contribution: 0 (neutral, as sexual orientation is not directly linked to hospitalization risk in this context)
+   - Weekly_Alcohol_Intake: 2, contribution: -0.5 (negative, as moderate alcohol intake may have some health benefits)
+   - Smoking: Yes, contribution: 2.0 (positive, as smoking significantly increases health risks)
+   - HAM-D: 0–6, contribution: -1.0 (negative, as no depression is indicated)
+   - Been_Sad_or_Fatigued: No, contribution: -0.5 (negative, as the absence of sadness or fatigue suggests better mental health)
+   - Loss_of_Interest: Yes, contribution: 1.0 (positive, as loss of interest can be a symptom of underlying mental health issues)
+   - Hours_of_Sleep: 3.4, contribution: 1.5 (positive, as insufficient sleep is associated with various health problems)
+   - Employment: Retired, contribution: 0 (neutral, as retirement itself does not directly increase hospitalization risk)
+   - Socioeconomic_Status: Low, contribution: 1.0 (positive, as lower socioeconomic status is associated with higher health risks due to limited access to healthcare and resources)
+3. The hospitalization risk score is calculated based on the individual's health and socioeconomic factors, with each factor contributing positively or negatively to the overall score, reflecting their potential impact on health outcomes. The score of 6.8 indicates a moderate to high risk of hospitalization, primarily due to the patient's age, smoking status, family health history, and socioeconomic factors.

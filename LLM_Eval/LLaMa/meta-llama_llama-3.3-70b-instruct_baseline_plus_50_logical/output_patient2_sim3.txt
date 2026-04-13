@@ -1,0 +1,17 @@
+1. 6.8
+2. 
+- Age: 40: 0.5 (positive contribution due to increased risk with age)
+- BMI: 34.6: 1.2 (positive contribution due to increased risk associated with high BMI)
+- Family_Health_History: Cancer: 1.0 (positive contribution due to potential genetic predisposition)
+- Current_Diagnosis: Bipolar: 1.5 (positive contribution due to increased risk associated with mental health conditions)
+- Weekly_Alcohol_Intake: 4: 0.2 (positive contribution due to potential health risks associated with alcohol consumption)
+- HAM-D: 7–17: Mild Depression: 1.0 (positive contribution due to increased risk associated with depression)
+- Loss_of_Interest: Yes: 0.5 (positive contribution due to potential indicator of depression severity)
+- Socioeconomic_Status: Middle: -0.5 (negative contribution due to relatively stable socioeconomic status)
+- Employment: Employed: -0.5 (negative contribution due to stability and access to healthcare)
+- Hours_of_Sleep: 8.9: -0.2 (negative contribution due to adequate sleep)
+- Exercises: No: 0.5 (positive contribution due to lack of physical activity)
+- Smoking: No: -1.0 (negative contribution due to reduced health risk)
+- Been_Sad_or_Fatigued: No: -0.2 (negative contribution due to absence of reported sadness or fatigue)
+- Other factors: 0 (no contribution due to lack of direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, lifestyle, and socioeconomic factors, with a focus on conditions and behaviors that have a direct causal relationship with increased risk of hospitalization, such as high BMI, family health history, and mental health diagnosis. The score reflects the cumulative effect of these factors, with positive contributions indicating increased risk and negative contributions indicating reduced risk.

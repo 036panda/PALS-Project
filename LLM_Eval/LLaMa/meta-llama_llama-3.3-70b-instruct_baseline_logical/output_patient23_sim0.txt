@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 56: 2.5 (positive contribution due to increased risk with age)
+   - BMI: 31.1: 1.8 (positive contribution due to increased risk associated with obesity)
+   - Family_Health_History: Asthma: 0.5 (positive contribution due to potential respiratory complications)
+   - Current_Diagnosis: Schizophrenia: 2.0 (positive contribution due to increased risk of hospitalization for mental health conditions)
+   - Race: Black: 0.2 (positive contribution due to potential health disparities)
+   - Gender: Other: 0.0 (neutral contribution due to lack of specific risk data)
+   - Sexual_Orientation: Heterosexual: 0.0 (neutral contribution due to lack of specific risk data)
+   - Weekly_Alcohol_Intake: 0: -0.5 (negative contribution due to reduced risk associated with no alcohol intake)
+   - Smoking: No: -0.5 (negative contribution due to reduced risk associated with not smoking)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (negative contribution due to reduced risk associated with no depression)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative contribution due to reduced risk associated with no reported sadness or fatigue)
+   - Loss_of_Interest: Yes: 1.0 (positive contribution due to increased risk associated with loss of interest, potentially indicating underlying mental health issues)
+   - Hours_of_Sleep: 8.0: -0.5 (negative contribution due to reduced risk associated with adequate sleep)
+   - Employment: Employed: -0.5 (negative contribution due to reduced risk associated with stable employment)
+   - Socioeconomic_Status: Middle: -0.5 (negative contribution due to reduced risk associated with middle socioeconomic status)
+3. The hospitalization risk score is calculated based on the individual's specific health and demographic factors, with each factor contributing positively or negatively to the overall risk score, reflecting the complex interplay of causal relationships between these factors and hospitalization risk. The score of 6.8 reflects the cumulative effect of these factors, indicating a moderate to high risk of hospitalization.

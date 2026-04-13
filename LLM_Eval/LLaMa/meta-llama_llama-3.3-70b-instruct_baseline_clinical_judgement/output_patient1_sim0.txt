@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (22): -1 (younger age generally associated with lower risk of hospitalization)
+   - BMI (23.8): 0 (within normal range, minimal impact)
+   - Family_Health_History (Cancer): +2 (potential genetic predisposition to serious health issues)
+   - Current_Diagnosis (Anxiety): +1.5 (anxiety can lead to severe episodes requiring hospitalization)
+   - Race (Other): 0 (insufficient data to determine specific risk association)
+   - Gender (Non-binary): 0 (insufficient data to determine specific risk association)
+   - Sexual_Orientation (Heterosexual): 0 (no known direct association with hospitalization risk)
+   - Weekly_Alcohol_Intake (7): +1 (moderate alcohol intake can contribute to health issues)
+   - Smoking (Yes): +2 (smoking is a significant risk factor for numerous health problems)
+   - HAM-D (25+): +3 (severe depression significantly increases risk of hospitalization)
+   - Been_Sad_or_Fatigued (No): -0.5 (less likely to be at immediate risk of severe mental health episodes)
+   - Loss_of_Interest (No): -0.5 (similar to been sad or fatigued, indicates less immediate risk)
+   - Hours_of_Sleep (6.3): +0.5 (slightly below average sleep can impact mental and physical health)
+   - Employment (Student): -1 (being a student may provide access to healthcare and support systems)
+   - Socioeconomic_Status (Low): +2 (lower socioeconomic status is associated with increased health risks due to barriers in accessing healthcare)
+
+3. The patient's severe depression, smoking habit, and family history of cancer significantly elevate their risk of hospitalization, while their young age and student status slightly mitigate this risk. Overall, the combination of severe mental health issues and lifestyle factors contributes to a high hospitalization risk score.

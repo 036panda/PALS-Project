@@ -1,0 +1,30 @@
+1. Risk Score: 6.2
+
+2. Input Factors and Contributions:
+   - Age (56): +1.5 (increased risk due to age-related health decline)
+   - BMI (31.1): +2.0 (high BMI indicating potential for obesity-related health issues)
+   - Family_Health_History (Asthma): +0.5 (potential genetic predisposition to respiratory issues)
+   - Current_Diagnosis (Schizophrenia): +1.2 (serious mental health condition requiring ongoing management)
+   - Race (Black): +0.2 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender (Other): 0 (neutral, as there's insufficient data to assign a risk)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, as sexual orientation is not directly linked to hospitalization risk in this context)
+   - Weekly_Alcohol_Intake (0): 0 (no increased risk due to alcohol)
+   - Smoking (No): 0 (no increased risk due to smoking)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued (No): 0 (no increased risk)
+   - Loss_of_Interest (Yes): +0.8 (potential indicator of underlying mental health issue)
+   - Hours_of_Sleep (8.0): -0.5 (adequate sleep reduces health risks)
+   - Employment (Employed): -0.5 (stable employment can indicate better health outcomes)
+   - Socioeconomic_Status (Middle): 0 (neutral, as middle socioeconomic status does not significantly increase or decrease risk in this context)
+   - Drinks_Coffee (No): 0 (no direct impact on hospitalization risk)
+   - Likes_Vegetables (No): +0.2 (potential for less healthy diet)
+   - Favourite_Sport (Basketball): 0 (no direct impact on hospitalization risk)
+   - Votes (Never): 0 (no direct impact on hospitalization risk)
+   - Height_in_Inches (63): 0 (no direct impact on hospitalization risk)
+   - Has_Drivers_License (No): 0 (no direct impact on hospitalization risk)
+   - Picks_Up_Litter (Always): 0 (no direct impact on hospitalization risk)
+   - Uses_Public_Transportation (Never): 0 (no direct impact on hospitalization risk)
+   - Donated_Blood (Yes): -0.2 (indicator of good health and civic engagement)
+   - Birthday_Month (March): 0 (no direct impact on hospitalization risk)
+
+3. The risk score calculation is based on assigning numerical values to each factor that could potentially influence hospitalization risk, considering both physical health indicators (like BMI and family health history) and mental health factors (such as schizophrenia diagnosis and loss of interest). The sum of these values provides a comprehensive risk score, reflecting the complex interplay of factors that could lead to hospitalization.

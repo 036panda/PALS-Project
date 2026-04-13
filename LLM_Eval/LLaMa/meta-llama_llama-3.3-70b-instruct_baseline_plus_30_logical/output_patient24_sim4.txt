@@ -1,0 +1,14 @@
+1. Risk Score: 6.2
+2. Input Factors and Contributions:
+   - Age: 52: +0.5 (increased risk with age)
+   - BMI: 16.4: +1.2 (low BMI indicates potential health issues)
+   - Family_Health_History: Cancer: +1.0 (family history of serious disease)
+   - Current_Diagnosis: Bipolar: +1.5 (serious mental health condition)
+   - Smoking: Yes: +1.0 (known health risk)
+   - Weekly_Alcohol_Intake: 7: +0.5 (moderate alcohol intake)
+   - HAM-D: 7–17: Mild Depression: +0.8 (presence of depression)
+   - Loss_of_Interest: Yes: +0.5 (symptom of depression)
+   - Hours_of_Sleep: 4.8: +0.8 (inadequate sleep)
+   - Socioeconomic_Status: Middle: 0 (neutral)
+   - All other factors: 0 (insufficient direct causal link to hospitalization risk)
+3. Justification: The risk score calculation is based on the presence of direct health risks (low BMI, family history of cancer, bipolar diagnosis, smoking, moderate alcohol intake, mild depression, loss of interest, inadequate sleep) which cumulatively increase the likelihood of hospitalization. Each factor's contribution is weighted according to its known impact on health and potential for necessitating hospital care.

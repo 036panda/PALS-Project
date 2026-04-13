@@ -1,0 +1,18 @@
+1. 2.8
+2. 
+- Age: -0.5 (young age generally reduces health risks)
+- BMI: -0.2 (BMI within normal range reduces health risks)
+- Family_Health_History: Cancer: +1.5 (family history of cancer increases risk)
+- Current_Diagnosis: nan: 0 (no current diagnosis, neutral)
+- Race: White: 0 (race not directly contributing to hospitalization risk in this context)
+- Gender: Non-binary: 0 (gender not directly contributing to hospitalization risk in this context)
+- Sexual_Orientation: Heterosexual: 0 (sexual orientation not directly contributing to hospitalization risk)
+- Weekly_Alcohol_Intake: 3: +0.5 (moderate alcohol intake may slightly increase health risks)
+- Smoking: No: -0.5 (not smoking reduces health risks)
+- HAM-D: 7–17: Mild Depression: +1.0 (mild depression increases health risks)
+- Been_Sad_or_Fatigued: No: -0.2 (not experiencing sadness or fatigue reduces health risks)
+- Loss_of_Interest: No: -0.2 (no loss of interest reduces health risks)
+- Hours_of_Sleep: 9.6: -0.5 (adequate sleep reduces health risks)
+- Employment: Employed: -0.5 (being employed generally reduces health risks)
+- Socioeconomic_Status: Middle: -0.2 (middle socioeconomic status reduces health risks compared to lower status)
+3. The hospitalization risk score is calculated based on the individual's specific health and lifestyle factors, with a focus on those that have a direct causal relationship with increased risk of hospitalization, such as family history of cancer and mild depression. The score reflects a balanced consideration of both positive and negative contributions from various factors, resulting in a relatively low risk score due to the individual's young age, healthy lifestyle, and absence of severe health conditions.

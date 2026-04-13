@@ -1,0 +1,13 @@
+1. Risk Assessment Score: 6
+2. Parameters and risk values:
+	* Age: -1 (young age is associated with lower risk)
+	* BMI: 0 (normal BMI)
+	* Family_Health_History: +2 (family history of cancer increases risk)
+	* Current_Diagnosis: +3 (schizophrenia increases risk)
+	* Socioeconomic_Status: +1 (low socioeconomic status increases risk)
+	* Weekly_Alcohol_Intake: +1 (moderate alcohol intake increases risk)
+	* Loss_of_Interest: +1 (loss of interest is a symptom of depression, increasing risk)
+	* Exercises: -1 (lack of exercise increases risk, but this is a negative value as it's a risk factor)
+	* HAM-D: 0 (normal/no depression)
+	* All other parameters: 0 (no significant impact on hospitalization risk)
+3. The patient's risk score is driven by their family history of cancer, current diagnosis of schizophrenia, and socioeconomic status, which are significant risk factors for hospitalization. The patient's young age and lack of other comorbidities help to mitigate the overall risk, but the presence of loss of interest and moderate alcohol intake contribute to a moderate risk score.

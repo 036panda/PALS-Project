@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 4.5
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 20, Impact: -1.5 (younger age generally associated with lower risk)
+   - BMI: 21.0, Impact: -0.5 (normal BMI, lower risk)
+   - Family_Health_History: Cancer, Impact: +1.0 (family history of cancer may increase risk)
+   - Current_Diagnosis: Bipolar, Impact: +2.0 (bipolar disorder increases risk)
+   - Race: Black, Impact: +0.5 (racial disparities in healthcare access and outcomes)
+   - Gender: Male, Impact: +0.0 (neutral impact)
+   - Sexual_Orientation: Heterosexual, Impact: +0.0 (neutral impact)
+   - Weekly_Alcohol_Intake: 0, Impact: -0.5 (no alcohol intake, lower risk)
+   - Smoking: No, Impact: -0.5 (not smoking, lower risk)
+   - HAM-D: 7–17, Impact: +1.5 (mild depression, increased risk)
+   - Been_Sad_or_Fatigued: No, Impact: -0.5 (no recent sadness or fatigue, lower risk)
+   - Loss_of_Interest: No, Impact: -0.5 (no loss of interest, lower risk)
+   - Hours_of_Sleep: 5.7, Impact: +1.0 (inadequate sleep, increased risk)
+   - Employment: Student, Impact: -0.5 (student status, potentially lower risk due to access to resources)
+   - Socioeconomic_Status: Low, Impact: +1.5 (lower socioeconomic status, increased risk)
+   - Drinks_Coffee: Yes, Impact: +0.0 (neutral impact)
+   - Likes_Vegetables: Yes, Impact: -0.5 (healthy dietary habits, lower risk)
+   - Favourite_Sport: Hockey, Impact: +0.0 (neutral impact)
+   - Votes: Sometimes, Impact: +0.0 (neutral impact)
+   - Height_in_Inches: 70, Impact: +0.0 (neutral impact)
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, mild depression, inadequate sleep, and low socioeconomic status, which contribute to a moderate risk score. However, their young age, normal BMI, and healthy lifestyle habits help mitigate this risk, resulting in a final score of 4.5.

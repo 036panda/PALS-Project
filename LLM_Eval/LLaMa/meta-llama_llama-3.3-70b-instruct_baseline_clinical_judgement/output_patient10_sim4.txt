@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 7.2
+
+2. Breakdown of individual attribute impacts:
+   - Age (32): -0.5 (lower risk due to relatively young age)
+   - BMI (31.6): +1.2 (higher risk due to obesity)
+   - Family_Health_History (Cancer): +1.0 (increased risk due to family history of cancer)
+   - Current_Diagnosis (nan): 0 (no impact due to lack of information)
+   - Race (Asian): -0.2 (slightly lower risk due to generally lower health risks in this demographic)
+   - Gender (Male): +0.3 (slightly higher risk due to generally higher health risks in males)
+   - Sexual_Orientation (Heterosexual): 0 (no impact)
+   - Weekly_Alcohol_Intake (3): +0.5 (moderate risk due to alcohol consumption)
+   - Smoking (Yes): +1.5 (high risk due to smoking)
+   - HAM-D (18-24, Moderate Depression): +2.0 (high risk due to moderate depression)
+   - Been_Sad_or_Fatigued (Yes): +0.8 (higher risk due to symptoms of depression)
+   - Loss_of_Interest (Yes): +0.8 (higher risk due to symptoms of depression)
+   - Hours_of_Sleep (7.5): -0.2 (slightly lower risk due to adequate sleep)
+   - Employment (Employed): -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status (Low): +1.2 (higher risk due to socioeconomic challenges)
+
+3. The patient's hospitalization risk is significantly influenced by factors such as smoking, moderate depression, and a family history of cancer, which collectively indicate a substantial need for medical intervention and monitoring. The patient's socioeconomic status and employment, while providing some stability, do not outweigh the cumulative health risks associated with their lifestyle and mental health status.

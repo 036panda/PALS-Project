@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (22): -1.0 (young age generally lowers health risks)
+   - BMI (23.8): -0.2 (BMI within normal range, slightly lowering risk)
+   - Family_Health_History (Cancer): +1.5 (family history of cancer increases risk)
+   - Current_Diagnosis (Anxiety): +1.2 (anxiety can increase risk of hospitalization)
+   - Race (Other): +0.0 (neutral impact due to lack of specific risk association)
+   - Gender (Non-binary): +0.0 (neutral impact, as there's no direct correlation with hospitalization risk)
+   - Sexual_Orientation (Heterosexual): +0.0 (neutral impact, as sexual orientation does not directly influence hospitalization risk)
+   - Weekly_Alcohol_Intake (7): +1.0 (moderate alcohol intake can increase health risks)
+   - Smoking (Yes): +2.0 (smoking significantly increases health risks)
+   - HAM-D (25+): +3.0 (severe depression significantly increases hospitalization risk)
+   - Been_Sad_or_Fatigued (No): -0.5 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest (No): -0.5 (no loss of interest reduces risk)
+   - Hours_of_Sleep (6.3): -0.2 (sleep hours are somewhat low but not drastically, slight negative impact)
+   - Employment (Student): -0.5 (being a student may have a protective effect due to access to resources and support)
+   - Socioeconomic_Status (Low): +1.0 (low socioeconomic status increases health risks)
+   - Drinks_Coffee (No): +0.0 (neutral impact, as coffee consumption's effect on health is complex and context-dependent)
+   - Likes_Vegetables (Yes): -0.5 (healthy eating habits reduce risk)
+   - Favourite_Sport (Hockey): -0.5 (engagement in sports suggests some level of physical activity, reducing risk)
+   - Votes (Sometimes): +0.0 (voting behavior has no direct impact on health risks)
+   - Height_in_Inches (59): +0.0 (height has no direct correlation with hospitalization risk in this context)
+
+3. The patient's severe depression, smoking habit, and family history of cancer significantly increase the risk of hospitalization, while factors such as young age, normal BMI, and healthy lifestyle choices (e.g., liking vegetables, playing hockey) somewhat mitigate this risk. Overall, the combination of severe mental health issues and unhealthy behaviors (smoking, moderate alcohol intake) contributes to a notable risk of hospitalization.

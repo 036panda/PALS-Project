@@ -1,0 +1,15 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 53: 0.8 (positive, as increasing age is associated with higher health risks)
+   - BMI: 25.3: 1.2 (positive, as a BMI of 25.3 is considered overweight, increasing health risks)
+   - Family_Health_History: Asthma: 0.5 (positive, as a family history of asthma may indicate a genetic predisposition to respiratory issues)
+   - Current_Diagnosis: Depression: 1.5 (positive, as depression is a significant health concern that can impact physical health)
+   - HAM-D: 18-24: Moderate Depression: 1.0 (positive, as moderate depression indicates a significant level of depressive symptoms)
+   - Hours_of_Sleep: 5.7: 0.8 (positive, as sleeping less than 7 hours per night is associated with increased health risks)
+   - Weekly_Alcohol_Intake: 4: 0.2 (positive, as some alcohol consumption is associated with increased health risks, although moderate consumption may have some benefits)
+   - Socioeconomic_Status: Middle: -0.5 (negative, as a middle socioeconomic status is associated with relatively better access to healthcare and lower health risks compared to lower socioeconomic statuses)
+   - Employment: Employed: -0.5 (negative, as being employed is associated with better mental and physical health outcomes)
+   - Water_Intake_oz: 44.1: -0.2 (negative, as adequate water intake is associated with better health outcomes)
+   - Donated_Blood: Yes: -0.1 (negative, as donating blood may indicate a willingness to engage in healthy behaviors)
+   - Other factors (Race, Gender, Sexual_Orientation, Smoking, Been_Sad_or_Fatigued, Loss_of_Interest, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal): 0 (no significant contribution to hospitalization risk score)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic characteristics, with a focus on factors that have a direct causal relationship with increased health risks, such as age, BMI, family health history, and current diagnosis of depression. The score reflects the cumulative effect of these factors on the individual's likelihood of requiring hospitalization.

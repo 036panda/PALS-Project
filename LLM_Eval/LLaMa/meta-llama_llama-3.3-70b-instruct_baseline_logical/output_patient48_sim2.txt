@@ -1,0 +1,18 @@
+1. 6.3
+2. Input factors and their assigned contributions:
+   - Age: 46: 0.8 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 28.3: 1.2 (positive, as higher BMI is linked to various health issues)
+   - Family_Health_History: Heart Disease: 1.5 (positive, due to increased risk of cardiovascular events)
+   - Current_Diagnosis: Bipolar: 2.0 (positive, as bipolar disorder can lead to severe episodes requiring hospitalization)
+   - Race: Native American: 0.5 (positive, considering health disparities and access to care)
+   - Gender: Non-binary: 0.0 (neutral, as there's no direct causal link to hospitalization risk provided)
+   - Sexual_Orientation: Heterosexual: 0.0 (neutral, as there's no direct causal link to hospitalization risk provided)
+   - Weekly_Alcohol_Intake: 2: -0.2 (negative, as moderate alcohol intake may have protective effects against certain conditions)
+   - Smoking: No: -0.5 (negative, as not smoking reduces the risk of numerous health issues)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (negative, indicating lower risk of hospitalization due to depression)
+   - Been_Sad_or_Fatigued: No: -0.5 (negative, suggesting lower risk of mental health-related hospitalization)
+   - Loss_of_Interest: Yes: 1.0 (positive, as it can be a symptom of severe mental health issues)
+   - Hours_of_Sleep: 7.0: -0.2 (negative, as adequate sleep is associated with better health outcomes)
+   - Employment: Employed: -0.5 (negative, as employment can provide stability and access to healthcare)
+   - Socioeconomic_Status: Middle: -0.5 (negative, as middle socioeconomic status may provide better access to healthcare and resources)
+3. The hospitalization risk score is calculated based on the individual's health and socioeconomic factors, with each factor contributing positively or negatively to the overall risk, reflecting their potential causal relationships with hospitalization. The score of 6.3 indicates a moderate risk level, primarily driven by the presence of bipolar disorder, family health history of heart disease, and higher BMI, balanced by protective factors such as employment, middle socioeconomic status, and moderate alcohol intake.

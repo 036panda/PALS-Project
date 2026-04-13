@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 26: -0.5 (young age generally lowers health risks)
+   - BMI: 29.1: +1.2 (being overweight increases health risks)
+   - Family_Health_History: Diabetes: +1.0 (family history of diabetes increases risk of various health issues)
+   - Current_Diagnosis: Bipolar: +1.5 (bipolar disorder can lead to significant health and hospitalization risks)
+   - Been_Sad_or_Fatigued: Yes: +0.5 (indicative of potential mental health issues)
+   - Loss_of_Interest: Yes: +0.5 (another indicator of potential mental health issues)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (low depression score reduces risk)
+   - Hours_of_Sleep: 6.2: -0.2 (adequate sleep generally reduces health risks, though slightly below average)
+   - Socioeconomic_Status: Low: +0.7 (lower socioeconomic status can increase health risks due to access to care and stress)
+   - Weekly_Alcohol_Intake: 3: +0.2 (moderate alcohol intake can have mixed effects on health)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - Water_Intake_oz: 45.5: -0.2 (adequate hydration reduces health risks, though slightly below recommended average)
+   - Other attributes (Race, Gender, Sexual_Orientation, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal): +0.0 (these do not directly impact hospitalization risk in this context)
+
+3. The patient's hospitalization risk is influenced significantly by their bipolar diagnosis and family history of diabetes, which are major contributors to their overall risk score. Despite some protective factors such as not smoking and being employed, the presence of sad or fatigued feelings and loss of interest, alongside the bipolar diagnosis, necessitate close monitoring of their mental health to mitigate potential hospitalization risks.

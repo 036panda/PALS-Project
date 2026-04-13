@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (22): -1.5 (young age generally lowers health risks)
+   - BMI (27.1): +1.2 (borderline overweight, slight increase in health risks)
+   - Family_Health_History (Heart Disease): +1.8 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Schizophrenia): +2.5 (significant increase in risk due to mental health condition)
+   - Race (Hispanic): +0.2 (slight increase in risk due to potential healthcare disparities)
+   - Gender (Non-binary): +0.1 (minor increase in risk due to potential social determinants of health)
+   - Sexual_Orientation (Bisexual): +0.1 (minor increase in risk due to potential social determinants of health)
+   - Weekly_Alcohol_Intake (2): -0.5 (low alcohol intake, slight decrease in risk)
+   - Smoking (No): -1.0 (non-smoker, decrease in risk)
+   - HAM-D (7–17: Mild Depression): +1.5 (increase in risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): +0.8 (increase in risk due to reported symptoms)
+   - Loss_of_Interest (Yes): +0.8 (increase in risk due to reported symptoms)
+   - Hours_of_Sleep (8.9): -0.5 (adequate sleep, slight decrease in risk)
+   - Employment (Student): -0.5 (student status, slight decrease in risk due to access to resources)
+   - Socioeconomic_Status (Middle): -0.2 (middle socioeconomic status, minor decrease in risk)
+   - Drinks_Coffee (Yes): +0.1 (minor increase in risk due to potential caffeine effects)
+   - Likes_Vegetables (No): +0.2 (minor increase in risk due to potential dietary factors)
+   - Favourite_Sport (Basketball): -0.1 (minor decrease in risk due to engagement in physical activity)
+   - Votes (Always): -0.1 (minor decrease in risk due to engagement in civic activities)
+   - Height_in_Inches (74): +0.1 (minor increase in risk due to potential health correlations with height)
+   - Has_Drivers_License (No): +0.1 (minor increase in risk due to potential limitations in access to healthcare)
+   - Picks_Up_Litter (Always): -0.1 (minor decrease in risk due to engagement in community activities)
+   - Uses_Public_Transportation (Sometimes): +0.1 (minor increase in risk due to potential exposure to illnesses)
+   - Donated_Blood (No): +0.1 (minor increase in risk due to potential health implications)
+   - Birthday_Month (February): 0 (no direct impact on health risk)
+
+3. The patient's hospitalization risk is influenced significantly by their schizophrenia diagnosis and mild depression, which are major contributors to their overall risk score. Despite some protective factors such as young age, low alcohol intake, and non-smoking status, the presence of mental health conditions and family history of heart disease elevate their risk profile.

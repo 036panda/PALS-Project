@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 18, impact: -0.5 (lower risk due to younger age)
+   - BMI: 30.9, impact: 1.2 (higher risk due to obesity)
+   - Family_Health_History: nan, impact: 0 (no information, neutral impact)
+   - Current_Diagnosis: Bipolar, impact: 2.0 (higher risk due to mental health condition)
+   - Weekly_Alcohol_Intake: 1, impact: -0.2 (lower risk due to minimal alcohol intake)
+   - Smoking: No, impact: -0.5 (lower risk due to non-smoking status)
+   - HAM-D: 0–6, impact: -1.0 (lower risk due to normal/no depression)
+   - Been_Sad_or_Fatigued: No, impact: -0.2 (lower risk due to no reported sadness or fatigue)
+   - Loss_of_Interest: Yes, impact: 1.0 (higher risk due to loss of interest)
+   - Hours_of_Sleep: 9.7, impact: -0.5 (lower risk due to adequate sleep)
+   - Socioeconomic_Status: Middle, impact: 0 (neutral impact due to middle socioeconomic status)
+   - Allergy: Penecillin, impact: 0.5 (higher risk due to allergy)
+   - Other attributes (e.g., race, gender, sexual orientation, employment, etc.): 0 (neutral impact as these are not directly related to hospitalization risk in this context)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and loss of interest, which are significant risk factors, but this risk is somewhat mitigated by their young age, minimal alcohol intake, non-smoking status, and adequate sleep. Overall, the patient's mental health condition and specific symptoms contribute to a moderate risk of hospitalization.

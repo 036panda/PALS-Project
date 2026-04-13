@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age: 56: +1.5 (increased risk due to age-related health decline)
+   - BMI: 31.1: +1.2 (obesity-related health risks)
+   - Family_Health_History: Asthma: +0.8 (potential for respiratory issues)
+   - Current_Diagnosis: Schizophrenia: +2.0 (serious mental health condition)
+   - Race: Black: +0.2 (disparities in healthcare access and outcomes)
+   - Gender: Other: +0.1 (potential for unique health challenges)
+   - Weekly_Alcohol_Intake: 0: -0.5 (reduced risk due to no alcohol consumption)
+   - Smoking: No: -0.5 (reduced risk due to not smoking)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (low risk of depression)
+   - Been_Sad_or_Fatigued: No: -0.2 (reduced risk of current mental health distress)
+   - Loss_of_Interest: Yes: +0.8 (potential indicator of underlying mental health issue)
+   - Hours_of_Sleep: 8.0: -0.5 (adequate sleep reduces health risks)
+   - Employment: Employed: -0.5 (stable employment can reduce stress and improve health outcomes)
+   - Socioeconomic_Status: Middle: -0.2 (access to some resources, but potential for financial stress)
+   - Other attributes (e.g., coffee consumption, sports preferences, voting habits, etc.): +0.5 (cumulative minor risks or lack of protective factors)
+   - Total: 6.2
+
+3. The patient's hospitalization risk is elevated primarily due to their schizophrenia diagnosis, obesity, and family history of asthma, which collectively increase the likelihood of health complications. Despite some protective factors such as no alcohol or tobacco use and stable employment, the presence of significant mental and physical health challenges warrants a moderate to high hospitalization risk score.

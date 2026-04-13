@@ -1,0 +1,13 @@
+1. 7.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 64, contribution: +2.5 (older age increases health risks)
+   - BMI: 29.9, contribution: +1.8 (high BMI increases health risks)
+   - Family_Health_History: Asthma, contribution: +1.2 (family health history can increase individual risk)
+   - Current_Diagnosis: Depression, contribution: +2.0 (depression increases hospitalization risk)
+   - HAM-D: 18-24, contribution: +1.5 (moderate depression increases hospitalization risk)
+   - Loss_of_Interest: Yes, contribution: +0.8 (loss of interest can indicate severe depression)
+   - Hours_of_Sleep: 6.4, contribution: +0.5 (inadequate sleep can increase health risks)
+   - Socioeconomic_Status: Middle, contribution: -0.5 (middle socioeconomic status may have better access to healthcare)
+   - Weekly_Alcohol_Intake: 2, contribution: -0.2 (low alcohol intake may reduce health risks)
+   - Smoking: No, contribution: -1.0 (not smoking reduces health risks)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic characteristics, with a focus on the causal relationships between these factors and hospitalization risk. The assigned contributions reflect the relative strength of these relationships, with older age, high BMI, family health history, and depression being significant risk factors.

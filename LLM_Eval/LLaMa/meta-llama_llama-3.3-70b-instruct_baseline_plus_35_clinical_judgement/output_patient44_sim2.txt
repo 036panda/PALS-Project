@@ -1,0 +1,14 @@
+1. Final Hospitalization Risk Score: 4.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 73 (+2.5, older age increases health risks)
+   - BMI: 22.5 (-0.5, normal BMI reduces health risks)
+   - Family_Health_History: Asthma (+1.0, family history of asthma may increase respiratory risks)
+   - Current_Diagnosis: Anxiety (+1.2, anxiety can contribute to various health issues)
+   - Been_Sad_or_Fatigued: Yes (+0.8, recent feelings of sadness or fatigue may indicate underlying health concerns)
+   - Loss_of_Interest: No (-0.2, no loss of interest suggests better mental health)
+   - Hours_of_Sleep: 9.7 (-0.5, adequate sleep reduces health risks)
+   - Socioeconomic_Status: Low (+1.0, lower socioeconomic status can increase health risks due to limited access to resources)
+   - Weekly_Alcohol_Intake: 6 (+0.5, moderate alcohol intake may increase health risks)
+   - HAM-D: 0–6: Normal / No Depression (-1.0, no depression reduces health risks)
+   - All other attributes have a negligible or neutral impact on hospitalization risk, summing to 0.
+3. The patient's advanced age, family history of asthma, current anxiety diagnosis, and socioeconomic status contribute to an elevated hospitalization risk, while their normal BMI, adequate sleep, and lack of depression partially mitigate these factors. Overall, the patient's risk profile suggests a moderate likelihood of hospitalization due to their complex interplay of health and socioeconomic factors.

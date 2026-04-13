@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (42): 0.8 (moderate risk due to increasing age)
+   - BMI (26.4): 1.2 (high risk due to overweight status)
+   - Family_Health_History (Cancer): 1.5 (high risk due to family history of cancer)
+   - Current_Diagnosis (Anxiety): 1.0 (moderate risk due to anxiety diagnosis)
+   - Race (Native American): 0.5 (moderate risk due to potential health disparities)
+   - Gender (Non-binary): 0.2 (low risk, as there's no direct correlation with hospitalization risk)
+   - Sexual_Orientation (Heterosexual): 0.0 (no impact)
+   - Weekly_Alcohol_Intake (4): 0.5 (low to moderate risk due to alcohol consumption)
+   - Smoking (No): -0.5 (reduced risk due to not smoking)
+   - HAM-D (7–17: Mild Depression): 1.2 (high risk due to mild depression)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (moderate risk due to symptoms of depression)
+   - Loss_of_Interest (Yes): 0.8 (moderate risk due to symptoms of depression)
+   - Hours_of_Sleep (10.2): -0.2 (low risk due to adequate sleep)
+   - Employment (Employed): -0.5 (reduced risk due to stable employment)
+   - Socioeconomic_Status (Middle): -0.2 (low risk due to middle socioeconomic status)
+   - Drinks_Coffee (No): 0.0 (no impact)
+   - Likes_Vegetables (Yes): -0.5 (reduced risk due to healthy eating habits)
+   - Favourite_Sport (nan): 0.0 (no impact)
+   - Votes (Sometimes): 0.0 (no impact)
+   - Height_in_Inches (63): 0.0 (no direct impact on hospitalization risk)
+
+3. The patient's hospitalization risk is influenced by a combination of factors including their family health history, current anxiety and mild depression diagnoses, and lifestyle factors such as alcohol intake and dietary habits. Overall, while the patient has several risk factors, their employment status, healthy eating habits, and absence of smoking contribute to a moderate rather than high hospitalization risk score.

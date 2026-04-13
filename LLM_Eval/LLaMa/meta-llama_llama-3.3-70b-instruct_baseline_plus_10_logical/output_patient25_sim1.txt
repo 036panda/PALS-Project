@@ -1,0 +1,17 @@
+1. Risk Score: 6.2
+
+2. Input Factors and Contributions:
+   - Age: 63: +2.5 (increased risk due to age-related health decline)
+   - BMI: 33.3: +1.8 (increased risk due to obesity-related health issues)
+   - Family_Health_History: Heart Disease: +1.2 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Bipolar: +1.0 (increased risk due to mental health condition)
+   - HAM-D: 7–17: Mild Depression: +0.8 (increased risk due to depressive symptoms)
+   - Weekly_Alcohol_Intake: 1: -0.1 (slightly decreased risk due to moderate alcohol consumption)
+   - Smoking: No: -0.5 (decreased risk due to absence of smoking)
+   - Hours_of_Sleep: 7.7: -0.2 (slightly decreased risk due to adequate sleep)
+   - Socioeconomic_Status: Middle: +0.2 (slightly increased risk due to potential access barriers)
+   - Been_Sad_or_Fatigued: No: -0.1 (slightly decreased risk due to absence of reported sadness or fatigue)
+   - Loss_of_Interest: No: -0.1 (slightly decreased risk due to absence of reported loss of interest)
+   - Other factors (Race, Gender, Sexual_Orientation, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month): 0 (no direct causal relationship to hospitalization risk)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, with a focus on age, health history, current diagnosis, and lifestyle factors that have a direct impact on health outcomes. The assigned contributions reflect the relative strength of these relationships, with the sum of all contributions equaling the final risk score.

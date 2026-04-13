@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attribute impacts:
+   - Age (18): -1.5 (lower risk due to younger age)
+   - BMI (25.6): 1.2 (moderate risk due to overweight status)
+   - Family_Health_History (Hypertension): 1.0 (increased risk due to family history of hypertension)
+   - Current_Diagnosis (Bipolar): 2.0 (significant risk due to mental health condition)
+   - Race (Hispanic): 0.0 (no specific risk adjustment for this demographic)
+   - Gender (Non-binary): 0.0 (no specific risk adjustment for this demographic)
+   - Sexual_Orientation (Heterosexual): 0.0 (no specific risk adjustment for this demographic)
+   - Weekly_Alcohol_Intake (5): 0.5 (moderate risk due to alcohol consumption)
+   - Smoking (No): -0.5 (lower risk due to non-smoking status)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued (No): -0.5 (lower risk due to no reported sadness or fatigue)
+   - Loss_of_Interest (No): -0.5 (lower risk due to no reported loss of interest)
+   - Hours_of_Sleep (5.7): 0.5 (moderate risk due to slightly reduced sleep hours)
+   - Employment (Employed): -0.5 (lower risk due to employment status)
+   - Socioeconomic_Status (High): -0.5 (lower risk due to high socioeconomic status)
+   - Drinks_Coffee (No): 0.0 (no specific risk adjustment for coffee consumption)
+   - Likes_Vegetables (No): 0.0 (no specific risk adjustment for vegetable preference)
+   - Favourite_Sport (nan): 0.0 (no specific risk adjustment for unknown sport preference)
+   - Votes (Never): 0.0 (no specific risk adjustment for voting behavior)
+   - Height_in_Inches (59): 0.0 (no specific risk adjustment for height)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and family history of hypertension, which are significant risk factors, but their young age, employment, and high socioeconomic status mitigate this risk to some extent. Overall, the patient's risk profile suggests a moderate level of concern, warranting regular monitoring and management of their bipolar condition and lifestyle factors.

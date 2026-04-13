@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (26): -1.0 (young age generally reduces health risks)
+   - BMI (29.1): +1.5 (being overweight increases health risks)
+   - Family_Health_History (Diabetes): +1.2 (family history of diabetes increases risk of various health issues)
+   - Current_Diagnosis (Bipolar): +2.0 (bipolar disorder can significantly impact physical and mental health)
+   - Race (Other): 0 (no specific risk adjustment based on the information given)
+   - Gender (Non-binary): 0 (no specific risk adjustment based on the information given)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment based on the information given)
+   - Weekly_Alcohol_Intake (3): -0.5 (moderate alcohol intake may have some health benefits)
+   - Smoking (No): -1.0 (not smoking reduces health risks)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (no current depression reduces risk)
+   - Been_Sad_or_Fatigued (Yes): +1.0 (recent feelings of sadness or fatigue may indicate underlying issues)
+   - Loss_of_Interest (Yes): +1.0 (loss of interest can be a symptom of depression or other mental health issues)
+   - Hours_of_Sleep (6.2): -0.5 (adequate sleep generally reduces health risks, though 6.2 hours is slightly below the recommended range)
+   - Employment (Employed): -0.5 (being employed can reduce stress and improve mental health)
+   - Socioeconomic_Status (Low): +1.0 (lower socioeconomic status can increase health risks due to reduced access to healthcare and increased stress)
+   - Drinks_Coffee (Yes): 0 (moderate coffee consumption has mixed effects on health)
+   - Likes_Vegetables (Yes): -0.5 (healthy eating habits reduce health risks)
+   - Favourite_Sport (Gymnastics): -0.5 (regular physical activity reduces health risks)
+   - Votes (Always): 0 (voting behavior does not directly impact health risk)
+   - Height_in_Inches (64): 0 (height does not significantly impact health risk in this context)
+   - Has_Drivers_License (Yes): 0 (having a driver's license does not directly impact health risk)
+   - Picks_Up_Litter (Never): 0 (litter picking behavior does not directly impact health risk)
+   - Uses_Public_Transportation (Sometimes): 0 (use of public transportation does not significantly impact health risk)
+   - Donated_Blood (Yes): -0.5 (donating blood can indicate good health and a willingness to engage in healthy behaviors)
+   - Birthday_Month (May): 0 (birthday month does not impact health risk)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, family history of diabetes, and socioeconomic status, which are offset to some extent by their employment, lack of smoking, and engagement in healthy behaviors such as regular physical activity and healthy eating. Overall, the patient's mental health diagnosis and socioeconomic challenges contribute to a moderate risk of hospitalization.

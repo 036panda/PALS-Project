@@ -1,0 +1,23 @@
+1. 4.2
+2. Input factors and their assigned numerical contributions:
+   - Age: 20: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 21.0: -0.5 (normal BMI, lower risk)
+   - Family_Health_History: Cancer: 1.2 (increased risk due to family history of cancer)
+   - Current_Diagnosis: Bipolar: 2.0 (increased risk due to mental health condition)
+   - Race: Black: 0.5 (acknowledging potential health disparities, but this is a complex factor)
+   - Gender: Male: 0.2 (generally, males have slightly higher health risks than females)
+   - Sexual_Orientation: Heterosexual: 0 (no direct impact on hospitalization risk)
+   - Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake, lower risk)
+   - Smoking: No: -0.5 (not smoking, lower risk)
+   - HAM-D: 7–17: Mild Depression: 1.0 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (not experiencing sadness or fatigue, lower risk)
+   - Loss_of_Interest: No: -0.2 (no loss of interest, lower risk)
+   - Hours_of_Sleep: 5.7: 0.5 (less sleep, higher risk)
+   - Employment: Student: -0.5 (being a student may have unique stressors but generally lower risk than unemployed)
+   - Socioeconomic_Status: Low: 1.0 (lower socioeconomic status, higher risk)
+   - Drinks_Coffee: Yes: 0 (coffee consumption has mixed effects, here considered neutral)
+   - Likes_Vegetables: Yes: -0.5 (healthy eating habits, lower risk)
+   - Favourite_Sport: Hockey: 0 (no direct impact on hospitalization risk)
+   - Votes: Sometimes: 0 (voting behavior has no direct impact on health risk)
+   - Height_in_Inches: 70: 0 (height has no direct causal relationship with hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's health conditions, lifestyle, and socioeconomic factors, with each factor contributing positively or negatively to the overall risk, reflecting their potential causal impact on health outcomes. The score of 4.2 indicates a moderate risk level, primarily driven by the presence of bipolar disorder, mild depression, and low socioeconomic status.

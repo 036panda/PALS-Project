@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 36: 0.5 (moderate risk due to being an adult but not elderly)
+   - BMI: 36.8: 1.8 (high risk due to obesity)
+   - Family_Health_History: Hypertension: 1.2 (increased risk due to familial predisposition to cardiovascular disease)
+   - Current_Diagnosis: nan: 0 (no impact as no current diagnosis is provided)
+   - Race: Black: 0.5 (moderate risk due to potential socioeconomic and access to care disparities)
+   - Gender: Non-binary: 0 (no direct impact on hospitalization risk)
+   - Sexual_Orientation: Heterosexual: 0 (no direct impact on hospitalization risk)
+   - Weekly_Alcohol_Intake: 7: 1.0 (moderate risk due to potential for alcohol-related health issues)
+   - Smoking: Yes: 1.5 (high risk due to smoking-related health issues)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (lower risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued: Yes: 0.8 (moderate risk due to potential underlying mental health issues)
+   - Loss_of_Interest: Yes: 0.8 (moderate risk due to potential underlying mental health issues)
+   - Hours_of_Sleep: 5.7: 0.5 (moderate risk due to potential sleep deprivation)
+   - Employment: Employed: -0.5 (lower risk due to stability and access to healthcare)
+   - Socioeconomic_Status: Middle: -0.2 (slightly lower risk due to moderate access to resources)
+   - Drinks_Coffee: No: 0 (no direct impact)
+   - Likes_Vegetables: Yes: -0.5 (lower risk due to healthier dietary habits)
+   - Favourite_Sport: Soccer: 0 (no direct impact)
+   - Votes: Never: 0 (no direct impact)
+   - Height_in_Inches: 60: 0 (no direct impact)
+
+3. The patient's hospitalization risk is elevated primarily due to obesity, smoking, and a family history of hypertension, which are significant risk factors for cardiovascular and other chronic diseases. Despite some protective factors such as employment and healthy dietary habits, the presence of potential underlying mental health issues and sleep deprivation contribute to an overall moderate to high risk of hospitalization.

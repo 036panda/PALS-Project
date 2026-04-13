@@ -1,0 +1,16 @@
+1. 6.8
+2. 
+- Age: 22, contribution: -1.5 (younger age generally associated with lower health risks)
+- BMI: 27.1, contribution: 1.2 (higher BMI associated with increased health risks)
+- Family_Health_History: Heart Disease, contribution: 1.8 (family history of heart disease increases risk)
+- Current_Diagnosis: Schizophrenia, contribution: 2.1 (schizophrenia associated with increased hospitalization risk)
+- HAM-D: 7-17, contribution: 1.1 (mild depression associated with increased risk)
+- Been_Sad_or_Fatigued: Yes, contribution: 0.5 (symptoms of depression)
+- Loss_of_Interest: Yes, contribution: 0.5 (symptoms of depression)
+- Weekly_Alcohol_Intake: 2, contribution: -0.2 (moderate alcohol intake, relatively low risk)
+- Smoking: No, contribution: -0.5 (not smoking reduces health risks)
+- Hours_of_Sleep: 8.9, contribution: -0.3 (adequate sleep reduces health risks)
+- Socioeconomic_Status: Middle, contribution: -0.2 (middle socioeconomic status, relatively lower health risks compared to lower status)
+- Water_Intake_oz: 43.4, contribution: -0.1 (adequate hydration, relatively low risk)
+- Other factors (Race, Gender, Sexual_Orientation, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Allergy, Binge_Watches_TV, Favourite_Super_Store), contribution: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, including BMI, family health history, current diagnosis of schizophrenia, and symptoms of mild depression, which are causally related to increased health risks. The score reflects the cumulative effect of these factors, adjusted for mitigating factors such as moderate alcohol intake, adequate sleep, and middle socioeconomic status.

@@ -1,0 +1,16 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attribute impacts:
+   - Age: 26: -0.5 (young age generally lowers health risks)
+   - BMI: 29.1: +1.2 (obesity increases risk of various health issues)
+   - Family_Health_History: Diabetes: +1.0 (family history of diabetes increases risk of developing diabetes and related complications)
+   - Current_Diagnosis: Bipolar: +1.5 (bipolar disorder can lead to increased risk of hospitalization due to psychiatric emergencies or comorbid conditions)
+   - Weekly_Alcohol_Intake: 3: +0.2 (moderate alcohol intake has mixed effects on health, but in this context, it slightly increases risk)
+   - Been_Sad_or_Fatigued: Yes: +0.5 (symptoms of sadness or fatigue can indicate underlying mental health issues)
+   - Loss_of_Interest: Yes: +0.5 (loss of interest in activities can be a symptom of depression or other mental health conditions)
+   - Hours_of_Sleep: 6.2: -0.2 (adequate sleep generally reduces health risks, though 6.2 hours is slightly below the recommended range)
+   - Socioeconomic_Status: Low: +0.5 (lower socioeconomic status is associated with increased health risks due to barriers in accessing healthcare and other resources)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (no indication of current depression reduces risk)
+   - Other attributes (Race, Gender, Sexual_Orientation, Smoking, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal): +0.0 (these attributes do not significantly impact the hospitalization risk in this evaluation)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, family history of diabetes, and socioeconomic status, which collectively increase their risk profile. However, their young age, absence of current depressive symptoms, and some healthy lifestyle choices mitigate this risk to some extent, resulting in a moderate risk score.

@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attribute impacts on risk:
+   - Age: 20: -0.5 (young age generally lowers health risks)
+   - BMI: 24.6: 0.2 (slightly above normal, minor risk increase)
+   - Family_Health_History: Cancer: 1.0 (increased risk due to family history of serious disease)
+   - Current_Diagnosis: Schizophrenia: 2.0 (significant risk due to serious mental health condition)
+   - Race: Black: 0.0 (no direct risk adjustment based on race in this context)
+   - Gender: Other: 0.0 (no direct risk adjustment based on non-binary gender)
+   - Sexual_Orientation: Heterosexual: 0.0 (no direct risk adjustment based on sexual orientation)
+   - Weekly_Alcohol_Intake: 6: 0.5 (moderate alcohol intake, minor risk increase)
+   - Smoking: No: -0.5 (non-smoker, lowers health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (low depression score, lowers risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (absence of sadness or fatigue, minor risk decrease)
+   - Loss_of_Interest: Yes: 1.2 (presence of loss of interest, increases risk)
+   - Hours_of_Sleep: 7.6: -0.2 (adequate sleep, minor risk decrease)
+   - Employment: Student: -0.5 (student status, generally lowers health risks due to access to resources)
+   - Socioeconomic_Status: Low: 1.0 (low socioeconomic status, increases health risks)
+   - Drinks_Coffee: Yes: 0.0 (coffee consumption, neutral effect)
+   - Likes_Vegetables: No: 0.2 (not liking vegetables, minor risk increase)
+   - Favourite_Sport: Gymnastics: -0.2 (engagement in physical activity, minor risk decrease)
+   - Votes: Sometimes: 0.0 (voting behavior, no direct health risk impact)
+   - Height_in_Inches: 58: 0.0 (height, no direct risk adjustment in this context)
+   - Has_Drivers_License: No: 0.0 (no direct health risk impact)
+   - Picks_Up_Litter: Always: -0.2 (community engagement, minor risk decrease)
+   - Uses_Public_Transportation: Never: 0.0 (no direct health risk impact)
+   - Donated_Blood: Yes: -0.2 (engagement in health-promoting activities, minor risk decrease)
+   - Birthday_Month: April: 0.0 (no direct health risk impact)
+
+3. The patient's hospitalization risk is primarily driven by the diagnosis of schizophrenia and a family history of cancer, which are significant health concerns. However, the patient's young age, absence of smoking, and engagement in some health-promoting behaviors help mitigate this risk to some extent.

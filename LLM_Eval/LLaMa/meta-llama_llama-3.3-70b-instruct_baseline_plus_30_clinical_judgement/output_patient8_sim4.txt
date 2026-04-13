@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (29): -0.5 (lower risk due to relatively young age)
+   - BMI (25.9): 0.5 (slightly elevated risk due to being overweight)
+   - Current_Diagnosis (Anxiety): 1.5 (increased risk due to existing mental health condition)
+   - Been_Sad_or_Fatigued (Yes): 1.0 (increased risk due to reported sadness or fatigue)
+   - Loss_of_Interest (Yes): 1.0 (increased risk due to loss of interest)
+   - Hours_of_Sleep (3.7): 1.2 (increased risk due to inadequate sleep)
+   - Employment (Employed): -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status (Middle): 0 (neutral impact)
+   - Weekly_Alcohol_Intake (5): 0.5 (slightly elevated risk due to alcohol consumption)
+   - Smoking (No): -0.5 (lower risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to no depression)
+   - Allergy (Animal Dander): 0.5 (slightly elevated risk due to allergy)
+   - Other attributes (e.g., race, gender, sexual orientation, etc.): 0 (neutral impact as they do not directly influence hospitalization risk in this context)
+
+3. The patient's hospitalization risk is primarily driven by their anxiety diagnosis, reported sadness and fatigue, loss of interest, and inadequate sleep, which collectively suggest a need for close monitoring and potential intervention. Despite these factors, the patient's stable employment and absence of depression contribute to a moderate rather than high hospitalization risk score.

@@ -1,0 +1,18 @@
+1. 7.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 64: 0.6 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 29.9: 1.2 (positive, as high BMI is associated with higher hospitalization risk)
+   - Family_Health_History: Asthma: 0.4 (positive, as family history of asthma may increase respiratory complications)
+   - Current_Diagnosis: Depression: 1.5 (positive, as depression is associated with higher hospitalization risk)
+   - Race: Native American: 0.2 (positive, as Native Americans may face healthcare disparities)
+   - Gender: Male: 0.1 (positive, as males may have higher hospitalization rates for certain conditions)
+   - Weekly_Alcohol_Intake: 2: -0.1 (negative, as moderate alcohol intake may have some health benefits)
+   - Smoking: No: -0.5 (negative, as not smoking reduces hospitalization risk)
+   - HAM-D: 18-24: Moderate Depression: 1.0 (positive, as moderate depression increases hospitalization risk)
+   - Loss_of_Interest: Yes: 0.8 (positive, as loss of interest is a symptom of depression)
+   - Hours_of_Sleep: 6.4: -0.2 (negative, as adequate sleep reduces hospitalization risk)
+   - Socioeconomic_Status: Middle: -0.3 (negative, as middle socioeconomic status may have better access to healthcare)
+   - Exercises: No: 0.5 (positive, as lack of exercise increases hospitalization risk)
+   - Allergy: Animal Dander: 0.1 (positive, as allergies may increase hospitalization risk)
+   - The remaining factors do not have a direct, evidence-based causal relationship with hospitalization risk and are therefore assigned a contribution of 0.
+3. The hospitalization risk score is calculated based on the individual's health factors, such as age, BMI, family health history, and current diagnosis, which have established causal relationships with hospitalization risk. The score reflects the cumulative effect of these factors, with higher values indicating a greater likelihood of hospitalization.

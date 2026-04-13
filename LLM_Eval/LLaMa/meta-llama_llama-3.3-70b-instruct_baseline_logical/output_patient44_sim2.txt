@@ -1,0 +1,20 @@
+1. Risk Score: 6.2
+
+2. Input Factors and Contributions:
+   - Age (73): +2.5 (increased risk due to age-related health decline)
+   - BMI (22.5): -0.5 (lower risk due to normal weight)
+   - Family_Health_History (Asthma): +1.0 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Anxiety): +1.2 (increased risk due to mental health condition)
+   - Race (Native American): +0.8 (increased risk due to socioeconomic and healthcare disparities)
+   - Gender (Non-binary): +0.2 (increased risk due to potential social and healthcare challenges)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, no direct impact on hospitalization risk)
+   - Weekly_Alcohol_Intake (6): +0.5 (increased risk due to moderate alcohol consumption)
+   - Smoking (No): -1.0 (lower risk due to absence of smoking)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): +0.8 (increased risk due to potential underlying mental health issues)
+   - Loss_of_Interest (No): 0 (neutral, no direct impact on hospitalization risk)
+   - Hours_of_Sleep (9.7): -0.5 (lower risk due to adequate sleep)
+   - Employment (Retired): +0.5 (increased risk due to potential lack of social interaction and physical activity)
+   - Socioeconomic_Status (Low): +1.5 (increased risk due to limited access to healthcare and resources)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering the individual's health conditions, lifestyle, and socioeconomic status. The assigned contributions reflect the potential impact of each factor on the individual's risk of hospitalization, with positive values indicating increased risk and negative values indicating lower risk.

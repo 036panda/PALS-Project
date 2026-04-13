@@ -1,0 +1,14 @@
+1. 7.3
+2. Input factors and their assigned contributions:
+   - Age: 36, contribution: 0.5 (positive, as increasing age is associated with higher health risks)
+   - BMI: 36.8, contribution: 2.0 (positive, as high BMI is linked to various health issues)
+   - Family_Health_History: Hypertension, contribution: 1.5 (positive, as family history of hypertension increases risk)
+   - Weekly_Alcohol_Intake: 7, contribution: 1.0 (positive, as excessive alcohol consumption is a health risk)
+   - Smoking: Yes, contribution: 2.0 (positive, as smoking is a significant health risk factor)
+   - Been_Sad_or_Fatigued: Yes, contribution: 0.5 (positive, as mental health issues can impact physical health)
+   - Loss_of_Interest: Yes, contribution: 0.5 (positive, as loss of interest can be a symptom of underlying health issues)
+   - Hours_of_Sleep: 5.7, contribution: 0.5 (positive, as inadequate sleep is associated with health risks)
+   - HAM-D: 0–6, contribution: 0.0 (neutral, as normal depression score does not increase risk)
+   - Socioeconomic_Status: Middle, contribution: 0.0 (neutral, as middle socioeconomic status does not significantly impact health risk)
+   - Other factors (e.g., employment, race, gender, etc.), contribution: 0.0 (neutral, as these factors do not have a direct, significant impact on hospitalization risk in this calculation)
+3. The hospitalization risk score is calculated based on the individual's health-related factors, such as high BMI, family history of hypertension, smoking, and excessive alcohol consumption, which are known to increase the risk of various health issues. The score reflects the cumulative effect of these factors on the individual's overall health risk.

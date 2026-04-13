@@ -1,0 +1,30 @@
+1. Risk Score: 6.2
+
+2. Input Factors and Contributions:
+   - Age: 22: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 35.9: 2.5 (high BMI associated with increased health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer may increase individual risk)
+   - Current_Diagnosis: Anxiety: 1.0 (anxiety can contribute to health risks)
+   - Race: Hispanic: 0.5 (some studies suggest racial disparities in healthcare access and outcomes)
+   - Gender: Female: 0.2 (gender can influence health risks and access to care)
+   - Sexual_Orientation: Bisexual: 0.1 (minority stress may impact health)
+   - Weekly_Alcohol_Intake: 4: 0.8 (moderate alcohol intake can have mixed effects on health)
+   - Smoking: No: -1.0 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.5 (mild depression can increase health risks)
+   - Been_Sad_or_Fatigued: No: -0.5 (absence of sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.5 (absence of loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7: 0.7 (inadequate sleep can increase health risks)
+   - Employment: Student: -0.8 (being a student may have protective effects due to access to resources)
+   - Socioeconomic_Status: Middle: -0.2 (middle socioeconomic status may provide some health advantages)
+   - Drinks_Coffee: No: 0.1 (not drinking coffee may miss potential health benefits)
+   - Likes_Vegetables: No: 0.3 (not liking vegetables may indicate poor diet)
+   - Favourite_Sport: Soccer: -0.2 (engagement in sports can have health benefits)
+   - Votes: Sometimes: 0.1 (civic engagement may have mixed effects on stress and health)
+   - Height_in_Inches: 61: 0.1 (height can have various effects on health, but generally minimal)
+   - Has_Drivers_License: No: 0.2 (not having a driver's license may limit access to healthcare)
+   - Picks_Up_Litter: Sometimes: -0.1 (community engagement may have positive effects on mental health)
+   - Uses_Public_Transportation: Never: 0.4 (lack of use of public transportation may indicate social isolation)
+   - Donated_Blood: Yes: -0.3 (donating blood can indicate good health practices)
+   - Birthday_Month: August: 0 (birthday month has no direct causal relationship with health risks)
+
+3. The risk score calculation is based on assigning numerical values to each factor that reflect their potential impact on health risks, considering both direct health factors like BMI and family health history, and indirect factors like socioeconomic status and lifestyle choices. The sum of these contributions provides a comprehensive risk score, with higher scores indicating a higher risk of hospitalization due to the cumulative effect of various health and lifestyle factors.

@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 53: 0.8 (positive, as increasing age is associated with higher health risks)
+   - BMI: 25.3: 0.5 (positive, as a BMI of 25.3 is considered overweight, increasing health risks)
+   - Family_Health_History: Asthma: 0.2 (positive, as a family history of asthma may indicate a genetic predisposition to respiratory issues)
+   - Current_Diagnosis: Depression: 1.5 (positive, as depression is a significant health concern that can impact physical health)
+   - Race: Black: 0.3 (positive, acknowledging racial disparities in healthcare access and outcomes)
+   - Gender: Male: 0.1 (positive, as males may have higher risks for certain health issues)
+   - Sexual_Orientation: Heterosexual: 0 (neutral, as there is no direct causal link to hospitalization risk)
+   - Weekly_Alcohol_Intake: 4: 0.8 (positive, as moderate alcohol consumption can increase health risks)
+   - Smoking: No: 0 (neutral, as not smoking does not increase risk)
+   - HAM-D: 18–24: Moderate Depression: 1.2 (positive, indicating a moderate level of depression)
+   - Been_Sad_or_Fatigued: No: 0 (neutral, as the absence of these feelings does not increase risk)
+   - Loss_of_Interest: No: 0 (neutral, as the absence of loss of interest does not increase risk)
+   - Hours_of_Sleep: 5.7: 0.6 (positive, as less than 7 hours of sleep can increase health risks)
+   - Employment: Employed: -0.5 (negative, as being employed can indicate stability and access to healthcare)
+   - Socioeconomic_Status: Middle: -0.3 (negative, as a middle socioeconomic status may provide access to resources that mitigate health risks)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and socioeconomic status, with each factor contributing positively or negatively to the overall risk. The score of 6.8 reflects the cumulative effect of these factors, indicating a moderate to high risk of hospitalization due to the presence of depression, moderate alcohol intake, and other health concerns.

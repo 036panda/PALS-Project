@@ -1,0 +1,23 @@
+1. Risk Score: 2.5
+2. Input Factors and Contributions:
+   - Age: 38, Contribution: -0.5 (lower risk due to being in a relatively low-risk age group)
+   - BMI: 21.8, Contribution: -0.5 (lower risk due to being within a healthy weight range)
+   - Family_Health_History: Asthma, Contribution: 1.0 (increased risk due to genetic predisposition to respiratory issues)
+   - Current_Diagnosis: Anxiety, Contribution: 1.0 (increased risk due to mental health condition)
+   - Race: Black, Contribution: 0 (no direct causal link to hospitalization risk without other factors)
+   - Gender: Non-binary, Contribution: 0 (no direct causal link to hospitalization risk without other factors)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (no direct causal link to hospitalization risk without other factors)
+   - Weekly_Alcohol_Intake: 2, Contribution: -0.5 (lower risk due to moderate alcohol consumption)
+   - Smoking: No, Contribution: -0.5 (lower risk due to not smoking)
+   - HAM-D: 0–6, Contribution: -1.0 (lower risk due to no signs of depression)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (lower risk due to absence of recent sadness or fatigue)
+   - Loss_of_Interest: No, Contribution: -0.5 (lower risk due to absence of loss of interest)
+   - Hours_of_Sleep: 6.3, Contribution: 0 (neutral, as sleep hours are near the average and not significantly impacting risk)
+   - Employment: Employed, Contribution: -0.5 (lower risk due to stability and access to healthcare)
+   - Socioeconomic_Status: High, Contribution: -1.0 (lower risk due to better access to healthcare and resources)
+   - Drinks_Coffee: No, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Likes_Vegetables: No, Contribution: 0 (no direct causal link to hospitalization risk without other dietary information)
+   - Favourite_Sport: Soccer, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Votes: Always, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Height_in_Inches: 73, Contribution: 0 (no direct causal link to hospitalization risk without other health factors)
+3. The risk score calculation is based on the logical and causal relationships between the individual's health factors, lifestyle, and socioeconomic status, with specific conditions like asthma and anxiety contributing to a higher risk, while factors such as employment, high socioeconomic status, and absence of smoking and depression contribute to a lower risk. The score reflects a balanced assessment of these factors to determine an overall hospitalization risk.

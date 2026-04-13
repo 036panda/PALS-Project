@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 4.8
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 19, impact: -1.5 (younger age generally associated with lower risk of hospitalization)
+   - BMI: 25.1, impact: 1.2 (BMI slightly above normal, indicating potential health risks)
+   - Family_Health_History: nan, impact: 0 (no information available to assess risk)
+   - Current_Diagnosis: Schizophrenia, impact: 2.5 (serious mental health condition increasing risk of hospitalization)
+   - Race: Black, impact: 0.5 (some studies suggest racial disparities in healthcare access and outcomes, potentially increasing risk)
+   - Gender: Female, impact: -0.2 (generally, females have slightly lower risk of hospitalization due to better health-seeking behaviors)
+   - Sexual_Orientation: Heterosexual, impact: 0 (no significant impact on hospitalization risk)
+   - Weekly_Alcohol_Intake: 4, impact: 0.8 (moderate alcohol intake may contribute to health risks)
+   - Smoking: No, impact: -1 (not smoking reduces risk of numerous health issues)
+   - HAM-D: 7–17, impact: 1 (mild depression can increase risk of hospitalization due to mental health concerns)
+   - Been_Sad_or_Fatigued: Yes, impact: 0.5 (recent experiences of sadness or fatigue may indicate current mental health struggles)
+   - Loss_of_Interest: No, impact: -0.5 (not experiencing loss of interest suggests better mental health status)
+   - Hours_of_Sleep: 10.3, impact: -0.5 (adequate sleep generally contributes to better health outcomes)
+   - Employment: Employed, impact: -0.5 (being employed often correlates with better mental and physical health)
+   - Socioeconomic_Status: Middle, impact: -0.2 (middle socioeconomic status may provide access to healthcare resources, reducing risk)
+   - Drinks_Coffee: Yes, impact: 0 (coffee consumption has mixed effects on health, considered neutral here)
+   - Likes_Vegetables: Yes, impact: -0.5 (healthy dietary habits contribute to overall well-being)
+   - Favourite_Sport: Hockey, impact: 0 (engagement in sports can be beneficial for mental and physical health, but the specific sport does not significantly impact risk)
+   - Votes: Sometimes, impact: 0 (voting behavior does not directly impact health or hospitalization risk)
+   - Height_in_Inches: 72, impact: 0 (height is not directly related to hospitalization risk in this context)
+3. The patient's diagnosis of schizophrenia significantly increases the risk of hospitalization, while factors such as employment, adequate sleep, and healthy lifestyle choices (like drinking coffee and liking vegetables) mitigate this risk to some extent. Overall, the patient's mental health condition and moderate alcohol intake are the primary drivers of the hospitalization risk score.

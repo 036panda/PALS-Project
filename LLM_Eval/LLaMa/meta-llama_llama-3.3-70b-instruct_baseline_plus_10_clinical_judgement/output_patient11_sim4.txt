@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (31): -0.5 (lower risk due to being in a relatively young age group)
+   - BMI (29.7): 1.2 (higher risk due to being overweight)
+   - Family_Health_History (nan): 0 (no impact due to missing information)
+   - Current_Diagnosis (Schizophrenia): 2.5 (higher risk due to severe mental health condition)
+   - Race (White): 0 (no specific risk adjustment based on race in this context)
+   - Gender (Female): 0 (no specific risk adjustment based on gender in this context)
+   - Sexual_Orientation (Bisexual): 0 (no specific risk adjustment based on sexual orientation)
+   - Weekly_Alcohol_Intake (4): 0.5 (moderate risk due to alcohol consumption)
+   - Smoking (No): -0.5 (lower risk due to not smoking)
+   - HAM-D (7–17: Mild Depression): 1.0 (higher risk due to presence of mild depression)
+   - Been_Sad_or_Fatigued (No): -0.2 (lower risk due to not experiencing sadness or fatigue)
+   - Loss_of_Interest (Yes): 1.0 (higher risk due to loss of interest, indicative of depressive symptoms)
+   - Hours_of_Sleep (7.1): -0.2 (lower risk due to relatively normal sleep hours)
+   - Employment (Employed): -0.5 (lower risk due to being employed, indicating stability)
+   - Socioeconomic_Status (Low): 1.0 (higher risk due to lower socioeconomic status, which can impact access to healthcare)
+   - Drinks_Coffee (No): 0 (no specific risk adjustment based on coffee consumption)
+   - Likes_Vegetables (No): 0.2 (slightly higher risk due to potentially less healthy diet)
+   - Favourite_Sport (nan): 0 (no impact due to missing information)
+   - Votes (Always): 0 (no specific risk adjustment based on voting behavior)
+   - Height_in_Inches (71): 0 (no specific risk adjustment based on height)
+   - Has_Drivers_License (Yes): -0.2 (lower risk due to having a driver's license, indicating some level of independence and mobility)
+   - Picks_Up_Litter (Sometimes): 0 (no specific risk adjustment based on this behavior)
+   - Uses_Public_Transportation (Always): 0.2 (slightly higher risk due to potential exposure to more people and stress)
+   - Donated_Blood (No): 0 (no specific risk adjustment based on blood donation history)
+   - Birthday_Month (April): 0 (no specific risk adjustment based on birth month)
+
+3. The patient's hospitalization risk is significantly influenced by the diagnosis of schizophrenia and the presence of mild depression, which are major contributors to the overall risk score. The patient's socioeconomic status and lifestyle factors, such as being overweight and having a history of alcohol intake, also contribute to the risk, while factors like employment and not smoking slightly mitigate the risk.

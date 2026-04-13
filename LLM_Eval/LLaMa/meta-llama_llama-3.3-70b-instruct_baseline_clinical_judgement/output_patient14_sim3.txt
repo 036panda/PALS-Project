@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (18): -1 (younger age generally associated with lower risk of hospitalization due to fewer comorbidities)
+   - BMI (30.9): +2 (obesity is a risk factor for numerous health conditions that could lead to hospitalization)
+   - Family_Health_History (nan): 0 (no information available to assess risk)
+   - Current_Diagnosis (Bipolar): +3 (bipolar disorder can lead to severe episodes requiring hospitalization)
+   - Race (Other): 0 (insufficient data to determine specific risk associated with this category)
+   - Gender (Non-binary): 0 (no direct correlation with hospitalization risk without considering other factors)
+   - Sexual_Orientation (Bisexual): 0 (no direct correlation with hospitalization risk without considering other factors)
+   - Weekly_Alcohol_Intake (1): -1 (low alcohol intake is generally associated with lower risk of alcohol-related hospitalizations)
+   - Smoking (No): -1 (not smoking reduces the risk of smoking-related illnesses that could lead to hospitalization)
+   - HAM-D (0–6: Normal / No Depression): -2 (low score indicates no current depressive symptoms, reducing hospitalization risk)
+   - Been_Sad_or_Fatigued (No): -1 (absence of recent sadness or fatigue suggests lower risk of immediate hospitalization)
+   - Loss_of_Interest (Yes): +2 (loss of interest can be a symptom of severe mental health issues, increasing hospitalization risk)
+   - Hours_of_Sleep (9.7): 0 (sleep hours are within a relatively normal range, not significantly impacting risk)
+   - Employment (Student): -1 (being a student may provide structure and support, potentially lowering risk)
+   - Socioeconomic_Status (Middle): 0 (middle socioeconomic status does not significantly increase or decrease risk without other factors)
+
+3. The patient's hospitalization risk is primarily driven by their bipolar diagnosis and reported loss of interest, which are significant indicators of potential severe mental health episodes. However, their young age, low alcohol intake, non-smoking status, and engagement in education as a student contribute to a lower overall risk score.

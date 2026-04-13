@@ -1,0 +1,13 @@
+1. Final Hospitalization Risk Score: 4.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 18: -0.5 (young age generally lowers health risks)
+   - BMI: 25.6: 1.2 (overweight, increasing risk of various health issues)
+   - Family_Health_History: Hypertension: 1.5 (family history of hypertension increases cardiovascular risk)
+   - Current_Diagnosis: Bipolar: 2.0 (bipolar disorder can increase risk of hospitalization due to psychiatric emergencies)
+   - Weekly_Alcohol_Intake: 5: 0.8 (moderate alcohol intake can have mixed effects on health, but in this context, slightly increases risk)
+   - Hours_of_Sleep: 5.7: 0.5 (less than ideal sleep hours can negatively impact health)
+   - Socioeconomic_Status: High: -1.0 (higher socioeconomic status generally reduces health risks due to better access to care and resources)
+   - Exercises: Yes: -1.0 (regular exercise reduces the risk of many health conditions)
+   - Allergy: Shellfish: 0.2 (having an allergy can slightly increase the risk of anaphylaxis or other allergic reactions requiring hospitalization)
+   - Other attributes: 0 (no significant direct impact on hospitalization risk based on provided information)
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, family history of hypertension, and moderate alcohol intake, which are offset somewhat by their high socioeconomic status, regular exercise, and young age. Overall, the patient's risk profile suggests a moderate risk of hospitalization, primarily driven by their psychiatric diagnosis and lifestyle factors.

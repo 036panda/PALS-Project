@@ -1,0 +1,23 @@
+1. Risk Score: 7.8
+2. Input Factors and Contributions:
+   - Age: 37, Contribution: -0.5 (lower risk due to being relatively young)
+   - BMI: 20.3, Contribution: -1.0 (lower risk due to healthy BMI)
+   - Family_Health_History: Heart Disease, Contribution: +2.0 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Schizophrenia, Contribution: +3.0 (high risk due to severe mental health condition)
+   - Race: Asian, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Gender: Female, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Sexual_Orientation: Homosexual, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Weekly_Alcohol_Intake: 3, Contribution: +0.5 (moderate risk due to alcohol consumption)
+   - Smoking: Yes, Contribution: +2.5 (high risk due to smoking)
+   - HAM-D: 25+, Contribution: +3.5 (very high risk due to severe depression)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (lower risk due to absence of reported sadness or fatigue)
+   - Loss_of_Interest: Yes, Contribution: +1.0 (increased risk due to loss of interest, indicative of depression)
+   - Hours_of_Sleep: 6.3, Contribution: +0.5 (moderate risk due to slightly reduced sleep hours)
+   - Employment: Employed, Contribution: -1.0 (lower risk due to stable employment)
+   - Socioeconomic_Status: Middle, Contribution: 0 (neutral, as middle socioeconomic status does not directly increase or decrease risk)
+   - Drinks_Coffee: No, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Likes_Vegetables: Yes, Contribution: -0.5 (lower risk due to healthy dietary preference)
+   - Favourite_Sport: Basketball, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Votes: Never, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Height_in_Inches: 71, Contribution: 0 (no direct causal link to hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, with particular emphasis on the severe mental health conditions (schizophrenia and severe depression), lifestyle factors (smoking and alcohol intake), and genetic predispositions (family history of heart disease) that significantly increase the risk of hospitalization. The contributions of each factor are assigned based on their potential impact on health and likelihood of requiring hospital care.

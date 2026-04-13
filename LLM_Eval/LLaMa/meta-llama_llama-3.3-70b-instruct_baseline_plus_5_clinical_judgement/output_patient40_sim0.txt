@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 4.8
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 26: -0.5 (young age generally lowers health risks)
+   - BMI: 29.1: 1.2 (being overweight increases health risks)
+   - Family_Health_History: Diabetes: 1.0 (family history of diabetes increases risk of various health issues)
+   - Current_Diagnosis: Bipolar: 1.5 (bipolar disorder can significantly impact overall health and increase hospitalization risk)
+   - Race: Other: 0 (no specific risk associated with this category)
+   - Gender: Non-binary: 0 (no specific risk associated with this category)
+   - Sexual_Orientation: Heterosexual: 0 (no specific risk associated with this category)
+   - Weekly_Alcohol_Intake: 3: 0.2 (moderate alcohol intake has a slight impact on health risks)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (no signs of depression reduce hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes: 0.8 (symptoms of sadness or fatigue can indicate underlying health issues)
+   - Loss_of_Interest: Yes: 0.8 (loss of interest in activities can be a sign of mental health issues)
+   - Hours_of_Sleep: 6.2: 0.1 (slightly below average sleep hours may have a minor impact on health)
+   - Employment: Employed: -0.5 (being employed can reduce stress and improve overall well-being)
+   - Socioeconomic_Status: Low: 1.0 (lower socioeconomic status can increase health risks due to limited access to healthcare and resources)
+   - Drinks_Coffee: Yes: 0 (no significant impact on health risks)
+   - Likes_Vegetables: Yes: -0.2 (healthy eating habits can reduce health risks)
+   - Favourite_Sport: Gymnastics: 0 (no specific risk associated with this category)
+   - Votes: Always: 0 (no specific risk associated with this category)
+   - Height_in_Inches: 64: 0 (no specific risk associated with this category)
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, family history of diabetes, and socioeconomic status, which are mitigated to some extent by their employment status and healthy habits such as not smoking and liking vegetables. Overall, the patient's risk profile suggests a moderate level of concern due to the interplay of these factors.

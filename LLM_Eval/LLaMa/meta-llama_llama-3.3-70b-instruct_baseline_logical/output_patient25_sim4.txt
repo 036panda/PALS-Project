@@ -1,0 +1,20 @@
+1. Risk Score: 6.8
+
+2. Input Factors and Contributions:
+   - Age (63): +2.5 (increased risk due to age-related health decline)
+   - BMI (33.3): +1.8 (increased risk due to obesity-related health issues)
+   - Family_Health_History (Heart Disease): +1.2 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Bipolar): +1.5 (increased risk due to mental health condition)
+   - Race (Hispanic): +0.5 (increased risk due to potential healthcare disparities)
+   - Gender (Non-binary): +0.2 (potential increased risk due to social determinants of health)
+   - Sexual_Orientation (Heterosexual): 0 (no direct contribution to hospitalization risk)
+   - Weekly_Alcohol_Intake (1): -0.2 (reduced risk due to moderate alcohol consumption)
+   - Smoking (No): -0.5 (reduced risk due to absence of smoking-related health issues)
+   - HAM-D (7-17: Mild Depression): +1.0 (increased risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued (No): 0 (no direct contribution to hospitalization risk)
+   - Loss_of_Interest (No): 0 (no direct contribution to hospitalization risk)
+   - Hours_of_Sleep (7.7): -0.2 (reduced risk due to adequate sleep)
+   - Employment (Retired): +0.3 (potential increased risk due to reduced social interaction and physical activity)
+   - Socioeconomic_Status (Middle): -0.5 (reduced risk due to access to healthcare resources)
+
+3. The hospitalization risk score is calculated based on the cumulative effect of individual factors, considering both the presence of health conditions (like heart disease and bipolar disorder) and lifestyle factors (such as obesity and alcohol intake), which logically contribute to an increased or decreased risk of hospitalization. The score reflects a balanced consideration of these factors, weighing the severity and impact of each on the individual's overall health and risk profile.

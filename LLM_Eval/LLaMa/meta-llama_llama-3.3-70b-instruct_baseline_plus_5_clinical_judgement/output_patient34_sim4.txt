@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (19): -1.5 (lower risk due to younger age)
+   - BMI (46.7): 2.5 (higher risk due to obesity)
+   - Family_Health_History (nan): 0 (no impact due to missing data)
+   - Current_Diagnosis (Anxiety): 1.2 (moderate risk due to anxiety diagnosis)
+   - Race (Asian): 0 (no specific risk adjustment for this factor)
+   - Gender (Female): 0 (no specific risk adjustment for this factor)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment for this factor)
+   - Weekly_Alcohol_Intake (0): -0.5 (lower risk due to no alcohol intake)
+   - Smoking (Yes): 1.8 (higher risk due to smoking)
+   - HAM-D (0–6: Normal / No Depression): -1 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (moderate risk due to reported sadness or fatigue)
+   - Loss_of_Interest (Yes): 0.8 (moderate risk due to loss of interest)
+   - Hours_of_Sleep (9.1): -0.2 (slightly lower risk due to near-average sleep hours)
+   - Employment (Student): -0.5 (lower risk due to student status, potentially indicating stability)
+   - Socioeconomic_Status (Middle): 0 (neutral risk due to middle socioeconomic status)
+   - Drinks_Coffee (Yes): 0 (no specific risk adjustment for this factor)
+   - Likes_Vegetables (No): 0.2 (slightly higher risk due to not liking vegetables, potentially indicating poor diet)
+   - Favourite_Sport (Basketball): 0 (no specific risk adjustment for this factor)
+   - Votes (Sometimes): 0 (no specific risk adjustment for this factor)
+   - Height_in_Inches (62): 0 (no specific risk adjustment for this factor)
+
+3. The patient's high BMI and smoking status significantly increase the risk of hospitalization, while the absence of depression and lower alcohol intake mitigate this risk to some extent. Overall, the combination of anxiety diagnosis, smoking, and obesity contributes to a moderate to high hospitalization risk score.

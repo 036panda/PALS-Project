@@ -1,0 +1,13 @@
+1. Risk Assessment Score: 4
+2. Parameters and risk values:
+	* Age: 26: -1 (young age, lower risk)
+	* BMI: 29.1: 1 (overweight, higher risk)
+	* Family_Health_History: Diabetes: 1 (increased risk due to family history)
+	* Current_Diagnosis: Bipolar: 2 (mental health condition, higher risk)
+	* Weekly_Alcohol_Intake: 3: 0 (moderate drinking, neutral risk)
+	* Been_Sad_or_Fatigued: Yes: 1 (symptoms of depression, higher risk)
+	* Loss_of_Interest: Yes: 1 (symptoms of depression, higher risk)
+	* Hours_of_Sleep: 6.2: -1 (adequate sleep, lower risk)
+	* Socioeconomic_Status: Low: 1 (lower socioeconomic status, higher risk)
+	* HAM-D: 0–6: Normal / No Depression: -2 (no depression, lower risk)
+3. The patient's risk score is driven by their bipolar diagnosis, family history of diabetes, and socioeconomic status, which are offset by their young age and adequate sleep habits. Despite showing some symptoms of depression, their HAM-D score indicates no depression, which reduces their overall risk.

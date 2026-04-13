@@ -1,0 +1,16 @@
+1. 4.2
+2. 
+- Age: -0.5 (younger age generally associated with lower risk)
+- BMI: 1.2 (high BMI associated with increased health risks)
+- Current_Diagnosis: Schizophrenia: 2.0 (serious mental health condition)
+- Weekly_Alcohol_Intake: 0.5 (moderate alcohol intake may have mixed effects but here considered a slight risk increase)
+- HAM-D: 7–17: Mild Depression: 1.0 (mild depression contributes to risk)
+- Loss_of_Interest: 0.8 (symptom of depression)
+- Socioeconomic_Status: Low: 1.0 (lower socioeconomic status associated with higher health risks)
+- Hours_of_Sleep: -0.2 (adequate sleep generally beneficial)
+- Employment: Employed: -0.5 (employment generally associated with stability and lower risk)
+- Family_Health_History: nan: 0 (no information, no contribution)
+- Race, Gender, Sexual_Orientation: 0 (these factors not directly contributing to the calculated risk score in this model)
+- Smoking: No: -0.5 (not smoking reduces health risks)
+- Other factors (e.g., dietary habits, lifestyle choices): 0 (not directly contributing to the calculated risk score in this model, or insufficient information to determine a contribution)
+3. The hospitalization risk score is calculated based on the presence of schizophrenia and mild depression, which are significant health concerns, combined with factors like high BMI and low socioeconomic status that can exacerbate health issues, while also considering protective factors such as employment and not smoking. The score reflects a balance of these factors, indicating a moderate risk level due to the presence of serious mental health conditions and lifestyle factors.

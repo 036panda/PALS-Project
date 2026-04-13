@@ -1,0 +1,18 @@
+1. Risk Score: 7.4
+2. Input Factors and Contributions:
+   - Age: 36, Contribution: 0.5 (positive, as increasing age is associated with higher health risks)
+   - BMI: 36.8, Contribution: 2.0 (positive, as high BMI is linked to various health issues)
+   - Family_Health_History: Hypertension, Contribution: 1.5 (positive, indicating a potential genetic predisposition to cardiovascular diseases)
+   - Current_Diagnosis: nan, Contribution: 0 (neutral, due to lack of information)
+   - Race: Black, Contribution: 0.5 (positive, acknowledging racial disparities in healthcare access and outcomes)
+   - Gender: Non-binary, Contribution: 0 (neutral, as there's no direct causal link to hospitalization risk provided)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (neutral, as there's no direct causal link to hospitalization risk provided)
+   - Weekly_Alcohol_Intake: 7, Contribution: 1.0 (positive, as moderate to high alcohol intake can increase health risks)
+   - Smoking: Yes, Contribution: 2.0 (positive, due to the well-documented health risks associated with smoking)
+   - HAM-D: 0–6, Contribution: -1.0 (negative, indicating no depression, which reduces hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 1.0 (positive, suggesting potential mental health issues)
+   - Loss_of_Interest: Yes, Contribution: 1.0 (positive, indicating possible depressive symptoms)
+   - Hours_of_Sleep: 5.7, Contribution: 0.5 (positive, as less than optimal sleep can negatively impact health)
+   - Employment: Employed, Contribution: -0.5 (negative, as employment can provide stability and access to healthcare)
+   - Socioeconomic_Status: Middle, Contribution: -0.5 (negative, as middle socioeconomic status may provide better access to healthcare resources compared to lower statuses)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and their potential to increase or decrease the likelihood of hospitalization, with positive contributions indicating an increase in risk and negative contributions indicating a decrease. The sum of these contributions provides a comprehensive risk score, reflecting the complex interplay of health, lifestyle, and socioeconomic factors.

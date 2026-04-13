@@ -1,0 +1,18 @@
+1. 6.2
+2. 
+- Age: 18: -0.5 (lower risk due to younger age)
+- BMI: 24.5: 0.2 (slightly elevated risk due to being near overweight)
+- Family_Health_History: Asthma: 0.8 (increased risk due to family history of chronic condition)
+- Current_Diagnosis: Schizophrenia: 2.0 (high risk due to severe mental health condition)
+- Race: Native American: 0.3 (elevated risk due to potential healthcare disparities)
+- Gender: Male: 0.1 (slightly elevated risk due to gender-specific health trends)
+- Smoking: Yes: 1.5 (high risk due to smoking)
+- HAM-D: 18-24: Moderate Depression: 1.2 (elevated risk due to moderate depression)
+- Been_Sad_or_Fatigued: Yes: 0.4 (elevated risk due to symptoms of depression)
+- Loss_of_Interest: Yes: 0.4 (elevated risk due to symptoms of depression)
+- Socioeconomic_Status: Middle: -0.2 (lower risk due to middle socioeconomic status)
+- Weekly_Alcohol_Intake: 0: -0.5 (lower risk due to no alcohol intake)
+- Hours_of_Sleep: 8.3: -0.1 (lower risk due to adequate sleep)
+- Employment: Student: -0.3 (lower risk due to student status, implying access to resources)
+- Other factors (e.g., Sexual_Orientation, Favourite_Sport, etc.): 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health conditions, lifestyle factors, and socioeconomic status, with a focus on factors that have a direct causal relationship to hospitalization risk, such as schizophrenia, smoking, and depression. The score reflects the cumulative effect of these factors, with each factor contributing a specific positive or negative value to the overall risk score.

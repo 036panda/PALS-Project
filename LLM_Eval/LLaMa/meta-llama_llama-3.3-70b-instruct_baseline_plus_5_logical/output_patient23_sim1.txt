@@ -1,0 +1,25 @@
+1. Risk Score: 6.2
+
+2. Input Factors and Contributions:
+   - Age (56): +1.5 (increased risk due to age-related health decline)
+   - BMI (31.1): +2.0 (high BMI indicating potential for obesity-related health issues)
+   - Family_Health_History (Asthma): +0.5 (potential genetic predisposition to respiratory issues)
+   - Current_Diagnosis (Schizophrenia): +1.2 (serious mental health condition requiring management)
+   - Race (Black): +0.2 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender (Other): 0 (neutral, as insufficient data to assign specific risk)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, as sexual orientation not directly linked to hospitalization risk in this context)
+   - Weekly_Alcohol_Intake (0): -0.5 (absence of alcohol intake reduces risk of alcohol-related health issues)
+   - Smoking (No): -0.5 (non-smoker, reducing risk of smoking-related health issues)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (indicating low risk of depression-related hospitalization)
+   - Been_Sad_or_Fatigued (No): -0.2 (reduces risk of mental health-related issues)
+   - Loss_of_Interest (Yes): +0.8 (potential indicator of underlying mental health issue)
+   - Hours_of_Sleep (8.0): -0.2 (adequate sleep reduces health risks)
+   - Employment (Employed): -0.5 (stable employment often correlates with better health outcomes)
+   - Socioeconomic_Status (Middle): 0 (neutral, as middle socioeconomic status does not significantly increase or decrease risk in this calculation)
+   - Drinks_Coffee (No): 0 (neutral, as coffee consumption not directly linked to hospitalization risk in this context)
+   - Likes_Vegetables (No): +0.2 (lack of vegetable consumption may indicate poor diet, slightly increasing health risk)
+   - Favourite_Sport (Basketball): 0 (neutral, as favorite sport not directly linked to health risk)
+   - Votes (Never): 0 (voting behavior not directly related to health risk)
+   - Height_in_Inches (63): 0 (height not directly linked to hospitalization risk in this context)
+
+3. The risk score calculation is based on assigning numerical values to each factor that could potentially influence hospitalization risk, considering both physical health indicators (like BMI and family health history) and mental health factors (such as current diagnosis of schizophrenia and indicators of potential depression). The sum of these values provides a comprehensive risk score, reflecting the complex interplay of factors that could lead to hospitalization.

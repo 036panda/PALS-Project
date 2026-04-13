@@ -1,0 +1,20 @@
+1. Risk Score: 6.2
+
+2. Input Factors and Contributions:
+   - Age (22): -1.5 (lower risk due to younger age)
+   - BMI (27.1): 1.2 (higher risk due to overweight status)
+   - Family_Health_History (Heart Disease): 1.8 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Schizophrenia): 2.1 (higher risk due to severe mental health condition)
+   - Race (Hispanic): 0.5 (slightly higher risk due to potential healthcare disparities)
+   - Gender (Non-binary): 0 (no direct contribution, as there's no established causal link to hospitalization risk)
+   - Sexual_Orientation (Bisexual): 0 (no direct contribution, as there's no established causal link to hospitalization risk)
+   - Weekly_Alcohol_Intake (2): -0.2 (lower risk due to moderate alcohol consumption)
+   - Smoking (No): -0.5 (lower risk due to non-smoking status)
+   - HAM-D (7-17, Mild Depression): 1.1 (higher risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (higher risk due to reported symptoms)
+   - Loss_of_Interest (Yes): 0.8 (higher risk due to reported symptoms)
+   - Hours_of_Sleep (8.9): -0.1 (slightly lower risk due to near-optimal sleep)
+   - Employment (Student): -0.5 (lower risk due to stable student status)
+   - Socioeconomic_Status (Middle): 0 (neutral, as middle socioeconomic status does not significantly increase or decrease risk)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering both physical health indicators (like BMI and family health history) and mental health factors (such as schizophrenia diagnosis and depressive symptoms). The contributions of each factor are assigned based on established medical knowledge and research findings, ensuring that the sum of all contributions equals the final risk score.

@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (42): 0.5 (moderate risk due to increasing age)
+   - BMI (26.4): 0.8 (slightly elevated risk due to overweight status)
+   - Family_Health_History (Cancer): 1.2 (increased risk due to family history of cancer)
+   - Current_Diagnosis (Anxiety): 1.5 (high risk due to anxiety diagnosis)
+   - Race (Native American): 0.3 (slightly elevated risk due to health disparities)
+   - Gender (Non-binary): 0.2 (minimal risk adjustment due to gender identity)
+   - Sexual_Orientation (Heterosexual): 0 (no risk adjustment)
+   - Weekly_Alcohol_Intake (4): 0.5 (moderate risk due to alcohol consumption)
+   - Smoking (No): -0.5 (reduced risk due to non-smoking status)
+   - HAM-D (7-17: Mild Depression): 1.8 (high risk due to mild depression)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (elevated risk due to reported sadness and fatigue)
+   - Loss_of_Interest (Yes): 0.8 (elevated risk due to loss of interest)
+   - Hours_of_Sleep (10.2): -0.3 (reduced risk due to adequate sleep)
+   - Employment (Employed): -0.5 (reduced risk due to employment status)
+   - Socioeconomic_Status (Middle): -0.2 (slightly reduced risk due to middle socioeconomic status)
+
+3. The patient's hospitalization risk is elevated primarily due to their anxiety diagnosis, mild depression, and family history of cancer, which collectively contribute to a higher likelihood of requiring medical intervention. However, their employment status, adequate sleep, and non-smoking status somewhat mitigate this risk, resulting in a moderate to high hospitalization risk score.

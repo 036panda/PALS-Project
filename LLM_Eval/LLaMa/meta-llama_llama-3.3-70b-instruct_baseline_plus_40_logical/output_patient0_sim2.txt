@@ -1,0 +1,15 @@
+1. 7.8
+2. Input factors and their assigned contributions:
+   - Age: 37, contribution: 0.2 (moderate positive, as age is a risk factor but 37 is not extremely high)
+   - BMI: 20.3, contribution: -0.5 (negative, as a BMI of 20.3 is within the normal range)
+   - Family_Health_History: Heart Disease, contribution: 1.5 (strong positive, as heart disease is a significant risk factor)
+   - Current_Diagnosis: Schizophrenia, contribution: 2.0 (strong positive, as schizophrenia can increase hospitalization risk)
+   - HAM-D: 25+, contribution: 2.5 (very strong positive, as severe depression is a significant risk factor)
+   - Loss_of_Interest: Yes, contribution: 0.8 (positive, as loss of interest can indicate severe depression)
+   - Smoking: Yes, contribution: 1.0 (positive, as smoking is a significant risk factor)
+   - Weekly_Alcohol_Intake: 3, contribution: 0.2 (moderate positive, as moderate alcohol intake can be a risk factor)
+   - Hours_of_Sleep: 6.3, contribution: 0.3 (moderate positive, as inadequate sleep can be a risk factor)
+   - Socioeconomic_Status: Middle, contribution: -0.2 (negative, as middle socioeconomic status is generally associated with better health outcomes)
+   - Exercises: Yes, contribution: -0.5 (negative, as regular exercise is generally associated with better health outcomes)
+   - All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic characteristics, with a focus on the presence of severe depression, schizophrenia, heart disease family history, and smoking, which are all significant risk factors for hospitalization. The score reflects the cumulative effect of these factors, with a higher score indicating a greater risk of hospitalization.

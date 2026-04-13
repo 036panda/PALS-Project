@@ -1,0 +1,18 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age (25): -1.5 (lower risk due to younger age)
+   - BMI (28.5): 1.2 (higher risk due to overweight status)
+   - Family_Health_History (Hypertension): 1.0 (increased risk due to family history of hypertension)
+   - Current_Diagnosis (Bipolar): 1.5 (higher risk due to mental health condition)
+   - Race (Native American): 0.5 (increased risk due to potential healthcare disparities)
+   - Gender (Non-binary): 0 (neutral, no direct risk association)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, no direct risk association)
+   - Weekly_Alcohol_Intake (7): 0.5 (moderate risk due to alcohol consumption)
+   - Smoking (No): -0.5 (lower risk due to non-smoking status)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued (No): -0.2 (lower risk due to no recent sad or fatigued feelings)
+   - Loss_of_Interest (No): -0.2 (lower risk due to no loss of interest)
+   - Hours_of_Sleep (7.8): -0.5 (lower risk due to adequate sleep)
+   - Employment (Employed): -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status (Middle): 0 (neutral, middle socioeconomic status)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering both physical and mental health aspects, as well as socioeconomic and lifestyle factors. The score reflects a moderate risk level due to the combination of factors such as overweight status, family history of hypertension, and bipolar diagnosis, balanced by protective factors like stable employment, adequate sleep, and no smoking.

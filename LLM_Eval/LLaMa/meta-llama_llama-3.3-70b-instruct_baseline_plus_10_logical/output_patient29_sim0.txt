@@ -1,0 +1,30 @@
+1. Risk Score: 6.2
+
+2. Input Factors and Contributions:
+   - Age: 22: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 35.9: 2.5 (high BMI indicating obesity, a significant health risk factor)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer may increase individual risk)
+   - Current_Diagnosis: Anxiety: 1.0 (anxiety can contribute to overall health risk)
+   - Race: Hispanic: 0.5 (some studies suggest racial disparities in healthcare access and outcomes)
+   - Gender: Female: 0.2 (gender can influence certain health risks, but impact is complex)
+   - Sexual_Orientation: Bisexual: 0.1 (minority stress may contribute to health risks, but data is mixed)
+   - Weekly_Alcohol_Intake: 4: 0.8 (moderate alcohol intake has mixed effects on health)
+   - Smoking: No: -1.0 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.5 (mild depression can impact health and well-being)
+   - Been_Sad_or_Fatigued: No: -0.5 (absence of recent sadness or fatigue is positive)
+   - Loss_of_Interest: No: -0.5 (no loss of interest suggests better mental health)
+   - Hours_of_Sleep: 5.7: 0.7 (inadequate sleep can increase health risks)
+   - Employment: Student: -0.8 (being a student may reduce certain stressors and increase access to healthcare)
+   - Socioeconomic_Status: Middle: -0.3 (middle socioeconomic status generally offers better health access than lower status)
+   - Drinks_Coffee: No: 0.1 (coffee consumption has mixed health effects, but generally considered minor)
+   - Likes_Vegetables: No: 0.4 (not liking vegetables may indicate poorer dietary habits)
+   - Favourite_Sport: Soccer: -0.2 (engagement in sports can be beneficial for health)
+   - Votes: Sometimes: 0.1 (civic engagement may have minor positive effects on mental health)
+   - Height_in_Inches: 61: 0.1 (height can influence certain health risks, but impact is generally small)
+   - Has_Drivers_License: No: 0.3 (not having a driver's license may limit access to healthcare or increase stress)
+   - Picks_Up_Litter: Sometimes: -0.1 (community engagement may have minor positive effects on mental health)
+   - Uses_Public_Transportation: Never: 0.4 (lack of use of public transportation may indicate less physical activity or social interaction)
+   - Donated_Blood: Yes: -0.2 (donating blood can be a health-positive behavior)
+   - Birthday_Month: August: 0 (no known direct health risk association with birth month)
+
+3. The risk score calculation is based on assigning numerical values to each factor reflecting its potential positive or negative impact on health, considering both physical and mental health aspects, and summing these values to obtain a total risk score. This approach assumes a direct and linear relationship between each factor and the overall risk, which is a simplification of complex real-world interactions.

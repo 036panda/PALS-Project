@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 22: -1.5 (young age generally reduces health risks)
+   - BMI: 35.9: 2.5 (high BMI increases health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer may increase risk)
+   - Current_Diagnosis: Anxiety: 1.8 (anxiety can increase hospitalization risk)
+   - Race: Hispanic: 0.5 (some studies suggest health disparities, but impact varies widely)
+   - Gender: Female: 0.2 (gender can influence health risks, but effect is generally small)
+   - Sexual_Orientation: Bisexual: 0.3 (minority stress may increase health risks)
+   - Weekly_Alcohol_Intake: 4: 0.8 (moderate alcohol intake can have mixed effects on health)
+   - Smoking: No: -1.0 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.5 (mild depression can increase hospitalization risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.5 (not experiencing loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7: 0.7 (inadequate sleep can increase health risks)
+   - Employment: Student: -0.8 (being a student may reduce health risks due to access to resources)
+   - Socioeconomic_Status: Middle: -0.5 (middle socioeconomic status generally reduces health risks compared to lower status)
+3. The hospitalization risk score is calculated based on the individual's specific health and demographic factors, with each factor contributing a positive or negative value to the total score, reflecting the complex interplay of causal relationships that influence health outcomes. The score of 6.8 reflects a moderate risk level, driven primarily by the individual's high BMI, anxiety diagnosis, and mild depression, which are mitigated by their young age, lack of smoking, and access to resources as a student.

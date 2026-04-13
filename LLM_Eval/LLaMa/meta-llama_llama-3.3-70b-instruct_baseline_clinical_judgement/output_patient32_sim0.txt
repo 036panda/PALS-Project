@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 7.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (19): -1.5 (younger age generally associated with lower risk of hospitalization due to schizophrenia and other conditions)
+   - BMI (17.6): 1.2 (low BMI can indicate malnutrition or other health issues, increasing risk)
+   - Family_Health_History (Diabetes): 0.8 (while diabetes itself isn't directly linked to schizophrenia, a family history of chronic disease can indicate a predisposition to health issues)
+   - Current_Diagnosis (Schizophrenia): 3.5 (schizophrenia significantly increases the risk of hospitalization due to potential for severe episodes and treatment complexity)
+   - Race (White): 0 (race is not a direct factor in this assessment, as the risk is more closely tied to the specific health conditions and behaviors)
+   - Gender (Non-binary): 0 (gender identity itself does not directly impact the risk of hospitalization in this context)
+   - Sexual_Orientation (Heterosexual): 0 (sexual orientation does not directly influence the risk of hospitalization for the given conditions)
+   - Weekly_Alcohol_Intake (3): 0.5 (moderate alcohol intake can have various health impacts, but in this context, it slightly increases risk due to potential interactions with psychiatric conditions)
+   - Smoking (No): -0.5 (not smoking reduces health risks, including those related to respiratory and cardiovascular diseases)
+   - HAM-D (25+): 2.8 (severe depression significantly increases the risk of hospitalization, especially when combined with schizophrenia)
+   - Been_Sad_or_Fatigued (No): -0.2 (not experiencing sadness or fatigue reduces the immediate risk of hospitalization for depression-related issues)
+   - Loss_of_Interest (Yes): 1.2 (loss of interest can be a significant symptom of depression, increasing the risk of severe episodes requiring hospitalization)
+   - Hours_of_Sleep (8.0): -0.5 (adequate sleep is beneficial for mental health, reducing the risk of exacerbating psychiatric conditions)
+   - Employment (Student): -0.5 (being a student can provide a structured environment and access to resources, potentially reducing risk)
+   - Socioeconomic_Status (High): -1.0 (higher socioeconomic status can provide better access to healthcare and resources, reducing the risk of hospitalization)
+
+3. The patient's severe depression and schizophrenia significantly increase the risk of hospitalization, necessitating close monitoring and comprehensive treatment. The patient's high socioeconomic status and structured environment as a student somewhat mitigate this risk, but the overall clinical picture suggests a need for careful management to prevent severe episodes requiring hospitalization.

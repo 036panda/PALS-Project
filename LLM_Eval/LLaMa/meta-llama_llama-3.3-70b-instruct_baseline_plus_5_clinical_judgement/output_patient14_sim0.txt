@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 18, Impact: -1 (younger age generally associated with lower risk of hospitalization)
+   - BMI: 30.9, Impact: +2 (high BMI indicating potential health issues)
+   - Family_Health_History: nan, Impact: 0 (no information available)
+   - Current_Diagnosis: Bipolar, Impact: +2 (serious mental health condition)
+   - Race: Other, Impact: 0 (no specific risk associated with this category)
+   - Gender: Non-binary, Impact: 0 (no specific risk associated with this category)
+   - Sexual_Orientation: Bisexual, Impact: 0 (no specific risk associated with this category)
+   - Weekly_Alcohol_Intake: 1, Impact: -1 (low alcohol intake, potentially protective)
+   - Smoking: No, Impact: -1 (not smoking reduces health risks)
+   - HAM-D: 0–6, Impact: -1 (normal score indicating no depression)
+   - Been_Sad_or_Fatigued: No, Impact: -1 (absence of sadness or fatigue reduces risk)
+   - Loss_of_Interest: Yes, Impact: +2 (presence of loss of interest could indicate severe mental health issues)
+   - Hours_of_Sleep: 9.7, Impact: 0 (sleep hours within a relatively normal range)
+   - Employment: Student, Impact: -1 (being a student may provide structure and support)
+   - Socioeconomic_Status: Middle, Impact: 0 (middle socioeconomic status, neutral impact)
+   - Drinks_Coffee: No, Impact: 0 (no specific risk associated with not drinking coffee)
+   - Likes_Vegetables: No, Impact: +1 (not liking vegetables might indicate unhealthy diet)
+   - Favourite_Sport: Soccer, Impact: -1 (engagement in sports can be beneficial for mental and physical health)
+   - Votes: Never, Impact: 0 (voting behavior not directly related to health risk)
+   - Height_in_Inches: 62, Impact: 0 (height within a normal range, no specific risk)
+
+3. The patient's hospitalization risk is influenced significantly by their bipolar diagnosis and loss of interest, which are countered by protective factors such as low alcohol intake, not smoking, and being a student. Overall, the patient's risk profile suggests a moderate risk due to the presence of a serious mental health condition, despite several mitigating factors.

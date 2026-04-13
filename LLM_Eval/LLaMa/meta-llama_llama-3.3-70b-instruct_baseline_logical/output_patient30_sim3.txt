@@ -1,0 +1,18 @@
+1. 6.5
+2. Input factors and their assigned numerical contributions:
+   - Age: 49: 0.5 (positive, as older age is associated with increased health risks)
+   - BMI: 29.7: 1.2 (positive, as high BMI is linked to various health issues)
+   - Family_Health_History: nan: 0 (neutral, due to lack of information)
+   - Current_Diagnosis: Bipolar: 1.5 (positive, as bipolar disorder can increase hospitalization risk)
+   - Race: Native American: 0.5 (positive, considering health disparities affecting this group)
+   - Gender: Female: 0 (neutral, as no specific risk adjustment is made for gender in this context)
+   - Sexual_Orientation: Other: 0 (neutral, due to lack of specific risk data)
+   - Weekly_Alcohol_Intake: 2: 0.2 (positive, as some alcohol intake can contribute to health risks)
+   - Smoking: No: -0.5 (negative, as not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.0 (positive, as mild depression can still impact health and increase hospitalization risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative, indicating less risk due to the absence of these symptoms)
+   - Loss_of_Interest: Yes: 0.8 (positive, as this symptom can be associated with increased risk of hospitalization)
+   - Hours_of_Sleep: 5.8: 0.5 (positive, as insufficient sleep can negatively impact health)
+   - Employment: Employed: -0.5 (negative, as being employed can generally reduce health risks due to access to healthcare and stability)
+   - Socioeconomic_Status: Middle: -0.2 (negative, as middle socioeconomic status may provide better access to healthcare resources compared to lower statuses)
+3. The hospitalization risk score is calculated based on the individual's health and socioeconomic factors, with each factor contributing a specific positive or negative value to the total score, reflecting their potential impact on hospitalization risk. The score of 6.5 indicates a moderate risk level, primarily driven by the patient's bipolar diagnosis, high BMI, and symptoms of mild depression.

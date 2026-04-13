@@ -1,0 +1,18 @@
+1. 8.2
+2. Input factors and their assigned numerical contributions:
+   - Age: -1.5 (younger age generally associated with lower risk)
+   - BMI: -0.2 (BMI within normal range, slightly negative contribution)
+   - Family_Health_History: Cancer: +2.0 (family history of cancer increases risk)
+   - Current_Diagnosis: Anxiety: +1.5 (anxiety diagnosis contributes to risk)
+   - Race: Other: 0 (no specific risk contribution assigned due to lack of data)
+   - Gender: Non-binary: 0 (no specific risk contribution assigned due to lack of data)
+   - Sexual_Orientation: Heterosexual: 0 (no specific risk contribution assigned due to lack of data)
+   - Weekly_Alcohol_Intake: 7: +1.0 (moderate alcohol intake contributes to risk)
+   - Smoking: Yes: +2.5 (smoking significantly increases risk)
+   - HAM-D: 25+: Severe Depression: +3.5 (severe depression significantly increases risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.5 (not experiencing loss of interest reduces risk)
+   - Hours_of_Sleep: 6.3: -0.2 (sleep hours slightly below average, minor negative contribution)
+   - Employment: Student: -0.5 (being a student may reduce risk due to access to resources)
+   - Socioeconomic_Status: Low: +1.2 (low socioeconomic status increases risk)
+3. The hospitalization risk score is calculated based on the individual's health and lifestyle factors, with significant contributions from severe depression, smoking, and family history of cancer, which are known to increase the risk of hospitalization. The assigned numerical contributions reflect the causal relationships between these factors and hospitalization risk, resulting in a total risk score of 8.2.

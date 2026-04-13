@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 6.8
+2. Breakdown of individual attribute impacts:
+   - Age: 40: 0.5 (moderate risk due to increasing age)
+   - BMI: 16.7: -1.2 (low risk due to low BMI, but potential for malnutrition)
+   - Family_Health_History: Hypertension: 1.0 (increased risk due to family history)
+   - Current_Diagnosis: Depression: 2.5 (high risk due to depression diagnosis)
+   - HAM-D: 18-24: Moderate Depression: 1.5 (high risk due to moderate depression)
+   - Been_Sad_or_Fatigued: Yes: 0.8 (increased risk due to reported sadness and fatigue)
+   - Loss_of_Interest: Yes: 0.8 (increased risk due to loss of interest)
+   - Smoking: Yes: 1.2 (high risk due to smoking)
+   - Socioeconomic_Status: Low: 1.0 (increased risk due to low socioeconomic status)
+   - Weekly_Alcohol_Intake: 3: 0.2 (low risk due to moderate alcohol intake)
+   - Hours_of_Sleep: 8.0: -0.5 (low risk due to adequate sleep)
+   - Exercises: No: 0.8 (increased risk due to lack of exercise)
+   - Allergy: Mold: 0.2 (low risk due to allergy)
+   - Other attributes: 0 (no significant impact)
+   Total: 6.8
+3. The patient's hospitalization risk is elevated due to their depression diagnosis, family history of hypertension, smoking habits, and low socioeconomic status, which collectively contribute to a heightened risk of hospitalization. The presence of moderate depression and reported symptoms of sadness and loss of interest further support this assessment.

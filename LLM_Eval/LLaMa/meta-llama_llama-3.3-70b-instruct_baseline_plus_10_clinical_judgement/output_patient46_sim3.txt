@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attribute impacts:
+   - Age: 32: -0.5 (relatively young, lower risk)
+   - BMI: 25.7: 1.0 (overweight, higher risk)
+   - Family_Health_History: Asthma: 1.2 (increased risk due to respiratory condition)
+   - Current_Diagnosis: nan: 0 (no information, neutral)
+   - Race: White: 0 (no specific risk adjustment based on race in this context)
+   - Gender: Non-binary: 0 (no specific risk adjustment based on gender identity)
+   - Sexual_Orientation: Other: 0 (no specific risk adjustment based on sexual orientation)
+   - Weekly_Alcohol_Intake: 2: -0.5 (moderate drinking, lower risk compared to heavy drinking)
+   - Smoking: No: -1.0 (non-smoker, lower risk)
+   - HAM-D: 18-24: Moderate Depression: 2.5 (significant mental health risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (less risk of current mental health crisis)
+   - Loss_of_Interest: Yes: 1.0 (indicator of depression, higher risk)
+   - Hours_of_Sleep: 4.8: 1.5 (sleep deprivation, higher risk)
+   - Employment: Employed: -0.5 (stable employment, lower risk)
+   - Socioeconomic_Status: Middle: 0 (neutral socioeconomic status)
+   - Drinks_Coffee: No: 0 (no specific risk adjustment)
+   - Likes_Vegetables: No: 0.5 (less healthy diet, higher risk)
+   - Favourite_Sport: nan: 0 (no information, neutral)
+   - Votes: Sometimes: 0 (no specific risk adjustment based on voting behavior)
+   - Height_in_Inches: 63: 0 (no specific risk adjustment based on height)
+   - Has_Drivers_License: No: 0.5 (potential indicator of social isolation or mobility issues, higher risk)
+   - Picks_Up_Litter: Sometimes: 0 (no specific risk adjustment based on community behavior)
+   - Uses_Public_Transportation: Never: 0.5 (potential indicator of social isolation, higher risk)
+   - Donated_Blood: No: 0 (no specific risk adjustment)
+   - Birthday_Month: July: 0 (no specific risk adjustment based on birth month)
+
+3. The patient's moderate depression, sleep deprivation, and family history of asthma contribute significantly to the hospitalization risk, while being employed and a non-smoker somewhat mitigate this risk. Overall, the patient's mental health status and lifestyle factors suggest a notable risk of hospitalization, warranting close monitoring and potential intervention.

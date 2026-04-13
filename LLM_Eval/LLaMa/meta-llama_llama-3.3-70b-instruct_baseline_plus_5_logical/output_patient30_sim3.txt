@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 49: 0.5 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 29.7: 1.2 (positive, as high BMI is linked to various health issues)
+   - Family_Health_History: nan: 0 (neutral, due to lack of information)
+   - Current_Diagnosis: Bipolar: 2.0 (positive, as bipolar disorder can increase hospitalization risk)
+   - Race: Native American: 0.5 (positive, considering health disparities)
+   - Gender: Female: 0 (neutral, as no specific risk increase is assigned based on gender alone)
+   - Sexual_Orientation: Other: 0 (neutral, as no specific risk increase is assigned based on sexual orientation alone)
+   - Weekly_Alcohol_Intake: 2: 0.2 (positive, as some alcohol intake can be a risk factor)
+   - Smoking: No: 0 (neutral, as not smoking does not increase risk)
+   - HAM-D: 7–17: Mild Depression: 1.5 (positive, as mild depression can increase hospitalization risk)
+   - Been_Sad_or_Fatigued: No: 0 (neutral, as not experiencing sadness or fatigue does not increase risk)
+   - Loss_of_Interest: Yes: 1.0 (positive, as loss of interest can be a symptom of severe depression)
+   - Hours_of_Sleep: 5.8: 0.3 (positive, as insufficient sleep can negatively impact health)
+   - Employment: Employed: -0.5 (negative, as being employed can indicate stability and lower risk)
+   - Socioeconomic_Status: Middle: -0.2 (negative, as middle socioeconomic status may provide some health advantages)
+   - Drinks_Coffee: No: 0 (neutral, as not drinking coffee does not directly increase risk)
+   - Likes_Vegetables: No: 0.1 (positive, as not liking vegetables might indicate less healthy dietary choices)
+   - Favourite_Sport: Basketball: 0 (neutral, as having a favorite sport does not directly impact hospitalization risk)
+   - Votes: Never: 0 (neutral, as voting behavior does not directly impact health risk)
+   - Height_in_Inches: 60: 0 (neutral, as height alone is not a significant risk factor in this context)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic conditions, with each factor contributing positively or negatively to the overall risk, reflecting their potential causal relationships with hospitalization risk. The score of 6.8 out of 10 indicates a moderate to high risk level, primarily due to the patient's bipolar diagnosis, mild depression, and other health and lifestyle factors.

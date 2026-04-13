@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (19): -1.0 (lower risk due to younger age)
+   - BMI (17.6): 1.2 (higher risk due to underweight status)
+   - Family_Health_History (Diabetes): 0.8 (moderate risk due to potential genetic predisposition)
+   - Current_Diagnosis (Schizophrenia): 2.5 (high risk due to severe mental health condition)
+   - Race (White): 0.0 (no significant impact)
+   - Gender (Non-binary): 0.0 (no significant impact)
+   - Sexual_Orientation (Heterosexual): 0.0 (no significant impact)
+   - Weekly_Alcohol_Intake (3): 0.5 (moderate risk due to potential for alcohol-related issues)
+   - Smoking (No): -0.5 (lower risk due to non-smoking status)
+   - HAM-D (25+): 2.0 (high risk due to severe depression)
+   - Been_Sad_or_Fatigued (No): -0.2 (slightly lower risk)
+   - Loss_of_Interest (Yes): 1.0 (higher risk due to symptom of depression)
+   - Hours_of_Sleep (8.0): -0.5 (lower risk due to adequate sleep)
+   - Employment (Student): -0.5 (lower risk due to engagement in education)
+   - Socioeconomic_Status (High): -1.0 (lower risk due to better access to healthcare)
+   - Drinks_Coffee (No): 0.0 (no significant impact)
+   - Likes_Vegetables (No): 0.2 (slightly higher risk due to potential for poor diet)
+   - Favourite_Sport (nan): 0.0 (no significant impact)
+   - Votes (Never): 0.0 (no significant impact)
+   - Height_in_Inches (74): 0.0 (no significant impact)
+   - Has_Drivers_License (No): 0.0 (no significant impact)
+   - Picks_Up_Litter (Always): -0.2 (slightly lower risk due to community engagement)
+   - Uses_Public_Transportation (Sometimes): 0.0 (no significant impact)
+   - Donated_Blood (No): 0.0 (no significant impact)
+   - Birthday_Month (July): 0.0 (no significant impact)
+
+3. The patient's severe depression and schizophrenia diagnosis significantly increase the risk of hospitalization, while factors such as younger age, non-smoking status, and high socioeconomic status mitigate this risk to some extent. Overall, the patient's mental health conditions and underweight status contribute to a moderate to high risk of hospitalization.

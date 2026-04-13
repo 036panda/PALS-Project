@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 6.8
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 52: 1.2 (increased risk due to age-related health decline)
+   - BMI: 16.4: -1.5 (lower risk due to lower BMI, but caution for potential underweight issues)
+   - Family_Health_History: Cancer: 1.8 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Bipolar: 2.5 (increased risk due to mental health condition)
+   - Race: Asian: 0.2 (slightly increased risk due to potential genetic factors)
+   - Gender: Male: 0.5 (slightly increased risk due to gender-related health disparities)
+   - Sexual_Orientation: Other: 0.1 (minimal impact)
+   - Weekly_Alcohol_Intake: 7: 1.1 (increased risk due to moderate alcohol consumption)
+   - Smoking: Yes: 2.2 (increased risk due to smoking-related health issues)
+   - HAM-D: 7–17: Mild Depression: 1.5 (increased risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued: No: -0.5 (lower risk due to absence of reported sadness or fatigue)
+   - Loss_of_Interest: Yes: 1.2 (increased risk due to loss of interest, a symptom of depression)
+   - Hours_of_Sleep: 4.8: 1.8 (increased risk due to sleep deprivation)
+   - Employment: Employed: -0.8 (lower risk due to stable employment)
+   - Socioeconomic_Status: Middle: -0.2 (slightly lower risk due to middle socioeconomic status)
+   - Drinks_Coffee: No: 0.1 (minimal impact)
+   - Likes_Vegetables: Yes: -0.5 (lower risk due to healthy dietary habits)
+   - Other attributes (e.g., Favourite_Sport, Votes, Height_in_Inches, etc.): 0.1 (cumulative minimal impact)
+3. The patient's hospitalization risk is elevated due to the presence of bipolar disorder, mild depression, sleep deprivation, and smoking, which collectively contribute to a heightened risk of health complications. The patient's underweight status and family history of cancer also contribute to the overall risk, while stable employment and healthy dietary habits partially mitigate these factors.

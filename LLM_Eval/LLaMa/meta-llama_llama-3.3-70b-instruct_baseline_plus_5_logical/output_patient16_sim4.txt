@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 45, contribution: 0.5 (positive, as increasing age is associated with higher health risks)
+   - BMI: 25.2, contribution: 1.2 (positive, as a BMI of 25.2 is considered overweight, increasing health risks)
+   - Family_Health_History: Hypertension, contribution: 1.5 (positive, as a family history of hypertension increases the risk of developing hypertension and other cardiovascular diseases)
+   - Current_Diagnosis: Anxiety, contribution: 1.0 (positive, as anxiety can contribute to increased stress and potential physical health issues)
+   - Race: Hispanic, contribution: 0.0 (neutral, as race is not a direct causal factor for hospitalization risk in this context)
+   - Gender: Male, contribution: 0.0 (neutral, as gender is not a direct causal factor for hospitalization risk in this context)
+   - Sexual_Orientation: Other, contribution: 0.0 (neutral, as sexual orientation is not a direct causal factor for hospitalization risk in this context)
+   - Weekly_Alcohol_Intake: 1, contribution: 0.2 (positive, as some alcohol intake can have negative health effects, but low intake may also have some benefits)
+   - Smoking: Yes, contribution: 2.0 (positive, as smoking is a significant risk factor for numerous health issues)
+   - HAM-D: 7–17: Mild Depression, contribution: 1.0 (positive, as mild depression can impact physical health and increase hospitalization risk)
+   - Been_Sad_or_Fatigued: No, contribution: -0.5 (negative, as not experiencing sadness or fatigue reduces the risk of depression-related hospitalization)
+   - Loss_of_Interest: No, contribution: -0.5 (negative, as not experiencing loss of interest reduces the risk of depression-related hospitalization)
+   - Hours_of_Sleep: 7.9, contribution: -0.2 (negative, as adequate sleep reduces health risks)
+   - Employment: Employed, contribution: -0.5 (negative, as being employed can reduce stress and increase access to healthcare)
+   - Socioeconomic_Status: Middle, contribution: -0.5 (negative, as a middle socioeconomic status can provide access to better healthcare and reduce health risks)
+   - Drinks_Coffee: No, contribution: 0.0 (neutral, as coffee intake is not a significant factor in this context)
+   - Likes_Vegetables: Yes, contribution: -0.5 (negative, as liking vegetables can indicate healthier eating habits and reduce health risks)
+   - Favourite_Sport: Basketball, contribution: 0.0 (neutral, as favorite sport is not a direct causal factor for hospitalization risk)
+   - Votes: Sometimes, contribution: 0.0 (neutral, as voting behavior is not a direct causal factor for hospitalization risk)
+   - Height_in_Inches: 71, contribution: 0.0 (neutral, as height is not a direct causal factor for hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and socioeconomic status, with each factor contributing positively or negatively to the overall risk score, reflecting their potential causal relationships with health outcomes. The score of 6.8 indicates a moderate risk level, primarily driven by factors such as smoking, family health history, and mild depression.

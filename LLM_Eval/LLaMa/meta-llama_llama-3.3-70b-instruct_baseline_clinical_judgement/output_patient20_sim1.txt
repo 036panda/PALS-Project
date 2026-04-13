@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 19, Impact: -1.5 (younger age generally associated with lower risk of hospitalization)
+   - BMI: 25.1, Impact: 1.2 (BMI indicating overweight status, which can increase health risks)
+   - Family_Health_History: nan, Impact: 0 (no information available to assess impact)
+   - Current_Diagnosis: Schizophrenia, Impact: 3.5 (serious mental health condition increasing risk of hospitalization)
+   - Race: Black, Impact: 0.5 (acknowledging potential healthcare disparities, but direct impact on hospitalization risk is complex and multifactorial)
+   - Gender: Female, Impact: 0.2 (gender can influence health outcomes, but in this context, the impact is minimal)
+   - Sexual_Orientation: Heterosexual, Impact: 0 (no direct impact on hospitalization risk)
+   - Weekly_Alcohol_Intake: 4, Impact: 0.8 (moderate alcohol intake, which may contribute to health risks but is not excessively high)
+   - Smoking: No, Impact: -0.5 (non-smoking status reduces health risks)
+   - HAM-D: 7–17, Impact: 1.5 (mild depression, which increases the risk of hospitalization due to mental health concerns)
+   - Been_Sad_or_Fatigued: Yes, Impact: 1.0 (symptoms of sadness or fatigue, which can indicate need for medical attention)
+   - Loss_of_Interest: No, Impact: 0 (no loss of interest, which might suggest a more stable mental health status)
+   - Hours_of_Sleep: 10.3, Impact: -0.5 (adequate sleep, which is generally beneficial for health)
+   - Employment: Employed, Impact: -0.5 (employment can provide stability and access to healthcare, reducing hospitalization risk)
+   - Socioeconomic_Status: Middle, Impact: -0.2 (middle socioeconomic status, which may provide access to resources and healthcare, slightly reducing risk)
+3. The patient's diagnosis of schizophrenia and symptoms of mild depression significantly increase the risk of hospitalization, while factors such as employment and adequate sleep contribute to a slightly reduced risk. Overall, the patient's mental health status and moderate lifestyle factors contribute to a moderate hospitalization risk score.

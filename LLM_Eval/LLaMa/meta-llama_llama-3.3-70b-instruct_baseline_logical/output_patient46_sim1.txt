@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 32, contribution: -1.5 (younger age generally associated with lower risk)
+   - BMI: 25.7, contribution: 1.2 (higher BMI associated with increased health risks)
+   - Family_Health_History: Asthma, contribution: 1.0 (family history of asthma may increase risk of respiratory issues)
+   - Current_Diagnosis: nan, contribution: 0 (no current diagnosis, no direct impact)
+   - Race: White, contribution: 0 (race not directly contributing to hospitalization risk in this calculation)
+   - Gender: Non-binary, contribution: 0 (gender not directly contributing to hospitalization risk in this calculation)
+   - Sexual_Orientation: Other, contribution: 0 (sexual orientation not directly contributing to hospitalization risk in this calculation)
+   - Weekly_Alcohol_Intake: 2, contribution: 0.5 (moderate alcohol intake may have some health implications)
+   - Smoking: No, contribution: -1.0 (not smoking reduces health risks)
+   - HAM-D: 18-24, contribution: 2.5 (moderate depression increases hospitalization risk)
+   - Been_Sad_or_Fatigued: No, contribution: -0.5 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: Yes, contribution: 1.0 (loss of interest may indicate depression, increasing risk)
+   - Hours_of_Sleep: 4.8, contribution: 1.5 (inadequate sleep increases health risks)
+   - Employment: Employed, contribution: -0.5 (being employed may reduce stress and increase stability)
+   - Socioeconomic_Status: Middle, contribution: -0.5 (middle socioeconomic status may provide access to healthcare and reduce risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as BMI, family health history, and moderate depression, which increase their risk, while factors like younger age, not smoking, and being employed reduce their risk. The score reflects the cumulative effect of these factors on the individual's overall health and likelihood of hospitalization.

@@ -1,0 +1,25 @@
+1. Risk Score: 4.8
+
+2. Input Factors and Contributions:
+   - Age: 22: -1.5 (young age generally reduces health risks)
+   - BMI: 27.1: 1.2 (overweight, increasing health risks)
+   - Family_Health_History: Heart Disease: 1.5 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Schizophrenia: 2.0 (serious mental health condition increasing risk)
+   - Race: Hispanic: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Gender: Non-binary: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Sexual_Orientation: Bisexual: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Weekly_Alcohol_Intake: 2: -0.5 (moderate alcohol intake, slightly reducing risk compared to higher intake)
+   - Smoking: No: -1.0 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.0 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: Yes: 0.5 (symptom of depression, increasing risk)
+   - Loss_of_Interest: Yes: 0.5 (symptom of depression, increasing risk)
+   - Hours_of_Sleep: 8.9: -0.5 (adequate sleep reduces health risks)
+   - Employment: Student: -0.5 (being a student may reduce certain life stressors)
+   - Socioeconomic_Status: Middle: 0.0 (middle socioeconomic status, neutral impact)
+   - Drinks_Coffee: Yes: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Likes_Vegetables: No: 0.2 (not liking vegetables may indicate less healthy diet, slightly increasing risk)
+   - Favourite_Sport: Basketball: 0.0 (no direct causal link to hospitalization risk without other factors)
+   - Votes: Always: 0.0 (voting habits have no direct causal link to health risks)
+   - Height_in_Inches: 74: 0.0 (height has no direct causal link to hospitalization risk without other factors)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and their potential to increase or decrease the risk of hospitalization, considering both physical health indicators like BMI and family health history, and mental health indicators such as schizophrenia diagnosis and symptoms of depression. The score reflects a balanced consideration of these factors, weighing the presence of serious mental health conditions and genetic predispositions against protective factors like moderate alcohol intake and adequate sleep.

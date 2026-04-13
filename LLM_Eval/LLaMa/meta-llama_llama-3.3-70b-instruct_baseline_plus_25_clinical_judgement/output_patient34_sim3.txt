@@ -1,0 +1,12 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 19, Impact: -1.5 (lower risk due to younger age)
+   - BMI: 46.7, Impact: 2.5 (higher risk due to obesity)
+   - Current_Diagnosis: Anxiety, Impact: 1.2 (moderate risk due to anxiety diagnosis)
+   - Smoking: Yes, Impact: 1.8 (higher risk due to smoking)
+   - Been_Sad_or_Fatigued: Yes, Impact: 0.5 (moderate risk due to reported sadness or fatigue)
+   - Loss_of_Interest: Yes, Impact: 0.5 (moderate risk due to reported loss of interest)
+   - Hours_of_Sleep: 9.1, Impact: -0.5 (lower risk due to adequate sleep)
+   - HAM-D: 0–6, Impact: -0.5 (lower risk due to normal depression score)
+   - Other attributes (Family_Health_History: nan, Race: Asian, Gender: Female, Sexual_Orientation: Heterosexual, Weekly_Alcohol_Intake: 0, etc.): 1.2 (combined minor risks and protective factors)
+3. The patient's high BMI and smoking status significantly increase the risk of hospitalization, while the presence of anxiety and reported sadness or fatigue also contribute to the overall risk. However, the patient's young age and adequate sleep habits help to mitigate this risk to some extent.

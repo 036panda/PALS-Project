@@ -1,0 +1,13 @@
+1. Risk Assessment Score: 6.2
+2. Parameters and risk values:
+	* Age: 40, risk value: 0.5
+	* BMI: 34.6, risk value: 1.2 (high BMI increases risk)
+	* Family_Health_History: Cancer, risk value: 1.0 (family history of cancer increases risk)
+	* Current_Diagnosis: Bipolar, risk value: 1.5 (bipolar diagnosis increases risk)
+	* Weekly_Alcohol_Intake: 4, risk value: 0.8 (moderate alcohol intake increases risk)
+	* HAM-D: 7-17, risk value: 1.0 (mild depression increases risk)
+	* Loss_of_Interest: Yes, risk value: 0.8 (loss of interest increases risk)
+	* Socioeconomic_Status: Middle, risk value: -0.5 (middle socioeconomic status decreases risk)
+	* Employment: Employed, risk value: -0.5 (being employed decreases risk)
+	* Hours_of_Sleep: 8.9, risk value: -0.2 (adequate sleep decreases risk)
+3. The patient's risk score is driven by their bipolar diagnosis, family history of cancer, high BMI, and mild depression, which are all significant risk factors for hospitalization. However, their middle socioeconomic status, employment, and adequate sleep help to mitigate some of this risk.

@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 26: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 29.1: 2.0 (obesity is a significant risk factor for various health conditions)
+   - Family_Health_History: Diabetes: 1.5 (family history of diabetes increases risk of developing diabetes and other metabolic disorders)
+   - Current_Diagnosis: Bipolar: 2.5 (bipolar disorder can lead to significant health complications if not managed properly)
+   - Been_Sad_or_Fatigued: Yes: 1.0 (indicative of potential mental health issues)
+   - Loss_of_Interest: Yes: 1.0 (another indicator of potential mental health issues)
+   - HAM-D: 0–6: Normal / No Depression: -2.0 (low score indicates lower risk of depression)
+   - Hours_of_Sleep: 6.2: -0.5 (adequate sleep, slightly below average, but not significantly impacting risk)
+   - Socioeconomic_Status: Low: 1.0 (lower socioeconomic status is associated with higher health risks due to limited access to healthcare and resources)
+   - Weekly_Alcohol_Intake: 3: 0.5 (moderate alcohol intake, slightly increasing health risk)
+   - Smoking: No: -1.0 (not smoking reduces health risks)
+   - Allergy: Milk/Eggs: 0.5 (allergies can pose health risks if not properly managed)
+   - Exercises: No: 1.0 (lack of exercise increases health risks)
+   - Skips_Breakfast: Yes: 0.5 (skipping meals can lead to nutritional deficiencies and increased health risks)
+   - Other attributes (e.g., employment status, relationship status, dietary preferences, etc.): 0.2 (cumulative minor impact of various lifestyle and preference factors)
+
+3. The patient's hospitalization risk is elevated due to factors such as a high BMI, family history of diabetes, bipolar diagnosis, and socioeconomic status, which collectively contribute to a higher risk profile. Despite some protective factors like not smoking and being employed, the presence of significant health and lifestyle risk factors necessitates close monitoring and management to mitigate potential complications.

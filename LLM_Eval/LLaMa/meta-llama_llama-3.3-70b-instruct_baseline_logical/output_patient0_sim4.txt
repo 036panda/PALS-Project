@@ -1,0 +1,20 @@
+1. Risk Score: 6.8
+
+2. Input Factors and Contributions:
+   - Age: 37, Contribution: -0.5 (lower risk due to being under 40)
+   - BMI: 20.3, Contribution: -1.0 (lower risk due to being within normal weight range)
+   - Family_Health_History: Heart Disease, Contribution: +2.0 (increased risk due to family history of heart disease)
+   - Current_Diagnosis: Schizophrenia, Contribution: +1.5 (increased risk due to severe mental health condition)
+   - Race: Asian, Contribution: 0 (no direct causal relationship established for hospitalization risk in this context)
+   - Gender: Female, Contribution: 0 (no direct causal relationship established for hospitalization risk in this context)
+   - Sexual_Orientation: Homosexual, Contribution: 0 (no direct causal relationship established for hospitalization risk in this context)
+   - Weekly_Alcohol_Intake: 3, Contribution: +0.5 (moderate risk due to alcohol intake)
+   - Smoking: Yes, Contribution: +1.0 (increased risk due to smoking)
+   - HAM-D: 25+, Contribution: +2.0 (high risk due to severe depression)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (lower risk due to absence of reported sadness or fatigue)
+   - Loss_of_Interest: Yes, Contribution: +1.0 (increased risk due to loss of interest, indicative of depression)
+   - Hours_of_Sleep: 6.3, Contribution: +0.3 (slightly increased risk due to less than optimal sleep hours)
+   - Employment: Employed, Contribution: -0.5 (lower risk due to employment, indicating stability)
+   - Socioeconomic_Status: Middle, Contribution: 0 (neutral risk, as middle socioeconomic status does not strongly influence hospitalization risk in this context)
+
+3. The risk score calculation is based on the summation of individual risk factors, considering both the presence of health conditions (like schizophrenia and heart disease family history) and lifestyle factors (such as smoking and alcohol intake), which are known to increase the risk of hospitalization. The justification for each contribution is grounded in established medical and psychological research linking these factors to increased health risks and hospitalization needs.

@@ -1,0 +1,30 @@
+1. Risk Score: 4.8
+
+2. Input Factors and Contributions:
+   - Age: 46: +0.5 (increased risk due to age-related health decline)
+   - BMI: 28.3: +1.2 (increased risk due to overweight status)
+   - Family_Health_History: Heart Disease: +1.5 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Bipolar: +1.0 (increased risk due to mental health condition)
+   - Race: Native American: +0.2 (increased risk due to potential healthcare disparities)
+   - Gender: Non-binary: 0 (no direct causal link to hospitalization risk)
+   - Sexual_Orientation: Heterosexual: 0 (no direct causal link to hospitalization risk)
+   - Weekly_Alcohol_Intake: 2: -0.5 (reduced risk due to moderate alcohol consumption)
+   - Smoking: No: -0.5 (reduced risk due to non-smoking status)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (reduced risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued: No: -0.2 (reduced risk due to absence of sad or fatigued feelings)
+   - Loss_of_Interest: Yes: +0.5 (increased risk due to potential mental health implications)
+   - Hours_of_Sleep: 7.0: -0.2 (reduced risk due to adequate sleep)
+   - Employment: Employed: -0.5 (reduced risk due to stable employment)
+   - Socioeconomic_Status: Middle: 0 (neutral socioeconomic status)
+   - Drinks_Coffee: Yes: -0.1 (slightly reduced risk due to potential health benefits of moderate coffee consumption)
+   - Likes_Vegetables: Yes: -0.1 (slightly reduced risk due to healthy dietary habits)
+   - Favourite_Sport: Basketball: 0 (no direct causal link to hospitalization risk)
+   - Votes: Never: 0 (no direct causal link to hospitalization risk)
+   - Height_in_Inches: 65: 0 (no direct causal link to hospitalization risk)
+   - Has_Drivers_License: No: +0.1 (slightly increased risk due to potential reduced mobility or independence)
+   - Picks_Up_Litter: Never: 0 (no direct causal link to hospitalization risk)
+   - Uses_Public_Transportation: Always: 0 (no direct causal link to hospitalization risk)
+   - Donated_Blood: No: 0 (no direct causal link to hospitalization risk)
+   - Birthday_Month: August: 0 (no direct causal link to hospitalization risk)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering the potential health implications of each factor, such as the increased risk associated with a family history of heart disease, bipolar diagnosis, and overweight status, as well as the reduced risk associated with moderate alcohol consumption, non-smoking status, and stable employment. The contributions of each factor are assigned based on their potential impact on hospitalization risk, resulting in a total risk score of 4.8.

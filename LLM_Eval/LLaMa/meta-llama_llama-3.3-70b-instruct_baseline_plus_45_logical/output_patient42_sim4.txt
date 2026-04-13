@@ -1,0 +1,15 @@
+1. 4.2
+2. 
+- Age: 49: 0.5 (positive, as age increases risk)
+- BMI: 23.2: -0.2 (negative, as BMI is within a relatively healthy range)
+- Family_Health_History: Asthma: 0.8 (positive, indicating potential genetic predisposition)
+- Current_Diagnosis: Anxiety: 1.2 (positive, as anxiety can increase hospitalization risk)
+- Weekly_Alcohol_Intake: 4: 0.2 (positive, as moderate alcohol intake may have mixed effects)
+- HAM-D: 0–6: Normal / No Depression: -0.5 (negative, indicating low depression risk)
+- Loss_of_Interest: Yes: 0.8 (positive, as loss of interest can be a symptom of underlying issues)
+- Hours_of_Sleep: 9.4: -0.3 (negative, as adequate sleep reduces risk)
+- Socioeconomic_Status: High: -0.5 (negative, as higher socioeconomic status often reduces health risks)
+- Exercises: Yes: -0.5 (negative, as regular exercise reduces health risks)
+- Allergy: Mold: 0.2 (positive, as allergies can increase risk of certain conditions)
+- Other factors: 0 (neutral, as their direct impact on hospitalization risk is unclear or not directly related)
+3. The hospitalization risk score is calculated based on the individual's health indicators, lifestyle choices, and personal characteristics, with a focus on factors that have a clear, logical connection to increased or decreased health risks. The score of 4.2 reflects a moderate risk level, driven primarily by the presence of anxiety, asthma in the family health history, and loss of interest, balanced by positive factors such as regular exercise and a high socioeconomic status.

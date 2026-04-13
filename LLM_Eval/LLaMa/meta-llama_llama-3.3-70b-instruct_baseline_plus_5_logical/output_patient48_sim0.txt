@@ -1,0 +1,25 @@
+1. **Risk Score: 4.8**
+
+2. **Input Factors and Contributions:**
+   - Age (46): +0.5 (increased risk due to age-related health decline)
+   - BMI (28.3): +1.2 (increased risk due to overweight status)
+   - Family_Health_History (Heart Disease): +1.5 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Bipolar): +1.0 (increased risk due to mental health condition)
+   - Race (Native American): +0.3 (increased risk due to potential healthcare disparities)
+   - Gender (Non-binary): +0.1 (potential increased risk due to social determinants of health)
+   - Sexual_Orientation (Heterosexual): 0 (neutral)
+   - Weekly_Alcohol_Intake (2): -0.2 (moderate alcohol consumption, slightly decreased risk)
+   - Smoking (No): -0.5 (decreased risk due to non-smoking status)
+   - HAM-D (0–6: Normal / No Depression): -0.5 (decreased risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued (No): -0.2 (decreased risk due to absence of reported sadness or fatigue)
+   - Loss_of_Interest (Yes): +0.8 (increased risk due to potential depressive symptom)
+   - Hours_of_Sleep (7.0): -0.1 (neutral to slightly decreased risk due to adequate sleep)
+   - Employment (Employed): -0.3 (decreased risk due to stable employment)
+   - Socioeconomic_Status (Middle): -0.2 (decreased risk due to middle socioeconomic status)
+   - Drinks_Coffee (Yes): -0.1 (slightly decreased risk due to moderate coffee consumption)
+   - Likes_Vegetables (Yes): -0.2 (decreased risk due to healthy dietary habits)
+   - Favourite_Sport (Basketball): -0.1 (slightly decreased risk due to engagement in physical activity)
+   - Votes (Never): 0 (neutral)
+   - Height_in_Inches (65): 0 (neutral)
+
+3. **Justification:** The hospitalization risk score is calculated based on the summation of positive and negative contributions from various factors, reflecting their causal relationships with health outcomes. The score of 4.8 indicates a moderate risk level, primarily driven by the patient's age, BMI, family health history, and bipolar diagnosis, which are offset by protective factors such as non-smoking status, stable employment, and healthy lifestyle habits.

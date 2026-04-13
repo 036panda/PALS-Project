@@ -1,0 +1,23 @@
+1. Risk Score: 4.8
+2. Input Factors and Contributions:
+   - Age: 34, Contribution: -0.5 (lower risk due to being relatively young)
+   - BMI: 24.2, Contribution: 0.2 (slightly elevated risk due to being near overweight)
+   - Family_Health_History: nan, Contribution: 0 (no information, neutral)
+   - Current_Diagnosis: Bipolar, Contribution: 2.0 (elevated risk due to mental health condition)
+   - Race: Hispanic, Contribution: 0 (no direct causal link to hospitalization risk established)
+   - Gender: Female, Contribution: 0 (no direct causal link to hospitalization risk established)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (no direct causal link to hospitalization risk established)
+   - Weekly_Alcohol_Intake: 1, Contribution: -0.2 (lower risk due to minimal alcohol intake)
+   - Smoking: No, Contribution: -0.5 (lower risk due to not smoking)
+   - HAM-D: 0–6, Contribution: -1.0 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 1.5 (elevated risk due to recent sad or fatigued state)
+   - Loss_of_Interest: No, Contribution: -0.5 (lower risk due to no loss of interest)
+   - Hours_of_Sleep: 8.3, Contribution: -0.5 (lower risk due to adequate sleep)
+   - Employment: Employed, Contribution: -0.5 (lower risk due to being employed)
+   - Socioeconomic_Status: Low, Contribution: 1.0 (elevated risk due to lower socioeconomic status)
+   - Drinks_Coffee: No, Contribution: 0 (no direct causal link to hospitalization risk established)
+   - Likes_Vegetables: No, Contribution: 0.2 (slightly elevated risk due to potential for less healthy diet)
+   - Favourite_Sport: Soccer, Contribution: 0 (no direct causal link to hospitalization risk established)
+   - Votes: Sometimes, Contribution: 0 (no direct causal link to hospitalization risk established)
+   - Height_in_Inches: 60, Contribution: 0 (no direct causal link to hospitalization risk established)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering the impact of mental health conditions, lifestyle factors, and socioeconomic status. The score reflects a balance between the patient's relatively young age, low alcohol intake, and absence of smoking, against the presence of a bipolar diagnosis, recent feelings of sadness or fatigue, and low socioeconomic status.

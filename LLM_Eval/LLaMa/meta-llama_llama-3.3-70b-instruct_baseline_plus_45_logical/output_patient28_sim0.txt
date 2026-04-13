@@ -1,0 +1,18 @@
+1. 4.2
+2. 
+- Age: 25: -0.5 (lower risk due to younger age)
+- BMI: 28.5: 1.2 (higher risk due to overweight)
+- Family_Health_History: Hypertension: 1.5 (higher risk due to family history of hypertension)
+- Current_Diagnosis: Bipolar: 2.1 (higher risk due to mental health condition)
+- Weekly_Alcohol_Intake: 7: 0.8 (moderate risk due to alcohol intake)
+- HAM-D: 0–6: Normal / No Depression: -1.0 (lower risk due to no depression)
+- Been_Sad_or_Fatigued: No: -0.2 (lower risk due to no reported sadness or fatigue)
+- Loss_of_Interest: No: -0.2 (lower risk due to no reported loss of interest)
+- Hours_of_Sleep: 7.8: -0.1 (lower risk due to adequate sleep)
+- Employment: Employed: -0.5 (lower risk due to employment)
+- Socioeconomic_Status: Middle: 0 (neutral risk due to middle socioeconomic status)
+- Drinks_Coffee: No: 0 (neutral risk due to no coffee consumption)
+- Likes_Vegetables: Yes: -0.3 (lower risk due to healthy eating habits)
+- Smoking: No: -0.5 (lower risk due to no smoking)
+- All other factors: 0 (neutral risk due to lack of direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as BMI, family health history, and current diagnosis, which have a direct causal relationship with hospitalization risk, while other factors like employment, socioeconomic status, and lifestyle habits have an indirect relationship and are assigned lower weights. The score reflects the cumulative effect of these factors on the individual's risk of hospitalization.

@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 7.8
+
+2. Detailed breakdown:
+   - Age (19): -1.5 (young age generally has lower health risks)
+   - BMI (17.6): 1.2 (underweight, potential for health issues)
+   - Family_Health_History (Diabetes): 1.0 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Schizophrenia): 2.5 (serious mental health condition)
+   - Race (White): 0 (neutral, no specific risk adjustment)
+   - Gender (Non-binary): 0 (neutral, no specific risk adjustment)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, no specific risk adjustment)
+   - Weekly_Alcohol_Intake (3): 0.5 (moderate alcohol use, potential for increased risk)
+   - Smoking (No): -1.0 (reduced risk due to not smoking)
+   - HAM-D (25+): 3.0 (severe depression, high risk)
+   - Been_Sad_or_Fatigued (No): -0.5 (less likely to be at immediate risk)
+   - Loss_of_Interest (Yes): 1.0 (indicator of depression, increased risk)
+   - Hours_of_Sleep (8.0): -0.5 (adequate sleep, reduced risk)
+   - Employment (Student): -0.5 (stable role, reduced risk)
+   - Socioeconomic_Status (High): -1.0 (better access to healthcare, reduced risk)
+   - Drinks_Coffee (No): 0 (neutral, no specific risk adjustment)
+   - Likes_Vegetables (No): 0.2 (potential for less healthy diet, slight increase in risk)
+   - Favourite_Sport (nan): 0 (neutral, no specific risk adjustment)
+   - Votes (Never): 0 (neutral, no specific risk adjustment)
+   - Height_in_Inches (74): 0 (neutral, no specific risk adjustment)
+   - Has_Drivers_License (No): 0 (neutral, no specific risk adjustment)
+   - Picks_Up_Litter (Always): -0.2 (indicator of community engagement, reduced risk)
+   - Uses_Public_Transportation (Sometimes): 0 (neutral, no specific risk adjustment)
+   - Donated_Blood (No): 0 (neutral, no specific risk adjustment)
+   - Birthday_Month (July): 0 (neutral, no specific risk adjustment)
+
+3. The patient's severe depression (HAM-D score of 25+) and schizophrenia diagnosis significantly increase the risk of hospitalization, while factors such as being a student, having a high socioeconomic status, and not smoking somewhat mitigate this risk. Overall, the combination of severe mental health conditions and potential health vulnerabilities due to underweight status and family health history contribute to a notable hospitalization risk.

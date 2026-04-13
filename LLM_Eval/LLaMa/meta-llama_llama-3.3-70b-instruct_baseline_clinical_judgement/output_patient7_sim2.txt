@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (18): -1.0 (younger age generally associated with lower hospitalization risk)
+   - BMI (24.5): 0.5 (slightly elevated BMI, contributing to a minor increase in risk)
+   - Family_Health_History (Asthma): 1.0 (presence of asthma in family history increases risk due to potential for respiratory complications)
+   - Current_Diagnosis (Schizophrenia): 2.5 (serious mental health condition significantly increasing risk)
+   - Race (Native American): 0.8 (disparities in healthcare access and outcomes may increase risk)
+   - Gender (Male): 0.2 (male gender can be associated with slightly higher risk due to various factors including help-seeking behavior)
+   - Sexual_Orientation (Heterosexual): 0.0 (no significant impact on hospitalization risk)
+   - Weekly_Alcohol_Intake (0): -0.5 (absence of alcohol intake reduces risk)
+   - Smoking (Yes): 1.2 (smoking significantly increases health risks)
+   - HAM-D (18–24: Moderate Depression): 2.0 (moderate depression increases risk due to potential for severe mental health episodes)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (symptoms of depression increasing risk)
+   - Loss_of_Interest (Yes): 0.8 (further indication of depressive symptoms increasing risk)
+   - Hours_of_Sleep (8.3): -0.5 (adequate sleep reduces risk)
+   - Employment (Student): -0.5 (being a student may provide structure and support, reducing risk)
+   - Socioeconomic_Status (Middle): 0.0 (middle socioeconomic status has a neutral impact on risk)
+
+3. The patient's hospitalization risk is significantly influenced by the presence of schizophrenia and moderate depression, compounded by smoking and a family history of asthma, indicating a need for close monitoring and management of these conditions to prevent hospitalization. The patient's young age, absence of alcohol intake, and adequate sleep patterns somewhat mitigate this risk, but the overall clinical picture suggests a notable risk level.

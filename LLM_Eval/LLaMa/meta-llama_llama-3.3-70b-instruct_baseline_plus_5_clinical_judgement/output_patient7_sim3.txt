@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (18): -1.0 (young age generally lowers health risks)
+   - BMI (24.5): 0.5 (slightly above normal, indicating potential for health issues)
+   - Family_Health_History (Asthma): 1.0 (presence of asthma in family history increases risk)
+   - Current_Diagnosis (Schizophrenia): 2.0 (serious mental health condition increases risk)
+   - Race (Native American): 0.5 (some health disparities exist, but impact varies widely)
+   - Gender (Male): 0.0 (neutral impact, as risk factors vary widely across conditions)
+   - Sexual_Orientation (Heterosexual): 0.0 (no direct impact on physical health risk)
+   - Weekly_Alcohol_Intake (0): -1.0 (absence of alcohol intake reduces risk)
+   - Smoking (Yes): 1.5 (significant risk factor for numerous health issues)
+   - HAM-D (18-24, Moderate Depression): 1.2 (moderate depression increases risk)
+   - Been_Sad_or_Fatigued (Yes): 0.5 (symptoms of depression, contributing to risk)
+   - Loss_of_Interest (Yes): 0.5 (further symptom of depression, adding to risk)
+   - Hours_of_Sleep (8.3): -0.5 (adequate sleep, reducing risk)
+   - Employment (Student): -0.5 (being a student can have protective effects due to access to resources)
+   - Socioeconomic_Status (Middle): 0.0 (neutral, as middle socioeconomic status has mixed effects on health)
+   - Drinks_Coffee (No): 0.0 (no direct significant impact)
+   - Likes_Vegetables (Yes): -0.5 (healthy dietary habits, reducing risk)
+   - Favourite_Sport (Hockey): -0.5 (engagement in physical activity, reducing risk)
+   - Votes (Sometimes): 0.0 (no direct impact on health risk)
+   - Height_in_Inches (68): 0.0 (no direct impact on risk, given other factors)
+
+3. The patient's hospitalization risk is elevated due to the presence of schizophrenia, moderate depression, smoking, and a family history of asthma, which collectively contribute to a heightened risk profile. Despite some protective factors such as a healthy diet, adequate sleep, and engagement in physical activity, the cumulative effect of the risk factors results in a notable risk score.

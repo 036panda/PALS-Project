@@ -1,0 +1,20 @@
+1. Risk Score: 7.8
+
+2. Input Factors and Contributions:
+   - Age (32): -0.5 (lower risk due to relatively young age)
+   - BMI (31.6): 1.2 (high risk due to obesity)
+   - Family_Health_History (Cancer): 1.5 (high risk due to family history of cancer)
+   - Current_Diagnosis (nan): 0 (no contribution due to lack of information)
+   - Race (Asian): 0 (no specific risk contribution assigned based on race alone)
+   - Gender (Male): 0 (no specific risk contribution assigned based on gender alone)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk contribution assigned based on sexual orientation)
+   - Weekly_Alcohol_Intake (3): 0.5 (moderate risk due to alcohol intake)
+   - Smoking (Yes): 1.8 (high risk due to smoking)
+   - HAM-D (18-24: Moderate Depression): 1.0 (moderate risk due to depression)
+   - Been_Sad_or_Fatigued (Yes): 0.5 (moderate risk due to symptoms of depression)
+   - Loss_of_Interest (Yes): 0.5 (moderate risk due to symptoms of depression)
+   - Hours_of_Sleep (7.5): -0.2 (low risk due to adequate sleep)
+   - Employment (Employed): -0.5 (lower risk due to employment)
+   - Socioeconomic_Status (Low): 1.0 (high risk due to low socioeconomic status)
+
+3. The risk score calculation is based on the summation of individual risk factors, considering both physical health indicators (such as BMI, smoking, and family health history) and mental health indicators (such as depression symptoms and socioeconomic status), to provide a comprehensive assessment of hospitalization risk. The assigned contributions reflect the relative impact of each factor on the overall risk, with higher values indicating greater risk.

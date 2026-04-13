@@ -1,0 +1,16 @@
+1. 4.2
+2. Input factors and their assigned contributions:
+   - Age: 41: 0.5 (positive, as age increases risk)
+   - BMI: 26.5: 1.2 (positive, as high BMI increases risk)
+   - Family_Health_History: Diabetes: 1.0 (positive, as family history of diabetes increases risk)
+   - Current_Diagnosis: Depression: 0.5 (positive, as depression increases risk, but HAM-D score indicates mild symptoms)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (negative, as low HAM-D score indicates low depression risk)
+   - Loss_of_Interest: Yes: 0.5 (positive, as loss of interest is a symptom of depression)
+   - Hours_of_Sleep: 4.7: 0.8 (positive, as low sleep hours increase risk)
+   - Socioeconomic_Status: High: -0.5 (negative, as high socioeconomic status decreases risk)
+   - Weekly_Alcohol_Intake: 1: 0.1 (positive, as some alcohol intake may increase risk)
+   - Smoking: No: -0.5 (negative, as not smoking decreases risk)
+   - Exercises: No: 0.5 (positive, as lack of exercise increases risk)
+   - Allergy: Penecillin: 0.2 (positive, as having an allergy increases risk)
+   - Other factors: 0 (no contribution, as they do not have a clear causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as age, BMI, family health history, and current diagnosis, which have a logical and causal relationship with increased risk of hospitalization. The score reflects the cumulative effect of these factors, with higher values indicating a greater risk of hospitalization.

@@ -1,0 +1,16 @@
+1. Final Hospitalization Risk Score: 4.2
+2. Breakdown of individual attribute impacts:
+   - Age: 32: -0.5 (lower risk due to relatively young age)
+   - BMI: 25.7: 0.5 (slightly elevated risk due to overweight status)
+   - Family_Health_History: Asthma: 1.0 (increased risk due to respiratory condition)
+   - Current_Diagnosis: nan: 0 (no impact due to missing information)
+   - HAM-D: 18-24: Moderate Depression: 2.0 (elevated risk due to moderate depression)
+   - Loss_of_Interest: Yes: 1.0 (increased risk due to symptom of depression)
+   - Hours_of_Sleep: 4.8: 1.2 (elevated risk due to sleep deprivation)
+   - Weekly_Alcohol_Intake: 2: -0.5 (lower risk due to moderate alcohol consumption)
+   - Smoking: No: -0.5 (lower risk due to non-smoking status)
+   - Allergy: Animal Dander: 0.5 (slightly elevated risk due to allergy)
+   - Skips_Breakfast: Yes: 0.5 (slightly elevated risk due to potential nutritional deficiencies)
+   - Water_Intake_oz: 44.0: -0.2 (lower risk due to adequate hydration)
+   - Other attributes: 0 (no significant impact on hospitalization risk)
+3. The patient's moderate depression, sleep deprivation, and family history of asthma contribute to an elevated hospitalization risk, while their relatively young age, moderate alcohol consumption, and non-smoking status mitigate this risk to some extent. Overall, the patient's mental health and sleep habits are the primary drivers of their hospitalization risk.

@@ -1,0 +1,23 @@
+1. Risk Score: 6.8
+2. Input Factors and Contributions:
+   - Age: 40, Contribution: 1.2 (positive, as increasing age is associated with higher health risks)
+   - BMI: 34.6, Contribution: 2.1 (positive, as high BMI is linked to various health issues)
+   - Family_Health_History: Cancer, Contribution: 1.5 (positive, indicating a potential genetic predisposition to serious health conditions)
+   - Current_Diagnosis: Bipolar, Contribution: 1.8 (positive, due to the complexity and potential severity of the condition)
+   - Race: White, Contribution: 0 (neutral, as race alone does not directly contribute to hospitalization risk in this context)
+   - Gender: Non-binary, Contribution: 0 (neutral, as gender identity alone does not directly contribute to hospitalization risk)
+   - Sexual_Orientation: Bisexual, Contribution: 0 (neutral, as sexual orientation alone does not directly contribute to hospitalization risk)
+   - Weekly_Alcohol_Intake: 4, Contribution: 0.5 (positive, as alcohol consumption can contribute to health risks)
+   - Smoking: No, Contribution: -1 (negative, as not smoking reduces health risks)
+   - HAM-D: 7–17, Contribution: 1 (positive, indicating mild depression which can impact overall health)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (negative, suggesting less immediate risk of depression-related hospitalization)
+   - Loss_of_Interest: Yes, Contribution: 1 (positive, as this symptom can be associated with severe depression)
+   - Hours_of_Sleep: 8.9, Contribution: -0.2 (negative, as adequate sleep generally reduces health risks)
+   - Employment: Employed, Contribution: -0.5 (negative, as employment can provide stability and access to healthcare)
+   - Socioeconomic_Status: Middle, Contribution: -0.5 (negative, as middle socioeconomic status may provide better access to healthcare compared to lower statuses)
+   - Drinks_Coffee: Yes, Contribution: 0 (neutral, as moderate coffee consumption is not strongly linked to hospitalization risk)
+   - Likes_Vegetables: No, Contribution: 0.2 (positive, as not liking vegetables might imply a less healthy diet)
+   - Favourite_Sport: nan, Contribution: 0 (neutral, due to lack of information)
+   - Votes: Always, Contribution: 0 (neutral, as voting behavior does not directly impact health risks)
+   - Height_in_Inches: 70, Contribution: 0 (neutral, as height alone does not directly contribute to hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and potential health risks, considering both the direct and indirect impacts of each factor on the likelihood of hospitalization. The contributions of each factor are assigned based on their potential to increase or decrease health risks, summing up to a total risk score that reflects the individual's overall hospitalization risk profile.

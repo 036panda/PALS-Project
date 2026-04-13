@@ -1,0 +1,18 @@
+1. 4.2
+2. 
+- Age: 41: 0.5 (positive, as increasing age is associated with higher health risks)
+- BMI: 26.5: 1.2 (positive, as a BMI of 26.5 is considered overweight, increasing health risks)
+- Family_Health_History: Diabetes: 1.0 (positive, as a family history of diabetes increases the risk of developing related health issues)
+- Current_Diagnosis: Depression: 0.5 (positive, despite the HAM-D score indicating normal, the presence of Loss_of_Interest suggests some level of depressive symptoms)
+- Loss_of_Interest: Yes: 0.5 (positive, as it indicates potential depressive symptoms)
+- Hours_of_Sleep: 4.7: 0.5 (positive, as less than 7 hours of sleep per night can increase health risks)
+- Weekly_Alcohol_Intake: 1: 0.0 (neutral, as moderate alcohol intake is not significantly risky)
+- Smoking: No: 0.0 (neutral, as not smoking does not increase risk)
+- HAM-D: 0–6: Normal / No Depression: -0.5 (negative, as it suggests no current depressive symptoms, reducing risk)
+- Been_Sad_or_Fatigued: No: -0.2 (negative, as not experiencing sadness or fatigue reduces risk)
+- Socioeconomic_Status: High: -0.5 (negative, as higher socioeconomic status is associated with better health outcomes)
+- Employment: Employed: -0.2 (negative, as being employed can reduce health risks due to stability and access to healthcare)
+- Exercises: No: 0.2 (positive, as lack of exercise increases health risks)
+- Water_Intake_oz: 44.8: -0.1 (negative, as adequate water intake reduces health risks)
+- All other factors: 0.0 (neutral, as they do not have a direct, established causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the presence of factors that have established causal relationships with increased health risks, such as age, BMI, family health history, and depressive symptoms, while also considering factors that reduce risk, like socioeconomic status and employment. The score reflects a balance of these positive and negative contributions to estimate the individual's hospitalization risk.

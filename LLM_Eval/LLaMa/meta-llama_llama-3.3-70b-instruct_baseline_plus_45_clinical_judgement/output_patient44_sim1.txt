@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 4.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 73: +2.5 (increased risk due to advanced age)
+   - BMI: 22.5: -0.5 (lower risk due to normal weight)
+   - Family_Health_History: Asthma: +1.0 (increased risk due to respiratory condition)
+   - Current_Diagnosis: Anxiety: +1.2 (increased risk due to mental health condition)
+   - Weekly_Alcohol_Intake: 6: +0.5 (increased risk due to moderate alcohol consumption)
+   - Been_Sad_or_Fatigued: Yes: +0.8 (increased risk due to reported sadness or fatigue)
+   - Socioeconomic_Status: Low: +1.0 (increased risk due to limited access to resources)
+   - Hours_of_Sleep: 9.7: -0.5 (lower risk due to adequate sleep)
+   - Allergy: Gluten: +0.2 (increased risk due to dietary restriction)
+   - Exercises: No: +0.5 (increased risk due to lack of physical activity)
+   - Orders_Takeout: Daily: +0.5 (increased risk due to frequent fast food consumption)
+   - Other attributes: -2.5 (cumulative effect of other attributes, such as positive relationships, social engagement, and healthy habits, reducing overall risk)
+3. The patient's advanced age, family history of asthma, anxiety diagnosis, and socioeconomic status contribute to an increased risk of hospitalization, while their normal weight, adequate sleep, and social engagement mitigate this risk to some extent. Overall, the patient's unique combination of attributes results in a moderate hospitalization risk score.

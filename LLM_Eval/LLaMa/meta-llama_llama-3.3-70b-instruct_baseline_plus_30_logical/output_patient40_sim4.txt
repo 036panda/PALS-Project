@@ -1,0 +1,15 @@
+1. Risk Score: 4.8
+2. Input Factors and Contributions:
+   - Age: 26, Contribution: -0.5 (younger age generally associated with lower risk)
+   - BMI: 29.1, Contribution: 1.2 (high BMI associated with increased health risks)
+   - Family_Health_History: Diabetes, Contribution: 1.5 (family history of diabetes increases risk)
+   - Current_Diagnosis: Bipolar, Contribution: 2.0 (bipolar disorder increases risk)
+   - Weekly_Alcohol_Intake: 3, Contribution: 0.2 (moderate alcohol intake has mixed effects on health)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 0.8 (indicative of potential mental health issues)
+   - Loss_of_Interest: Yes, Contribution: 0.8 (indicative of potential mental health issues)
+   - Hours_of_Sleep: 6.2, Contribution: -0.2 (adequate sleep generally reduces risk)
+   - Socioeconomic_Status: Low, Contribution: 1.0 (lower socioeconomic status associated with higher health risks)
+   - HAM-D: 0–6, Contribution: -1.0 (normal score indicates no depression, reducing risk)
+   - Allergy: Milk/Eggs, Contribution: 0.1 (allergies can increase health risks slightly)
+   - Other factors (e.g., employment status, lifestyle choices, personal preferences): 0.0 (neutral effect on risk score)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering both physical health indicators (like BMI and family health history) and mental health indicators (like current diagnosis of bipolar disorder and symptoms of sadness or fatigue). The score reflects a balanced assessment of these factors to estimate the individual's risk of hospitalization.

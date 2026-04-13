@@ -1,0 +1,21 @@
+1. 4.2
+2. 
+- Age: 20: -0.5 (younger age generally associated with lower health risks)
+- BMI: 21.0: -0.2 (normal BMI, lower risk)
+- Family_Health_History: Cancer: 1.0 (family history of cancer increases risk)
+- Current_Diagnosis: Bipolar: 1.5 (mental health condition increases risk)
+- Race: Black: 0.2 (acknowledging racial disparities in healthcare access and outcomes)
+- Gender: Male: 0.1 (generally, males have slightly higher health risks than females)
+- Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake reduces risk)
+- Smoking: No: -0.5 (not smoking reduces risk)
+- HAM-D: 7–17: Mild Depression: 1.0 (presence of mild depression increases risk)
+- Been_Sad_or_Fatigued: No: -0.2 (absence of sadness or fatigue reduces risk)
+- Loss_of_Interest: No: -0.2 (absence of loss of interest reduces risk)
+- Hours_of_Sleep: 5.7: 0.5 (less sleep than recommended increases risk)
+- Employment: Student: -0.3 (being a student may have unique stressors but generally lower risk than other employment statuses)
+- Socioeconomic_Status: Low: 1.2 (lower socioeconomic status increases health risks)
+- Drinks_Coffee: Yes: 0.1 (moderate coffee consumption can have mixed effects on health)
+- Likes_Vegetables: Yes: -0.3 (healthy dietary preferences reduce risk)
+- Other factors (e.g., sport, voting habits, height, drivers license, etc.): 0 (these factors are not directly related to health risks or their impact is not well-established)
+- Total: 4.2
+3. The hospitalization risk score is calculated based on the presence of health conditions, lifestyle factors, and socioeconomic status that are known to influence health outcomes, with each factor contributing a specific positive or negative value to the total score. The score reflects the cumulative effect of these factors on the individual's risk profile, without assuming any baseline or population-level risk.

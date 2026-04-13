@@ -1,0 +1,18 @@
+1. 4.2
+2. 
+- Age: 41: 0.5 (positive, as increasing age is associated with higher hospitalization risk)
+- BMI: 26.5: 1.2 (positive, as higher BMI is linked to increased health risks)
+- Family_Health_History: Diabetes: 1.0 (positive, due to the potential genetic predisposition to related health issues)
+- Current_Diagnosis: Depression: 0.5 (positive, despite the HAM-D score indicating normal, the presence of Loss_of_Interest suggests some level of depressive symptoms)
+- Loss_of_Interest: Yes: 0.5 (positive, indicating potential mental health concerns)
+- Hours_of_Sleep: 4.7: 0.5 (positive, as less sleep is associated with various health issues)
+- Socioeconomic_Status: High: -1.0 (negative, as higher socioeconomic status is generally associated with better health outcomes)
+- Employment: Employed: -0.5 (negative, as being employed can indicate better mental and physical health)
+- Weekly_Alcohol_Intake: 1: -0.1 (negative, as moderate alcohol intake is often associated with lower health risks compared to higher intake or complete abstinence in some cases)
+- Smoking: No: -0.5 (negative, as not smoking reduces the risk of numerous health issues)
+- HAM-D: 0–6: Normal / No Depression: -0.5 (negative, indicating lower risk of hospitalization due to depression)
+- Been_Sad_or_Fatigued: No: -0.2 (negative, suggesting lower risk of mental health-related issues)
+- Allergy: Penecillin: 0.2 (positive, as having an allergy can increase the risk of adverse reactions)
+- Exercises: No: 0.3 (positive, as lack of exercise is associated with higher health risks)
+- Other factors not explicitly contributing to the risk score due to lack of direct causal relationship or insufficient information to determine a significant impact.
+3. The hospitalization risk score is calculated based on the presence of factors that have a known causal relationship with increased health risks, such as higher BMI, family health history of diabetes, and symptoms of depression, balanced against protective factors like higher socioeconomic status and employment. The score reflects a logical and evidence-based assessment of the individual's health risks, considering both physical and mental health indicators.

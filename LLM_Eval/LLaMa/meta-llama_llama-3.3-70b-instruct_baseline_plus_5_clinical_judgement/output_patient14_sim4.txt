@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (18): -1 (young age generally has lower risk of hospitalization due to fewer comorbidities)
+   - BMI (30.9): +2 (obesity is a risk factor for numerous health conditions)
+   - Family_Health_History (nan): 0 (no information available to assess risk)
+   - Current_Diagnosis (Bipolar): +1 (mental health conditions can increase risk of hospitalization)
+   - Race (Other): 0 (insufficient data to determine specific risk associated with this category)
+   - Gender (Non-binary): 0 (no direct correlation with hospitalization risk without considering other factors)
+   - Sexual_Orientation (Bisexual): 0 (no direct correlation with hospitalization risk without considering other factors)
+   - Weekly_Alcohol_Intake (1): -1 (low alcohol intake reduces risk of alcohol-related health issues)
+   - Smoking (No): -1 (not smoking reduces risk of smoking-related health issues)
+   - HAM-D (0–6): -1 (normal score indicates no depression, reducing hospitalization risk)
+   - Been_Sad_or_Fatigued (No): -1 (reduces risk of mental health-related hospitalization)
+   - Loss_of_Interest (Yes): +2 (can be a symptom of depression or other mental health conditions, increasing risk)
+   - Hours_of_Sleep (9.7): 0 (average sleep hours, neutral impact)
+   - Employment (Student): -1 (being a student may provide access to healthcare and support systems)
+   - Socioeconomic_Status (Middle): 0 (middle socioeconomic status may have balanced access to healthcare, neutral impact)
+   - Drinks_Coffee (No): 0 (no direct significant impact on hospitalization risk)
+   - Likes_Vegetables (No): +1 (not liking vegetables might indicate poor diet, increasing health risks)
+   - Favourite_Sport (Soccer): 0 (engagement in sports can be beneficial, but the specific sport does not directly impact hospitalization risk)
+   - Votes (Never): 0 (voting behavior has no direct correlation with health or hospitalization risk)
+   - Height_in_Inches (62): 0 (height alone does not significantly impact hospitalization risk without considering other factors)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and loss of interest, which are countered by their young age, low alcohol intake, and lack of smoking. The overall risk is moderate due to the balance of these factors, indicating a need for ongoing mental health support to mitigate potential risks.

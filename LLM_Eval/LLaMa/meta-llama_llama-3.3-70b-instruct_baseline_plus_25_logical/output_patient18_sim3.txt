@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 74 (+2.5, older age increases health risks)
+   - BMI: 29.4 (+1.5, higher BMI increases health risks)
+   - Family_Health_History: Cancer (+1.2, family history of cancer increases risk)
+   - Weekly_Alcohol_Intake: 4 (+0.5, moderate alcohol intake may increase health risks)
+   - HAM-D: 0–6: Normal / No Depression (-0.5, no depression reduces risk)
+   - Been_Sad_or_Fatigued: No (-0.2, no sadness or fatigue reduces risk)
+   - Loss_of_Interest: No (-0.2, no loss of interest reduces risk)
+   - Hours_of_Sleep: 7.0 (-0.5, adequate sleep reduces risk)
+   - Socioeconomic_Status: Middle (-0.2, middle socioeconomic status reduces risk compared to lower)
+   - Likes_Vegetables: Yes (-0.5, healthy eating habits reduce risk)
+   - Water_Intake_oz: 44.7 (-0.2, adequate water intake reduces risk)
+   - Bilingual: Yes (-0.1, bilingualism may have cognitive benefits reducing risk)
+   - Travels: Yes (-0.1, travel may indicate better health and reduce risk)
+   - Relationship_Status: Single (+0.5, single status may increase health risks due to lack of social support)
+   - All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health-related factors, such as age, BMI, and family health history, which increase the risk, while factors like adequate sleep, healthy eating habits, and socioeconomic status reduce the risk. The score reflects the cumulative effect of these factors on the individual's likelihood of hospitalization.

@@ -1,0 +1,23 @@
+1. 6.2
+2. 
+- Age: 32, contribution: -0.5 (lower risk due to being relatively young)
+- BMI: 25.7, contribution: 1.0 (moderate risk due to being overweight)
+- Family_Health_History: Asthma, contribution: 1.2 (increased risk due to family history of respiratory issues)
+- Current_Diagnosis: nan, contribution: 0 (no information, neutral)
+- Race: White, contribution: 0 (no direct causal link to hospitalization risk in this context)
+- Gender: Non-binary, contribution: 0 (no direct causal link to hospitalization risk in this context)
+- Sexual_Orientation: Other, contribution: 0 (no direct causal link to hospitalization risk in this context)
+- Weekly_Alcohol_Intake: 2, contribution: -0.2 (lower risk due to moderate alcohol consumption)
+- Smoking: No, contribution: -1.0 (lower risk due to not smoking)
+- HAM-D: 18-24, contribution: 2.5 (moderate to high risk due to moderate depression)
+- Been_Sad_or_Fatigued: No, contribution: -0.5 (lower risk due to not feeling sad or fatigued)
+- Loss_of_Interest: Yes, contribution: 1.5 (increased risk due to loss of interest, indicative of depression)
+- Hours_of_Sleep: 4.8, contribution: 1.0 (increased risk due to insufficient sleep)
+- Employment: Employed, contribution: -0.5 (lower risk due to being employed)
+- Socioeconomic_Status: Middle, contribution: 0 (neutral, as middle socioeconomic status does not directly increase or decrease risk in this context)
+- Drinks_Coffee: No, contribution: 0 (no direct causal link to hospitalization risk in this context)
+- Likes_Vegetables: No, contribution: 0.2 (slightly increased risk due to potentially less healthy diet)
+- Favourite_Sport: nan, contribution: 0 (no information, neutral)
+- Votes: Sometimes, contribution: 0 (no direct causal link to hospitalization risk in this context)
+- Height_in_Inches: 63, contribution: 0 (no direct causal link to hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and psychological state, with particular emphasis on the presence of moderate depression, insufficient sleep, and a family history of asthma, which are known to increase the risk of hospitalization. The score reflects a balance of these risk factors against protective factors such as employment and moderate alcohol consumption.

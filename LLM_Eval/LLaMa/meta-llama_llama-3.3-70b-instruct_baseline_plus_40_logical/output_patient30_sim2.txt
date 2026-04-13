@@ -1,0 +1,20 @@
+1. 7.3
+2. 
+- Age: 49: 0.5 (positive, as increasing age is associated with higher hospitalization risk)
+- BMI: 29.7: 1.2 (positive, as higher BMI is linked to increased health risks)
+- Current_Diagnosis: Bipolar: 2.0 (positive, as bipolar disorder can increase hospitalization risk)
+- HAM-D: 7–17: Mild Depression: 1.5 (positive, as mild depression can contribute to hospitalization risk)
+- Loss_of_Interest: Yes: 0.8 (positive, as loss of interest can be a symptom of underlying conditions increasing hospitalization risk)
+- Hours_of_Sleep: 5.8: 0.3 (positive, as inadequate sleep can contribute to health issues)
+- Weekly_Alcohol_Intake: 2: 0.1 (positive, as some alcohol intake can be associated with health risks, though moderate intake may have mixed effects)
+- Socioeconomic_Status: Middle: -0.5 (negative, as middle socioeconomic status may provide better access to healthcare, reducing risk)
+- Employment: Employed: -0.5 (negative, as being employed can provide stability and access to health insurance, reducing risk)
+- Uses_Public_Transportation: Always: -0.2 (negative, as using public transportation may indicate lower socioeconomic status but also access to necessary travel for healthcare)
+- Donated_Blood: Yes: -0.1 (negative, as donating blood may indicate good health and a proactive approach to health)
+- Water_Intake_oz: 42.4: -0.1 (negative, as adequate water intake is associated with good health)
+- Volunteers: Sometimes: -0.2 (negative, as volunteering can indicate good mental and physical health)
+- Religious: Yes: -0.1 (negative, as religious affiliation can provide social support, potentially reducing risk)
+- Exercises: No: 0.5 (positive, as lack of exercise is associated with increased health risks)
+- Allergy: Shellfish: 0.2 (positive, as having an allergy can increase the risk of hospitalization due to potential severe reactions)
+- Other factors not explicitly contributing to the risk score due to lack of clear causal relationship or insufficient information: Patient_ID, Family_Health_History, Race, Gender, Sexual_Orientation, Smoking, Been_Sad_or_Fatigued, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Votes, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Phone, Wears_Glasses, Morning_or_Night, Binge_Watches_TV, Favourite_Super_Store, Pet_Preference, Skips_Breakfast, Favourite_Movie_Genre, Registered_Organ_Donor, Annual_Charity_Donation, Favourite_Cuisine, Likes_Art, Academic_Preference.
+3. The hospitalization risk score is calculated based on the individual's health conditions, lifestyle, and socioeconomic factors that have established causal relationships with increased risk of hospitalization, such as bipolar disorder, mild depression, and lack of exercise. The score reflects the cumulative effect of these factors, providing a quantitative assessment of the individual's risk profile.

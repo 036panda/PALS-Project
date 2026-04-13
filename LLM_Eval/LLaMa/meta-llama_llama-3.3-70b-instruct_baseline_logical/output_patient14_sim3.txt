@@ -1,0 +1,20 @@
+1. Risk Score: 4.2
+
+2. Input Factors and Contributions:
+   - Age: 18, Contribution: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 30.9, Contribution: 2.0 (high BMI is a risk factor for various health issues)
+   - Family_Health_History: nan, Contribution: 0 (no information available, no contribution)
+   - Current_Diagnosis: Bipolar, Contribution: 1.5 (mental health condition increases risk)
+   - Race: Other, Contribution: 0 (no specific risk association provided)
+   - Gender: Non-binary, Contribution: 0 (no specific risk association provided)
+   - Sexual_Orientation: Bisexual, Contribution: 0 (no specific risk association provided)
+   - Weekly_Alcohol_Intake: 1, Contribution: -0.5 (low alcohol intake, generally considered lower risk)
+   - Smoking: No, Contribution: -0.5 (not smoking reduces health risks)
+   - HAM-D: 0–6, Contribution: -1.0 (normal score, no depression)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (not experiencing sadness or fatigue, lower risk)
+   - Loss_of_Interest: Yes, Contribution: 1.0 (loss of interest can be a symptom of depression or other conditions, increasing risk)
+   - Hours_of_Sleep: 9.7, Contribution: -0.5 (adequate sleep, generally considered lower risk)
+   - Employment: Student, Contribution: -0.5 (being a student may imply a certain level of stability and access to resources, lower risk)
+   - Socioeconomic_Status: Middle, Contribution: 0 (middle socioeconomic status, no specific risk association provided)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and their potential impact on hospitalization risk, considering both physical and mental health aspects. The score reflects a balance between risk-increasing factors like high BMI and bipolar diagnosis, and risk-decreasing factors such as low alcohol intake, no smoking, and adequate sleep.

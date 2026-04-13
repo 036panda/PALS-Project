@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (73): +2.5 (increased risk due to age-related health decline)
+   - BMI (22.5): -0.5 (lower risk due to normal weight)
+   - Family_Health_History (Asthma): +1.2 (increased risk due to genetic predisposition to respiratory issues)
+   - Current_Diagnosis (Anxiety): +1.0 (increased risk due to mental health concerns)
+   - Race (Native American): +0.8 (increased risk due to potential health disparities)
+   - Gender (Non-binary): +0.2 (slightly increased risk due to potential social determinants of health)
+   - Weekly_Alcohol_Intake (6): +0.5 (increased risk due to moderate alcohol consumption)
+   - Smoking (No): -1.0 (lower risk due to non-smoking status)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): +0.8 (increased risk due to reported sadness or fatigue)
+   - Loss_of_Interest (No): -0.2 (lower risk due to absence of loss of interest)
+   - Hours_of_Sleep (9.7): -0.5 (lower risk due to adequate sleep)
+   - Employment (Retired): +0.5 (increased risk due to potential sedentary lifestyle)
+   - Socioeconomic_Status (Low): +1.5 (increased risk due to socioeconomic disparities)
+   - Drinks_Coffee (No): -0.1 (slightly lower risk due to absence of caffeine intake)
+   - Likes_Vegetables (No): +0.3 (increased risk due to potential poor diet)
+   - Other attributes (e.g., Favourite_Sport, Votes, Height_in_Inches, etc.): +0.0 (no significant impact on risk)
+   - Total: 4.8
+
+3. The patient's advanced age, family history of asthma, anxiety diagnosis, and socioeconomic status contribute to an elevated hospitalization risk, while the absence of depressive symptoms, non-smoking status, and adequate sleep partially mitigate this risk. Overall, the patient's unique combination of factors results in a moderate hospitalization risk score.

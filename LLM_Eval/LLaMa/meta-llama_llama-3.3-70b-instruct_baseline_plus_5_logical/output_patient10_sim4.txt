@@ -1,0 +1,23 @@
+1. 7.8
+2. Input factors and their assigned contributions:
+   - Age: 32, contribution: -0.5 (younger age generally reduces risk)
+   - BMI: 31.6, contribution: 1.2 (high BMI increases risk)
+   - Family_Health_History: Cancer, contribution: 1.5 (family history of cancer increases risk)
+   - Current_Diagnosis: nan, contribution: 0 (no current diagnosis, neutral)
+   - Race: Asian, contribution: 0 (race is not a direct causal factor in this calculation)
+   - Gender: Male, contribution: 0 (gender is not a direct causal factor in this calculation)
+   - Sexual_Orientation: Heterosexual, contribution: 0 (sexual orientation is not a direct causal factor in this calculation)
+   - Weekly_Alcohol_Intake: 3, contribution: 0.5 (moderate alcohol intake may increase risk)
+   - Smoking: Yes, contribution: 2.0 (smoking significantly increases risk)
+   - HAM-D: 18-24, contribution: 1.8 (moderate depression increases risk)
+   - Been_Sad_or_Fatigued: Yes, contribution: 0.5 (symptoms of depression increase risk)
+   - Loss_of_Interest: Yes, contribution: 0.5 (symptoms of depression increase risk)
+   - Hours_of_Sleep: 7.5, contribution: -0.2 (adequate sleep reduces risk)
+   - Employment: Employed, contribution: -0.5 (employment generally reduces risk)
+   - Socioeconomic_Status: Low, contribution: 1.0 (low socioeconomic status increases risk)
+   - Drinks_Coffee: No, contribution: 0 (coffee consumption is not a direct causal factor in this calculation)
+   - Likes_Vegetables: Yes, contribution: -0.5 (healthy diet reduces risk)
+   - Favourite_Sport: Gymnastics, contribution: 0 (physical activity is beneficial, but specific sport is not a direct causal factor)
+   - Votes: Sometimes, contribution: 0 (voting behavior is not a direct causal factor in this calculation)
+   - Height_in_Inches: 66, contribution: 0 (height is not a direct causal factor in this calculation)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and socioeconomic status, with a focus on causal relationships that increase or decrease the risk of hospitalization. The score of 7.8 reflects the cumulative effect of factors such as high BMI, family history of cancer, smoking, moderate depression, and low socioeconomic status, which all contribute to a higher risk of hospitalization.

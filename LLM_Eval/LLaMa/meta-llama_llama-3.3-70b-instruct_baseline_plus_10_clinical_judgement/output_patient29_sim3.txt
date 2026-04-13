@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (22): -1.5 (young age generally lowers health risks)
+   - BMI (35.9): +2.5 (high BMI increases risk of various health issues)
+   - Family_Health_History (Cancer): +1.2 (family history of cancer may increase risk of developing cancer or other health issues)
+   - Current_Diagnosis (Anxiety): +1.8 (anxiety can contribute to various health complications)
+   - Race (Hispanic): +0.5 (some health disparities may exist, but this is a complex factor)
+   - Gender (Female): -0.2 (generally, females have a slightly lower risk of hospitalization than males for certain conditions)
+   - Sexual_Orientation (Bisexual): +0.3 (minority stress and discrimination can impact health)
+   - Weekly_Alcohol_Intake (4): +0.8 (moderate alcohol intake can have mixed effects on health)
+   - Smoking (No): -1.0 (not smoking reduces risk of many health issues)
+   - HAM-D (7–17: Mild Depression): +1.5 (mild depression can impact physical health and increase hospitalization risk)
+   - Been_Sad_or_Fatigued (No): -0.5 (absence of recent sadness or fatigue reduces risk)
+   - Loss_of_Interest (No): -0.5 (no loss of interest suggests better mental health status)
+   - Hours_of_Sleep (5.7): +1.0 (inadequate sleep can increase health risks)
+   - Employment (Student): -0.8 (being a student may imply access to healthcare and a supportive environment)
+   - Socioeconomic_Status (Middle): -0.2 (middle socioeconomic status generally offers better access to healthcare)
+   - Drinks_Coffee (No): +0.1 (lack of coffee consumption might be associated with other lifestyle factors)
+   - Likes_Vegetables (No): +0.4 (not liking vegetables could indicate poor dietary habits)
+   - Favourite_Sport (Soccer): -0.6 (engagement in sports suggests physical activity and better health)
+   - Votes (Sometimes): +0.1 (voting behavior is not directly related to health but may reflect social engagement)
+   - Height_in_Inches (61): +0.2 (short stature can be associated with certain health risks)
+   - Has_Drivers_License (No): +0.3 (not having a driver's license may limit access to healthcare services)
+   - Picks_Up_Litter (Sometimes): -0.2 (community engagement might suggest better mental health)
+   - Uses_Public_Transportation (Never): +0.5 (not using public transportation could indicate limited mobility or access to services)
+   - Donated_Blood (Yes): -0.8 (blood donation suggests good health and a willingness to engage in health-promoting behaviors)
+   - Birthday_Month (August): 0 (no direct impact on health risks)
+
+3. The patient's hospitalization risk is influenced by a combination of factors including high BMI, family history of cancer, anxiety diagnosis, and mild depression, which are offset to some extent by the patient's young age, lack of smoking, and engagement in physical activity. Overall, the patient's profile suggests a moderate risk of hospitalization due to the interplay of these factors, which could exacerbate existing health conditions or contribute to the development of new ones.

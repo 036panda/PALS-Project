@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attribute impacts:
+   - Age (29): -1 (younger age generally lowers risk)
+   - BMI (25.9): 0.5 (slightly elevated BMI may contribute to health issues, but not significantly at this level)
+   - Family_Health_History (nan): 0 (no information available, so no impact)
+   - Current_Diagnosis (Anxiety): 2 (anxiety can significantly impact mental health and increase risk)
+   - Race (Asian): 0 (race alone does not directly increase or decrease hospitalization risk in this context)
+   - Gender (Male): 0 (gender alone does not directly increase or decrease hospitalization risk in this context)
+   - Sexual_Orientation (Heterosexual): 0 (sexual orientation alone does not directly increase or decrease hospitalization risk)
+   - Weekly_Alcohol_Intake (5): 0.5 (moderate alcohol intake may have some health implications)
+   - Smoking (No): -1 (not smoking reduces health risks)
+   - HAM-D (0–6: Normal / No Depression): -1 (no indication of depression reduces risk)
+   - Been_Sad_or_Fatigued (Yes): 1 (recent feelings of sadness or fatigue can increase risk)
+   - Loss_of_Interest (Yes): 1 (loss of interest can be a significant indicator of mental health issues)
+   - Hours_of_Sleep (3.7): 1 (significantly reduced sleep can increase health risks)
+   - Employment (Employed): -0.5 (being employed can provide stability and reduce risk)
+   - Socioeconomic_Status (Middle): 0 (middle socioeconomic status does not significantly increase or decrease risk in this context)
+
+3. The patient's hospitalization risk is influenced by factors such as anxiety diagnosis, recent feelings of sadness and fatigue, loss of interest, and significantly reduced sleep hours, which are countered by the absence of depression, stable employment, and not smoking. Overall, the patient's mental health indicators and sleep disturbance contribute to a moderate risk level.

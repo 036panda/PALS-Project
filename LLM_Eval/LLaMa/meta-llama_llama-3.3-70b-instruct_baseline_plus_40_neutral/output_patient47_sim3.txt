@@ -1,0 +1,14 @@
+1. Risk Assessment Score: 6.2
+2. Parameters and their associated numerical risk values:
+	* Age: -0.5 (young age is associated with lower risk)
+	* BMI: 1.2 (high BMI is associated with increased risk)
+	* Family_Health_History: 1.5 (heart disease in family history increases risk)
+	* Current_Diagnosis: 2.0 (schizophrenia is associated with increased risk)
+	* HAM-D: 1.0 (mild depression is associated with increased risk)
+	* Been_Sad_or_Fatigued: 0.5 (associated with increased risk)
+	* Loss_of_Interest: 0.5 (associated with increased risk)
+	* Weekly_Alcohol_Intake: 0.2 (moderate alcohol intake is associated with increased risk)
+	* Socioeconomic_Status: -0.5 (middle socioeconomic status is associated with lower risk)
+	* Exercises: -1.0 (lack of exercise is associated with increased risk, but since the value is "No", it's assigned a negative value to indicate increased risk)
+	* All other parameters: 0 (no significant association with hospitalization risk)
+3. The patient's risk score is driven by their schizophrenia diagnosis, family history of heart disease, and mild depression, which are all associated with increased risk of hospitalization. However, their young age and middle socioeconomic status help to mitigate this risk to some extent.

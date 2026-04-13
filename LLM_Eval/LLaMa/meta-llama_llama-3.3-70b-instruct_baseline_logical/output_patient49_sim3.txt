@@ -1,0 +1,18 @@
+1. 6.3
+2. 
+- Age: 34, contribution: -0.5 (younger age generally reduces risk)
+- BMI: 24.2, contribution: -0.2 (normal BMI reduces risk)
+- Family_Health_History: nan, contribution: 0 (unknown, no contribution)
+- Current_Diagnosis: Bipolar, contribution: 2.5 (mental health condition increases risk)
+- Race: Hispanic, contribution: 0.5 (socioeconomic and healthcare access disparities may increase risk)
+- Gender: Female, contribution: 0.2 (gender-based healthcare disparities and differences in disease prevalence)
+- Sexual_Orientation: Heterosexual, contribution: 0 (no direct contribution to hospitalization risk)
+- Weekly_Alcohol_Intake: 1, contribution: -0.1 (low alcohol intake reduces risk)
+- Smoking: No, contribution: -0.5 (not smoking reduces risk)
+- HAM-D: 0–6, contribution: -1 (no depression reduces risk)
+- Been_Sad_or_Fatigued: Yes, contribution: 1 (symptoms increase risk)
+- Loss_of_Interest: No, contribution: 0 (no contribution since not present)
+- Hours_of_Sleep: 8.3, contribution: -0.5 (adequate sleep reduces risk)
+- Employment: Employed, contribution: -0.5 (employment generally reduces risk due to stability and access to healthcare)
+- Socioeconomic_Status: Low, contribution: 2 (low socioeconomic status increases risk due to reduced access to healthcare and increased stress)
+3. The hospitalization risk score is calculated based on the individual's health conditions, lifestyle, and socioeconomic factors, with each factor contributing positively or negatively to the overall risk. The score reflects the causal relationships between these factors and the likelihood of hospitalization, with conditions like bipolar disorder and low socioeconomic status increasing risk, while factors like employment and normal BMI decrease it.

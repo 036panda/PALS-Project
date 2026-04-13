@@ -1,0 +1,18 @@
+1. 4.8
+2. Input factors and their assigned contributions:
+   - Age: 20: -1.5 (young age generally associated with lower health risks)
+   - BMI: 24.6: 0.5 (slightly elevated BMI, contributing to health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer increases individual risk)
+   - Current_Diagnosis: Schizophrenia: 2.0 (serious mental health condition contributing to hospitalization risk)
+   - Race: Black: 0.2 (acknowledging racial disparities in healthcare, but with a cautious approach due to complexity)
+   - Gender: Other: 0.1 (non-binary gender may face unique health challenges, but impact is nuanced)
+   - Sexual_Orientation: Heterosexual: 0 (no direct contribution to hospitalization risk)
+   - Weekly_Alcohol_Intake: 6: 0.8 (moderate alcohol intake contributing to health risks)
+   - Smoking: No: -0.5 (non-smoker, reducing health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (indicating no current depressive symptoms, lowering risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (absence of recent sadness or fatigue, slightly lowering risk)
+   - Loss_of_Interest: Yes: 1.0 (presence of loss of interest, potentially indicating underlying mental health issues)
+   - Hours_of_Sleep: 7.6: -0.2 (adequate sleep, slightly reducing health risks)
+   - Employment: Student: -0.5 (student status, potentially indicating a level of stability and access to resources)
+   - Socioeconomic_Status: Low: 1.5 (low socioeconomic status significantly increasing health risks due to barriers in accessing care)
+3. The hospitalization risk score is calculated based on the individual's specific health and socio-demographic factors, weighing the presence of a serious mental health diagnosis, family health history, and socioeconomic challenges against protective factors such as young age, non-smoking status, and adequate sleep. The score reflects a logical and causal assessment of how these factors interplay to influence the individual's risk of hospitalization.

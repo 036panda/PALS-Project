@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (19): -1.2 (young age generally associated with lower health risks)
+   - BMI (25.1): 0.8 (slightly elevated BMI, indicating potential for health issues)
+   - Family_Health_History (nan): 0 (no information available, no impact)
+   - Current_Diagnosis (Schizophrenia): 2.5 (serious mental health condition with potential for severe episodes)
+   - Race (Black): 0.2 (some studies suggest racial disparities in healthcare access and outcomes)
+   - Gender (Female): -0.5 (generally, females have lower risk for certain health issues compared to males)
+   - Sexual_Orientation (Heterosexual): 0 (no known direct impact on hospitalization risk)
+   - Weekly_Alcohol_Intake (4): 0.5 (moderate alcohol intake, potential for negative health impacts)
+   - Smoking (No): -0.8 (non-smoker, reducing risk of smoking-related illnesses)
+   - HAM-D (7–17: Mild Depression): 1.2 (mild depression can increase risk of hospitalization due to mental health concerns)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (recent feelings of sadness or fatigue, potential indicator of underlying issues)
+   - Loss_of_Interest (No): -0.2 (no loss of interest, suggesting less severe mental health impact)
+   - Hours_of_Sleep (10.3): -0.5 (adequate sleep, generally positive for health)
+   - Employment (Employed): -0.5 (stable employment, generally associated with better health outcomes)
+   - Socioeconomic_Status (Middle): -0.2 (middle socioeconomic status, relatively stable access to healthcare)
+   - Drinks_Coffee (Yes): 0 (no known significant direct impact on hospitalization risk)
+   - Likes_Vegetables (Yes): -0.2 (healthy dietary preference, potentially lowering health risks)
+   - Favourite_Sport (Hockey): 0 (no direct impact on health risk)
+   - Votes (Sometimes): 0 (no direct impact on health risk)
+   - Height_in_Inches (72): 0 (no direct impact on hospitalization risk)
+   - Has_Drivers_License (No): 0.1 (potential limitation in mobility or independence)
+   - Picks_Up_Litter (Sometimes): 0 (no direct impact on health risk)
+   - Uses_Public_Transportation (Never): 0.1 (potential for less exposure to public health risks but also less access to services)
+   - Donated_Blood (No): 0 (no direct impact on health risk)
+   - Birthday_Month (April): 0 (no known direct impact on health risk)
+
+3. The patient's hospitalization risk is influenced significantly by the diagnosis of schizophrenia and mild depression, which are major contributors to the overall risk score. Despite these factors, the patient's young age, stable employment, and absence of smoking contribute to a relatively moderate risk profile.

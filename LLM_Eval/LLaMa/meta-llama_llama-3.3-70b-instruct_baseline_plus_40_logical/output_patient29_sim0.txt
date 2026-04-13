@@ -1,0 +1,15 @@
+1. Risk Score: 6.2
+2. Input Factors and Contributions:
+	* Age: -0.5 (young age generally associated with lower health risks)
+	* BMI: 2.5 (high BMI associated with increased health risks)
+	* Family_Health_History: 1.0 (family history of cancer increases risk)
+	* Current_Diagnosis: 1.0 (anxiety can contribute to hospitalization risk)
+	* HAM-D: 1.5 (mild depression increases risk)
+	* Weekly_Alcohol_Intake: 0.5 (moderate alcohol intake may contribute to risk)
+	* Hours_of_Sleep: -0.5 (inadequate sleep can increase risk, but 5.7 hours is not severely low)
+	* Socioeconomic_Status: -0.5 (middle socioeconomic status generally associated with lower health risks)
+	* Employment: -0.5 (being a student may provide access to healthcare resources)
+	* Allergy: 0.5 (gluten allergy may require medical attention)
+	* Exercises: -1.0 (regular exercise generally reduces health risks)
+	* All other factors: 0 (no clear causal relationship to hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, with factors such as high BMI, family history of cancer, and mild depression contributing to increased risk, while factors such as regular exercise and middle socioeconomic status reduce risk. The score reflects the cumulative effect of these factors on the individual's hospitalization risk.

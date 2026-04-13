@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 22: -1.5 (young age generally reduces health risks)
+   - BMI: 35.9: 2.5 (high BMI increases health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer increases risk)
+   - Current_Diagnosis: Anxiety: 1.8 (anxiety can increase health risks)
+   - Race: Hispanic: 0.5 (some studies suggest increased health risks for Hispanic individuals)
+   - Gender: Female: 0.2 (females may have different health risks than males)
+   - Sexual_Orientation: Bisexual: 0.1 (minority stress can increase health risks)
+   - Weekly_Alcohol_Intake: 4: 0.8 (moderate alcohol intake can increase health risks)
+   - Smoking: No: -1 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.5 (mild depression increases health risks)
+   - Been_Sad_or_Fatigued: No: -0.5 (not experiencing sadness or fatigue reduces health risks)
+   - Loss_of_Interest: No: -0.5 (not experiencing loss of interest reduces health risks)
+   - Hours_of_Sleep: 5.7: 0.7 (inadequate sleep can increase health risks)
+   - Employment: Student: -0.8 (being a student may reduce health risks due to access to resources)
+   - Socioeconomic_Status: Middle: -0.3 (middle socioeconomic status may reduce health risks)
+   - Drinks_Coffee: No: 0 (not drinking coffee has a neutral effect on health risks)
+   - Likes_Vegetables: No: 0.3 (not liking vegetables may increase health risks due to poor diet)
+   - Favourite_Sport: Soccer: 0 (having a favorite sport has a neutral effect on health risks)
+   - Votes: Sometimes: 0 (voting behavior has a neutral effect on health risks)
+   - Height_in_Inches: 61: 0 (height has a neutral effect on health risks)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and demographic characteristics, with each factor assigned a numerical contribution reflecting its potential impact on health risks. The sum of these contributions yields a total risk score, providing a comprehensive assessment of the individual's hospitalization risk.

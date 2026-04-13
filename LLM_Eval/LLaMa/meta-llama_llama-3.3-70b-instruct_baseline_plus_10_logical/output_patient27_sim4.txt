@@ -1,0 +1,30 @@
+1. **Risk Score: 2.5**
+
+2. **Input Factors and Contributions:**
+   - Age (38): -0.5 (lower risk due to being in a relatively low-risk age group for most conditions)
+   - BMI (21.8): -1.0 (low risk due to being within a healthy weight range)
+   - Family_Health_History (Asthma): +1.0 (increased risk due to genetic predisposition to respiratory issues)
+   - Current_Diagnosis (Anxiety): +1.5 (increased risk due to mental health condition)
+   - Race (Black): +0.5 (acknowledging health disparities, though this is a complex factor with many variables)
+   - Gender (Non-binary): 0 (no direct risk association without further context)
+   - Sexual_Orientation (Heterosexual): 0 (no direct risk association)
+   - Weekly_Alcohol_Intake (2): -0.5 (low risk due to moderate alcohol consumption)
+   - Smoking (No): -1.0 (low risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (low risk due to no indication of depression)
+   - Been_Sad_or_Fatigued (No): -0.5 (low risk due to no recent sad or fatigued feelings)
+   - Loss_of_Interest (No): -0.5 (low risk due to no loss of interest in activities)
+   - Hours_of_Sleep (6.3): -0.5 (low risk due to adequate sleep)
+   - Employment (Employed): -0.5 (low risk due to stable employment)
+   - Socioeconomic_Status (High): -1.0 (low risk due to high socioeconomic status)
+   - Drinks_Coffee (No): 0 (no direct risk association)
+   - Likes_Vegetables (No): +0.5 (potential increased risk due to lack of healthy diet indicator)
+   - Favourite_Sport (Soccer): -0.5 (low risk due to engagement in physical activity)
+   - Votes (Always): 0 (no direct health risk association)
+   - Height_in_Inches (73): 0 (no direct risk association without context of weight)
+   - Has_Drivers_License (Yes): 0 (no direct health risk association)
+   - Picks_Up_Litter (Never): 0 (no direct health risk association)
+   - Uses_Public_Transportation (Never): 0 (no direct health risk association)
+   - Donated_Blood (Yes): -0.5 (low risk due to health screening associated with blood donation)
+   - Birthday_Month (March): 0 (no direct health risk association)
+
+3. **Justification:** The risk score calculation is based on assigning numerical values to each factor that reflects its potential impact on health, considering both direct health indicators (like BMI, smoking status, and family health history) and indirect indicators (such as socioeconomic status, employment, and lifestyle choices). The sum of these values provides a comprehensive risk score, with positive values indicating increased risk and negative values indicating decreased risk, reflecting a logical and causal approach to assessing an individual's hospitalization risk.

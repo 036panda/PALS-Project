@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attribute impacts:
+   - Age (56): +1.2 (increased risk due to age-related health decline)
+   - BMI (27.3): +0.8 (moderate risk due to overweight status)
+   - Family_Health_History (nan): 0 (no impact due to missing data)
+   - Current_Diagnosis (Schizophrenia): +2.5 (high risk due to severe mental health condition)
+   - Race (Asian): 0 (no specific risk adjustment for this demographic)
+   - Gender (Other): 0 (no specific risk adjustment for non-binary gender)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment for sexual orientation)
+   - Weekly_Alcohol_Intake (2): -0.2 (low risk due to moderate alcohol consumption)
+   - Smoking (Yes): +1.5 (high risk due to smoking)
+   - HAM-D (7-17, Mild Depression): +1.0 (moderate risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): +0.5 (moderate risk due to reported symptoms)
+   - Loss_of_Interest (Yes): +0.5 (moderate risk due to reported symptoms)
+   - Hours_of_Sleep (6.0): +0.2 (slight risk due to borderline sleep deprivation)
+   - Employment (Employed): -0.5 (low risk due to stable employment)
+   - Socioeconomic_Status (Low): +1.0 (moderate risk due to socioeconomic challenges)
+   - Drinks_Coffee (No): 0 (no specific risk adjustment for coffee consumption)
+   - Likes_Vegetables (No): +0.2 (slight risk due to potential nutritional deficiencies)
+   - Favourite_Sport (Basketball): 0 (no specific risk adjustment for sports preference)
+   - Votes (Never): 0 (no specific risk adjustment for voting behavior)
+   - Height_in_Inches (62): 0 (no specific risk adjustment for height)
+
+3. The patient's hospitalization risk is elevated due to the presence of schizophrenia, smoking, and mild depression, which collectively contribute to a significant risk of health complications. The patient's socioeconomic status and reported symptoms of sadness, fatigue, and loss of interest further exacerbate this risk, warranting close monitoring and potential intervention.

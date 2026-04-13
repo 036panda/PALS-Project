@@ -1,0 +1,15 @@
+1. 8.2
+2. Input factors and their assigned numerical contributions:
+   - Age: 68 (2.5, positive: older age increases health risks)
+   - BMI: 29.7 (1.8, positive: high BMI increases health risks)
+   - Family_Health_History: Hypertension (1.2, positive: family history of hypertension increases cardiovascular risk)
+   - Current_Diagnosis: Scizophrenia (1.5, positive: severe mental health condition increases hospitalization risk)
+   - HAM-D: 25+ (2.0, positive: severe depression increases hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes (0.8, positive: symptoms of depression increase hospitalization risk)
+   - Loss_of_Interest: Yes (0.8, positive: symptoms of depression increase hospitalization risk)
+   - Smoking: Yes (1.0, positive: smoking increases health risks)
+   - Weekly_Alcohol_Intake: 3 (0.2, positive: moderate alcohol intake may increase health risks)
+   - Socioeconomic_Status: Low (1.0, positive: low socioeconomic status increases health risks due to limited access to healthcare)
+   - Hours_of_Sleep: 7.7 (-0.1, negative: adequate sleep decreases health risks)
+   - Other factors (0, neutral: no clear causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic conditions, which have established causal relationships with increased risk of hospitalization. The assigned numerical contributions reflect the strength and direction of these relationships, summing to a total risk score of 8.2.

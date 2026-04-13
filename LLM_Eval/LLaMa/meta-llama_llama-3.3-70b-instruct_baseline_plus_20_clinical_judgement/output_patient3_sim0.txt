@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 6.8
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 64: +2.5 (increased risk due to age-related health decline)
+   - BMI: 29.9: +1.8 (increased risk due to overweight status)
+   - Family_Health_History: Asthma: +0.5 (potential increased risk due to familial respiratory issues)
+   - Current_Diagnosis: Depression: +2.0 (significant increased risk due to mental health condition)
+   - Race: Native American: +0.2 (potential increased risk due to health disparities)
+   - Gender: Male: +0.1 (slightly increased risk due to gender-related health differences)
+   - Weekly_Alcohol_Intake: 2: -0.5 (reduced risk due to moderate alcohol consumption)
+   - Smoking: No: -1.0 (reduced risk due to non-smoking status)
+   - HAM-D: 18-24: Moderate Depression: +1.5 (increased risk due to severity of depression)
+   - Loss_of_Interest: Yes: +1.0 (increased risk due to symptom of depression)
+   - Hours_of_Sleep: 6.4: -0.2 (slightly reduced risk due to relatively normal sleep patterns)
+   - Socioeconomic_Status: Middle: -0.5 (reduced risk due to stable socioeconomic status)
+   - Drinks_Coffee: Yes: -0.1 (slightly reduced risk due to potential cognitive benefits)
+   - Likes_Vegetables: Yes: -0.2 (reduced risk due to healthy dietary habits)
+   - Water_Intake_oz: 44.4: -0.1 (slightly reduced risk due to adequate hydration)
+   - Bilingual: Yes: -0.1 (slightly reduced risk due to potential cognitive benefits)
+   - Handedness: Right: 0 (no impact)
+   - Other attributes (e.g., Favourite_Sport, Votes, Height_in_Inches, etc.): 0 (no significant impact on hospitalization risk)
+3. The patient's hospitalization risk is elevated due to their age, BMI, family health history, and current diagnosis of moderate depression, which collectively contribute to a heightened risk of hospitalization. However, their stable socioeconomic status, healthy lifestyle habits, and absence of smoking mitigate this risk to some extent.

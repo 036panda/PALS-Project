@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (34): -1 (lower risk due to relatively young age)
+   - BMI (24.2): -0.5 (slightly lower risk due to being within the normal weight range)
+   - Family_Health_History (nan): 0 (no impact due to missing information)
+   - Current_Diagnosis (Bipolar): +2 (increased risk due to the presence of a psychiatric condition)
+   - Race (Hispanic): 0 (no specific risk adjustment based on race in this context)
+   - Gender (Female): 0 (no specific risk adjustment based on gender in this context)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment based on sexual orientation)
+   - Weekly_Alcohol_Intake (1): -0.5 (lower risk due to minimal alcohol consumption)
+   - Smoking (No): -1 (lower risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -1 (lower risk due to no current depression)
+   - Been_Sad_or_Fatigued (Yes): +1 (increased risk due to recent feelings of sadness or fatigue)
+   - Loss_of_Interest (No): -0.5 (lower risk due to no loss of interest)
+   - Hours_of_Sleep (8.3): -0.5 (lower risk due to adequate sleep)
+   - Employment (Employed): -1 (lower risk due to being employed)
+   - Socioeconomic_Status (Low): +1 (increased risk due to lower socioeconomic status)
+   - Drinks_Coffee (No): 0 (no specific risk adjustment based on coffee consumption)
+   - Likes_Vegetables (No): 0 (no specific risk adjustment based on vegetable preference)
+   - Favourite_Sport (Soccer): 0 (no specific risk adjustment based on sports preference)
+   - Votes (Sometimes): 0 (no specific risk adjustment based on voting behavior)
+   - Height_in_Inches (60): 0 (no specific risk adjustment based on height)
+
+3. The patient's hospitalization risk is influenced by the presence of bipolar disorder and recent feelings of sadness or fatigue, which are countered by factors such as minimal alcohol intake, no smoking, and being employed, leading to a moderate risk score. The overall assessment reflects a balance between psychiatric health challenges and protective lifestyle factors.

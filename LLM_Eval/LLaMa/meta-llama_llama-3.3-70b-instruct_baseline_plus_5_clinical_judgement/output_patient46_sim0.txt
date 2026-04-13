@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 32, impact: -0.5 (lower risk due to relatively young age)
+   - BMI: 25.7, impact: 0.8 (moderate risk due to being overweight)
+   - Family_Health_History: Asthma, impact: 1.2 (increased risk due to family history of chronic condition)
+   - Current_Diagnosis: nan, impact: 0 (no information, no impact)
+   - Race: White, impact: 0 (no specific risk associated with this attribute)
+   - Gender: Non-binary, impact: 0 (no specific risk associated with this attribute)
+   - Sexual_Orientation: Other, impact: 0 (no specific risk associated with this attribute)
+   - Weekly_Alcohol_Intake: 2, impact: -0.2 (lower risk due to moderate alcohol intake)
+   - Smoking: No, impact: -0.5 (lower risk due to not smoking)
+   - HAM-D: 18-24, impact: 2.5 (high risk due to moderate depression)
+   - Been_Sad_or_Fatigued: No, impact: -0.2 (lower risk due to not feeling sad or fatigued)
+   - Loss_of_Interest: Yes, impact: 1.5 (increased risk due to loss of interest)
+   - Hours_of_Sleep: 4.8, impact: 1.2 (increased risk due to inadequate sleep)
+   - Employment: Employed, impact: -0.5 (lower risk due to being employed)
+   - Socioeconomic_Status: Middle, impact: 0 (no specific risk associated with this attribute)
+   - Drinks_Coffee: No, impact: 0 (no specific risk associated with this attribute)
+   - Likes_Vegetables: No, impact: 0.2 (slightly increased risk due to not liking vegetables)
+   - Favourite_Sport: nan, impact: 0 (no information, no impact)
+   - Votes: Sometimes, impact: 0 (no specific risk associated with this attribute)
+   - Height_in_Inches: 63, impact: 0 (no specific risk associated with this attribute)
+3. The patient's moderate depression, loss of interest, and inadequate sleep significantly increase their hospitalization risk, while their relatively young age, moderate alcohol intake, and employment status somewhat mitigate this risk. Overall, the patient's mental health and sleep issues are the primary drivers of their hospitalization risk.

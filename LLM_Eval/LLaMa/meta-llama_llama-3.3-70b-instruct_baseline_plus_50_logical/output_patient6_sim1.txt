@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 36: 0.5 (moderate positive contribution due to increased risk with age, although still relatively young)
+   - BMI: 31.3: 1.2 (positive contribution due to increased health risks associated with obesity)
+   - Family_Health_History: Asthma: 0.8 (positive contribution due to potential genetic predisposition to respiratory issues)
+   - Current_Diagnosis: Anxiety: 1.0 (positive contribution due to mental health concerns)
+   - Weekly_Alcohol_Intake: 5: 0.2 (slight positive contribution due to potential health impacts of moderate alcohol consumption)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (negative contribution due to lack of depressive symptoms)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative contribution due to absence of reported sadness or fatigue)
+   - Loss_of_Interest: No: -0.2 (negative contribution due to absence of reported loss of interest)
+   - Hours_of_Sleep: 6.0: -0.1 (slight negative contribution due to relatively adequate sleep)
+   - Socioeconomic_Status: Low: 1.5 (positive contribution due to increased health risks associated with lower socioeconomic status)
+   - Water_Intake_oz: 42.8: -0.1 (slight negative contribution due to relatively adequate hydration)
+   - Allergy: Pollen: 0.2 (slight positive contribution due to potential health impacts of allergies)
+   - Exercises: Yes: -0.5 (negative contribution due to regular physical activity reducing health risks)
+   - Skips_Breakfast: Yes: 0.3 (positive contribution due to potential negative health impacts of skipping meals)
+   - Other factors (e.g., employment, relationship status, lifestyle preferences): 0 (neutral contributions, as their direct causal relationships to hospitalization risk are less clear or not established)
+3. The hospitalization risk score is calculated based on the individual's health status, lifestyle, and socioeconomic factors, with a focus on established causal relationships between these factors and health outcomes. The score reflects the cumulative impact of positive and negative contributions from each factor, providing a comprehensive assessment of the individual's risk profile.

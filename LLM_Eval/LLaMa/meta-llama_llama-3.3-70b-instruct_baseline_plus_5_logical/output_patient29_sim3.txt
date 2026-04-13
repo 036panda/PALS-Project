@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 22: -1.5 (young age generally associated with lower health risks)
+   - BMI: 35.9: 2.5 (high BMI associated with increased health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer may increase individual risk)
+   - Current_Diagnosis: Anxiety: 1.8 (anxiety can contribute to overall health risk)
+   - Race: Hispanic: 0.5 (some studies suggest racial disparities in healthcare access and outcomes)
+   - Gender: Female: 0.2 (gender can influence health risks, but impact is complex and varied)
+   - Sexual_Orientation: Bisexual: 0.1 (minority stress may contribute to health risks, but data is limited)
+   - Weekly_Alcohol_Intake: 4: 0.8 (moderate alcohol intake can have mixed effects on health)
+   - Smoking: No: -1.0 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.5 (mild depression contributes to overall health risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (absence of recent sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.5 (absence of loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7: 0.7 (inadequate sleep can increase health risks)
+   - Employment: Student: -0.8 (being a student may reduce health risks due to access to resources)
+   - Socioeconomic_Status: Middle: -0.3 (middle socioeconomic status may reduce health risks compared to lower status)
+   - Drinks_Coffee: No: 0.0 (no significant impact on health risk)
+   - Likes_Vegetables: No: 0.4 (not liking vegetables may indicate poorer diet and increased health risk)
+   - Favourite_Sport: Soccer: -0.2 (engagement in sports can reduce health risks)
+   - Votes: Sometimes: 0.0 (voting behavior has no direct causal link to health risks)
+   - Height_in_Inches: 61: 0.0 (height has no direct causal link to hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's health profile, considering factors such as BMI, family health history, current diagnosis, and lifestyle choices, which collectively contribute to the overall risk of hospitalization. The assigned numerical contributions reflect the causal relationships between these factors and hospitalization risk, with higher values indicating greater risk.

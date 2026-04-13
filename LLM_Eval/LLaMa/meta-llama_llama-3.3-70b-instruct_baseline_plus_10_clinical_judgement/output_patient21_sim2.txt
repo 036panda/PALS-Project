@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (42): +0.5 (moderate risk due to increasing age)
+   - BMI (26.4): +1.2 (high risk due to overweight status)
+   - Family_Health_History (Cancer): +1.5 (high risk due to family history of cancer)
+   - Current_Diagnosis (Anxiety): +1.8 (high risk due to mental health condition)
+   - Race (Native American): +0.8 (moderate risk due to health disparities)
+   - Gender (Non-binary): +0.2 (low risk, but potential for minority stress)
+   - Sexual_Orientation (Heterosexual): 0 (neutral)
+   - Weekly_Alcohol_Intake (4): +0.5 (low to moderate risk)
+   - Smoking (No): -0.5 (protective factor)
+   - HAM-D (7-17, Mild Depression): +2.0 (high risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): +1.0 (moderate risk due to symptoms)
+   - Loss_of_Interest (Yes): +1.2 (high risk due to symptom severity)
+   - Hours_of_Sleep (10.2): -0.5 (protective factor, adequate sleep)
+   - Employment (Employed): -0.8 (protective factor, social support and stability)
+   - Socioeconomic_Status (Middle): -0.2 (low risk, relatively stable socioeconomic status)
+   - Drinks_Coffee (No): 0 (neutral)
+   - Likes_Vegetables (Yes): -0.5 (protective factor, healthy diet)
+   - Favourite_Sport (nan): 0 (neutral, missing data)
+   - Votes (Sometimes): 0 (neutral, unclear relevance to health)
+   - Height_in_Inches (63): 0 (neutral, height alone not indicative of risk)
+   - Has_Drivers_License (No): +0.3 (low risk, potential for limited mobility or access to care)
+   - Picks_Up_Litter (Never): 0 (neutral, unclear relevance to health)
+   - Uses_Public_Transportation (Never): +0.2 (low risk, potential for limited mobility or access to care)
+   - Donated_Blood (Yes): -0.5 (protective factor, indicative of good health and altruism)
+   - Birthday_Month (June): 0 (neutral, no known health risk associated with birth month)
+
+3. The patient's hospitalization risk is elevated due to their anxiety diagnosis, mild depression, and family history of cancer, which collectively contribute to a higher risk profile. However, factors such as employment, adequate sleep, and a healthy diet mitigate this risk to some extent, resulting in a moderate to high hospitalization risk score.

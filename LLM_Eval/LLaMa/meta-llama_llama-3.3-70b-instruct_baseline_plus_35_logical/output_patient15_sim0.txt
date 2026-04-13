@@ -1,0 +1,14 @@
+1. Risk Score: 6.8
+2. Input Factors and Contributions:
+	* Age: 64 (+1.2, older age increases risk)
+	* BMI: 21.6 (-0.5, normal BMI decreases risk)
+	* Family_Health_History: Hypertension (+1.5, family history of hypertension increases risk)
+	* Smoking: Yes (+2.0, smoking increases risk)
+	* Hours_of_Sleep: 3.4 (+1.0, inadequate sleep increases risk)
+	* Socioeconomic_Status: Low (+1.0, low socioeconomic status increases risk)
+	* Loss_of_Interest: Yes (+0.5, loss of interest may indicate underlying health issues)
+	* Weekly_Alcohol_Intake: 2 (-0.2, moderate alcohol intake decreases risk)
+	* HAM-D: 0–6: Normal / No Depression (-0.5, no depression decreases risk)
+	* Been_Sad_or_Fatigued: No (-0.2, no sadness or fatigue decreases risk)
+	* All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, with factors such as older age, family history of hypertension, smoking, and inadequate sleep contributing to an increased risk, while factors such as normal BMI, moderate alcohol intake, and no depression contribute to a decreased risk. The assigned contributions reflect the relative strength of these relationships, resulting in a total risk score of 6.8.

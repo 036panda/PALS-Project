@@ -1,0 +1,16 @@
+1. 4.2
+2. 
+- Age: 25: -0.5 (young age generally associated with lower health risks)
+- BMI: 28.5: 1.2 (high BMI associated with increased health risks)
+- Family_Health_History: Hypertension: 1.0 (family history of hypertension increases risk)
+- Current_Diagnosis: Bipolar: 1.5 (bipolar disorder can increase hospitalization risk)
+- Weekly_Alcohol_Intake: 7: 0.5 (moderate alcohol intake may have mixed effects on health)
+- HAM-D: 0–6: Normal / No Depression: -1.0 (no depression reduces risk)
+- Hours_of_Sleep: 7.8: -0.2 (adequate sleep reduces risk)
+- Socioeconomic_Status: Middle: -0.5 (middle socioeconomic status generally associated with better health outcomes)
+- Been_Sad_or_Fatigued: No: -0.2 (absence of sadness or fatigue reduces risk)
+- Loss_of_Interest: No: -0.2 (absence of loss of interest reduces risk)
+- Smoking: No: -0.5 (not smoking reduces risk)
+- Allergy: Gluten: 0.2 (presence of an allergy may increase risk due to potential for adverse reactions)
+- Other factors not directly influencing the risk score due to lack of clear causal relationship or insufficient information: Patient_ID, Race, Gender, Sexual_Orientation, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Binge_Watches_TV, Favourite_Super_Store
+3. The hospitalization risk score is calculated based on the presence of factors that have a known or plausible causal relationship with increased risk of hospitalization, such as high BMI, family history of hypertension, and current diagnosis of bipolar disorder, while also considering factors that reduce risk, like absence of depression and adequate sleep. The score reflects a balance of these factors to estimate the individual's risk.

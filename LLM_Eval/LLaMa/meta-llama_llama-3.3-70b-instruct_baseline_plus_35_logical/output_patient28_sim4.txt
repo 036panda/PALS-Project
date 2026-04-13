@@ -1,0 +1,12 @@
+1. 4.8
+2. The input factors and their assigned numerical contributions are:
+   - Age: 25, contribution: -0.5 (younger age generally associated with lower risk)
+   - BMI: 28.5, contribution: 1.2 (higher BMI associated with increased health risks)
+   - Family_Health_History: Hypertension, contribution: 1.5 (family history of hypertension increases risk)
+   - Current_Diagnosis: Bipolar, contribution: 2.0 (bipolar diagnosis increases risk)
+   - Weekly_Alcohol_Intake: 7, contribution: 0.5 (moderate alcohol intake may have some negative health effects)
+   - HAM-D: 0–6, contribution: -1.0 (no depression indicated, lowering risk)
+   - Hours_of_Sleep: 7.8, contribution: -0.2 (adequate sleep, lowering risk)
+   - Socioeconomic_Status: Middle, contribution: -0.5 (middle socioeconomic status generally associated with lower risk compared to lower status)
+   - All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health-related factors, such as BMI, family health history, and current diagnosis, which have established causal relationships with increased risk of hospitalization. The score reflects the cumulative effect of these factors, with higher values indicating a greater risk of hospitalization.

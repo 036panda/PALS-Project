@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 49: 0.5 (positive contribution due to increased risk with age)
+   - BMI: 29.7: 1.2 (positive contribution due to increased risk associated with higher BMI)
+   - Family_Health_History: nan: 0 (no contribution due to missing data)
+   - Current_Diagnosis: Bipolar: 2.0 (positive contribution due to increased risk associated with bipolar disorder)
+   - Race: Native American: 0.5 (positive contribution due to potential health disparities)
+   - Gender: Female: 0.2 (positive contribution due to potential increased risk for certain conditions)
+   - Sexual_Orientation: Other: 0 (no contribution due to lack of clear causal relationship)
+   - Weekly_Alcohol_Intake: 2: -0.5 (negative contribution due to moderate alcohol intake potentially reducing certain risks)
+   - Smoking: No: -1.0 (negative contribution due to reduced risk associated with not smoking)
+   - HAM-D: 7–17: Mild Depression: 1.5 (positive contribution due to increased risk associated with mild depression)
+   - Been_Sad_or_Fatigued: No: -0.5 (negative contribution due to reduced risk associated with not experiencing sadness or fatigue)
+   - Loss_of_Interest: Yes: 1.0 (positive contribution due to increased risk associated with loss of interest)
+   - Hours_of_Sleep: 5.8: 0.8 (positive contribution due to increased risk associated with inadequate sleep)
+   - Employment: Employed: -0.5 (negative contribution due to reduced risk associated with employment)
+   - Socioeconomic_Status: Middle: 0 (no contribution due to neutral socioeconomic status)
+3. The hospitalization risk score is calculated based on the individual's specific characteristics, with positive contributions from factors such as age, BMI, bipolar disorder, and loss of interest, and negative contributions from factors such as moderate alcohol intake, not smoking, and employment. The score reflects the cumulative effect of these factors on the individual's risk of hospitalization, with a higher score indicating a greater risk.

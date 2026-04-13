@@ -1,0 +1,14 @@
+1. Final Hospitalization Risk Score: 2.1
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 32, -0.5 (lower risk due to relatively young age)
+   - BMI: 23.2, -0.3 (lower risk due to normal BMI)
+   - Weekly_Alcohol_Intake: 6, 0.5 (moderate risk due to alcohol consumption)
+   - Smoking: No, -0.5 (lower risk due to non-smoking status)
+   - HAM-D: 0–6, -0.5 (lower risk due to no depression)
+   - Hours_of_Sleep: 6.8, -0.2 (lower risk due to adequate sleep)
+   - Socioeconomic_Status: High, -0.5 (lower risk due to high socioeconomic status)
+   - Drinks_Coffee: Yes, 0.1 (slightly increased risk due to potential caffeine-related issues)
+   - Water_Intake_oz: 42.8, -0.1 (lower risk due to adequate hydration)
+   - Other attributes (e.g., Family_Health_History: nan, Current_Diagnosis: nan, etc.): 0 (no impact due to missing or irrelevant information)
+   - Total: 2.1
+3. The patient's relatively young age, normal BMI, and absence of smoking and depression contribute to a lower hospitalization risk, while moderate alcohol intake and other lifestyle factors slightly increase the risk. Overall, the patient's profile suggests a low to moderate risk of hospitalization, primarily driven by lifestyle choices rather than underlying health conditions.

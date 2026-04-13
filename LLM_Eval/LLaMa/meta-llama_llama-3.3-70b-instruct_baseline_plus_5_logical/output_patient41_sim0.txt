@@ -1,0 +1,23 @@
+1. Risk Score: 2.8
+2. Input Factors and Contributions:
+   - Age: 22, Contribution: -0.5 (younger age generally reduces risk)
+   - BMI: 21.9, Contribution: -0.2 (normal BMI reduces risk)
+   - Family_Health_History: Cancer, Contribution: 1.0 (family history of cancer increases risk)
+   - Current_Diagnosis: nan, Contribution: 0 (no current diagnosis, neutral)
+   - Race: White, Contribution: 0 (race not directly contributing to hospitalization risk in this model)
+   - Gender: Non-binary, Contribution: 0 (gender not directly contributing to hospitalization risk in this model)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (sexual orientation not directly contributing to hospitalization risk)
+   - Weekly_Alcohol_Intake: 3, Contribution: 0.2 (moderate alcohol intake slightly increases risk)
+   - Smoking: No, Contribution: -0.5 (not smoking reduces risk)
+   - HAM-D: 7–17 (Mild Depression), Contribution: 1.3 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.1 (not feeling sad or fatigued reduces risk)
+   - Loss_of_Interest: No, Contribution: -0.1 (no loss of interest reduces risk)
+   - Hours_of_Sleep: 9.6, Contribution: -0.2 (adequate sleep reduces risk)
+   - Employment: Employed, Contribution: -0.3 (being employed reduces risk)
+   - Socioeconomic_Status: Middle, Contribution: -0.2 (middle socioeconomic status reduces risk compared to lower)
+   - Drinks_Coffee: No, Contribution: 0 (coffee consumption not directly contributing to hospitalization risk)
+   - Likes_Vegetables: Yes, Contribution: -0.2 (healthy dietary preferences reduce risk)
+   - Favourite_Sport: Soccer, Contribution: 0 (physical activity implied, but specific sport not directly contributing)
+   - Votes: Always, Contribution: 0 (voting behavior not directly contributing to hospitalization risk)
+   - Height_in_Inches: 69, Contribution: 0 (height not directly contributing to hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between individual health factors and hospitalization risk, where factors such as family health history, mild depression, and moderate alcohol intake increase risk, while younger age, normal BMI, employment, and healthy lifestyle choices decrease risk. This approach sums the contributions of each factor to derive a total risk score, reflecting the complex interplay of influences on an individual's health outcomes.

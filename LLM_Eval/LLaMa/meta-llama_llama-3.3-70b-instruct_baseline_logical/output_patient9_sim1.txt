@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 35, contribution: 0.5 (positive, as older age can increase health risks, but 35 is still relatively young)
+   - BMI: 26.8, contribution: 1.2 (positive, as a BMI of 26.8 is considered overweight, increasing health risks)
+   - Family_Health_History: nan, contribution: 0 (neutral, due to lack of information)
+   - Current_Diagnosis: Bipolar, contribution: 2.0 (positive, as bipolar disorder can increase hospitalization risk)
+   - Race: Asian, contribution: 0 (neutral, as race is not a direct causal factor for hospitalization risk in this context)
+   - Gender: Male, contribution: 0 (neutral, as gender is not a direct causal factor for hospitalization risk in this context)
+   - Sexual_Orientation: Heterosexual, contribution: 0 (neutral, as sexual orientation is not a direct causal factor for hospitalization risk in this context)
+   - Weekly_Alcohol_Intake: 4, contribution: 0.8 (positive, as moderate alcohol intake can increase health risks)
+   - Smoking: No, contribution: -0.5 (negative, as not smoking decreases health risks)
+   - HAM-D: 7–17, contribution: 1.5 (positive, as mild depression can increase hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes, contribution: 0.8 (positive, as experiencing sadness or fatigue can increase hospitalization risk)
+   - Loss_of_Interest: No, contribution: 0 (neutral, as no loss of interest is reported)
+   - Hours_of_Sleep: 5.3, contribution: 0.5 (positive, as insufficient sleep can increase health risks)
+   - Employment: Employed, contribution: -0.5 (negative, as being employed can decrease health risks due to access to healthcare and stability)
+   - Socioeconomic_Status: Middle, contribution: -0.5 (negative, as a middle socioeconomic status can decrease health risks due to access to resources and healthcare)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as their bipolar diagnosis, overweight status, and mild depression, which increase their risk, while their employment and socioeconomic status decrease their risk. The score reflects the cumulative effect of these factors on the individual's likelihood of hospitalization.

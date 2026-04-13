@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (29): -1.5 (lower risk due to younger age)
+   - BMI (25.9): 1.2 (slightly increased risk due to being overweight)
+   - Family_Health_History (nan): 0 (no impact due to missing data)
+   - Current_Diagnosis (Anxiety): 2.5 (increased risk due to anxiety diagnosis)
+   - Race (Asian): 0 (no specific risk adjustment for this demographic)
+   - Gender (Male): 0 (no specific risk adjustment for this demographic)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment for this demographic)
+   - Weekly_Alcohol_Intake (5): 0.5 (slightly increased risk due to alcohol consumption)
+   - Smoking (No): -1 (lower risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -1 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued (Yes): 1 (increased risk due to symptoms)
+   - Loss_of_Interest (Yes): 1 (increased risk due to symptoms)
+   - Hours_of_Sleep (3.7): 1.5 (increased risk due to insufficient sleep)
+   - Employment (Employed): -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status (Middle): 0 (no specific risk adjustment for this demographic)
+   - Drinks_Coffee (No): 0 (no impact)
+   - Likes_Vegetables (Yes): -0.5 (lower risk due to healthy eating habits)
+   - Favourite_Sport (Soccer): 0 (no impact)
+   - Votes (Sometimes): 0 (no impact)
+   - Height_in_Inches (60): 0 (no specific risk adjustment for this demographic)
+
+3. The patient's hospitalization risk is influenced by their anxiety diagnosis, symptoms of sadness and fatigue, and insufficient sleep, which are countered by factors such as stable employment, healthy eating habits, and not smoking. Overall, the patient's risk profile suggests a moderate risk of hospitalization due to their mental health status and lifestyle factors.

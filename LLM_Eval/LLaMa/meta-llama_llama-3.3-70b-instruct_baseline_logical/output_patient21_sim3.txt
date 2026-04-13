@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 42: 0.8 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 26.4: 1.2 (positive, as higher BMI is linked to various health issues)
+   - Family_Health_History: Cancer: 1.5 (positive, due to potential genetic predispositions)
+   - Current_Diagnosis: Anxiety: 1.0 (positive, as anxiety can lead to other health complications)
+   - Race: Native American: 0.5 (positive, considering health disparities in this population)
+   - Gender: Non-binary: 0.0 (neutral, as there's no direct causal link to hospitalization risk)
+   - Sexual_Orientation: Heterosexual: 0.0 (neutral, as there's no direct causal link to hospitalization risk)
+   - Weekly_Alcohol_Intake: 4: 0.8 (positive, as moderate alcohol consumption can have negative health effects)
+   - Smoking: No: -1.0 (negative, as not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.8 (positive, as depression increases hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes: 0.8 (positive, indicating potential mental health issues)
+   - Loss_of_Interest: Yes: 0.8 (positive, suggesting severe depression symptoms)
+   - Hours_of_Sleep: 10.2: -0.5 (negative, as adequate sleep reduces health risks)
+   - Employment: Employed: -0.5 (negative, as employment can provide stability and access to healthcare)
+   - Socioeconomic_Status: Middle: -0.5 (negative, as middle socioeconomic status may provide better access to healthcare)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and socioeconomic status, with each factor contributing positively or negatively to the overall risk. The score of 6.8 reflects the cumulative effect of these factors, indicating a moderate to high risk of hospitalization due to the presence of anxiety, mild depression, and other health concerns.

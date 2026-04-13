@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 56: 2.5 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 31.1: 1.8 (positive, as high BMI is linked to various health issues)
+   - Family_Health_History: Asthma: 0.5 (positive, as family history of asthma may indicate potential respiratory issues)
+   - Current_Diagnosis: Schizophrenia: 2.0 (positive, as schizophrenia can lead to increased hospitalization risk due to severity of symptoms or comorbidities)
+   - Race: Black: 0.2 (positive, acknowledging potential disparities in healthcare access or outcomes)
+   - Gender: Other: 0.0 (neutral, as insufficient data to determine specific risk association)
+   - Sexual_Orientation: Heterosexual: 0.0 (neutral, as sexual orientation is not directly linked to hospitalization risk in this context)
+   - Weekly_Alcohol_Intake: 0: -1.0 (negative, as zero alcohol intake reduces risk of alcohol-related health issues)
+   - Smoking: No: -1.0 (negative, as not smoking reduces risk of smoking-related health issues)
+   - HAM-D: 0–6: Normal / No Depression: -1.5 (negative, indicating low depression risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (negative, suggesting lower risk of mental health-related issues)
+   - Loss_of_Interest: Yes: 1.0 (positive, as this can be a symptom of depression or other mental health issues)
+   - Hours_of_Sleep: 8.0: -0.5 (negative, as adequate sleep is associated with better health outcomes)
+   - Employment: Employed: -0.5 (negative, as employment can be a protective factor against hospitalization)
+   - Socioeconomic_Status: Middle: -0.2 (negative, as middle socioeconomic status may provide better access to healthcare)
+   - Drinks_Coffee: No: 0.0 (neutral, as coffee consumption is not directly linked to hospitalization risk in this context)
+   - Likes_Vegetables: No: 0.2 (positive, as not liking vegetables might indicate less healthy dietary habits)
+   - Favourite_Sport: Basketball: 0.0 (neutral, as favorite sport is not directly linked to hospitalization risk)
+   - Votes: Never: 0.0 (neutral, as voting behavior is not directly linked to hospitalization risk)
+   - Height_in_Inches: 63: 0.0 (neutral, as height is not directly linked to hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic conditions, with each factor contributing positively or negatively to the overall risk, reflecting their potential causal relationships with hospitalization risk. The score of 6.8 out of 10 indicates a moderate to high risk of hospitalization, primarily driven by the individual's schizophrenia diagnosis, high BMI, and family history of asthma.

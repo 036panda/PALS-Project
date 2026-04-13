@@ -1,0 +1,18 @@
+1. Risk Score: 4.8
+2. Input Factors and Contributions:
+   - Age (29): -1.5 (lower risk due to younger age)
+   - BMI (25.9): 0.5 (slightly elevated risk due to being overweight)
+   - Family_Health_History (nan): 0 (no contribution due to missing data)
+   - Current_Diagnosis (Anxiety): 1.5 (elevated risk due to anxiety diagnosis)
+   - Race (Asian): 0 (no contribution, as race is not a direct causal factor for hospitalization risk in this context)
+   - Gender (Male): 0 (no contribution, as gender is not a direct causal factor for hospitalization risk in this context)
+   - Sexual_Orientation (Heterosexual): 0 (no contribution, as sexual orientation is not a direct causal factor for hospitalization risk in this context)
+   - Weekly_Alcohol_Intake (5): 0.5 (moderate risk due to alcohol intake)
+   - Smoking (No): -1 (lower risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -1 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued (Yes): 1 (elevated risk due to reported sadness or fatigue)
+   - Loss_of_Interest (Yes): 1 (elevated risk due to loss of interest)
+   - Hours_of_Sleep (3.7): 1.5 (elevated risk due to insufficient sleep)
+   - Employment (Employed): -0.5 (lower risk due to employment)
+   - Socioeconomic_Status (Middle): 0 (no contribution, as middle socioeconomic status is considered neutral)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, where factors such as anxiety diagnosis, insufficient sleep, and reported sadness or fatigue contribute to a higher risk, while factors like younger age, no smoking, and employment contribute to a lower risk. The contributions of each factor are assigned based on their relative impact on hospitalization risk, resulting in a total risk score of 4.8.

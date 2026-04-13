@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (32): -1.0 (lower risk due to relatively young age)
+   - BMI (25.7): 0.5 (slightly elevated risk due to being overweight)
+   - Family_Health_History (Asthma): 1.0 (increased risk due to respiratory condition in family history)
+   - Current_Diagnosis (nan): 0.0 (no impact due to lack of information)
+   - Race (White): 0.0 (no specific risk adjustment based on race in this context)
+   - Gender (Non-binary): 0.0 (no specific risk adjustment based on gender identity)
+   - Sexual_Orientation (Other): 0.0 (no specific risk adjustment based on sexual orientation)
+   - Weekly_Alcohol_Intake (2): -0.5 (lower risk due to moderate alcohol consumption)
+   - Smoking (No): -1.0 (lower risk due to not smoking)
+   - HAM-D (18-24: Moderate Depression): 3.0 (increased risk due to moderate depression)
+   - Been_Sad_or_Fatigued (No): -0.5 (lower risk due to not experiencing sadness or fatigue)
+   - Loss_of_Interest (Yes): 1.5 (increased risk due to loss of interest, indicative of depression)
+   - Hours_of_Sleep (4.8): 1.2 (increased risk due to insufficient sleep)
+   - Employment (Employed): -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status (Middle): 0.0 (neutral impact due to middle socioeconomic status)
+
+3. The patient's moderate depression, loss of interest, and insufficient sleep significantly increase the risk of hospitalization, while factors such as young age, moderate alcohol intake, and stable employment mitigate this risk to some extent. Overall, the patient's mental health status and sleep disturbances are the primary drivers of the hospitalization risk score.

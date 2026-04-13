@@ -1,0 +1,23 @@
+1. Risk Score: 7.8
+2. Input Factors and Contributions:
+   - Age: 36, Contribution: 0.5 (moderate positive contribution due to increasing risk with age, though still relatively young)
+   - BMI: 36.8, Contribution: 2.0 (high positive contribution due to obesity increasing health risks)
+   - Family_Health_History: Hypertension, Contribution: 1.5 (positive contribution due to increased risk of cardiovascular diseases)
+   - Current_Diagnosis: nan, Contribution: 0 (no contribution due to lack of information)
+   - Race: Black, Contribution: 0.5 (positive contribution due to certain health disparities)
+   - Gender: Non-binary, Contribution: 0 (neutral, as there's no direct causal link provided)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (neutral, as there's no direct causal link provided)
+   - Weekly_Alcohol_Intake: 7, Contribution: 1.0 (positive contribution due to potential health impacts of alcohol)
+   - Smoking: Yes, Contribution: 2.0 (high positive contribution due to significant health risks associated with smoking)
+   - HAM-D: 0–6, Contribution: -1.0 (negative contribution indicating lower risk of depression)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 1.0 (positive contribution due to potential mental health implications)
+   - Loss_of_Interest: Yes, Contribution: 1.0 (positive contribution due to potential mental health implications)
+   - Hours_of_Sleep: 5.7, Contribution: 1.0 (positive contribution due to sleep deprivation health risks)
+   - Employment: Employed, Contribution: -0.5 (negative contribution due to stability and access to healthcare)
+   - Socioeconomic_Status: Middle, Contribution: -0.5 (negative contribution due to access to resources and healthcare)
+   - Drinks_Coffee: No, Contribution: 0 (neutral, as there's no direct causal link provided)
+   - Likes_Vegetables: Yes, Contribution: -0.5 (negative contribution due to healthier dietary habits)
+   - Favourite_Sport: Soccer, Contribution: 0 (neutral, as there's no direct causal link provided)
+   - Votes: Never, Contribution: 0 (neutral, as there's no direct causal link provided)
+   - Height_in_Inches: 60, Contribution: 0 (neutral, as height alone is not a direct risk factor without context)
+3. The risk score calculation is based on the logical and causal relationships between the individual's health and lifestyle factors, with higher contributions assigned to factors that are known to increase the risk of hospitalization, such as smoking, obesity, and family history of hypertension. The score reflects a balance between these risk factors and protective factors like employment, socioeconomic status, and healthy dietary habits.

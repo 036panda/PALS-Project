@@ -1,0 +1,15 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Detailed breakdown:
+   - Age: 40, impact: 0.5 (moderate risk due to increasing age)
+   - BMI: 34.6, impact: 1.2 (high risk due to obesity)
+   - Family_Health_History: Cancer, impact: 1.0 (high risk due to family history of cancer)
+   - Current_Diagnosis: Bipolar, impact: 1.5 (high risk due to mental health condition)
+   - HAM-D: 7–17, impact: 1.0 (moderate risk due to mild depression)
+   - Loss_of_Interest: Yes, impact: 0.8 (moderate risk due to symptom of depression)
+   - Weekly_Alcohol_Intake: 4, impact: 0.2 (low risk due to moderate alcohol intake)
+   - Hours_of_Sleep: 8.9, impact: -0.5 (low risk due to adequate sleep)
+   - Socioeconomic_Status: Middle, impact: -0.5 (low risk due to stable socioeconomic status)
+   - Employment: Employed, impact: -0.5 (low risk due to stable employment)
+   - Water_Intake_oz: 42.6, impact: -0.2 (low risk due to adequate hydration)
+   - Other attributes (Race, Gender, Sexual_Orientation, Smoking, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels): 0.2 (minimal collective impact)
+3. The patient's hospitalization risk is elevated due to their bipolar diagnosis, family history of cancer, and obesity, which collectively contribute to a heightened risk profile. However, their stable socioeconomic status, employment, and adequate sleep and hydration habits help mitigate this risk to some extent.

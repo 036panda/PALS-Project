@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (42): 0.5 (moderate risk due to increasing age)
+   - BMI (26.4): 1.2 (high risk due to overweight status)
+   - Family_Health_History (Cancer): 1.5 (high risk due to family history of cancer)
+   - Current_Diagnosis (Anxiety): 1.0 (moderate risk due to anxiety diagnosis)
+   - Race (Native American): 0.8 (moderate risk due to health disparities in this population)
+   - Gender (Non-binary): 0.2 (low risk, as there is limited data on specific health risks for non-binary individuals)
+   - Sexual_Orientation (Heterosexual): 0.0 (no increased risk)
+   - Weekly_Alcohol_Intake (4): 0.5 (low to moderate risk due to moderate alcohol consumption)
+   - Smoking (No): -0.5 (reduced risk due to not smoking)
+   - HAM-D (7-17: Mild Depression): 1.2 (high risk due to mild depression)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (moderate risk due to symptoms of depression)
+   - Loss_of_Interest (Yes): 0.8 (moderate risk due to symptoms of depression)
+   - Hours_of_Sleep (10.2): -0.2 (low risk due to adequate sleep)
+   - Employment (Employed): -0.5 (reduced risk due to stable employment)
+   - Socioeconomic_Status (Middle): -0.2 (low risk due to middle socioeconomic status)
+   - Drinks_Coffee (No): 0.0 (no increased risk)
+   - Likes_Vegetables (Yes): -0.5 (reduced risk due to healthy eating habits)
+   - Favourite_Sport (nan): 0.0 (no data, no impact)
+   - Votes (Sometimes): 0.0 (no increased risk)
+   - Height_in_Inches (63): 0.0 (no increased risk)
+   - Has_Drivers_License (No): 0.2 (low risk due to potential social isolation)
+   - Picks_Up_Litter (Never): 0.0 (no increased risk)
+   - Uses_Public_Transportation (Never): 0.2 (low risk due to potential social isolation)
+   - Donated_Blood (Yes): -0.2 (low risk due to altruistic behavior)
+   - Birthday_Month (June): 0.0 (no increased risk)
+
+3. The patient's hospitalization risk is elevated due to a combination of factors including family history of cancer, anxiety diagnosis, mild depression, and social isolation indicators, which collectively contribute to a moderate to high risk profile. However, the presence of stable employment, middle socioeconomic status, and healthy eating habits somewhat mitigates this risk, resulting in a final score of 6.2.

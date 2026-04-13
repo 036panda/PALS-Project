@@ -1,0 +1,14 @@
+1. Final Hospitalization Risk Score: 6.8
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 22, impact: -1.5 (young age generally lowers health risks)
+   - BMI: 23.8, impact: -0.5 (normal weight, slightly lowers risk)
+   - Family_Health_History: Cancer, impact: +1.2 (family history of cancer increases risk)
+   - Current_Diagnosis: Anxiety, impact: +1.8 (anxiety can increase risk of hospitalization)
+   - HAM-D: 25+, impact: +3.5 (severe depression significantly increases risk)
+   - Smoking: Yes, impact: +2.0 (smoking increases health risks)
+   - Weekly_Alcohol_Intake: 7, impact: +0.8 (moderate alcohol intake slightly increases risk)
+   - Socioeconomic_Status: Low, impact: +1.0 (lower socioeconomic status can increase health risks)
+   - Hours_of_Sleep: 6.3, impact: -0.2 (adequate sleep, slightly lowers risk)
+   - Other attributes (Race, Gender, Sexual_Orientation, Employment, etc.): +0.7 (cumulative minor impacts from various factors)
+   Total: 6.8
+3. The patient's severe depression, anxiety diagnosis, smoking habit, and family history of cancer contribute significantly to the hospitalization risk, while young age and normal weight slightly mitigate these factors. Overall, the patient's mental health and lifestyle factors drive the elevated risk score.

@@ -1,0 +1,15 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: 52: +0.5 (increased risk with age)
+   - BMI: 23.2: +0.1 (slightly elevated risk due to being near the upper end of normal weight)
+   - Family_Health_History: Asthma: +0.8 (increased risk due to family history of respiratory condition)
+   - Current_Diagnosis: Anxiety: +1.2 (significant risk due to current mental health condition)
+   - Weekly_Alcohol_Intake: 5: +0.3 (moderate risk due to alcohol consumption)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (reduced risk due to no signs of depression)
+   - Hours_of_Sleep: 7.4: -0.2 (reduced risk due to adequate sleep)
+   - Employment: Employed: -0.4 (reduced risk due to stable employment)
+   - Socioeconomic_Status: Middle: -0.3 (reduced risk due to middle socioeconomic status)
+   - Exercises: Yes: -0.6 (reduced risk due to regular exercise)
+   - Allergy: Shellfish: +0.2 (slight increased risk due to specific allergy)
+   - Other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering the impact of physical health, mental health, lifestyle, and socioeconomic status on the likelihood of hospitalization. The score reflects a moderate risk level due to the combination of anxiety diagnosis, family health history, and lifestyle factors, balanced by protective factors such as regular exercise and stable employment.

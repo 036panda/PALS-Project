@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attribute impacts:
+   - Age (31): -0.5 (younger age generally associated with lower risk)
+   - BMI (29.7): +1.2 (high BMI indicating potential health issues)
+   - Family_Health_History (nan): 0 (no information, no impact)
+   - Current_Diagnosis (Schizophrenia): +2.5 (serious mental health condition)
+   - Race (White): 0 (no specific risk adjustment for this factor)
+   - Gender (Female): 0 (no specific risk adjustment for this factor)
+   - Sexual_Orientation (Bisexual): 0 (no specific risk adjustment for this factor)
+   - Weekly_Alcohol_Intake (4): +0.5 (moderate alcohol intake may contribute to health issues)
+   - Smoking (No): -0.5 (non-smoker, lower risk)
+   - HAM-D (7–17: Mild Depression): +1.0 (mild depression indicating some mental health risk)
+   - Been_Sad_or_Fatigued (No): -0.2 (less likely to be at immediate risk)
+   - Loss_of_Interest (Yes): +0.8 (indicative of depressive symptoms)
+   - Hours_of_Sleep (7.1): -0.2 (adequate sleep, lower risk)
+   - Employment (Employed): -0.5 (stable employment, lower risk)
+   - Socioeconomic_Status (Low): +1.0 (lower socioeconomic status associated with higher health risks)
+   - Drinks_Coffee (No): 0 (no specific risk adjustment for this factor)
+   - Likes_Vegetables (No): +0.2 (poor dietary habits may contribute to health issues)
+   - Favourite_Sport (nan): 0 (no information, no impact)
+   - Votes (Always): 0 (no specific risk adjustment for this factor)
+   - Height_in_Inches (71): 0 (no specific risk adjustment for this factor)
+
+3. The patient's hospitalization risk is elevated due to the presence of schizophrenia and mild depression, compounded by socioeconomic factors and lifestyle choices, such as moderate alcohol intake and poor dietary habits. However, the patient's stable employment and adequate sleep patterns somewhat mitigate these risks, resulting in a moderate overall risk score.

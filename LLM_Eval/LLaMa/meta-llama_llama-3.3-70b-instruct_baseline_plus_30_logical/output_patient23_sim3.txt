@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 56: 2.1 (positive, as older age is associated with higher hospitalization risk)
+   - BMI: 31.1: 1.8 (positive, as high BMI is associated with higher hospitalization risk)
+   - Family_Health_History: Asthma: 0.8 (positive, as family history of asthma may increase hospitalization risk)
+   - Current_Diagnosis: Scizophrenia: 1.2 (positive, as schizophrenia is associated with higher hospitalization risk)
+   - Race: Black: 0.2 (positive, as some studies suggest higher hospitalization rates in Black populations)
+   - Gender: Other: 0.1 (positive, as some studies suggest unique health challenges in non-binary populations)
+   - Weekly_Alcohol_Intake: 0: -0.5 (negative, as zero alcohol intake is associated with lower hospitalization risk)
+   - Smoking: No: -0.8 (negative, as non-smoking is associated with lower hospitalization risk)
+   - HAM-D: 0–6: Normal / No Depression: -0.6 (negative, as no depression is associated with lower hospitalization risk)
+   - Been_Sad_or_Fatigued: No: -0.3 (negative, as no sadness or fatigue is associated with lower hospitalization risk)
+   - Loss_of_Interest: Yes: 0.5 (positive, as loss of interest may be associated with higher hospitalization risk)
+   - Hours_of_Sleep: 8.0: -0.2 (negative, as adequate sleep is associated with lower hospitalization risk)
+   - Employment: Employed: -0.4 (negative, as employment is associated with lower hospitalization risk)
+   - Socioeconomic_Status: Middle: -0.1 (negative, as middle socioeconomic status is associated with lower hospitalization risk)
+   - All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, demographic characteristics, and lifestyle factors, with a focus on established causal relationships between these factors and hospitalization risk. The score reflects the cumulative effect of positive and negative contributions from each factor, providing a comprehensive assessment of the individual's hospitalization risk.

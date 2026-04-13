@@ -1,0 +1,11 @@
+1. Final Hospitalization Risk Score: 4.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 18, Impact: -0.5 (young age generally lowers health risks)
+   - BMI: 30.9, Impact: 1.5 (high BMI increases health risks)
+   - Current_Diagnosis: Bipolar, Impact: 2.0 (bipolar disorder increases risk of hospitalization)
+   - Loss_of_Interest: Yes, Impact: 1.0 (loss of interest can be a symptom of depression or other conditions increasing risk)
+   - HAM-D: 0–6, Impact: -1.0 (normal depression score lowers risk)
+   - Hours_of_Sleep: 9.7, Impact: -0.5 (adequate sleep generally lowers health risks)
+   - Allergy: Penecillin, Impact: 0.2 (allergy to a common antibiotic may slightly increase medical risk)
+   - Other attributes: 0.0 (no significant impact on hospitalization risk)
+3. The patient's hospitalization risk is primarily driven by their bipolar diagnosis and high BMI, which are mitigated to some extent by their young age, normal depression score, and adequate sleep habits. Overall, the risk assessment reflects a balance between these factors, indicating a moderate risk of hospitalization.

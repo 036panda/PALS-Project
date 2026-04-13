@@ -1,0 +1,18 @@
+1. Risk Score: 6.8
+2. Input Factors and Contributions:
+   - Age: 40, Contribution: 0.5 (positive, as increasing age can lead to higher health risks)
+   - BMI: 34.6, Contribution: 1.2 (positive, as high BMI is associated with various health issues)
+   - Family_Health_History: Cancer, Contribution: 1.5 (positive, indicating a potential genetic predisposition to serious health conditions)
+   - Current_Diagnosis: Bipolar, Contribution: 1.8 (positive, due to the complexity and potential severity of the condition)
+   - Race: White, Contribution: 0 (neutral, as race alone does not directly contribute to hospitalization risk in this context)
+   - Gender: Non-binary, Contribution: 0 (neutral, as gender identity does not directly influence hospitalization risk)
+   - Sexual_Orientation: Bisexual, Contribution: 0 (neutral, as sexual orientation does not directly affect hospitalization risk)
+   - Weekly_Alcohol_Intake: 4, Contribution: 0.5 (positive, as moderate alcohol consumption can have health implications)
+   - Smoking: No, Contribution: -1 (negative, as not smoking reduces health risks)
+   - HAM-D: 7–17 (Mild Depression), Contribution: 1 (positive, indicating a mental health condition that could require hospitalization)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (negative, suggesting fewer symptoms of depression)
+   - Loss_of_Interest: Yes, Contribution: 1 (positive, as a symptom of depression that can indicate severity)
+   - Hours_of_Sleep: 8.9, Contribution: -0.5 (negative, as adequate sleep is beneficial for health)
+   - Employment: Employed, Contribution: -0.5 (negative, as employment can indicate stability and access to healthcare)
+   - Socioeconomic_Status: Middle, Contribution: -0.5 (negative, as middle socioeconomic status may provide access to healthcare resources)
+3. The risk score calculation is based on the summation of positive and negative contributions from various health, lifestyle, and socioeconomic factors, reflecting their potential impact on hospitalization risk. This approach logically integrates the individual's health conditions, behaviors, and social determinants to estimate their unique risk profile.

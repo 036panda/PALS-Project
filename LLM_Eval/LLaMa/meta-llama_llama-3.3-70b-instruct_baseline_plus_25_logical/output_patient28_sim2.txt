@@ -1,0 +1,13 @@
+1. 4.2
+2. 
+- Age: 25: -0.5 (lower risk due to younger age)
+- BMI: 28.5: 1.2 (higher risk due to overweight status)
+- Family_Health_History: Hypertension: 1.0 (higher risk due to family history of hypertension)
+- Current_Diagnosis: Bipolar: 1.5 (higher risk due to mental health condition)
+- Weekly_Alcohol_Intake: 7: 0.5 (moderate risk due to alcohol consumption)
+- HAM-D: 0–6: Normal / No Depression: -1.0 (lower risk due to no depression)
+- Hours_of_Sleep: 7.8: -0.5 (lower risk due to adequate sleep)
+- Socioeconomic_Status: Middle: 0 (neutral risk due to middle socioeconomic status)
+- Employment: Employed: -0.5 (lower risk due to employment)
+- Other factors (Race, Gender, Sexual_Orientation, Smoking, Been_Sad_or_Fatigued, Loss_of_Interest, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone): 0 (neutral risk due to lack of direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as BMI, family health history, and current diagnosis, which have a direct causal relationship with hospitalization risk, while other factors are considered neutral due to a lack of direct causal relationship. The score reflects the individual's overall health profile, with a higher score indicating a higher risk of hospitalization.

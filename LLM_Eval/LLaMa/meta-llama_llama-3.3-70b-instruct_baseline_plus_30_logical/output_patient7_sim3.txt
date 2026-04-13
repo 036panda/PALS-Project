@@ -1,0 +1,17 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 18, contribution: -1.5 (lower risk due to younger age)
+   - BMI: 24.5, contribution: 0.5 (moderate risk due to slightly elevated BMI)
+   - Family_Health_History: Asthma, contribution: 1.2 (increased risk due to family history of asthma)
+   - Current_Diagnosis: Schizophrenia, contribution: 2.5 (high risk due to severe mental health condition)
+   - Race: Native American, contribution: 0.2 (slightly increased risk due to potential health disparities)
+   - Gender: Male, contribution: 0.1 (slightly increased risk due to potential health differences)
+   - Smoking: Yes, contribution: 1.8 (high risk due to smoking)
+   - HAM-D: 18-24, contribution: 1.5 (moderate to high risk due to moderate depression)
+   - Been_Sad_or_Fatigued: Yes, contribution: 0.5 (moderate risk due to symptoms of depression)
+   - Loss_of_Interest: Yes, contribution: 0.5 (moderate risk due to symptoms of depression)
+   - Hours_of_Sleep: 8.3, contribution: -0.2 (lower risk due to adequate sleep)
+   - Socioeconomic_Status: Middle, contribution: -0.5 (lower risk due to middle socioeconomic status)
+   - Weekly_Alcohol_Intake: 0, contribution: -0.5 (lower risk due to no alcohol intake)
+   - All other factors: 0 (no direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health conditions, behaviors, and socioeconomic factors, with a focus on the causal relationships between these factors and the likelihood of hospitalization. The score reflects the cumulative effect of the individual's schizophrenia diagnosis, family history of asthma, smoking habits, and moderate depression, among other factors.

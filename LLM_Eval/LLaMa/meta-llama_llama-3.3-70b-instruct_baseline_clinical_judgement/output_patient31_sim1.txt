@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (36): 0.5 (moderate risk due to being an adult with potential for chronic conditions)
+   - BMI (36.8): 1.8 (high risk due to obesity, which is a significant risk factor for various health issues)
+   - Family_Health_History (Hypertension): 1.2 (increased risk due to genetic predisposition to cardiovascular diseases)
+   - Current_Diagnosis (nan): 0 (no impact, as there's no current diagnosis provided)
+   - Race (Black): 0.8 (increased risk due to potential disparities in healthcare access and outcomes)
+   - Gender (Non-binary): 0 (neutral, as there's no direct correlation with hospitalization risk)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, as there's no direct correlation with hospitalization risk)
+   - Weekly_Alcohol_Intake (7): 0.5 (moderate risk due to potential for alcohol-related health issues)
+   - Smoking (Yes): 1.5 (high risk due to smoking being a major risk factor for numerous health conditions)
+   - HAM-D (0–6: Normal / No Depression): -0.5 (reduced risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (increased risk due to potential underlying mental health issues)
+   - Loss_of_Interest (Yes): 0.8 (increased risk due to potential underlying mental health issues)
+   - Hours_of_Sleep (5.7): 0.8 (increased risk due to sleep deprivation)
+   - Employment (Employed): -0.5 (reduced risk due to stable socioeconomic status)
+   - Socioeconomic_Status (Middle): -0.5 (reduced risk due to access to healthcare and resources)
+
+3. The patient's high BMI, smoking status, and family history of hypertension significantly increase their risk for hospitalization, while their employment and socioeconomic status somewhat mitigate this risk. Overall, the combination of lifestyle factors, potential mental health concerns, and genetic predispositions places this patient at a moderate to high risk for hospitalization.

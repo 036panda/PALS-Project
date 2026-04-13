@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 2.5
+
+2. Breakdown of individual attribute impacts:
+   - Age: 32: -0.5 (lower risk due to relatively young age)
+   - BMI: 23.2: -0.2 (lower risk due to normal BMI)
+   - Family_Health_History: nan: 0 (no impact due to missing data)
+   - Current_Diagnosis: nan: 0 (no impact due to missing data)
+   - Race: Other: 0 (no specific risk association)
+   - Gender: Other: 0 (no specific risk association)
+   - Sexual_Orientation: Heterosexual: 0 (no specific risk association)
+   - Weekly_Alcohol_Intake: 6: 0.5 (moderate risk due to alcohol consumption)
+   - Smoking: No: -0.5 (lower risk due to non-smoking status)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued: No: -0.2 (lower risk due to no reported sadness or fatigue)
+   - Loss_of_Interest: No: -0.2 (lower risk due to no reported loss of interest)
+   - Hours_of_Sleep: 6.8: 0.2 (slightly higher risk due to less than optimal sleep hours)
+   - Employment: Employed: -0.5 (lower risk due to employment status)
+   - Socioeconomic_Status: High: -0.5 (lower risk due to high socioeconomic status)
+   - Drinks_Coffee: Yes: 0.1 (slight risk due to potential caffeine-related issues)
+   - Likes_Vegetables: No: 0.3 (moderate risk due to potential nutritional deficiencies)
+   - Favourite_Sport: Basketball: 0 (no specific risk association)
+   - Votes: Sometimes: 0 (no specific risk association)
+   - Height_in_Inches: 71: 0 (no specific risk association)
+   - Has_Drivers_License: No: 0.1 (slight risk due to potential mobility limitations)
+   - Picks_Up_Litter: Never: 0 (no specific risk association)
+   - Uses_Public_Transportation: Always: 0.2 (slight risk due to potential exposure to infections)
+   - Donated_Blood: No: 0 (no specific risk association)
+   - Birthday_Month: May: 0 (no specific risk association)
+
+3. The patient's overall low risk profile is primarily due to their young age, normal BMI, lack of smoking, absence of depression, and high socioeconomic status, which collectively outweigh the moderate risks associated with alcohol intake and less-than-optimal sleep hours. The clinical assessment suggests a low likelihood of hospitalization, primarily driven by the patient's healthy lifestyle and demographic factors.

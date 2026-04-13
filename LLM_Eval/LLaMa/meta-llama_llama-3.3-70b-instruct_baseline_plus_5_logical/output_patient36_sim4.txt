@@ -1,0 +1,25 @@
+1. Risk Score: 8.2
+
+2. Input Factors and Contributions:
+   - Age (68): +2.5 (increased risk due to age-related health decline)
+   - BMI (29.7): +1.2 (increased risk due to obesity-related health issues)
+   - Family_Health_History (Hypertension): +1.0 (increased risk due to genetic predisposition to cardiovascular diseases)
+   - Current_Diagnosis (Schizophrenia): +1.5 (increased risk due to mental health condition)
+   - Race (Hispanic): +0.5 (increased risk due to potential socioeconomic and healthcare access disparities)
+   - Gender (Other): +0.2 (potential increased risk due to minority stress and healthcare disparities)
+   - Sexual_Orientation (Bisexual): +0.2 (potential increased risk due to minority stress and healthcare disparities)
+   - Weekly_Alcohol_Intake (3): +0.5 (increased risk due to alcohol consumption)
+   - Smoking (Yes): +1.0 (increased risk due to smoking-related health issues)
+   - HAM-D (25+): +2.0 (increased risk due to severe depression)
+   - Been_Sad_or_Fatigued (Yes): +0.8 (increased risk due to symptoms of depression)
+   - Loss_of_Interest (Yes): +0.8 (increased risk due to symptoms of depression)
+   - Hours_of_Sleep (7.7): -0.2 (slightly decreased risk due to adequate sleep)
+   - Employment (Retired): +0.5 (potential increased risk due to decreased social interaction and physical activity)
+   - Socioeconomic_Status (Low): +1.0 (increased risk due to limited access to healthcare and resources)
+   - Drinks_Coffee (Yes): -0.1 (slightly decreased risk due to potential health benefits of moderate coffee consumption)
+   - Likes_Vegetables (No): +0.3 (increased risk due to potential poor diet)
+   - Favourite_Sport (Hockey): -0.1 (slightly decreased risk due to potential physical activity)
+   - Votes (Never): +0.2 (potential increased risk due to disengagement from community and social services)
+   - Height_in_Inches (59): -0.1 (slightly decreased risk due to average height)
+
+3. The hospitalization risk score is calculated based on the cumulative effect of various risk factors, including age, health conditions, lifestyle choices, and socioeconomic status, which collectively contribute to an individual's likelihood of requiring hospitalization. The assigned contributions reflect the logical and causal relationships between these factors and hospitalization risk, with a higher score indicating a greater risk.

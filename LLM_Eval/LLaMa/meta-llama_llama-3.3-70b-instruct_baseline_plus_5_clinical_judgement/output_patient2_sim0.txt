@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (40): 0.5 (moderate risk due to increasing age)
+   - BMI (34.6): 1.2 (high risk due to obesity)
+   - Family_Health_History (Cancer): 1.0 (high risk due to genetic predisposition)
+   - Current_Diagnosis (Bipolar): 1.5 (high risk due to mental health condition)
+   - Race (White): 0.0 (neutral, no increased risk)
+   - Gender (Non-binary): 0.0 (neutral, no increased risk)
+   - Sexual_Orientation (Bisexual): 0.0 (neutral, no increased risk)
+   - Weekly_Alcohol_Intake (4): 0.5 (moderate risk due to alcohol consumption)
+   - Smoking (No): -0.5 (reduced risk due to non-smoking status)
+   - HAM-D (7–17: Mild Depression): 1.0 (high risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued (No): -0.2 (slightly reduced risk)
+   - Loss_of_Interest (Yes): 1.0 (high risk due to symptom of depression)
+   - Hours_of_Sleep (8.9): -0.2 (slightly reduced risk due to adequate sleep)
+   - Employment (Employed): -0.5 (reduced risk due to stable employment)
+   - Socioeconomic_Status (Middle): -0.2 (slightly reduced risk due to middle socioeconomic status)
+   - Drinks_Coffee (Yes): 0.0 (neutral, no increased risk)
+   - Likes_Vegetables (No): 0.2 (slightly increased risk due to potential poor diet)
+   - Favourite_Sport (nan): 0.0 (neutral, no impact)
+   - Votes (Always): 0.0 (neutral, no impact)
+   - Height_in_Inches (70): 0.0 (neutral, no impact)
+
+3. The patient's hospitalization risk is elevated due to their bipolar diagnosis, mild depression, obesity, and family history of cancer, which collectively contribute to a higher risk profile. However, their stable employment, adequate sleep, and non-smoking status somewhat mitigate this risk, resulting in a final score of 6.8.

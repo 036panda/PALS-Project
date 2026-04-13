@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 18, -0.5 (young adults generally have lower hospitalization risk)
+   - BMI: 24.5, 0.2 (slightly above normal, minor risk increase)
+   - Family_Health_History: Asthma, 0.8 (increased risk due to respiratory condition)
+   - Current_Diagnosis: Schizophrenia, 2.5 (significant risk increase due to mental health condition)
+   - Race: Native American, 0.3 (minor risk increase due to potential healthcare disparities)
+   - Gender: Male, 0.1 (slight risk increase)
+   - Smoking: Yes, 1.2 (increased risk due to smoking)
+   - HAM-D: 18-24, 1.5 (moderate depression increases risk)
+   - Been_Sad_or_Fatigued: Yes, 0.5 (increases risk)
+   - Loss_of_Interest: Yes, 0.5 (increases risk)
+   - Hours_of_Sleep: 8.3, -0.2 (adequate sleep, minor risk decrease)
+   - Socioeconomic_Status: Middle, -0.1 (minor risk decrease due to access to resources)
+   - Weekly_Alcohol_Intake: 0, -0.5 (no alcohol intake, minor risk decrease)
+   - Other attributes (e.g., employment, sexual orientation, coffee consumption, sports preference, voting habits, height, driver's license, litter picking, public transportation use, blood donation, birthday month) have a negligible impact on hospitalization risk, summing to 0.
+3. The patient's hospitalization risk is significantly influenced by their schizophrenia diagnosis, moderate depression, and smoking habit, which collectively increase their risk profile. However, their young age, middle socioeconomic status, and absence of alcohol intake contribute to a slightly lower risk score.

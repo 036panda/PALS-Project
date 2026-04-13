@@ -1,0 +1,14 @@
+1. Risk Assessment Score: 6.5
+2. Parameters and associated risk values:
+	* Age: 18: -1 (young age, lower risk)
+	* BMI: 24.5: 0.5 (slightly elevated BMI, moderate risk)
+	* Family_Health_History: Asthma: 1 (increased risk due to family history of chronic condition)
+	* Current_Diagnosis: Schizophrenia: 2 (high risk due to severe mental health condition)
+	* Smoking: Yes: 2 (high risk due to smoking)
+	* HAM-D: 18-24: Moderate Depression: 1.5 (moderate risk due to depression)
+	* Been_Sad_or_Fatigued: Yes: 0.5 (moderate risk due to symptoms of depression)
+	* Loss_of_Interest: Yes: 0.5 (moderate risk due to symptoms of depression)
+	* Socioeconomic_Status: Middle: 0 (neutral risk)
+	* Employment: Student: -0.5 (lower risk due to student status)
+	* Weekly_Alcohol_Intake: 0: -1 (lower risk due to no alcohol intake)
+3. The patient's risk score is driven by their schizophrenia diagnosis, smoking status, and moderate depression, which contribute to a higher risk of hospitalization. However, their young age, student status, and lack of alcohol intake help mitigate this risk to some extent.

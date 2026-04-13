@@ -1,0 +1,18 @@
+1. Risk Score: 4.8
+2. Input Factors and Contributions:
+   - Age: -1.5 (lower risk due to younger age)
+   - BMI: -0.5 (lower risk due to normal BMI)
+   - Family_Health_History: Cancer: +1.0 (increased risk due to family history of cancer)
+   - Current_Diagnosis: Bipolar: +2.0 (increased risk due to bipolar diagnosis)
+   - Race: Black: +0.5 (increased risk due to racial health disparities)
+   - Gender: Male: +0.2 (slightly increased risk due to gender)
+   - Sexual_Orientation: Heterosexual: 0 (no contribution)
+   - Weekly_Alcohol_Intake: 0: 0 (no contribution)
+   - Smoking: No: 0 (no contribution)
+   - HAM-D: 7–17: Mild Depression: +1.5 (increased risk due to mild depression)
+   - Been_Sad_or_Fatigued: No: 0 (no contribution)
+   - Loss_of_Interest: No: 0 (no contribution)
+   - Hours_of_Sleep: 5.7: +0.1 (slightly increased risk due to sleep deprivation)
+   - Employment: Student: -0.5 (lower risk due to student status)
+   - Socioeconomic_Status: Low: +1.0 (increased risk due to low socioeconomic status)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, with each factor contributing positively or negatively to the overall score. The score reflects the cumulative effect of the individual's health conditions, lifestyle, and socioeconomic factors on their risk of hospitalization.

@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Detailed breakdown:
+   - Age (34): -0.5 (lower risk due to being in a relatively young adult category)
+   - BMI (24.2): -0.2 (slightly below the average risk, as it's near the normal range)
+   - Family_Health_History (nan): 0 (no impact due to missing information)
+   - Current_Diagnosis (Bipolar): 2.0 (significant positive impact due to the chronic nature of the condition)
+   - Race (Hispanic): 0.2 (slight positive impact due to potential socioeconomic and access-to-care factors)
+   - Gender (Female): 0.1 (slight positive impact due to generally higher healthcare utilization rates)
+   - Sexual_Orientation (Heterosexual): 0 (neutral impact)
+   - Weekly_Alcohol_Intake (1): -0.1 (slight negative impact due to low intake)
+   - Smoking (No): -0.3 (negative impact due to reduced health risks)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (significant negative impact due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): 1.2 (positive impact due to potential underlying mental health issues)
+   - Loss_of_Interest (No): -0.5 (negative impact due to absence of this symptom)
+   - Hours_of_Sleep (8.3): -0.2 (slight negative impact due to adequate sleep)
+   - Employment (Employed): -0.5 (negative impact due to stability and access to healthcare)
+   - Socioeconomic_Status (Low): 1.5 (positive impact due to potential barriers to healthcare access and increased stress)
+   - Drinks_Coffee (No): 0 (neutral impact)
+   - Likes_Vegetables (No): 0.1 (slight positive impact due to potential health implications)
+   - Favourite_Sport (Soccer): 0 (neutral impact)
+   - Votes (Sometimes): 0 (neutral impact)
+   - Height_in_Inches (60): 0 (neutral impact)
+   - Has_Drivers_License (Yes): -0.1 (slight negative impact due to increased mobility and access to healthcare)
+   - Picks_Up_Litter (Never): 0.1 (slight positive impact due to potential community and environmental disengagement)
+   - Uses_Public_Transportation (Always): 0.2 (slight positive impact due to potential socioeconomic factors)
+   - Donated_Blood (No): 0 (neutral impact)
+   - Birthday_Month (November): 0 (neutral impact)
+
+3. The patient's hospitalization risk is influenced significantly by their bipolar diagnosis and socioeconomic status, indicating potential challenges in managing their condition due to access-to-care barriers, despite their employment and lack of depressive symptoms at the time of evaluation. The presence of sadness or fatigue also contributes to the risk, suggesting ongoing mental health challenges that require monitoring and appropriate intervention.

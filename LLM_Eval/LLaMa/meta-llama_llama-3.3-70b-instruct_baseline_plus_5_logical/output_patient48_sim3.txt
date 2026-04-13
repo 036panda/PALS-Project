@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 46: 0.8 (positive, as increasing age is associated with higher health risks)
+   - BMI: 28.3: 1.2 (positive, as higher BMI is linked to increased health risks)
+   - Family_Health_History: Heart Disease: 1.5 (positive, due to genetic predisposition)
+   - Current_Diagnosis: Bipolar: 2.0 (positive, reflecting the complexity of managing bipolar disorder)
+   - Race: Native American: 0.5 (positive, considering health disparities)
+   - Gender: Non-binary: 0.0 (neutral, as there's no direct causal link provided)
+   - Sexual_Orientation: Heterosexual: 0.0 (neutral, as there's no direct causal link provided)
+   - Weekly_Alcohol_Intake: 2: -0.2 (negative, as moderate alcohol intake can have protective effects)
+   - Smoking: No: -0.5 (negative, as not smoking reduces health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (negative, indicating lower risk of depression)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative, suggesting lower risk of mental health issues)
+   - Loss_of_Interest: Yes: 1.0 (positive, as it can be a symptom of underlying mental health issues)
+   - Hours_of_Sleep: 7.0: -0.2 (negative, as adequate sleep reduces health risks)
+   - Employment: Employed: -0.5 (negative, as employment can provide stability and access to healthcare)
+   - Socioeconomic_Status: Middle: -0.3 (negative, as middle socioeconomic status may provide better access to healthcare)
+   - Drinks_Coffee: Yes: 0.0 (neutral, as the effect of coffee on health is complex and not directly linked to hospitalization risk)
+   - Likes_Vegetables: Yes: -0.2 (negative, as a healthy diet reduces health risks)
+   - Favourite_Sport: Basketball: 0.0 (neutral, as there's no direct causal link provided)
+   - Votes: Never: 0.0 (neutral, as there's no direct causal link provided)
+   - Height_in_Inches: 65: 0.0 (neutral, as height is not directly linked to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, including their medical history, lifestyle, and socioeconomic status, with each factor contributing positively or negatively to the overall risk. The score reflects the cumulative effect of these factors on the individual's likelihood of hospitalization, considering both the presence of health risks and the protective effects of healthy behaviors and stable socioeconomic conditions.

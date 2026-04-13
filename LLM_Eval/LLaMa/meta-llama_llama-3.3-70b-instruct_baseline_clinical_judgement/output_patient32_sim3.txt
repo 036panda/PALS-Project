@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 7.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (19): -1.5 (younger individuals are generally less likely to be hospitalized due to better physical health and resilience)
+   - BMI (17.6): 1.2 (underweight, which can be associated with higher health risks, including mental health issues)
+   - Family_Health_History (Diabetes): 0.8 (while diabetes itself isn't directly linked to psychiatric hospitalization, a family history of chronic illness can indicate a predisposition to health issues)
+   - Current_Diagnosis (Schizophrenia): 3.5 (a severe mental health condition that significantly increases the risk of hospitalization)
+   - Race (White): 0 (no direct impact, as race alone is not a determinant of hospitalization risk in this context)
+   - Gender (Non-binary): 0 (no direct impact, as gender identity alone does not increase hospitalization risk)
+   - Sexual_Orientation (Heterosexual): 0 (no direct impact, as sexual orientation alone does not influence hospitalization risk)
+   - Weekly_Alcohol_Intake (3): -0.5 (moderate alcohol intake, which may not significantly increase risk but could be a factor depending on the context)
+   - Smoking (No): -0.5 (not smoking reduces health risks, including those related to mental health)
+   - HAM-D (25+): 2.5 (severe depression is a significant risk factor for hospitalization)
+   - Been_Sad_or_Fatigued (No): -0.5 (not experiencing sadness or fatigue reduces the immediate risk of hospitalization)
+   - Loss_of_Interest (Yes): 1.0 (loss of interest can be a symptom of severe depression, increasing hospitalization risk)
+   - Hours_of_Sleep (8.0): -0.5 (adequate sleep reduces health risks, including mental health issues)
+   - Employment (Student): -0.5 (being a student can provide structure and support, reducing hospitalization risk)
+   - Socioeconomic_Status (High): -1.0 (higher socioeconomic status can provide better access to healthcare and support, reducing hospitalization risk)
+
+3. The patient's severe depression and schizophrenia significantly increase their risk of hospitalization, necessitating close monitoring and appropriate treatment to mitigate these risks. Despite factors such as young age, high socioeconomic status, and being a student that might reduce the risk, the presence of severe mental health conditions dominates the risk assessment.

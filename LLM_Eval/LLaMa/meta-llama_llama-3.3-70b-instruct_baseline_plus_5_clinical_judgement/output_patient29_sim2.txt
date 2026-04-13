@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 22: -1.5 (lower risk due to younger age)
+   - BMI: 35.9: 2.5 (higher risk due to obesity)
+   - Family_Health_History: Cancer: 1.2 (higher risk due to family history of cancer)
+   - Current_Diagnosis: Anxiety: 1.8 (higher risk due to anxiety diagnosis)
+   - Race: Hispanic: 0.5 (slightly higher risk due to potential healthcare disparities)
+   - Gender: Female: 0.2 (slightly lower risk due to gender)
+   - Sexual_Orientation: Bisexual: 0.1 (minimal impact)
+   - Weekly_Alcohol_Intake: 4: 0.8 (moderate risk due to alcohol intake)
+   - Smoking: No: -1.0 (lower risk due to non-smoking status)
+   - HAM-D: 7–17: Mild Depression: 1.5 (higher risk due to mild depression)
+   - Been_Sad_or_Fatigued: No: -0.5 (lower risk due to absence of sad or fatigued feelings)
+   - Loss_of_Interest: No: -0.5 (lower risk due to absence of loss of interest)
+   - Hours_of_Sleep: 5.7: 1.0 (higher risk due to inadequate sleep)
+   - Employment: Student: -0.5 (lower risk due to student status)
+   - Socioeconomic_Status: Middle: 0.0 (neutral impact)
+   - Drinks_Coffee: No: 0.0 (neutral impact)
+   - Likes_Vegetables: No: 0.2 (slightly higher risk due to unhealthy diet)
+   - Favourite_Sport: Soccer: 0.0 (neutral impact)
+   - Votes: Sometimes: 0.0 (neutral impact)
+   - Height_in_Inches: 61: 0.0 (neutral impact)
+3. The patient's hospitalization risk is influenced by their obesity, family history of cancer, anxiety diagnosis, and mild depression, which contribute to a moderate risk score. However, their young age, non-smoking status, and student employment status help mitigate this risk, resulting in a final score of 6.2.

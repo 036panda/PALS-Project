@@ -1,0 +1,20 @@
+1. 4.21
+2. 
+- Age: 49: 0.31 (positive, as increasing age is associated with higher hospitalization risk)
+- BMI: 23.2: -0.15 (negative, as a BMI within the normal range is associated with lower hospitalization risk)
+- Family_Health_History: Asthma: 0.42 (positive, as a family history of asthma may increase the risk of respiratory issues)
+- Current_Diagnosis: Anxiety: 0.65 (positive, as anxiety can contribute to various health issues)
+- Race: Hispanic: 0.11 (positive, as certain racial groups may have higher risks due to socioeconomic and healthcare access factors)
+- Gender: Male: 0.05 (positive, as males may have higher risks for certain conditions)
+- Weekly_Alcohol_Intake: 4: 0.21 (positive, as moderate alcohol intake can still pose health risks)
+- Smoking: No: -0.35 (negative, as not smoking reduces the risk of various health issues)
+- HAM-D: 0–6: Normal / No Depression: -0.42 (negative, as no depression reduces the risk of mental health-related hospitalizations)
+- Been_Sad_or_Fatigued: No: -0.18 (negative, as not experiencing sadness or fatigue reduces the risk of mental health issues)
+- Loss_of_Interest: Yes: 0.51 (positive, as loss of interest can be a symptom of underlying mental health issues)
+- Hours_of_Sleep: 9.4: -0.23 (negative, as adequate sleep reduces the risk of various health issues)
+- Employment: Employed: -0.29 (negative, as being employed can reduce stress and increase access to healthcare)
+- Socioeconomic_Status: High: -0.41 (negative, as higher socioeconomic status can increase access to healthcare and reduce stress)
+- Drinks_Coffee: Yes: 0.08 (positive, as moderate coffee consumption may have mixed health effects)
+- Likes_Vegetables: No: 0.14 (positive, as not liking vegetables may indicate a less healthy diet)
+- Other factors (Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Allergy, Binge_Watches_TV, Favourite_Super_Store, Pet_Preference, Volunteers, Skips_Breakfast, Favourite_Movie_Genre, Registered_Organ_Donor, Annual_Charity_Donation, Favourite_Cuisine, Exercises, Likes_Art, Academic_Preference): 0.00 (neutral, as these factors do not have a clear, direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as age, family health history, and current diagnosis, which have a logical and causal relationship with the risk of hospitalization. The score reflects the cumulative effect of these factors, with positive contributions indicating an increased risk and negative contributions indicating a decreased risk.

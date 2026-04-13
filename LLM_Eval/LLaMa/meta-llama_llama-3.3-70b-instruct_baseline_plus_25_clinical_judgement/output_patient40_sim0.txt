@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 26: -0.5 (lower risk due to younger age)
+   - BMI: 29.1: 1.2 (higher risk due to overweight status)
+   - Family_Health_History: Diabetes: 1.5 (higher risk due to genetic predisposition)
+   - Current_Diagnosis: Bipolar: 2.1 (higher risk due to mental health condition)
+   - Been_Sad_or_Fatigued: Yes: 0.8 (higher risk due to symptoms of depression)
+   - Loss_of_Interest: Yes: 0.7 (higher risk due to symptoms of depression)
+   - Hours_of_Sleep: 6.2: -0.2 (lower risk due to relatively normal sleep hours)
+   - Socioeconomic_Status: Low: 1.1 (higher risk due to socioeconomic factors)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (lower risk due to no depression)
+   - Weekly_Alcohol_Intake: 3: 0.2 (slightly higher risk due to alcohol consumption)
+   - Smoking: No: -0.5 (lower risk due to no smoking)
+   - Other attributes (e.g., employment, race, gender, etc.): 0 (neutral impact)
+
+3. The patient's hospitalization risk is elevated due to their bipolar diagnosis, family history of diabetes, and socioeconomic status, despite their relatively young age and absence of smoking. However, the presence of some depressive symptoms and low socioeconomic status contribute to a moderate risk level, necessitating close monitoring and management of their mental and physical health.

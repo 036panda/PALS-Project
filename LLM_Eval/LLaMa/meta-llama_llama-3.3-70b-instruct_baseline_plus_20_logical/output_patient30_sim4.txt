@@ -1,0 +1,15 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 49: 0.5 (positive, as older age can increase health risks)
+   - BMI: 29.7: 1.2 (positive, as high BMI is associated with increased health risks)
+   - Current_Diagnosis: Bipolar: 1.5 (positive, as bipolar disorder can increase hospitalization risk)
+   - HAM-D: 7–17: Mild Depression: 1.0 (positive, as mild depression can increase hospitalization risk)
+   - Loss_of_Interest: Yes: 0.8 (positive, as loss of interest can be a symptom of depression)
+   - Hours_of_Sleep: 5.8: 0.5 (positive, as inadequate sleep can increase health risks)
+   - Weekly_Alcohol_Intake: 2: 0.2 (positive, as some alcohol intake can increase health risks)
+   - Socioeconomic_Status: Middle: -0.5 (negative, as middle socioeconomic status can decrease health risks)
+   - Employment: Employed: -0.5 (negative, as being employed can decrease health risks)
+   - Donated_Blood: Yes: -0.5 (negative, as donating blood can indicate good health)
+   - Water_Intake_oz: 42.4: -0.2 (negative, as adequate water intake can decrease health risks)
+   - All other factors: 0 (no contribution, as they are not directly related to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic characteristics, with a focus on factors that have a direct causal relationship with hospitalization risk, such as bipolar disorder, mild depression, and inadequate sleep. The score reflects the cumulative effect of these factors, with positive contributions indicating increased risk and negative contributions indicating decreased risk.

@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 6.3
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 22: -1.5 (young age generally lowers health risks)
+   - BMI: 35.9: 2.5 (high BMI increases risk of various health issues)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer may increase risk of developing cancer)
+   - Current_Diagnosis: Anxiety: 1.8 (anxiety can contribute to various health issues if not managed properly)
+   - Race: Hispanic: 0.5 (some health disparities exist, but impact varies widely among individuals)
+   - Gender: Female: -0.2 (generally, females have a slightly lower risk of hospitalization than males)
+   - Sexual_Orientation: Bisexual: 0.3 (minority stress can impact health, but effect size is small)
+   - Weekly_Alcohol_Intake: 4: 0.8 (moderate alcohol intake can have mixed effects on health)
+   - Smoking: No: -1.0 (not smoking reduces risk of many health issues)
+   - HAM-D: 7–17: Mild Depression: 1.5 (mild depression can impact daily functioning and increase health risks)
+   - Been_Sad_or_Fatigued: No: -0.5 (absence of recent sadness or fatigue reduces immediate risk)
+   - Loss_of_Interest: No: -0.5 (no loss of interest suggests better mental health status)
+   - Hours_of_Sleep: 5.7: 1.0 (inadequate sleep can increase health risks)
+   - Employment: Student: -0.8 (being a student can provide structure and access to resources, lowering risk)
+   - Socioeconomic_Status: Middle: -0.3 (middle socioeconomic status generally provides access to necessary healthcare)
+   - Drinks_Coffee: No: 0.2 (not drinking coffee may miss out on potential health benefits)
+   - Likes_Vegetables: No: 0.5 (not liking vegetables may indicate poorer dietary habits)
+   - Favourite_Sport: Soccer: -0.5 (engaging in sports can improve physical and mental health)
+   - Votes: Sometimes: 0.1 (voting behavior has a negligible direct impact on health)
+   - Height_in_Inches: 61: 0.1 (height has a minimal direct impact on hospitalization risk)
+3. The patient's high BMI, family history of cancer, and mild depression contribute significantly to the hospitalization risk, while factors such as young age, not smoking, and being a student mitigate this risk to some extent. Overall, the patient's profile suggests a moderate risk of hospitalization due to the interplay of these factors.

@@ -1,0 +1,25 @@
+1. Risk Score: 6.8
+
+2. Input Factors and Contributions:
+   - Age: 37, Contribution: 0.2 (moderate positive contribution due to increasing risk with age, though still relatively young)
+   - BMI: 20.3, Contribution: -0.5 (negative contribution indicating lower risk due to healthy BMI)
+   - Family_Health_History: Heart Disease, Contribution: 1.5 (positive contribution due to increased risk from family history of heart disease)
+   - Current_Diagnosis: Schizophrenia, Contribution: 2.0 (positive contribution due to severe mental health condition)
+   - Race: Asian, Contribution: 0 (neutral, as race alone does not directly contribute to hospitalization risk without other factors)
+   - Gender: Female, Contribution: 0 (neutral, as gender alone does not directly contribute to hospitalization risk without other factors)
+   - Sexual_Orientation: Homosexual, Contribution: 0 (neutral, as sexual orientation alone does not directly contribute to hospitalization risk without other factors)
+   - Weekly_Alcohol_Intake: 3, Contribution: 0.5 (moderate positive contribution due to potential health risks associated with alcohol)
+   - Smoking: Yes, Contribution: 1.0 (positive contribution due to significant health risks associated with smoking)
+   - HAM-D: 25+, Contribution: 2.5 (high positive contribution due to severe depression)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.2 (negative contribution indicating lower risk due to absence of reported sadness or fatigue)
+   - Loss_of_Interest: Yes, Contribution: 1.0 (positive contribution due to symptom of depression)
+   - Hours_of_Sleep: 6.3, Contribution: -0.2 (negative contribution indicating relatively adequate sleep)
+   - Employment: Employed, Contribution: -0.5 (negative contribution indicating stability and access to healthcare)
+   - Socioeconomic_Status: Middle, Contribution: -0.2 (negative contribution indicating access to resources and healthcare)
+   - Drinks_Coffee: No, Contribution: 0 (neutral, as coffee consumption alone does not directly contribute to hospitalization risk)
+   - Likes_Vegetables: Yes, Contribution: -0.3 (negative contribution indicating healthier lifestyle choices)
+   - Favourite_Sport: Basketball, Contribution: -0.2 (negative contribution indicating engagement in physical activity)
+   - Votes: Never, Contribution: 0 (neutral, as voting behavior does not directly contribute to hospitalization risk)
+   - Height_in_Inches: 71, Contribution: 0 (neutral, as height alone does not directly contribute to hospitalization risk without other factors)
+
+3. The risk score calculation is based on the summation of positive and negative contributions from various factors, reflecting their causal relationships with hospitalization risk, such as the presence of severe depression, schizophrenia, smoking, and family history of heart disease, which are balanced against protective factors like employment, healthy BMI, and engagement in physical activity. This approach logically integrates the individual's health conditions, lifestyle, and socioeconomic factors to estimate their hospitalization risk.

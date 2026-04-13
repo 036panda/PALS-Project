@@ -1,0 +1,17 @@
+1. Risk Assessment Score: 6.2
+2. Parameters and risk values:
+	* Age: -0.5 (young age, lower risk)
+	* BMI: 1.5 (overweight, higher risk)
+	* Family_Health_History: 1.0 (diabetes, higher risk)
+	* Current_Diagnosis: 2.0 (bipolar, higher risk)
+	* Socioeconomic_Status: 1.0 (low, higher risk)
+	* Been_Sad_or_Fatigued: 1.0 (yes, higher risk)
+	* Loss_of_Interest: 1.0 (yes, higher risk)
+	* Hours_of_Sleep: -0.5 (6.2 hours, relatively normal)
+	* Smoking: -1.0 (no, lower risk)
+	* HAM-D: -1.0 (normal, lower risk)
+	* Weekly_Alcohol_Intake: 0.5 (3 units, moderate risk)
+	* Allergy: 0.5 (milk/eggs, potential health issue)
+	* Exercises: 1.0 (no, higher risk)
+	* Other parameters: 0 (no significant impact on hospitalization risk)
+3. The patient's risk score is driven by their bipolar diagnosis, family history of diabetes, and socioeconomic status, which contribute to a higher risk of hospitalization. However, their young age, lack of smoking, and normal depression score help mitigate this risk to some extent.

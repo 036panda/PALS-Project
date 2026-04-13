@@ -1,0 +1,23 @@
+1. 8.2
+2. Input factors and their assigned numerical contributions:
+   - Age: 90: +3.5 (older age increases health risks)
+   - BMI: 32.5: +2.0 (high BMI increases health risks)
+   - Family_Health_History: Hypertension: +1.5 (family history of hypertension increases cardiovascular risk)
+   - Current_Diagnosis: Depression: +1.0 (depression can increase hospitalization risk, but HAM-D score is normal)
+   - Weekly_Alcohol_Intake: 4: +0.5 (moderate alcohol intake may increase health risks)
+   - Smoking: Yes: +2.0 (smoking significantly increases health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (normal HAM-D score reduces depression-related risks)
+   - Been_Sad_or_Fatigued: No: -0.5 (no sadness or fatigue reduces depression-related risks)
+   - Loss_of_Interest: No: -0.5 (no loss of interest reduces depression-related risks)
+   - Hours_of_Sleep: 7.4: -0.5 (adequate sleep reduces health risks)
+   - Socioeconomic_Status: Middle: -0.5 (middle socioeconomic status reduces health disparities)
+   - Drinks_Coffee: Yes: -0.2 (moderate coffee consumption may reduce health risks)
+   - Uses_Public_Transportation: Never: +0.2 (lack of public transportation use may increase social isolation)
+   - Donated_Blood: Yes: -0.2 (blood donation may indicate healthy habits)
+   - Water_Intake_oz: 44.2: -0.2 (adequate water intake reduces health risks)
+   - Bilingual: Yes: -0.2 (bilingualism may reduce cognitive decline)
+   - Recycling_Habits: Always: -0.2 (environmental awareness may indicate healthy habits)
+   - Volunteers: Always: -0.5 (volunteering may reduce social isolation and increase healthy habits)
+   - Registered_Organ_Donor: Yes: -0.2 (organ donation registration may indicate healthy habits)
+   - All other factors: 0 (no clear causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and socioeconomic status, with a focus on factors that have a clear causal relationship to increased hospitalization risk, such as older age, high BMI, smoking, and family history of hypertension. The score reflects the cumulative effect of these factors, with some factors, like normal HAM-D score and adequate sleep, reducing the overall risk.

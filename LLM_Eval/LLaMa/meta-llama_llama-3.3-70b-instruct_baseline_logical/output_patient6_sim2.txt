@@ -1,0 +1,18 @@
+1. 6.2
+2. Input factors and their assigned contributions:
+   - Age: 36, contribution: -0.5 (lower risk due to middle age)
+   - BMI: 31.3, contribution: 2.0 (higher risk due to obesity)
+   - Family_Health_History: Asthma, contribution: 1.0 (higher risk due to genetic predisposition)
+   - Current_Diagnosis: Anxiety, contribution: 1.5 (higher risk due to mental health condition)
+   - Race: White, contribution: 0.0 (no direct causal relationship)
+   - Gender: Male, contribution: 0.0 (no direct causal relationship)
+   - Sexual_Orientation: Heterosexual, contribution: 0.0 (no direct causal relationship)
+   - Weekly_Alcohol_Intake: 5, contribution: 0.5 (moderate risk due to alcohol consumption)
+   - Smoking: No, contribution: -1.0 (lower risk due to non-smoking)
+   - HAM-D: 0–6, contribution: -1.0 (lower risk due to normal mental health score)
+   - Been_Sad_or_Fatigued: No, contribution: -0.5 (lower risk due to no reported sadness or fatigue)
+   - Loss_of_Interest: No, contribution: -0.5 (lower risk due to no reported loss of interest)
+   - Hours_of_Sleep: 6.0, contribution: 0.5 (moderate risk due to borderline sleep deprivation)
+   - Employment: Employed, contribution: -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status: Low, contribution: 2.0 (higher risk due to socioeconomic disadvantage)
+3. The hospitalization risk score is calculated based on the individual's health profile, with factors such as obesity, family health history, and socioeconomic disadvantage contributing to a higher risk, while stable employment, non-smoking, and normal mental health scores contribute to a lower risk. The score reflects the cumulative effect of these factors on the individual's overall health and well-being.

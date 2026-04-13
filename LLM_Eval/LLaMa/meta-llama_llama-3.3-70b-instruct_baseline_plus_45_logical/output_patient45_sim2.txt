@@ -1,0 +1,14 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+	* Age: 41: +0.5 (increased risk with age)
+	* BMI: 26.5: +0.8 (increased risk due to overweight)
+	* Family_Health_History: Diabetes: +1.2 (increased risk due to genetic predisposition)
+	* Current_Diagnosis: Depression: +1.5 (increased risk due to mental health condition)
+	* Loss_of_Interest: Yes: +0.8 (increased risk due to depressive symptom)
+	* Hours_of_Sleep: 4.7: +0.5 (increased risk due to sleep deprivation)
+	* Socioeconomic_Status: High: -0.5 (decreased risk due to access to resources)
+	* Employment: Employed: -0.5 (decreased risk due to stability)
+	* HAM-D: 0–6: Normal / No Depression: -1.0 (decreased risk due to low depression score)
+	* Been_Sad_or_Fatigued: No: -0.5 (decreased risk due to lack of depressive symptoms)
+	* All other factors: 0 (no significant contribution to risk score)
+3. The risk score is calculated based on the individual's health status, family history, and lifestyle factors, with a focus on the presence of depression, sleep deprivation, and genetic predisposition to diabetes, which are known to increase the risk of hospitalization. The score is mitigated by the individual's high socioeconomic status, employment, and low depression score, which suggest access to resources and a stable support system.

@@ -1,0 +1,18 @@
+1. 3.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 52: 0.5 (positive contribution due to increased age-related health risks)
+   - BMI: 23.2: -0.2 (negative contribution due to relatively healthy BMI)
+   - Family_Health_History: Asthma: 0.8 (positive contribution due to potential respiratory complications)
+   - Current_Diagnosis: Anxiety: 1.2 (positive contribution due to potential mental health complications)
+   - Race: Other: 0 (neutral contribution due to lack of specific risk data)
+   - Gender: Non-binary: 0 (neutral contribution due to lack of specific risk data)
+   - Sexual_Orientation: Heterosexual: 0 (neutral contribution due to lack of specific risk data)
+   - Weekly_Alcohol_Intake: 5: 0.5 (positive contribution due to moderate alcohol consumption)
+   - Smoking: No: -0.5 (negative contribution due to reduced smoking-related health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1 (negative contribution due to low depression score)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative contribution due to absence of reported sadness or fatigue)
+   - Loss_of_Interest: No: -0.2 (negative contribution due to absence of reported loss of interest)
+   - Hours_of_Sleep: 7.4: -0.1 (negative contribution due to relatively healthy sleep habits)
+   - Employment: Employed: -0.5 (negative contribution due to reduced stress and increased stability from employment)
+   - Socioeconomic_Status: Middle: -0.2 (negative contribution due to relatively stable socioeconomic status)
+3. The hospitalization risk score is calculated based on the individual's specific health and demographic factors, with positive contributions from factors such as age, family health history, and current diagnosis, and negative contributions from factors such as healthy BMI, low depression score, and stable employment and socioeconomic status. The score reflects the cumulative effect of these factors on the individual's overall health risk.

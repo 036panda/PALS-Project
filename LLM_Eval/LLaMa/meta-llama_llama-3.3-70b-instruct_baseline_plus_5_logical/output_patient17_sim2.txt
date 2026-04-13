@@ -1,0 +1,23 @@
+1. 4.8
+2. Input factors and their assigned contributions:
+   - Age: 20: -1.5 (young age generally associated with lower health risks)
+   - BMI: 24.6: 0.5 (slightly above normal, indicating potential health risk)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer increases individual risk)
+   - Current_Diagnosis: Schizophrenia: 2.0 (serious mental health condition increasing hospitalization risk)
+   - Race: Black: 0.2 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender: Other: 0.1 (non-binary gender may face unique healthcare challenges)
+   - Sexual_Orientation: Heterosexual: 0 (neutral, as sexual orientation is not directly linked to hospitalization risk in this context)
+   - Weekly_Alcohol_Intake: 6: 0.8 (moderate alcohol intake, potentially increasing health risks)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (indicating no current depressive symptoms)
+   - Been_Sad_or_Fatigued: No: -0.2 (absence of recent sadness or fatigue)
+   - Loss_of_Interest: Yes: 1.0 (presence of loss of interest, potentially indicating mental health issues)
+   - Hours_of_Sleep: 7.6: -0.3 (adequate sleep, generally beneficial for health)
+   - Employment: Student: -0.5 (being a student may provide access to healthcare resources)
+   - Socioeconomic_Status: Low: 1.5 (lower socioeconomic status often associated with increased health risks and reduced access to care)
+   - Drinks_Coffee: Yes: 0 (neutral, as moderate coffee consumption is not directly linked to increased hospitalization risk)
+   - Likes_Vegetables: No: 0.3 (not liking vegetables may indicate less healthy dietary habits)
+   - Favourite_Sport: Gymnastics: -0.2 (engagement in sports, potentially beneficial for physical and mental health)
+   - Votes: Sometimes: 0 (voting behavior not directly related to health risks)
+   - Height_in_Inches: 58: 0 (height is not directly linked to hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's health conditions, lifestyle factors, and socioeconomic status, reflecting the complex interplay of these factors on health outcomes. The score of 4.8 out of 10 indicates a moderate risk level, primarily driven by the diagnosis of schizophrenia, family health history of cancer, and low socioeconomic status.

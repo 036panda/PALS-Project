@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (22): -1.5 (young age generally lowers health risks)
+   - BMI (27.1): 1.2 (overweight, increasing risk of various health issues)
+   - Family_Health_History (Heart Disease): 1.5 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Schizophrenia): 2.1 (serious mental health condition increasing risk)
+   - Race (Hispanic): 0.2 (some studies suggest varying health risks, but impact is complex and multifactorial)
+   - Gender (Non-binary): 0 (no direct impact on hospitalization risk, but may affect access to care)
+   - Sexual_Orientation (Bisexual): 0 (no direct impact on hospitalization risk, but may affect mental health and access to care)
+   - Weekly_Alcohol_Intake (2): -0.5 (low alcohol intake, generally reducing health risks)
+   - Smoking (No): -1 (not smoking significantly reduces health risks)
+   - HAM-D (7–17: Mild Depression): 1.8 (mild depression increases risk, especially with schizophrenia)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (symptoms of depression, increasing risk)
+   - Loss_of_Interest (Yes): 0.8 (symptom of depression, increasing risk)
+   - Hours_of_Sleep (8.9): -0.5 (adequate sleep, generally reducing health risks)
+   - Employment (Student): -0.5 (being a student may provide structure and support, reducing risk)
+   - Socioeconomic_Status (Middle): -0.2 (middle socioeconomic status may provide access to healthcare, reducing risk)
+   - Drinks_Coffee (Yes): 0 (neutral impact on hospitalization risk)
+   - Likes_Vegetables (No): 0.2 (not liking vegetables may indicate poor diet, slightly increasing risk)
+   - Favourite_Sport (Basketball): 0 (neutral impact on hospitalization risk)
+   - Votes (Always): 0 (neutral impact on hospitalization risk)
+   - Height_in_Inches (74): 0 (neutral impact on hospitalization risk)
+
+3. The patient's hospitalization risk is influenced significantly by their schizophrenia diagnosis and mild depression, which are compounded by a family history of heart disease and being overweight. Despite these factors, the patient's young age, low alcohol intake, and absence of smoking help mitigate the overall risk, leading to a moderate hospitalization risk score.

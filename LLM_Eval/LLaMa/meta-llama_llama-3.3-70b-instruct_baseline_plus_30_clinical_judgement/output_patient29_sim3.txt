@@ -1,0 +1,14 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 22: -1.5 (young age generally lowers health risks)
+   - BMI: 35.9: 2.5 (high BMI increases risk of various health issues)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer may increase risk of certain conditions)
+   - Current_Diagnosis: Anxiety: 1.8 (anxiety can contribute to various health issues)
+   - HAM-D: 7–17: Mild Depression: 1.5 (mild depression can impact overall health and well-being)
+   - Hours_of_Sleep: 5.7: 0.5 (inadequate sleep can negatively impact health)
+   - Weekly_Alcohol_Intake: 4: 0.2 (moderate alcohol intake has a relatively small impact)
+   - Socioeconomic_Status: Middle: -0.5 (middle socioeconomic status generally has a neutral to slightly positive impact on health)
+   - Water_Intake_oz: 46.6: -0.2 (adequate water intake has a slightly positive impact on health)
+   - Allergy: Gluten: 0.8 (having an allergy can increase the risk of certain health issues)
+   - Other attributes (e.g., race, gender, sexual orientation, smoking status, employment, etc.): 0.4 (cumulative minor impact of various attributes)
+3. The patient's high BMI, family history of cancer, anxiety diagnosis, and mild depression contribute to an increased risk of hospitalization, while their young age and middle socioeconomic status slightly mitigate this risk. Overall, the patient's profile suggests a moderate risk of hospitalization due to the interplay of these factors.

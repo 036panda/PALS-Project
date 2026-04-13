@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attribute impacts:
+   - Age (64): +2.5 (increased risk due to age-related health decline)
+   - BMI (29.9): +1.2 (obesity-related health risks)
+   - Family_Health_History (Asthma): +0.8 (potential for respiratory complications)
+   - Current_Diagnosis (Depression): +1.5 (mental health impact on physical well-being)
+   - Race (Native American): +0.5 (disparities in healthcare access and outcomes)
+   - Gender (Male): +0.2 (generally higher risk for certain health issues)
+   - Weekly_Alcohol_Intake (2): -0.5 (moderate alcohol consumption may have protective effects)
+   - Smoking (No): -1.0 (reduced risk due to non-smoking status)
+   - HAM-D (18-24): +1.0 (moderate depression severity)
+   - Loss_of_Interest (Yes): +0.8 (indicator of depression severity)
+   - Hours_of_Sleep (6.4): -0.2 (adequate sleep reduces health risks)
+   - Employment (Retired): +0.3 (potential for reduced physical activity and social isolation)
+   - Socioeconomic_Status (Middle): -0.5 (access to healthcare and resources)
+   - Drinks_Coffee (Yes): -0.2 (potential antioxidant and cognitive benefits)
+   - Likes_Vegetables (Yes): -0.5 (healthy dietary habits)
+   - Other attributes (e.g., Favourite_Sport, Votes, Height_in_Inches, etc.): +0.5 (cumulative minor impacts on mental and physical health)
+
+3. The patient's hospitalization risk is elevated due to factors such as age, obesity, family health history, and current diagnosis of depression, which collectively contribute to a heightened risk profile. However, the patient's moderate alcohol intake, non-smoking status, and healthy habits like vegetable consumption somewhat mitigate this risk, resulting in a score of 6.2.

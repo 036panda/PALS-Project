@@ -1,0 +1,23 @@
+1. 4.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 20: -1.5 (young age generally associated with lower health risks)
+   - BMI: 24.6: 0.5 (slightly elevated BMI, contributing to health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer increases individual risk)
+   - Current_Diagnosis: Schizophrenia: 2.1 (serious mental health condition contributing to hospitalization risk)
+   - Race: Black: 0.3 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender: Other: 0 (no clear evidence linking non-binary gender to increased hospitalization risk)
+   - Sexual_Orientation: Heterosexual: 0 (no clear evidence linking heterosexual orientation to increased hospitalization risk)
+   - Weekly_Alcohol_Intake: 6: 0.8 (moderate alcohol intake contributing to health risks)
+   - Smoking: No: -0.5 (non-smoking status reducing health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1 (no indication of depression reducing hospitalization risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (absence of reported sadness or fatigue)
+   - Loss_of_Interest: Yes: 1 (reported loss of interest potentially indicating underlying mental health issues)
+   - Hours_of_Sleep: 7.6: -0.1 (adequate sleep generally associated with lower health risks)
+   - Employment: Student: -0.5 (student status often associated with better access to healthcare and support systems)
+   - Socioeconomic_Status: Low: 1.5 (lower socioeconomic status associated with increased health risks due to barriers in healthcare access)
+   - Drinks_Coffee: Yes: 0 (no clear evidence linking coffee consumption to increased hospitalization risk)
+   - Likes_Vegetables: No: 0.2 (not liking vegetables potentially indicating less healthy dietary habits)
+   - Favourite_Sport: Gymnastics: -0.2 (engagement in sports activity generally associated with better health outcomes)
+   - Votes: Sometimes: 0 (voting behavior not directly linked to hospitalization risk)
+   - Height_in_Inches: 58: 0 (height not directly contributing to hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's specific health conditions, lifestyle factors, and socioeconomic status, reflecting the complex interplay of these factors on health outcomes. The score of 4.8 out of 10 indicates a moderate risk level, primarily driven by the diagnosis of schizophrenia, family history of cancer, and low socioeconomic status.

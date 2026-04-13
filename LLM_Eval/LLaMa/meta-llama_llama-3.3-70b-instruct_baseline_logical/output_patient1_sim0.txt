@@ -1,0 +1,19 @@
+1. 6.8
+2. 
+- Age: -1.5 (young age generally reduces health risks)
+- BMI: -0.5 (BMI within a relatively healthy range)
+- Family_Health_History: Cancer: +2 (family history of cancer increases risk)
+- Current_Diagnosis: Anxiety: +1.5 (anxiety can increase hospitalization risk)
+- Race: Other: 0 (insufficient data to assign a risk contribution)
+- Gender: Non-binary: 0 (insufficient data to assign a risk contribution)
+- Sexual_Orientation: Heterosexual: 0 (insufficient data to assign a risk contribution)
+- Weekly_Alcohol_Intake: 7: +1 (moderate alcohol intake may increase health risks)
+- Smoking: Yes: +2 (smoking significantly increases health risks)
+- HAM-D: 25+: Severe Depression: +3 (severe depression significantly increases hospitalization risk)
+- Been_Sad_or_Fatigued: No: -0.5 (absence of recent sadness or fatigue reduces risk)
+- Loss_of_Interest: No: -0.5 (absence of loss of interest reduces risk)
+- Hours_of_Sleep: 6.3: -0.5 (sleep hours are somewhat adequate, reducing risk)
+- Employment: Student: -1 (being a student may reduce certain health risks due to access to healthcare and support systems)
+- Socioeconomic_Status: Low: +2 (low socioeconomic status increases health risks due to barriers in accessing healthcare)
+
+3. The hospitalization risk score is calculated based on the cumulative effect of various factors that either increase or decrease the likelihood of hospitalization, considering both physical health indicators like smoking and BMI, and mental health indicators such as severe depression and anxiety. The score reflects a logical and causal approach, where each factor's contribution is based on its known impact on health outcomes, without assuming any baseline risk.

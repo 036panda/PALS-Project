@@ -1,0 +1,23 @@
+1. Risk Score: 7.8
+2. Input Factors and Contributions:
+   - Age: 22, Contribution: -1.5 (younger age generally associated with lower risk)
+   - BMI: 23.8, Contribution: 0.5 (slightly above normal, indicating potential health risk)
+   - Family_Health_History: Cancer, Contribution: 2.0 (family history of cancer increases risk)
+   - Current_Diagnosis: Anxiety, Contribution: 1.5 (anxiety can increase hospitalization risk)
+   - Race: Other, Contribution: 0 (no specific risk association provided)
+   - Gender: Non-binary, Contribution: 0 (no specific risk association provided)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (no specific risk association provided)
+   - Weekly_Alcohol_Intake: 7, Contribution: 1.0 (moderate alcohol intake may increase risk)
+   - Smoking: Yes, Contribution: 2.5 (smoking significantly increases health risks)
+   - HAM-D: 25+, Contribution: 3.0 (severe depression significantly increases hospitalization risk)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (absence of recent sadness or fatigue reduces risk)
+   - Loss_of_Interest: No, Contribution: -0.5 (absence of loss of interest reduces risk)
+   - Hours_of_Sleep: 6.3, Contribution: 0.5 (slightly below average sleep, potential health risk)
+   - Employment: Student, Contribution: -1.0 (being a student may have access to healthcare and support)
+   - Socioeconomic_Status: Low, Contribution: 2.0 (lower socioeconomic status increases health risks)
+   - Drinks_Coffee: No, Contribution: 0 (no specific risk association provided)
+   - Likes_Vegetables: Yes, Contribution: -1.0 (healthy dietary preference reduces risk)
+   - Favourite_Sport: Hockey, Contribution: 0 (no specific risk association provided)
+   - Votes: Sometimes, Contribution: 0 (no specific risk association provided)
+   - Height_in_Inches: 59, Contribution: 0 (no specific risk association provided)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering both the direct health impacts (e.g., smoking, severe depression) and the indirect influences (e.g., socioeconomic status, family health history) that could lead to increased risk of hospitalization. The contributions of each factor are assigned based on their potential to increase or decrease the risk of hospitalization, summing up to the final risk score.

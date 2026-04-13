@@ -1,0 +1,15 @@
+1. Risk Score: 6.2
+2. Input Factors and Contributions:
+   - Age: -1.5 (lower risk due to younger age)
+   - BMI: -0.5 (lower risk due to lower BMI, indicating underweight which may not be directly risky but can be a factor in overall health)
+   - Family_Health_History: Diabetes: +1.0 (increased risk due to family history of diabetes)
+   - Current_Diagnosis: Schizophrenia: +2.0 (increased risk due to severe mental health condition)
+   - Weekly_Alcohol_Intake: 3: +0.5 (moderate risk due to alcohol intake)
+   - HAM-D: 25+: Severe Depression: +2.5 (high risk due to severe depression)
+   - Loss_of_Interest: Yes: +0.5 (increased risk due to symptom of depression)
+   - Socioeconomic_Status: High: -1.0 (lower risk due to higher socioeconomic status)
+   - Exercises: Yes: -0.5 (lower risk due to regular exercise)
+   - Allergy: Gluten: +0.2 (slight increase in risk due to specific dietary restrictions)
+   - Skips_Breakfast: Yes: +0.5 (moderate risk due to skipping meals)
+   - Other factors: 0 (no direct contribution to risk score due to lack of clear causal relationship with hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and the likelihood of hospitalization, considering both physical and mental health indicators, lifestyle choices, and socioeconomic status. The score reflects a moderate to high risk due to the presence of severe depression, schizophrenia, and other health and lifestyle factors that may contribute to increased hospitalization risk.

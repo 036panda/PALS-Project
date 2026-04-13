@@ -1,0 +1,14 @@
+1. Risk Assessment Score: 6
+2. Parameters and associated risk values:
+	* Age: -1 (young age, lower risk)
+	* BMI: 2 (overweight, higher risk)
+	* Current_Diagnosis: Schizophrenia: 3 (serious mental health condition, higher risk)
+	* Weekly_Alcohol_Intake: 1 (moderate drinking, moderate risk)
+	* HAM-D: 7-17: Mild Depression: 2 (mild depression, moderate risk)
+	* Loss_of_Interest: 1 (symptom of depression, moderate risk)
+	* Socioeconomic_Status: Low: 1 (lower socioeconomic status, higher risk)
+	* Exercises: No: 1 (sedentary lifestyle, higher risk)
+	* Smoking: No: -1 (non-smoker, lower risk)
+	* Allergy: Gluten: 0 (neutral)
+	* Other parameters: 0 (neutral or not directly related to hospitalization risk)
+3. The patient's risk score is driven by their schizophrenia diagnosis, mild depression, and socioeconomic status, which are all associated with a higher risk of hospitalization. The patient's young age and lack of smoking history help mitigate this risk, but their sedentary lifestyle and moderate alcohol intake contribute to a moderate to high risk assessment score.

@@ -1,0 +1,20 @@
+1. Risk Score: 2.8
+
+2. Input Factors and Contributions:
+   - Age: -0.5 (younger age generally reduces risk)
+   - BMI: -0.2 (BMI within normal range reduces risk)
+   - Family_Health_History: Cancer: +1.0 (family history of cancer increases risk)
+   - Current_Diagnosis: nan: 0 (no current diagnosis, neutral)
+   - Race: White: 0 (race not directly contributing to risk in this calculation)
+   - Gender: Non-binary: 0 (gender not directly contributing to risk in this calculation)
+   - Sexual_Orientation: Heterosexual: 0 (sexual orientation not directly contributing to risk)
+   - Weekly_Alcohol_Intake: 3: +0.5 (moderate alcohol intake may slightly increase risk)
+   - Smoking: No: -0.5 (not smoking reduces risk)
+   - HAM-D: 7–17: Mild Depression: +1.0 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.2 (no loss of interest reduces risk)
+   - Hours_of_Sleep: 9.6: -0.3 (adequate sleep reduces risk)
+   - Employment: Employed: -0.5 (being employed reduces risk)
+   - Socioeconomic_Status: Middle: 0 (middle socioeconomic status, neutral)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering both the direct and indirect effects of each factor on overall health and well-being. The score reflects a balanced assessment of the individual's health indicators, lifestyle, and socioeconomic factors, with a focus on those that have a direct or well-established link to increased hospitalization risk.

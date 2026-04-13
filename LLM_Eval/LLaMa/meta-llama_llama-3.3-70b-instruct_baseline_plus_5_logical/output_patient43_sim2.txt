@@ -1,0 +1,23 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: -1.5 (young age generally reduces health risks)
+   - BMI: -0.5 (BMI within normal range reduces health risks)
+   - Family_Health_History: Cancer: +2.0 (family history of cancer increases risk)
+   - Current_Diagnosis: Bipolar: +1.5 (bipolar diagnosis increases risk)
+   - Race: Black: +0.5 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender: Male: +0.2 (generally, males have higher risk for certain conditions)
+   - Sexual_Orientation: Heterosexual: 0 (no direct risk implication)
+   - Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake reduces risk)
+   - Smoking: No: -0.5 (not smoking reduces risk)
+   - HAM-D: 7–17: Mild Depression: +1.0 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.2 (no loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7: +0.5 (less than optimal sleep increases risk)
+   - Employment: Student: -0.5 (being a student may reduce certain risks due to access to resources)
+   - Socioeconomic_Status: Low: +1.0 (low socioeconomic status increases health risks)
+   - Drinks_Coffee: Yes: -0.1 (moderate coffee consumption can have health benefits)
+   - Likes_Vegetables: Yes: -0.2 (healthy dietary preferences reduce risk)
+   - Favourite_Sport: Hockey: -0.1 (engagement in sports can reduce health risks)
+   - Votes: Sometimes: 0 (voting frequency has no direct health risk implication)
+   - Height_in_Inches: 70: 0 (height has no direct implication on the provided risk factors)
+3. The risk score calculation is based on assigning positive values to factors that increase health risk and negative values to those that decrease it, considering the individual's health conditions, lifestyle, and socioeconomic status. The sum of these values provides a comprehensive risk score, reflecting the complex interplay of factors influencing an individual's health and hospitalization risk.

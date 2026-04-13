@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 73 (+2.5, older age increases health risks)
+   - BMI: 22.5 (-0.5, normal BMI reduces health risks)
+   - Family_Health_History: Asthma (+1.2, family history of chronic conditions increases risk)
+   - Current_Diagnosis: Anxiety (+1.8, anxiety can increase hospitalization risk)
+   - Race: Native American (+0.8, certain racial groups may face health disparities)
+   - Gender: Non-binary (+0.2, potential for unique health challenges)
+   - Sexual_Orientation: Heterosexual (0, no direct impact on hospitalization risk)
+   - Weekly_Alcohol_Intake: 6 (+1.0, moderate alcohol intake can increase health risks)
+   - Smoking: No (-1.0, not smoking reduces health risks)
+   - HAM-D: 0–6: Normal / No Depression (-1.5, no depression reduces hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes (+1.2, recent sadness or fatigue can indicate underlying health issues)
+   - Loss_of_Interest: No (-0.5, no loss of interest suggests better mental health)
+   - Hours_of_Sleep: 9.7 (-0.8, adequate sleep reduces health risks)
+   - Employment: Retired (+0.5, retirement can lead to decreased physical activity and social isolation)
+   - Socioeconomic_Status: Low (+1.5, low socioeconomic status can increase health risks due to limited access to care)
+3. The hospitalization risk score is calculated based on the individual's health profile, considering factors that increase or decrease the likelihood of hospitalization, with a focus on the cumulative effect of physical and mental health indicators, lifestyle choices, and socioeconomic status. The score reflects the logical and causal relationships between these factors and the potential for hospitalization, without relying on population-level baselines.

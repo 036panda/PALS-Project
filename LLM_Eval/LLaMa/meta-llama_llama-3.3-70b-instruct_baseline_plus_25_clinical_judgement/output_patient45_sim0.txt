@@ -1,0 +1,16 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 41: +0.5 (moderate risk due to increasing age)
+   - BMI: 26.5: +0.8 (high risk due to overweight status)
+   - Family_Health_History: Diabetes: +1.2 (high risk due to genetic predisposition)
+   - Current_Diagnosis: Depression: +1.5 (high risk due to mental health condition)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (low risk due to current mental health stability)
+   - Loss_of_Interest: Yes: +0.8 (moderate risk due to potential depressive symptoms)
+   - Hours_of_Sleep: 4.7: +1.0 (high risk due to sleep deprivation)
+   - Socioeconomic_Status: High: -0.5 (low risk due to access to healthcare resources)
+   - Weekly_Alcohol_Intake: 1: -0.2 (low risk due to minimal alcohol consumption)
+   - Smoking: No: -0.5 (low risk due to non-smoking status)
+   - Other attributes (e.g., Race, Gender, Sexual_Orientation, Employment, etc.): +0.0 (no significant impact)
+
+3. The patient's hospitalization risk is influenced by a combination of factors, including a family history of diabetes, current diagnosis of depression, and sleep deprivation, which contribute to a moderate to high risk profile. However, the patient's high socioeconomic status, stable mental health as indicated by the HAM-D score, and minimal alcohol consumption help mitigate this risk, resulting in a final score of 4.2.

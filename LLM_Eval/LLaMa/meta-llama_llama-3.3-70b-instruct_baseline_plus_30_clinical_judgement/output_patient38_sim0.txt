@@ -1,0 +1,16 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (62): +2.5 (increased risk due to age-related health decline)
+   - BMI (33.4): +1.8 (increased risk due to obesity)
+   - Current_Diagnosis (Depression): +2.0 (increased risk due to mental health condition)
+   - HAM-D (7–17: Mild Depression): +1.2 (increased risk due to severity of depression)
+   - Been_Sad_or_Fatigued (Yes): +0.8 (increased risk due to symptoms of depression)
+   - Loss_of_Interest (Yes): +0.8 (increased risk due to symptoms of depression)
+   - Hours_of_Sleep (6.7): -0.5 (decreased risk due to relatively normal sleep hours)
+   - Socioeconomic_Status (Low): +1.0 (increased risk due to potential limited access to healthcare)
+   - Weekly_Alcohol_Intake (1): -0.5 (decreased risk due to low alcohol consumption)
+   - Smoking (No): -1.0 (decreased risk due to non-smoking status)
+   - Other attributes (e.g., Family_Health_History: nan, Race, Gender, etc.): +0.6 (minor increased risk due to unknown or neutral factors)
+
+3. The patient's hospitalization risk is elevated due to their age, obesity, and mild depression, which collectively increase the likelihood of complications or exacerbation of their condition. However, their low alcohol intake and non-smoking status somewhat mitigate this risk, resulting in a moderate hospitalization risk score.

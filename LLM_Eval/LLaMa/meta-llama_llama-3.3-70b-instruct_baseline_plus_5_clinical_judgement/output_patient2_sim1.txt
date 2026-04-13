@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 40, Impact: 0.8 (moderate risk due to increasing age)
+   - BMI: 34.6, Impact: 1.2 (high risk due to obesity)
+   - Family_Health_History: Cancer, Impact: 1.0 (high risk due to family history of cancer)
+   - Current_Diagnosis: Bipolar, Impact: 1.5 (high risk due to mental health condition)
+   - Race: White, Impact: 0.0 (neutral, as race alone is not a direct risk factor in this context)
+   - Gender: Non-binary, Impact: 0.0 (neutral, as gender identity alone is not a direct risk factor)
+   - Sexual_Orientation: Bisexual, Impact: 0.0 (neutral, as sexual orientation alone is not a direct risk factor)
+   - Weekly_Alcohol_Intake: 4, Impact: 0.5 (moderate risk due to alcohol consumption)
+   - Smoking: No, Impact: -0.5 (reduced risk due to not smoking)
+   - HAM-D: 7–17, Impact: 1.0 (high risk due to mild depression)
+   - Been_Sad_or_Fatigued: No, Impact: -0.2 (slightly reduced risk)
+   - Loss_of_Interest: Yes, Impact: 0.8 (moderate risk due to loss of interest)
+   - Hours_of_Sleep: 8.9, Impact: -0.3 (reduced risk due to adequate sleep)
+   - Employment: Employed, Impact: -0.5 (reduced risk due to employment)
+   - Socioeconomic_Status: Middle, Impact: 0.0 (neutral, as middle socioeconomic status is not a significant risk factor)
+   - Drinks_Coffee: Yes, Impact: 0.0 (neutral, as coffee consumption alone is not a direct risk factor)
+   - Likes_Vegetables: No, Impact: 0.2 (slight risk due to lack of vegetable preference)
+   - Favourite_Sport: nan, Impact: 0.0 (neutral, as missing data does not contribute to risk)
+   - Votes: Always, Impact: 0.0 (neutral, as voting behavior is not a health risk factor)
+   - Height_in_Inches: 70, Impact: 0.0 (neutral, as height alone is not a direct risk factor in this context)
+
+3. The patient's hospitalization risk is elevated primarily due to their bipolar diagnosis, family history of cancer, obesity, and symptoms of mild depression, including loss of interest. Despite some protective factors such as employment and adequate sleep, the cumulative effect of these health challenges contributes to a moderate to high risk of hospitalization.

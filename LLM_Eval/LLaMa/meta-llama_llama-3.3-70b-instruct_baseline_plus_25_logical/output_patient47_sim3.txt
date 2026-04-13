@@ -1,0 +1,15 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 22, contribution: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 27.1, contribution: 1.2 (higher BMI associated with increased health risks)
+   - Family_Health_History: Heart Disease, contribution: 1.8 (family history of heart disease increases risk)
+   - Current_Diagnosis: Schizophrenia, contribution: 2.1 (schizophrenia associated with increased hospitalization risk)
+   - HAM-D: 7–17: Mild Depression, contribution: 1.1 (mild depression associated with increased risk)
+   - Been_Sad_or_Fatigued: Yes, contribution: 0.5 (symptoms associated with increased risk)
+   - Loss_of_Interest: Yes, contribution: 0.5 (symptoms associated with increased risk)
+   - Weekly_Alcohol_Intake: 2, contribution: 0.2 (moderate alcohol intake associated with slightly increased risk)
+   - Smoking: No, contribution: -1.0 (not smoking associated with lower health risks)
+   - Hours_of_Sleep: 8.9, contribution: -0.5 (adequate sleep associated with lower health risks)
+   - Socioeconomic_Status: Middle, contribution: -0.5 (middle socioeconomic status associated with relatively lower health risks)
+   - Other factors (Race, Gender, Sexual_Orientation, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone): 0.0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as BMI, family health history, current diagnosis, and symptoms of depression, which have established causal relationships with increased hospitalization risk. The score reflects the cumulative effect of these factors, with higher values indicating a greater likelihood of hospitalization.

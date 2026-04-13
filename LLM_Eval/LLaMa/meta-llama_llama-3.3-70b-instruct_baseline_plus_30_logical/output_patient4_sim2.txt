@@ -1,0 +1,18 @@
+1. 7.3
+2. Input factors and their assigned contributions:
+   - Age: 40: 1.2 (positive, as increasing age is associated with higher health risks)
+   - BMI: 16.7: -1.5 (negative, as low BMI is associated with lower health risks, but this value is underweight and may pose health risks)
+   - Family_Health_History: Hypertension: 1.8 (positive, as family history of hypertension increases cardiovascular risk)
+   - Current_Diagnosis: Depression: 2.5 (positive, as depression is associated with increased hospitalization risk)
+   - HAM-D: 18-24: Moderate Depression: 1.2 (positive, as moderate depression increases hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes: 0.8 (positive, as sadness and fatigue are symptoms of depression)
+   - Loss_of_Interest: Yes: 0.8 (positive, as loss of interest is a symptom of depression)
+   - Smoking: Yes: 2.1 (positive, as smoking is a significant health risk)
+   - Weekly_Alcohol_Intake: 3: 0.5 (positive, as some alcohol intake may pose health risks, but moderate intake may have benefits)
+   - Socioeconomic_Status: Low: 1.1 (positive, as low socioeconomic status is associated with increased health risks)
+   - Hours_of_Sleep: 8.0: -0.5 (negative, as adequate sleep is associated with lower health risks)
+   - Employment: Employed: -0.8 (negative, as employment is associated with lower health risks and increased stability)
+   - Allergy: Mold: 0.2 (positive, as allergies may pose health risks)
+   - Binge_Watches_TV: Yes: 0.3 (positive, as sedentary behavior may pose health risks)
+   - Other factors: 0 (no significant contribution to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic conditions, with a focus on depression, smoking, and low socioeconomic status as primary risk contributors. The assigned contributions reflect the causal relationships between these factors and hospitalization risk, with a higher score indicating a greater likelihood of hospitalization.

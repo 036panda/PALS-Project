@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attribute impacts:
+   - Age (74): +3.5 (increased risk due to age-related health decline)
+   - BMI (29.4): +1.2 (elevated risk due to overweight status)
+   - Family_Health_History (Cancer): +1.0 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (nan): 0 (no impact due to lack of information)
+   - Race (White): 0 (no specific risk adjustment for this demographic)
+   - Gender (Male): 0 (no specific risk adjustment for this demographic)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment for this demographic)
+   - Weekly_Alcohol_Intake (4): -0.5 (moderate alcohol consumption may have protective effects)
+   - Smoking (No): -1.0 (reduced risk due to non-smoking status)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (reduced risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued (No): 0 (no impact due to absence of symptoms)
+   - Loss_of_Interest (No): 0 (no impact due to absence of symptoms)
+   - Hours_of_Sleep (7.0): -0.5 (adequate sleep reduces risk)
+   - Employment (Retired): +0.5 (potential increased risk due to reduced physical activity and social interaction)
+   - Socioeconomic_Status (Middle): 0 (no specific risk adjustment for this demographic)
+   - Drinks_Coffee (No): 0 (no specific risk adjustment for this behavior)
+   - Likes_Vegetables (Yes): -0.5 (healthy dietary habits reduce risk)
+   - Favourite_Sport (Hockey): 0 (no specific risk adjustment for this preference)
+   - Votes (Never): 0 (no specific risk adjustment for this behavior)
+   - Height_in_Inches (58): 0 (no specific risk adjustment for this physical characteristic)
+   - Has_Drivers_License (Yes): 0 (no specific risk adjustment for this ability)
+   - Picks_Up_Litter (Sometimes): 0 (no specific risk adjustment for this behavior)
+   - Uses_Public_Transportation (Sometimes): 0 (no specific risk adjustment for this behavior)
+   - Donated_Blood (Yes): -0.5 (healthy enough to donate blood, indicating good health)
+   - Birthday_Month (January): 0 (no specific risk adjustment for this demographic)
+
+3. The patient's advanced age, overweight status, and family history of cancer contribute to an elevated hospitalization risk, but this is somewhat mitigated by their absence of depressive symptoms, moderate alcohol intake, and healthy lifestyle choices such as liking vegetables and donating blood. Overall, the patient's risk profile suggests a need for regular health monitoring and preventive care to manage potential health risks associated with aging and family medical history.

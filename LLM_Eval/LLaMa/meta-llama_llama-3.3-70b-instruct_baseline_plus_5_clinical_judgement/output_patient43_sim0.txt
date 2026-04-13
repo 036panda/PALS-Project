@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 20: -1 (young age generally lowers health risks)
+   - BMI: 21.0: -0.5 (normal BMI reduces health risks)
+   - Family_Health_History: Cancer: +1 (family history of cancer increases risk)
+   - Current_Diagnosis: Bipolar: +2 (bipolar disorder increases risk due to potential for severe episodes)
+   - Race: Black: +0.5 (acknowledging health disparities, though this is a complex factor)
+   - Gender: Male: 0 (neutral impact in this context)
+   - Sexual_Orientation: Heterosexual: 0 (neutral impact)
+   - Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake reduces risk)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: +1 (mild depression increases risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (absence of sadness or fatigue reduces risk)
+   - Loss_of_Interest: No: -0.5 (no loss of interest reduces risk)
+   - Hours_of_Sleep: 5.7: +1 (inadequate sleep increases health risks)
+   - Employment: Student: -0.5 (being a student may have unique stressors but generally indicates engagement)
+   - Socioeconomic_Status: Low: +1 (lower socioeconomic status increases health risks due to access and stress)
+   - Drinks_Coffee: Yes: 0 (neutral impact in this context)
+   - Likes_Vegetables: Yes: -0.5 (healthy dietary habits reduce health risks)
+   - Favourite_Sport: Hockey: 0 (neutral impact)
+   - Votes: Sometimes: 0 (neutral impact)
+   - Height_in_Inches: 70: 0 (neutral impact)
+
+3. The patient's hospitalization risk is influenced by factors such as bipolar disorder, mild depression, inadequate sleep, and a family history of cancer, which are countered by a healthy BMI, absence of alcohol and smoking habits, and some healthy lifestyle choices. Overall, the risk is moderate, reflecting the need for ongoing mental health management and monitoring of physical health indicators.

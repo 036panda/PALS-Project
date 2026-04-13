@@ -1,0 +1,15 @@
+1. 6.8
+2. 
+- Age: 26: -0.5 (young age generally associated with lower health risks)
+- BMI: 29.1: 1.2 (high BMI associated with increased health risks)
+- Family_Health_History: Diabetes: 1.5 (family history of diabetes increases risk)
+- Current_Diagnosis: Bipolar: 2.0 (bipolar diagnosis associated with increased hospitalization risk)
+- Been_Sad_or_Fatigued: Yes: 0.8 (symptoms of potential depression)
+- Loss_of_Interest: Yes: 0.8 (symptoms of potential depression)
+- Hours_of_Sleep: 6.2: -0.2 (adequate sleep, slightly below average)
+- Socioeconomic_Status: Low: 1.0 (lower socioeconomic status associated with increased health risks)
+- Weekly_Alcohol_Intake: 3: 0.2 (moderate alcohol intake, potential health risks)
+- HAM-D: 0–6: Normal / No Depression: -1.0 (no current depression diagnosis)
+- Employment: Employed: -0.5 (employment generally associated with lower health risks)
+- Other factors (Race, Gender, Sexual_Orientation, Smoking, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels): 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as BMI, family health history, and current diagnosis, as well as socioeconomic status and symptoms of potential depression, using a logical and causal approach to assign numerical contributions to each factor. The score reflects the cumulative effect of these factors on the individual's risk of hospitalization, with higher scores indicating a greater risk.

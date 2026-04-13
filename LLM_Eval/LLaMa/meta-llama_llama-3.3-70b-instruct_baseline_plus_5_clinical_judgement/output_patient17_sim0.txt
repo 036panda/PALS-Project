@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attribute impacts:
+   - Age: 20: -1.2 (young age generally lowers health risks)
+   - BMI: 24.6: 0.5 (slightly above normal, indicating a minor risk factor)
+   - Family_Health_History: Cancer: 1.5 (family history of cancer increases risk)
+   - Current_Diagnosis: Schizophrenia: 2.0 (serious mental health condition increases risk)
+   - Race: Black: 0.2 (some studies suggest racial disparities in healthcare access and outcomes)
+   - Gender: Other: 0.1 (minor potential impact due to less data on health outcomes for non-binary individuals)
+   - Sexual_Orientation: Heterosexual: 0 (no direct impact on physical health risk)
+   - Weekly_Alcohol_Intake: 6: 0.8 (moderate alcohol intake can have health implications)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (no depression reduces mental health risks)
+   - Been_Sad_or_Fatigued: No: -0.2 (absence of sadness or fatigue reduces risk)
+   - Loss_of_Interest: Yes: 1.0 (loss of interest can be a symptom of underlying issues)
+   - Hours_of_Sleep: 7.6: -0.3 (adequate sleep generally reduces health risks)
+   - Employment: Student: -0.5 (being a student can have stressors but also access to resources)
+   - Socioeconomic_Status: Low: 1.2 (lower socioeconomic status increases health risks due to access and stress)
+   - Drinks_Coffee: Yes: 0.1 (moderate coffee consumption has mixed health effects)
+   - Likes_Vegetables: No: 0.3 (not liking vegetables may indicate poor diet)
+   - Favourite_Sport: Gymnastics: -0.5 (engagement in sports generally reduces health risks)
+   - Votes: Sometimes: 0 (voting behavior has no direct impact on health risk)
+   - Height_in_Inches: 58: 0 (height has no direct impact on hospitalization risk in this context)
+
+3. The patient's hospitalization risk is influenced by their schizophrenia diagnosis, family history of cancer, and socioeconomic status, which are significant risk factors. However, their young age, absence of smoking, and engagement in physical activity through gymnastics somewhat mitigate these risks, leading to a moderate overall risk score.

@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (34): -1.0 (lower risk due to relatively young age)
+   - BMI (24.2): -0.5 (lower risk due to normal BMI)
+   - Family_Health_History (nan): 0 (no impact due to missing information)
+   - Current_Diagnosis (Bipolar): 2.5 (higher risk due to serious mental health condition)
+   - Race (Hispanic): 0.5 (slightly higher risk due to potential socioeconomic and healthcare access disparities)
+   - Gender (Female): 0 (neutral impact)
+   - Sexual_Orientation (Heterosexual): 0 (neutral impact)
+   - Weekly_Alcohol_Intake (1): -0.2 (lower risk due to minimal alcohol consumption)
+   - Smoking (No): -0.5 (lower risk due to non-smoking status)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to no current depressive symptoms)
+   - Been_Sad_or_Fatigued (Yes): 1.0 (higher risk due to recent emotional distress)
+   - Loss_of_Interest (No): -0.5 (lower risk due to absence of this symptom)
+   - Hours_of_Sleep (8.3): -0.5 (lower risk due to adequate sleep)
+   - Employment (Employed): -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status (Low): 1.5 (higher risk due to potential barriers to healthcare access and increased stress)
+
+3. The patient's hospitalization risk is influenced by the presence of bipolar disorder and recent experiences of sadness or fatigue, which are countered by factors such as stable employment, minimal alcohol intake, and adequate sleep, reflecting a complex interplay of risk and protective factors. Overall, the patient's risk profile suggests a need for close monitoring and support to manage their mental health condition effectively and mitigate the impact of socioeconomic challenges.

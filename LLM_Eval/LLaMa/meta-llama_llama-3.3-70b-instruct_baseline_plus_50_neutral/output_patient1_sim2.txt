@@ -1,0 +1,14 @@
+1. Risk Assessment Score: 6.5
+2. Parameters and their associated numerical risk values:
+	* Age: -1.5 (young age reduces risk)
+	* BMI: -0.5 (normal BMI reduces risk)
+	* Family_Health_History: Cancer: +2.0 (family history of cancer increases risk)
+	* Current_Diagnosis: Anxiety: +1.5 (anxiety increases risk)
+	* Smoking: Yes: +2.0 (smoking increases risk)
+	* HAM-D: 25+: Severe Depression: +3.0 (severe depression increases risk)
+	* Weekly_Alcohol_Intake: 7: +1.0 (moderate alcohol intake increases risk)
+	* Socioeconomic_Status: Low: +1.0 (low socioeconomic status increases risk)
+	* Hours_of_Sleep: 6.3: +0.5 (inadequate sleep increases risk)
+	* Exercises: No: +1.0 (lack of exercise increases risk)
+	* Allergy: Gluten: +0.5 (allergy increases risk)
+3. The patient's risk assessment score is driven by their severe depression, anxiety, smoking, and family history of cancer, which are significant risk factors for hospitalization. Additionally, their low socioeconomic status, inadequate sleep, and lack of exercise contribute to their overall risk score.

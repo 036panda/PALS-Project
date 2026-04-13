@@ -1,0 +1,14 @@
+1. Final Hospitalization Risk Score: 6.8
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 64: +2.5 (increased risk due to age-related health decline)
+   - BMI: 29.9: +1.8 (increased risk due to overweight status)
+   - Family_Health_History: Asthma: +0.5 (potential increased risk due to familial respiratory issues)
+   - Current_Diagnosis: Depression: +2.2 (increased risk due to mental health condition)
+   - HAM-D: 18-24: Moderate Depression: +1.5 (increased risk due to severity of depression)
+   - Loss_of_Interest: Yes: +1.2 (increased risk due to symptom of depression)
+   - Hours_of_Sleep: 6.4: -0.5 (slightly decreased risk due to relatively normal sleep hours)
+   - Socioeconomic_Status: Middle: -0.2 (slightly decreased risk due to stable socioeconomic status)
+   - Weekly_Alcohol_Intake: 2: -0.5 (decreased risk due to low alcohol intake)
+   - Smoking: No: -1.0 (decreased risk due to non-smoking status)
+   - Other attributes (e.g., Race, Gender, Sexual_Orientation, Employment, etc.): +0.8 (cumulative minor impact of various attributes)
+3. The patient's hospitalization risk is elevated due to their age, overweight status, family history of asthma, and moderate depression, which collectively contribute to a heightened risk profile. However, their stable socioeconomic status, low alcohol intake, and non-smoking status help mitigate this risk to some extent.

@@ -1,0 +1,15 @@
+1. Risk Score: 4.8
+2. Input Factors and Contributions:
+   - Age: 26, Contribution: -0.5 (younger age generally associated with lower risk)
+   - BMI: 29.1, Contribution: 1.2 (high BMI associated with increased health risks)
+   - Family_Health_History: Diabetes, Contribution: 1.5 (family history of diabetes increases risk)
+   - Current_Diagnosis: Bipolar, Contribution: 2.0 (bipolar disorder can increase hospitalization risk)
+   - Weekly_Alcohol_Intake: 3, Contribution: 0.2 (moderate alcohol intake, relatively low risk)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 0.5 (indicative of potential mental health issues)
+   - Loss_of_Interest: Yes, Contribution: 0.5 (indicative of potential mental health issues)
+   - Hours_of_Sleep: 6.2, Contribution: -0.2 (adequate sleep, lower risk)
+   - Socioeconomic_Status: Low, Contribution: 1.0 (lower socioeconomic status associated with higher health risks)
+   - HAM-D: 0–6, Contribution: -1.0 (normal/no depression, lower risk)
+   - Smoking: No, Contribution: -0.5 (not smoking, lower risk)
+   - Other factors (Race, Gender, Sexual_Orientation, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels): 0 (no direct causal relationship to hospitalization risk established)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering the impact of physical health indicators (BMI, family health history), mental health status (current diagnosis, symptoms of sadness or fatigue, loss of interest), lifestyle factors (alcohol intake, sleep hours), and socioeconomic status. The score reflects a balanced consideration of these factors, with a focus on those with established causal links to increased hospitalization risk.

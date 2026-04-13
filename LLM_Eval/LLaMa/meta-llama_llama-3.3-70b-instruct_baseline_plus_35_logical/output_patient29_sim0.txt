@@ -1,0 +1,17 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 22, contribution: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 35.9, contribution: 2.5 (high BMI associated with increased health risks)
+   - Family_Health_History: Cancer, contribution: 1.2 (family history of cancer may increase individual risk)
+   - Current_Diagnosis: Anxiety, contribution: 1.8 (anxiety can contribute to overall health risk)
+   - HAM-D: 7–17: Mild Depression, contribution: 1.5 (mild depression contributes to health risk)
+   - Weekly_Alcohol_Intake: 4, contribution: 0.5 (moderate alcohol intake may have mixed effects on health)
+   - Smoking: No, contribution: -1 (not smoking reduces health risks)
+   - Hours_of_Sleep: 5.7, contribution: 0.8 (inadequate sleep can increase health risks)
+   - Socioeconomic_Status: Middle, contribution: -0.5 (middle socioeconomic status may have average access to healthcare)
+   - Water_Intake_oz: 46.6, contribution: -0.2 (adequate water intake generally beneficial for health)
+   - Allergy: Gluten, contribution: 0.5 (food allergy may require special dietary considerations)
+   - Been_Sad_or_Fatigued: No, contribution: -0.5 (not experiencing sadness or fatigue reduces risk)
+   - Loss_of_Interest: No, contribution: -0.5 (not experiencing loss of interest reduces risk)
+   - Other factors (Race, Gender, Sexual_Orientation, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Binge_Watches_TV, Favourite_Super_Store, Pet_Preference, Volunteers, Skips_Breakfast, Favourite_Movie_Genre, Registered_Organ_Donor): 0 (these factors not directly contributing to calculated risk score)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as high BMI, family history of cancer, anxiety, and mild depression, which contribute to a higher risk, while factors like not smoking and adequate water intake reduce the risk. The score reflects the cumulative effect of these factors on the individual's overall health risk.

@@ -1,0 +1,25 @@
+1. Risk Score: 6.2
+
+2. Input Factors and Contributions:
+   - Age (73): +2.5 (increased risk due to age-related health decline)
+   - BMI (22.5): -0.5 (lower risk due to normal BMI)
+   - Family_Health_History (Asthma): +1.0 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Anxiety): +1.5 (increased risk due to mental health condition)
+   - Race (Native American): +0.5 (increased risk due to potential healthcare disparities)
+   - Gender (Non-binary): 0 (no direct contribution, as there's no established causal link to hospitalization risk)
+   - Sexual_Orientation (Heterosexual): 0 (no direct contribution, as there's no established causal link to hospitalization risk)
+   - Weekly_Alcohol_Intake (6): +0.5 (increased risk due to moderate alcohol consumption)
+   - Smoking (No): -1.0 (lower risk due to non-smoking status)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to absence of depression)
+   - Been_Sad_or_Fatigued (Yes): +1.0 (increased risk due to potential underlying condition)
+   - Loss_of_Interest (No): 0 (no contribution, as there's no indication of a significant issue)
+   - Hours_of_Sleep (9.7): -0.5 (lower risk due to adequate sleep)
+   - Employment (Retired): +0.5 (increased risk due to potential sedentary lifestyle)
+   - Socioeconomic_Status (Low): +1.0 (increased risk due to limited access to healthcare resources)
+   - Drinks_Coffee (No): 0 (no direct contribution, as there's no established causal link to hospitalization risk)
+   - Likes_Vegetables (No): +0.5 (increased risk due to potential poor diet)
+   - Favourite_Sport (Basketball): 0 (no direct contribution, as there's no established causal link to hospitalization risk)
+   - Votes (Sometimes): 0 (no direct contribution, as there's no established causal link to hospitalization risk)
+   - Height_in_Inches (70): 0 (no direct contribution, as there's no established causal link to hospitalization risk)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering the individual's health conditions, lifestyle, and socioeconomic status. The score reflects the cumulative effect of these factors, with higher values indicating a greater risk of hospitalization due to the presence of anxiety, asthma, moderate alcohol intake, and socioeconomic disparities, among other factors.

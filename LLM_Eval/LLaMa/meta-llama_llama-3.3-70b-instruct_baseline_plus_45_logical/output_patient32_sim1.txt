@@ -1,0 +1,14 @@
+1. 8.2
+2. Input factors and their assigned numerical contributions:
+   - Age: -1.5 (younger age generally associated with lower health risks)
+   - BMI: -0.5 (low BMI, potential for health issues but in this context, less directly linked to hospitalization risk)
+   - Family_Health_History: 1.0 (diabetes in family history increases risk)
+   - Current_Diagnosis: 2.5 (schizophrenia significantly increases hospitalization risk)
+   - HAM-D: 2.0 (severe depression increases hospitalization risk)
+   - Loss_of_Interest: 0.5 (symptom of depression, increases risk)
+   - Weekly_Alcohol_Intake: 0.2 (moderate alcohol intake, slight increase in risk)
+   - Socioeconomic_Status: -0.5 (high socioeconomic status generally associated with better health outcomes)
+   - Exercises: -0.5 (regular exercise reduces health risks)
+   - Allergy: 0.1 (presence of an allergy, slight increase in risk)
+   - Other factors: 0 (either not directly related to hospitalization risk or insufficient information to determine a contribution)
+3. The hospitalization risk score is calculated based on the individual's health conditions, family health history, and lifestyle factors that have a direct causal relationship with increased risk of hospitalization, such as severe depression and schizophrenia. The score reflects the cumulative effect of these factors, with each factor's contribution determined by its potential impact on hospitalization risk.

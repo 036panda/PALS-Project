@@ -1,0 +1,25 @@
+1. Risk Score: 6.8
+
+2. Input Factors and Contributions:
+   - Age: 52: +0.5 (increased risk due to age-related health decline)
+   - BMI: 16.4: +1.2 (low BMI indicating potential malnutrition or other health issues)
+   - Family_Health_History: Cancer: +1.0 (genetic predisposition to serious health conditions)
+   - Current_Diagnosis: Bipolar: +1.5 (serious mental health condition requiring management)
+   - Race: Asian: 0 (no direct causal link to hospitalization risk without other factors)
+   - Gender: Male: 0 (no direct causal link to hospitalization risk without other factors)
+   - Sexual_Orientation: Other: 0 (no direct causal link to hospitalization risk without other factors)
+   - Weekly_Alcohol_Intake: 7: +0.8 (moderate alcohol intake potentially leading to health issues)
+   - Smoking: Yes: +1.0 (significant health risk due to smoking)
+   - HAM-D: 7–17: Mild Depression: +0.8 (mental health condition affecting overall well-being)
+   - Been_Sad_or_Fatigued: No: 0 (no contribution as not currently experiencing)
+   - Loss_of_Interest: Yes: +0.5 (indicator of depression severity)
+   - Hours_of_Sleep: 4.8: +0.8 (sleep deprivation potentially leading to health issues)
+   - Employment: Employed: -0.5 (stable employment potentially indicating better health management)
+   - Socioeconomic_Status: Middle: 0 (neutral socioeconomic status)
+   - Drinks_Coffee: No: 0 (no direct causal link to hospitalization risk)
+   - Likes_Vegetables: Yes: -0.5 (healthy dietary habit potentially reducing health risks)
+   - Favourite_Sport: nan: 0 (no information)
+   - Votes: Always: 0 (no direct causal link to hospitalization risk)
+   - Height_in_Inches: 71: 0 (no direct causal link to hospitalization risk without other factors)
+
+3. The risk score calculation is based on the summation of positive and negative contributions from each factor, reflecting their potential causal relationships with hospitalization risk, considering both physical and mental health indicators. This approach assumes that each factor independently contributes to the overall risk, with the total score representing the cumulative risk level.

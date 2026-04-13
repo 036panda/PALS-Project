@@ -1,0 +1,23 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: 18, Contribution: -1.5 (lower risk due to younger age)
+   - BMI: 25.6, Contribution: 1.2 (moderate risk due to overweight status)
+   - Family_Health_History: Hypertension, Contribution: 1.0 (increased risk due to family history of hypertension)
+   - Current_Diagnosis: Bipolar, Contribution: 2.0 (significant risk due to mental health condition)
+   - Race: Hispanic, Contribution: 0.0 (no direct causal link to hospitalization risk established)
+   - Gender: Non-binary, Contribution: 0.0 (no direct causal link to hospitalization risk established)
+   - Sexual_Orientation: Heterosexual, Contribution: 0.0 (no direct causal link to hospitalization risk established)
+   - Weekly_Alcohol_Intake: 5, Contribution: 0.5 (moderate risk due to alcohol consumption)
+   - Smoking: No, Contribution: -0.5 (lower risk due to non-smoking status)
+   - HAM-D: 0–6, Contribution: -1.0 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (lower risk due to no reported sadness or fatigue)
+   - Loss_of_Interest: No, Contribution: -0.5 (lower risk due to no reported loss of interest)
+   - Hours_of_Sleep: 5.7, Contribution: 0.5 (moderate risk due to insufficient sleep)
+   - Employment: Employed, Contribution: -0.5 (lower risk due to employment status)
+   - Socioeconomic_Status: High, Contribution: -1.0 (lower risk due to high socioeconomic status)
+   - Drinks_Coffee: No, Contribution: 0.0 (no direct causal link to hospitalization risk established)
+   - Likes_Vegetables: No, Contribution: 0.0 (no direct causal link to hospitalization risk established)
+   - Favourite_Sport: nan, Contribution: 0.0 (no information, no contribution)
+   - Votes: Never, Contribution: 0.0 (no direct causal link to hospitalization risk established)
+   - Height_in_Inches: 59, Contribution: 0.0 (no direct causal link to hospitalization risk established)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering the individual's health status, lifestyle, and socioeconomic factors. The score reflects the cumulative effect of these factors, with higher contributions from the presence of a mental health condition, family history of hypertension, and lifestyle factors such as alcohol intake and insufficient sleep.

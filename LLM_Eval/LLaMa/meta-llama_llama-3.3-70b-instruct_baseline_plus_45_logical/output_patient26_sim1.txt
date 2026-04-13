@@ -1,0 +1,17 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: 52 (0.5, as increasing age can contribute to higher health risks)
+   - BMI: 23.2 (-0.2, indicating a relatively healthy weight)
+   - Family_Health_History: Asthma (1.0, as a history of asthma can increase respiratory risks)
+   - Current_Diagnosis: Anxiety (1.2, anxiety can contribute to various health issues)
+   - Weekly_Alcohol_Intake: 5 (0.8, moderate alcohol intake can have health implications)
+   - HAM-D: 0–6 (Normal / No Depression) (-1.0, indicating no current depression)
+   - Hours_of_Sleep: 7.4 (-0.5, adequate sleep reduces health risks)
+   - Employment: Employed (-0.5, employment can reduce stress and increase stability)
+   - Socioeconomic_Status: Middle (-0.3, middle socioeconomic status can provide access to healthcare)
+   - Exercises: Yes (-1.0, regular exercise reduces health risks)
+   - Allergy: Shellfish (0.2, having an allergy can pose health risks)
+   - Smoking: No (-1.5, not smoking significantly reduces health risks)
+   - Other factors not explicitly contributing to the risk score due to lack of direct causal relationship or insufficient information to determine a significant impact.
+
+3. The risk score calculation is based on the logical and causal relationships between the individual's health factors, lifestyle choices, and socioeconomic status, with each factor's contribution determined by its potential to increase or decrease health risks. The score reflects a balanced consideration of the provided information, focusing on factors with clear, evidence-based links to health outcomes.

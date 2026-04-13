@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (49): 0.8 (increased risk due to age-related health decline)
+   - BMI (29.7): 1.2 (increased risk due to obesity-related health issues)
+   - Family_Health_History (nan): 0 (no impact due to missing information)
+   - Current_Diagnosis (Bipolar): 2.0 (increased risk due to mental health condition)
+   - Race (Native American): 0.5 (increased risk due to potential health disparities)
+   - Gender (Female): 0.2 (slightly increased risk due to gender-related health differences)
+   - Sexual_Orientation (Other): 0 (no impact due to lack of specific health risk data)
+   - Weekly_Alcohol_Intake (2): -0.5 (decreased risk due to moderate alcohol consumption)
+   - Smoking (No): -0.5 (decreased risk due to non-smoking status)
+   - HAM-D (7-17: Mild Depression): 1.5 (increased risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued (No): -0.2 (decreased risk due to absence of reported sadness or fatigue)
+   - Loss_of_Interest (Yes): 1.0 (increased risk due to loss of interest, a symptom of depression)
+   - Hours_of_Sleep (5.8): 0.8 (increased risk due to inadequate sleep)
+   - Employment (Employed): -0.5 (decreased risk due to stable employment)
+   - Socioeconomic_Status (Middle): -0.2 (slightly decreased risk due to middle socioeconomic status)
+   - Drinks_Coffee (No): 0 (no impact due to lack of specific health risk data)
+   - Likes_Vegetables (No): 0.2 (slightly increased risk due to potential lack of healthy diet)
+   - Favourite_Sport (Basketball): 0 (no impact due to lack of specific health risk data)
+   - Votes (Never): 0 (no impact due to lack of specific health risk data)
+   - Height_in_Inches (60): 0 (no impact due to lack of specific health risk data)
+   - Has_Drivers_License (No): 0.1 (slightly increased risk due to potential lack of mobility or independence)
+   - Picks_Up_Litter (Never): 0 (no impact due to lack of specific health risk data)
+   - Uses_Public_Transportation (Always): 0.1 (slightly increased risk due to potential exposure to health risks in public settings)
+   - Donated_Blood (Yes): -0.2 (decreased risk due to altruistic behavior and potential health screening)
+   - Birthday_Month (August): 0 (no impact due to lack of specific health risk data)
+
+3. The patient's hospitalization risk is elevated due to her bipolar diagnosis, mild depression, loss of interest, and inadequate sleep, which collectively contribute to a higher risk profile. However, her stable employment, moderate alcohol intake, and non-smoking status somewhat mitigate this risk, resulting in a final score of 6.2.

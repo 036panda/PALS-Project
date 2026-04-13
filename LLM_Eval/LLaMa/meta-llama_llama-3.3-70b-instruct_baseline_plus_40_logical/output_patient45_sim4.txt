@@ -1,0 +1,59 @@
+1. 4.2
+2. Input factors and their assigned contributions:
+   - Age: 41: 0.5 (positive, as increasing age is associated with higher health risks)
+   - BMI: 26.5: 1.2 (positive, as high BMI is linked to various health issues)
+   - Family_Health_History: Diabetes: 1.0 (positive, due to increased risk of developing related conditions)
+   - Current_Diagnosis: Depression: 0.5 (positive, despite HAM-D score indicating normal, due to the presence of Loss_of_Interest)
+   - Loss_of_Interest: Yes: 0.5 (positive, indicating potential underlying mental health issues)
+   - Hours_of_Sleep: 4.7: 0.5 (positive, as inadequate sleep is associated with health problems)
+   - Weekly_Alcohol_Intake: 1: -0.1 (negative, as moderate alcohol consumption may have some health benefits)
+   - Smoking: No: -0.5 (negative, as not smoking reduces health risks)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (negative, indicating lower risk of depression-related hospitalization)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative, suggesting lower risk of mental health-related issues)
+   - Employment: Employed: -0.2 (negative, as employment can provide stability and access to healthcare)
+   - Socioeconomic_Status: High: -0.5 (negative, due to better access to healthcare and resources)
+   - Exercises: No: 0.5 (positive, as lack of exercise is associated with increased health risks)
+   - Allergy: Penecillin: 0.2 (positive, as any allergy can pose a risk, especially in a medical setting)
+   - Other factors not directly influencing the risk score due to lack of clear causal relationships or insufficient information: 
+     - Race: White
+     - Gender: Male
+     - Sexual_Orientation: Heterosexual
+     - Drinks_Coffee: No
+     - Likes_Vegetables: No
+     - Favourite_Sport: Hockey
+     - Votes: Sometimes
+     - Height_in_Inches: 74
+     - Has_Drivers_License: Yes
+     - Picks_Up_Litter: Always
+     - Uses_Public_Transportation: Sometimes
+     - Donated_Blood: Yes
+     - Birthday_Month: December
+     - Water_Intake_oz: 44.8
+     - Bilingual: Yes
+     - Handedness: Right
+     - Likes_Kids: Yes
+     - Favourite_Meal: Lunch
+     - Favourite_Color: Orange
+     - Recycling_Habits: Sometimes
+     - Hair_Color: Blonde
+     - Best_Highschool_Subject: Math
+     - Travels: No
+     - Relationship_Status: Dating
+     - Favourite_Music_Genre: HipHop
+     - Can_Ride_Bicycle: No
+     - Religious: No
+     - Phone: Apple
+     - Wears_Glasses: Yes
+     - Morning_or_Night: Night
+     - Binge_Watches_TV: Yes
+     - Favourite_Super_Store: Target
+     - Pet_Preference: Guinea Pig
+     - Volunteers: Sometimes
+     - Skips_Breakfast: Yes
+     - Favourite_Movie_Genre: Science Fiction
+     - Registered_Organ_Donor: Yes
+     - Annual_Charity_Donation: Never
+     - Favourite_Cuisine: Italian
+     - Likes_Art: Yes
+     - Academic_Preference: STEM
+3. The hospitalization risk score is calculated based on the presence of factors that have established causal relationships with health outcomes, such as age, BMI, family health history, and current diagnosis, while also considering lifestyle and behavioral factors. The score reflects the cumulative effect of these factors on the individual's risk profile, with positive contributions indicating increased risk and negative contributions indicating decreased risk.

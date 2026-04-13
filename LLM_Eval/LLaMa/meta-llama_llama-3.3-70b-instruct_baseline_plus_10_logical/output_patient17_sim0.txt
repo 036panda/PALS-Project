@@ -1,0 +1,30 @@
+1. **Risk Score: 4.2**
+
+2. **Input Factors and Contributions:**
+   - Age: 20, Contribution: -0.5 (younger age generally associated with lower health risks)
+   - BMI: 24.6, Contribution: 0.2 (slightly above normal, indicating a minor increase in health risks)
+   - Family_Health_History: Cancer, Contribution: 1.0 (family history of cancer increases individual risk)
+   - Current_Diagnosis: Schizophrenia, Contribution: 1.5 (serious mental health condition increasing risk)
+   - Race: Black, Contribution: 0 (no direct causal link to hospitalization risk without other factors)
+   - Gender: Other, Contribution: 0 (no direct causal link to hospitalization risk without other factors)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (no direct causal link to hospitalization risk)
+   - Weekly_Alcohol_Intake: 6, Contribution: 0.5 (moderate alcohol intake may increase health risks)
+   - Smoking: No, Contribution: -0.5 (not smoking reduces health risks)
+   - HAM-D: 0–6, Contribution: -0.5 (normal/no depression reduces risk)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.2 (less likely to be at risk)
+   - Loss_of_Interest: Yes, Contribution: 0.8 (indicative of potential mental health issues)
+   - Hours_of_Sleep: 7.6, Contribution: -0.1 (adequate sleep reduces health risks)
+   - Employment: Student, Contribution: -0.3 (being a student may reduce certain life stressors)
+   - Socioeconomic_Status: Low, Contribution: 1.2 (lower socioeconomic status associated with higher health risks)
+   - Drinks_Coffee: Yes, Contribution: 0 (neutral effect on health risk)
+   - Likes_Vegetables: No, Contribution: 0.1 (not liking vegetables may indicate less healthy diet)
+   - Favourite_Sport: Gymnastics, Contribution: -0.2 (engagement in sports indicates better physical health)
+   - Votes: Sometimes, Contribution: 0 (voting behavior has no direct link to health risk)
+   - Height_in_Inches: 58, Contribution: 0 (height has no direct causal link to hospitalization risk)
+   - Has_Drivers_License: No, Contribution: 0 (having a driver's license has no direct health risk implication)
+   - Picks_Up_Litter: Always, Contribution: -0.1 (community engagement may indicate better mental health)
+   - Uses_Public_Transportation: Never, Contribution: 0.1 (may indicate less physical activity or social interaction)
+   - Donated_Blood: Yes, Contribution: -0.1 (donating blood may indicate better health and altruism)
+   - Birthday_Month: April, Contribution: 0 (no direct causal link to health risk)
+
+3. **Justification:** The risk score calculation is based on the logical and causal relationships between the provided factors and potential health risks, considering both physical and mental health indicators. The score reflects a balance of factors indicating increased risk (e.g., family history of cancer, schizophrenia diagnosis, low socioeconomic status) and those suggesting lower risk (e.g., young age, no smoking, normal mental health assessment), resulting in a moderate risk score of 4.2.

@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 42: 0.8 (positive, as increasing age is associated with higher health risks)
+   - BMI: 13.4: -1.2 (negative, as a low BMI indicates underweight, which can be a health risk, but in the context of other factors, it slightly reduces the overall risk due to the potential for lower blood pressure and cholesterol)
+   - Family_Health_History: Diabetes: 1.5 (positive, due to the increased risk of developing diabetes and related complications)
+   - Current_Diagnosis: nan: 0 (neutral, as no current diagnosis is provided)
+   - Race: Native American: 0.5 (positive, reflecting higher rates of certain health issues in this demographic)
+   - Gender: Other: 0 (neutral, as there is not enough information to assign a specific risk contribution)
+   - Sexual_Orientation: Heterosexual: 0 (neutral, as sexual orientation is not directly linked to hospitalization risk in this context)
+   - Weekly_Alcohol_Intake: 4: 0.8 (positive, as moderate alcohol intake can have both positive and negative effects, but in this calculation, it's considered a slight risk due to potential for increased health issues)
+   - Smoking: No: -0.5 (negative, as not smoking reduces the risk of many health issues)
+   - HAM-D: 7–17: Mild Depression: 1.2 (positive, as mild depression can increase the risk of hospitalization due to mental health concerns)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative, as not experiencing sadness or fatigue reduces the risk of mental health-related hospitalization)
+   - Loss_of_Interest: Yes: 1.0 (positive, as loss of interest can be a symptom of depression, increasing hospitalization risk)
+   - Hours_of_Sleep: 5.0: 0.8 (positive, as insufficient sleep can lead to various health issues)
+   - Employment: Employed: -0.5 (negative, as being employed can reduce stress and increase access to healthcare, thus lowering hospitalization risk)
+   - Socioeconomic_Status: Middle: -0.5 (negative, as a middle socioeconomic status generally provides better access to healthcare and reduces financial stress, lowering hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health and demographic factors, considering both the direct and indirect causal relationships between these factors and the likelihood of hospitalization. The score reflects the cumulative effect of positive and negative contributions from each factor, providing a comprehensive assessment of the individual's risk profile.

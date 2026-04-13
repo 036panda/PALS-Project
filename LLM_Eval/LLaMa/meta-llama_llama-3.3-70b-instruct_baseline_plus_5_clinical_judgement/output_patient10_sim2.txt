@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (32): -1.0 (lower risk due to relatively young age)
+   - BMI (31.6): +2.0 (higher risk due to obesity)
+   - Family_Health_History (Cancer): +1.5 (increased risk due to family history of cancer)
+   - Current_Diagnosis (nan): 0 (no impact due to lack of information)
+   - Race (Asian): -0.5 (lower risk due to generally lower health risks associated with this demographic)
+   - Gender (Male): +0.5 (slightly higher risk due to gender-related health disparities)
+   - Sexual_Orientation (Heterosexual): 0 (no impact)
+   - Weekly_Alcohol_Intake (3): +0.5 (moderate risk due to alcohol consumption)
+   - Smoking (Yes): +2.0 (higher risk due to smoking)
+   - HAM-D (18-24): +2.0 (higher risk due to moderate depression)
+   - Been_Sad_or_Fatigued (Yes): +1.0 (increased risk due to symptoms of depression)
+   - Loss_of_Interest (Yes): +1.0 (increased risk due to symptoms of depression)
+   - Hours_of_Sleep (7.5): -0.5 (lower risk due to adequate sleep)
+   - Employment (Employed): -1.0 (lower risk due to stable employment)
+   - Socioeconomic_Status (Low): +1.5 (higher risk due to socioeconomic disparities)
+   - Drinks_Coffee (No): 0 (no impact)
+   - Likes_Vegetables (Yes): -0.5 (lower risk due to healthy dietary habits)
+   - Favourite_Sport (Gymnastics): -0.5 (lower risk due to engagement in physical activity)
+   - Votes (Sometimes): 0 (no impact)
+   - Height_in_Inches (66): 0 (no direct impact on hospitalization risk)
+
+3. The patient's hospitalization risk is elevated primarily due to factors such as obesity, smoking, moderate depression, and a family history of cancer, which are compounded by socioeconomic disparities. Despite some protective factors like employment and healthy lifestyle choices, the cumulative effect of these risk factors warrants a moderate to high hospitalization risk score.

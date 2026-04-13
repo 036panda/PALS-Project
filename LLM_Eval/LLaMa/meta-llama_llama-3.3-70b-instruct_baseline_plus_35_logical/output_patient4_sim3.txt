@@ -1,0 +1,15 @@
+1. 7.8
+2. Input factors and their assigned contributions:
+   - Age: 40: 0.5 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 16.7: -1.0 (negative, as low BMI is associated with lower hospitalization risk)
+   - Family_Health_History: Hypertension: 1.5 (positive, as family history of hypertension increases hospitalization risk)
+   - Current_Diagnosis: Depression: 2.0 (positive, as depression increases hospitalization risk)
+   - Weekly_Alcohol_Intake: 3: 0.2 (positive, as moderate alcohol intake may increase hospitalization risk)
+   - Smoking: Yes: 1.8 (positive, as smoking significantly increases hospitalization risk)
+   - HAM-D: 18-24: Moderate Depression: 1.2 (positive, as moderate depression increases hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes: 0.5 (positive, as sadness or fatigue increases hospitalization risk)
+   - Loss_of_Interest: Yes: 0.5 (positive, as loss of interest increases hospitalization risk)
+   - Socioeconomic_Status: Low: 1.0 (positive, as low socioeconomic status increases hospitalization risk)
+   - Allergy: Mold: 0.3 (positive, as allergies may increase hospitalization risk)
+   - Other factors: 0.0 (no contribution, as other factors do not have a clear causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic conditions, which have established causal relationships with hospitalization risk. The assigned contributions reflect the relative strength of these relationships, with factors like smoking, depression, and low socioeconomic status contributing most significantly to the overall risk score.

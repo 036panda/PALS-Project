@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Detailed breakdown:
+   - Age (61): +1.5 (increased risk due to age-related health decline)
+   - BMI (25.8): +0.5 (slightly elevated BMI indicating potential health risks)
+   - Family_Health_History (Asthma): +0.8 (increased risk due to familial respiratory condition)
+   - Current_Diagnosis (nan): 0 (no information, no impact)
+   - Race (Black): +0.2 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender (Female): 0 (neutral impact)
+   - Sexual_Orientation (Heterosexual): 0 (neutral impact)
+   - Weekly_Alcohol_Intake (1): -0.1 (low alcohol intake, slightly reduced risk)
+   - Smoking (No): -0.5 (non-smoker, reduced risk)
+   - HAM-D (7–17: Mild Depression): +1.2 (mild depression increases health risk)
+   - Been_Sad_or_Fatigued (No): 0 (no recent sad or fatigued feelings, neutral)
+   - Loss_of_Interest (No): 0 (no loss of interest, neutral)
+   - Hours_of_Sleep (5.4): +0.3 (slightly reduced sleep, potential health impact)
+   - Employment (Employed): -0.2 (employed, stable lifestyle, reduced risk)
+   - Socioeconomic_Status (High): -0.5 (high socioeconomic status, better access to healthcare, reduced risk)
+   - Drinks_Coffee (No): 0 (neutral impact)
+   - Likes_Vegetables (Yes): -0.2 (healthy dietary preference, reduced risk)
+   - Favourite_Sport (Hockey), Votes (Sometimes), Height_in_Inches (62), Has_Drivers_License (Yes), Picks_Up_Litter (Sometimes), Uses_Public_Transportation (Sometimes), Donated_Blood (No), Birthday_Month (November), Water_Intake_oz (46.1), Bilingual (No), Handedness (Right), Likes_Kids (Yes), Favourite_Meal (Lunch), Favourite_Color (Yellow), Recycling_Habits (Sometimes), Hair_Color (Black), Best_Highschool_Subject (Science), Travels (Yes), Relationship_Status (Single), Favourite_Music_Genre (HipHop), Can_Ride_Bicycle (Yes), Religious (No), Phone (Apple), Wears_Glasses (Yes), Morning_or_Night (Morning), Allergy (Dust), Binge_Watches_TV (Yes), Favourite_Super_Store (Walmart): 0 (these attributes have minimal to no direct impact on hospitalization risk)
+
+3. The patient's risk of hospitalization is influenced by factors such as age, family health history of asthma, mild depression, and slightly elevated BMI, which contribute to an increased risk. However, the patient's non-smoking status, low alcohol intake, employment, and high socioeconomic status mitigate this risk to some extent, resulting in a moderate hospitalization risk score.

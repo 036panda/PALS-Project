@@ -1,0 +1,18 @@
+1. 2.1
+2. 
+- Age: -0.5 (younger age generally reduces risk)
+- BMI: -0.2 (BMI within normal range reduces risk)
+- Family_Health_History: 0 (no information, neutral contribution)
+- Current_Diagnosis: 0 (no information, neutral contribution)
+- Race: 0 (insufficient data to assign contribution)
+- Gender: 0 (insufficient data to assign contribution)
+- Sexual_Orientation: 0 (no established causal link to hospitalization risk)
+- Weekly_Alcohol_Intake: 1.5 (moderate alcohol intake may increase risk)
+- Smoking: 0 (non-smoker, reduces risk, but assigned 0 as it's a protective factor)
+- HAM-D: -1 (no depression, reduces risk)
+- Been_Sad_or_Fatigued: 0 (no recent symptoms, neutral)
+- Loss_of_Interest: 0 (no recent symptoms, neutral)
+- Hours_of_Sleep: 0.5 (slightly below average sleep, may increase risk)
+- Employment: -0.5 (being employed generally reduces risk)
+- Socioeconomic_Status: -0.8 (high socioeconomic status generally reduces risk)
+3. The hospitalization risk score is calculated based on the individual's health and lifestyle factors, with a focus on those that have a direct causal link to increased or decreased risk of hospitalization, such as alcohol intake, sleep hours, and socioeconomic status. The score reflects a balance of these factors, with the individual's moderate alcohol intake and slightly below average sleep hours contributing to a higher risk, while their employment, high socioeconomic status, and lack of depression symptoms reduce their overall risk.

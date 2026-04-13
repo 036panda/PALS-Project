@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4.5
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (20): -1.5 (young age generally lowers health risks)
+   - BMI (21.0): -0.5 (normal BMI reduces health risks)
+   - Family_Health_History (Cancer): +1.0 (family history of cancer increases risk)
+   - Current_Diagnosis (Bipolar): +2.0 (bipolar disorder significantly increases risk due to potential for severe episodes)
+   - Race (Black): +0.5 (racial disparities in healthcare access and outcomes may increase risk)
+   - Gender (Male): +0.0 (neutral impact, as gender-specific risks vary widely depending on context)
+   - Sexual_Orientation (Heterosexual): +0.0 (neutral impact, as sexual orientation alone does not directly influence hospitalization risk in this context)
+   - Weekly_Alcohol_Intake (0): -0.5 (no alcohol intake reduces risk of alcohol-related health issues)
+   - Smoking (No): -0.5 (not smoking reduces risk of smoking-related health issues)
+   - HAM-D (7–17: Mild Depression): +1.5 (mild depression increases risk, especially with bipolar diagnosis)
+   - Been_Sad_or_Fatigued (No): -0.5 (absence of recent sadness or fatigue reduces immediate risk)
+   - Loss_of_Interest (No): -0.5 (no loss of interest reduces risk of severe depressive episodes)
+   - Hours_of_Sleep (5.7): +1.0 (inadequate sleep increases risk of mental and physical health issues)
+   - Employment (Student): -0.5 (being a student may provide access to healthcare and support systems)
+   - Socioeconomic_Status (Low): +1.5 (low socioeconomic status increases risk due to barriers in accessing healthcare and resources)
+
+3. The patient's hospitalization risk is elevated primarily due to the current diagnosis of bipolar disorder and the presence of mild depression, compounded by socioeconomic factors and inadequate sleep, which can exacerbate mental health conditions. Despite the patient's young age and absence of certain risk factors like smoking and alcohol intake, the cumulative effect of these factors warrants a moderate risk assessment.

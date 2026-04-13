@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (29): -0.5 (younger age generally associated with lower health risks)
+   - BMI (25.9): 0.8 (borderline overweight, slight increase in health risks)
+   - Family_Health_History (nan): 0 (no information, no impact)
+   - Current_Diagnosis (Anxiety): 1.2 (anxiety can increase risk of hospitalization due to potential for severe episodes or comorbid conditions)
+   - Race (Asian): 0 (no specific risk adjustment based on race in this context)
+   - Gender (Male): 0 (no specific risk adjustment based on gender in this context)
+   - Sexual_Orientation (Heterosexual): 0 (no specific risk adjustment based on sexual orientation)
+   - Weekly_Alcohol_Intake (5): 0.5 (moderate alcohol intake, potential for slight increase in health risks)
+   - Smoking (No): -0.5 (non-smoker, decrease in health risks)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (no depression, decrease in risk of hospitalization for mental health reasons)
+   - Been_Sad_or_Fatigued (Yes): 0.8 (symptoms of potential underlying condition, increase in risk)
+   - Loss_of_Interest (Yes): 0.8 (symptom of potential underlying condition, increase in risk)
+   - Hours_of_Sleep (3.7): 1.5 (severe sleep deprivation, significant increase in health risks)
+   - Employment (Employed): -0.5 (stable employment, decrease in risk due to access to healthcare and stability)
+   - Socioeconomic_Status (Middle): 0 (middle socioeconomic status, no specific risk adjustment)
+   - Drinks_Coffee (No): 0 (no specific risk adjustment based on coffee consumption)
+   - Likes_Vegetables (Yes): -0.2 (healthy dietary preference, slight decrease in health risks)
+   - Favourite_Sport (Soccer): 0 (no specific risk adjustment based on sports preference)
+   - Votes (Sometimes): 0 (no specific risk adjustment based on voting behavior)
+   - Height_in_Inches (60): 0 (no specific risk adjustment based on height)
+   - Has_Drivers_License (Yes): 0 (no specific risk adjustment based on having a driver's license)
+   - Picks_Up_Litter (Never): 0 (no specific risk adjustment based on litter picking behavior)
+   - Uses_Public_Transportation (Sometimes): 0 (no specific risk adjustment based on use of public transportation)
+   - Donated_Blood (Yes): -0.2 (engagement in health-promoting behavior, slight decrease in risk)
+   - Birthday_Month (February): 0 (no specific risk adjustment based on birth month)
+
+3. The patient's hospitalization risk is influenced significantly by symptoms of anxiety, sleep deprivation, and potential underlying mental health conditions, despite the absence of depression. The overall risk is moderate, reflecting the need for monitoring and management of anxiety and sleep disturbances to prevent escalation of symptoms that could necessitate hospitalization.

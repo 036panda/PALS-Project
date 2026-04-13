@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 32, impact: -0.5 (lower risk due to relatively young age)
+   - BMI: 25.7, impact: 0.8 (moderate risk due to being overweight)
+   - Family_Health_History: Asthma, impact: 1.2 (increased risk due to family history of chronic condition)
+   - Current_Diagnosis: nan, impact: 0 (no information, neutral impact)
+   - Race: White, impact: 0 (neutral, as race alone is not a direct risk factor without context)
+   - Gender: Non-binary, impact: 0 (neutral, as gender identity alone does not directly influence hospitalization risk)
+   - Sexual_Orientation: Other, impact: 0 (neutral, as sexual orientation alone does not directly influence hospitalization risk)
+   - Weekly_Alcohol_Intake: 2, impact: -0.2 (lower risk due to moderate alcohol intake)
+   - Smoking: No, impact: -1.0 (lower risk due to not smoking)
+   - HAM-D: 18–24, impact: 2.5 (high risk due to moderate depression)
+   - Been_Sad_or_Fatigued: No, impact: -0.5 (lower risk due to not feeling sad or fatigued)
+   - Loss_of_Interest: Yes, impact: 1.5 (increased risk due to loss of interest, indicative of depression)
+   - Hours_of_Sleep: 4.8, impact: 1.0 (increased risk due to insufficient sleep)
+   - Employment: Employed, impact: -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status: Middle, impact: 0 (neutral, as middle socioeconomic status does not significantly increase or decrease risk)
+   - Drinks_Coffee: No, impact: 0 (neutral, as coffee consumption alone is not a significant risk factor)
+   - Likes_Vegetables: No, impact: 0.2 (slightly increased risk due to potential for less healthy diet)
+   - Favourite_Sport: nan, impact: 0 (no information, neutral impact)
+   - Votes: Sometimes, impact: 0 (neutral, as voting behavior is not directly related to health risk)
+   - Height_in_Inches: 63, impact: 0 (neutral, as height alone without context of weight or other factors is not a risk factor)
+3. The patient's moderate depression, loss of interest, and insufficient sleep are significant factors increasing the risk of hospitalization, while their stable employment and lack of smoking contribute to a lower risk. Overall, the combination of mental health concerns and lifestyle factors results in a moderate hospitalization risk score.

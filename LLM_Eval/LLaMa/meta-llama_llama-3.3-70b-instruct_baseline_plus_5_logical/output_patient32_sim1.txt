@@ -1,0 +1,23 @@
+1. Risk Score: 7.8
+2. Input Factors and Contributions:
+   - Age: 19, Contribution: -1.5 (younger age generally associated with lower risk)
+   - BMI: 17.6, Contribution: -0.5 (underweight, potential health risk but less directly linked to hospitalization for the given conditions)
+   - Family_Health_History: Diabetes, Contribution: 1.0 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Schizophrenia, Contribution: 2.5 (significant mental health condition increasing hospitalization risk)
+   - Race: White, Contribution: 0 (neutral, as race alone without context does not directly increase or decrease risk in this calculation)
+   - Gender: Non-binary, Contribution: 0 (neutral, as gender identity alone does not directly influence hospitalization risk in this context)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (neutral, as sexual orientation alone does not directly influence hospitalization risk)
+   - Weekly_Alcohol_Intake: 3, Contribution: 0.5 (moderate alcohol intake, potential health risk)
+   - Smoking: No, Contribution: -1.0 (reduced risk due to not smoking)
+   - HAM-D: 25+, Contribution: 3.0 (severe depression significantly increases hospitalization risk)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (less likely to be hospitalized for depression-related symptoms)
+   - Loss_of_Interest: Yes, Contribution: 1.0 (increased risk due to symptom of depression)
+   - Hours_of_Sleep: 8.0, Contribution: -0.5 (adequate sleep reduces health risks)
+   - Employment: Student, Contribution: -0.5 (being a student may provide structure and support, reducing risk)
+   - Socioeconomic_Status: High, Contribution: -1.0 (better access to healthcare and resources, reducing risk)
+   - Drinks_Coffee: No, Contribution: 0 (neutral, as coffee consumption alone does not directly influence hospitalization risk)
+   - Likes_Vegetables: No, Contribution: 0.5 (potential health risk due to less healthy diet)
+   - Favourite_Sport: nan, Contribution: 0 (no information, neutral)
+   - Votes: Never, Contribution: 0 (neutral, as voting behavior does not directly influence health risks)
+   - Height_in_Inches: 74, Contribution: 0 (neutral, as height alone without context does not directly influence hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the individual's health conditions, behaviors, and socioeconomic factors, with significant contributions from severe depression (HAM-D: 25+), schizophrenia, and family health history of diabetes, balanced against protective factors such as high socioeconomic status, adequate sleep, and not smoking. The score reflects a comprehensive assessment of the individual's risk profile, considering both physical and mental health factors.

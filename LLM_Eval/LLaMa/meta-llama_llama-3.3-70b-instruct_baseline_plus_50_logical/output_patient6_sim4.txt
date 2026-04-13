@@ -1,0 +1,19 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 36, contribution: 0.5 (positive, as older age is generally associated with higher health risks, but 36 is still relatively young)
+   - BMI: 31.3, contribution: 1.2 (positive, as high BMI is associated with increased health risks)
+   - Family_Health_History: Asthma, contribution: 0.8 (positive, as a family history of asthma may indicate a genetic predisposition to respiratory issues)
+   - Current_Diagnosis: Anxiety, contribution: 1.0 (positive, as anxiety can contribute to various health issues)
+   - Weekly_Alcohol_Intake: 5, contribution: 0.5 (positive, as moderate alcohol consumption can have negative health effects)
+   - Smoking: No, contribution: -0.5 (negative, as not smoking reduces health risks)
+   - HAM-D: 0–6, contribution: -0.5 (negative, as normal HAM-D scores indicate no depression)
+   - Been_Sad_or_Fatigued: No, contribution: -0.2 (negative, as not experiencing sadness or fatigue reduces health risks)
+   - Loss_of_Interest: No, contribution: -0.2 (negative, as not experiencing loss of interest reduces health risks)
+   - Hours_of_Sleep: 6.0, contribution: 0.2 (positive, as 6 hours of sleep may be insufficient for optimal health)
+   - Socioeconomic_Status: Low, contribution: 1.0 (positive, as low socioeconomic status is associated with increased health risks)
+   - Drinks_Coffee: Yes, contribution: 0.1 (positive, as moderate coffee consumption may have negative health effects)
+   - Exercises: Yes, contribution: -0.8 (negative, as regular exercise reduces health risks)
+   - Allergy: Pollen, contribution: 0.3 (positive, as having an allergy may indicate a compromised immune system)
+   - Skips_Breakfast: Yes, contribution: 0.2 (positive, as skipping breakfast may lead to negative health effects)
+   - Other factors: 0 (as they do not have a clear, direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health-related factors, such as BMI, family health history, and current diagnosis, as well as lifestyle factors like exercise and sleep habits, which collectively contribute to their overall health risk. The assigned contributions reflect the causal relationships between these factors and hospitalization risk, with positive contributions indicating increased risk and negative contributions indicating reduced risk.

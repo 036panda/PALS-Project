@@ -1,0 +1,23 @@
+1. 7.8
+2. Input factors and their assigned contributions:
+   - Age: 19, contribution: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 46.7, contribution: 3.5 (high BMI associated with increased health risks)
+   - Family_Health_History: nan, contribution: 0 (no information available)
+   - Current_Diagnosis: Anxiety, contribution: 1.2 (anxiety can contribute to health risks)
+   - Race: Asian, contribution: 0 (race not directly associated with hospitalization risk in this context)
+   - Gender: Female, contribution: 0 (gender not directly associated with hospitalization risk in this context)
+   - Sexual_Orientation: Heterosexual, contribution: 0 (sexual orientation not directly associated with hospitalization risk)
+   - Weekly_Alcohol_Intake: 0, contribution: -0.5 (no alcohol intake reduces health risks)
+   - Smoking: Yes, contribution: 2.1 (smoking associated with increased health risks)
+   - HAM-D: 0–6, contribution: -1 (normal/no depression reduces health risks)
+   - Been_Sad_or_Fatigued: Yes, contribution: 0.8 (sadness/fatigue can contribute to health risks)
+   - Loss_of_Interest: Yes, contribution: 0.8 (loss of interest can contribute to health risks)
+   - Hours_of_Sleep: 9.1, contribution: -0.2 (adequate sleep reduces health risks)
+   - Employment: Student, contribution: -0.5 (being a student may reduce health risks due to access to resources)
+   - Socioeconomic_Status: Middle, contribution: 0 (middle socioeconomic status not directly associated with increased or decreased health risks)
+   - Drinks_Coffee: Yes, contribution: 0 (coffee consumption not directly associated with hospitalization risk)
+   - Likes_Vegetables: No, contribution: 0.2 (not liking vegetables may contribute to health risks due to potential poor diet)
+   - Favourite_Sport: Basketball, contribution: 0 (favourite sport not directly associated with hospitalization risk)
+   - Votes: Sometimes, contribution: 0 (voting habits not directly associated with hospitalization risk)
+   - Height_in_Inches: 62, contribution: 0 (height not directly associated with hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's health and lifestyle factors, with higher contributions from factors such as high BMI, smoking, and symptoms of anxiety or depression, which are known to increase the risk of hospitalization. The score reflects the cumulative effect of these factors on the individual's overall health risk.

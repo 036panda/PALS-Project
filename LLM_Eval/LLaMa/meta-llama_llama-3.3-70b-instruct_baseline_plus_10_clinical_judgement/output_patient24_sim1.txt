@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attribute impacts:
+   - Age (52): +0.5 (increased risk due to age-related health decline)
+   - BMI (16.4): +1.2 (high risk due to underweight status)
+   - Family_Health_History (Cancer): +0.8 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (Bipolar): +1.5 (high risk due to mental health condition)
+   - Race (Asian): +0.1 (slightly increased risk due to potential genetic factors)
+   - Gender (Male): +0.2 (slightly increased risk due to gender-related health trends)
+   - Sexual_Orientation (Other): -0.1 (slightly decreased risk due to potential support networks)
+   - Weekly_Alcohol_Intake (7): +0.5 (increased risk due to moderate alcohol consumption)
+   - Smoking (Yes): +1.0 (high risk due to smoking-related health issues)
+   - HAM-D (7-17, Mild Depression): +0.8 (increased risk due to depressive symptoms)
+   - Been_Sad_or_Fatigued (No): -0.2 (decreased risk due to absence of reported sadness or fatigue)
+   - Loss_of_Interest (Yes): +0.5 (increased risk due to loss of interest)
+   - Hours_of_Sleep (4.8): +0.8 (increased risk due to sleep deprivation)
+   - Employment (Employed): -0.5 (decreased risk due to stable employment)
+   - Socioeconomic_Status (Middle): -0.3 (decreased risk due to middle socioeconomic status)
+   - Drinks_Coffee (No): -0.1 (slightly decreased risk due to absence of coffee consumption)
+   - Likes_Vegetables (Yes): -0.4 (decreased risk due to healthy dietary habits)
+   - Favourite_Sport (nan): 0 (no impact due to missing data)
+   - Votes (Always): -0.1 (slightly decreased risk due to civic engagement)
+   - Height_in_Inches (71): 0 (no impact due to average height)
+   - Has_Drivers_License (No): +0.2 (slightly increased risk due to potential mobility issues)
+   - Picks_Up_Litter (Sometimes): -0.1 (slightly decreased risk due to community engagement)
+   - Uses_Public_Transportation (Always): -0.2 (decreased risk due to reduced driving-related risks)
+   - Donated_Blood (Yes): -0.3 (decreased risk due to altruistic behavior)
+   - Birthday_Month (October): 0 (no impact due to birth month)
+
+3. The patient's hospitalization risk is elevated due to a combination of factors including underweight status, bipolar diagnosis, smoking, and sleep deprivation, which collectively contribute to a heightened risk of health complications. However, the patient's stable employment, middle socioeconomic status, and healthy dietary habits somewhat mitigate this risk, resulting in a final score of 6.2.

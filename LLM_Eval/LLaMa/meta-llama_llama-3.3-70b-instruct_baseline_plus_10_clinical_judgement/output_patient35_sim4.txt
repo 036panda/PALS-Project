@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (18): -1.5 (lower risk due to younger age)
+   - BMI (25.6): 1.2 (moderate risk due to being overweight)
+   - Family_Health_History (Hypertension): 1.5 (increased risk due to family history of hypertension)
+   - Current_Diagnosis (Bipolar): 2.0 (significant risk due to bipolar diagnosis)
+   - Race (Hispanic): 0.0 (no specific risk adjustment for this factor)
+   - Gender (Non-binary): 0.0 (no specific risk adjustment for this factor)
+   - Sexual_Orientation (Heterosexual): 0.0 (no specific risk adjustment for this factor)
+   - Weekly_Alcohol_Intake (5): 0.5 (moderate risk due to alcohol consumption)
+   - Smoking (No): -0.5 (lower risk due to not smoking)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued (No): -0.2 (slightly lower risk)
+   - Loss_of_Interest (No): -0.2 (slightly lower risk)
+   - Hours_of_Sleep (5.7): 0.2 (slightly increased risk due to less sleep)
+   - Employment (Employed): -0.5 (lower risk due to employment)
+   - Socioeconomic_Status (High): -0.5 (lower risk due to high socioeconomic status)
+   - Drinks_Coffee (No): 0.0 (no specific risk adjustment for this factor)
+   - Likes_Vegetables (No): 0.1 (slightly increased risk due to not liking vegetables)
+   - Favourite_Sport (nan): 0.0 (no specific risk adjustment for this factor)
+   - Votes (Never): 0.0 (no specific risk adjustment for this factor)
+   - Height_in_Inches (59): 0.0 (no specific risk adjustment for this factor)
+   - Has_Drivers_License (No): 0.0 (no specific risk adjustment for this factor)
+   - Picks_Up_Litter (Never): 0.0 (no specific risk adjustment for this factor)
+   - Uses_Public_Transportation (Never): 0.0 (no specific risk adjustment for this factor)
+   - Donated_Blood (Yes): -0.1 (slightly lower risk due to altruistic behavior)
+   - Birthday_Month (January): 0.0 (no specific risk adjustment for this factor)
+
+3. The patient's hospitalization risk is influenced significantly by their bipolar diagnosis and family history of hypertension, which are countered by their young age, employment, and high socioeconomic status, leading to a moderate risk score. Overall, the patient's mental health condition and lifestyle factors contribute to a risk profile that warrants monitoring but does not currently indicate a high likelihood of hospitalization.

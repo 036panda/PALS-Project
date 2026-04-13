@@ -1,0 +1,14 @@
+1. Risk Assessment Score: 6
+2. Here is the list of parameters with their associated numerical risk values:
+	* Age: -1 (young age is associated with lower risk)
+	* BMI: 2 (high BMI is associated with increased risk)
+	* Current_Diagnosis: 3 (schizophrenia is associated with increased risk)
+	* Weekly_Alcohol_Intake: 1 (moderate alcohol intake is associated with increased risk)
+	* HAM-D: 1 (mild depression is associated with increased risk)
+	* Loss_of_Interest: 1 (loss of interest is associated with increased risk)
+	* Socioeconomic_Status: 1 (low socioeconomic status is associated with increased risk)
+	* Exercises: -1 (lack of exercise is associated with increased risk, but since the value is "No", it's assigned a negative value to indicate increased risk)
+	* Allergy: 1 (having an allergy is associated with increased risk)
+	* Binge_Watches_TV: 1 (binge watching TV is associated with increased risk)
+	* Orders_Takeout: 1 (daily takeout orders are associated with increased risk)
+3. The patient's risk assessment score is 6, indicating a moderate risk of hospitalization, primarily due to their schizophrenia diagnosis, high BMI, and socioeconomic status, as well as their lifestyle habits such as lack of exercise and daily takeout orders. The patient's young age and lack of smoking history help to mitigate some of this risk, but overall, their health status and behaviors suggest a need for monitoring and potential intervention.

@@ -1,0 +1,18 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: 18, Contribution: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 25.6, Contribution: 1.2 (BMI in the overweight category, which can increase health risks)
+   - Family_Health_History: Hypertension, Contribution: 1.5 (family history of hypertension increases cardiovascular risk)
+   - Current_Diagnosis: Bipolar, Contribution: 2.0 (bipolar disorder can increase risk due to potential for severe episodes and comorbidities)
+   - Race: Hispanic, Contribution: 0.5 (some studies suggest Hispanic populations may have higher risks for certain health conditions, but this is complex and multifactorial)
+   - Gender: Non-binary, Contribution: 0 (no direct evidence to suggest increased hospitalization risk based on non-binary gender identity)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (no direct evidence to suggest increased hospitalization risk based on heterosexual orientation)
+   - Weekly_Alcohol_Intake: 5, Contribution: 0.5 (moderate alcohol intake can have mixed effects but is generally considered low risk at this level)
+   - Smoking: No, Contribution: -1.0 (not smoking reduces health risks)
+   - HAM-D: 0–6, Contribution: -1.0 (normal score indicates no depression, reducing risk)
+   - Been_Sad_or_Fatigued: No, Contribution: -0.5 (absence of recent sadness or fatigue reduces risk)
+   - Loss_of_Interest: No, Contribution: -0.5 (no loss of interest reduces risk of severe depression)
+   - Hours_of_Sleep: 5.7, Contribution: 0.5 (sleep less than 7 hours can increase health risks)
+   - Employment: Employed, Contribution: -0.5 (being employed can reduce stress and increase access to healthcare, lowering risk)
+   - Socioeconomic_Status: High, Contribution: -1.0 (higher socioeconomic status generally associated with better health outcomes and lower risk)
+3. The risk score calculation is based on the summation of positive and negative contributions from each factor, reflecting their individual impacts on health risk, with considerations for both physical and mental health factors. This approach logically integrates various aspects of an individual's life and health status to estimate their hospitalization risk.

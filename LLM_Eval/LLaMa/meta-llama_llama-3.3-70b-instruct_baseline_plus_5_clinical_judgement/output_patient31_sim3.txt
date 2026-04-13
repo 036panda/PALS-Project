@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (36): -0.5 (relatively young, lower risk)
+   - BMI (36.8): 2.5 (obese, higher risk of chronic conditions)
+   - Family_Health_History (Hypertension): 1.2 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (nan): 0 (no current diagnosis, neutral impact)
+   - Race (Black): 0.8 (higher risk due to potential healthcare disparities and genetic predispositions)
+   - Gender (Non-binary): 0 (neutral, as there's no direct correlation with hospitalization risk)
+   - Sexual_Orientation (Heterosexual): 0 (neutral, as there's no direct correlation with hospitalization risk)
+   - Weekly_Alcohol_Intake (7): 1.0 (moderate drinking, potential health risks)
+   - Smoking (Yes): 2.0 (significant health risk due to smoking)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (lower risk due to absence of depression)
+   - Been_Sad_or_Fatigued (Yes): 0.5 (potential indicator of underlying issues)
+   - Loss_of_Interest (Yes): 0.5 (potential indicator of underlying mental health issues)
+   - Hours_of_Sleep (5.7): 0.8 (less than optimal sleep, potential health risks)
+   - Employment (Employed): -0.5 (stable employment, lower risk)
+   - Socioeconomic_Status (Middle): -0.2 (middle socioeconomic status, relatively lower risk)
+   - Drinks_Coffee (No): 0 (neutral, as there's no direct correlation with hospitalization risk)
+   - Likes_Vegetables (Yes): -0.5 (healthier diet, lower risk)
+   - Favourite_Sport (Soccer): 0 (neutral, as there's no direct correlation with hospitalization risk)
+   - Votes (Never): 0 (neutral, as there's no direct correlation with hospitalization risk)
+   - Height_in_Inches (60): 0 (neutral, as height alone does not significantly impact hospitalization risk)
+
+3. The patient's high BMI, smoking habit, and family history of hypertension significantly increase their risk of hospitalization, while their employment status, absence of depression, and healthier dietary preferences somewhat mitigate this risk. Overall, the combination of these factors suggests a moderate to high risk of hospitalization, necessitating close monitoring and potential intervention to address the modifiable risk factors.

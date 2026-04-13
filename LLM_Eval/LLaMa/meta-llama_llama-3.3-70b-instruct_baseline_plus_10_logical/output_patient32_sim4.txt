@@ -1,0 +1,30 @@
+1. Risk Score: 6.8
+
+2. Input Factors and Contributions:
+   - Age: 19: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 17.6: -0.5 (underweight, potential health risk but less severe than overweight)
+   - Family_Health_History: Diabetes: +1.2 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Schizophrenia: +2.5 (serious mental health condition)
+   - Race: White: 0 (no direct contribution assigned due to lack of specific risk association)
+   - Gender: Non-binary: 0 (no direct contribution assigned due to lack of specific risk association)
+   - Sexual_Orientation: Heterosexual: 0 (no direct contribution assigned due to lack of specific risk association)
+   - Weekly_Alcohol_Intake: 3: +0.5 (moderate alcohol intake, potential health risk)
+   - Smoking: No: -1 (lower risk due to not smoking)
+   - HAM-D: 25+: Severe Depression: +2.8 (severe depression significantly increases health risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (less risk due to not feeling sad or fatigued)
+   - Loss_of_Interest: Yes: +1 (increased risk due to loss of interest, indicative of depression)
+   - Hours_of_Sleep: 8.0: -0.5 (adequate sleep, lower risk)
+   - Employment: Student: -0.8 (being a student may indicate a structured lifestyle, potentially lowering risk)
+   - Socioeconomic_Status: High: -1 (higher socioeconomic status often associated with better health outcomes)
+   - Drinks_Coffee: No: 0 (no direct contribution assigned due to lack of specific risk association)
+   - Likes_Vegetables: No: +0.2 (not liking vegetables may indicate less healthy diet)
+   - Favourite_Sport: nan: 0 (no contribution due to missing data)
+   - Votes: Never: 0 (no direct contribution assigned due to lack of specific risk association)
+   - Height_in_Inches: 74: 0 (no direct contribution assigned due to lack of specific risk association)
+   - Has_Drivers_License: No: 0 (no direct contribution assigned due to lack of specific risk association)
+   - Picks_Up_Litter: Always: -0.2 (indicative of responsible behavior, potentially lowering risk)
+   - Uses_Public_Transportation: Sometimes: 0 (no direct contribution assigned due to lack of specific risk association)
+   - Donated_Blood: No: 0 (no direct contribution assigned due to lack of specific risk association)
+   - Birthday_Month: July: 0 (no direct contribution assigned due to lack of specific risk association)
+
+3. The risk score calculation is based on assigning numerical values to each factor that reflects its potential impact on health risk, with positive values indicating increased risk and negative values indicating decreased risk. The sum of these values provides a comprehensive risk score, logically derived from the individual's health, behavioral, and demographic factors.

@@ -1,0 +1,23 @@
+1. 2.8
+2. Input factors and their assigned contributions:
+   - Age: 32, contribution: -0.5 (younger age generally associated with lower risk)
+   - BMI: 23.2, contribution: -0.2 (normal BMI range, lower risk)
+   - Family_Health_History: nan, contribution: 0 (no information, neutral)
+   - Current_Diagnosis: nan, contribution: 0 (no information, neutral)
+   - Race: Other, contribution: 0 (insufficient data to determine risk association)
+   - Gender: Other, contribution: 0 (insufficient data to determine risk association)
+   - Sexual_Orientation: Heterosexual, contribution: 0 (no established risk association)
+   - Weekly_Alcohol_Intake: 6, contribution: 0.5 (moderate alcohol intake may increase risk)
+   - Smoking: No, contribution: -0.5 (non-smoking associated with lower risk)
+   - HAM-D: 0–6, contribution: -0.5 (normal mental health score, lower risk)
+   - Been_Sad_or_Fatigued: No, contribution: -0.2 (no reported sadness or fatigue, lower risk)
+   - Loss_of_Interest: No, contribution: -0.2 (no reported loss of interest, lower risk)
+   - Hours_of_Sleep: 6.8, contribution: 0.2 (slightly below average sleep hours, potential increased risk)
+   - Employment: Employed, contribution: -0.5 (employment associated with lower risk)
+   - Socioeconomic_Status: High, contribution: -0.5 (higher socioeconomic status associated with lower risk)
+   - Drinks_Coffee: Yes, contribution: 0.1 (moderate coffee consumption may have slight risk increase)
+   - Likes_Vegetables: No, contribution: 0.2 (not liking vegetables may indicate poorer diet, increased risk)
+   - Favourite_Sport: Basketball, contribution: 0 (no established risk association)
+   - Votes: Sometimes, contribution: 0 (voting behavior not directly associated with health risk)
+   - Height_in_Inches: 71, contribution: 0 (height not directly associated with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's factors, considering the potential causal relationships between these factors and health outcomes, with a focus on lifestyle, mental health, and socioeconomic status. The score reflects the cumulative effect of these factors, with higher scores indicating a greater risk of hospitalization.

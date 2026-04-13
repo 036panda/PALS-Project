@@ -1,0 +1,21 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attribute impacts:
+   - Age (18): -1.5 (young age generally associated with lower health risks)
+   - BMI (25.6): 1.2 (slightly elevated BMI, indicating potential for health issues)
+   - Family_Health_History (Hypertension): 1.5 (family history of hypertension increases risk)
+   - Current_Diagnosis (Bipolar): 2.0 (bipolar disorder can significantly impact health and increase hospitalization risk)
+   - Race (Hispanic): 0.0 (no direct impact, as risk is more closely tied to specific health conditions and behaviors)
+   - Gender (Non-binary): 0.0 (no direct impact, as risk is more closely tied to specific health conditions and behaviors)
+   - Sexual_Orientation (Heterosexual): 0.0 (no direct impact, as risk is more closely tied to specific health conditions and behaviors)
+   - Weekly_Alcohol_Intake (5): 0.5 (moderate alcohol intake, potential for some health impact)
+   - Smoking (No): -1.0 (not smoking reduces health risks)
+   - HAM-D (0–6: Normal / No Depression): -1.0 (no indication of depression reduces risk)
+   - Been_Sad_or_Fatigued (No), Loss_of_Interest (No): -0.5 (absence of these symptoms reduces risk)
+   - Hours_of_Sleep (5.7): 0.5 (slightly reduced sleep, potential for some health impact)
+   - Employment (Employed): -0.5 (being employed can reduce stress and improve health outcomes)
+   - Socioeconomic_Status (High): -0.5 (higher socioeconomic status generally associated with better health outcomes)
+   - Drinks_Coffee (No), Likes_Vegetables (No): 0.0 (neutral impact, as these are not strongly linked to hospitalization risk in this context)
+   - Other attributes (Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal): 0.0 (these attributes do not directly impact hospitalization risk in a significant way)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis and family history of hypertension, which are significant health concerns. However, their young age, lack of smoking, and stable employment status mitigate this risk to some extent, resulting in a moderate hospitalization risk score.

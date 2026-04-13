@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 6.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (42): +0.5 (moderate risk due to increasing age)
+   - BMI (13.4): +2.0 (high risk due to underweight status)
+   - Family_Health_History (Diabetes): +1.2 (increased risk due to genetic predisposition)
+   - Current_Diagnosis (nan): +0.0 (no impact due to lack of information)
+   - Race (Native American): +0.8 (increased risk due to ethnic health disparities)
+   - Gender (Other): +0.2 (minimal impact due to non-binary gender)
+   - Sexual_Orientation (Heterosexual): +0.0 (no impact)
+   - Weekly_Alcohol_Intake (4): +0.5 (moderate risk due to alcohol consumption)
+   - Smoking (No): -0.5 (reduced risk due to non-smoking status)
+   - HAM-D (7–17: Mild Depression): +1.5 (increased risk due to mild depression)
+   - Been_Sad_or_Fatigued (No): -0.2 (minimal reduced risk)
+   - Loss_of_Interest (Yes): +1.0 (increased risk due to loss of interest)
+   - Hours_of_Sleep (5.0): +1.0 (increased risk due to inadequate sleep)
+   - Employment (Employed): -0.5 (reduced risk due to stable employment)
+   - Socioeconomic_Status (Middle): -0.2 (minimal reduced risk due to middle socioeconomic status)
+   - Drinks_Coffee (Yes): +0.2 (minimal impact due to coffee consumption)
+   - Likes_Vegetables (Yes): -0.5 (reduced risk due to healthy dietary habits)
+   - Favourite_Sport (Soccer): -0.2 (minimal reduced risk due to engagement in physical activity)
+   - Votes (Never): +0.0 (no impact)
+   - Height_in_Inches (64): +0.0 (no impact due to average height)
+
+3. The patient's underweight status, family history of diabetes, mild depression, and inadequate sleep significantly increase the risk of hospitalization, while stable employment and healthy habits like vegetable consumption and engagement in sports slightly mitigate this risk. Overall, the patient's unique combination of risk factors warrants close monitoring and potential intervention to prevent hospitalization.

@@ -1,0 +1,25 @@
+1. Risk Score: 6.8
+
+2. Input Factors and Contributions:
+   - Age: 63: +2.5 (increased risk due to age-related health decline)
+   - BMI: 33.3: +1.8 (increased risk due to obesity-related health issues)
+   - Family_Health_History: Heart Disease: +1.2 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Bipolar: +1.5 (increased risk due to mental health condition)
+   - Race: Hispanic: +0.5 (increased risk due to potential healthcare disparities)
+   - Gender: Non-binary: +0.2 (potential increased risk due to social determinants of health)
+   - Sexual_Orientation: Heterosexual: 0 (neutral)
+   - Weekly_Alcohol_Intake: 1: -0.5 (reduced risk due to moderate alcohol consumption)
+   - Smoking: No: -1.0 (reduced risk due to absence of smoking)
+   - HAM-D: 7–17: Mild Depression: +1.0 (increased risk due to mental health condition)
+   - Been_Sad_or_Fatigued: No: -0.5 (reduced risk due to absence of symptoms)
+   - Loss_of_Interest: No: -0.5 (reduced risk due to absence of symptoms)
+   - Hours_of_Sleep: 7.7: -0.2 (reduced risk due to adequate sleep)
+   - Employment: Retired: +0.5 (increased risk due to potential social isolation)
+   - Socioeconomic_Status: Middle: 0 (neutral)
+   - Drinks_Coffee: Yes: -0.2 (reduced risk due to potential health benefits of moderate coffee consumption)
+   - Likes_Vegetables: No: +0.5 (increased risk due to potential poor diet)
+   - Favourite_Sport: Soccer: -0.5 (reduced risk due to potential physical activity)
+   - Votes: Always: 0 (neutral)
+   - Height_in_Inches: 64: 0 (neutral)
+
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering the individual's health conditions, lifestyle, and socioeconomic factors. The score reflects the cumulative effect of these factors, with positive contributions indicating increased risk and negative contributions indicating reduced risk.

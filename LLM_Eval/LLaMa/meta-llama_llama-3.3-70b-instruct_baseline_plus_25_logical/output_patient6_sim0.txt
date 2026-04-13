@@ -1,0 +1,16 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 36, contribution: 0.5 (positive, as increasing age is generally associated with higher health risks)
+   - BMI: 31.3, contribution: 1.2 (positive, as high BMI is linked to various health issues)
+   - Family_Health_History: Asthma, contribution: 0.8 (positive, indicating a potential genetic predisposition to respiratory issues)
+   - Current_Diagnosis: Anxiety, contribution: 1.5 (positive, as anxiety can impact physical health and increase hospitalization risk)
+   - Weekly_Alcohol_Intake: 5, contribution: 0.5 (positive, as moderate alcohol consumption can have negative health effects)
+   - HAM-D: 0–6, contribution: 0 (neutral, as the score indicates no depression)
+   - Hours_of_Sleep: 6.0, contribution: -0.2 (negative, as 6 hours of sleep is relatively adequate)
+   - Socioeconomic_Status: Low, contribution: 1.0 (positive, as lower socioeconomic status is associated with higher health risks)
+   - Drinks_Coffee: Yes, contribution: -0.1 (negative, as moderate coffee consumption may have health benefits)
+   - Likes_Vegetables: No, contribution: 0.3 (positive, as not liking vegetables may indicate a less healthy diet)
+   - Employment: Employed, contribution: -0.5 (negative, as being employed can provide health benefits and stability)
+   - Water_Intake_oz: 42.8, contribution: -0.1 (negative, as adequate water intake is beneficial for health)
+   - Other factors (e.g., Race, Gender, Sexual_Orientation, Smoking, Been_Sad_or_Fatigued, Loss_of_Interest, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone): 0 (neutral, as these factors do not have a clear, direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health-related factors, such as BMI, family health history, and current diagnosis, which have established causal relationships with increased health risks. The score reflects the cumulative effect of these factors, providing a logical and data-driven estimate of the individual's hospitalization risk.

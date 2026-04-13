@@ -1,0 +1,23 @@
+1. Risk Score: 4.8
+2. Input Factors and Contributions:
+   - Age: 26, Contribution: -1.5 (younger age generally reduces risk)
+   - BMI: 29.1, Contribution: 1.2 (high BMI increases risk)
+   - Family_Health_History: Diabetes, Contribution: 1.0 (family history of diabetes increases risk)
+   - Current_Diagnosis: Bipolar, Contribution: 1.5 (bipolar diagnosis increases risk)
+   - Race: Other, Contribution: 0 (no specific risk association provided)
+   - Gender: Non-binary, Contribution: 0 (no specific risk association provided)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (no specific risk association provided)
+   - Weekly_Alcohol_Intake: 3, Contribution: 0.5 (moderate alcohol intake may increase risk slightly)
+   - Smoking: No, Contribution: -1.0 (not smoking reduces risk)
+   - HAM-D: 0–6, Contribution: -1.0 (normal/no depression reduces risk)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 1.0 (symptoms increase risk)
+   - Loss_of_Interest: Yes, Contribution: 1.0 (symptoms increase risk)
+   - Hours_of_Sleep: 6.2, Contribution: 0.5 (slightly reduced sleep may increase risk)
+   - Employment: Employed, Contribution: -0.5 (being employed reduces risk)
+   - Socioeconomic_Status: Low, Contribution: 1.0 (low socioeconomic status increases risk)
+   - Drinks_Coffee: Yes, Contribution: 0 (no specific risk association provided)
+   - Likes_Vegetables: Yes, Contribution: -0.5 (healthy diet reduces risk)
+   - Favourite_Sport: Gymnastics, Contribution: 0 (no specific risk association provided)
+   - Votes: Always, Contribution: 0 (no specific risk association provided)
+   - Height_in_Inches: 64, Contribution: 0 (no specific risk association provided)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering both physical health indicators (like BMI and family health history) and mental health indicators (like current diagnosis and symptoms of sadness or loss of interest). The score reflects a balanced assessment of these factors, weighing the presence of risk-increasing conditions against protective factors such as employment and healthy lifestyle choices.

@@ -1,0 +1,23 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 20: -1.5 (young age generally lowers health risks)
+   - BMI: 24.6: 0.5 (slightly above normal, minor increase in health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer increases risk)
+   - Current_Diagnosis: Schizophrenia: 2.5 (serious mental health condition increases risk)
+   - Race: Black: 0.8 (some studies suggest higher health risks for Black individuals due to socioeconomic and access factors)
+   - Gender: Other: 0.2 (non-binary or other gender identities may face unique health challenges)
+   - Sexual_Orientation: Heterosexual: 0 (neutral impact)
+   - Weekly_Alcohol_Intake: 6: 0.5 (moderate alcohol intake, minor increase in health risks)
+   - Smoking: No: -1 (not smoking lowers health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1 (no depression lowers risk)
+   - Been_Sad_or_Fatigued: No: -0.5 (not experiencing sadness or fatigue lowers risk)
+   - Loss_of_Interest: Yes: 1 (loss of interest can be a symptom of underlying issues)
+   - Hours_of_Sleep: 7.6: -0.2 (adequate sleep, minor decrease in health risks)
+   - Employment: Student: -0.5 (being a student may provide access to resources and support)
+   - Socioeconomic_Status: Low: 1.5 (low socioeconomic status increases health risks due to limited access to resources)
+   - Drinks_Coffee: Yes: 0 (neutral impact)
+   - Likes_Vegetables: No: 0.2 (not liking vegetables may indicate less healthy diet choices)
+   - Favourite_Sport: Gymnastics: -0.2 (engaging in sports, minor decrease in health risks)
+   - Votes: Sometimes: 0 (neutral impact)
+   - Height_in_Inches: 58: 0 (neutral impact, as height alone is not a strong predictor of hospitalization risk)
+3. The patient's hospitalization risk is significantly influenced by their diagnosis of schizophrenia and low socioeconomic status, which are major contributors to their overall risk score. Despite some protective factors such as not smoking and adequate sleep, the presence of a serious mental health condition and socioeconomic challenges elevate their risk profile.

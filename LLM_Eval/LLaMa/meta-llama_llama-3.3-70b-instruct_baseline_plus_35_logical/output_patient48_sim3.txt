@@ -1,0 +1,14 @@
+1. 4.2
+2. 
+- Age: 46: +0.5 (increased risk with age)
+- BMI: 28.3: +1.2 (obesity increases health risks)
+- Family_Health_History: Heart Disease: +1.5 (genetic predisposition to heart disease)
+- Current_Diagnosis: Bipolar: +1.0 (mental health condition increases risk)
+- Weekly_Alcohol_Intake: 2: -0.5 (moderate alcohol consumption may have some health benefits)
+- Loss_of_Interest: Yes: +0.5 (indicator of potential mental health issue)
+- Socioeconomic_Status: Middle: -0.5 (better access to healthcare)
+- Employment: Employed: -0.5 (stable income and access to healthcare)
+- HAM-D: 0–6: Normal / No Depression: -1.0 (low depression score reduces risk)
+- Hours_of_Sleep: 7.0: -0.5 (adequate sleep reduces health risks)
+- All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, with factors such as age, BMI, family health history, and current diagnosis contributing to increased risk, while factors such as moderate alcohol consumption, stable socioeconomic status, and adequate sleep contribute to reduced risk. The score reflects the individual's specific characteristics and health status, without assuming any baseline or population-level risk.

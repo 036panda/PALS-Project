@@ -1,0 +1,16 @@
+1. 6.3
+2. Input factors and their assigned contributions:
+   - Age: 36, contribution: 0.5 (positive, as increasing age is generally associated with higher health risks)
+   - BMI: 31.3, contribution: 1.2 (positive, as high BMI is associated with increased health risks)
+   - Family_Health_History: Asthma, contribution: 0.8 (positive, as family history of asthma may indicate genetic predisposition to respiratory issues)
+   - Current_Diagnosis: Anxiety, contribution: 1.0 (positive, as anxiety can contribute to increased health risks)
+   - Weekly_Alcohol_Intake: 5, contribution: 0.5 (positive, as moderate alcohol intake can have negative health effects)
+   - HAM-D: 0–6, contribution: 0 (neutral, as normal depression score indicates no increased risk)
+   - Been_Sad_or_Fatigued: No, contribution: 0 (neutral, as no indication of increased risk)
+   - Loss_of_Interest: No, contribution: 0 (neutral, as no indication of increased risk)
+   - Hours_of_Sleep: 6.0, contribution: -0.2 (negative, as adequate sleep can reduce health risks)
+   - Socioeconomic_Status: Low, contribution: 1.0 (positive, as low socioeconomic status is associated with increased health risks)
+   - Smoking: No, contribution: -0.5 (negative, as not smoking reduces health risks)
+   - Allergy: Pollen, contribution: 0.2 (positive, as allergies can contribute to increased health risks)
+   - Other factors (e.g., employment, race, gender, etc.): 0 (neutral, as these factors do not have a clear, direct causal relationship with hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's health-related factors, such as BMI, family health history, and current diagnosis, which have established causal relationships with increased health risks. The score reflects the cumulative effect of these factors, with higher values indicating a greater likelihood of hospitalization.

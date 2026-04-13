@@ -1,0 +1,16 @@
+1. 4.2
+2. 
+- Age: -0.5 (lower age generally associated with lower risk)
+- BMI: -0.2 (BMI within normal range)
+- Current_Diagnosis: Depression: +2.0 (depression increases hospitalization risk)
+- Been_Sad_or_Fatigued: Yes: +1.0 (symptoms of depression)
+- Loss_of_Interest: No: -0.5 (absence of symptom)
+- Hours_of_Sleep: 7.0: -0.5 (adequate sleep reduces risk)
+- Socioeconomic_Status: Low: +1.0 (lower socioeconomic status associated with higher health risks)
+- Smoking: No: -1.0 (not smoking reduces risk)
+- Weekly_Alcohol_Intake: 2: -0.5 (moderate alcohol intake)
+- HAM-D: 0–6: Normal / No Depression: -1.0 (low score indicates low depression severity)
+- Exercises: No: +0.5 (lack of exercise increases health risks)
+- Allergy: Animal Dander: +0.2 (presence of allergy)
+- Other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the presence of depression, socioeconomic status, and lifestyle factors such as exercise and smoking habits, which have established causal relationships with health outcomes. The score reflects the individual's specific risk factors, including symptoms of depression and low socioeconomic status, which contribute to a higher risk score.

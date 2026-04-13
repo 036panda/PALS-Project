@@ -1,0 +1,18 @@
+1. 4.5
+2. Input factors and their assigned contributions:
+   - Age: 25: -1.5 (lower risk due to younger age)
+   - BMI: 28.5: 1.2 (higher risk due to overweight status)
+   - Family_Health_History: Hypertension: 1.0 (higher risk due to family history of hypertension)
+   - Current_Diagnosis: Bipolar: 1.5 (higher risk due to mental health condition)
+   - Race: Native American: 0.5 (higher risk due to potential healthcare disparities)
+   - Gender: Non-binary: 0 (no direct contribution, as limited research exists on hospitalization risk specific to non-binary individuals)
+   - Sexual_Orientation: Heterosexual: 0 (no direct contribution, as sexual orientation is not a direct risk factor for hospitalization)
+   - Weekly_Alcohol_Intake: 7: 0.8 (higher risk due to moderate alcohol consumption)
+   - Smoking: No: -0.5 (lower risk due to non-smoking status)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued: No: -0.2 (lower risk due to no reported sadness or fatigue)
+   - Loss_of_Interest: No: -0.2 (lower risk due to no reported loss of interest)
+   - Hours_of_Sleep: 7.8: -0.5 (lower risk due to adequate sleep)
+   - Employment: Employed: -0.5 (lower risk due to stable employment)
+   - Socioeconomic_Status: Middle: -0.5 (lower risk due to middle socioeconomic status)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and socioeconomic status, with each factor contributing to the overall risk score through its potential impact on physical and mental health. The score of 4.5 reflects the cumulative effect of these factors, with higher contributions from the individual's BMI, family health history, and current diagnosis of bipolar disorder.

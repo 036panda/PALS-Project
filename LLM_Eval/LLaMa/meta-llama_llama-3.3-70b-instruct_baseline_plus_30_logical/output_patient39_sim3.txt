@@ -1,0 +1,17 @@
+1. 3.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 32, contribution: -0.5 (younger age generally associated with lower risk)
+   - BMI: 23.2, contribution: -0.2 (normal BMI range, lower risk)
+   - Weekly_Alcohol_Intake: 6, contribution: 0.5 (moderate alcohol intake may increase risk)
+   - Smoking: No, contribution: -0.5 (not smoking reduces risk)
+   - HAM-D: 0–6, contribution: -0.5 (no depression, lower risk)
+   - Hours_of_Sleep: 6.8, contribution: -0.1 (adequate sleep, lower risk)
+   - Employment: Employed, contribution: -0.5 (employment generally associated with lower risk)
+   - Socioeconomic_Status: High, contribution: -1.0 (higher socioeconomic status, lower risk)
+   - Drinks_Coffee: Yes, contribution: 0.1 (moderate coffee consumption may have mixed effects)
+   - Uses_Public_Transportation: Always, contribution: 0.5 (frequent public transportation use may increase risk of infection)
+   - Water_Intake_oz: 42.8, contribution: -0.1 (adequate hydration, lower risk)
+   - Bilingual: Yes, contribution: -0.1 (bilingualism may be associated with cognitive benefits, lower risk)
+   - Allergy: Shellfish, contribution: 0.5 (presence of allergy, increased risk)
+   - Other factors (e.g., Family_Health_History: nan, Current_Diagnosis: nan, etc.): 0 (no contribution, due to lack of information or unclear relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's characteristics, with a focus on factors that have a clear, logical relationship with health risks, such as age, BMI, alcohol intake, and socioeconomic status. The assigned contributions reflect the expected impact of each factor on hospitalization risk, with the sum of all contributions equaling the final risk score.

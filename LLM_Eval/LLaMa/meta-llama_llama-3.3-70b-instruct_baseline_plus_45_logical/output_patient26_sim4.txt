@@ -1,0 +1,15 @@
+1. 4.2
+2. 
+- Age: 52: 0.5 (positive, as increasing age is associated with higher hospitalization risk)
+- BMI: 23.2: -0.2 (negative, as a BMI within the normal range is associated with lower hospitalization risk)
+- Family_Health_History: Asthma: 0.8 (positive, as a family history of asthma may increase the risk of respiratory issues)
+- Current_Diagnosis: Anxiety: 1.2 (positive, as anxiety can contribute to various health issues)
+- Weekly_Alcohol_Intake: 5: 0.3 (positive, as moderate alcohol intake may have some negative health effects)
+- HAM-D: 0–6: Normal / No Depression: -0.5 (negative, as no depression is associated with lower hospitalization risk)
+- Hours_of_Sleep: 7.4: -0.1 (negative, as adequate sleep is associated with lower hospitalization risk)
+- Employment: Employed: -0.2 (negative, as employment is associated with better health outcomes)
+- Socioeconomic_Status: Middle: -0.1 (negative, as a middle socioeconomic status is associated with relatively better health outcomes)
+- Exercises: Yes: -0.5 (negative, as regular exercise is associated with lower hospitalization risk)
+- Allergy: Shellfish: 0.2 (positive, as having an allergy may increase the risk of an allergic reaction)
+- Other factors: 0 (no contribution, as there is no clear causal relationship between these factors and hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, lifestyle, and socioeconomic factors, with a focus on the causal relationships between these factors and the risk of hospitalization. The score reflects the cumulative effect of various positive and negative contributions, resulting in a risk score of 4.2.

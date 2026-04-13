@@ -1,0 +1,14 @@
+1. 6.2
+2. 
+- Age: -1.5 (younger age generally associated with lower health risks)
+- BMI: -0.5 (BMI of 17.6 is underweight, which can be a health risk, but in the context of other factors, its impact is considered moderate)
+- Family_Health_History: +1.0 (history of diabetes increases risk)
+- Current_Diagnosis: +2.0 (schizophrenia significantly increases health risk)
+- HAM-D: +2.5 (severe depression significantly increases health risk)
+- Loss_of_Interest: +0.5 (associated with depression, increases risk)
+- Weekly_Alcohol_Intake: +0.2 (moderate alcohol intake can have mixed effects, but in this context, it slightly increases risk)
+- Socioeconomic_Status: -0.5 (high socioeconomic status generally associated with better health outcomes)
+- Hours_of_Sleep: -0.5 (8 hours of sleep is considered healthy, reducing risk)
+- Other factors not explicitly contributing to the risk score due to lack of direct causal relationship or insufficient information to determine a significant impact.
+
+3. The hospitalization risk score is calculated based on the presence of severe depression, schizophrenia, and a family history of diabetes, which are significant risk factors, balanced against protective factors such as high socioeconomic status, healthy sleep habits, and low BMI, considering the complex interplay of these factors on overall health risk. The score reflects a moderate to high risk due to the dominance of severe mental health conditions and family health history over the mitigating factors.

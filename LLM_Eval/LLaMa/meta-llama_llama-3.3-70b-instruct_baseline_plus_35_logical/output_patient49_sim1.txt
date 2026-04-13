@@ -1,0 +1,14 @@
+1. 4.2
+2. 
+- Age: -0.5 (lower age generally reduces risk)
+- BMI: 0.2 (slightly elevated BMI may contribute to health issues)
+- Current_Diagnosis: Bipolar: 2.0 (mental health condition increases risk)
+- Been_Sad_or_Fatigued: Yes: 1.0 (recent emotional state increases risk)
+- Socioeconomic_Status: Low: 0.5 (lower socioeconomic status can increase health risks)
+- Weekly_Alcohol_Intake: 1: -0.1 (moderate alcohol intake may reduce risk slightly)
+- HAM-D: 0–6: Normal / No Depression: -0.5 (no current depression reduces risk)
+- Hours_of_Sleep: 8.3: -0.1 (adequate sleep reduces risk)
+- Employment: Employed: -0.2 (employment generally reduces risk)
+- Family_Health_History: nan: 0 (unknown, no contribution)
+- Other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the presence of a mental health condition (Bipolar), recent emotional state (Been_Sad_or_Fatigued), and socioeconomic factors, which are known to contribute to increased health risks, while also considering protective factors such as employment and adequate sleep. The score reflects a balanced assessment of these causal relationships, without assuming any baseline or population-level risk.

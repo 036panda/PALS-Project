@@ -1,0 +1,23 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: 20, Contribution: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 21.0, Contribution: -0.5 (normal BMI, lower risk)
+   - Family_Health_History: Cancer, Contribution: 1.0 (increased risk due to family history of serious disease)
+   - Current_Diagnosis: Bipolar, Contribution: 1.5 (mental health condition increases risk)
+   - Race: Black, Contribution: 0.5 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender: Male, Contribution: 0.2 (generally, males have slightly higher risk factors than females for certain conditions)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (neutral, as sexual orientation itself isn't a direct risk factor for hospitalization)
+   - Weekly_Alcohol_Intake: 0, Contribution: -0.5 (no alcohol intake reduces risk)
+   - Smoking: No, Contribution: -0.5 (not smoking reduces risk)
+   - HAM-D: 7–17 (Mild Depression), Contribution: 1.0 (presence of mild depression increases risk)
+   - Been_Sad_or_Fatigued: No, Contribution: 0 (neutral, as this is not currently a factor)
+   - Loss_of_Interest: No, Contribution: 0 (neutral, as this is not currently a factor)
+   - Hours_of_Sleep: 5.7, Contribution: 0.5 (less sleep can increase health risks)
+   - Employment: Student, Contribution: -0.5 (being a student might imply access to healthcare and a supportive environment)
+   - Socioeconomic_Status: Low, Contribution: 1.0 (lower socioeconomic status is associated with higher health risks)
+   - Drinks_Coffee: Yes, Contribution: 0 (neutral, as moderate coffee consumption is not a significant risk factor)
+   - Likes_Vegetables: Yes, Contribution: -0.5 (healthy dietary preferences reduce risk)
+   - Favourite_Sport: Hockey, Contribution: 0 (neutral, as having a favorite sport doesn't directly impact health risk)
+   - Votes: Sometimes, Contribution: 0 (neutral, as voting frequency doesn't directly impact health risk)
+   - Height_in_Inches: 70, Contribution: 0 (neutral, as height alone isn't a significant risk factor without context)
+3. The risk score calculation is based on assigning numerical values to each factor that reflect their potential impact on health, considering both direct health risks (like family history of cancer, current diagnosis of bipolar disorder, and socioeconomic status) and lifestyle factors (such as alcohol intake, smoking, and sleep hours). The sum of these contributions provides a comprehensive risk score, logically derived from the individual's specific characteristics and conditions.

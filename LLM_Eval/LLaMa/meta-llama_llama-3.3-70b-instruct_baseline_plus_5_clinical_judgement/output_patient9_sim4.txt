@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age (35): -0.5 (being in the middle age range slightly decreases the risk due to lower likelihood of acute conditions but higher than pediatric or geriatric populations)
+   - BMI (26.8): +1.2 (being overweight increases the risk of various health complications)
+   - Family_Health_History (nan): 0 (no information available, thus no impact)
+   - Current_Diagnosis (Bipolar): +2.0 (bipolar disorder significantly increases the risk due to potential for severe episodes and comorbidities)
+   - Race (Asian): -0.2 (some studies suggest lower risk for certain conditions in Asian populations, but this is highly variable and dependent on numerous factors)
+   - Gender (Male): +0.5 (males may have a higher risk for certain conditions, though this can vary widely depending on the condition)
+   - Sexual_Orientation (Heterosexual): 0 (no significant impact identified in the context of hospitalization risk)
+   - Weekly_Alcohol_Intake (4): +0.8 (moderate alcohol intake can increase risk, though the impact can vary based on the pattern of consumption)
+   - Smoking (No): -1.0 (not smoking decreases the risk of numerous health issues)
+   - HAM-D (7–17: Mild Depression): +1.5 (mild depression increases the risk, particularly if not adequately managed)
+   - Been_Sad_or_Fatigued (Yes): +0.8 (recent feelings of sadness or fatigue can indicate current mental health struggles)
+   - Loss_of_Interest (No): -0.3 (not experiencing loss of interest suggests some preservation of mental health function)
+   - Hours_of_Sleep (5.3): +0.5 (sleep deprivation can increase health risks, including mental health)
+   - Employment (Employed): -0.5 (being employed can indicate stability and access to healthcare, reducing risk)
+   - Socioeconomic_Status (Middle): -0.2 (middle socioeconomic status may provide better access to healthcare, slightly reducing risk)
+   - Drinks_Coffee (No): 0 (no significant impact identified)
+   - Likes_Vegetables (Yes): -0.3 (healthy dietary habits can reduce health risks)
+   - Favourite_Sport (Basketball): 0 (no direct impact on hospitalization risk, though regular physical activity is beneficial)
+   - Votes (Never): 0 (no direct impact on health or hospitalization risk)
+   - Height_in_Inches (69): 0 (height alone, without context of weight or other factors, has minimal direct impact on hospitalization risk)
+
+3. The patient's hospitalization risk is influenced significantly by the presence of bipolar disorder and mild depression, indicating a need for close monitoring and management of mental health. The overall risk is moderate, reflecting both the presence of health risks and some protective factors such as employment and healthy dietary habits.

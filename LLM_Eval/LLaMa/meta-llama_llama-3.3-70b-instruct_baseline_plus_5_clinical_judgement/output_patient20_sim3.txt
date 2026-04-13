@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attributes and their impact on risk:
+   - Age (19): -1.5 (young age generally lowers health risks)
+   - BMI (25.1): 1.2 (slightly elevated BMI increases health risks)
+   - Family_Health_History (nan): 0 (no information, no impact)
+   - Current_Diagnosis (Schizophrenia): 2.5 (serious mental health condition increases risk)
+   - Race (Black): 0.5 (some studies suggest higher risk for certain conditions in Black populations)
+   - Gender (Female): -0.2 (generally lower risk for hospitalization compared to males)
+   - Sexual_Orientation (Heterosexual): 0 (no significant impact)
+   - Weekly_Alcohol_Intake (4): 0.8 (moderate alcohol intake can increase risk)
+   - Smoking (No): -1 (not smoking reduces health risks)
+   - HAM-D (7–17: Mild Depression): 1.8 (mild depression increases risk)
+   - Been_Sad_or_Fatigued (Yes): 1 (recent feelings of sadness or fatigue increase risk)
+   - Loss_of_Interest (No): -0.5 (no loss of interest reduces risk)
+   - Hours_of_Sleep (10.3): -0.5 (adequate sleep reduces health risks)
+   - Employment (Employed): -0.8 (being employed generally reduces health risks)
+   - Socioeconomic_Status (Middle): -0.2 (middle socioeconomic status has a slightly positive impact)
+   - Drinks_Coffee (Yes): 0.2 (moderate coffee consumption may have mixed effects on health)
+   - Likes_Vegetables (Yes): -0.5 (healthy dietary habits reduce health risks)
+   - Favourite_Sport (Hockey): 0 (no direct impact on health risk)
+   - Votes (Sometimes): 0 (no direct impact on health risk)
+   - Height_in_Inches (72): 0 (no significant impact on health risk)
+
+3. The patient's hospitalization risk is influenced significantly by the diagnosis of schizophrenia and mild depression, which are major contributors to the overall risk score. Despite some protective factors such as employment, adequate sleep, and healthy habits, the presence of serious mental health conditions elevates the risk, necessitating close monitoring and management.

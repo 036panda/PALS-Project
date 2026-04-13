@@ -1,0 +1,17 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 74 (+2.5, older age increases health risks)
+   - BMI: 29.4 (+1.5, higher BMI increases health risks)
+   - Family_Health_History: Cancer (+1.2, family history of cancer increases risk)
+   - Weekly_Alcohol_Intake: 4 (+0.5, moderate alcohol intake may increase health risks)
+   - HAM-D: 0–6: Normal / No Depression (-0.5, no depression reduces risk)
+   - Been_Sad_or_Fatigued: No (-0.2, no sadness or fatigue reduces risk)
+   - Loss_of_Interest: No (-0.2, no loss of interest reduces risk)
+   - Hours_of_Sleep: 7.0 (-0.5, adequate sleep reduces risk)
+   - Socioeconomic_Status: Middle (-0.2, middle socioeconomic status reduces risk compared to lower)
+   - Likes_Vegetables: Yes (-0.5, healthy eating habits reduce risk)
+   - Water_Intake_oz: 44.7 (-0.2, adequate water intake reduces risk)
+   - Bilingual: Yes (-0.1, bilingualism may have cognitive benefits)
+   - Allergy: Tree Nuts (+0.5, presence of allergy increases health risks)
+   - Other factors not directly influencing the risk score due to lack of clear causal relationships or insufficient information: Patient_ID, Current_Diagnosis, Race, Gender, Sexual_Orientation, Smoking, Employment, Drinks_Coffee, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Binge_Watches_TV, Favourite_Super_Store
+3. The hospitalization risk score is calculated based on the individual's health and lifestyle factors that have established causal relationships with increased risk of hospitalization, such as older age, higher BMI, family history of cancer, and presence of allergies. The score reflects the cumulative effect of these factors, adjusted for mitigating factors like healthy eating habits, adequate sleep, and absence of depression.

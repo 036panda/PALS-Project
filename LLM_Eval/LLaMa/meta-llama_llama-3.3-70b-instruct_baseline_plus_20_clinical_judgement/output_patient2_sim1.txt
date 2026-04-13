@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Detailed breakdown of individual attributes and their numerical impact on risk:
+   - Age: 40, Impact: 0.8 (increased risk due to age-related health decline)
+   - BMI: 34.6, Impact: 1.2 (high risk due to obesity-related health issues)
+   - Family_Health_History: Cancer, Impact: 1.0 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Bipolar, Impact: 1.5 (high risk due to mental health condition)
+   - HAM-D: 7–17, Impact: 1.0 (mild depression, moderate risk)
+   - Loss_of_Interest: Yes, Impact: 0.5 (increased risk due to symptom of depression)
+   - Weekly_Alcohol_Intake: 4, Impact: 0.2 (low to moderate risk due to alcohol consumption)
+   - Hours_of_Sleep: 8.9, Impact: -0.5 (decreased risk due to adequate sleep)
+   - Socioeconomic_Status: Middle, Impact: -0.5 (decreased risk due to stable socioeconomic status)
+   - Employment: Employed, Impact: -0.5 (decreased risk due to employment stability)
+   - Water_Intake_oz: 42.6, Impact: -0.2 (decreased risk due to adequate hydration)
+   - Other attributes (Race, Gender, Sexual_Orientation, Smoking, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels): 0.7 (cumulative minor risk factors)
+
+3. The patient's hospitalization risk is elevated due to their bipolar diagnosis, family history of cancer, and obesity, which are significant health concerns. However, their stable employment, middle socioeconomic status, and adequate sleep and hydration habits help mitigate this risk to some extent.

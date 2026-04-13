@@ -1,0 +1,14 @@
+1. Final Hospitalization Risk Score: 4.8
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 26: -0.5 (young age generally lowers health risks)
+   - BMI: 29.1: 1.2 (obesity increases risk of various health issues)
+   - Family_Health_History: Diabetes: 1.0 (family history of diabetes increases risk of developing related conditions)
+   - Current_Diagnosis: Bipolar: 1.5 (bipolar disorder can lead to increased hospitalization due to psychiatric episodes)
+   - Been_Sad_or_Fatigued: Yes: 0.5 (symptoms of sadness or fatigue can indicate underlying issues)
+   - Loss_of_Interest: Yes: 0.5 (loss of interest can be a symptom of depression or other mental health issues)
+   - Hours_of_Sleep: 6.2: -0.2 (adequate sleep generally reduces health risks, though 6.2 hours is slightly below the recommended range)
+   - Socioeconomic_Status: Low: 0.8 (lower socioeconomic status is associated with increased health risks due to limited access to healthcare and resources)
+   - Weekly_Alcohol_Intake: 3: 0.2 (moderate alcohol intake has a minimal impact on hospitalization risk)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (no indication of depression reduces psychiatric hospitalization risk)
+   - Other attributes (Race, Gender, Sexual_Orientation, Smoking, Employment, Drinks_Coffee, Likes_Vegetables, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Water_Intake_oz, Bilingual, Handedness, Likes_Kids, Favourite_Meal): 0 (these attributes do not significantly impact hospitalization risk based on provided information)
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, family history of diabetes, and socioeconomic status, which are mitigated to some extent by their young age, employment, and absence of depressive symptoms as indicated by the HAM-D score. Overall, the patient's risk profile suggests a moderate risk of hospitalization, primarily driven by their psychiatric diagnosis and socioeconomic factors.

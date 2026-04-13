@@ -1,0 +1,30 @@
+1. Final Hospitalization Risk Score: 4.2
+
+2. Breakdown of individual attribute impacts:
+   - Age: 20: -1.5 (young age generally associated with lower health risks)
+   - BMI: 21.0: -0.5 (normal BMI, indicating lower risk for obesity-related conditions)
+   - Family_Health_History: Cancer: +1.2 (family history of cancer may increase risk for various health issues)
+   - Current_Diagnosis: Bipolar: +2.0 (bipolar disorder can significantly impact health and increase hospitalization risk)
+   - Race: Black: +0.5 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender: Male: +0.2 (generally, males have slightly higher risk for certain health issues)
+   - Sexual_Orientation: Heterosexual: 0 (no direct impact on hospitalization risk)
+   - Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake reduces risk for alcohol-related health issues)
+   - Smoking: No: -0.5 (not smoking reduces risk for smoking-related health issues)
+   - HAM-D: 7–17: Mild Depression: +1.0 (mild depression can increase risk for mental health-related hospitalizations)
+   - Been_Sad_or_Fatigued: No: -0.2 (absence of recent sadness or fatigue reduces immediate risk)
+   - Loss_of_Interest: No: -0.2 (no loss of interest reduces risk for severe depression)
+   - Hours_of_Sleep: 5.7: +0.5 (less than ideal sleep hours can increase health risks)
+   - Employment: Student: -0.5 (being a student may provide access to healthcare and support systems)
+   - Socioeconomic_Status: Low: +1.0 (lower socioeconomic status can increase health risks due to limited access to care)
+   - Drinks_Coffee: Yes: 0 (coffee consumption has mixed effects on health, considered neutral here)
+   - Likes_Vegetables: Yes: -0.5 (healthy dietary habits can reduce health risks)
+   - Favourite_Sport: Hockey: 0 (physical activity is beneficial, but the specific sport does not directly impact hospitalization risk)
+   - Votes: Sometimes: 0 (voting behavior does not directly impact health risks)
+   - Height_in_Inches: 70: 0 (height is not directly related to hospitalization risk in this context)
+   - Has_Drivers_License: No: 0 (not having a driver's license may limit access to healthcare but is considered neutral here)
+   - Picks_Up_Litter: Sometimes: 0 (community engagement does not directly impact health risks)
+   - Uses_Public_Transportation: Sometimes: 0 (use of public transportation does not directly impact health risks)
+   - Donated_Blood: Yes: -0.5 (engagement in health-promoting activities can reduce risk)
+   - Birthday_Month: May: 0 (birthday month does not impact health risks)
+
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, family history of cancer, and socioeconomic status, which are mitigated to some extent by their young age, healthy BMI, and absence of alcohol and smoking habits. Overall, the risk assessment reflects a balance between these factors, indicating a moderate risk level that warrants regular monitoring and management of their bipolar disorder.
