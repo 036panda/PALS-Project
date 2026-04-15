@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 7
+
+2. Detailed Breakdown of Attributes:
+   - Age: 19 (Negative impact: -1) - Young adults generally have lower hospitalization rates compared to older populations.
+   - BMI: 17.6 (Positive impact: +2) - A low BMI can indicate malnutrition or other health issues, increasing risk.
+   - Family Health History: Diabetes (Positive impact: +1) - A family history of chronic illness can indicate a predisposition to health complications.
+   - Current Diagnosis: Schizophrenia (Positive impact: +3) - This diagnosis significantly increases the risk of hospitalization due to potential exacerbations and associated complications.
+   - Race: White (Neutral impact: 0) - Race does not significantly impact hospitalization risk in this context.
+   - Gender: Non-binary (Neutral impact: 0) - Gender identity does not directly influence hospitalization risk.
+   - Sexual Orientation: Heterosexual (Neutral impact: 0) - Sexual orientation does not directly influence hospitalization risk.
+   - Weekly Alcohol Intake: 3 (Negative impact: -1) - Moderate alcohol intake is not a significant risk factor for hospitalization.
+   - Smoking: No (Negative impact: -1) - Non-smokers generally have a lower risk of hospitalization.
+   - HAM-D: 25+ (Positive impact: +3) - Severe depression is a strong predictor of hospitalization due to mental health crises.
+   - Been Sad or Fatigued: No (Negative impact: -1) - Absence of sadness or fatigue can indicate better mental health stability.
+   - Loss of Interest: Yes (Positive impact: +1) - Loss of interest is a symptom of depression and can indicate worsening mental health.
+   - Hours of Sleep: 8.0 (Negative impact: -1) - Adequate sleep is generally associated with better mental health outcomes.
+   - Employment: Student (Neutral impact: 0) - Being a student does not significantly impact hospitalization risk.
+   - Socioeconomic Status: High (Negative impact: -1) - Higher socioeconomic status is often associated with better access to healthcare and lower hospitalization rates.
+
+3. Clinical Rationale: The patient presents with severe depression and a diagnosis of schizophrenia, both of which significantly elevate the risk of hospitalization. While some factors, such as age and socioeconomic status, mitigate this risk, the overall clinical picture suggests a heightened vulnerability, particularly due to the mental health diagnoses.

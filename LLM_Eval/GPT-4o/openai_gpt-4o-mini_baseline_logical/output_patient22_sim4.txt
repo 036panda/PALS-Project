@@ -1,0 +1,22 @@
+1. **Risk Score:** 5
+
+2. **Input Factors and Contributions:**
+   - Age (56): +2
+   - BMI (28.0): +1
+   - Family Health History (nan): 0
+   - Current Diagnosis (nan): 0
+   - Race (Asian): 0
+   - Gender (Other): 0
+   - Sexual Orientation (Heterosexual): 0
+   - Weekly Alcohol Intake (4): +1
+   - Smoking (No): -1
+   - HAM-D (7–17: Mild Depression): +1
+   - Been Sad or Fatigued (No): 0
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (6.1): 0
+   - Employment (Employed): 0
+   - Socioeconomic Status (Middle): 0
+
+   **Total Contributions:** 2 (Age) + 1 (BMI) + 0 (Family Health History) + 0 (Current Diagnosis) + 0 (Race) + 0 (Gender) + 0 (Sexual Orientation) + 1 (Weekly Alcohol Intake) - 1 (Smoking) + 1 (HAM-D) + 0 (Been Sad or Fatigued) + 1 (Loss of Interest) + 0 (Hours of Sleep) + 0 (Employment) + 0 (Socioeconomic Status) = 5
+
+3. **Justification:** The risk score of 5 reflects a moderate hospitalization risk based on the patient's age, BMI, mild depression, and loss of interest, which are known risk factors for health complications. Positive contributions from age, BMI, alcohol intake, and mental health indicators were balanced against the negative contribution from non-smoking status, leading to a calculated score of 5.

@@ -1,0 +1,27 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (32): +1
+   - BMI (23.2): 0 (normal range)
+   - Family Health History (nan): 0 (unknown)
+   - Current Diagnosis (nan): 0 (unknown)
+   - Race (Other): 0 (neutral)
+   - Gender (Other): 0 (neutral)
+   - Sexual Orientation (Heterosexual): 0 (neutral)
+   - Weekly Alcohol Intake (6): +1 (moderate intake)
+   - Smoking (No): -1 (protective factor)
+   - HAM-D (0–6: Normal / No Depression): -1 (protective factor)
+   - Been Sad or Fatigued (No): -1 (protective factor)
+   - Loss of Interest (No): -1 (protective factor)
+   - Hours of Sleep (6.8): 0 (adequate)
+   - Employment (Employed): -1 (protective factor)
+   - Socioeconomic Status (High): -1 (protective factor)
+   - Drinks Coffee (Yes): 0 (neutral)
+   - Likes Vegetables (No): +1 (negative dietary factor)
+   - Favourite Sport (Basketball): 0 (neutral)
+   - Votes (Sometimes): 0 (neutral)
+   - Height in Inches (71): 0 (neutral)
+
+   **Total Contributions:** +1 (Age) +1 (Alcohol) -1 (Smoking) -1 (HAM-D) -1 (Sadness) -1 (Interest) -1 (Employment) -1 (Socioeconomic Status) +1 (Vegetables) = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of moderate alcohol intake and a negative dietary preference, which contribute positively to risk, while protective factors such as non-smoking status, mental health stability, and high socioeconomic status mitigate overall risk. The net effect of these factors results in a low to moderate hospitalization risk.

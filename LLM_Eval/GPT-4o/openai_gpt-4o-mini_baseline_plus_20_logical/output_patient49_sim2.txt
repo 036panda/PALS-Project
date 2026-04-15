@@ -1,0 +1,42 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (34): +1
+   - BMI (24.2): 0 (neutral)
+   - Family Health History (nan): 0 (unknown)
+   - Current Diagnosis (Bipolar): +2
+   - Race (Hispanic): 0 (neutral)
+   - Gender (Female): 0 (neutral)
+   - Sexual Orientation (Heterosexual): 0 (neutral)
+   - Weekly Alcohol Intake (1): 0 (low intake)
+   - Smoking (No): 0 (non-smoker)
+   - HAM-D (0–6: Normal / No Depression): 0 (no depression)
+   - Been Sad or Fatigued (Yes): +1
+   - Loss of Interest (No): 0 (neutral)
+   - Hours of Sleep (8.3): 0 (adequate sleep)
+   - Employment (Employed): 0 (employed)
+   - Socioeconomic Status (Low): +1
+   - Drinks Coffee (No): 0 (neutral)
+   - Likes Vegetables (No): 0 (neutral)
+   - Favourite Sport (Soccer): 0 (neutral)
+   - Votes (Sometimes): 0 (neutral)
+   - Height in Inches (60): 0 (neutral)
+   - Has Driver's License (Yes): 0 (neutral)
+   - Picks Up Litter (Never): 0 (neutral)
+   - Uses Public Transportation (Always): 0 (neutral)
+   - Donated Blood (No): 0 (neutral)
+   - Birthday Month (November): 0 (neutral)
+   - Water Intake (oz) (44.1): 0 (neutral)
+   - Bilingual (No): 0 (neutral)
+   - Handedness (Right): 0 (neutral)
+   - Likes Kids (Yes): 0 (neutral)
+   - Favourite Meal (Breakfast): 0 (neutral)
+   - Favourite Color (Red): 0 (neutral)
+   - Recycling Habits (Sometimes): 0 (neutral)
+   - Hair Color (Red): 0 (neutral)
+   - Best Highschool Subject (History): 0 (neutral)
+   - Travels (No): 0 (neutral)
+
+   **Total Contributions:** +1 (Age) + 0 (BMI) + 0 (Family Health History) + 2 (Bipolar) + 0 (Race) + 0 (Gender) + 0 (Sexual Orientation) + 0 (Alcohol) + 0 (Smoking) + 0 (HAM-D) + 1 (Sadness) + 0 (Loss of Interest) + 0 (Sleep) + 0 (Employment) + 1 (Socioeconomic Status) + 0 (Coffee) + 0 (Vegetables) + 0 (Sport) + 0 (Votes) + 0 (Height) + 0 (License) + 0 (Litter) + 0 (Transportation) + 0 (Blood Donation) + 0 (Birthday) + 0 (Water) + 0 (Bilingual) + 0 (Handedness) + 0 (Kids) + 0 (Meal) + 0 (Color) + 0 (Recycling) + 0 (Hair) + 0 (Subject) + 0 (Travel) = 4
+
+3. **Justification:** The risk score of 4 reflects the patient's bipolar diagnosis, which contributes significantly to hospitalization risk, along with low socioeconomic status and reported feelings of sadness, while other factors such as age and lifestyle choices (e.g., no smoking, low alcohol intake) mitigate the overall risk. The absence of severe depression symptoms and adequate sleep further balance the risk assessment.

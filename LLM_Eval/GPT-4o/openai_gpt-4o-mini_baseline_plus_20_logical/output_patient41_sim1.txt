@@ -1,0 +1,39 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (22): -1 (younger age generally correlates with lower risk)
+   - BMI (21.9): -1 (normal BMI range correlates with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (nan): 0 (no current diagnosis, neutral impact)
+   - Weekly Alcohol Intake (3): 0 (moderate intake, neutral impact)
+   - Smoking (No): -2 (non-smoker, significantly lowers risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can increase risk)
+   - Been Sad or Fatigued (No): -1 (absence of significant symptoms lowers risk)
+   - Loss of Interest (No): -1 (absence of significant symptoms lowers risk)
+   - Hours of Sleep (9.6): -1 (adequate sleep correlates with lower risk)
+   - Employment (Employed): -1 (employment generally correlates with lower risk)
+   - Socioeconomic Status (Middle): 0 (neutral impact)
+   - Drinks Coffee (No): 0 (neutral impact)
+   - Likes Vegetables (Yes): -1 (healthy eating habits lower risk)
+   - Favourite Sport (Soccer): -1 (active lifestyle lowers risk)
+   - Votes (Always): -1 (civic engagement correlates with lower risk)
+   - Height in Inches (69): 0 (neutral impact)
+   - Has Driver's License (Yes): 0 (neutral impact)
+   - Picks Up Litter (Sometimes): 0 (neutral impact)
+   - Uses Public Transportation (Never): 0 (neutral impact)
+   - Donated Blood (Yes): -1 (altruistic behavior correlates with lower risk)
+   - Birthday Month (October): 0 (neutral impact)
+   - Water Intake (45.9 oz): 0 (neutral impact)
+   - Bilingual (Yes): 0 (neutral impact)
+   - Handedness (Left): 0 (neutral impact)
+   - Likes Kids (No): 0 (neutral impact)
+   - Favourite Meal (Breakfast): 0 (neutral impact)
+   - Favourite Color (Orange): 0 (neutral impact)
+   - Recycling Habits (Always): -1 (environmental consciousness correlates with lower risk)
+   - Hair Color (Brown): 0 (neutral impact)
+   - Best Highschool Subject (Science): 0 (neutral impact)
+   - Travels (No): 0 (neutral impact)
+
+   **Total Contributions:** -1 - 1 + 2 + 0 + 0 - 2 + 1 - 1 - 1 - 1 - 1 + 0 + 0 - 1 - 1 - 1 + 0 + 0 + 0 + 0 - 1 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of positive and negative contributions based on the patient's health behaviors, family history, and lifestyle factors. While the family history of cancer and mild depression contribute positively to the risk, several protective factors, such as non-smoking status, adequate sleep, and healthy lifestyle choices, mitigate the overall risk.

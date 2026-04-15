@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 2
+
+2. Detailed Breakdown of Attributes:
+   - Age (32 years): -1 (Younger age generally correlates with lower hospitalization risk)
+   - BMI (23.2): -1 (Normal BMI range is associated with lower health risks)
+   - Family Health History: 0 (Insufficient data; no impact assessed)
+   - Current Diagnosis: 0 (No current diagnosis; no impact assessed)
+   - Race: 0 (Race does not directly impact hospitalization risk in this context)
+   - Gender: 0 (Gender does not directly impact hospitalization risk in this context)
+   - Sexual Orientation: 0 (Sexual orientation does not directly impact hospitalization risk in this context)
+   - Weekly Alcohol Intake (6 drinks): +1 (Moderate alcohol intake may pose some health risks)
+   - Smoking (No): -2 (Non-smoker status significantly reduces hospitalization risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (No depression lowers risk of hospitalization)
+   - Been Sad or Fatigued: 0 (No impact as the patient reports no symptoms)
+   - Loss of Interest: 0 (No impact as the patient reports no symptoms)
+   - Hours of Sleep (6.8): 0 (Adequate sleep, but not optimal; neutral impact)
+   - Employment (Employed): -1 (Employment generally correlates with better health outcomes)
+   - Socioeconomic Status (High): -1 (Higher socioeconomic status is associated with lower hospitalization risk)
+
+   Total Impact: -1 - 1 + 1 - 2 - 1 - 1 = 2
+
+3. Clinical Rationale: This patient presents with a low risk of hospitalization due to their young age, normal BMI, non-smoking status, and absence of depression. While moderate alcohol intake is a minor concern, the overall profile suggests a stable health status with minimal risk factors.

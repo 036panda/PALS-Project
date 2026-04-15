@@ -1,0 +1,27 @@
+1. **Risk Score:** 6
+
+2. **Input Factors and Contributions:**
+   - Age (22): +1 (young adults generally have lower risk)
+   - BMI (35.9): +3 (obesity is a significant risk factor)
+   - Family Health History (Cancer): +2 (increased risk due to genetic predisposition)
+   - Current Diagnosis (Anxiety): +1 (mental health issues can contribute to overall health risk)
+   - Race (Hispanic): +0 (no specific contribution assigned)
+   - Gender (Female): +0 (no specific contribution assigned)
+   - Sexual Orientation (Bisexual): +0 (no specific contribution assigned)
+   - Weekly Alcohol Intake (4): +1 (moderate alcohol intake can be a risk factor)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can contribute to health risks)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue reduces risk)
+   - Loss of Interest (No): -1 (absence of loss of interest reduces risk)
+   - Hours of Sleep (5.7): +1 (less than recommended sleep can increase risk)
+   - Employment (Student): +0 (no specific contribution assigned)
+   - Socioeconomic Status (Middle): +0 (no specific contribution assigned)
+   - Drinks Coffee (No): +0 (no specific contribution assigned)
+   - Likes Vegetables (No): +0 (no specific contribution assigned)
+   - Favourite Sport (Soccer): +0 (no specific contribution assigned)
+   - Votes (Sometimes): +0 (no specific contribution assigned)
+   - Height in Inches (61): +0 (no specific contribution assigned)
+
+   **Total Contributions:** 1 (Age) + 3 (BMI) + 2 (Family Health History) + 1 (Anxiety) + 1 (Weekly Alcohol Intake) + 1 (HAM-D) - 1 (Non-smoker) - 1 (Been Sad or Fatigued) - 1 (Loss of Interest) + 1 (Hours of Sleep) = 6
+
+3. **Justification:** The risk score of 6 reflects a combination of factors that increase hospitalization risk, particularly the high BMI and family history of cancer, while some mitigating factors such as non-smoking and absence of severe depressive symptoms slightly lower the overall risk. The contributions are based on established associations between these factors and health outcomes.

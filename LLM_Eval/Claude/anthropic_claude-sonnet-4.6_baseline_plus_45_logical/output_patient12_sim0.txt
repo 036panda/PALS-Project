@@ -1,0 +1,53 @@
+## Risk Score: **6.2**
+
+---
+
+### Factor Contributions (Sum = 6.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age: 90 | Very advanced age; strong independent predictor of hospitalization | +3.0 |
+| BMI: 32.5 | Obese class I; increases cardiovascular and metabolic risk | +0.8 |
+| Smoking: Yes | Active smoker; increases pulmonary, cardiovascular, and oncologic risk | +0.7 |
+| Family Health History: Hypertension | Genetic predisposition to cardiovascular disease | +0.4 |
+| Current Diagnosis: Depression | Diagnosed condition requiring management; comorbidity burden | +0.3 |
+| Weekly Alcohol Intake: 4 drinks | Moderate; mild hepatic and interaction risk | +0.2 |
+| Water Intake: 44.2 oz | Below recommended ~64 oz; mild dehydration risk, especially at age 90 | +0.2 |
+| Skips Breakfast: Yes | Poor nutritional regularity; compounds metabolic risk at advanced age | +0.1 |
+| Likes Vegetables: No | Poor dietary quality; contributes to chronic disease risk | +0.1 |
+| Orders Takeout: Weekly | Higher sodium/fat intake likely; mild cardiovascular contribution | +0.1 |
+| Has No Driver's License | Reduced mobility/independence; may delay care-seeking at age 90 | +0.1 |
+| Cannot Ride Bicycle | Reduced mobility indicator | +0.05 |
+| Allergy: Dust | Respiratory irritant; mild risk given smoking status | +0.05 |
+| HAM-D: 0–6 (Normal) | No active depressive episode detected; mitigates depression risk | -0.2 |
+| Been Sad or Fatigued: No | No active mood symptoms | -0.1 |
+| Loss of Interest: No | No anhedonia; depression symptom burden low | -0.1 |
+| Hours of Sleep: 7.4 | Adequate sleep; protective for cardiovascular and immune health | -0.1 |
+| Exercises: Yes | Physical activity is strongly protective against hospitalization | -0.3 |
+| Socioeconomic Status: Middle | Moderate healthcare access; neither high-risk nor fully protective | 0.0 |
+| Employment: Retired | Expected at age 90; no independent contribution beyond age | 0.0 |
+| Volunteers: Always | Social engagement; protective for mental and physical health | -0.1 |
+| Helps Elderly: Always | Active social role; indicates functional capacity | -0.1 |
+| Donated Blood: Yes | Indicates prior health eligibility; mild protective signal | -0.05 |
+| Registered Organ Donor: Yes | Civic engagement; no direct clinical effect | 0.0 |
+| Annual Charity Donation: Always | Positive social determinant; mild stress-buffering effect | -0.05 |
+| Bilingual: Yes | Associated with cognitive reserve; mild protective factor | -0.05 |
+| Wears Glasses: Yes | Managed sensory impairment; neutral to mildly protective | 0.0 |
+| Relationship Status: Dating | Social connectedness; mild protective effect | -0.05 |
+| Religious: Yes | Associated with lower stress and social support | -0.05 |
+| Travels: Yes | Indicates functional independence at age 90; protective | -0.1 |
+| Drinks Coffee: Yes | Mild cardiovascular and metabolic benefit at moderate intake | -0.05 |
+| Binge-Watches TV: Yes | Sedentary behavior; mild negative contribution | +0.1 |
+| Uses Public Transportation: Never | Social isolation risk; mild negative at advanced age | +0.05 |
+| Picks Up Litter: Never | No clinical relevance | 0.0 |
+| Recycling Habits: Always | No clinical relevance | 0.0 |
+| All remaining lifestyle/preference factors (color, music, phone, etc.) | No established causal relationship with hospitalization risk | 0.0 |
+
+---
+
+**Sum Check:** 3.0 + 0.8 + 0.7 + 0.4 + 0.3 + 0.2 + 0.2 + 0.1 + 0.1 + 0.1 + 0.1 + 0.05 + 0.05 − 0.2 − 0.1 − 0.1 − 0.1 − 0.3 − 0.1 − 0.1 − 0.05 − 0.05 − 0.05 − 0.05 − 0.05 − 0.05 + 0.1 + 0.05 − 0.05 = **6.2** ✓
+
+---
+
+### Justification
+The dominant driver of this patient's hospitalization risk is advanced age (90), which causally elevates vulnerability to acute illness, falls, and decompensation of chronic conditions, compounded by obesity, active smoking, a depression diagnosis, and suboptimal hydration and diet. Protective factors—including regular exercise, adequate sleep, social engagement, functional independence evidenced by travel, and the absence of active depressive symptoms per HAM-D—partially offset these risks, yielding a final score of 6.2.

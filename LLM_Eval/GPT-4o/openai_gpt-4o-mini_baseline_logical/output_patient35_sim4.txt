@@ -1,0 +1,22 @@
+1. **Risk Score:** 2
+
+2. **Input Factors and Contributions:**
+   - Age (18): -1 (young age generally associated with lower risk)
+   - BMI (25.6): 0 (BMI in the normal range, no contribution)
+   - Family Health History (Hypertension): +1 (family history of hypertension increases risk)
+   - Current Diagnosis (Bipolar): +2 (mental health conditions can elevate hospitalization risk)
+   - Race (Hispanic): 0 (no direct contribution assigned)
+   - Gender (Non-binary): 0 (no direct contribution assigned)
+   - Sexual Orientation (Heterosexual): 0 (no direct contribution assigned)
+   - Weekly Alcohol Intake (5): +1 (moderate alcohol intake can increase risk)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued: 0 (no contribution as symptoms are absent)
+   - Loss of Interest: 0 (no contribution as symptoms are absent)
+   - Hours of Sleep (5.7): +1 (less than optimal sleep can increase risk)
+   - Employment (Employed): -1 (employment generally associated with lower risk)
+   - Socioeconomic Status (High): -1 (higher socioeconomic status typically reduces risk)
+
+   **Total Contributions:** -1 + 0 + 1 + 2 + 0 + 0 + 0 + 1 - 1 - 1 + 0 + 0 + 1 - 1 - 1 = 2
+
+3. **Justification:** The risk score of 2 reflects a combination of factors that slightly elevate hospitalization risk, primarily due to the current diagnosis of bipolar disorder and moderate alcohol intake, while other factors such as young age, non-smoking status, and high socioeconomic status contribute to a lower overall risk. The contributions were assessed based on established causal relationships between these factors and hospitalization risk.

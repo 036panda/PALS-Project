@@ -1,0 +1,20 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (20): -1 (younger age generally correlates with lower risk)
+   - BMI (21.0): -1 (normal BMI is associated with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (Bipolar): +1 (mental health conditions can increase overall health risk)
+   - Race (Black): +1 (certain racial groups may have higher health risks)
+   - Gender (Male): +1 (males generally have higher risk for certain conditions)
+   - Weekly Alcohol Intake (0): -1 (no alcohol intake reduces risk)
+   - Smoking (No): -1 (non-smoker status reduces risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can contribute to health risks)
+   - Hours of Sleep (5.7): +1 (less than optimal sleep can increase health risks)
+   - Socioeconomic Status (Low): +1 (lower socioeconomic status is associated with higher health risks)
+   - Relationship Status (Single): +1 (being single can correlate with higher stress and health risks)
+   - Skips Breakfast (Yes): +1 (skipping meals can be associated with poorer health outcomes)
+
+   **Total Contributions:** -1 - 1 + 2 + 1 + 1 + 1 - 1 - 1 + 1 + 1 + 1 + 1 + 1 = 4
+
+3. **Justification:** The risk score of 4 reflects a combination of protective factors (such as low BMI, no alcohol or smoking) and risk factors (such as family health history, mental health diagnosis, and socioeconomic status). The contributions were assessed based on established correlations between these factors and hospitalization risk, leading to a balanced score that indicates moderate risk.

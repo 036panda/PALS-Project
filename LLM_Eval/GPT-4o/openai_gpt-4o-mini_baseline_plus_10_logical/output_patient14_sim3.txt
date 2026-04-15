@@ -1,0 +1,32 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (18): +1 (young adults may have lower risk)
+   - BMI (30.9): +2 (obesity increases risk)
+   - Family Health History (nan): 0 (no contribution due to lack of data)
+   - Current Diagnosis (Bipolar): +2 (mental health conditions can increase risk)
+   - Race (Other): 0 (no specific contribution assigned)
+   - Gender (Non-binary): 0 (no specific contribution assigned)
+   - Sexual Orientation (Bisexual): 0 (no specific contribution assigned)
+   - Weekly Alcohol Intake (1): 0 (low intake, no contribution)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue reduces risk)
+   - Loss of Interest (Yes): +1 (loss of interest can indicate risk)
+   - Hours of Sleep (9.7): -1 (adequate sleep reduces risk)
+   - Employment (Student): 0 (no specific contribution assigned)
+   - Socioeconomic Status (Middle): 0 (no specific contribution assigned)
+   - Drinks Coffee (No): 0 (no specific contribution assigned)
+   - Likes Vegetables (No): 0 (no specific contribution assigned)
+   - Favourite Sport (Soccer): 0 (no specific contribution assigned)
+   - Votes (Never): 0 (no specific contribution assigned)
+   - Height in Inches (62): 0 (no specific contribution assigned)
+   - Has Driver's License (No): 0 (no specific contribution assigned)
+   - Picks Up Litter (Never): 0 (no specific contribution assigned)
+   - Uses Public Transportation (Never): 0 (no specific contribution assigned)
+   - Donated Blood (No): 0 (no specific contribution assigned)
+   - Birthday Month (April): 0 (no specific contribution assigned)
+
+   **Total Contributions:** +1 (Age) +2 (BMI) +2 (Bipolar) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) +1 (Loss of Interest) -1 (Hours of Sleep) = 4
+
+3. **Justification:** The risk score of 4 reflects a combination of factors that increase and decrease hospitalization risk. The presence of bipolar disorder and a high BMI contribute positively to the risk, while factors such as non-smoking status, normal depression levels, and adequate sleep mitigate some of that risk.

@@ -1,0 +1,91 @@
+## Hospitalization Risk Evaluation — Patient ID: 33
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.2 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact |
+|---|---|---|
+| Age: 42 | Middle-aged; moderate physiological risk accumulation | +0.3 |
+| BMI: 13.4 | Severely underweight; high risk for malnutrition, organ stress, immune compromise | +2.2 |
+| Family Health History: Diabetes | Genetic predisposition to metabolic disease | +0.3 |
+| Current Diagnosis: NaN | No active documented diagnosis | −0.2 |
+| Race: Native American | Elevated population-level health disparity risk | +0.3 |
+| Gender: Other | Minority gender identity; associated healthcare access barriers | +0.1 |
+| Sexual Orientation: Heterosexual | No additional orientation-related risk | 0.0 |
+| Weekly Alcohol Intake: 4 drinks | Moderate; mild hepatic and metabolic concern | +0.1 |
+| Smoking: No | Protective; no pulmonary or cardiovascular smoking risk | −0.2 |
+| HAM-D: Mild Depression (7–17) | Clinically significant mood disorder; impacts self-care and adherence | +0.4 |
+| Been Sad or Fatigued: No | Partially mitigates depression severity signal | −0.1 |
+| Loss of Interest: Yes | Anhedonia present; consistent with depressive pathology affecting motivation | +0.2 |
+| Hours of Sleep: 5.0 | Chronic sleep deprivation; immune and metabolic consequences | +0.4 |
+| Employment: Employed | Provides structure, insurance access, social engagement | −0.2 |
+| Socioeconomic Status: Middle | Moderate resource access; reduces some barriers to care | −0.1 |
+| Drinks Coffee: Yes | Mild diuretic effect; minor concern given low water intake | +0.1 |
+| Likes Vegetables: Yes | Positive dietary behavior; partially mitigates nutritional risk | −0.1 |
+| Favourite Sport: Soccer | Indicates some physical interest, though not currently exercising | 0.0 |
+| Votes: Never | Civic disengagement; correlates with lower health advocacy | +0.1 |
+| Height: 64 inches | Contextual to BMI calculation; no independent impact | 0.0 |
+| Has Driver's License: No | Potential transportation barrier to care | +0.1 |
+| Picks Up Litter: Always | Prosocial behavior; positive psychological indicator | −0.1 |
+| Uses Public Transportation: Sometimes | Partial mobility; moderate access to services | 0.0 |
+| Donated Blood: Yes | Indicates baseline health engagement and civic responsibility | −0.1 |
+| Birthday Month: February | No clinical relevance | 0.0 |
+| Water Intake: 44.2 oz | Below recommended daily intake (~64 oz); dehydration risk, especially at low BMI | +0.3 |
+| Bilingual: Yes | Cognitive and social asset; no risk contribution | −0.1 |
+| Handedness: Right | No clinical relevance | 0.0 |
+| Likes Kids: Yes | Positive social connectedness indicator | 0.0 |
+| Favourite Meal: Lunch | No clinical relevance | 0.0 |
+| Favourite Color: Red | No clinical relevance | 0.0 |
+| Recycling Habits: Always | Prosocial; no direct health impact | 0.0 |
+| Hair Color: Blonde | No clinical relevance | 0.0 |
+| Best High School Subject: Science | No clinical relevance | 0.0 |
+| Travels: Yes | Exposure to varied environments; minor immune consideration | +0.1 |
+| Relationship Status: Single | Reduced social support; associated with poorer health outcomes | +0.2 |
+| Favourite Music Genre: Pop | No clinical relevance | 0.0 |
+| Can Ride Bicycle: Yes | No clinical relevance | 0.0 |
+| Religious: No | Absence of faith community support; minor social buffer reduction | +0.1 |
+| Phone: Apple | No clinical relevance | 0.0 |
+| Wears Glasses: Yes | Minor sensory impairment; no significant hospitalization risk | 0.0 |
+| Morning or Night: Morning | Morning chronotype; generally associated with better health routines | −0.1 |
+| Allergy: Gluten | Dietary restriction; if celiac, contributes to malabsorption and low BMI | +0.4 |
+| Binge Watches TV: No | Reduced sedentary behavior signal | −0.1 |
+| Favourite Super Store: Target | No clinical relevance | 0.0 |
+| Pet Preference: Fish | Minimal pet-related stress or allergen exposure | 0.0 |
+| Volunteers: Sometimes | Moderate social engagement; mild protective effect | −0.1 |
+| Skips Breakfast: Yes | Disordered eating pattern; compounds malnutrition risk at critically low BMI | +0.4 |
+| Favourite Movie Genre: Action | No clinical relevance | 0.0 |
+| Registered Organ Donor: No | No clinical relevance | 0.0 |
+| Annual Charity Donation: Never | Mild indicator of reduced prosocial engagement | 0.0 |
+| Favourite Cuisine: Mexican | No clinical relevance | 0.0 |
+| Exercises: No | Sedentary lifestyle; compounds metabolic and musculoskeletal risk | +0.4 |
+| Likes Art: Yes | Positive creative outlet; mild protective psychological effect | −0.1 |
+| Academic Preference: Humanities | No clinical relevance | 0.0 |
+| Political Ideology: Liberal | No direct clinical relevance | 0.0 |
+| Orders Takeout: Monthly | Infrequent; minimal dietary risk contribution | 0.0 |
+| Preferred Grocery Store: Kroger | No clinical relevance | 0.0 |
+| Helps Elderly: Always | Strong prosocial behavior; positive psychological indicator | −0.1 |
+| Likes Chocolate: No | No clinical relevance | 0.0 |
+| Reads Novels: Yes | Cognitive engagement; mild protective mental health effect | −0.1 |
+| Has Cheated on Assignment: Yes | Minor integrity indicator; no direct clinical relevance | 0.0 |
+| Eye Color: Hazel | No clinical relevance | 0.0 |
+| Spotify vs Apple Music: Spotify | No clinical relevance | 0.0 |
+| Favourite Season: Winter | No clinical relevance | 0.0 |
+
+---
+
+**Sum Verification:**
+Positive contributions: +2.2+0.3+0.3+0.1+0.1+0.4+0.2+0.4+0.1+0.1+0.1+0.3+0.1+0.1+0.2+0.1+0.4+0.4+0.4 = **+6.8**
+Negative contributions: −0.2−0.2−0.1−0.1−0.2−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1 = **−1.6**
+
+**Net Score: 6.8 − 1.6 = 6.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This patient presents with a critically low BMI of 13.4, which alone constitutes a near-emergent nutritional and physiological concern, compounded by breakfast skipping, inadequate hydration, a gluten allergy (raising suspicion for untreated celiac disease contributing to malabsorption), and a complete absence of exercise — collectively creating a high-risk profile for acute medical deterioration. Mild depression with anhedonia, chronic sleep insufficiency, social isolation as a single individual, and healthcare access barriers further erode resilience, making hospitalization a clinically plausible near-term outcome without prompt intervention.

@@ -1,0 +1,52 @@
+1. **Risk Score:** 6
+
+2. **Input Factors and Contributions:**
+   - Age (36): +1
+   - BMI (31.3): +2
+   - Family Health History (Asthma): +1
+   - Current Diagnosis (Anxiety): +1
+   - Race (White): 0
+   - Gender (Male): 0
+   - Sexual Orientation (Heterosexual): 0
+   - Weekly Alcohol Intake (5): +1
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (No): -1
+   - Hours of Sleep (6.0): 0
+   - Employment (Employed): 0
+   - Socioeconomic Status (Low): +1
+   - Drinks Coffee (Yes): 0
+   - Likes Vegetables (No): +1
+   - Favourite Sport (Gymnastics): 0
+   - Votes (Sometimes): 0
+   - Height in Inches (65): 0
+   - Has Driver's License (No): 0
+   - Picks Up Litter (Always): 0
+   - Uses Public Transportation (Always): 0
+   - Donated Blood (Yes): 0
+   - Birthday Month (June): 0
+   - Water Intake (oz) (42.8): 0
+   - Bilingual (No): 0
+   - Handedness (Right): 0
+   - Likes Kids (Yes): 0
+   - Favourite Meal (Lunch): 0
+   - Favourite Color (Purple): 0
+   - Recycling Habits (Never): +1
+   - Hair Color (Red): 0
+   - Best High School Subject (Math): 0
+   - Travels (No): 0
+   - Relationship Status (Single): 0
+   - Favourite Music Genre (Indie): 0
+   - Can Ride Bicycle (No): 0
+   - Religious (No): 0
+   - Phone (Android): 0
+   - Wears Glasses (No): 0
+   - Morning or Night (Night): 0
+   - Allergy (Pollen): +1
+   - Binge Watches TV (Yes): +1
+   - Favourite Super Store (Walmart): 0
+
+   **Total Contributions:** +1 (Age) +2 (BMI) +1 (Family Health History) +1 (Current Diagnosis) +1 (Weekly Alcohol Intake) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) -1 (Loss of Interest) +1 (Socioeconomic Status) +1 (Likes Vegetables) +1 (Recycling Habits) +1 (Allergy) +1 (Binge Watches TV) = 6
+
+3. **Justification:** The risk score of 6 is derived from a combination of factors indicating both physical health risks (e.g., elevated BMI, anxiety) and lifestyle choices (e.g., low socioeconomic status, high alcohol intake) that contribute positively to hospitalization risk. Negative contributions from healthy behaviors (e.g., no smoking, normal mental health indicators) mitigate some risk, but the overall profile suggests a moderate risk level.

@@ -1,0 +1,26 @@
+1. **Final Hospitalization Risk Score:** 4
+
+2. **Detailed Breakdown of Attributes:**
+   - **Age (41 years):** +1 (Increased risk for certain health issues as age increases)
+   - **BMI (26.5):** +1 (Slightly overweight; potential for metabolic issues)
+   - **Family Health History (Diabetes):** +2 (Increased risk for diabetes-related complications)
+   - **Current Diagnosis (Depression):** +1 (Mental health conditions can lead to increased hospitalization risk)
+   - **HAM-D (0-6: Normal / No Depression):** -1 (Indicates current depression is well-managed)
+   - **Been Sad or Fatigued (No):** -1 (No current symptoms of depression reduce risk)
+   - **Loss of Interest (Yes):** +1 (Could indicate underlying issues that may affect overall health)
+   - **Hours of Sleep (4.7):** +1 (Inadequate sleep can lead to various health problems)
+   - **Employment (Employed):** -1 (Stable employment generally correlates with better health outcomes)
+   - **Socioeconomic Status (High):** -1 (Higher socioeconomic status typically reduces risk)
+   - **Weekly Alcohol Intake (1):** -1 (Low alcohol intake is protective)
+   - **Smoking (No):** -2 (Non-smoker significantly reduces risk)
+   - **Water Intake (44.8 oz):** +1 (Low water intake may indicate dehydration risk)
+   - **Likes Vegetables (No):** +1 (Poor diet can lead to health issues)
+   - **Bilingual (Yes):** -1 (Bilingualism can be associated with cognitive benefits)
+   - **Likes Kids (Yes):** -1 (Positive social interactions can enhance mental health)
+   - **Picks Up Litter (Always):** -1 (Pro-social behavior linked to better mental health)
+   - **Uses Public Transportation (Sometimes):** 0 (Neutral impact)
+   - **Donated Blood (Yes):** -1 (Engagement in altruistic behavior is associated with better health)
+
+   **Total Impact Calculation:**
+   - Positive Impacts: 1 (Age) + 1 (BMI) + 2 (Family History) + 1 (Depression) + 1 (Loss of Interest) + 1 (Sleep) + 1 (Water Intake) + 1 (Vegetables) = 9
+   - Negative Impacts: -1 (HAM-D) - 1 (Been Sad or Fatigued) - 1 (Employment) - 1 (Socioeconomic Status) - 1 (Alcohol Intake) - 2 (Smoking) - 1 (Bilingual) - 1 (Likes Kids) - 1 (Picks

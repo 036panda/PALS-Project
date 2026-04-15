@@ -1,0 +1,32 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (34): +1 (Age contributes positively to risk as it is within a range where mental health issues can escalate)
+   - BMI (23.1): 0 (Normal BMI, no contribution to risk)
+   - Family Health History: 0 (Data not available, no contribution)
+   - Current Diagnosis (Depression): +2 (Current diagnosis of depression increases risk)
+   - Race (Other): 0 (No specific contribution assigned)
+   - Gender (Female): 0 (No specific contribution assigned)
+   - Sexual Orientation (Heterosexual): 0 (No specific contribution assigned)
+   - Weekly Alcohol Intake (2): 0 (Low intake, no contribution)
+   - Smoking (No): 0 (Non-smoker, no contribution)
+   - HAM-D (0–6: Normal / No Depression): -1 (Indicates no severe depression, reducing risk)
+   - Been Sad or Fatigued (Yes): +1 (Indicates potential mental health issues, increasing risk)
+   - Loss of Interest (No): 0 (No contribution as it indicates less severity)
+   - Hours of Sleep (7.0): 0 (Normal sleep, no contribution)
+   - Employment (Employed): 0 (Employment status does not contribute negatively)
+   - Socioeconomic Status (Low): +1 (Low socioeconomic status can increase risk)
+   - Drinks Coffee (Yes): 0 (No contribution)
+   - Likes Vegetables (No): 0 (No contribution)
+   - Favourite Sport (Hockey): 0 (No contribution)
+   - Votes (Sometimes): 0 (No contribution)
+   - Height in Inches (73): 0 (No contribution)
+   - Has Driver's License (Yes): 0 (No contribution)
+   - Picks Up Litter (Always): 0 (No contribution)
+   - Uses Public Transportation (Never): 0 (No contribution)
+   - Donated Blood (Yes): 0 (No contribution)
+   - Birthday Month (November): 0 (No contribution)
+
+   **Total Contributions:** +1 (Age) + 2 (Depression) - 1 (HAM-D) + 1 (Socioeconomic Status) + 1 (Been Sad or Fatigued) = 4
+
+3. **Justification:** The risk score of 4 reflects the patient's current diagnosis of depression and low socioeconomic status, both of which are known to increase hospitalization risk. The normalization of the HAM-D score and other lifestyle factors mitigate some of the risk, leading to a moderate overall score.

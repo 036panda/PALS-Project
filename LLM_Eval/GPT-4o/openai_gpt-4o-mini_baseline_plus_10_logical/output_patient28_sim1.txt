@@ -1,0 +1,30 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (25): +1 (young adults generally have lower risk)
+   - BMI (28.5): +2 (overweight category, contributes to risk)
+   - Family Health History (Hypertension): +2 (increased risk due to family history)
+   - Current Diagnosis (Bipolar): +2 (mental health conditions can increase hospitalization risk)
+   - Race (Native American): +1 (higher risk for certain health conditions)
+   - Gender (Non-binary): 0 (neutral contribution)
+   - Sexual Orientation (Heterosexual): 0 (neutral contribution)
+   - Weekly Alcohol Intake (7): +1 (moderate alcohol intake can be a risk factor)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued: -1 (no symptoms reduce risk)
+   - Loss of Interest: -1 (no symptoms reduce risk)
+   - Hours of Sleep (7.8): -1 (adequate sleep reduces risk)
+   - Employment (Employed): -1 (employment generally reduces risk)
+   - Socioeconomic Status (Middle): 0 (neutral contribution)
+   - Drinks Coffee (No): 0 (neutral contribution)
+   - Likes Vegetables (Yes): -1 (healthy diet reduces risk)
+   - Favourite Sport (Basketball): -1 (active lifestyle reduces risk)
+   - Votes (Never): 0 (neutral contribution)
+   - Height in Inches (70): 0 (neutral contribution)
+   - Has Driver's License (Yes): 0 (neutral contribution)
+   - Picks Up Litter (Sometimes): 0 (neutral contribution)
+   - Uses Public Transportation (Always): 0 (neutral contribution)
+   - Donated Blood (No): 0 (neutral contribution)
+   - Birthday Month (December): 0 (neutral contribution)
+
+3. **Justification:** The risk score of 4 reflects a combination of factors that contribute positively to hospitalization risk, such as BMI, family health history, and current mental health diagnosis, while being mitigated by several protective factors like non-smoking status, adequate sleep, and employment. The overall score indicates a moderate risk level based on the assessed factors.

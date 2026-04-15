@@ -1,0 +1,22 @@
+1. **Risk Score:** 5
+
+2. **Input Factors and Contributions:**
+   - Age (49): +1 (increased risk with age)
+   - BMI (29.7): +1 (overweight category contributes to health risks)
+   - Family Health History (nan): 0 (no contribution due to lack of data)
+   - Current Diagnosis (Bipolar): +2 (mental health conditions increase hospitalization risk)
+   - Race (Native American): +1 (higher risk associated with certain racial groups)
+   - Gender (Female): 0 (no specific contribution in this context)
+   - Sexual Orientation (Other): 0 (no specific contribution in this context)
+   - Weekly Alcohol Intake (2): 0 (low intake does not significantly contribute to risk)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression contributes to risk)
+   - Been Sad or Fatigued (No): 0 (no contribution)
+   - Loss of Interest (Yes): +1 (loss of interest indicates potential worsening mental health)
+   - Hours of Sleep (5.8): +1 (less than optimal sleep contributes to health risks)
+   - Employment (Employed): 0 (employment status does not significantly affect risk)
+   - Socioeconomic Status (Middle): 0 (middle status does not significantly affect risk)
+
+   **Total Contributions:** +1 (Age) +1 (BMI) +0 (Family Health History) +2 (Bipolar) +1 (Race) +0 (Gender) +0 (Sexual Orientation) +0 (Alcohol Intake) -1 (Smoking) +1 (HAM-D) +0 (Been Sad or Fatigued) +1 (Loss of Interest) +1 (Hours of Sleep) +0 (Employment) +0 (Socioeconomic Status) = **5**
+
+3. **Justification:** The risk score of 5 reflects a moderate hospitalization risk based on the combination of age, BMI, and mental health diagnosis, which are known contributors to health complications. Factors such as smoking status and socioeconomic status were neutral or protective, balancing the overall risk assessment.

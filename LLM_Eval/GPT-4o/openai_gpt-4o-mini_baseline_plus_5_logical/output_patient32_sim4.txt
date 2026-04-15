@@ -1,0 +1,24 @@
+1. **Risk Score:** 7
+
+2. **Input Factors and Contributions:**
+   - Age (19): +1 (young adults may have lower risk, but still a factor)
+   - BMI (17.6): +2 (underweight, associated with higher health risks)
+   - Family Health History (Diabetes): +2 (increased risk due to genetic predisposition)
+   - Current Diagnosis (Schizophrenia): +3 (severe mental health condition, high hospitalization risk)
+   - HAM-D (25+): +3 (severe depression, significant risk factor)
+   - Been Sad or Fatigued: 0 (no contribution, as it is not a current symptom)
+   - Loss of Interest: +1 (indicative of depression, contributing to risk)
+   - Hours of Sleep (8.0): -1 (adequate sleep, protective factor)
+   - Employment (Student): 0 (neutral, as it does not directly affect risk)
+   - Socioeconomic Status (High): -1 (higher socioeconomic status generally correlates with lower risk)
+   - Weekly Alcohol Intake (3): +1 (moderate alcohol intake can be a risk factor)
+   - Smoking: 0 (non-smoker, no contribution)
+   - Drinks Coffee: 0 (neutral, no contribution)
+   - Likes Vegetables: 0 (neutral, no contribution)
+   - Favourite Sport: 0 (neutral, no contribution)
+   - Votes: 0 (neutral, no contribution)
+   - Height in Inches (74): 0 (neutral, no contribution)
+
+   **Total Contributions:** +1 + 2 + 2 + 3 + 3 + 0 + 1 - 1 + 0 - 1 + 1 + 0 + 0 + 0 + 0 + 0 = 7
+
+3. **Justification:** The risk score of 7 reflects the significant impact of severe mental health conditions (schizophrenia and severe depression) and family health history on hospitalization risk, while factors such as high socioeconomic status and adequate sleep mitigate some risk. The combination of these factors indicates a heightened vulnerability to hospitalization.

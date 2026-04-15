@@ -1,0 +1,29 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (20): +1 (young adults generally have lower risk)
+   - BMI (24.6): +1 (normal weight range, minimal risk)
+   - Family Health History (Cancer): +2 (increased risk due to family history)
+   - Current Diagnosis (Schizophrenia): +2 (mental health conditions can increase hospitalization risk)
+   - Weekly Alcohol Intake (6): +1 (moderate alcohol intake can pose some risk)
+   - Smoking (No): -1 (non-smoker, reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression, reduces risk)
+   - Been Sad or Fatigued (No): -1 (no signs of fatigue, reduces risk)
+   - Loss of Interest (Yes): +1 (could indicate underlying issues, increases risk)
+   - Hours of Sleep (7.6): -1 (adequate sleep, reduces risk)
+   - Employment (Student): +1 (students may have stressors that can increase risk)
+   - Socioeconomic Status (Low): +1 (low socioeconomic status can increase risk)
+   - Drinks Coffee (Yes): +0 (neutral, no contribution)
+   - Likes Vegetables (No): +0 (neutral, no contribution)
+   - Favourite Sport (Gymnastics): +0 (neutral, no contribution)
+   - Votes (Sometimes): +0 (neutral, no contribution)
+   - Height in Inches (58): +0 (neutral, no contribution)
+   - Has Driver's License (No): +0 (neutral, no contribution)
+   - Picks Up Litter (Always): -1 (pro-social behavior, reduces risk)
+   - Uses Public Transportation (Never): +0 (neutral, no contribution)
+   - Donated Blood (Yes): -1 (altruistic behavior, reduces risk)
+   - Birthday Month (April): +0 (neutral, no contribution)
+
+   **Total Contributions:** 1 + 1 + 2 + 2 + 1 - 1 - 1 - 1 + 1 + -1 + 1 + 1 - 1 - 1 + 0 + 0 + 0 + 0 + 0 - 1 - 1 = 4
+
+3. **Justification:** The risk score of 4 reflects a combination of factors that both increase and decrease hospitalization risk. Notably, the patient's family health history and current diagnosis contribute significantly to the risk, while their non-smoking status and adequate sleep help mitigate it.

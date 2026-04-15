@@ -1,0 +1,27 @@
+1. **Risk Score:** 2
+
+2. **Input Factors and Contributions:**
+   - Age (38): +1 (increased risk with age)
+   - BMI (21.8): -1 (normal BMI reduces risk)
+   - Family Health History (Asthma): +1 (family history of asthma may indicate respiratory vulnerability)
+   - Current Diagnosis (Anxiety): +1 (mental health conditions can increase hospitalization risk)
+   - Race (Black): 0 (no direct contribution assigned)
+   - Gender (Non-binary): 0 (no direct contribution assigned)
+   - Sexual Orientation (Heterosexual): 0 (no direct contribution assigned)
+   - Weekly Alcohol Intake (2): 0 (low intake does not significantly affect risk)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue reduces risk)
+   - Loss of Interest (No): -1 (absence of loss of interest reduces risk)
+   - Hours of Sleep (6.3): 0 (adequate sleep does not significantly affect risk)
+   - Employment (Employed): -1 (employment status reduces risk)
+   - Socioeconomic Status (High): -1 (high socioeconomic status reduces risk)
+   - Drinks Coffee (No): 0 (no direct contribution assigned)
+   - Likes Vegetables (No): 0 (no direct contribution assigned)
+   - Favourite Sport (Soccer): 0 (no direct contribution assigned)
+   - Votes (Always): 0 (no direct contribution assigned)
+   - Height in Inches (73): 0 (no direct contribution assigned)
+
+   **Total Contributions:** +1 (Age) +1 (Family Health History) +1 (Current Diagnosis) -1 (BMI) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) -1 (Loss of Interest) -1 (Employment) -1 (Socioeconomic Status) = 2
+
+3. **Justification:** The risk score of 2 reflects a combination of factors that slightly elevate hospitalization risk, such as age, family health history of asthma, and a current diagnosis of anxiety, while being mitigated by a normal BMI, non-smoking status, and high socioeconomic status. The overall low score indicates that the individual has several protective factors that significantly reduce their overall risk.

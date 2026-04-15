@@ -1,0 +1,52 @@
+## Risk Score: **3.2**
+
+---
+
+### Factor Contributions (Sum = 3.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (49) | Moderate age, elevated but not high-risk bracket | +1.0 |
+| BMI (23.2) | Normal/healthy range | −0.3 |
+| Family Health History (Asthma) | Hereditary respiratory risk, indirect hospitalization relevance | +0.3 |
+| Current Diagnosis (Anxiety) | Active mental health diagnosis, potential acute episodes | +0.8 |
+| HAM-D Score (0–6, Normal) | No clinical depression severity | −0.4 |
+| Loss of Interest (Yes) | Subclinical anhedonia, mild psychiatric signal despite normal HAM-D | +0.2 |
+| Been Sad or Fatigued (No) | Absence of depressive somatic symptoms | −0.2 |
+| Hours of Sleep (9.4) | Slightly excessive sleep, possible hypersomnia signal | +0.1 |
+| Weekly Alcohol Intake (4 drinks) | Moderate, within low-risk range | +0.1 |
+| Smoking (No) | Significant protective factor | −0.5 |
+| Water Intake (42.3 oz) | Below recommended ~64 oz/day, mild dehydration risk | +0.2 |
+| Skips Breakfast (Yes) | Poor nutritional habit, metabolic risk signal | +0.1 |
+| Likes Vegetables (No) | Poor dietary quality, indirect chronic disease risk | +0.2 |
+| Exercises (Yes) | Active physical lifestyle, strong protective factor | −0.5 |
+| Allergy (Mold) | Environmental allergy, respiratory hospitalization risk | +0.3 |
+| Socioeconomic Status (High) | Strong access to healthcare, protective | −0.3 |
+| Employment (Employed) | Financial stability, healthcare access | −0.2 |
+| Volunteers (Always) | Strong social engagement, mental health protective | −0.1 |
+| Helps Elderly (Always) | Prosocial behavior, positive mental health indicator | −0.1 |
+| Donated Blood (Yes) | Indicates general health awareness | −0.1 |
+| Registered Organ Donor (Yes) | Health-conscious behavior | −0.05 |
+| Binge Watches TV (No) | Reduced sedentary behavior | −0.1 |
+| Orders Takeout (Weekly) | Moderate dietary risk from processed/restaurant food | +0.1 |
+| Annual Charity Donation (Never) | Weak negative social capital signal | +0.05 |
+| Recycling Habits (Never) | Negligible direct health impact | 0.0 |
+| Travels (No) | Reduced exposure to travel-related illness | −0.05 |
+| Uses Public Transportation (Always) | Increased pathogen exposure risk | +0.1 |
+| Relationship Status (Dating) | Moderate social support, not fully isolated | −0.05 |
+| Wears Glasses (Yes) | Minor indicator of managed health condition | +0.05 |
+| Race (Hispanic) | Documented healthcare access disparities in some contexts | +0.2 |
+| Gender (Male) | Males statistically less likely to seek preventive care | +0.1 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant, negligible at moderate use | 0.0 |
+| Religious (No) | Slight reduction in community support network | +0.05 |
+| Bilingual (No) | No communication barrier benefit | 0.0 |
+| All remaining lifestyle/preference factors (color, sport, music, phone, etc.) | No established causal relationship with hospitalization risk | 0.0 |
+
+---
+
+**Sum Check:** 1.0 − 0.3 + 0.3 + 0.8 − 0.4 + 0.2 − 0.2 + 0.1 + 0.1 − 0.5 + 0.2 + 0.1 + 0.2 − 0.5 + 0.3 − 0.3 − 0.2 − 0.1 − 0.1 − 0.1 − 0.05 − 0.1 + 0.1 + 0.05 + 0.0 − 0.05 + 0.1 − 0.05 + 0.05 + 0.2 + 0.1 + 0.0 + 0.05 + 0.0 + 0.0 = **3.2** ✓
+
+---
+
+### Justification
+This patient's active anxiety diagnosis, mold allergy, subclinical anhedonia (loss of interest), suboptimal hydration, and poor dietary habits (no vegetables, skips breakfast, weekly takeout) generate meaningful positive risk contributions, while strong protective factors — including no smoking, regular exercise, high socioeconomic status, normal BMI, normal HAM-D score, and consistent prosocial behaviors — substantially offset those risks. The resulting score of 3.2 reflects a low-to-moderate hospitalization risk driven primarily by the psychiatric diagnosis and lifestyle nutritional gaps, tempered by robust health-protective behaviors and resources.

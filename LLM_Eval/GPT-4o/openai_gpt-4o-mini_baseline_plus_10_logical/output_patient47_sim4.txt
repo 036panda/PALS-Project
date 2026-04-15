@@ -1,0 +1,32 @@
+1. **Risk Score:** 5
+
+2. **Input Factors and Contributions:**
+   - Age (22): +1 (young adults generally have lower risk)
+   - BMI (27.1): +1 (overweight category, moderate risk)
+   - Family Health History (Heart Disease): +2 (significant risk factor)
+   - Current Diagnosis (Schizophrenia): +2 (mental health condition increases risk)
+   - Race (Hispanic): 0 (neutral contribution, no specific risk assigned)
+   - Gender (Non-binary): 0 (neutral contribution, no specific risk assigned)
+   - Sexual Orientation (Bisexual): 0 (neutral contribution, no specific risk assigned)
+   - Weekly Alcohol Intake (2): 0 (moderate intake, no significant risk)
+   - Smoking (No): -1 (non-smoker, reduces risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can increase risk)
+   - Been Sad or Fatigued (Yes): +1 (indicates potential mental health impact)
+   - Loss of Interest (Yes): +1 (indicates potential mental health impact)
+   - Hours of Sleep (8.9): -1 (adequate sleep, reduces risk)
+   - Employment (Student): 0 (neutral contribution, no specific risk assigned)
+   - Socioeconomic Status (Middle): 0 (neutral contribution, no specific risk assigned)
+   - Drinks Coffee (Yes): 0 (neutral contribution, no specific risk assigned)
+   - Likes Vegetables (No): 0 (neutral contribution, no specific risk assigned)
+   - Favourite Sport (Basketball): 0 (neutral contribution, no specific risk assigned)
+   - Votes (Always): 0 (neutral contribution, no specific risk assigned)
+   - Height in Inches (74): 0 (neutral contribution, no specific risk assigned)
+   - Has Driver's License (No): 0 (neutral contribution, no specific risk assigned)
+   - Picks Up Litter (Always): 0 (neutral contribution, no specific risk assigned)
+   - Uses Public Transportation (Sometimes): 0 (neutral contribution, no specific risk assigned)
+   - Donated Blood (No): 0 (neutral contribution, no specific risk assigned)
+   - Birthday Month (February): 0 (neutral contribution, no specific risk assigned)
+
+   **Total Contributions:** +1 (Age) +1 (BMI) +2 (Family Health History) +2 (Current Diagnosis) +1 (HAM-D) +1 (Been Sad or Fatigued) +1 (Loss of Interest) -1 (Smoking) -1 (Hours of Sleep) = 5
+
+3. **Justification:** The risk score of 5 reflects a moderate hospitalization risk based on the combination of mental health conditions, family health history, and lifestyle factors. While some factors, such as being a non-smoker and getting adequate sleep, mitigate risk, the presence of schizophrenia and a family history of heart disease significantly elevate the overall risk.

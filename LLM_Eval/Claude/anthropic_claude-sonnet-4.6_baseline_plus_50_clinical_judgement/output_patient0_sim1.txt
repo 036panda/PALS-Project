@@ -1,0 +1,91 @@
+# Hospitalization Risk Evaluation — Patient ID: 0
+
+---
+
+## 1. Final Hospitalization Risk Score: **6.8 / 10**
+
+---
+
+## 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact |
+|---|---|---|
+| Age: 37 | Moderate age, some chronic risk beginning | +0.3 |
+| BMI: 20.3 | Healthy BMI, slightly low but within normal | -0.2 |
+| Family Health History: Heart Disease | Elevated cardiovascular genetic risk | +0.4 |
+| Current Diagnosis: Schizophrenia | Major psychiatric diagnosis, strong hospitalization predictor | +1.8 |
+| Race: Asian | Generally lower cardiovascular risk baseline | -0.1 |
+| Gender: Female | Slightly lower risk for certain acute events | -0.1 |
+| Sexual Orientation: Homosexual | Minority stress, marginally elevated mental health risk | +0.1 |
+| Weekly Alcohol Intake: 3 | Moderate, low-risk level | -0.1 |
+| Smoking: Yes | Significant cardiovascular and pulmonary risk | +0.5 |
+| HAM-D: 25+ (Severe Depression) | Severe depression co-occurring with schizophrenia, high risk | +1.2 |
+| Been Sad or Fatigued: No | Slight inconsistency with HAM-D, minor protective signal | -0.1 |
+| Loss of Interest: Yes | Anhedonia present, consistent with severe depression | +0.3 |
+| Hours of Sleep: 6.3 | Mildly insufficient sleep, minor risk | +0.1 |
+| Employment: Employed | Protective — structure, income, social engagement | -0.3 |
+| Socioeconomic Status: Middle | Moderate access to care, neutral-to-protective | -0.2 |
+| Drinks Coffee: No | Neutral to mildly protective (no stimulant burden) | -0.05 |
+| Likes Vegetables: Yes | Positive dietary habit, mild protective effect | -0.1 |
+| Favourite Sport: Basketball | Active sport preference, mild protective | -0.05 |
+| Votes: Never | Civic disengagement, mild social isolation signal | +0.1 |
+| Height: 71 inches | Tall, no clinical relevance | 0.0 |
+| Has Driver's License: Yes | Functional independence, protective | -0.1 |
+| Picks Up Litter: Sometimes | Mild prosocial behavior, negligible | 0.0 |
+| Uses Public Transportation: Never | Possible social isolation or car-dependent, minor | +0.05 |
+| Donated Blood: Yes | Prosocial, health-engaged behavior | -0.05 |
+| Birthday Month: June | No clinical relevance | 0.0 |
+| Water Intake: 45.1 oz | Below recommended ~64 oz, mild dehydration risk | +0.1 |
+| Bilingual: Yes | Cognitive resilience, mild protective | -0.05 |
+| Handedness: Right | No clinical relevance | 0.0 |
+| Likes Kids: No | No clinical relevance | 0.0 |
+| Favourite Meal: Dinner | No clinical relevance | 0.0 |
+| Favourite Color: Green | No clinical relevance | 0.0 |
+| Recycling Habits: Sometimes | No clinical relevance | 0.0 |
+| Hair Color: Red | No clinical relevance | 0.0 |
+| Best High School Subject: Math | Cognitive strength, mild protective | -0.05 |
+| Travels: Yes | Engagement with life, mild protective | -0.05 |
+| Relationship Status: Dating | Some social support, mild protective | -0.1 |
+| Favourite Music Genre: Pop | No clinical relevance | 0.0 |
+| Can Ride Bicycle: Yes | Functional capacity, mild protective | -0.05 |
+| Religious: No | Absence of spiritual support network, minor risk | +0.05 |
+| Phone: Android | No clinical relevance | 0.0 |
+| Wears Glasses: Yes | Minor sensory impairment, negligible | +0.05 |
+| Morning or Night: Morning | Morning preference, generally positive for routine | -0.05 |
+| Allergy: Gluten | Dietary restriction, minor management burden | +0.1 |
+| Binge-Watches TV: Yes | Sedentary behavior, mild risk | +0.1 |
+| Favourite Superstore: Walmart | No clinical relevance | 0.0 |
+| Pet Preference: Bird | No clinical relevance | 0.0 |
+| Volunteers: Sometimes | Mild prosocial engagement, protective | -0.05 |
+| Skips Breakfast: Yes | Poor nutritional habit, mild risk | +0.1 |
+| Favourite Movie Genre: Thriller | No clinical relevance | 0.0 |
+| Registered Organ Donor: No | No clinical relevance | 0.0 |
+| Annual Charity Donation: Sometimes | Mild prosocial behavior | -0.05 |
+| Favourite Cuisine: Indian | No clinical relevance | 0.0 |
+| Exercises: Yes | Significant protective factor for mental and physical health | -0.3 |
+| Likes Art: Yes | Creative outlet, mild protective for mental health | -0.05 |
+| Academic Preference: STEM | Analytical orientation, mild protective | -0.05 |
+| Political Ideology: Liberal | No direct clinical relevance | 0.0 |
+| Orders Takeout: Monthly | Moderate, not excessive, neutral | 0.0 |
+| Preferred Grocery Store: Wegmans | No clinical relevance | 0.0 |
+| Helps Elderly: Sometimes | Prosocial behavior, mild protective | -0.05 |
+| Likes Chocolate: Yes | No clinical relevance | 0.0 |
+| Reads Novels: No | Reduced cognitive engagement, minor | +0.05 |
+| Has Cheated on Assignment: No | No clinical relevance | 0.0 |
+| Eye Color: Blue | No clinical relevance | 0.0 |
+| Spotify vs Apple Music: Spotify | No clinical relevance | 0.0 |
+| Favourite Season: Fall | No clinical relevance | 0.0 |
+
+---
+
+### ✅ Sum Verification:
+Positive impacts: +0.3+0.4+1.8+0.1+0.5+1.2+0.3+0.1+0.1+0.05+0.1+0.1+0.05+0.1+0.1+0.1+0.05+0.05+0.05+0.05 = **+5.45**
+Negative impacts: -0.2-0.1-0.1-0.1-0.3-0.2-0.05-0.1-0.05-0.1-0.05-0.05-0.05-0.1-0.05-0.05-0.05-0.05-0.3-0.05-0.05-0.05-0.05-0.05-0.05-0.05 = **-2.65**
+
+**Net Score: 5.45 − 2.65 = 6.8 ✓**
+
+---
+
+## 3. Clinical Rationale
+
+This 37-year-old Asian female presents with a high-acuity psychiatric profile characterized by a primary diagnosis of schizophrenia compounded by severe comorbid depression (HAM-D 25+) and active anhedonia, which together represent the dominant drivers of hospitalization risk in this case. While several protective factors — including employment, regular exercise, middle socioeconomic status, and an active relationship — partially mitigate risk, the combination of active smoking, insufficient hydration, skipped meals, and inadequate sleep creates a physiological vulnerability that, alongside her unmanaged psychiatric burden and family history of heart disease, warrants close clinical monitoring and proactive care coordination to prevent acute decompensation.

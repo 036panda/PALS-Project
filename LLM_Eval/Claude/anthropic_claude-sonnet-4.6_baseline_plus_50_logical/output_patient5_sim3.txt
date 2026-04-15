@@ -1,0 +1,85 @@
+## Hospitalization Risk Score
+
+**Risk Score: 3.2**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases vulnerability | +1.50 |
+| BMI (25.8) | Normal/slightly overweight; minimal risk | +0.10 |
+| Family Health History: Asthma | Genetic predisposition to respiratory conditions | +0.30 |
+| Current Diagnosis: None (nan) | No active diagnosis reduces risk | −0.30 |
+| Race: Black | Systemic health disparities increase risk | +0.20 |
+| Gender: Female | Slightly lower cardiovascular risk than male | −0.10 |
+| Sexual Orientation: Heterosexual | No elevated minority stress risk | +0.00 |
+| Weekly Alcohol Intake: 1 | Very low; minimal risk | +0.05 |
+| Smoking: No | No smoking; significant risk reduction | −0.40 |
+| HAM-D: Mild Depression (7–17) | Mild depression linked to poorer health outcomes | +0.30 |
+| Been Sad or Fatigued: No | Contradicts mild depression severity somewhat | −0.10 |
+| Loss of Interest: No | Positive indicator; reduces depression impact | −0.05 |
+| Hours of Sleep: 5.4 | Below recommended 7–9 hours; increases risk | +0.40 |
+| Employment: Employed | Stable employment reduces risk | −0.20 |
+| Socioeconomic Status: High | High SES strongly reduces hospitalization risk | −0.50 |
+| Drinks Coffee: No | Neutral to slightly positive (no caffeine stress) | +0.00 |
+| Likes Vegetables: Yes | Healthy diet indicator; reduces risk | −0.10 |
+| Favourite Sport: Hockey | Active sport engagement; reduces risk | −0.10 |
+| Votes: Sometimes | Moderate civic engagement; neutral | +0.00 |
+| Height: 62 inches | Contextual to BMI; already captured | +0.00 |
+| Has Driver's License: Yes | Mobility/independence; reduces risk | −0.05 |
+| Picks Up Litter: Sometimes | Mild prosocial behavior; neutral | +0.00 |
+| Uses Public Transportation: Sometimes | Slight exposure risk (infectious); minimal | +0.05 |
+| Donated Blood: No | No direct risk implication | +0.00 |
+| Birthday Month: November | No causal health relevance | +0.00 |
+| Water Intake: 46.1 oz | Below recommended ~64 oz; mild dehydration risk | +0.15 |
+| Bilingual: No | No cognitive resilience benefit | +0.05 |
+| Handedness: Right | No causal health relevance | +0.00 |
+| Likes Kids: Yes | Positive social disposition; neutral | +0.00 |
+| Favourite Meal: Lunch | No direct health relevance | +0.00 |
+| Favourite Color: Yellow | No causal health relevance | +0.00 |
+| Recycling Habits: Sometimes | No direct health relevance | +0.00 |
+| Hair Color: Black | No causal health relevance | +0.00 |
+| Best High School Subject: Science | No direct health relevance | +0.00 |
+| Travels: Yes | Exposure to pathogens; slight risk | +0.05 |
+| Relationship Status: Single | Lack of social support slightly increases risk | +0.15 |
+| Favourite Music Genre: HipHop | No causal health relevance | +0.00 |
+| Can Ride Bicycle: Yes | Physical capability indicator; reduces risk | −0.05 |
+| Religious: No | Slight reduction in social support network | +0.05 |
+| Phone: Apple | No causal health relevance | +0.00 |
+| Wears Glasses: Yes | Minor vision impairment; negligible risk | +0.05 |
+| Morning or Night: Morning | Morning chronotype associated with better health | −0.05 |
+| Allergy: Dust | Respiratory allergy; increases risk given asthma history | +0.25 |
+| Binge Watches TV: Yes | Sedentary behavior; slight risk increase | +0.10 |
+| Favourite Super Store: Walmart | No direct health relevance | +0.00 |
+| Pet Preference: Fish | Low-interaction pet; minimal stress relief | +0.00 |
+| Volunteers: Never | Reduced social engagement; slight risk | +0.05 |
+| Skips Breakfast: Yes | Poor dietary habit; slight metabolic risk | +0.10 |
+| Favourite Movie Genre: Comedy | Positive affect association; slight benefit | −0.05 |
+| Registered Organ Donor: Yes | Reflects health-conscious attitude; slight benefit | −0.05 |
+| Annual Charity Donation: Sometimes | Moderate prosocial behavior; slight benefit | −0.05 |
+| Favourite Cuisine: Indian | Spice-rich diet; generally anti-inflammatory | −0.05 |
+| Exercises: Yes | Regular exercise strongly reduces risk | −0.40 |
+| Likes Art: Yes | Positive mental engagement; slight benefit | −0.05 |
+| Academic Preference: STEM | Health literacy likely higher; reduces risk | −0.10 |
+| Political Ideology: Liberal | Associated with higher healthcare utilization (preventive) | −0.05 |
+| Orders Takeout: Monthly | Infrequent; minimal dietary risk | +0.05 |
+| Preferred Grocery Store: Harris Teeter | Health-conscious store; slight benefit | −0.05 |
+| Helps Elderly: Sometimes | Prosocial behavior; slight benefit | −0.05 |
+| Likes Chocolate: No | No direct health relevance | +0.00 |
+| Reads Novels: Yes | Cognitive engagement; reduces risk | −0.05 |
+| Has Cheated on Assignment: No | No health relevance | +0.00 |
+| Eye Color: Green | No causal health relevance | +0.00 |
+| Spotify vs Apple Music: Spotify | No causal health relevance | +0.00 |
+| Favourite Season: Summer | No causal health relevance | +0.00 |
+
+---
+
+**Sum of all contributions: 3.20**
+
+---
+
+### Justification
+
+The score of 3.2 is primarily driven by the patient's age of 61, insufficient sleep (5.4 hours), mild depression (HAM-D 7–17), a dust allergy compounded by a family history of asthma, and being single without strong social support, which are all causally linked to elevated hospitalization risk. These risks are substantially offset by high socioeconomic status, active employment, regular exercise, no smoking, very low alcohol intake, and a generally health-conscious lifestyle, resulting in a below-moderate overall risk profile.

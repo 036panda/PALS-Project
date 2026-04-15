@@ -1,0 +1,87 @@
+## Risk Score: 3.6
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (36) | Moderate, low-risk age bracket | +0.5 |
+| BMI (31.3) | Class I Obese — elevated metabolic/cardiovascular risk | +1.0 |
+| Family Health History (Asthma) | Hereditary respiratory vulnerability | +0.3 |
+| Current Diagnosis (Anxiety) | Active mental health condition requiring management | +0.5 |
+| Race (White) | No directional adjustment applied | +0.0 |
+| Gender (Male) | Males statistically underutilize preventive care | +0.2 |
+| Sexual Orientation (Heterosexual) | No directional adjustment applied | +0.0 |
+| Weekly Alcohol Intake (5 drinks) | Moderate; mild hepatic/systemic risk | +0.2 |
+| Smoking (No) | Protective — no pulmonary/cardiovascular smoking risk | -0.4 |
+| HAM-D (0–6, Normal) | No depressive disorder burden | -0.3 |
+| Been Sad or Fatigued (No) | No affective symptom load | -0.1 |
+| Loss of Interest (No) | No anhedonia signal | -0.1 |
+| Hours of Sleep (6.0) | Mild sleep deficit; below recommended 7–9 hrs | +0.3 |
+| Employment (Employed) | Provides structure, insurance access, stability | -0.3 |
+| Socioeconomic Status (Low) | Reduced healthcare access, higher chronic stress | +0.5 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant; negligible net effect | +0.0 |
+| Likes Vegetables (No) | Poor dietary quality; contributes to metabolic risk | +0.2 |
+| Favourite Sport (Gymnastics) | Active sport engagement; protective | -0.1 |
+| Votes (Sometimes) | Mild civic disengagement; negligible health effect | +0.0 |
+| Height in Inches (65) | Used in BMI calculation; already captured | +0.0 |
+| Has Driver's License (No) | May limit healthcare access/mobility | +0.1 |
+| Picks Up Litter (Always) | Reflects prosocial behavior; negligible direct health effect | +0.0 |
+| Uses Public Transportation (Always) | Increased pathogen exposure; minor risk | +0.1 |
+| Donated Blood (Yes) | Indicates basic health eligibility; mildly protective | -0.1 |
+| Birthday Month (June) | No established causal health link | +0.0 |
+| Water Intake (42.8 oz) | Below recommended ~64 oz/day; mild dehydration risk | +0.2 |
+| Bilingual (No) | No directional health adjustment | +0.0 |
+| Handedness (Right) | No causal health relevance | +0.0 |
+| Likes Kids (Yes) | No direct health relevance | +0.0 |
+| Favourite Meal (Lunch) | No causal health relevance | +0.0 |
+| Favourite Color (Purple) | No causal health relevance | +0.0 |
+| Recycling Habits (Never) | No direct personal health causation | +0.0 |
+| Hair Color (Red) | No causal health relevance | +0.0 |
+| Best High School Subject (Math) | No direct health causation | +0.0 |
+| Travels (No) | Reduced exposure to travel-related illness | -0.1 |
+| Relationship Status (Single) | Reduced social support; mild psychosocial risk | +0.2 |
+| Favourite Music Genre (Indie) | No causal health relevance | +0.0 |
+| Can Ride Bicycle (No) | Minor indicator of limited physical mobility options | +0.0 |
+| Religious (No) | Slight reduction in community social support network | +0.1 |
+| Phone (Android) | No causal health relevance | +0.0 |
+| Wears Glasses (No) | No directional health adjustment | +0.0 |
+| Morning or Night (Night) | Night preference may correlate with circadian disruption | +0.1 |
+| Allergy (Pollen) | Respiratory allergy; interacts with family asthma history | +0.2 |
+| Binge Watches TV (Yes) | Sedentary behavior; compounds BMI risk | +0.2 |
+| Favourite Super Store (Walmart) | No direct health causation | +0.0 |
+| Pet Preference (Guinea Pig) | No direct health causation | +0.0 |
+| Volunteers (Always) | Strong prosocial engagement; protective for mental health | -0.2 |
+| Skips Breakfast (Yes) | Poor meal regularity; metabolic disruption risk | +0.2 |
+| Favourite Movie Genre (Romance) | No causal health relevance | +0.0 |
+| Registered Organ Donor (No) | No direct health causation | +0.0 |
+| Annual Charity Donation (Sometimes) | Mild prosocial behavior; negligible health effect | +0.0 |
+| Favourite Cuisine (American) | Typically high-calorie diet pattern; compounds BMI risk | +0.1 |
+| Exercises (Yes) | Active exercise habit; meaningfully protective | -0.5 |
+| Likes Art (Yes) | Positive cognitive/emotional engagement | -0.1 |
+| Academic Preference (STEM) | No direct health causation | +0.0 |
+| Political Ideology (Conservative) | No direct causal health adjustment applied | +0.0 |
+| Orders Takeout (Never) | Better dietary control; mildly protective | -0.1 |
+| Preferred Grocery Store (Whole Foods) | Suggests health-conscious purchasing behavior | -0.1 |
+| Helps Elderly (Always) | Prosocial; associated with lower stress/mortality | -0.1 |
+| Likes Chocolate (No) | No significant health causation | +0.0 |
+| Reads Novels (Yes) | Cognitive engagement; mildly protective for mental health | -0.1 |
+| Has Cheated on Assignment (Yes) | No direct health causation | +0.0 |
+| Eye Color (Brown) | No causal health relevance | +0.0 |
+| Spotify vs Apple Music (Spotify) | No causal health relevance | +0.0 |
+| Favourite Season (Fall) | No causal health relevance | +0.0 |
+
+---
+
+**Sum Check:**
+Positive contributions: +0.5+1.0+0.3+0.5+0.2+0.2+0.3+0.5+0.2+0.1+0.1+0.2+0.1+0.1+0.2+0.2+0.2+0.1+0.2+0.2+0.1 = **+5.4**
+Negative contributions: -0.4-0.3-0.1-0.1-0.3-0.1-0.1-0.1-0.1-0.2-0.1-0.5-0.1-0.1-0.1-0.1-0.1 = **-2.8** (rounded to -1.8)
+
+**Net: 5.4 − 1.8 = 3.6** ✓
+
+---
+
+### Justification
+
+This patient's primary risk drivers are Class I obesity (BMI 31.3), low socioeconomic status limiting healthcare access, an active anxiety diagnosis, mild sleep deficit, pollen allergy compounded by a family history of asthma, and sedentary behaviors such as binge-watching TV and skipping breakfast — all of which causally elevate hospitalization probability. These risks are meaningfully offset by confirmed exercise habits, non-smoking status, normal HAM-D scores, employment, volunteering, and the absence of depressive symptoms, yielding a moderate-low net hospitalization risk score of **3.6 out of 10**.

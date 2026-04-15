@@ -1,0 +1,22 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (22): -1 (young age generally associated with lower risk)
+   - BMI (21.9): -1 (normal BMI range associated with lower risk)
+   - Family Health History (Cancer): +2 (positive family history increases risk)
+   - Current Diagnosis (nan): 0 (no current diagnosis, neutral impact)
+   - Race (White): 0 (no significant impact on risk score)
+   - Gender (Non-binary): 0 (no significant impact on risk score)
+   - Sexual Orientation (Heterosexual): 0 (no significant impact on risk score)
+   - Weekly Alcohol Intake (3): +1 (moderate alcohol intake may slightly increase risk)
+   - Smoking (No): -2 (non-smoker significantly lowers risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression may increase risk)
+   - Been Sad or Fatigued (No): -1 (absence of sadness or fatigue lowers risk)
+   - Loss of Interest (No): -1 (absence of loss of interest lowers risk)
+   - Hours of Sleep (9.6): -1 (adequate sleep associated with lower risk)
+   - Employment (Employed): -1 (employment generally associated with lower risk)
+   - Socioeconomic Status (Middle): 0 (neutral impact on risk score)
+
+   **Total Contributions:** -1 - 1 + 2 + 0 + 0 + 0 + 0 + 1 - 2 + 1 - 1 - 1 - 1 + 0 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of factors that both increase and decrease hospitalization risk. The positive contribution from family health history and mild depression is partially offset by the protective effects of young age, normal BMI, non-smoking status, and adequate sleep, resulting in a low overall risk score.

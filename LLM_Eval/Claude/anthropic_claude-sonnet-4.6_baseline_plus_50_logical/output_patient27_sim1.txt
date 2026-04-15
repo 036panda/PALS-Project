@@ -1,0 +1,85 @@
+## Risk Score: **3.2**
+
+---
+
+### Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (38) | Moderate, low clinical risk age | +0.5 |
+| BMI (21.8) | Normal/healthy range | −0.3 |
+| Family Health History (Asthma) | Hereditary respiratory risk | +0.4 |
+| Current Diagnosis (Anxiety) | Active mental health condition requiring management | +0.8 |
+| Race (Black) | Systemic healthcare access disparities, elevated chronic risk | +0.3 |
+| Gender (Non-binary) | Healthcare navigation barriers, minority stress | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional minority stress contribution | +0.0 |
+| Weekly Alcohol Intake (2) | Low/moderate, minimal risk | +0.1 |
+| Smoking (No) | Protective | −0.4 |
+| HAM-D (0–6, Normal) | No depressive disorder burden | −0.3 |
+| Been Sad or Fatigued (No) | No symptom burden | −0.1 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (6.3) | Slightly below recommended 7–9 hrs | +0.2 |
+| Employment (Employed) | Stable income, insurance access | −0.3 |
+| Socioeconomic Status (High) | Strong healthcare access, resources | −0.5 |
+| Drinks Coffee (No) | Neutral | +0.0 |
+| Likes Vegetables (No) | Suboptimal diet quality | +0.2 |
+| Favourite Sport (Soccer) | Active sport interest (offset by no exercise) | +0.0 |
+| Votes (Always) | Civic engagement, social stability indicator | −0.1 |
+| Height in Inches (73) | Neutral clinical factor | +0.0 |
+| Has Driver's License (Yes) | Mobility/healthcare access | −0.1 |
+| Picks Up Litter (Never) | Lifestyle/civic behavior, negligible clinical impact | +0.0 |
+| Uses Public Transportation (Never) | Neutral in high SES context | +0.0 |
+| Donated Blood (Yes) | Indicates baseline health eligibility | −0.1 |
+| Birthday Month (March) | No established clinical causality | +0.0 |
+| Water Intake (43.6 oz) | Below recommended ~64 oz/day | +0.2 |
+| Bilingual (No) | Neutral | +0.0 |
+| Handedness (Right) | No clinical relevance | +0.0 |
+| Likes Kids (Yes) | Neutral | +0.0 |
+| Favourite Meal (Dinner) | No direct clinical causality | +0.0 |
+| Favourite Color (Orange) | No clinical relevance | +0.0 |
+| Recycling Habits (Never) | Environmental behavior, no direct clinical causality | +0.0 |
+| Hair Color (Blonde) | No clinical relevance | +0.0 |
+| Best High School Subject (History) | No clinical relevance | +0.0 |
+| Travels (Yes) | Potential infectious disease exposure risk | +0.1 |
+| Relationship Status (Dating) | Moderate social support | −0.1 |
+| Favourite Music Genre (Country) | No clinical relevance | +0.0 |
+| Can Ride Bicycle (Yes) | No clinical relevance | +0.0 |
+| Religious (Yes) | Associated with social support, lower mortality risk | −0.1 |
+| Phone (Apple) | No clinical relevance | +0.0 |
+| Wears Glasses (Yes) | Minor sensory impairment, negligible hospitalization risk | +0.0 |
+| Morning or Night (Morning) | Morning chronotype associated with better health outcomes | −0.1 |
+| Allergy (Penicillin) | Clinically significant; limits antibiotic treatment options | +0.4 |
+| Binge Watches TV (Yes) | Sedentary behavior indicator | +0.1 |
+| Favourite Super Store (Target) | No clinical relevance | +0.0 |
+| Pet Preference (Dog) | Associated with physical activity, lower stress | −0.1 |
+| Volunteers (Always) | Strong social engagement, protective mental health factor | −0.2 |
+| Skips Breakfast (No) | Regular eating pattern, protective | −0.1 |
+| Favourite Movie Genre (Comedy) | No clinical relevance | +0.0 |
+| Registered Organ Donor (Yes) | No clinical relevance to hospitalization risk | +0.0 |
+| Annual Charity Donation (Always) | Prosocial behavior, associated with wellbeing | −0.1 |
+| Favourite Cuisine (Mediterranean) | Mediterranean diet associated with reduced chronic disease | −0.2 |
+| Exercises (No) | Significant sedentary risk factor | +0.5 |
+| Likes Art (Yes) | Associated with cognitive/emotional wellbeing | −0.1 |
+| Academic Preference (STEM) | No direct clinical causality | +0.0 |
+| Political Ideology (Conservative) | No direct clinical causality | +0.0 |
+| Orders Takeout (Weekly) | Frequent processed/restaurant food, dietary risk | +0.2 |
+| Preferred Grocery Store (Whole Foods) | Health-conscious purchasing behavior | −0.1 |
+| Helps Elderly (Always) | Prosocial, community-engaged behavior | −0.1 |
+| Likes Chocolate (No) | Neutral | +0.0 |
+| Reads Novels (Yes) | Cognitive engagement, stress reduction | −0.1 |
+| Has Cheated on Assignment (Yes) | No clinical relevance | +0.0 |
+| Eye Color (Brown) | No clinical relevance | +0.0 |
+| Spotify vs Apple Music (Apple Music) | No clinical relevance | +0.0 |
+| Favourite Season (Summer) | No clinical relevance | +0.0 |
+
+---
+
+### Verification of Sum
+
+(+0.5−0.3+0.4+0.8+0.3+0.2+0.1−0.4−0.3−0.1−0.1+0.2−0.3−0.5+0.2−0.1−0.1+0.2−0.1+0.1−0.1−0.1+0.1−0.1+0.4+0.1−0.1−0.2−0.1−0.1−0.2+0.5−0.1+0.2−0.1−0.1−0.1−0.1−0.1−0.2+0.1−0.1) = **3.2** ✓
+
+---
+
+### Justification
+
+The dominant risk drivers are the active anxiety diagnosis, penicillin allergy (which restricts treatment options and complicates any future hospitalization), family history of asthma, and complete absence of exercise combined with sedentary behaviors, partially offset by high socioeconomic status, no smoking, normal BMI, no depressive symptoms, strong social engagement, and Mediterranean dietary preferences. The score reflects a causally weighted integration of clinically meaningful variables, with lifestyle, behavioral, and demographic factors contributing proportionally to their established relationships with hospitalization risk.

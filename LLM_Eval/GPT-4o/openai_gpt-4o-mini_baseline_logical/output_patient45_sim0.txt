@@ -1,0 +1,22 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (41): +1
+   - BMI (26.5): +1
+   - Family Health History (Diabetes): +2
+   - Current Diagnosis (Depression): +1
+   - Race (White): 0
+   - Gender (Male): 0
+   - Sexual Orientation (Heterosexual): 0
+   - Weekly Alcohol Intake (1): 0
+   - Smoking (No): 0
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (4.7): +1
+   - Employment (Employed): 0
+   - Socioeconomic Status (High): -1
+
+   **Total Contributions:** +1 (Age) +1 (BMI) +2 (Family Health History) +1 (Current Diagnosis) +0 (Race) +0 (Gender) +0 (Sexual Orientation) +0 (Weekly Alcohol Intake) +0 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) +1 (Loss of Interest) +1 (Hours of Sleep) +0 (Employment) -1 (Socioeconomic Status) = 4
+
+3. **Justification:** The risk score of 4 reflects a moderate hospitalization risk based on the presence of diabetes in family history, a current diagnosis of depression, and insufficient sleep, which are known risk factors. Positive contributions from age, BMI, and loss of interest further elevate the risk, while factors like high socioeconomic status and normal HAM-D scores mitigate it slightly.

@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed Breakdown of Attributes:
+   - Age (29): -1 (Younger age generally correlates with lower hospitalization risk)
+   - BMI (25.9): 0 (BMI in the normal range has a neutral impact)
+   - Family Health History (nan): 0 (Lack of information leads to no impact)
+   - Current Diagnosis (Anxiety): +2 (Anxiety can increase risk of hospitalization, especially if untreated)
+   - Race (Asian): 0 (Race does not significantly impact hospitalization risk in this context)
+   - Gender (Male): +1 (Males may have a slightly higher risk for certain health issues)
+   - Sexual Orientation (Heterosexual): 0 (No significant impact on hospitalization risk)
+   - Weekly Alcohol Intake (5): +1 (Moderate alcohol intake can contribute to health issues)
+   - Smoking (No): -1 (Non-smoker status reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (No depression lowers hospitalization risk)
+   - Been Sad or Fatigued: +1 (Presence of fatigue and sadness can indicate underlying issues)
+   - Loss of Interest: +1 (Loss of interest can be a sign of worsening mental health)
+   - Hours of Sleep (3.7): +2 (Severely reduced sleep is a significant risk factor)
+   - Employment (Employed): -1 (Employment status can provide stability and reduce risk)
+   - Socioeconomic Status (Middle): 0 (Middle socioeconomic status has a neutral impact)
+
+   Total Impact: -1 + 0 + 0 + 2 + 0 + 1 + 0 + 1 - 1 - 1 + 1 + 1 + 2 - 1 + 0 = 4
+
+3. Clinical Rationale: The patient presents with significant mental health concerns, particularly anxiety and symptoms of fatigue and loss of interest, alongside severely reduced sleep, which collectively elevate the risk of hospitalization. However, their young age, non-smoking status, and employment provide protective factors that mitigate some of the overall risk.

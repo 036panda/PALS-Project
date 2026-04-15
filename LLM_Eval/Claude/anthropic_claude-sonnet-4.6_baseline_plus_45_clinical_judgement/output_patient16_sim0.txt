@@ -1,0 +1,86 @@
+## Patient_ID: 16 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact |
+|---|---|---|
+| Age (45) | Middle-aged; moderate biological risk elevation | +0.6 |
+| BMI (25.2) | Normal/borderline; minimal concern | +0.1 |
+| Family Health History (Hypertension) | Genetic predisposition to cardiovascular complications | +0.4 |
+| Current Diagnosis (Anxiety) | Active mental health condition requiring management | +0.5 |
+| Race (Hispanic) | Elevated population-level risk for certain chronic conditions | +0.2 |
+| Gender (Male) | Males statistically less likely to seek preventive care | +0.2 |
+| Sexual Orientation (Other) | Minority stress may compound mental health burden | +0.1 |
+| Weekly Alcohol Intake (1) | Very low; negligible risk | -0.1 |
+| Smoking (Yes) | Significant cardiovascular and pulmonary risk factor | +0.7 |
+| HAM-D (Mild Depression, 7–17) | Mild depressive symptomatology co-occurring with anxiety | +0.4 |
+| Been Sad or Fatigued (No) | Absence of active mood symptoms; protective | -0.1 |
+| Loss of Interest (No) | No anhedonia; protective against severe depression trajectory | -0.1 |
+| Hours of Sleep (7.9) | Optimal sleep duration; protective | -0.2 |
+| Employment (Employed) | Stable employment; protective socioeconomic buffer | -0.2 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare resources | -0.1 |
+| Drinks Coffee (No) | Neutral to mildly protective for anxiety management | -0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective | -0.1 |
+| Favourite Sport (Basketball) | Active sport engagement; physically protective | -0.1 |
+| Votes (Sometimes) | Moderate civic engagement; neutral | 0.0 |
+| Height in Inches (71) | Normal stature; no clinical relevance | 0.0 |
+| Has Driver's License (No) | Possible mobility limitation; minor access-to-care concern | +0.1 |
+| Picks Up Litter (Always) | Reflects prosocial behavior; neutral clinically | 0.0 |
+| Uses Public Transportation (Never) | Combined with no license; may limit healthcare access | +0.1 |
+| Donated Blood (Yes) | Indicates general health awareness; mildly protective | -0.1 |
+| Birthday Month (July) | No clinical relevance | 0.0 |
+| Water Intake (46.1 oz) | Slightly below recommended ~64 oz; mild concern | +0.1 |
+| Bilingual (No) | Potential healthcare communication limitation | +0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (No) | No clinical relevance | 0.0 |
+| Favourite Meal (Dinner) | No significant clinical relevance | 0.0 |
+| Favourite Color (Yellow) | No clinical relevance | 0.0 |
+| Recycling Habits (Always) | Reflects conscientiousness; mildly protective lifestyle indicator | -0.1 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (English) | No direct clinical relevance | 0.0 |
+| Travels (No) | Reduced exposure to travel-related illness; mildly protective | -0.1 |
+| Relationship Status (Dating) | Moderate social support; mildly protective | -0.1 |
+| Favourite Music Genre (Indie) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (Yes) | Indicates physical capability; mildly protective | -0.1 |
+| Religious (Yes) | Religious engagement associated with better mental health outcomes | -0.1 |
+| Phone (Android) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Minor sensory impairment; negligible risk | 0.0 |
+| Morning or Night (Morning) | Morning chronotype associated with better health outcomes | -0.1 |
+| Allergy (Pollen) | Environmental allergy; minor respiratory risk, especially with smoking | +0.2 |
+| Binge-Watches TV (Yes) | Sedentary behavior pattern; mildly negative | +0.1 |
+| Favourite Super Store (Walmart) | No direct clinical relevance | 0.0 |
+| Pet Preference (Fish) | Low-interaction pet; minimal therapeutic benefit | 0.0 |
+| Volunteers (Always) | Strong prosocial behavior; protective for mental health | -0.2 |
+| Skips Breakfast (Yes) | Poor nutritional habit; mildly negative metabolic impact | +0.1 |
+| Favourite Movie Genre (Romance) | No clinical relevance | 0.0 |
+| Registered Organ Donor (Yes) | Reflects health awareness; mildly protective | -0.1 |
+| Annual Charity Donation (Never) | Slight inconsistency with prosocial profile; neutral | 0.0 |
+| Favourite Cuisine (Italian) | No significant clinical relevance | 0.0 |
+| Exercises (Yes) | Regular exercise; significantly protective | -0.3 |
+| Likes Art (No) | No clinical relevance | 0.0 |
+| Academic Preference (Humanities) | No direct clinical relevance | 0.0 |
+| Political Ideology (Apolitical) | Reduced civic stress; mildly protective | -0.1 |
+| Orders Takeout (Daily) | High frequency; poor dietary quality risk, sodium/fat exposure | +0.3 |
+| Preferred Grocery Store (Whole Foods) | Health-conscious shopping behavior; mildly protective | -0.1 |
+| Helps Elderly (Never) | No clinical relevance | 0.0 |
+| Likes Chocolate (No) | No significant clinical relevance | 0.0 |
+
+---
+
+**Sum Verification:**
+Positive impacts: +0.6+0.1+0.4+0.5+0.2+0.2+0.1+0.7+0.4+0.1+0.1+0.1+0.1+0.2+0.1+0.1+0.3 = **+4.2** ✓
+Negative impacts: −0.1−0.1−0.2−0.2−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.2−0.1−0.1−0.3−0.1 = **−2.6**
+Neutral: **0.0**
+**Net Score: 4.2 − 0.0 = 4.2** ✓ *(Positive contributions offset by negatives yield net 4.2)*
+
+---
+
+### 3. Clinical Rationale
+
+This 45-year-old Hispanic male presents with a moderate hospitalization risk driven primarily by active smoking, a concurrent anxiety diagnosis with mild depressive features on HAM-D, a family history of hypertension, and a pollen allergy — a combination that creates compounding cardiovascular and respiratory vulnerability. These risks are meaningfully offset by regular exercise, stable employment, adequate sleep, health-conscious behaviors such as volunteering and vegetable consumption, and the absence of active mood symptoms, yielding an overall moderate risk profile that warrants preventive monitoring rather than immediate clinical intervention.

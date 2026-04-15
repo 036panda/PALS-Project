@@ -1,0 +1,31 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (20): -1 (younger age generally correlates with lower risk)
+   - BMI (21.0): -1 (normal BMI is associated with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (Bipolar): +1 (mental health conditions can elevate risk)
+   - Race (Black): +1 (certain racial groups may have higher risk for specific conditions)
+   - Gender (Male): +1 (males may have higher risk for certain health issues)
+   - Weekly Alcohol Intake (0): -1 (no alcohol intake is protective)
+   - Smoking (No): -1 (non-smoker status is protective)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can contribute to health risks)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue is protective)
+   - Loss of Interest (No): -1 (absence of loss of interest is protective)
+   - Hours of Sleep (5.7): +1 (less than optimal sleep can increase risk)
+   - Employment (Student): 0 (neutral contribution)
+   - Socioeconomic Status (Low): +1 (low socioeconomic status can increase risk)
+   - Drinks Coffee (Yes): 0 (neutral contribution)
+   - Likes Vegetables (Yes): 0 (neutral contribution)
+   - Favourite Sport (Hockey): 0 (neutral contribution)
+   - Votes (Sometimes): 0 (neutral contribution)
+   - Height in Inches (70): 0 (neutral contribution)
+   - Has Driver's License (No): 0 (neutral contribution)
+   - Picks Up Litter (Sometimes): 0 (neutral contribution)
+   - Uses Public Transportation (Sometimes): 0 (neutral contribution)
+   - Donated Blood (Yes): 0 (neutral contribution)
+   - Birthday Month (May): 0 (neutral contribution)
+
+   **Total Contributions:** -1 - 1 + 2 + 1 + 1 + 1 - 1 - 1 + 1 - 1 - 1 + 1 + 1 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of protective factors (such as low BMI, no alcohol or smoking, and absence of significant depressive symptoms) and risk factors (including family history of cancer, a bipolar diagnosis, and low socioeconomic status). The overall score indicates a mild risk level, primarily influenced by mental health and family history.

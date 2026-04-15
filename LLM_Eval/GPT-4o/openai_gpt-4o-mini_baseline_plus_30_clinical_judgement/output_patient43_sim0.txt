@@ -1,0 +1,49 @@
+1. **Final Hospitalization Risk Score:** 4
+
+2. **Detailed Breakdown of Attributes:**
+   - **Age (20):** -1 (Younger age generally correlates with lower hospitalization risk)
+   - **BMI (21.0):** -1 (Normal BMI is associated with lower health risks)
+   - **Family Health History (Cancer):** +2 (Family history of cancer can increase risk for various health issues)
+   - **Current Diagnosis (Bipolar):** +2 (Bipolar disorder can lead to increased risk of hospitalization due to mood episodes)
+   - **Race (Black):** +1 (Certain racial groups may have higher risks for specific health conditions)
+   - **Gender (Male):** +1 (Males may have higher hospitalization rates for certain conditions)
+   - **Weekly Alcohol Intake (0):** -1 (No alcohol intake is protective against many health issues)
+   - **Smoking (No):** -1 (Non-smokers have a lower risk of hospitalization)
+   - **HAM-D (7–17: Mild Depression):** +1 (Mild depression can contribute to overall health decline)
+   - **Been Sad or Fatigued (No):** -1 (No reported sadness or fatigue is a positive indicator)
+   - **Loss of Interest (No):** -1 (No loss of interest is a positive indicator)
+   - **Hours of Sleep (5.7):** +1 (Less than optimal sleep can negatively impact health)
+   - **Employment (Student):** 0 (Neutral impact; students may have varying health risks)
+   - **Socioeconomic Status (Low):** +1 (Lower socioeconomic status is often associated with higher health risks)
+   - **Drinks Coffee (Yes):** 0 (Neutral impact; coffee consumption can have mixed effects)
+   - **Likes Vegetables (Yes):** -1 (Positive dietary habits can reduce health risks)
+   - **Favourite Sport (Hockey):** 0 (Neutral impact; physical activity is generally beneficial)
+   - **Votes (Sometimes):** 0 (Neutral impact; civic engagement does not directly affect health)
+   - **Height in Inches (70):** 0 (Neutral impact; height does not directly correlate with hospitalization risk)
+   - **Has Driver's License (No):** 0 (Neutral impact; does not directly affect health)
+   - **Picks Up Litter (Sometimes):** 0 (Neutral impact; community involvement does not directly affect health)
+   - **Uses Public Transportation (Sometimes):** 0 (Neutral impact; does not directly affect health)
+   - **Donated Blood (Yes):** -1 (Regular blood donation is often associated with better health)
+   - **Birthday Month (May):** 0 (Neutral impact; does not affect health)
+   - **Water Intake (43.7 oz):** 0 (Neutral impact; adequate hydration is important but this amount is average)
+   - **Bilingual (No):** 0 (Neutral impact; language skills do not directly correlate with health)
+   - **Handedness (Right):** 0 (Neutral impact; does not affect health)
+   - **Likes Kids (Yes):** 0 (Neutral impact; personal preferences do not affect health)
+   - **Favourite Meal (Lunch):** 0 (Neutral impact; meal preferences do not affect health)
+   - **Favourite Color (Red):** 0 (Neutral impact; does not affect health)
+   - **Recycling Habits (Sometimes):** 0 (Neutral impact; environmental habits do not directly affect health)
+   - **Hair Color (Blonde):** 0 (Neutral impact; does not affect health)
+   - **Best High School Subject (Math):** 0 (Neutral impact; academic performance does not directly correlate with health)
+   - **Travels (No):** 0 (Neutral impact; travel habits do not affect health)
+   - **Relationship Status (Single):** 0 (Neutral impact; relationship status does not directly correlate with health)
+   - **Favourite Music Genre (Country):** 0 (Neutral impact; music preferences do not affect health)
+   - **Can Ride Bicycle (No):** 0 (Neutral impact; does not directly affect health)
+   - **Religious (No):** 0 (Neutral impact; religious beliefs do not directly correlate with health)
+   - **Phone (Android):** 0 (Neutral impact; does not affect health)
+   - **Wears Glasses (Yes):** 0 (Neutral impact; vision correction does not directly correlate with hospitalization risk)
+   
+   **Total Positive Impacts:** +7  
+   **Total Negative Impacts:** -3  
+   **Final Score Calculation:** +7 (positive impacts) - 3 (negative impacts) = 4
+
+3. **Clinical Rationale:** The patient presents a moderate risk for hospitalization primarily due to their bipolar diagnosis and family history of cancer, which can predispose them to health complications. However, their young age, normal BMI, and absence of substance use are protective factors that help mitigate this risk.

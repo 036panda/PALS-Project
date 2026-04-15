@@ -1,0 +1,44 @@
+## Hospitalization Risk Score: **3.6**
+
+---
+
+### Factor Contributions (Sum = 3.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk in 60s | +1.5 |
+| BMI (25.8) | Normal/healthy range | −0.2 |
+| Family Health History: Asthma | Genetic/environmental predisposition | +0.3 |
+| Current Diagnosis: None (nan) | No active diagnosis | −0.4 |
+| Race: Black | Systemic health disparity risk | +0.3 |
+| Gender: Female | Slightly lower cardiovascular risk | −0.1 |
+| HAM-D: Mild Depression (7–17) | Mental health risk factor | +0.4 |
+| Been Sad or Fatigued: No | Mitigates depression severity | −0.1 |
+| Loss of Interest: No | Mitigates depression severity | −0.1 |
+| Hours of Sleep: 5.4 | Below recommended threshold (<7 hrs) | +0.5 |
+| Weekly Alcohol Intake: 1 | Minimal alcohol use | −0.1 |
+| Smoking: No | No smoking risk | −0.3 |
+| Socioeconomic Status: High | Better access to care | −0.3 |
+| Employment: Employed | Stability, insurance access | −0.2 |
+| Exercises: Yes | Protective health behavior | −0.3 |
+| Likes Vegetables: Yes | Healthy diet indicator | −0.1 |
+| Skips Breakfast: Yes | Minor nutritional risk | +0.1 |
+| Water Intake (46.1 oz) | Slightly below optimal (~64 oz) | +0.1 |
+| Allergy: Dust | Respiratory risk (linked to asthma history) | +0.2 |
+| Drinks Coffee: No | Neutral/slight positive | 0.0 |
+| Binge Watches TV: Yes | Sedentary behavior indicator | +0.1 |
+| Travels: Yes | Exposure risk, minor | +0.1 |
+| Volunteers: Never | Reduced social engagement | +0.1 |
+| Relationship Status: Single | Reduced social support | +0.1 |
+| Registered Organ Donor: Yes | Health-conscious behavior | −0.1 |
+| Wears Glasses: Yes | Minor health indicator | 0.0 |
+| Donated Blood: No | Neutral | 0.0 |
+| Helps Elderly: Sometimes | Mild social engagement | 0.0 |
+| Religious: No | Neutral | 0.0 |
+| All remaining lifestyle/preference factors | No direct causal health link | 0.0 |
+
+---
+
+### Justification
+
+The score of **3.6** is driven primarily by the patient's age (61), mild depression (HAM-D 7–17), insufficient sleep (5.4 hours), a family history of asthma compounded by a dust allergy, and racial health disparity risk, all of which causally elevate hospitalization likelihood. These risks are substantially offset by the absence of smoking, a healthy BMI, regular exercise, high socioeconomic status with employment, no active diagnosis, and low alcohol intake, reflecting strong protective factors that reduce acute hospitalization probability.

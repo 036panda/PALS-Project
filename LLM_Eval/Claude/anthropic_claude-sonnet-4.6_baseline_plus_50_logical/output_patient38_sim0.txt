@@ -1,0 +1,44 @@
+## Risk Score: **5.3**
+
+---
+
+### Factor Contributions (Sum = 5.3)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases hospitalization risk | +1.5 |
+| BMI (33.4) | Obese range, increases cardiometabolic risk | +1.0 |
+| Current Diagnosis: Depression | Active mental health diagnosis | +0.8 |
+| HAM-D: Mild Depression (7–17) | Clinically confirmed mild severity | +0.3 |
+| Been Sad or Fatigued: Yes | Active depressive symptom | +0.2 |
+| Loss of Interest: Yes | Active depressive symptom | +0.2 |
+| Socioeconomic Status: Low | Reduces access to preventive care | +0.4 |
+| Hours of Sleep (6.7) | Slightly below optimal, mild risk | +0.1 |
+| Skips Breakfast: Yes | Poor nutritional habit, metabolic risk | +0.1 |
+| Orders Takeout: Daily | Poor dietary pattern, metabolic risk | +0.2 |
+| Water Intake (44.6 oz) | Below recommended ~64 oz, mild risk | +0.1 |
+| No Driver's License | Limits healthcare access | +0.1 |
+| Volunteers: Never | Social isolation indicator | +0.1 |
+| Recycling/Civic Engagement: Low | Proxy for disengagement, minor | +0.05 |
+| Registered Organ Donor: No | Minor proxy for health disengagement | +0.05 |
+| Family Health History: Unknown (NaN) | Cannot mitigate risk, neutral-negative | +0.1 |
+| Exercises: Yes | Protective physical activity | -0.3 |
+| Smoking: No | No tobacco risk | -0.3 |
+| Weekly Alcohol Intake (1) | Low alcohol, protective | -0.2 |
+| Likes Vegetables: Yes | Positive dietary habit | -0.1 |
+| Drinks Coffee: Yes | Mild protective association | -0.05 |
+| Relationship Status: Dating | Social connection, mild protective | -0.1 |
+| Travels: Yes | Suggests functional mobility | -0.1 |
+| Uses Public Transportation: Always | Maintains mobility/access | -0.05 |
+| Donated Blood: Yes | Proxy for health engagement | -0.05 |
+| Reads Novels: Yes | Cognitive engagement, mild protective | -0.05 |
+| Bilingual: No | Neutral | 0.00 |
+| Allergy: Shellfish | Manageable, low hospitalization risk | 0.00 |
+| All remaining lifestyle/preference factors | No direct causal hospitalization link | 0.00 |
+
+**Total: 5.3**
+
+---
+
+### Justification
+The score is driven primarily by the patient's age (62), obesity-range BMI (33.4), active depression diagnosis with confirmed mild HAM-D severity and symptomatic presentation (fatigue, loss of interest), and low socioeconomic status limiting healthcare access. Protective factors including regular exercise, non-smoking status, minimal alcohol use, and social engagement partially offset these risks, yielding a moderate-to-elevated hospitalization risk of 5.3 out of 10.

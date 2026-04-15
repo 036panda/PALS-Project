@@ -1,0 +1,53 @@
+## Risk Score: **6.2**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (52) | Moderate-high age, elevated chronic risk | +1.0 |
+| BMI (16.4) | Severely underweight, high medical risk | +1.2 |
+| Family Health History | Cancer | +0.4 |
+| Current Diagnosis | Bipolar Disorder | +0.8 |
+| Weekly Alcohol Intake | 7 drinks/week, moderate-risk level | +0.3 |
+| Smoking | Yes | +0.4 |
+| HAM-D Score | Mild Depression (7–17) | +0.3 |
+| Loss of Interest | Yes (anhedonia, psychiatric indicator) | +0.2 |
+| Hours of Sleep | 4.8 hrs (severely insufficient) | +0.4 |
+| Water Intake | 43.7 oz (below recommended ~64 oz) | +0.2 |
+| Exercises | No | +0.3 |
+| Skips Breakfast | Yes (compounded with low BMI) | +0.2 |
+| Relationship Status | Single (reduced social support) | +0.1 |
+| Volunteers | Never (low social engagement) | +0.05 |
+| Recycling / Lifestyle Engagement | Never (proxy for low self-care investment) | +0.05 |
+| No Driver's License | Potential mobility/access barrier to care | +0.1 |
+| Allergy (Dust) | Minor medical factor | +0.05 |
+| Registered Organ Donor | No (minor inverse health-engagement signal) | +0.05 |
+| Been Sad or Fatigued | No (mild protective signal) | −0.1 |
+| Socioeconomic Status | Middle (moderate access to care) | −0.1 |
+| Employment | Employed (structure, income, insurance access) | −0.2 |
+| Likes Vegetables | Yes (positive dietary behavior) | −0.1 |
+| Donated Blood | Yes (health-engagement indicator) | −0.05 |
+| Votes Always | Civic engagement, social stability proxy | −0.05 |
+| Uses Public Transportation Always | Access to mobility | −0.05 |
+| Religious | Yes (social/community support) | −0.05 |
+| Reads Novels | Yes (cognitive engagement) | −0.05 |
+| Likes Kids | Yes (social bonding indicator) | −0.05 |
+| Bilingual | No | 0.00 |
+| Handedness | Right | 0.00 |
+| Gender | Male | 0.00 |
+| Race | Asian | 0.00 |
+| Sexual Orientation | Other | 0.00 |
+| Drinks Coffee | No | 0.00 |
+| Binge Watches TV | No | 0.00 |
+| Favourite Sport | NaN | 0.00 |
+| Morning or Night | Night (minor circadian disruption, already captured in sleep) | 0.00 |
+| All remaining lifestyle/preference factors | (no direct causal hospitalization link) | 0.00 |
+| **TOTAL** | | **6.20** |
+
+---
+
+### Justification
+
+The score is primarily driven by a severely low BMI of 16.4 (indicating possible malnutrition or an eating disorder), a Bipolar Disorder diagnosis, inadequate sleep (4.8 hours), active smoking, moderate alcohol use, and mild depression with anhedonia — all of which have direct, evidence-based causal relationships with acute hospitalization risk. Protective factors including stable employment, middle socioeconomic status, vegetable consumption, and civic/health engagement behaviors partially offset these risks, yielding a net score of 6.2.

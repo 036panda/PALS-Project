@@ -1,0 +1,24 @@
+1. **Risk Score:** 5
+
+2. **Input Factors and Contributions:**
+   - Age (25): +1
+   - BMI (28.5): +1
+   - Family Health History (Hypertension): +1
+   - Current Diagnosis (Bipolar): +2
+   - Weekly Alcohol Intake (7 drinks): +1
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (No): -1
+   - Hours of Sleep (7.8): -1
+   - Employment (Employed): -1
+   - Socioeconomic Status (Middle): -1
+   - Drinks Coffee (No): -1
+   - Likes Vegetables (Yes): -1
+   - Relationship Status (Single): +1
+   - Skips Breakfast (Yes): +1
+   - Allergy (Gluten): +1
+
+   **Total Contributions:** +1 (Age) +1 (BMI) +1 (Family Health History) +2 (Current Diagnosis) +1 (Weekly Alcohol Intake) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) -1 (Loss of Interest) -1 (Hours of Sleep) -1 (Employment) -1 (Socioeconomic Status) -1 (Drinks Coffee) -1 (Likes Vegetables) +1 (Relationship Status) +1 (Skips Breakfast) +1 (Allergy) = 5
+
+3. **Justification:** The risk score of 5 reflects a moderate hospitalization risk based on the combination of factors such as a current diagnosis of bipolar disorder, a family history of hypertension, and a relatively high BMI, which contribute positively to the risk. Conversely, factors like non-smoking status, normal mental health indicators, and employment status mitigate the overall risk, leading to a balanced score.

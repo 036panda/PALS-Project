@@ -1,0 +1,92 @@
+# Hospitalization Risk Evaluation — Patient ID: 31
+
+---
+
+## 1. Final Hospitalization Risk Score: **4.8 / 10**
+
+---
+
+## 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (36) | Moderate age, some metabolic risk beginning | +0.3 |
+| BMI (36.8) | Class II Obesity — significant cardiovascular/metabolic risk | +1.4 |
+| Family Health History (Hypertension) | Elevated genetic predisposition to cardiovascular disease | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.4 |
+| Race (Black) | Statistically higher prevalence of hypertension, diabetes, and healthcare disparities | +0.4 |
+| Gender (Non-binary) | Potential barriers to care access and healthcare engagement | +0.1 |
+| Sexual Orientation (Heterosexual) | No significant directional impact | +0.0 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-to-concerning level; hepatic and cardiovascular risk | +0.4 |
+| Smoking (Yes) | Significant independent risk factor for cardiovascular, pulmonary, oncologic disease | +0.8 |
+| HAM-D (Normal/No Depression) | No clinically significant depressive disorder by scale | −0.3 |
+| Been Sad or Fatigued (Yes) | Subclinical mood symptoms; possible early depressive or somatic signal | +0.2 |
+| Loss of Interest (Yes) | Anhedonia present despite normal HAM-D; warrants monitoring | +0.2 |
+| Hours of Sleep (5.7) | Insufficient sleep; linked to immune dysfunction, obesity, cardiovascular risk | +0.4 |
+| Employment (Employed) | Protective factor; access to insurance and routine | −0.3 |
+| Socioeconomic Status (Middle) | Moderate buffer against healthcare access barriers | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly negative (no antioxidant/alertness benefit) | +0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior; protective | −0.2 |
+| Favourite Sport (Soccer) | Indicates some interest in physical activity | −0.1 |
+| Votes (Never) | Civic disengagement; mild proxy for systemic disengagement | +0.1 |
+| Height in Inches (60) | Short stature; contextualizes BMI severity upward | +0.1 |
+| Has Driver's License (Yes) | Functional independence; access to care | −0.1 |
+| Picks Up Litter (Always) | Prosocial behavior; positive mental health proxy | −0.1 |
+| Uses Public Transportation (Never) | Sedentary lifestyle proxy; reduced incidental activity | +0.1 |
+| Donated Blood (Yes) | Health-engaged behavior; generally healthy enough to donate | −0.1 |
+| Birthday Month (October) | No clinically significant impact | +0.0 |
+| Water Intake (46 oz) | Below recommended ~64 oz/day; mild dehydration risk | +0.2 |
+| Bilingual (Yes) | Cognitive resilience; no direct hospitalization impact | −0.1 |
+| Handedness (Right) | No clinical impact | +0.0 |
+| Likes Kids (Yes) | Positive social connectedness proxy | −0.1 |
+| Favourite Meal (Lunch) | No significant clinical impact | +0.0 |
+| Favourite Color (Blue) | No clinical impact | +0.0 |
+| Recycling Habits (Always) | Positive behavioral conscientiousness | −0.1 |
+| Hair Color (Brown) | No clinical impact | +0.0 |
+| Best High School Subject (English) | No direct clinical impact | +0.0 |
+| Travels (No) | Reduced exposure to travel-related illness; mild sedentary proxy | +0.1 |
+| Relationship Status (Single) | Reduced social support; associated with worse health outcomes | +0.2 |
+| Favourite Music Genre (Indie) | No clinical impact | +0.0 |
+| Can Ride Bicycle (No) | Mild indicator of physical limitation or inactivity | +0.1 |
+| Religious (Yes) | Protective psychosocial factor; associated with better health behaviors | −0.2 |
+| Phone (Android) | No clinical impact | +0.0 |
+| Wears Glasses (No) | No significant clinical impact | +0.0 |
+| Morning or Night (Morning) | Morning chronotype associated with better metabolic health | −0.1 |
+| Allergy (Penicillin) | Limits antibiotic treatment options; increases complication risk if infection occurs | +0.3 |
+| Binge Watches TV (Yes) | Sedentary behavior; associated with obesity and cardiovascular risk | +0.2 |
+| Favourite Super Store (Target) | No clinical impact | +0.0 |
+| Pet Preference (Dog) | Associated with increased physical activity and emotional support | −0.1 |
+| Volunteers (Always) | Strong prosocial engagement; protective mental and physical health factor | −0.2 |
+| Skips Breakfast (Yes) | Associated with metabolic dysregulation, obesity worsening | +0.2 |
+| Favourite Movie Genre (Indie) | No clinical impact | +0.0 |
+| Registered Organ Donor (Yes) | Health-positive civic engagement | −0.1 |
+| Annual Charity Donation (Sometimes) | Moderate prosocial behavior; mild protective proxy | −0.1 |
+| Favourite Cuisine (Thai) | Generally balanced cuisine; no significant impact | +0.0 |
+| Exercises (No) | Significant risk amplifier given obesity, smoking, and family history | +0.7 |
+| Likes Art (No) | Mild reduction in creative/emotional outlet | +0.0 |
+| Academic Preference (Humanities) | No direct clinical impact | +0.0 |
+| Political Ideology (Liberal) | Slight association with preventive health engagement | −0.1 |
+| Orders Takeout (Never) | Positive dietary control behavior | −0.2 |
+| Preferred Grocery Store (Giant) | No clinical impact | +0.0 |
+| Helps Elderly (Sometimes) | Moderate prosocial behavior | −0.1 |
+| Likes Chocolate (Yes) | Minimal impact; dark chocolate mildly protective, unspecified here | +0.0 |
+| Reads Novels (No) | Reduced cognitive engagement; minor | +0.0 |
+| Has Cheated on Assignment (No) | Conscientiousness proxy; positive behavioral indicator | −0.1 |
+| Eye Color (Brown) | No clinical impact | +0.0 |
+| Spotify vs Apple Music (Spotify) | No clinical impact | +0.0 |
+| Favourite Season (Summer) | No clinical impact | +0.0 |
+
+---
+
+### **Sum Verification:**
+Positive impacts: +0.3+1.4+0.5+0.4+0.1+0.4+0.8+0.2+0.2+0.4+0.2+0.1+0.1+0.1+0.2+0.1+0.2+0.2+0.3+0.2+0.2+0.7 = **+7.2**
+
+Negative impacts: −0.4−0.3−0.2−0.2−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.2−0.1−0.1−0.1−0.2−0.1−0.1−0.2−0.1−0.1−0.1−0.1−0.1 = **−2.4**
+
+**Net Score: 7.2 − 2.4 = 4.8 ✓**
+
+---
+
+## 3. Clinical Rationale
+
+This 36-year-old non-binary Black patient presents with a convergence of modifiable and non-modifiable risk factors — most notably Class II obesity (BMI 36.8), active smoking, physical inactivity, insufficient sleep, moderate alcohol use, a family history of hypertension, and a penicillin allergy that could complicate future infectious management — creating a meaningful cumulative cardiovascular and metabolic hospitalization risk. Protective factors including stable employment, middle socioeconomic status, prosocial behaviors, and no current formal diagnosis partially offset this risk, but the absence of exercise, breakfast skipping, subclinical mood symptoms (sadness, anhedonia, fatigue despite a normal HAM-D), and inadequate hydration suggest a patient on a trajectory toward preventable acute illness without targeted lifestyle and preventive intervention.

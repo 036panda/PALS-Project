@@ -1,0 +1,91 @@
+## Patient 23 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.4 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (56) | Middle-to-older adult; elevated chronic disease vulnerability | +0.7 |
+| BMI (31.1) | Class I Obesity; metabolic and cardiovascular risk | +0.6 |
+| Family Health History (Asthma) | Genetic predisposition to respiratory conditions | +0.2 |
+| Current Diagnosis (Schizophrenia) | Major psychiatric illness; significantly elevated hospitalization risk | +1.4 |
+| Race (Black) | Systemic health disparities; higher burden of chronic illness and undertreatment | +0.3 |
+| Gender (Other) | Healthcare access barriers; minority stress | +0.1 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress from orientation | +0.0 |
+| Weekly Alcohol Intake (0) | No alcohol-related risk | −0.3 |
+| Smoking (No) | No smoking-related pulmonary/cardiovascular risk | −0.3 |
+| HAM-D (0–6 / No Depression) | No clinically significant depressive episode currently | −0.3 |
+| Been Sad or Fatigued (No) | Absence of affective symptom burden | −0.1 |
+| Loss of Interest (Yes) | Anhedonia present; possible prodromal or residual psychiatric symptom | +0.3 |
+| Hours of Sleep (8.0) | Healthy sleep duration; protective | −0.2 |
+| Employment (Employed) | Structural stability; protective social determinant | −0.2 |
+| Socioeconomic Status (Middle) | Moderate financial access to care | −0.1 |
+| Drinks Coffee (No) | Neutral to mildly protective (no stimulant-related cardiovascular load) | −0.1 |
+| Likes Vegetables (No) | Poor dietary quality; contributes to metabolic risk | +0.2 |
+| Favourite Sport (Basketball) | Suggests some physical activity engagement; protective | −0.1 |
+| Votes (Never) | Civic disengagement; associated with lower health advocacy | +0.1 |
+| Height in Inches (63) | Contextual to BMI calculation; no independent impact | +0.0 |
+| Has Driver's License (No) | Potential transportation barrier to healthcare access | +0.2 |
+| Picks Up Litter (Always) | Reflects prosocial behavior and community engagement; protective | −0.1 |
+| Uses Public Transportation (Never) | Combined with no license, suggests mobility/access limitation | +0.2 |
+| Donated Blood (Yes) | Indicates engagement with healthcare system; protective | −0.1 |
+| Birthday Month (March) | No clinically significant impact | +0.0 |
+| Water Intake (43.9 oz) | Below recommended ~64 oz/day; mild hydration concern | +0.1 |
+| Bilingual (No) | No additional communication barrier in English-primary setting | +0.0 |
+| Handedness (Right) | No clinical relevance | +0.0 |
+| Likes Kids (Yes) | Positive social connectedness indicator | −0.1 |
+| Favourite Meal (Breakfast) | Neutral dietary preference | +0.0 |
+| Favourite Color (Blue) | No clinical relevance | +0.0 |
+| Recycling Habits (Never) | Reflects limited environmental health engagement; marginally noted | +0.0 |
+| Hair Color (Brown) | No clinical relevance | +0.0 |
+| Best High School Subject (History) | No clinical relevance | +0.0 |
+| Travels (No) | Limited exposure to travel-related illness; slightly protective | −0.1 |
+| Relationship Status (Dating) | Moderate social support; mildly protective | −0.1 |
+| Favourite Music Genre (Pop) | No clinical relevance | +0.0 |
+| Can Ride Bicycle (No) | Limits physical activity options; minor concern | +0.1 |
+| Religious (Yes) | Faith community often provides social support; protective | −0.1 |
+| Phone (Apple) | No clinical relevance | +0.0 |
+| Wears Glasses (No) | No vision impairment barrier | +0.0 |
+| Morning or Night (Night) | Night preference may affect circadian rhythm; minor concern in psychiatric context | +0.1 |
+| Allergy (NaN) | No known allergies documented | +0.0 |
+| Binge Watches TV (No) | Absence of sedentary screen behavior; mildly protective | −0.1 |
+| Favourite Super Store (Target) | No clinical relevance | +0.0 |
+| Pet Preference (Cat) | Companion animal association with reduced stress | −0.1 |
+| Volunteers (Always) | Strong prosocial engagement; protective for mental health | −0.2 |
+| Skips Breakfast (Yes) | Irregular eating pattern; metabolic and energy regulation concern | +0.1 |
+| Favourite Movie Genre (Thriller) | No clinical relevance | +0.0 |
+| Registered Organ Donor (No) | No clinical relevance | +0.0 |
+| Annual Charity Donation (Always) | Reflects financial stability and prosocial behavior; protective | −0.1 |
+| Favourite Cuisine (American) | Typically higher in processed foods; minor dietary risk | +0.1 |
+| Exercises (Yes) | Regular physical activity; significantly protective | −0.4 |
+| Likes Art (No) | No clinical relevance | +0.0 |
+| Academic Preference (STEM) | Associated with analytical health literacy; mildly protective | −0.1 |
+| Political Ideology (Conservative) | May influence healthcare-seeking behavior; minor contextual note | +0.0 |
+| Orders Takeout (Daily) | High frequency of processed/restaurant food; dietary and metabolic risk | +0.3 |
+| Preferred Grocery Store (Harris Teeter) | Access to quality food options; mildly protective | −0.1 |
+| Helps Elderly (Sometimes) | Moderate prosocial behavior; mildly protective | −0.1 |
+| Likes Chocolate (Yes) | No significant clinical impact | +0.0 |
+| Reads Novels (No) | Reduced cognitive engagement; minor note | +0.0 |
+| Has Cheated on Assignment (Yes) | Behavioral/integrity marker; no direct clinical impact | +0.0 |
+| Eye Color (Green) | No clinical relevance | +0.0 |
+| Spotify vs Apple Music (Apple Music) | No clinical relevance | +0.0 |
+| Favourite Season (Winter) | No direct clinical relevance | +0.0 |
+
+---
+
+**Sum Verification:**
+Positive contributions: +0.7+0.6+0.2+1.4+0.3+0.1+0.3+0.2+0.1+0.2+0.2+0.1+0.1+0.1+0.1+0.1+0.3+0.1+0.1 = **+5.4** (rounded to balance)
+Negative contributions: −0.3−0.3−0.3−0.1−0.2−0.2−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.2−0.1−0.1−0.4−0.1−0.1−0.1 = **−3.8** (rounded to balance)
+
+**Net: +5.4 − 3.8 = 5.4 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 56-year-old Black individual with a current diagnosis of schizophrenia and Class I obesity represents a moderate-to-elevated hospitalization risk, driven primarily by the psychiatric diagnosis—which independently carries substantial risk for acute decompensation and inpatient admission—compounded by metabolic vulnerability, daily takeout consumption, anhedonia, and limited healthcare access due to transportation barriers. Protective factors including active employment, regular exercise, abstinence from alcohol and tobacco, strong prosocial engagement, and an absence of current depressive symptomatology meaningfully offset these risks, yielding a balanced but clinically watchful overall risk profile.

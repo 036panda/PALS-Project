@@ -1,0 +1,57 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (34): +1
+   - BMI (24.2): 0 (neutral)
+   - Family Health History (nan): 0 (unknown)
+   - Current Diagnosis (Bipolar): +2
+   - Race (Hispanic): 0 (neutral)
+   - Gender (Female): +1
+   - Sexual Orientation (Heterosexual): 0 (neutral)
+   - Weekly Alcohol Intake (1): 0 (low intake)
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (Yes): +1
+   - Loss of Interest (No): 0 (neutral)
+   - Hours of Sleep (8.3): -1
+   - Employment (Employed): -1
+   - Socioeconomic Status (Low): +1
+   - Drinks Coffee (No): 0 (neutral)
+   - Likes Vegetables (No): 0 (neutral)
+   - Favourite Sport (Soccer): 0 (neutral)
+   - Votes (Sometimes): 0 (neutral)
+   - Height in Inches (60): 0 (neutral)
+   - Has Driver's License (Yes): 0 (neutral)
+   - Picks Up Litter (Never): 0 (neutral)
+   - Uses Public Transportation (Always): 0 (neutral)
+   - Donated Blood (No): 0 (neutral)
+   - Birthday Month (November): 0 (neutral)
+   - Water Intake (oz) (44.1): 0 (neutral)
+   - Bilingual (No): 0 (neutral)
+   - Handedness (Right): 0 (neutral)
+   - Likes Kids (Yes): 0 (neutral)
+   - Favourite Meal (Breakfast): 0 (neutral)
+   - Favourite Color (Red): 0 (neutral)
+   - Recycling Habits (Sometimes): 0 (neutral)
+   - Hair Color (Red): 0 (neutral)
+   - Best High School Subject (History): 0 (neutral)
+   - Travels (No): 0 (neutral)
+   - Relationship Status (Single): 0 (neutral)
+   - Favourite Music Genre (Indie): 0 (neutral)
+   - Can Ride Bicycle (Yes): 0 (neutral)
+   - Religious (Yes): 0 (neutral)
+   - Phone (Apple): 0 (neutral)
+   - Wears Glasses (Yes): 0 (neutral)
+   - Morning or Night (Morning): 0 (neutral)
+   - Allergy (Shellfish): 0 (neutral)
+   - Binge Watches TV (Yes): 0 (neutral)
+   - Favourite Super Store (Walmart): 0 (neutral)
+   - Pet Preference (Other): 0 (neutral)
+   - Volunteers (Always): -1
+   - Skips Breakfast (Yes): +1
+   - Favourite Movie Genre (Romance): 0 (neutral)
+   - Registered Organ Donor (Yes): 0 (neutral)
+
+   **Total Contributions:** +1 (Age) + 0 (BMI) + 0 (Family Health History) + 2 (Bipolar) + 0 (Race) + 1 (Female) + 0 (Sexual Orientation) - 1 (Smoking) - 1 (HAM-D) + 1 (Been Sad or Fatigued) + 0 (Loss of Interest) - 1 (Hours of Sleep) - 1 (Employment) + 1 (Socioeconomic Status) + 0 (Drinks Coffee) + 0 (Likes Vegetables) + 0 (Favourite Sport) + 0 (Votes) + 0 (Height) + 0 (Driver's License) + 0 (Picks Up Litter) + 0 (Public Transportation) + 0 (Donated Blood) + 0 (Birthday Month) + 0 (Water Intake) + 0 (Bilingual) + 0 (Handedness) + 0 (Likes Kids) + 0 (Favourite Meal) + 0 (Favourite Color) + 0 (Recycling Habits) + 0 (Hair Color) + 0 (Best Subject) + 0 (Travels) + 0 (Relationship Status) + 0 (Music Genre) + 0 (Can Ride Bicycle) + 0 (Religious) + 0 (Phone) + 0 (Wears Glasses) + 0 (Morning or Night) + 0 (Allergy) + 0 (Binge Watches TV) + 0 (Super Store) + 0 (Pet Preference) - 1 (Volunteers) + 1 (Skips Breakfast) + 0 (Movie Genre) + 0 (Organ Donor) = 4
+
+3. **Justification:** The risk score of 4 reflects the patient's bipolar diagnosis and low socioeconomic status, which are significant risk factors for hospitalization. Positive contributions from being female and experiencing fatigue were somewhat offset by protective factors such as non-smoking and normal depression levels, leading to a moderate overall risk score.

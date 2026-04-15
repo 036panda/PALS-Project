@@ -1,0 +1,23 @@
+1. **Final Hospitalization Risk Score:** 4
+
+2. **Detailed Breakdown of Attributes:**
+   - **Age (46 years):** +1 (Increased risk with age, particularly in the mid-40s)
+   - **BMI (28.3):** +1 (Overweight status can contribute to various health issues)
+   - **Family Health History (Heart Disease):** +2 (Significant risk factor for cardiovascular issues)
+   - **Current Diagnosis (Bipolar):** +2 (Mental health conditions can increase hospitalization risk)
+   - **Race (Native American):** +1 (Certain racial groups may have higher health risks)
+   - **Gender (Non-binary):** 0 (No direct impact on hospitalization risk)
+   - **Sexual Orientation (Heterosexual):** 0 (No direct impact on hospitalization risk)
+   - **Weekly Alcohol Intake (2 drinks):** 0 (Low intake, minimal impact)
+   - **Smoking (No):** -1 (Non-smoker status reduces risk)
+   - **HAM-D (0–6: Normal / No Depression):** -1 (No depression lowers risk)
+   - **Been Sad or Fatigued (No):** -1 (Absence of sadness or fatigue lowers risk)
+   - **Loss of Interest (Yes):** +1 (Indicates potential mental health concerns)
+   - **Hours of Sleep (7.0):** 0 (Adequate sleep, neutral impact)
+   - **Employment (Employed):** -1 (Employment can provide stability and reduce risk)
+   - **Socioeconomic Status (Middle):** 0 (Middle status has a neutral impact)
+
+   **Total Impact Calculation:** 
+   +1 (Age) +1 (BMI) +2 (Family History) +2 (Bipolar) +1 (Race) +0 (Gender) +0 (Sexual Orientation) +0 (Alcohol) -1 (Smoking) -1 (HAM-D) -1 (Sadness/Fatigue) +1 (Loss of Interest) +0 (Sleep) -1 (Employment) +0 (Socioeconomic Status) = **4**
+
+3. **Clinical Rationale:** The patient presents a moderate risk for hospitalization primarily due to their family history of heart disease and current bipolar diagnosis, which can complicate overall health management. While some factors, such as non-smoking status and adequate sleep, mitigate risk, the combination of mental health concerns and family history necessitates careful monitoring and support.

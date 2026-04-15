@@ -1,0 +1,25 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (56): +2
+   - BMI (31.1): +2
+   - Family Health History (Asthma): +1
+   - Current Diagnosis (Schizophrenia): +2
+   - Weekly Alcohol Intake (0): -1
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (8.0): -1
+   - Employment (Employed): -1
+   - Socioeconomic Status (Middle): -1
+   - Drinks Coffee (No): -1
+   - Likes Vegetables (No): +1
+   - Relationship Status (Dating): -1
+   - Allergy (nan): 0
+   - Binge Watches TV (No): -1
+   - Religious (Yes): -1
+
+   **Total Contributions:** +2 (Age) +2 (BMI) +1 (Family Health History) +2 (Current Diagnosis) -1 (Weekly Alcohol Intake) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) +1 (Loss of Interest) -1 (Hours of Sleep) -1 (Employment) -1 (Socioeconomic Status) -1 (Drinks Coffee) +1 (Likes Vegetables) -1 (Relationship Status) -1 (Allergy) -1 (Binge Watches TV) -1 (Religious) = 4
+
+3. **Justification:** The risk score of 4 reflects a moderate hospitalization risk primarily driven by the patient's age, BMI, and current diagnosis of schizophrenia, which are significant risk factors. Positive contributions from family health history and loss of interest further elevate the risk, while several negative factors, such as no alcohol intake and no smoking, help mitigate it.

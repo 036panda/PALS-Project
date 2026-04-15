@@ -1,0 +1,22 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (34): +1 (increased risk with age)
+   - BMI (24.2): 0 (normal range, no contribution)
+   - Family Health History (nan): 0 (unknown, no contribution)
+   - Current Diagnosis (Bipolar): +2 (mental health condition increases risk)
+   - Race (Hispanic): 0 (no specific contribution assigned)
+   - Gender (Female): 0 (no specific contribution assigned)
+   - Sexual Orientation (Heterosexual): 0 (no specific contribution assigned)
+   - Weekly Alcohol Intake (1): 0 (low intake, no contribution)
+   - Smoking (No): 0 (non-smoker, no contribution)
+   - HAM-D (0–6: Normal / No Depression): 0 (no depression, no contribution)
+   - Been Sad or Fatigued (Yes): +1 (indicates potential mental health strain)
+   - Loss of Interest (No): 0 (no contribution)
+   - Hours of Sleep (8.3): 0 (adequate sleep, no contribution)
+   - Employment (Employed): 0 (employment status neutral)
+   - Socioeconomic Status (Low): +1 (low socioeconomic status can increase risk)
+
+   **Total Contributions:** +1 (Age) + 0 (BMI) + 0 (Family Health History) + +2 (Bipolar) + 0 (Race) + 0 (Gender) + 0 (Sexual Orientation) + 0 (Alcohol Intake) + 0 (Smoking) + 0 (HAM-D) + +1 (Been Sad or Fatigued) + 0 (Loss of Interest) + 0 (Hours of Sleep) + 0 (Employment) + +1 (Socioeconomic Status) = 4
+
+3. **Justification:** The risk score of 4 reflects the patient's bipolar diagnosis and low socioeconomic status, both of which are known to contribute positively to hospitalization risk. The presence of sadness or fatigue further indicates potential mental health challenges, while other factors such as age and family health history provide minimal contributions in this case.

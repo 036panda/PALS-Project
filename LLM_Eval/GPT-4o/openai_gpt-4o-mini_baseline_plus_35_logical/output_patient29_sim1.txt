@@ -1,0 +1,22 @@
+1. **Risk Score:** 6
+
+2. **Input Factors and Contributions:**
+   - Age (22): +1
+   - BMI (35.9): +3
+   - Family Health History (Cancer): +2
+   - Current Diagnosis (Anxiety): +1
+   - Weekly Alcohol Intake (4): +1
+   - Smoking (No): -1
+   - HAM-D (7–17: Mild Depression): +1
+   - Hours of Sleep (5.7): +1
+   - Employment (Student): +1
+   - Socioeconomic Status (Middle): +0
+   - Water Intake (46.6 oz): -1
+   - Allergy (Gluten): +1
+   - Skips Breakfast (Yes): +1
+   - Relationship Status (Single): +0
+   - Registered Organ Donor (Yes): -1
+
+   **Total Contributions:** +1 (Age) + 3 (BMI) + 2 (Family Health History) + 1 (Anxiety) + 1 (Alcohol Intake) - 1 (Smoking) + 1 (Mild Depression) + 1 (Sleep) + 1 (Student) + 0 (Socioeconomic Status) - 1 (Water Intake) + 1 (Allergy) + 1 (Skips Breakfast) + 0 (Relationship Status) - 1 (Organ Donor) = 6
+
+3. **Justification:** The risk score of 6 reflects a combination of factors indicating moderate risk for hospitalization, particularly due to high BMI, family health history of cancer, and mental health concerns, while some protective factors like non-smoking and being an organ donor slightly mitigate the overall risk. The contributions were assigned based on established correlations between these factors and hospitalization risk, with higher weights given to more significant risk factors.

@@ -1,0 +1,57 @@
+1. **Risk Score:** 5
+
+2. **Input Factors and Contributions:**
+   - Age (18): +1
+   - BMI (30.9): +2
+   - Family Health History (nan): 0
+   - Current Diagnosis (Bipolar): +2
+   - Race (Other): 0
+   - Gender (Non-binary): 0
+   - Sexual Orientation (Bisexual): 0
+   - Weekly Alcohol Intake (1): -1
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (9.7): -1
+   - Employment (Student): 0
+   - Socioeconomic Status (Middle): 0
+   - Drinks Coffee (No): 0
+   - Likes Vegetables (No): +1
+   - Favourite Sport (Soccer): 0
+   - Votes (Never): 0
+   - Height in Inches (62): 0
+   - Has Driver's License (No): 0
+   - Picks Up Litter (Never): 0
+   - Uses Public Transportation (Never): 0
+   - Donated Blood (No): 0
+   - Birthday Month (April): 0
+   - Water Intake (oz) (44.0): -1
+   - Bilingual (Yes): 0
+   - Handedness (Right): 0
+   - Likes Kids (Yes): 0
+   - Favourite Meal (Lunch): 0
+   - Favourite Color (Purple): 0
+   - Recycling Habits (Sometimes): 0
+   - Hair Color (Black): 0
+   - Best Highschool Subject (History): 0
+   - Travels (No): 0
+   - Relationship Status (Dating): 0
+   - Favourite Music Genre (Country): 0
+   - Can Ride Bicycle (Yes): 0
+   - Religious (No): 0
+   - Phone (Apple): 0
+   - Wears Glasses (Yes): 0
+   - Morning or Night (Night): 0
+   - Allergy (Penicillin): 0
+   - Binge Watches TV (No): 0
+   - Favourite Super Store (Target): 0
+   - Pet Preference (Other): 0
+   - Volunteers (Sometimes): 0
+   - Skips Breakfast (Yes): +1
+   - Favourite Movie Genre (Comedy): 0
+   - Registered Organ Donor (No): 0
+
+   **Total Contributions:** +1 (Age) +2 (BMI) +2 (Bipolar) -1 (Weekly Alcohol Intake) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) +1 (Loss of Interest) -1 (Hours of Sleep) +1 (Likes Vegetables) -1 (Water Intake) +1 (Skips Breakfast) = 5
+
+3. **Justification:** The risk score of 5 reflects a moderate hospitalization risk based on the patient's age, BMI, and current diagnosis of bipolar disorder, which are significant contributors to mental and physical health risks. Positive contributions from factors like loss of interest and skipping breakfast, combined with negative contributions from healthy behaviors (e.g., no smoking, low alcohol intake), balance the overall risk assessment.

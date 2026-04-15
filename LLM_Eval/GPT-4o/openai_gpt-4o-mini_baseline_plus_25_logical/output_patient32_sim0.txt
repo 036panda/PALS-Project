@@ -1,0 +1,22 @@
+1. **Risk Score:** 7
+
+2. **Input Factors and Contributions:**
+   - Age (19): +1 (young adults can have varying risks, but age alone is not a strong risk factor)
+   - BMI (17.6): -1 (underweight can be a risk factor, but not as significant as other factors)
+   - Family Health History (Diabetes): +2 (family history of diabetes increases risk for various health issues)
+   - Current Diagnosis (Schizophrenia): +3 (severe mental health conditions significantly increase hospitalization risk)
+   - HAM-D (25+): +2 (severe depression is a strong risk factor for hospitalization)
+   - Loss of Interest: +1 (indicative of depression, contributing to overall mental health risk)
+   - Weekly Alcohol Intake (3): +1 (moderate alcohol intake can contribute to health risks)
+   - Smoking (No): -1 (not smoking reduces risk)
+   - Employment (Student): +1 (students may have higher stress levels, impacting mental health)
+   - Socioeconomic Status (High): -1 (higher socioeconomic status generally correlates with lower health risks)
+   - Hours of Sleep (8.0): -1 (adequate sleep is protective against health issues)
+   - Likes Vegetables (No): +1 (poor diet can contribute to health risks)
+   - Relationship Status (Single): +1 (single status can correlate with higher stress and mental health issues)
+   - Water Intake (45.5 oz): -1 (adequate hydration is protective)
+   - Can Ride Bicycle (No): +1 (lack of physical activity can increase health risks)
+
+   **Total Contributions:** +1 - 1 + 2 + 3 + 2 + 1 + 1 - 1 - 1 + 1 - 1 + 1 - 1 + 1 = 7
+
+3. **Justification:** The risk score of 7 reflects the significant impact of severe mental health conditions, family health history, and lifestyle factors on hospitalization risk, while protective factors such as socioeconomic status and non-smoking status mitigate some of the overall risk. The contributions were calculated based on the known associations between these factors and health outcomes.

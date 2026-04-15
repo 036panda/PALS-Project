@@ -1,0 +1,37 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (32): +1 (Age contributes positively to risk as it is a factor in many health conditions)
+   - BMI (23.2): 0 (Normal BMI, no contribution to risk)
+   - Family Health History (nan): 0 (No data available, no contribution)
+   - Current Diagnosis (nan): 0 (No data available, no contribution)
+   - Race (Other): 0 (No specific risk associated)
+   - Gender (Other): 0 (No specific risk associated)
+   - Sexual Orientation (Heterosexual): 0 (No specific risk associated)
+   - Weekly Alcohol Intake (6): +1 (Moderate alcohol intake can contribute to health risks)
+   - Smoking (No): -1 (Non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (No depression reduces risk)
+   - Been Sad or Fatigued (No): -1 (No symptoms reduce risk)
+   - Loss of Interest (No): -1 (No symptoms reduce risk)
+   - Hours of Sleep (6.8): 0 (Slightly below average, but not significantly risky)
+   - Employment (Employed): -1 (Employment generally reduces risk)
+   - Socioeconomic Status (High): -1 (High status generally reduces risk)
+   - Drinks Coffee (Yes): 0 (No significant risk contribution)
+   - Likes Vegetables (No): +1 (Poor diet can contribute to risk)
+   - Favourite Sport (Basketball): 0 (No significant risk contribution)
+   - Votes (Sometimes): 0 (No significant risk contribution)
+   - Height in Inches (71): 0 (No significant risk contribution)
+   - Has Driver's License (No): 0 (No significant risk contribution)
+   - Picks Up Litter (Never): 0 (No significant risk contribution)
+   - Uses Public Transportation (Always): 0 (No significant risk contribution)
+   - Donated Blood (No): 0 (No significant risk contribution)
+   - Birthday Month (May): 0 (No significant risk contribution)
+   - Water Intake (oz) (42.8): 0 (No significant risk contribution)
+   - Bilingual (Yes): 0 (No significant risk contribution)
+   - Handedness (Right): 0 (No significant risk contribution)
+   - Likes Kids (Yes): 0 (No significant risk contribution)
+   - Favourite Meal (Lunch): 0 (No significant risk contribution)
+
+   **Total Contributions:** +1 (Age) +1 (Alcohol) -1 (Smoking) -1 (HAM-D) -1 (Sadness/Fatigue) -1 (Loss of Interest) -1 (Employment) -1 (Socioeconomic Status) +1 (Likes Vegetables) = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of moderate risk factors such as age and alcohol intake, balanced against protective factors including non-smoking status, mental health stability, and high socioeconomic status. The overall low score indicates a relatively low hospitalization risk for this individual.

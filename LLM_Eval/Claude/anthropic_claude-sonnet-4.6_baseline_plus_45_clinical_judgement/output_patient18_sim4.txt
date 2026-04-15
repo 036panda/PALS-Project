@@ -1,0 +1,58 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (74) | Older adult; elevated biological vulnerability | +2.0 |
+| BMI (29.4) | Overweight range; mild cardiometabolic risk | +0.5 |
+| Family Health History (Cancer) | Genetic predisposition to malignancy | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Exercises (No) | Sedentary lifestyle increases chronic disease risk | +0.5 |
+| Smoking (No) | Non-smoker; significant protective factor | −0.5 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; minimal clinical concern | +0.1 |
+| HAM-D (Normal/No Depression) | No depressive disorder | −0.3 |
+| Been Sad or Fatigued (No) | No fatigue symptoms | −0.2 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Adequate sleep; protective | −0.2 |
+| Water Intake (44.7 oz) | Slightly below recommended; mild concern | +0.2 |
+| Skips Breakfast (Yes) | Irregular eating pattern; minor metabolic risk | +0.1 |
+| Allergy (Tree Nuts) | Anaphylaxis risk if exposed | +0.2 |
+| Binge Watches TV (Yes) | Sedentary behavior reinforcement | +0.1 |
+| Socioeconomic Status (Middle) | Adequate healthcare access | −0.2 |
+| Employment (Retired) | Reduced occupational stress; social isolation risk | +0.1 |
+| Relationship Status (Single) | Reduced social support network | +0.2 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly protective (no caffeine stress) | −0.1 |
+| Travels (Yes) | Exposure to pathogens; physical exertion risk at age 74 | +0.1 |
+| Wears Glasses (Yes) | Indicates sensory decline consistent with age | +0.1 |
+| Donated Blood (Yes) | Suggests reasonable baseline health history | −0.1 |
+| Volunteers (Sometimes) | Mild social engagement; protective for mental health | −0.1 |
+| Helps Elderly (Sometimes) | Social engagement; protective | −0.1 |
+| Registered Organ Donor (No) | No clinical impact | 0.0 |
+| Bilingual (Yes) | Cognitive reserve; mild protective factor | −0.1 |
+| Religious (Yes) | Associated with lower stress and better coping | −0.1 |
+| Can Ride Bicycle (No) | Possible mobility/balance limitation at age 74 | +0.1 |
+| Annual Charity Donation (Never) | Minimal social connectedness signal | +0.1 |
+| Recycling Habits (Never) | No direct clinical impact | 0.0 |
+| Votes (Never) | Civic disengagement; minor social isolation signal | +0.1 |
+| Orders Takeout (Monthly) | Infrequent; minimal dietary risk | +0.0 |
+| Favourite Sport (Hockey) | Interest in active sport; positive engagement signal | −0.1 |
+| Likes Art (Yes) | Cognitive engagement; protective | −0.1 |
+| Morning Person (Yes) | Consistent circadian rhythm; protective | −0.1 |
+| Political Ideology (Apolitical) | No clinical relevance | 0.0 |
+| Hair Color, Favourite Color, Phone, etc. | Lifestyle/preference variables; no clinical impact | 0.0 |
+
+**Sum of all impacts: +4.2**
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with no active diagnosis and strong mental health indicators, which are meaningfully protective; however, his age, overweight BMI, sedentary lifestyle, family history of cancer, single relationship status, and suboptimal hydration collectively elevate his hospitalization risk to a moderate level. Clinical vigilance is warranted given his age-related vulnerability and lack of regular exercise, despite the absence of current disease and favorable psychological profile.

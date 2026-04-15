@@ -1,0 +1,92 @@
+# Hospitalization Risk Evaluation — Patient ID: 18
+
+---
+
+## 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+## 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Elderly; significantly elevated biological vulnerability | +2.0 |
+| BMI (29.4) | Overweight range; mild cardiometabolic risk | +0.5 |
+| Family Health History (Cancer) | Elevated genetic/surveillance risk | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Race (White) | Neutral epidemiological baseline | 0.0 |
+| Gender (Male) | Males statistically higher hospitalization rates at advanced age | +0.3 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/cardiovascular concern | +0.1 |
+| Smoking (No) | Significant protective factor | −0.5 |
+| HAM-D (Normal/No Depression) | No depressive burden on health outcomes | −0.3 |
+| Been Sad or Fatigued (No) | No psychosomatic risk signal | −0.1 |
+| Loss of Interest (No) | No anhedonia; positive engagement | −0.1 |
+| Hours of Sleep (7.0) | Optimal sleep duration; protective | −0.2 |
+| Employment (Retired) | Reduced occupational stress; mild social isolation risk | +0.1 |
+| Socioeconomic Status (Middle) | Adequate healthcare access | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly negative (loss of antioxidant benefit) | +0.05 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective | −0.2 |
+| Favourite Sport (Hockey) | Interest in active sport; mild positive engagement | −0.05 |
+| Votes (Never) | Mild civic disengagement; loosely linked to lower health engagement | +0.05 |
+| Height (58 inches / 4'10") | Very short stature for male; BMI recalculated concern elevated | +0.2 |
+| Has Driver's License (Yes) | Mobility and independence; protective | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; positive mental health signal | −0.05 |
+| Uses Public Transportation (Sometimes) | Mild physical activity benefit | −0.05 |
+| Donated Blood (Yes) | Indicates prior health screening engagement | −0.1 |
+| Birthday Month (January) | No clinically significant seasonal birth risk | 0.0 |
+| Water Intake (44.7 oz) | Below recommended ~64 oz; mild dehydration risk at age 74 | +0.2 |
+| Bilingual (Yes) | Cognitive reserve; protective against cognitive decline | −0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness signal | −0.05 |
+| Favourite Meal (Dinner) | No clinical relevance | 0.0 |
+| Favourite Color (Red) | No clinical relevance | 0.0 |
+| Recycling Habits (Never) | Mild indicator of health-conscious behavior absence | +0.05 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (English) | No direct clinical relevance | 0.0 |
+| Travels (Yes) | Social engagement and activity; protective | −0.1 |
+| Relationship Status (Single) | Lack of social support; elevated risk in elderly males | +0.3 |
+| Favourite Music Genre (Pop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (No) | Reduced physical mobility indicator | +0.1 |
+| Religious (Yes) | Associated with better health outcomes and coping | −0.1 |
+| Phone (Android) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Managed sensory impairment; mild fall risk indicator at age 74 | +0.1 |
+| Morning or Night (Morning) | Morning chronotype associated with better metabolic health | −0.05 |
+| Allergy (Tree Nuts) | Anaphylaxis risk; potential emergency hospitalization risk | +0.2 |
+| Binge-Watches TV (Yes) | Sedentary behavior; mild cardiovascular risk | +0.1 |
+| Favourite Super Store (Target) | No clinical relevance | 0.0 |
+| Pet Preference (Bird) | Mild companionship benefit; low-demand pet | −0.05 |
+| Volunteers (Sometimes) | Social engagement; protective | −0.1 |
+| Skips Breakfast (Yes) | Poor metabolic habit; mild glycemic risk | +0.1 |
+| Favourite Movie Genre (Sci-Fi) | No clinical relevance | 0.0 |
+| Registered Organ Donor (No) | Mild indicator of health system disengagement | +0.05 |
+| Annual Charity Donation (Never) | Mild prosocial disengagement | +0.05 |
+| Favourite Cuisine (American) | Typically higher sodium/fat diet; mild risk | +0.1 |
+| Exercises (No) | Significant sedentary risk, especially at age 74 | +0.5 |
+| Likes Art (Yes) | Cognitive and emotional engagement; protective | −0.05 |
+| Academic Preference (Humanities) | No direct clinical relevance | 0.0 |
+| Political Ideology (Apolitical) | Mild civic disengagement | +0.05 |
+| Orders Takeout (Monthly) | Moderate processed food exposure; mild risk | +0.05 |
+| Preferred Grocery Store (Giant) | No clinical relevance | 0.0 |
+| Helps Elderly (Sometimes) | Prosocial behavior; positive mental health signal | −0.05 |
+| Likes Chocolate (Yes) | Mild positive (dark chocolate antioxidants); negligible | 0.0 |
+| Reads Novels (Yes) | Cognitive engagement; protective against decline | −0.1 |
+| Has Cheated on Assignment (Yes) | No direct clinical relevance | 0.0 |
+| Eye Color (Hazel) | No clinical relevance | 0.0 |
+| Spotify vs Apple Music (Apple Music) | No clinical relevance | 0.0 |
+| Favourite Season (Spring) | No clinical relevance | 0.0 |
+
+---
+
+### **Sum Verification:**
+Positive impacts: +2.0 +0.5 +0.4 +0.3 +0.1 +0.05 +0.1 +0.05 +0.2 +0.05 +0.2 +0.05 +0.3 +0.1 +0.1 +0.2 +0.1 +0.1 +0.05 +0.05 +0.1 +0.05 +0.05 +0.1 +0.5 +0.05 +0.05 +0.05 +0.05 = **+6.25**
+
+Negative impacts: −0.8 −0.5 −0.3 −0.1 −0.1 −0.2 −0.2 −0.05 −0.2 −0.05 −0.1 −0.05 −0.1 −0.2 −0.1 −0.05 −0.05 −0.1 −0.1 −0.05 −0.1 −0.05 −0.1 = **−4.05**
+
+**Net Score: 6.25 − 4.05 = 4.2 ✓**
+
+---
+
+## 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a **moderate baseline hospitalization risk**, primarily driven by advanced age, sedentary lifestyle (no exercise, binge-watching TV, inability to ride a bicycle), suboptimal hydration, single relationship status reducing social support, and a family history of cancer. These risks are meaningfully offset by the **absence of any current diagnosis, no smoking history, no depression, adequate sleep, good dietary habits including vegetables, cognitive engagement through reading and bilingualism, and maintained social participation through travel and volunteering**, yielding an overall risk score that reflects manageable but age-appropriate clinical vigilance.

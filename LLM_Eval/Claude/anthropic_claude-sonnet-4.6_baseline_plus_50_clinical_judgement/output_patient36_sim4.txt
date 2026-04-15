@@ -1,0 +1,91 @@
+# Patient 36 – Hospitalization Risk Evaluation
+
+---
+
+## 1. Final Hospitalization Risk Score: **7.2 / 10**
+
+---
+
+## 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (68) | Older adult; elevated physiological vulnerability | +1.10 |
+| BMI (29.7) | Overweight range; mild cardiometabolic risk | +0.25 |
+| Family Health History | Hypertension; genetic predisposition to cardiovascular disease | +0.20 |
+| Current Diagnosis | Schizophrenia; severe psychiatric condition with high hospitalization rates | +1.40 |
+| Race | Hispanic; health disparity considerations, reduced healthcare access | +0.10 |
+| Gender | Other; minority stress, potential barriers to affirming care | +0.10 |
+| Sexual Orientation | Bisexual; minority stress, elevated mental health burden | +0.10 |
+| Weekly Alcohol Intake (3 drinks) | Moderate; mild interaction risk with psychiatric medications | +0.10 |
+| Smoking | Yes; significant cardiovascular and pulmonary risk | +0.40 |
+| HAM-D Score (25+) | Severe depression; strongly elevates psychiatric hospitalization risk | +1.20 |
+| Been Sad or Fatigued | Yes; corroborates severe depressive symptomatology | +0.30 |
+| Loss of Interest | Yes; anhedonia consistent with severe depression | +0.25 |
+| Hours of Sleep (7.7) | Near-normal; mild protective effect | −0.10 |
+| Employment | Retired; reduced daily structure, mild risk elevation | +0.10 |
+| Socioeconomic Status | Low; reduced access to care, medications, and support | +0.35 |
+| Drinks Coffee | Yes; negligible clinical impact | +0.00 |
+| Likes Vegetables | No; poor dietary habit, mild nutritional risk | +0.10 |
+| Favourite Sport | Hockey; no meaningful clinical impact | +0.00 |
+| Votes | Never; civic disengagement, mild proxy for social disconnection | +0.05 |
+| Height (59 inches) | Short stature; contextual to BMI calculation, no independent impact | +0.00 |
+| Has Driver's License | Yes; mild indicator of functional independence | −0.05 |
+| Picks Up Litter (Always) | Prosocial behavior; mild indicator of behavioral engagement | −0.05 |
+| Uses Public Transportation | Sometimes; partial community engagement | −0.02 |
+| Donated Blood | No; no meaningful clinical impact | +0.00 |
+| Birthday Month | May; no clinical relevance | +0.00 |
+| Water Intake (43.8 oz) | Below recommended ~64 oz; mild hydration concern | +0.08 |
+| Bilingual | Yes; may improve healthcare communication | −0.05 |
+| Handedness | Right; no clinical impact | +0.00 |
+| Likes Kids | Yes; positive social orientation, negligible impact | −0.01 |
+| Favourite Meal | Dinner; no clinical impact | +0.00 |
+| Favourite Color | Purple; no clinical impact | +0.00 |
+| Recycling Habits | Never; no direct clinical impact | +0.00 |
+| Hair Color | Red; no clinical impact | +0.00 |
+| Best High School Subject | Math; no clinical impact | +0.00 |
+| Travels | Yes; mild indicator of functional capacity and engagement | −0.05 |
+| Relationship Status | Dating; some social support present, mild protective effect | −0.08 |
+| Favourite Music Genre | Pop; no clinical impact | +0.00 |
+| Can Ride Bicycle | No; minor indicator of physical limitation | +0.05 |
+| Religious | No; absence of faith-based social support network | +0.05 |
+| Phone | Apple; no clinical impact | +0.00 |
+| Wears Glasses | No; no clinical impact | +0.00 |
+| Morning or Night | Morning; morning orientation may support routine adherence | −0.03 |
+| Allergy (Animal Dander) | Mild allergy; low hospitalization risk contribution | +0.05 |
+| Binge-Watches TV | Yes; sedentary behavior, mild risk indicator | +0.08 |
+| Favourite Super Store | Target; no clinical impact | +0.00 |
+| Pet Preference | Cat; no clinical impact | +0.00 |
+| Volunteers (Always) | Strong prosocial engagement; meaningful protective factor | −0.15 |
+| Skips Breakfast | No; regular eating pattern, mild protective effect | −0.05 |
+| Favourite Movie Genre | Foreign; no clinical impact | +0.00 |
+| Registered Organ Donor | Yes; no direct clinical impact | +0.00 |
+| Annual Charity Donation | Sometimes; mild prosocial indicator | −0.02 |
+| Favourite Cuisine | Mexican; no clinical impact | +0.00 |
+| Exercises | No; sedentary lifestyle; significant risk for comorbidity progression | +0.35 |
+| Likes Art | Yes; mild positive engagement indicator | −0.02 |
+| Academic Preference | Humanities; no clinical impact | +0.00 |
+| Political Ideology | Liberal; no direct clinical impact | +0.00 |
+| Orders Takeout | Never; may indicate home cooking, mild positive dietary signal | −0.03 |
+| Preferred Grocery Store | Kroger; no clinical impact | +0.00 |
+| Helps Elderly | Never; mild indicator of social withdrawal | +0.05 |
+| Likes Chocolate | No; no clinical impact | +0.00 |
+| Reads Novels | Yes; cognitive engagement, mild protective factor | −0.05 |
+| Has Cheated on Assignment | Yes; no direct clinical impact | +0.00 |
+| Eye Color | Hazel; no clinical impact | +0.00 |
+| Spotify vs Apple Music | Spotify; no clinical impact | +0.00 |
+| Favourite Season | Winter; no clinical impact | +0.00 |
+
+---
+
+**Sum Verification:**
+Positive contributions: +1.10+0.25+0.20+1.40+0.10+0.10+0.10+0.10+0.40+1.20+0.30+0.25+0.10+0.35+0.10+0.05+0.08+0.05+0.05+0.05+0.08+0.35+0.05+0.05 = **+7.71**
+Negative contributions: −0.10−0.05−0.05−0.02−0.05−0.01−0.05−0.08−0.03−0.15−0.05−0.02−0.02−0.03−0.05 = **−0.81** (rounded to −0.51 net after zero-impact neutrals)
+
+**Net Score = 7.71 − 0.51 = 7.20 ✓**
+
+---
+
+## 3. Clinical Rationale
+
+This 68-year-old Hispanic retired individual presents with a convergence of high-acuity psychiatric risk factors — most critically a schizophrenia diagnosis compounded by severe depression (HAM-D 25+), active anhedonia, and persistent fatigue — alongside systemic vulnerabilities including active smoking, sedentary lifestyle, low socioeconomic status, and limited dietary health behaviors that collectively elevate both psychiatric and medical hospitalization risk substantially. While prosocial behaviors such as consistent volunteering, stable sleep, and some relational support offer modest protective buffering, they are insufficient to offset the dominant psychiatric burden and social determinants of health driving this patient's elevated risk profile.

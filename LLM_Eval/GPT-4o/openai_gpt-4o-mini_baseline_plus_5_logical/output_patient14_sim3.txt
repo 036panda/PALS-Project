@@ -1,0 +1,27 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (18): +1 (young adults may have lower risk)
+   - BMI (30.9): +2 (obesity increases risk)
+   - Family Health History (nan): 0 (no data available)
+   - Current Diagnosis (Bipolar): +3 (mental health conditions increase risk)
+   - Race (Other): 0 (no specific risk associated)
+   - Gender (Non-binary): 0 (no specific risk associated)
+   - Sexual Orientation (Bisexual): 0 (no specific risk associated)
+   - Weekly Alcohol Intake (1): -1 (low alcohol intake reduces risk)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue reduces risk)
+   - Loss of Interest (Yes): +1 (loss of interest can indicate risk)
+   - Hours of Sleep (9.7): -1 (adequate sleep reduces risk)
+   - Employment (Student): 0 (no specific risk associated)
+   - Socioeconomic Status (Middle): 0 (no specific risk associated)
+   - Drinks Coffee (No): 0 (no specific risk associated)
+   - Likes Vegetables (No): 0 (no specific risk associated)
+   - Favourite Sport (Soccer): 0 (no specific risk associated)
+   - Votes (Never): 0 (no specific risk associated)
+   - Height in Inches (62): 0 (no specific risk associated)
+
+   **Total Contributions:** +1 + 2 + 0 + 3 + 0 + 0 + 0 - 1 - 1 - 1 - 1 + 1 - 1 + 0 + 0 + 0 + 0 + 0 + 0 = 4
+
+3. **Justification:** The risk score of 4 reflects a moderate hospitalization risk primarily driven by the patient's bipolar diagnosis and elevated BMI, which are significant risk factors. Positive contributions from these factors are partially offset by protective factors such as low alcohol intake, non-smoking status, and normal mental health indicators.

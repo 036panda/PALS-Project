@@ -1,0 +1,27 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (18): -1 (young age generally associated with lower risk)
+   - BMI (25.6): 0 (BMI in the normal range, no contribution)
+   - Family Health History (Hypertension): +2 (family history of hypertension increases risk)
+   - Current Diagnosis (Bipolar): +2 (mental health conditions can elevate hospitalization risk)
+   - Race (Hispanic): 0 (no specific contribution assigned)
+   - Gender (Non-binary): 0 (no specific contribution assigned)
+   - Sexual Orientation (Heterosexual): 0 (no specific contribution assigned)
+   - Weekly Alcohol Intake (5): +1 (moderate alcohol intake may pose some risk)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued: 0 (no contribution as symptoms are absent)
+   - Loss of Interest: 0 (no contribution as symptoms are absent)
+   - Hours of Sleep (5.7): +1 (less than optimal sleep may increase risk)
+   - Employment (Employed): -1 (employment generally associated with lower risk)
+   - Socioeconomic Status (High): -1 (higher socioeconomic status typically reduces risk)
+   - Drinks Coffee (No): 0 (no contribution assigned)
+   - Likes Vegetables (No): 0 (no contribution assigned)
+   - Favourite Sport (nan): 0 (no contribution assigned)
+   - Votes (Never): 0 (no contribution assigned)
+   - Height in Inches (59): 0 (no contribution assigned)
+
+   **Total Contributions:** -1 + 0 + 2 + 2 + 0 + 0 + 0 + 1 - 1 - 1 + 0 + 0 + 1 - 1 - 1 + 0 + 0 + 0 + 0 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of factors that increase and decrease hospitalization risk. Notably, the presence of bipolar disorder and a family history of hypertension contribute positively to the risk, while the patient's young age, non-smoking status, and high socioeconomic status mitigate some of that risk.

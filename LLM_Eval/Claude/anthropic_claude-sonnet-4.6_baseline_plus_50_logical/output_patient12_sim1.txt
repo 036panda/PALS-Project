@@ -1,0 +1,83 @@
+## Risk Score: **6.2**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (90) | Very advanced age; strong independent predictor of hospitalization | +2.50 |
+| BMI (32.5) | Obese class I; increases cardiovascular and metabolic risk | +0.80 |
+| Family Health History: Hypertension | Genetic/familial predisposition to cardiovascular disease | +0.40 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis increases hospitalization risk | +0.50 |
+| HAM-D Score: 0–6 (Normal/No Depression) | Contradicts diagnosis severity; mitigates depression-related risk | −0.30 |
+| Been Sad or Fatigued: No | No active depressive symptom burden | −0.10 |
+| Loss of Interest: No | No anhedonia present | −0.10 |
+| Smoking: Yes | Direct causal risk for pulmonary, cardiovascular, oncologic hospitalization | +0.60 |
+| Weekly Alcohol Intake: 4 drinks | Moderate; mild hepatic and cardiovascular risk contribution | +0.10 |
+| Water Intake: 44.2 oz/day | Below recommended ~64 oz; mild dehydration risk, especially at age 90 | +0.20 |
+| Hours of Sleep: 7.4 | Within healthy range; no risk contribution | +0.00 |
+| Skips Breakfast: Yes | Poor nutritional regularity; mild metabolic risk, compounded by age | +0.10 |
+| Likes Vegetables: No | Poor dietary quality; contributes to chronic disease risk | +0.15 |
+| Exercises: Yes | Regular physical activity reduces hospitalization risk | −0.30 |
+| Drinks Coffee: Yes | Moderate protective association with cardiovascular and metabolic outcomes | −0.05 |
+| Allergy: Dust | Environmental allergy; mild respiratory risk | +0.10 |
+| Socioeconomic Status: Middle | Moderate healthcare access; neutral-to-mild protective effect | −0.05 |
+| Employment: Retired | Reduced occupational stress; mild protective effect | −0.05 |
+| Race: Hispanic | Elevated prevalence of diabetes/hypertension in demographic context | +0.10 |
+| Gender: Non-binary | Potential barriers to culturally competent care; mild risk | +0.05 |
+| Has Driver's License: No | Reduced healthcare access/mobility at age 90 | +0.15 |
+| Uses Public Transportation: Never | Further limits healthcare access and mobility | +0.10 |
+| Relationship Status: Dating | Social connectedness; mild protective effect | −0.05 |
+| Volunteers: Always | Strong social engagement; protective against decline | −0.10 |
+| Helps Elderly: Always | Active prosocial behavior; associated with better health outcomes | −0.05 |
+| Annual Charity Donation: Always | Positive social integration marker | −0.05 |
+| Registered Organ Donor: Yes | Proxy for health-engaged, proactive individual | −0.05 |
+| Donated Blood: Yes | Indicates prior health eligibility and engagement | −0.05 |
+| Binge Watches TV: Yes | Sedentary behavior; mild risk, partially offset by exercise | +0.05 |
+| Orders Takeout: Weekly | Dietary quality concern; mild risk | +0.05 |
+| Wears Glasses: Yes | Sensory impairment at 90; fall/injury risk | +0.10 |
+| Can Ride Bicycle: No | Reduced physical mobility indicator | +0.05 |
+| Travels: Yes | Indicates functional capacity and independence; protective | −0.10 |
+| Religious: Yes | Associated with social support and mental resilience | −0.05 |
+| Bilingual: Yes | Cognitive reserve indicator; mild protective effect | −0.05 |
+| Favourite Sport: Hockey | Interest in active sport; positive engagement indicator | −0.05 |
+| Picks Up Litter: Never | Neutral civic behavior; no direct health causality | +0.00 |
+| Recycling Habits: Always | No direct causal health link | +0.00 |
+| Votes: Sometimes | No direct causal health link | +0.00 |
+| Birthday Month: March | No causal health relevance | +0.00 |
+| Handedness: Right | No causal health relevance | +0.00 |
+| Hair Color: Black | No causal health relevance | +0.00 |
+| Eye Color: Hazel | No causal health relevance | +0.00 |
+| Favourite Color: Green | No causal health relevance | +0.00 |
+| Favourite Meal: Dinner | No causal health relevance | +0.00 |
+| Favourite Music Genre: Pop | No causal health relevance | +0.00 |
+| Favourite Movie Genre: Romance | No causal health relevance | +0.00 |
+| Favourite Cuisine: Chinese | No causal health relevance | +0.00 |
+| Favourite Season: Summer | No causal health relevance | +0.00 |
+| Favourite Super Store: Target | No causal health relevance | +0.00 |
+| Preferred Grocery Store: Harris Teeter | No causal health relevance | +0.00 |
+| Pet Preference: Fish | No causal health relevance | +0.00 |
+| Phone: Apple | No causal health relevance | +0.00 |
+| Spotify vs Apple Music: Apple Music | No causal health relevance | +0.00 |
+| Morning or Night: Night | No direct causal health relevance at this level | +0.00 |
+| Likes Art: Yes | No causal health relevance | +0.00 |
+| Likes Kids: Yes | No causal health relevance | +0.00 |
+| Likes Chocolate: No | No causal health relevance | +0.00 |
+| Reads Novels: No | No causal health relevance | +0.00 |
+| Best High School Subject: History | No causal health relevance | +0.00 |
+| Academic Preference: STEM | No causal health relevance | +0.00 |
+| Political Ideology: Liberal | No causal health relevance | +0.00 |
+| Has Cheated on Assignment: No | No causal health relevance | +0.00 |
+| Height: 71 inches | Incorporated into BMI; no independent contribution | +0.00 |
+| Sexual Orientation: Heterosexual | No independent causal health contribution assigned | +0.00 |
+
+---
+
+### Sum Verification
+2.50 + 0.80 + 0.40 + 0.50 − 0.30 − 0.10 − 0.10 + 0.60 + 0.10 + 0.20 + 0.10 + 0.15 − 0.30 − 0.05 + 0.10 − 0.05 − 0.05 + 0.10 + 0.05 + 0.15 + 0.10 − 0.05 − 0.10 − 0.05 − 0.05 − 0.05 − 0.05 + 0.05 + 0.05 + 0.10 + 0.05 − 0.10 − 0.05 − 0.05 − 0.05 = **6.20** ✓
+
+---
+
+### Justification
+The score is dominated by the patient's very advanced age of 90, which causally elevates nearly all physiological risk pathways, compounded by obesity (BMI 32.5), active smoking, a depression diagnosis, limited mobility and healthcare access, and suboptimal hydration and diet. Protective factors—including regular exercise, strong social engagement, moderate socioeconomic stability, and behavioral health indicators—partially offset these risks, yielding a final score of **6.2**.

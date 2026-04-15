@@ -1,0 +1,89 @@
+## Risk Score: **6.2**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age: 42 | Moderate age, mild physiological risk | +0.5 |
+| BMI: 13.4 | Severely underweight (clinical threshold <18.5), high hospitalization risk | +2.0 |
+| Family Health History: Diabetes | Genetic predisposition to metabolic disease | +0.4 |
+| Current Diagnosis: nan | No active diagnosis on record | 0.0 |
+| Race: Native American | Elevated health disparity risk, systemic access barriers | +0.3 |
+| Gender: Other | Minority gender identity, associated healthcare access barriers | +0.1 |
+| Sexual Orientation: Heterosexual | No elevated risk associated | 0.0 |
+| Weekly Alcohol Intake: 4 drinks | Moderate, mild hepatic/systemic risk | +0.1 |
+| Smoking: No | No smoking-related pulmonary/cardiovascular risk | −0.3 |
+| HAM-D: Mild Depression (7–17) | Clinically recognized depressive symptomatology | +0.4 |
+| Been Sad or Fatigued: No | Contradicts depression severity slightly | −0.1 |
+| Loss of Interest: Yes | Anhedonia, consistent with depression, reduced self-care motivation | +0.2 |
+| Hours of Sleep: 5.0 | Chronic sleep deprivation, immune and cardiovascular risk | +0.4 |
+| Employment: Employed | Stable income, healthcare access likely | −0.2 |
+| Socioeconomic Status: Middle | Moderate access to healthcare resources | −0.1 |
+| Drinks Coffee: Yes | Mild diuretic effect, minor dehydration risk given low water intake | +0.1 |
+| Likes Vegetables: Yes | Positive dietary behavior, nutritional support | −0.2 |
+| Favourite Sport: Soccer | Active sport preference, but exercises: No — preference not actualized | 0.0 |
+| Votes: Never | Civic disengagement, correlated with lower health advocacy | +0.1 |
+| Height: 64 inches | Used in BMI calculation (already captured) | 0.0 |
+| Has Driver's License: No | Potential mobility/access barrier for medical care | +0.1 |
+| Picks Up Litter: Always | Prosocial behavior, no direct health risk | 0.0 |
+| Uses Public Transportation: Sometimes | Moderate mobility, some healthcare access | 0.0 |
+| Donated Blood: Yes | Indicates prior health screening engagement | −0.1 |
+| Birthday Month: February | No causal health relevance | 0.0 |
+| Water Intake: 44.2 oz | Below recommended ~64 oz/day; dehydration risk, especially with low BMI | +0.3 |
+| Bilingual: Yes | Cognitive resilience, no direct risk | 0.0 |
+| Handedness: Right | No causal health relevance | 0.0 |
+| Likes Kids: Yes | No direct health relevance | 0.0 |
+| Favourite Meal: Lunch | No direct health relevance | 0.0 |
+| Favourite Color: Red | No causal health relevance | 0.0 |
+| Recycling Habits: Always | Prosocial, no direct health risk | 0.0 |
+| Hair Color: Blonde | No causal health relevance | 0.0 |
+| Best High School Subject: Science | No direct health relevance | 0.0 |
+| Travels: Yes | Exposure to pathogens, minor risk | +0.1 |
+| Relationship Status: Single | Reduced social support, mild risk for mental/physical health | +0.1 |
+| Favourite Music Genre: Pop | No causal health relevance | 0.0 |
+| Can Ride Bicycle: Yes | No direct health relevance | 0.0 |
+| Religious: No | No causal health relevance assigned | 0.0 |
+| Phone: Apple | No causal health relevance | 0.0 |
+| Wears Glasses: Yes | Minor indicator of sensory health need, no hospitalization risk | 0.0 |
+| Morning or Night: Morning | No direct health relevance | 0.0 |
+| Allergy: Gluten | Potential celiac/malabsorption risk, compounds severely low BMI | +0.4 |
+| Binge Watches TV: No | Sedentary behavior absent | −0.1 |
+| Favourite Super Store: Target | No causal health relevance | 0.0 |
+| Pet Preference: Fish | No causal health relevance | 0.0 |
+| Volunteers: Sometimes | Mild social engagement benefit | −0.1 |
+| Skips Breakfast: Yes | Irregular eating pattern, compounds nutritional deficiency with low BMI | +0.3 |
+| Favourite Movie Genre: Action | No causal health relevance | 0.0 |
+| Registered Organ Donor: No | No direct health relevance | 0.0 |
+| Annual Charity Donation: Never | No direct health relevance | 0.0 |
+| Favourite Cuisine: Mexican | No direct health relevance | 0.0 |
+| Exercises: No | Sedentary lifestyle, cardiovascular and metabolic risk | +0.4 |
+| Likes Art: Yes | No direct health relevance | 0.0 |
+| Academic Preference: Humanities | No direct health relevance | 0.0 |
+| Political Ideology: Liberal | No direct causal health relevance | 0.0 |
+| Orders Takeout: Monthly | Infrequent, minimal dietary risk | 0.0 |
+| Preferred Grocery Store: Kroger | No causal health relevance | 0.0 |
+| Helps Elderly: Always | Prosocial behavior, no direct risk | 0.0 |
+| Likes Chocolate: No | No direct health relevance | 0.0 |
+| Reads Novels: Yes | Cognitive engagement, mild protective | −0.1 |
+| Has Cheated on Assignment: Yes | No direct health relevance | 0.0 |
+| Eye Color: Hazel | No causal health relevance | 0.0 |
+| Spotify vs Apple Music: Spotify | No causal health relevance | 0.0 |
+| Favourite Season: Winter | No causal health relevance | 0.0 |
+
+---
+
+### Contribution Sum Verification
+
+| Category | Sum |
+|---|---|
+| Positive contributions | +0.5+2.0+0.4+0.3+0.1+0.1+0.4+0.2+0.4+0.1+0.1+0.1+0.3+0.1+0.4+0.3+0.1+0.4+0.4 = **+6.9** |
+| Negative contributions | −0.3−0.1−0.2−0.1−0.2−0.1−0.1−0.1−0.1−0.1−0.1 = **−1.5** |
+| **Net Score** | **6.9 − 1.5 = 6.2** ✓ |
+
+---
+
+### Justification
+
+The dominant driver of this elevated risk score is the patient's critically low BMI of 13.4, which indicates severe undernutrition and is causally linked to immune compromise, organ stress, and hospitalization risk; this is compounded by a gluten allergy suggesting possible malabsorption, breakfast skipping, inadequate water intake, and no exercise, all of which synergistically worsen the nutritional and physiological deficit. Secondary contributors include mild clinical depression with anhedonia, chronic sleep deprivation, and structural barriers to care (no driver's license, health disparities associated with Native American race), while protective factors such as non-smoking, employment, vegetable consumption, and moderate socioeconomic status provide partial but insufficient offset.

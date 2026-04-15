@@ -1,0 +1,58 @@
+## Patient 23 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (56) | Middle-aged, elevated chronic disease risk | +1.0 |
+| BMI (31.1) | Obese Class I – metabolic/cardiovascular risk | +0.7 |
+| Current Diagnosis: Schizophrenia | Major psychiatric condition, high hospitalization risk | +2.0 |
+| Family Health History: Asthma | Genetic respiratory predisposition | +0.3 |
+| Race: Black | Systemic health disparities, higher chronic disease burden | +0.3 |
+| Gender: Other | Minority stress, potential healthcare access barriers | +0.2 |
+| Loss of Interest: Yes | Anhedonia present despite low HAM-D – psychiatric concern | +0.3 |
+| HAM-D: Normal/No Depression | Mitigates depressive hospitalization risk | -0.4 |
+| Been Sad or Fatigued: No | Positive mental health indicator | -0.2 |
+| Hours of Sleep: 8.0 | Adequate sleep, protective factor | -0.2 |
+| Weekly Alcohol Intake: 0 | No alcohol risk | -0.3 |
+| Smoking: No | No smoking-related risk | -0.3 |
+| Exercises: Yes | Physical activity reduces hospitalization risk | -0.3 |
+| Employment: Employed | Stability, insurance access, protective | -0.2 |
+| Socioeconomic Status: Middle | Moderate resource access, protective | -0.2 |
+| Water Intake (43.9 oz) | Slightly below recommended – mild concern | +0.1 |
+| Skips Breakfast: Yes | Poor nutritional habit, minor metabolic risk | +0.1 |
+| Orders Takeout: Daily | Poor diet quality, metabolic/cardiovascular risk | +0.3 |
+| Likes Vegetables: No | Poor dietary pattern, compounds BMI/metabolic risk | +0.2 |
+| Relationship Status: Dating | Moderate social support | -0.1 |
+| Volunteers: Always | Strong prosocial behavior, mental health protective | -0.1 |
+| Annual Charity Donation: Always | Positive psychosocial engagement | -0.1 |
+| Picks Up Litter: Always | Civic engagement, positive behavioral indicator | -0.1 |
+| Religious: Yes | Social/spiritual support, protective | -0.1 |
+| Has No Driver's License | Limits healthcare access, transportation barrier | +0.2 |
+| Uses Public Transportation: Never | Compounds access barrier | +0.1 |
+| Travels: No | Limited environmental enrichment, minor concern | +0.1 |
+| Binge Watches TV: No | Sedentary behavior not a concern here | 0.0 |
+| Donated Blood: Yes | General health engagement, minor protective | -0.1 |
+| Registered Organ Donor: No | Neutral/minor disengagement | 0.0 |
+| Recycling Habits: Never | Neutral for clinical risk | 0.0 |
+| Votes: Never | Civic disengagement, minor social isolation signal | +0.1 |
+| Wears Glasses: No | No vision impairment risk | 0.0 |
+| Allergy: NaN | No known allergy risk | 0.0 |
+| Bilingual: No | Neutral | 0.0 |
+| Handedness: Right | Neutral | 0.0 |
+| Favourite Sport: Basketball | Active interest, positive | 0.0 |
+| Favourite Meal: Breakfast / Skips It | Contradiction noted, minor concern already counted | 0.0 |
+| All remaining lifestyle/preference attributes | Clinically non-contributory | 0.0 |
+| **TOTAL** | | **6.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 56-year-old patient with a primary diagnosis of schizophrenia carries the most significant hospitalization risk driver, as schizophrenia is associated with high rates of psychiatric re-hospitalization, medication non-adherence, and comorbid medical complications. Compounding factors include Class I obesity, daily takeout consumption, poor vegetable intake, transportation access barriers, and the presence of anhedonia (loss of interest) despite a currently normal HAM-D score — suggesting subclinical psychiatric vulnerability that warrants close monitoring despite the protective influence of employment, sobriety, regular exercise, and strong prosocial engagement.

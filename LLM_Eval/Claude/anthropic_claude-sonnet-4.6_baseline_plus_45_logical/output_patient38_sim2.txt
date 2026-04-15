@@ -1,0 +1,44 @@
+## Hospitalization Risk Score
+
+**Risk Score: 4.7**
+
+---
+
+### Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Elevated risk in older adults | +1.5 |
+| BMI (33.4) | Obese class I, increases comorbidity risk | +1.0 |
+| Current Diagnosis: Depression | Direct clinical risk factor | +0.8 |
+| HAM-D: Mild Depression (7–17) | Moderate severity indicator | +0.3 |
+| Been Sad or Fatigued: Yes | Symptom burden present | +0.2 |
+| Loss of Interest: Yes | Anhedonia, worsens prognosis | +0.2 |
+| Hours of Sleep: 6.7 | Mildly suboptimal, minor risk | +0.1 |
+| Socioeconomic Status: Low | Reduced healthcare access | +0.4 |
+| Has No Driver's License | Limits healthcare access | +0.1 |
+| Skips Breakfast: Yes | Poor nutritional habit | +0.1 |
+| Orders Takeout: Daily | Poor diet quality risk | +0.2 |
+| Water Intake: 44.6 oz | Below recommended ~64 oz | +0.1 |
+| Volunteers: Never | Low social engagement | +0.1 |
+| Recycling/Civic Engagement: Low | Proxy for low self-efficacy | +0.0 |
+| Registered Organ Donor: No | Neutral/negligible | +0.0 |
+| Weekly Alcohol Intake: 1 | Low, minimal risk | -0.1 |
+| Smoking: No | Protective | -0.3 |
+| Exercises: Yes | Protective against hospitalization | -0.3 |
+| Likes Vegetables: Yes | Positive dietary habit | -0.1 |
+| Drinks Coffee: Yes | Mild protective association | -0.1 |
+| Relationship Status: Dating | Social support present | -0.1 |
+| Employment: Retired | Stable, low occupational stress | -0.1 |
+| Travels: Yes | Indicates functional capacity | -0.1 |
+| Family Health History: Unknown | No additive risk assigned | +0.0 |
+| Allergy (Shellfish) | Manageable, low acute risk | +0.1 |
+| Binge Watches TV: Yes | Sedentary behavior indicator | +0.1 |
+| Uses Public Transportation: Always | Compensates for no license | -0.1 |
+| **TOTAL** | | **4.7** |
+
+---
+
+### Justification
+
+The risk score is primarily driven by the patient's age (62), obesity (BMI 33.4), active depression diagnosis with confirmed symptoms (fatigue, anhedonia, mild HAM-D severity), and low socioeconomic status limiting healthcare access. Protective factors including non-smoking status, regular exercise, vegetable consumption, social engagement through a relationship, and low alcohol intake meaningfully offset these risks, yielding a moderate overall hospitalization risk of 4.7 out of 10.

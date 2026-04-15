@@ -1,0 +1,66 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (74) | Older adult; elevated biological vulnerability | +1.80 |
+| BMI (29.4) | Overweight range; mild cardiometabolic risk | +0.40 |
+| Family Health History (Cancer) | Genetic predisposition to malignancy | +0.35 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.50 |
+| Gender (Male) | Males statistically higher hospitalization rates at this age | +0.25 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/cardiovascular consideration | +0.10 |
+| Smoking (No) | Protective; no pulmonary/cardiovascular smoking risk | −0.30 |
+| HAM-D (Normal/No Depression) | No depressive disorder; protective for mental health hospitalization | −0.25 |
+| Been Sad or Fatigued (No) | No affective symptoms | −0.10 |
+| Loss of Interest (No) | No anhedonia | −0.05 |
+| Hours of Sleep (7.0) | Adequate sleep; restorative and protective | −0.15 |
+| Employment (Retired) | Reduced occupational stress; mild social isolation risk | +0.05 |
+| Socioeconomic Status (Middle) | Moderate healthcare access; neutral-to-protective | −0.10 |
+| Drinks Coffee (No) | Neutral; minor missed cardiovascular benefit | +0.02 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective | −0.15 |
+| Favourite Sport (Hockey) | Interest in active sport; mild protective engagement | −0.05 |
+| Exercises (No) | Sedentary lifestyle; significant risk amplifier at age 74 | +0.45 |
+| Water Intake (44.7 oz) | Below recommended ~64 oz; mild dehydration risk | +0.15 |
+| Skips Breakfast (Yes) | Poor nutritional habit; metabolic risk | +0.10 |
+| Allergy (Tree Nuts) | Anaphylaxis risk if exposed; mild hospitalization risk | +0.15 |
+| Binge-Watches TV (Yes) | Sedentary behavior; compounds exercise deficit | +0.10 |
+| Relationship Status (Single) | Reduced social support; associated with poorer health outcomes | +0.20 |
+| Travels (Yes) | Exposure to pathogens; mild risk at age 74 | +0.08 |
+| Volunteers (Sometimes) | Social engagement; mildly protective | −0.08 |
+| Helps Elderly (Sometimes) | Prosocial behavior; mild protective psychological effect | −0.05 |
+| Reads Novels (Yes) | Cognitive engagement; protective against cognitive decline | −0.08 |
+| Bilingual (Yes) | Cognitive reserve; protective against neurological hospitalization | −0.10 |
+| Wears Glasses (Yes) | Vision impairment; fall/injury risk in elderly | +0.10 |
+| Can Ride Bicycle (No) | Reduced mobility/physical capacity indicator | +0.08 |
+| Donated Blood (Yes) | Indicates past good health status; mildly protective | −0.05 |
+| Registered Organ Donor (No) | Neutral; no clinical impact | 0.00 |
+| Recycling Habits (Never) | Neutral lifestyle factor | 0.00 |
+| Annual Charity Donation (Never) | Mild indicator of social disengagement | +0.03 |
+| Votes (Never) | Civic disengagement; mild social isolation marker | +0.03 |
+| Picks Up Litter (Sometimes) | Neutral prosocial behavior | 0.00 |
+| Uses Public Transportation (Sometimes) | Pathogen exposure; minor risk | +0.03 |
+| Religious (Yes) | Associated with better mental health outcomes; mildly protective | −0.05 |
+| Morning Person (Yes) | Consistent circadian rhythm; mildly protective | −0.05 |
+| Likes Kids (Yes) | Positive social orientation; neutral-to-protective | −0.02 |
+| Likes Art (Yes) | Cognitive/emotional engagement; mildly protective | −0.03 |
+| Political Ideology (Apolitical) | Low stress from political engagement; mildly protective | −0.02 |
+| Orders Takeout (Monthly) | Infrequent; minimal dietary risk | +0.02 |
+| Favourite Cuisine (American) | Typically higher sodium/fat; minor dietary risk | +0.05 |
+| Race (White) | Neutral in this context | 0.00 |
+| Sexual Orientation (Heterosexual) | Neutral | 0.00 |
+| Has Driver's License (Yes) | Mobility and independence; mildly protective | −0.05 |
+| Hair Color, Eye Color, Handedness, etc. | Non-clinical lifestyle attributes | 0.00 |
+| **TOTAL** | | **4.20** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a **moderate hospitalization risk**, driven primarily by his advanced age, sedentary lifestyle (no exercise, binge-watching TV), overweight BMI, suboptimal hydration, single relationship status reducing social support, and a family history of cancer warranting surveillance. Protective factors — including no active diagnosis, no smoking, no depression, adequate sleep, vegetable consumption, cognitive engagement, and moderate socioeconomic stability — meaningfully offset these risks, yielding an overall risk score that warrants **preventive monitoring and lifestyle intervention** rather than immediate clinical concern.

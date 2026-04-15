@@ -1,0 +1,23 @@
+1. **Risk Score:** 6
+
+2. **Input Factors and Contributions:**
+   - Age (22): +1 (young adults generally have lower risk, but still some risk)
+   - BMI (27.1): +2 (overweight category, associated with increased health risks)
+   - Family Health History (Heart Disease): +2 (strong risk factor for cardiovascular issues)
+   - Current Diagnosis (Schizophrenia): +3 (mental health conditions can increase hospitalization risk)
+   - Weekly Alcohol Intake (2): +1 (moderate intake, some risk but not excessive)
+   - Smoking (No): -1 (non-smoker, reduces risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can contribute to overall health decline)
+   - Been Sad or Fatigued (Yes): +1 (indicates potential mental health struggles)
+   - Loss of Interest (Yes): +1 (further indicates mental health concerns)
+   - Hours of Sleep (8.9): -1 (adequate sleep, reduces risk)
+   - Employment (Student): +1 (students may have stressors that can impact health)
+   - Socioeconomic Status (Middle): +1 (middle status can have mixed effects, slight risk)
+   - Likes Vegetables (No): +1 (poor diet can increase health risks)
+   - Water Intake (43.4 oz): -1 (adequate hydration, reduces risk)
+   - Bilingual (Yes): -1 (cognitive benefits, potentially reducing risk)
+   - Likes Kids (Yes): -1 (positive social interactions, potentially reducing risk)
+
+   **Total Contributions:** 1 + 2 + 2 + 3 + 1 - 1 + 1 + 1 + 1 - 1 + 1 + 1 - 1 - 1 - 1 = 6
+
+3. **Justification:** The risk score of 6 reflects a combination of factors that increase hospitalization risk, particularly the mental health diagnosis and family history of heart disease, while some lifestyle choices and adequate sleep contribute positively to overall health. The contributions were assessed based on established causal relationships between these factors and health outcomes.

@@ -1,0 +1,83 @@
+## Hospitalization Risk Score
+
+**Risk Score: 4.3**
+
+---
+
+### Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age | 32 | +0.2 |
+| BMI | 25.7 (normal-overweight border) | +0.1 |
+| Family Health History | Asthma | +0.3 |
+| Current Diagnosis | None (nan) | 0.0 |
+| HAM-D Score | 18–24 Moderate Depression | +0.9 |
+| Loss of Interest | Yes | +0.4 |
+| Been Sad or Fatigued | No | -0.1 |
+| Hours of Sleep | 4.8 (severely insufficient) | +0.7 |
+| Smoking | No | -0.3 |
+| Weekly Alcohol Intake | 2 (low) | -0.1 |
+| Allergy | Animal Dander | +0.2 |
+| Skips Breakfast | Yes | +0.2 |
+| Orders Takeout | Daily | +0.3 |
+| Likes Vegetables | No | +0.2 |
+| Water Intake | 44.0 oz (below recommended) | +0.2 |
+| Exercises | Yes | -0.4 |
+| Employment | Employed | -0.2 |
+| Socioeconomic Status | Middle | -0.1 |
+| Drinks Coffee | No | 0.0 |
+| Uses Public Transportation | Never | 0.0 |
+| Volunteers | Never | +0.1 |
+| Binge Watches TV | No | -0.1 |
+| Travels | No | +0.1 |
+| Relationship Status | Dating (social support present) | -0.1 |
+| Religious | Yes | -0.1 |
+| Reads Novels | Yes | -0.1 |
+| Annual Charity Donation | Always | -0.1 |
+| Helps Elderly | Always | -0.1 |
+| Picks Up Litter | Sometimes | 0.0 |
+| Recycling Habits | Sometimes | 0.0 |
+| Registered Organ Donor | No | 0.0 |
+| Donated Blood | No | 0.0 |
+| Bilingual | Yes | -0.1 |
+| Has Driver's License | No | +0.1 |
+| Wears Glasses | Yes | +0.1 |
+| Morning or Night | Night (night owl, aligns with poor sleep) | +0.1 |
+| Gender | Non-binary (minority stress factor) | +0.2 |
+| Sexual Orientation | Other (minority stress factor) | +0.1 |
+| Political Ideology | Conservative | 0.0 |
+| Handedness | Right | 0.0 |
+| Hair Color | Black | 0.0 |
+| Eye Color | Hazel | 0.0 |
+| Favourite Color | Yellow | 0.0 |
+| Favourite Sport | nan | 0.0 |
+| Favourite Meal | Dinner | 0.0 |
+| Favourite Music Genre | Pop | 0.0 |
+| Favourite Movie Genre | Thriller | 0.0 |
+| Favourite Cuisine | Indian | 0.0 |
+| Favourite Season | Summer | 0.0 |
+| Best Highschool Subject | English | 0.0 |
+| Academic Preference | STEM | 0.0 |
+| Phone | Apple | 0.0 |
+| Spotify vs Apple Music | Spotify | 0.0 |
+| Favourite Superstore | Walmart | 0.0 |
+| Preferred Grocery Store | Wegmans | 0.0 |
+| Pet Preference | Guinea Pig | 0.0 |
+| Birthday Month | July | 0.0 |
+| Race | White | 0.0 |
+| Can Ride Bicycle | Yes | 0.0 |
+| Likes Kids | Yes | 0.0 |
+| Likes Art | No | 0.0 |
+| Likes Chocolate | No | 0.0 |
+| Has Cheated on Assignment | Yes | 0.0 |
+| Votes | Sometimes | 0.0 |
+| Height | 63 inches | 0.0 |
+
+**Sum: +0.2+0.1+0.3+0.0+0.9+0.4−0.1+0.7−0.3−0.1+0.2+0.2+0.3+0.2+0.2−0.4−0.2−0.1+0.0+0.0+0.1−0.1+0.1−0.1−0.1−0.1−0.1−0.1+0.0+0.0+0.0+0.0−0.1+0.1+0.1+0.1+0.2+0.1 = 4.3 ✓**
+
+---
+
+### Justification
+
+The dominant risk drivers are the clinically significant moderate depression score (HAM-D 18–24), severely insufficient sleep (4.8 hours), loss of interest, and poor dietary behaviors (daily takeout, skipping breakfast, low vegetable and water intake), which collectively indicate elevated physical and psychiatric vulnerability to hospitalization. These risks are partially mitigated by regular exercise, stable employment, middle socioeconomic status, social engagement through a relationship, and absence of smoking or heavy alcohol use.

@@ -1,0 +1,55 @@
+## Risk Score: **4.8**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (63) | Older age increases hospitalization risk | +1.50 |
+| BMI (33.3) | Obese range, increases cardiovascular/metabolic risk | +1.00 |
+| Family Health History (Heart Disease) | Genetic predisposition to cardiac events | +0.60 |
+| Current Diagnosis (Bipolar) | Psychiatric condition requiring potential acute care | +0.70 |
+| HAM-D (Mild Depression, 7–17) | Active depressive symptomatology | +0.30 |
+| Exercises (No) | Sedentary lifestyle compounds BMI and cardiac risk | +0.40 |
+| Water Intake (44.1 oz) | Below recommended ~64 oz; mild dehydration risk | +0.15 |
+| Skips Breakfast (Yes) | Poor nutritional habit, metabolic dysregulation | +0.10 |
+| Orders Takeout (Daily) | High sodium/fat diet, worsens BMI and cardiac risk | +0.20 |
+| Likes Vegetables (No) | Poor dietary quality, compounds metabolic risk | +0.15 |
+| Allergy (Dust) | Minor chronic inflammatory burden | +0.05 |
+| Registered Organ Donor (No) | Neutral/no protective health engagement signal | +0.00 |
+| Helps Elderly (Never) | Reflects social disengagement, minor isolation signal | +0.05 |
+| Picks Up Litter (Never) | Negligible direct health relevance | +0.00 |
+| Binge Watches TV (Yes) | Sedentary behavior, compounds inactivity risk | +0.10 |
+| Smoking (No) | Absence of major pulmonary/cardiovascular risk factor | −0.50 |
+| Weekly Alcohol Intake (1) | Very low alcohol intake, minimal hepatic/cardiac risk | −0.20 |
+| Hours of Sleep (7.7) | Healthy sleep duration, restorative and protective | −0.25 |
+| Been Sad or Fatigued (No) | Absence of active depressive somatic symptoms | −0.15 |
+| Loss of Interest (No) | Absence of anhedonia reduces acute psychiatric risk | −0.15 |
+| Socioeconomic Status (Middle) | Moderate healthcare access, partial protective effect | −0.20 |
+| Employment (Retired) | Stable, low-stress status; structured daily routine | −0.10 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant; marginal at low intake | +0.05 |
+| Bilingual (Yes) | Associated with cognitive resilience | −0.05 |
+| Votes (Always) | Civic engagement correlates with health-conscious behavior | −0.05 |
+| Relationship Status (Dating) | Social connection, mild protective effect | −0.10 |
+| Religious (Yes) | Social support and coping resource, protective | −0.10 |
+| Volunteers (Sometimes) | Partial social engagement, mild protective effect | −0.05 |
+| Travels (Yes) | Indicates functional mobility and independence | −0.05 |
+| Reads Novels (Yes) | Cognitive engagement, mild protective effect | −0.05 |
+| Annual Charity Donation (Always) | Prosocial behavior linked to wellbeing | −0.05 |
+| Recycling Habits (Always) | Health-conscious behavioral pattern | −0.05 |
+| Has Driver's License (Yes) | Functional independence and mobility | −0.05 |
+| Donated Blood (Yes) | Indicates baseline health eligibility and engagement | −0.05 |
+| Can Ride Bicycle (Yes) | Functional physical capacity | −0.05 |
+| Wears Glasses (No) | No vision impairment risk factor | +0.00 |
+| Morning Person (Yes) | Circadian alignment, associated with better health outcomes | −0.05 |
+| All remaining lifestyle/preference factors (color, music, phone, etc.) | No established causal relationship to hospitalization risk | +0.00 |
+
+---
+
+**Sum Check:** +1.50+1.00+0.60+0.70+0.30+0.40+0.15+0.10+0.20+0.15+0.05+0.10+0.05 = **+5.30** | −0.50−0.20−0.25−0.15−0.15−0.20−0.10−0.05−0.05−0.10−0.10−0.05−0.05−0.05−0.05−0.05−0.05−0.05−0.05−0.05 = **−0.50** → **Net = 4.80** ✓
+
+---
+
+### Justification
+The score is primarily driven upward by the convergence of advanced age (63), obesity-range BMI (33.3), a bipolar disorder diagnosis, family history of heart disease, physical inactivity, and poor dietary behaviors (daily takeout, no vegetables, skipped breakfast), which collectively represent well-established causal pathways to acute hospitalization. These risks are partially offset by the absence of smoking, low alcohol intake, healthy sleep duration, stable socioeconomic status, and multiple indicators of social engagement and functional independence that reduce the probability of acute decompensation.

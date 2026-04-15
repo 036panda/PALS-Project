@@ -1,0 +1,26 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (22 years): -1 (younger age generally correlates with lower risk)
+   - BMI (21.9): -1 (normal BMI range correlates with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (nan): 0 (no current diagnosis contributes no risk)
+   - Race (White): 0 (race does not contribute positively or negatively in this context)
+   - Gender (Non-binary): 0 (gender does not contribute positively or negatively in this context)
+   - Sexual Orientation (Heterosexual): 0 (sexual orientation does not contribute positively or negatively in this context)
+   - Weekly Alcohol Intake (3): 0 (moderate alcohol intake does not significantly impact risk)
+   - Smoking (No): -1 (non-smoker contributes to lower risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can increase risk)
+   - Been Sad or Fatigued (No): -1 (absence of sadness or fatigue contributes to lower risk)
+   - Loss of Interest (No): -1 (absence of loss of interest contributes to lower risk)
+   - Hours of Sleep (9.6): -1 (adequate sleep contributes to lower risk)
+   - Employment (Employed): -1 (employment generally correlates with lower risk)
+   - Socioeconomic Status (Middle): 0 (middle socioeconomic status does not significantly impact risk)
+   - Drinks Coffee (No): 0 (not drinking coffee does not contribute positively or negatively)
+   - Likes Vegetables (Yes): -1 (healthy eating habits contribute to lower risk)
+   - Favourite Sport (Soccer): -1 (engagement in sports contributes to lower risk)
+   - Votes (Always): 0 (voting behavior does not contribute positively or negatively)
+
+   **Total Contributions:** -1 - 1 + 2 + 0 + 0 + 0 + 0 + 0 + 0 + 1 - 1 - 1 - 1 - 1 + 0 + 0 - 1 - 1 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of positive and negative contributions based on the patient's health history, lifestyle choices, and psychological state. The significant positive contribution from family health history of cancer is partially offset by multiple negative contributions from healthy lifestyle factors and the absence of current health issues.

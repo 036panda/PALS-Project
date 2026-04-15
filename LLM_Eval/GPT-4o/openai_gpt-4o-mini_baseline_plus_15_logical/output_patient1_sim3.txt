@@ -1,0 +1,37 @@
+1. **Risk Score:** 6
+
+2. **Input Factors and Contributions:**
+   - Age (22): -1 (young age generally associated with lower risk)
+   - BMI (23.8): -1 (normal BMI range, lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (Anxiety): +1 (mental health issues can increase hospitalization risk)
+   - Race (Other): 0 (neutral contribution)
+   - Gender (Non-binary): 0 (neutral contribution)
+   - Sexual Orientation (Heterosexual): 0 (neutral contribution)
+   - Weekly Alcohol Intake (7): +1 (moderate alcohol intake can be a risk factor)
+   - Smoking (Yes): +2 (smoking significantly increases health risks)
+   - HAM-D (25+): +2 (severe depression is a strong risk factor)
+   - Been Sad or Fatigued (No): 0 (neutral contribution)
+   - Loss of Interest (No): 0 (neutral contribution)
+   - Hours of Sleep (6.3): -1 (slightly below recommended sleep, but not critically low)
+   - Employment (Student): 0 (neutral contribution)
+   - Socioeconomic Status (Low): +1 (low socioeconomic status can increase risk)
+   - Drinks Coffee (No): 0 (neutral contribution)
+   - Likes Vegetables (Yes): -1 (healthy eating habits reduce risk)
+   - Favourite Sport (Hockey): 0 (neutral contribution)
+   - Votes (Sometimes): 0 (neutral contribution)
+   - Height in Inches (59): 0 (neutral contribution)
+   - Has Driver's License (No): 0 (neutral contribution)
+   - Picks Up Litter (Sometimes): 0 (neutral contribution)
+   - Uses Public Transportation (Never): 0 (neutral contribution)
+   - Donated Blood (No): 0 (neutral contribution)
+   - Birthday Month (May): 0 (neutral contribution)
+   - Water Intake (oz) (44.0): -1 (adequate hydration is beneficial)
+   - Bilingual (Yes): 0 (neutral contribution)
+   - Handedness (Right): 0 (neutral contribution)
+   - Likes Kids (Yes): 0 (neutral contribution)
+   - Favourite Meal (Lunch): 0 (neutral contribution)
+
+   **Total Contributions:** -1 - 1 + 2 + 1 + 0 + 0 + 0 + 1 + 2 + 2 + 0 + 0 - 1 + 0 + 1 - 1 + 0 + 0 + 0 + 0 + 0 + 0 + 0 - 1 + 0 + 0 + 0 + 0 = 6
+
+3. **Justification:** The risk score of 6 reflects a combination of factors that increase hospitalization risk, such as a family history of cancer, smoking, severe depression, and low socioeconomic status, which outweigh the protective effects of youth, normal BMI, and healthy dietary preferences. The contributions were assessed based on established causal relationships between these factors and health outcomes.

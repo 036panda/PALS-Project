@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed Breakdown of Attributes:
+   - Age (36 years): -1 (Younger adults generally have a lower risk of hospitalization)
+   - BMI (31.3): +2 (Obesity can increase the risk of various health issues)
+   - Family Health History (Asthma): +1 (Family history of respiratory conditions may indicate a predisposition)
+   - Current Diagnosis (Anxiety): +1 (Mental health conditions can contribute to overall health risks)
+   - Race (White): 0 (No significant impact on hospitalization risk)
+   - Gender (Male): +1 (Males generally have a higher risk of hospitalization compared to females)
+   - Sexual Orientation (Heterosexual): 0 (No significant impact on hospitalization risk)
+   - Weekly Alcohol Intake (5 drinks): +1 (Moderate alcohol consumption can have health implications)
+   - Smoking (No): -2 (Non-smokers have a lower risk of hospitalization)
+   - HAM-D (0–6: Normal / No Depression): -1 (No depression is a positive factor for overall health)
+   - Been Sad or Fatigued (No): -1 (Absence of fatigue or sadness is a positive indicator)
+   - Loss of Interest (No): -1 (No loss of interest is a positive indicator)
+   - Hours of Sleep (6.0): 0 (Slightly below the recommended amount, but not significantly impactful)
+   - Employment (Employed): 0 (Employment status does not directly impact hospitalization risk)
+   - Socioeconomic Status (Low): +1 (Lower socioeconomic status can correlate with higher health risks)
+
+   Total Impact: -1 + 2 + 1 + 1 + 0 + 1 + 0 + 1 - 2 - 1 - 1 - 1 + 0 + 0 + 1 = 4
+
+3. Clinical Rationale: The patient presents a moderate risk for hospitalization primarily due to obesity, anxiety, and low socioeconomic status, which can exacerbate health issues. However, protective factors such as non-smoking status and absence of depression mitigate some of the risk.

@@ -1,0 +1,22 @@
+1. **Risk Score:** 8
+
+2. **Input Factors and Contributions:**
+   - Age (19): +1 (young adults may have lower risk, but still a factor)
+   - BMI (17.6): +2 (underweight, associated with higher health risks)
+   - Family Health History (Diabetes): +2 (increased risk due to genetic predisposition)
+   - Current Diagnosis (Schizophrenia): +3 (severe mental health condition, high hospitalization risk)
+   - Race (White): 0 (neutral contribution, no direct impact on risk)
+   - Gender (Non-binary): 0 (neutral contribution, no direct impact on risk)
+   - Sexual Orientation (Heterosexual): 0 (neutral contribution, no direct impact on risk)
+   - Weekly Alcohol Intake (3): +1 (moderate intake, potential risk factor)
+   - Smoking (No): -1 (protective factor, reduces risk)
+   - HAM-D (25+): +3 (severe depression, significantly increases hospitalization risk)
+   - Been Sad or Fatigued (No): -1 (protective factor, reduces risk)
+   - Loss of Interest (Yes): +2 (indicative of severe depression, increases risk)
+   - Hours of Sleep (8.0): -1 (adequate sleep, protective factor)
+   - Employment (Student): 0 (neutral contribution, no direct impact on risk)
+   - Socioeconomic Status (High): -1 (protective factor, reduces risk)
+
+   **Total Contributions:** 1 + 2 + 2 + 3 + 0 + 0 + 0 + 1 - 1 + 3 - 1 + 2 - 1 + 0 - 1 = 8
+
+3. **Justification:** The risk score of 8 reflects the significant contributions from severe mental health conditions (schizophrenia and severe depression), combined with the underweight BMI and family history of diabetes, which collectively indicate a high likelihood of hospitalization. Protective factors such as adequate sleep and high socioeconomic status slightly mitigate the overall risk but do not outweigh the severe risk factors present.

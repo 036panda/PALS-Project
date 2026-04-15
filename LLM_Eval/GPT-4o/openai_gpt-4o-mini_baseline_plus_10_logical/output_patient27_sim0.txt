@@ -1,0 +1,32 @@
+1. **Risk Score:** 2
+
+2. **Input Factors and Contributions:**
+   - Age (38): +1 (increased risk with age)
+   - BMI (21.8): -1 (normal BMI, lower risk)
+   - Family Health History (Asthma): +1 (family history contributes to risk)
+   - Current Diagnosis (Anxiety): +1 (mental health conditions can increase risk)
+   - Race (Black): 0 (no direct contribution assigned)
+   - Gender (Non-binary): 0 (no direct contribution assigned)
+   - Sexual Orientation (Heterosexual): 0 (no direct contribution assigned)
+   - Weekly Alcohol Intake (2): 0 (low intake, no contribution)
+   - Smoking (No): -1 (non-smoker, lower risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression, lower risk)
+   - Been Sad or Fatigued (No): -1 (no symptoms, lower risk)
+   - Loss of Interest (No): -1 (no symptoms, lower risk)
+   - Hours of Sleep (6.3): 0 (adequate sleep, no contribution)
+   - Employment (Employed): 0 (employment status neutral)
+   - Socioeconomic Status (High): -1 (higher status, lower risk)
+   - Drinks Coffee (No): 0 (no contribution)
+   - Likes Vegetables (No): 0 (no contribution)
+   - Favourite Sport (Soccer): 0 (no contribution)
+   - Votes (Always): 0 (no contribution)
+   - Height in Inches (73): 0 (no contribution)
+   - Has Drivers License (Yes): 0 (no contribution)
+   - Picks Up Litter (Never): 0 (no contribution)
+   - Uses Public Transportation (Never): 0 (no contribution)
+   - Donated Blood (Yes): 0 (no contribution)
+   - Birthday Month (March): 0 (no contribution)
+
+   **Total Contributions:** +1 (Age) +1 (Family Health History) +1 (Current Diagnosis) -1 (BMI) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) -1 (Loss of Interest) -1 (Socioeconomic Status) = 2
+
+3. **Justification:** The risk score of 2 reflects a combination of factors that slightly elevate the risk of hospitalization, such as age, family health history, and current anxiety diagnosis, while being mitigated by a normal BMI, non-smoking status, and absence of depressive symptoms. The overall low score indicates a relatively low hospitalization risk for this individual.

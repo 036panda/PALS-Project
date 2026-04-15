@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed Breakdown of Attributes:
+   - Age (34): -1 (Younger adults generally have a lower risk of hospitalization)
+   - BMI (24.2): -1 (Normal BMI range is associated with lower health risks)
+   - Family Health History (nan): 0 (Insufficient data to assess impact)
+   - Current Diagnosis (Bipolar): +3 (Bipolar disorder can increase the risk of hospitalization, especially during manic or depressive episodes)
+   - Race (Hispanic): 0 (Race alone does not significantly impact hospitalization risk in this context)
+   - Gender (Female): 0 (Gender alone does not significantly impact hospitalization risk in this context)
+   - Sexual Orientation (Heterosexual): 0 (Sexual orientation does not significantly impact hospitalization risk)
+   - Weekly Alcohol Intake (1): -1 (Low alcohol intake is associated with lower health risks)
+   - Smoking (No): -1 (Non-smokers have a lower risk of hospitalization)
+   - HAM-D (0–6: Normal / No Depression): -2 (No depression indicates a lower risk of hospitalization)
+   - Been Sad or Fatigued (Yes): +1 (Indicates potential underlying issues that could increase risk)
+   - Loss of Interest (No): -1 (No loss of interest suggests better overall mental health)
+   - Hours of Sleep (8.3): -1 (Adequate sleep is associated with better health outcomes)
+   - Employment (Employed): -1 (Employment can provide stability and reduce risk)
+   - Socioeconomic Status (Low): +2 (Low socioeconomic status can increase stress and health risks)
+   - Drinks Coffee (No): 0 (No significant impact on hospitalization risk)
+   - Likes Vegetables (No): +1 (Poor diet can contribute to health issues)
+   - Favourite Sport (Soccer): 0 (Engagement in sports can be protective but is not quantified here)
+   - Votes (Sometimes): 0 (Civic engagement does not significantly impact hospitalization risk)
+   - Height in Inches (60): 0 (Height alone does not significantly impact hospitalization risk)
+
+3. Clinical Rationale: The patient presents with bipolar disorder, which significantly elevates the risk of hospitalization, particularly if episodes are not well-managed. However, factors such as a normal BMI, adequate sleep, and low alcohol intake contribute positively to her overall health, resulting in a moderate risk score of 4.

@@ -1,0 +1,35 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (32): +1
+   - BMI (23.2): 0 (considered normal)
+   - Family Health History (nan): 0 (no data)
+   - Current Diagnosis (nan): 0 (no data)
+   - Race (Other): 0 (no specific risk associated)
+   - Gender (Other): 0 (no specific risk associated)
+   - Sexual Orientation (Heterosexual): 0 (no specific risk associated)
+   - Weekly Alcohol Intake (6): +1 (moderate intake)
+   - Smoking (No): -1 (protective factor)
+   - HAM-D (0–6: Normal / No Depression): -1 (protective factor)
+   - Been Sad or Fatigued (No): -1 (protective factor)
+   - Loss of Interest (No): -1 (protective factor)
+   - Hours of Sleep (6.8): 0 (considered adequate)
+   - Employment (Employed): -1 (protective factor)
+   - Socioeconomic Status (High): -1 (protective factor)
+   - Drinks Coffee (Yes): 0 (neutral)
+   - Likes Vegetables (No): +1 (negative dietary factor)
+   - Favourite Sport (Basketball): 0 (neutral)
+   - Votes (Sometimes): 0 (neutral)
+   - Height in Inches (71): 0 (no specific risk associated)
+   - Has Driver's License (No): 0 (neutral)
+   - Picks Up Litter (Never): 0 (neutral)
+   - Uses Public Transportation (Always): 0 (neutral)
+   - Donated Blood (No): 0 (neutral)
+   - Birthday Month (May): 0 (neutral)
+   - Water Intake (oz) (42.8): 0 (considered adequate)
+   - Bilingual (Yes): 0 (neutral)
+   - Handedness (Right): 0 (neutral)
+   - Likes Kids (Yes): 0 (neutral)
+   - Favourite Meal (Lunch): 0 (neutral)
+
+3. **Justification:** The risk score of 3 is derived from a combination of moderate alcohol intake (+1) and a negative dietary factor due to not liking vegetables (+1), offset by several protective factors including no smoking (-1), normal mental health status (-3), and high socioeconomic status (-1). The overall contributions reflect a low to moderate risk profile based on the available data.

@@ -1,0 +1,32 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (34): +1 (Age contributes positively to risk as it is within a range where mental health issues can impact hospitalization)
+   - BMI (24.2): 0 (Normal BMI, no contribution to risk)
+   - Family Health History (nan): 0 (No data available, no contribution)
+   - Current Diagnosis (Bipolar): +3 (Bipolar disorder significantly increases hospitalization risk)
+   - Race (Hispanic): 0 (No direct contribution assigned)
+   - Gender (Female): 0 (No direct contribution assigned)
+   - Sexual Orientation (Heterosexual): 0 (No direct contribution assigned)
+   - Weekly Alcohol Intake (1): 0 (Low alcohol intake, no contribution)
+   - Smoking (No): 0 (Non-smoker, no contribution)
+   - HAM-D (0–6: Normal / No Depression): 0 (No depression, no contribution)
+   - Been Sad or Fatigued (Yes): +1 (Indicates potential mental health strain, contributing to risk)
+   - Loss of Interest (No): 0 (No contribution)
+   - Hours of Sleep (8.3): 0 (Adequate sleep, no contribution)
+   - Employment (Employed): 0 (Employment status does not contribute)
+   - Socioeconomic Status (Low): +1 (Low socioeconomic status can increase stress and risk)
+   - Drinks Coffee (No): 0 (No contribution)
+   - Likes Vegetables (No): 0 (No contribution)
+   - Favourite Sport (Soccer): 0 (No contribution)
+   - Votes (Sometimes): 0 (No contribution)
+   - Height in Inches (60): 0 (No contribution)
+   - Has Driver's License (Yes): 0 (No contribution)
+   - Picks Up Litter (Never): 0 (No contribution)
+   - Uses Public Transportation (Always): 0 (No contribution)
+   - Donated Blood (No): 0 (No contribution)
+   - Birthday Month (November): 0 (No contribution)
+
+   **Total Contributions:** +1 (Age) + 0 (BMI) + 0 (Family Health History) + +3 (Bipolar) + 0 (Race) + 0 (Gender) + 0 (Sexual Orientation) + 0 (Alcohol Intake) + 0 (Smoking) + 0 (HAM-D) + +1 (Been Sad or Fatigued) + 0 (Loss of Interest) + 0 (Hours of Sleep) + 0 (Employment) + +1 (Socioeconomic Status) + 0 (Drinks Coffee) + 0 (Likes Vegetables) + 0 (Favourite Sport) + 0 (Votes) + 0 (Height) + 0 (Driver's License) + 0 (Picks Up Litter) + 0 (Public Transportation) + 0 (Blood Donation) + 0 (Birthday Month) = 4
+
+3. **Justification:** The risk score of 4 reflects the significant impact of the patient's bipolar diagnosis and low socioeconomic status, both of which are known to increase hospitalization risk. Additionally, the presence of sadness or fatigue further contributes to the overall risk assessment.

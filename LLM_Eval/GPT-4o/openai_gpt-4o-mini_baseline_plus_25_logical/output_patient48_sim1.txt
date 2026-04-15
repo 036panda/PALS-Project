@@ -1,0 +1,24 @@
+1. **Risk Score:** 5
+
+2. **Input Factors and Contributions:**
+   - Age (46): +1
+   - BMI (28.3): +1
+   - Family Health History (Heart Disease): +2
+   - Current Diagnosis (Bipolar): +1
+   - Weekly Alcohol Intake (2): +1
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (7.0): -1
+   - Employment (Employed): -1
+   - Socioeconomic Status (Middle): -1
+   - Drinks Coffee (Yes): +1
+   - Likes Vegetables (Yes): -1
+   - Relationship Status (Single): +1
+   - Can Ride Bicycle (No): +1
+   - Religious (Yes): -1
+
+   **Total Contributions:** +1 (Age) +1 (BMI) +2 (Family Health History) +1 (Bipolar) +1 (Alcohol) -1 (No Smoking) -1 (No Depression) -1 (No Sadness) +1 (Loss of Interest) -1 (Sleep) -1 (Employment) -1 (Middle SES) +1 (Coffee) -1 (Likes Vegetables) +1 (Single) +1 (No Bicycle) -1 (Religious) = **5**
+
+3. **Justification:** The risk score of 5 reflects a moderate hospitalization risk based on the combination of factors such as age, BMI, family health history, and current diagnosis, which contribute positively to the risk, while protective factors like non-smoking and normal mental health status mitigate some of that risk. The overall score indicates a balanced assessment of both risk-enhancing and protective factors.

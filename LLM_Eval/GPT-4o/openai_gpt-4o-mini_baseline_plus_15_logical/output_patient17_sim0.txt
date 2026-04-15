@@ -1,0 +1,37 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (20): -1 (younger age generally correlates with lower risk)
+   - BMI (24.6): 0 (normal BMI, neutral contribution)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (Schizophrenia): +3 (mental health conditions can elevate hospitalization risk)
+   - Race (Black): +1 (certain racial groups may have higher health risks)
+   - Gender (Other): 0 (gender-neutral contribution)
+   - Sexual Orientation (Heterosexual): 0 (sexual orientation-neutral contribution)
+   - Weekly Alcohol Intake (6): +1 (moderate alcohol intake can be a risk factor)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue reduces risk)
+   - Loss of Interest (Yes): +1 (loss of interest can indicate mental health issues)
+   - Hours of Sleep (7.6): -1 (adequate sleep reduces risk)
+   - Employment (Student): 0 (neutral contribution)
+   - Socioeconomic Status (Low): +1 (low socioeconomic status can increase risk)
+   - Drinks Coffee (Yes): 0 (neutral contribution)
+   - Likes Vegetables (No): 0 (neutral contribution)
+   - Favourite Sport (Gymnastics): 0 (neutral contribution)
+   - Votes (Sometimes): 0 (neutral contribution)
+   - Height in Inches (58): 0 (neutral contribution)
+   - Has Driver's License (No): 0 (neutral contribution)
+   - Picks Up Litter (Always): 0 (neutral contribution)
+   - Uses Public Transportation (Never): 0 (neutral contribution)
+   - Donated Blood (Yes): 0 (neutral contribution)
+   - Birthday Month (April): 0 (neutral contribution)
+   - Water Intake (oz) (45.2): 0 (neutral contribution)
+   - Bilingual (No): 0 (neutral contribution)
+   - Handedness (Right): 0 (neutral contribution)
+   - Likes Kids (No): 0 (neutral contribution)
+   - Favourite Meal (Breakfast): 0 (neutral contribution)
+
+   **Total Contributions:** -1 + 0 + 2 + 3 + 1 + 0 + 0 + 1 - 1 - 1 - 1 + 1 - 1 + 0 + 1 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 + 0 = 4
+
+3. **Justification:** The risk score of 4 reflects a combination of factors that increase and decrease hospitalization risk. Notably, the presence of schizophrenia and a family history of cancer contribute significantly to the risk, while the patient's young age, non-smoking status, and adequate sleep help mitigate it.

@@ -1,0 +1,22 @@
+1. **Risk Score:** 2
+
+2. **Input Factors and Contributions:**
+   - Age (38 years): +1
+   - BMI (21.8): -1
+   - Family Health History (Asthma): +1
+   - Current Diagnosis (Anxiety): +1
+   - Race (Black): 0
+   - Gender (Non-binary): 0
+   - Sexual Orientation (Heterosexual): 0
+   - Weekly Alcohol Intake (2): -1
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (No): -1
+   - Hours of Sleep (6.3): 0
+   - Employment (Employed): -1
+   - Socioeconomic Status (High): -1
+
+   **Total Contributions:** +1 (Age) - 1 (BMI) +1 (Family Health History) +1 (Current Diagnosis) - 1 (Weekly Alcohol Intake) - 1 (Smoking) - 1 (HAM-D) - 1 (Been Sad or Fatigued) - 1 (Loss of Interest) - 1 (Employment) - 1 (Socioeconomic Status) = 2
+
+3. **Justification:** The risk score reflects a combination of factors where age, family health history, and current anxiety diagnosis contribute positively to hospitalization risk, while healthy BMI, low alcohol intake, non-smoking status, and high socioeconomic status mitigate risk. The overall low score indicates that while there are some risk factors present, the protective factors significantly reduce the overall hospitalization risk.

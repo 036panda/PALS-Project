@@ -1,0 +1,84 @@
+## Risk Score: **4.6**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (90) | Very advanced age; strong independent predictor of hospitalization | +3.0 |
+| BMI (32.5) | Obese class I; increases cardiovascular and metabolic risk | +1.0 |
+| Family Health History: Hypertension | Genetic predisposition to cardiovascular disease | +0.5 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis increases hospitalization risk | +0.5 |
+| Smoking: Yes | Direct causal risk for pulmonary, cardiovascular, oncologic events | +0.8 |
+| Weekly Alcohol Intake: 4 drinks | Moderate; marginal risk contribution | +0.2 |
+| HAM-D: 0–6 (Normal) | Contradicts severity of depression diagnosis; reduces psychiatric risk | -0.3 |
+| Been Sad or Fatigued: No | No active depressive symptom burden | -0.2 |
+| Loss of Interest: No | No anhedonia; reduces functional impairment risk | -0.1 |
+| Hours of Sleep: 7.4 | Within healthy range; protective | -0.2 |
+| Water Intake: 44.2 oz | Below recommended ~64 oz; mild dehydration risk, especially at age 90 | +0.2 |
+| Exercises: Yes | Regular physical activity; protective against hospitalization | -0.3 |
+| Skips Breakfast: Yes | Irregular nutrition; mild metabolic risk, compounded by age | +0.1 |
+| Likes Vegetables: No | Poor dietary quality; contributes to chronic disease risk | +0.2 |
+| Socioeconomic Status: Middle | Moderate healthcare access; neutral-to-slight protective | -0.1 |
+| Employment: Retired | Reduced occupational stress; neutral for hospitalization | 0.0 |
+| Allergy: Dust | Environmental allergy; minor respiratory risk | +0.1 |
+| Has Driver's License: No | Potential mobility/access barrier to preventive care | +0.1 |
+| Uses Public Transportation: Never | Combined with no license, may limit healthcare access | +0.1 |
+| Volunteers: Always | Strong social engagement; protective against decline | -0.1 |
+| Helps Elderly: Always | Active social role; indicates functional capacity | -0.1 |
+| Relationship Status: Dating | Social connectedness; protective | -0.1 |
+| Binge Watches TV: Yes | Sedentary behavior; mild risk contribution | +0.1 |
+| Drinks Coffee: Yes | Mild cardiovascular stimulant; negligible at moderate use | 0.0 |
+| Wears Glasses: Yes | Vision impairment; fall risk at age 90 | +0.1 |
+| Can Ride Bicycle: No | Reduced mobility indicator at advanced age | +0.1 |
+| Donated Blood: Yes | Indicates prior health eligibility; mildly protective signal | -0.1 |
+| Registered Organ Donor: Yes | Behavioral indicator; no direct causal risk effect | 0.0 |
+| Annual Charity Donation: Always | Positive psychosocial indicator; negligible direct effect | 0.0 |
+| Recycling Habits: Always | No causal hospitalization relationship | 0.0 |
+| Picks Up Litter: Never | No causal hospitalization relationship | 0.0 |
+| Bilingual: Yes | Cognitive reserve indicator; mildly protective at advanced age | -0.1 |
+| Religious: Yes | Associated with social support and lower mortality risk | -0.1 |
+| Travels: Yes | Indicates functional independence; protective | -0.1 |
+| Race: Hispanic | No independent causal contribution assigned beyond documented factors | 0.0 |
+| Gender: Non-binary | No independent causal contribution assigned beyond documented factors | 0.0 |
+| Sexual Orientation: Heterosexual | No independent causal contribution assigned | 0.0 |
+| Favourite Sport: Hockey | No direct causal hospitalization relationship | 0.0 |
+| Votes: Sometimes | No direct causal relationship | 0.0 |
+| Birthday Month: March | No causal relationship | 0.0 |
+| Handedness: Right | No causal relationship | 0.0 |
+| Likes Kids: Yes | No direct causal relationship | 0.0 |
+| Favourite Meal: Dinner | No direct causal relationship | 0.0 |
+| Favourite Color: Green | No causal relationship | 0.0 |
+| Hair Color: Black | No causal relationship | 0.0 |
+| Best High School Subject: History | No causal relationship | 0.0 |
+| Favourite Music Genre: Pop | No causal relationship | 0.0 |
+| Morning or Night: Night | Circadian preference; negligible direct hospitalization effect | 0.0 |
+| Favourite Super Store: Target | No causal relationship | 0.0 |
+| Pet Preference: Fish | No causal relationship | 0.0 |
+| Favourite Movie Genre: Romance | No causal relationship | 0.0 |
+| Favourite Cuisine: Chinese | No causal relationship | 0.0 |
+| Orders Takeout: Weekly | Mild dietary quality concern; negligible marginal effect | 0.0 |
+| Preferred Grocery Store: Harris Teeter | No causal relationship | 0.0 |
+| Likes Chocolate: No | No causal relationship | 0.0 |
+| Likes Art: Yes | No direct causal relationship | 0.0 |
+| Academic Preference: STEM | No direct causal relationship | 0.0 |
+| Political Ideology: Liberal | No direct causal relationship | 0.0 |
+| Phone: Apple | No causal relationship | 0.0 |
+| Height: 71 inches | Already captured in BMI calculation | 0.0 |
+
+---
+
+### Verification of Sum
+
+| Category | Total |
+|---|---|
+| Positive contributions | +3.0 +1.0 +0.5 +0.5 +0.8 +0.2 +0.2 +0.2 +0.1 +0.1 +0.1 +0.1 +0.1 +0.1 +0.1 = **+7.1** |
+| Negative contributions | -0.3 -0.2 -0.1 -0.2 -0.3 -0.1 -0.1 -0.1 -0.1 -0.1 -0.1 -0.1 -0.1 -0.1 = **-2.5** |
+| **Net Score** | **7.1 − 2.5 = 4.6** ✓ |
+
+---
+
+### Justification
+
+The dominant risk drivers are the patient's very advanced age of 90, obesity (BMI 32.5), active smoking, a current depression diagnosis, and a family history of hypertension, all of which have well-established direct causal pathways to acute hospitalization events. These risks are meaningfully offset by the patient's normal HAM-D score and absence of active depressive symptoms, regular exercise, adequate sleep, strong social engagement (volunteering, relationships, religious participation), and indicators of preserved functional independence such as travel, which collectively reduce the probability of near-term hospitalization.

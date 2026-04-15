@@ -1,0 +1,27 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (34): +1 (increased risk with age)
+   - BMI (24.2): 0 (normal range, no contribution)
+   - Family Health History (nan): 0 (unknown, no contribution)
+   - Current Diagnosis (Bipolar): +2 (mental health condition increases risk)
+   - Race (Hispanic): 0 (no specific contribution assigned)
+   - Gender (Female): 0 (no specific contribution assigned)
+   - Sexual Orientation (Heterosexual): 0 (no specific contribution assigned)
+   - Weekly Alcohol Intake (1): 0 (low intake, no contribution)
+   - Smoking (No): 0 (non-smoker, no contribution)
+   - HAM-D (0–6: Normal / No Depression): 0 (no depression, no contribution)
+   - Been Sad or Fatigued (Yes): +1 (indicates potential mental health strain)
+   - Loss of Interest (No): 0 (no contribution)
+   - Hours of Sleep (8.3): 0 (adequate sleep, no contribution)
+   - Employment (Employed): 0 (employment status neutral)
+   - Socioeconomic Status (Low): +1 (low socioeconomic status increases risk)
+   - Drinks Coffee (No): 0 (no contribution)
+   - Likes Vegetables (No): 0 (no contribution)
+   - Favourite Sport (Soccer): 0 (no contribution)
+   - Votes (Sometimes): 0 (no contribution)
+   - Height in Inches (60): 0 (no contribution)
+
+   **Total Contributions:** +1 (Age) + 0 (BMI) + 0 (Family Health History) + +2 (Bipolar) + 0 (Race) + 0 (Gender) + 0 (Sexual Orientation) + 0 (Alcohol Intake) + 0 (Smoking) + 0 (HAM-D) + +1 (Been Sad or Fatigued) + 0 (Loss of Interest) + 0 (Hours of Sleep) + 0 (Employment) + +1 (Socioeconomic Status) + 0 (Drinks Coffee) + 0 (Likes Vegetables) + 0 (Favourite Sport) + 0 (Votes) + 0 (Height) = 4
+
+3. **Justification:** The risk score of 4 reflects the patient's bipolar diagnosis and low socioeconomic status, both of which are associated with increased hospitalization risk. Additionally, the presence of fatigue suggests potential mental health challenges, contributing further to the overall risk assessment.

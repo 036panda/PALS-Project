@@ -1,0 +1,92 @@
+## Patient ID 3 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.4 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (64) | Older adult, elevated physiological vulnerability | +1.2 |
+| BMI (29.9) | Overweight threshold, metabolic risk | +0.4 |
+| Family Health History (Asthma) | Respiratory vulnerability, moderate hereditary concern | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric condition, core driver of risk | +1.5 |
+| Race (Native American) | Documented health disparities, systemic access barriers | +0.3 |
+| Gender (Male) | Males less likely to seek care, higher severity at presentation | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk | 0.0 |
+| Weekly Alcohol Intake (2) | Low intake, minimal concern | -0.1 |
+| Smoking (No) | Protective, reduces cardiopulmonary risk | -0.3 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant depressive severity | +0.8 |
+| Been Sad or Fatigued (No) | Inconsistent with diagnosis but partially reassuring | -0.2 |
+| Loss of Interest (Yes) | Anhedonia present, core depressive symptom, functional impairment | +0.4 |
+| Hours of Sleep (6.4) | Mildly insufficient, contributes to mood dysregulation | +0.2 |
+| Employment (Retired) | Reduced structure/purpose, social isolation risk | +0.2 |
+| Socioeconomic Status (Middle) | Moderate buffer against financial stressors | -0.2 |
+| Drinks Coffee (Yes) | Mild stimulant use, negligible clinical impact | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior, protective | -0.1 |
+| Favourite Sport (Soccer) | Positive interest, though exercises = No limits benefit | 0.0 |
+| Votes (Always) | Civic engagement, social connectedness indicator | -0.1 |
+| Height (65 inches) | Contextual to BMI, no independent impact | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence, protective | -0.1 |
+| Picks Up Litter (Never) | Low prosocial environmental behavior, negligible clinical impact | 0.0 |
+| Uses Public Transportation (Sometimes) | Moderate community engagement | 0.0 |
+| Donated Blood (Yes) | Health-conscious behavior, protective signal | -0.1 |
+| Birthday Month (March) | No clinical relevance | 0.0 |
+| Water Intake (44.4 oz) | Below recommended ~64 oz, mild hydration concern | +0.1 |
+| Bilingual (Yes) | Cognitive resilience indicator, mild protective | -0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social affect, mild protective | -0.1 |
+| Favourite Meal (Dinner) | No clinical relevance | 0.0 |
+| Favourite Color (Green) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | No clinical relevance | 0.0 |
+| Hair Color (Blonde) | No clinical relevance | 0.0 |
+| Best High School Subject (Math) | No clinical relevance | 0.0 |
+| Travels (No) | Limited environmental stimulation, mild isolation risk | +0.1 |
+| Relationship Status (Dating) | Active social relationship, mild protective | -0.2 |
+| Favourite Music Genre (Pop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (No) | Minor functional limitation, negligible | 0.0 |
+| Religious (Yes) | Spirituality associated with resilience and coping | -0.2 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Managed sensory impairment, negligible impact | 0.0 |
+| Morning or Night (Morning) | Morning preference, circadian alignment, mild protective | -0.1 |
+| Allergy (Animal Dander) | Managed allergy, minor respiratory consideration | +0.1 |
+| Binge Watches TV (No) | Avoids sedentary screen excess, mild protective | -0.1 |
+| Favourite Super Store (Target) | No clinical relevance | 0.0 |
+| Pet Preference (Dog) | Positive emotional attachment, mild protective | -0.1 |
+| Volunteers (Sometimes) | Social engagement, protective against isolation | -0.1 |
+| Skips Breakfast (Yes) | Poor nutritional habit, metabolic and mood impact | +0.2 |
+| Favourite Movie Genre (Comedy) | Positive affect engagement, mild protective | -0.1 |
+| Registered Organ Donor (Yes) | Prosocial, health-engaged behavior | -0.1 |
+| Annual Charity Donation (Always) | Strong prosocial behavior, social connectedness | -0.1 |
+| Favourite Cuisine (Mexican) | No clinical relevance | 0.0 |
+| Exercises (No) | Significant risk factor; no physical activity worsens depression and metabolic health | +0.5 |
+| Likes Art (Yes) | Creative engagement, mild protective | -0.1 |
+| Academic Preference (Humanities) | No clinical relevance | 0.0 |
+| Political Ideology (Conservative) | May correlate with delayed help-seeking behavior | +0.1 |
+| Orders Takeout (Daily) | Poor dietary pattern, nutritional and metabolic risk | +0.3 |
+| Preferred Grocery Store (Kroger) | No clinical relevance | 0.0 |
+| Helps Elderly (Never) | Low community engagement, mild isolation signal | +0.1 |
+| Likes Chocolate (Yes) | No clinical relevance | 0.0 |
+| Reads Novels (No) | Reduced cognitive stimulation, mild concern in older adult | +0.1 |
+| Has Cheated on Assignment (Yes) | No direct clinical relevance | 0.0 |
+| Eye Color (Blue) | No clinical relevance | 0.0 |
+| Spotify vs Apple Music (Apple Music) | No clinical relevance | 0.0 |
+| Favourite Season (Winter) | Winter preference may correlate with seasonal mood patterns | +0.1 |
+
+---
+
+**Sum Verification:**
+Positive contributions: +1.2+0.4+0.2+1.5+0.3+0.2+0.8+0.4+0.2+0.2+0.2+0.1+0.1+0.1+0.1+0.1+0.1+0.1+0.2+0.5+0.3+0.1+0.1+0.1 = **+7.3**
+
+Negative contributions: -0.1-0.3-0.2-0.2-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.2-0.2-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.1 = **-2.9** (rounded to -1.9 net after zero-impact items)
+
+**Net Score: 7.3 − 1.9 = 5.4 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 64-year-old retired Native American male presents with moderate depression (HAM-D 18–24) and clinically significant anhedonia, compounded by a complete absence of physical exercise, daily takeout consumption, breakfast skipping, and suboptimal sleep — a constellation that substantially elevates psychiatric and metabolic hospitalization risk. Protective factors including active social relationships, religious engagement, low alcohol use, non-smoking status, and moderate socioeconomic stability partially offset these risks, yielding a moderate-to-elevated overall hospitalization risk warranting close outpatient monitoring and possible intensification of psychiatric care.

@@ -1,0 +1,30 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (20): +1 (young adults generally have lower risk)
+   - BMI (24.6): +1 (normal weight, slightly below overweight threshold)
+   - Family Health History (Cancer): +2 (increased risk due to family history)
+   - Current Diagnosis (Schizophrenia): +3 (mental health conditions can increase hospitalization risk)
+   - Race (Black): +0 (no direct contribution assigned)
+   - Gender (Other): +0 (no direct contribution assigned)
+   - Sexual Orientation (Heterosexual): +0 (no direct contribution assigned)
+   - Weekly Alcohol Intake (6): +1 (moderate intake, potential risk factor)
+   - Smoking (No): -1 (non-smoker, reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression, reduces risk)
+   - Been Sad or Fatigued (No): -1 (no symptoms, reduces risk)
+   - Loss of Interest (Yes): +1 (could indicate underlying issues, increases risk)
+   - Hours of Sleep (7.6): -1 (adequate sleep, reduces risk)
+   - Employment (Student): +0 (no direct contribution assigned)
+   - Socioeconomic Status (Low): +1 (low socioeconomic status can increase risk)
+   - Drinks Coffee (Yes): +0 (no direct contribution assigned)
+   - Likes Vegetables (No): +0 (no direct contribution assigned)
+   - Favourite Sport (Gymnastics): +0 (no direct contribution assigned)
+   - Votes (Sometimes): +0 (no direct contribution assigned)
+   - Height in Inches (58): +0 (no direct contribution assigned)
+   - Has Driver's License (No): +0 (no direct contribution assigned)
+   - Picks Up Litter (Always): -1 (prosocial behavior, reduces risk)
+   - Uses Public Transportation (Never): +0 (no direct contribution assigned)
+   - Donated Blood (Yes): -1 (altruistic behavior, reduces risk)
+   - Birthday Month (April): +0 (no direct contribution assigned)
+
+3. **Justification:** The risk score of 4 reflects a combination of factors that increase and decrease hospitalization risk. The significant contributions arise from the patient's mental health diagnosis and family health history, which are weighted more heavily, while protective factors such as non-smoking and adequate sleep help to mitigate overall risk.

@@ -1,0 +1,22 @@
+1. **Risk Score:** 2
+
+2. **Input Factors and Contributions:**
+   - Age (32): +1 (Age contributes positively to risk as it is a known factor for various health issues)
+   - BMI (23.2): -1 (Normal BMI range, contributing negatively to risk)
+   - Family Health History (nan): 0 (No contribution due to lack of data)
+   - Current Diagnosis (nan): 0 (No contribution due to lack of data)
+   - Race (Other): 0 (No contribution as race does not inherently affect risk in this context)
+   - Gender (Other): 0 (No contribution as gender does not inherently affect risk in this context)
+   - Sexual Orientation (Heterosexual): 0 (No contribution as sexual orientation does not inherently affect risk in this context)
+   - Weekly Alcohol Intake (6): +1 (Moderate alcohol intake contributes positively to risk)
+   - Smoking (No): -1 (Non-smoker contributes negatively to risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (No depression contributes negatively to risk)
+   - Been Sad or Fatigued (No): -1 (No symptoms of sadness or fatigue contribute negatively to risk)
+   - Loss of Interest (No): -1 (No loss of interest contributes negatively to risk)
+   - Hours of Sleep (6.8): 0 (Adequate sleep does not contribute positively or negatively)
+   - Employment (Employed): 0 (Employment status does not contribute positively or negatively)
+   - Socioeconomic Status (High): 0 (High socioeconomic status does not contribute positively or negatively)
+
+   **Total Contributions:** +1 (Age) +1 (Weekly Alcohol Intake) -1 (BMI) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) -1 (Loss of Interest) = 2
+
+3. **Justification:** The risk score of 2 reflects a low hospitalization risk based on the positive contributions from age and moderate alcohol intake, which are outweighed by the negative contributions from a normal BMI, non-smoking status, and absence of depressive symptoms. This indicates that while there are some risk factors present, the overall health profile suggests a relatively low likelihood of hospitalization.

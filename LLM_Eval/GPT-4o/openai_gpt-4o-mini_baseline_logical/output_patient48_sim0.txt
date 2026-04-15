@@ -1,0 +1,22 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (46): +1 (increased risk with age)
+   - BMI (28.3): +1 (overweight category contributes to risk)
+   - Family Health History (Heart Disease): +2 (strong genetic risk factor)
+   - Current Diagnosis (Bipolar): +1 (mental health conditions can increase hospitalization risk)
+   - Race (Native American): +0 (no direct contribution assigned)
+   - Gender (Non-binary): +0 (no direct contribution assigned)
+   - Sexual Orientation (Heterosexual): +0 (no direct contribution assigned)
+   - Weekly Alcohol Intake (2): +0 (low intake, no significant risk)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue reduces risk)
+   - Loss of Interest (Yes): +1 (can indicate risk for hospitalization)
+   - Hours of Sleep (7.0): +0 (adequate sleep, no significant risk)
+   - Employment (Employed): -1 (employment generally reduces risk)
+   - Socioeconomic Status (Middle): +0 (no direct contribution assigned)
+
+   **Total Contributions:** +1 +1 +2 +1 +0 +0 +0 +0 -1 -1 -1 +1 +0 -1 +0 = 4
+
+3. **Justification:** The risk score of 4 reflects a moderate hospitalization risk based on the combination of age, BMI, family health history, and current diagnosis, while factors such as non-smoking status, absence of depression, and employment status mitigate some risk. The contributions were assigned based on established causal relationships between these factors and hospitalization risk.

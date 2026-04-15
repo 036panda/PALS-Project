@@ -1,0 +1,32 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (22): -1 (younger age generally correlates with lower risk)
+   - BMI (21.9): -1 (normal BMI range correlates with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (nan): 0 (no current diagnosis, neutral impact)
+   - Race (White): 0 (no significant impact on risk score)
+   - Gender (Non-binary): 0 (no significant impact on risk score)
+   - Sexual Orientation (Heterosexual): 0 (no significant impact on risk score)
+   - Weekly Alcohol Intake (3): +1 (moderate alcohol intake may slightly increase risk)
+   - Smoking (No): -2 (non-smoker significantly reduces risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can increase risk)
+   - Been Sad or Fatigued (No): -1 (absence of sadness or fatigue reduces risk)
+   - Loss of Interest (No): -1 (absence of loss of interest reduces risk)
+   - Hours of Sleep (9.6): -1 (adequate sleep is protective)
+   - Employment (Employed): -1 (employment generally correlates with lower risk)
+   - Socioeconomic Status (Middle): 0 (neutral impact)
+   - Drinks Coffee (No): 0 (neutral impact)
+   - Likes Vegetables (Yes): -1 (healthy diet is protective)
+   - Favourite Sport (Soccer): 0 (neutral impact)
+   - Votes (Always): 0 (neutral impact)
+   - Height in Inches (69): 0 (neutral impact)
+   - Has Driver's License (Yes): 0 (neutral impact)
+   - Picks Up Litter (Sometimes): 0 (neutral impact)
+   - Uses Public Transportation (Never): 0 (neutral impact)
+   - Donated Blood (Yes): -1 (volunteering behavior is protective)
+   - Birthday Month (October): 0 (neutral impact)
+
+   **Total Contributions:** -1 - 1 + 2 + 0 + 0 + 0 + 0 + 1 - 2 + 1 - 1 - 1 - 1 - 1 + 0 + 0 + 0 + 0 + 0 + 0 - 1 + 0 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of protective factors, such as a normal BMI, non-smoking status, and adequate sleep, which lower the risk, and risk factors like family health history of cancer and mild depression, which increase it. The overall score indicates a low to moderate hospitalization risk based on the assessed factors.

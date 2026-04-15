@@ -1,0 +1,90 @@
+## Hospitalization Risk Score
+
+**Risk Score: 3.8**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated age increases physiological vulnerability | +1.50 |
+| BMI (25.8) | Marginally above normal range (25–25.8), minimal risk | +0.10 |
+| Family Health History: Asthma | Genetic/environmental predisposition to respiratory illness | +0.30 |
+| Current Diagnosis: None (nan) | No active diagnosed condition | −0.50 |
+| Race: Black | Documented systemic health disparities increase risk | +0.20 |
+| Gender: Female | Statistically lower cardiovascular risk vs. male at this age | −0.10 |
+| Weekly Alcohol Intake: 1 | Minimal alcohol consumption, negligible risk | +0.05 |
+| Smoking: No | No smoking, significant protective factor | −0.50 |
+| HAM-D: Mild Depression (7–17) | Mild depression causally linked to immune suppression and health neglect | +0.40 |
+| Been Sad or Fatigued: No | Contradicts/mitigates depression severity signal | −0.10 |
+| Loss of Interest: No | Further mitigates depression severity | −0.10 |
+| Hours of Sleep: 5.4 | Below recommended 7–9 hours; sleep deprivation increases hospitalization risk | +0.50 |
+| Employment: Employed | Structured routine, insurance access, protective | −0.20 |
+| Socioeconomic Status: High | Strong access to healthcare, protective | −0.40 |
+| Drinks Coffee: No | Neutral to marginally positive (no caffeine-related cardiovascular stress) | −0.05 |
+| Likes Vegetables: Yes | Healthy dietary habit, protective | −0.15 |
+| Favourite Sport: Hockey | Active sport engagement, protective | −0.10 |
+| Votes: Sometimes | Moderate civic engagement, weak proxy for health engagement | 0.00 |
+| Height: 62 inches | Contextual to BMI calculation, already captured | 0.00 |
+| Has Driver's License: Yes | Mobility/access to care, protective | −0.05 |
+| Picks Up Litter: Sometimes | Weak positive civic behavior, negligible health relevance | 0.00 |
+| Uses Public Transportation: Sometimes | Mild exposure to pathogens in shared spaces | +0.05 |
+| Donated Blood: No | No direct causal health impact | 0.00 |
+| Birthday Month: November | No causal health relevance | 0.00 |
+| Water Intake: 46.1 oz | Below recommended ~64 oz/day; mild dehydration risk | +0.15 |
+| Bilingual: No | No causal health relevance | 0.00 |
+| Handedness: Right | No causal health relevance | 0.00 |
+| Likes Kids: Yes | Positive emotional/social wellbeing signal | −0.05 |
+| Favourite Meal: Lunch | No direct causal health relevance | 0.00 |
+| Favourite Color: Yellow | No causal health relevance | 0.00 |
+| Recycling Habits: Sometimes | No direct causal health relevance | 0.00 |
+| Hair Color: Black | No causal health relevance | 0.00 |
+| Best Highschool Subject: Science | Proxy for health literacy, mildly protective | −0.05 |
+| Travels: Yes | Exposure to pathogens, mild risk increase | +0.10 |
+| Relationship Status: Single | Reduced social support, mild risk increase | +0.15 |
+| Favourite Music Genre: HipHop | No causal health relevance | 0.00 |
+| Can Ride Bicycle: Yes | Indicator of physical capability, protective | −0.05 |
+| Religious: No | Slightly reduced social support network | +0.05 |
+| Phone: Apple | No causal health relevance | 0.00 |
+| Wears Glasses: Yes | Indicates managed sensory condition, negligible risk | +0.05 |
+| Morning or Night: Morning | Morning chronotype associated with better metabolic health | −0.05 |
+| Allergy: Dust | Respiratory allergy, interacts with family asthma history | +0.20 |
+| Binge Watches TV: Yes | Sedentary behavior, mild risk increase | +0.10 |
+| Favourite Superstore: Walmart | No direct causal health relevance | 0.00 |
+| Pet Preference: Fish | Low-interaction pet, minimal stress-reduction benefit | 0.00 |
+| Volunteers: Never | Reduced social engagement, mild risk | +0.05 |
+| Skips Breakfast: Yes | Associated with poor metabolic regulation, mild risk | +0.15 |
+| Favourite Movie Genre: Comedy | Positive affect association, mildly protective | −0.05 |
+| Registered Organ Donor: Yes | Proxy for health-conscious attitude, mildly protective | −0.05 |
+| Annual Charity Donation: Sometimes | Mild prosocial behavior, negligible protective signal | 0.00 |
+| Favourite Cuisine: Indian | No direct causal health relevance | 0.00 |
+| Exercises: Yes | Strong protective factor against hospitalization | −0.40 |
+| Likes Art: Yes | Positive mental health engagement, mildly protective | −0.05 |
+| Academic Preference: STEM | Proxy for analytical health literacy, mildly protective | −0.05 |
+| Political Ideology: Liberal | No direct causal health relevance | 0.00 |
+| Orders Takeout: Monthly | Infrequent, minimal dietary risk | +0.05 |
+| Preferred Grocery Store: Harris Teeter | No direct causal health relevance | 0.00 |
+| Helps Elderly: Sometimes | Mild social engagement, protective | −0.05 |
+| Likes Chocolate: No | No significant causal health relevance | 0.00 |
+| Reads Novels: Yes | Cognitive engagement, stress reduction, mildly protective | −0.05 |
+| Has Cheated on Assignment: No | No causal health relevance | 0.00 |
+| Eye Color: Green | No causal health relevance | 0.00 |
+| Spotify vs Apple Music: Spotify | No causal health relevance | 0.00 |
+| Favourite Season: Summer | No direct causal health relevance | 0.00 |
+
+---
+
+### Verification of Sum
+
+| Category | Sum |
+|---|---|
+| Positive contributions | +3.80 (Age +1.50, Sleep +0.50, HAM-D +0.40, Family Hx +0.30, Dust Allergy +0.20, Race +0.20, Water +0.15, Single +0.15, Skips Breakfast +0.15, BMI +0.10, Binge TV +0.10, Travels +0.10, Alcohol +0.05, Public Transit +0.05, Religious No +0.05, Glasses +0.05, Volunteers Never +0.05, Takeout +0.05) |
+| Negative contributions | −3.80 (No Diagnosis −0.50, No Smoking −0.50, High SES −0.40, Exercises −0.40, HAM-D mitigators −0.20, Vegetables −0.15, Employment −0.20, No Coffee −0.05, Sport −0.10, Driver's License −0.05, Likes Kids −0.05, Science Subject −0.05, Bicycle −0.05, Morning −0.05, Comedy −0.05, Organ Donor −0.05, Art −0.05, STEM −0.05, Helps Elderly −0.05, Reads −0.05, Female −0.10) |
+| **Total** | **3.80** |
+
+---
+
+### Justification
+
+The score of **3.8/10** reflects a moderate-low hospitalization risk driven primarily by the patient's age of 61, insufficient sleep (5.4 hours), mild depression (HAM-D 7–17), a dust allergy compounded by a family history of asthma, and being single with limited social support — all of which have established causal pathways to adverse health outcomes and hospitalization. These risks are substantially offset by strong protective factors including high socioeconomic status (ensuring healthcare access), regular exercise, no smoking, no active diagnosis, and healthy dietary habits, resulting in a net risk score well below the midpoint of the scale.

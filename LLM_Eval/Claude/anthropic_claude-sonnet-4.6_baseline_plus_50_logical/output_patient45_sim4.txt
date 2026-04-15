@@ -1,0 +1,85 @@
+## Risk Score: **3.2**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (41) | Moderate adult age, low clinical risk elevation | +0.3 |
+| BMI (26.5) | Slightly overweight, minimal risk | +0.1 |
+| Family Health History: Diabetes | Indirect metabolic risk, not directly psychiatric | +0.1 |
+| Current Diagnosis: Depression | Active diagnosis, primary driver of hospitalization risk | +1.5 |
+| Race: White | No directional causal contribution | 0.0 |
+| Gender: Male | Males less likely to seek care, slight undertreatment risk | +0.1 |
+| Sexual Orientation: Heterosexual | No elevated causal risk | 0.0 |
+| Weekly Alcohol Intake: 1 | Minimal, negligible risk | 0.0 |
+| Smoking: No | Protective, no added risk | -0.1 |
+| HAM-D Score: 0–6 (Normal/No Depression) | Contradicts diagnosis severity; strongly mitigates hospitalization risk | -1.2 |
+| Been Sad or Fatigued: No | Absence of core depressive symptom, mitigates risk | -0.3 |
+| Loss of Interest: Yes | Anhedonia present, supports depressive symptomatology | +0.3 |
+| Hours of Sleep: 4.7 | Clinically significant sleep deprivation, risk factor for deterioration | +0.5 |
+| Employment: Employed | Structural stability, protective | -0.2 |
+| Socioeconomic Status: High | Access to care and resources, protective | -0.3 |
+| Drinks Coffee: No | No causal contribution | 0.0 |
+| Likes Vegetables: No | Minor nutritional concern, negligible | +0.0 |
+| Favourite Sport: Hockey | No causal contribution | 0.0 |
+| Votes: Sometimes | No causal contribution | 0.0 |
+| Height: 74 inches | No causal contribution | 0.0 |
+| Has Driver's License: Yes | Mobility/independence, mildly protective | 0.0 |
+| Picks Up Litter: Always | No causal contribution | 0.0 |
+| Uses Public Transportation: Sometimes | No causal contribution | 0.0 |
+| Donated Blood: Yes | No causal contribution | 0.0 |
+| Birthday Month: December | No causal contribution | 0.0 |
+| Water Intake: 44.8 oz | Below recommended ~64 oz, minor physiological concern | +0.1 |
+| Bilingual: Yes | No causal contribution | 0.0 |
+| Handedness: Right | No causal contribution | 0.0 |
+| Likes Kids: Yes | No causal contribution | 0.0 |
+| Favourite Meal: Lunch | No causal contribution | 0.0 |
+| Favourite Color: Orange | No causal contribution | 0.0 |
+| Recycling Habits: Sometimes | No causal contribution | 0.0 |
+| Hair Color: Blonde | No causal contribution | 0.0 |
+| Best High School Subject: Math | No causal contribution | 0.0 |
+| Travels: No | Mild social restriction, minor concern | +0.1 |
+| Relationship Status: Dating | Some social support present, mildly protective | -0.1 |
+| Favourite Music Genre: Hip Hop | No causal contribution | 0.0 |
+| Can Ride Bicycle: No | No causal contribution | 0.0 |
+| Religious: No | Absence of faith-based social support, minor risk | +0.1 |
+| Phone: Apple | No causal contribution | 0.0 |
+| Wears Glasses: Yes | No causal contribution | 0.0 |
+| Morning or Night: Night | Night chronotype associated with mood disorders, minor risk | +0.1 |
+| Allergy: Penicillin | Clinical relevance for treatment planning, minor flag | +0.1 |
+| Binge Watches TV: Yes | Sedentary behavior, minor risk correlate | +0.1 |
+| Favourite Superstore: Target | No causal contribution | 0.0 |
+| Pet Preference: Guinea Pig | No causal contribution | 0.0 |
+| Volunteers: Sometimes | Mild social engagement, mildly protective | -0.1 |
+| Skips Breakfast: Yes | Poor nutritional behavior, minor risk | +0.1 |
+| Favourite Movie Genre: Science Fiction | No causal contribution | 0.0 |
+| Registered Organ Donor: Yes | No causal contribution | 0.0 |
+| Annual Charity Donation: Never | Mild indicator of social disengagement | +0.1 |
+| Favourite Cuisine: Italian | No causal contribution | 0.0 |
+| Exercises: No | Absence of exercise worsens depression outcomes, risk factor | +0.4 |
+| Likes Art: Yes | Creative engagement, mildly protective | -0.1 |
+| Academic Preference: STEM | No causal contribution | 0.0 |
+| Political Ideology: Moderate | No causal contribution | 0.0 |
+| Orders Takeout: Weekly | Mild nutritional concern, sedentary lifestyle indicator | +0.1 |
+| Preferred Grocery Store: Whole Foods | Health-conscious behavior, mildly protective | -0.1 |
+| Helps Elderly: Never | Social disengagement indicator, minor | +0.1 |
+| Likes Chocolate: No | No causal contribution | 0.0 |
+| Reads Novels: Yes | Cognitive engagement, mildly protective | -0.1 |
+| Has Cheated on Assignment: Yes | No direct causal contribution to hospitalization | 0.0 |
+| Eye Color: Hazel | No causal contribution | 0.0 |
+| Spotify vs Apple Music: Spotify | No causal contribution | 0.0 |
+| Favourite Season: Winter | No causal contribution | 0.0 |
+
+---
+
+### Verification (Sum of All Contributions)
+
++0.3 +0.1 +0.1 +1.5 +0.1 −0.1 −1.2 −0.3 +0.3 +0.5 −0.2 −0.3 +0.1 +0.1 +0.1 +0.1 −0.1 +0.1 +0.1 +0.1 +0.1 −0.1 +0.1 +0.4 −0.1 +0.1 −0.1 +0.1 +0.1 −0.1 −0.1 = **3.2** ✓
+
+---
+
+### Justification
+
+The score is primarily driven by the active depression diagnosis (+1.5) and clinically significant sleep deprivation at 4.7 hours (+0.5), both of which are causally linked to psychiatric deterioration and hospitalization risk, substantially offset by a HAM-D score in the normal range (−1.2), high socioeconomic status (−0.3), and employment stability (−0.2), which provide meaningful protective buffering. Secondary contributors such as anhedonia, sedentary lifestyle, absence of exercise, and social disengagement modestly elevate risk, while social engagement factors and absence of substance use provide minor mitigation.

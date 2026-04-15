@@ -1,0 +1,37 @@
+1. **Risk Score:** 6
+
+2. **Input Factors and Contributions:**
+   - Age (22): +1 (young adults have lower risk)
+   - BMI (27.1): +2 (overweight category increases risk)
+   - Family Health History (Heart Disease): +2 (positive family history increases risk)
+   - Current Diagnosis (Schizophrenia): +3 (mental health conditions increase hospitalization risk)
+   - Race (Hispanic): +0 (no specific contribution assigned)
+   - Gender (Non-binary): +0 (no specific contribution assigned)
+   - Sexual Orientation (Bisexual): +0 (no specific contribution assigned)
+   - Weekly Alcohol Intake (2): +0 (moderate intake, no significant risk)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression increases risk)
+   - Been Sad or Fatigued: +1 (indicates potential mental health issues)
+   - Loss of Interest: +1 (indicates potential mental health issues)
+   - Hours of Sleep (8.9): -1 (adequate sleep reduces risk)
+   - Employment (Student): +0 (no specific contribution assigned)
+   - Socioeconomic Status (Middle): +0 (no specific contribution assigned)
+   - Drinks Coffee: +0 (no specific contribution assigned)
+   - Likes Vegetables: -1 (poor diet may increase risk)
+   - Favourite Sport (Basketball): +0 (no specific contribution assigned)
+   - Votes (Always): +0 (no specific contribution assigned)
+   - Height in Inches (74): +0 (no specific contribution assigned)
+   - Has Driver's License (No): +0 (no specific contribution assigned)
+   - Picks Up Litter (Always): +0 (no specific contribution assigned)
+   - Uses Public Transportation (Sometimes): +0 (no specific contribution assigned)
+   - Donated Blood (No): +0 (no specific contribution assigned)
+   - Birthday Month (February): +0 (no specific contribution assigned)
+   - Water Intake (oz) (43.4): +0 (no specific contribution assigned)
+   - Bilingual (Yes): +0 (no specific contribution assigned)
+   - Handedness (Right): +0 (no specific contribution assigned)
+   - Likes Kids (Yes): +0 (no specific contribution assigned)
+   - Favourite Meal (Breakfast): +0 (no specific contribution assigned)
+
+   **Total Contributions:** 1 (Age) + 2 (BMI) + 2 (Family Health History) + 3 (Current Diagnosis) + 1 (HAM-D) + 1 (Been Sad or Fatigued) + 1 (Loss of Interest) - 1 (Smoking) - 1 (Hours of Sleep) - 1 (Likes Vegetables) = 6
+
+3. **Justification:** The risk score of 6 reflects a combination of factors that increase hospitalization risk, particularly the presence of schizophrenia and a family history of heart disease, while some protective factors, such as non-smoking and adequate sleep, slightly mitigate the overall risk. The contributions are based on established associations between these factors and health outcomes, particularly in the context of mental health and physical health risks.

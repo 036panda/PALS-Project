@@ -1,0 +1,92 @@
+# Hospitalization Risk Evaluation — Patient ID: 18
+
+---
+
+## 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+## 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact |
+|---|---|---|
+| Age (74) | Older age significantly increases hospitalization risk | +2.2 |
+| BMI (29.4) | Overweight range, mild cardiovascular/metabolic risk | +0.4 |
+| Family Health History (Cancer) | Elevated genetic/surveillance risk | +0.3 |
+| Current Diagnosis (None/NaN) | No active diagnosis reduces immediate risk | −0.5 |
+| Race (White) | Neutral to slightly elevated cancer screening risk | +0.1 |
+| Gender (Male) | Males statistically have higher hospitalization rates | +0.3 |
+| Sexual Orientation (Heterosexual) | No significant risk modifier | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/cardiovascular concern | +0.2 |
+| Smoking (No) | Protective factor, significantly reduces pulmonary/cardiac risk | −0.6 |
+| HAM-D (0–6, Normal) | No depression, protective for mental health hospitalization | −0.3 |
+| Been Sad or Fatigued (No) | Reinforces absence of depressive symptoms | −0.1 |
+| Loss of Interest (No) | Further confirms mental wellness | −0.1 |
+| Hours of Sleep (7.0) | Healthy sleep duration, protective | −0.2 |
+| Employment (Retired) | Reduced occupational stress; more time for health management | −0.1 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare | 0.0 |
+| Drinks Coffee (No) | Neutral; minor missed antioxidant benefit | +0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit, protective | −0.2 |
+| Favourite Sport (Hockey) | Interest in sport suggests some activity orientation | −0.1 |
+| Votes (Never) | Mild indicator of social disengagement | +0.1 |
+| Height in Inches (58) | Short stature; contextualizes BMI slightly higher functionally | +0.1 |
+| Has Driver's License (Yes) | Indicates functional independence | −0.1 |
+| Picks Up Litter (Sometimes) | Mild civic engagement, neutral | 0.0 |
+| Uses Public Transportation (Sometimes) | Mild physical activity implied | −0.1 |
+| Donated Blood (Yes) | Suggests reasonable baseline health | −0.1 |
+| Birthday Month (January) | No clinically significant impact | 0.0 |
+| Water Intake (44.7 oz) | Below recommended ~64 oz; mild dehydration risk, especially at 74 | +0.3 |
+| Bilingual (Yes) | Associated with cognitive resilience | −0.1 |
+| Handedness (Right) | No clinical impact | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness | −0.1 |
+| Favourite Meal (Dinner) | No significant clinical impact | 0.0 |
+| Favourite Color (Red) | No clinical impact | 0.0 |
+| Recycling Habits (Never) | Mild indicator of health-conscious behavior absence | +0.1 |
+| Hair Color (Black) | No clinical impact | 0.0 |
+| Best High School Subject (English) | No direct clinical impact | 0.0 |
+| Travels (Yes) | Exposure risk (infections, DVT at age 74) | +0.2 |
+| Relationship Status (Single) | Lack of social support increases risk at older age | +0.3 |
+| Favourite Music Genre (Pop) | No clinical impact | 0.0 |
+| Can Ride Bicycle (No) | Suggests possible physical limitation or deconditioning | +0.2 |
+| Religious (Yes) | Associated with better mental health outcomes | −0.1 |
+| Phone (Android) | No clinical impact | 0.0 |
+| Wears Glasses (Yes) | Indicates sensory decline; fall risk at 74 | +0.2 |
+| Morning or Night (Morning) | Morning preference associated with better metabolic health | −0.1 |
+| Allergy (Tree Nuts) | Anaphylaxis risk; potential ER/hospitalization trigger | +0.3 |
+| Binge-Watches TV (Yes) | Sedentary behavior, increases cardiometabolic risk | +0.2 |
+| Favourite Super Store (Target) | No clinical impact | 0.0 |
+| Pet Preference (Bird) | Low-demand pet; mild companionship benefit | −0.1 |
+| Volunteers (Sometimes) | Mild social engagement, protective | −0.1 |
+| Skips Breakfast (Yes) | Poor metabolic habit, blood sugar dysregulation risk | +0.2 |
+| Favourite Movie Genre (Sci-Fi) | No clinical impact | 0.0 |
+| Registered Organ Donor (No) | No direct clinical impact | 0.0 |
+| Annual Charity Donation (Never) | Mild indicator of social disengagement | +0.1 |
+| Favourite Cuisine (American) | Often high sodium/fat; mild dietary risk | +0.2 |
+| Exercises (No) | Significant risk factor; deconditioning, cardiovascular risk at 74 | +0.6 |
+| Likes Art (Yes) | Cognitive engagement, mildly protective | −0.1 |
+| Academic Preference (Humanities) | No direct clinical impact | 0.0 |
+| Political Ideology (Apolitical) | Mild social disengagement signal | +0.1 |
+| Orders Takeout (Monthly) | Moderate; occasional processed food exposure | +0.1 |
+| Preferred Grocery Store (Giant) | No clinical impact | 0.0 |
+| Helps Elderly (Sometimes) | Positive social behavior, mild protective effect | −0.1 |
+| Likes Chocolate (Yes) | Neutral to mildly positive (dark chocolate antioxidants) | 0.0 |
+| Reads Novels (Yes) | Cognitive engagement, protective against cognitive decline | −0.1 |
+| Has Cheated on Assignment (Yes) | No direct clinical impact | 0.0 |
+| Eye Color (Hazel) | No clinical impact | 0.0 |
+| Spotify vs Apple Music (Apple Music) | No clinical impact | 0.0 |
+| Favourite Season (Spring) | No clinical impact | 0.0 |
+
+---
+
+**Sum Verification:**
+Positive impacts: +2.2+0.4+0.3+0.1+0.3+0.2+0.1+0.1+0.1+0.1+0.3+0.1+0.2+0.3+0.2+0.2+0.3+0.2+0.2+0.2+0.6+0.1+0.1+0.1+0.1 = **+7.6**
+
+Negative impacts: −0.5−0.6−0.3−0.1−0.1−0.2−0.1−0.2−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1 = **−3.0**
+
+**Net Score: 7.6 − 3.0 = 4.6 ✓**
+
+---
+
+## 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a moderate hospitalization risk driven primarily by advanced age, physical inactivity, sedentary behavior (binge-watching TV, inability to ride a bicycle), suboptimal hydration, breakfast skipping, a family history of cancer, and social isolation as a single individual without robust support networks. Protective factors — including no current diagnosis, no smoking, normal mood screening, adequate sleep, vegetable consumption, and preserved cognitive engagement — meaningfully offset these risks, yielding an overall moderate risk profile that warrants proactive preventive care and lifestyle counseling.

@@ -1,0 +1,46 @@
+## Hospitalization Risk Score
+
+**Risk Score: 4.7**
+
+---
+
+### Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases physiological vulnerability | +1.5 |
+| BMI (33.4) | Obese class I; elevates cardiometabolic risk | +1.2 |
+| Current Diagnosis: Depression | Active mental health condition increases hospitalization risk | +1.0 |
+| HAM-D: Mild Depression (7–17) | Clinically confirmed mild depression severity | +0.4 |
+| Been Sad or Fatigued: Yes | Symptom burden confirms active depressive episode | +0.2 |
+| Loss of Interest: Yes | Anhedonia compounds functional impairment | +0.2 |
+| Socioeconomic Status: Low | Limits access to preventive care and treatment adherence | +0.5 |
+| Hours of Sleep: 6.7 | Slightly below optimal; mild sleep deficit | +0.1 |
+| Skips Breakfast: Yes | Poor nutritional habit; metabolic risk contributor | +0.1 |
+| Water Intake: 44.6 oz | Below recommended ~64 oz; mild dehydration risk | +0.1 |
+| Orders Takeout: Daily | High processed food intake; cardiometabolic risk | +0.2 |
+| No Driver's License | Limits healthcare access, especially in low-SES context | +0.2 |
+| Volunteers: Never | Social isolation indicator; worsens mental health outcomes | +0.1 |
+| Recycling/Civic Engagement: Low | Proxy for disengagement; minor lifestyle signal | +0.05 |
+| Binge-Watches TV: Yes | Sedentary behavior compounds BMI and metabolic risk | +0.1 |
+| Allergy: Shellfish | Minor medical complexity | +0.05 |
+| Family Health History: NaN | Unknown; cannot confer protection, slight uncertainty penalty | +0.1 |
+| Registered Organ Donor: No | Minor proxy for health engagement (negative) | +0.05 |
+| Smoking: No | Protective against respiratory/cardiovascular hospitalization | −0.3 |
+| Weekly Alcohol Intake: 1 | Low alcohol; minimal risk contribution | −0.1 |
+| Exercises: Yes | Physical activity reduces hospitalization risk | −0.3 |
+| Likes Vegetables: Yes | Healthy dietary habit; protective | −0.1 |
+| Drinks Coffee: Yes | Moderate protective association with metabolic health | −0.05 |
+| Uses Public Transportation: Always | Promotes incidental physical activity | −0.05 |
+| Relationship Status: Dating | Social connection; mild protective mental health effect | −0.1 |
+| Travels: Yes | Indicates functional capacity and engagement | −0.1 |
+| Donated Blood: Yes | Proxy for health engagement and screening | −0.05 |
+| Employment: Retired | Structured routine lost, but not unemployed/stressed | 0.00 |
+| Bilingual: No | Neutral | 0.00 |
+| **TOTAL** | | **4.70** |
+
+---
+
+### Justification
+
+The risk score of **4.7** is driven primarily by the convergence of clinically meaningful factors: active mild depression with confirmed symptoms (fatigue, anhedonia), obesity-range BMI, older age (62), and low socioeconomic status that structurally limits healthcare access and treatment adherence. Protective factors—including non-smoking status, regular exercise, low alcohol intake, and social engagement—partially offset these risks but do not overcome the compounding burden of metabolic vulnerability and undertreated mental health conditions.

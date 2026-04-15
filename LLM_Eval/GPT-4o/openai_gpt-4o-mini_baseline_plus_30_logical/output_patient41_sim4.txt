@@ -1,0 +1,30 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (22): -1 (young age generally associated with lower risk)
+   - BMI (21.9): -1 (normal BMI range associated with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (nan): 0 (no current diagnosis, neutral impact)
+   - Weekly Alcohol Intake (3): 0 (moderate intake, neutral impact)
+   - Smoking (No): -2 (non-smoker, significantly lowers risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can increase risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue lowers risk)
+   - Loss of Interest (No): -1 (absence of loss of interest lowers risk)
+   - Hours of Sleep (9.6): -1 (adequate sleep lowers risk)
+   - Employment (Employed): -1 (employment generally lowers risk)
+   - Socioeconomic Status (Middle): 0 (neutral impact)
+   - Drinks Coffee (No): 0 (neutral impact)
+   - Likes Vegetables (Yes): -1 (healthy diet lowers risk)
+   - Relationship Status (Dating): 0 (neutral impact)
+   - Water Intake (45.9 oz): 0 (neutral impact)
+   - Bilingual (Yes): 0 (neutral impact)
+   - Handedness (Left): 0 (neutral impact)
+   - Likes Kids (No): 0 (neutral impact)
+   - Favourite Meal (Breakfast): 0 (neutral impact)
+   - Favourite Color (Orange): 0 (neutral impact)
+   - Recycling Habits (Always): -1 (environmentally conscious behavior lowers risk)
+   - Allergy (Shellfish): 0 (neutral impact)
+   - Binge Watches TV (No): 0 (neutral impact)
+   - Favourite Super Store (Target): 0 (neutral impact)
+
+3. **Justification:** The risk score of 3 reflects a combination of positive and negative contributions from various health and lifestyle factors. The significant positive contribution from family health history of cancer is partially offset by multiple negative contributions from healthy lifestyle choices, such as non-smoking status, adequate sleep, and a balanced diet, resulting in a low overall risk score.

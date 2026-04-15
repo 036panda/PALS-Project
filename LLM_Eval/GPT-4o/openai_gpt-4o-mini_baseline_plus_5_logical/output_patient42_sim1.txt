@@ -1,0 +1,27 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (49): +1 (increased risk with age)
+   - BMI (23.2): 0 (normal range, no contribution)
+   - Family Health History (Asthma): +1 (family history contributes to risk)
+   - Current Diagnosis (Anxiety): +1 (mental health conditions can increase risk)
+   - Race (Hispanic): 0 (no direct contribution assigned)
+   - Gender (Male): +1 (males generally have higher risk)
+   - Sexual Orientation (Heterosexual): 0 (no direct contribution assigned)
+   - Weekly Alcohol Intake (4): 0 (moderate intake, no contribution)
+   - Smoking (No): 0 (non-smoker, no contribution)
+   - HAM-D (0–6: Normal / No Depression): 0 (no depression, no contribution)
+   - Been Sad or Fatigued (No): 0 (no contribution)
+   - Loss of Interest (Yes): +1 (indicates potential mental health issues)
+   - Hours of Sleep (9.4): 0 (adequate sleep, no contribution)
+   - Employment (Employed): 0 (employment status does not contribute)
+   - Socioeconomic Status (High): 0 (high status does not contribute)
+   - Drinks Coffee (Yes): 0 (no contribution)
+   - Likes Vegetables (No): 0 (no contribution)
+   - Favourite Sport (Basketball): 0 (no contribution)
+   - Votes (Sometimes): 0 (no contribution)
+   - Height in Inches (65): 0 (no contribution)
+
+   **Total Contributions:** +1 (Age) +1 (Family Health History) +1 (Current Diagnosis) +1 (Gender) +1 (Loss of Interest) = 5
+
+3. **Justification:** The risk score of 3 reflects the cumulative impact of age, family health history, anxiety diagnosis, male gender, and loss of interest, which are all factors that can contribute to an increased risk of hospitalization. Each factor was assessed based on its known associations with health outcomes, leading to a total score that indicates a moderate risk level.

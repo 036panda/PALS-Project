@@ -1,0 +1,27 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (22): -1 (younger age generally correlates with lower risk)
+   - BMI (21.9): -1 (normal BMI range correlates with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (nan): 0 (no current diagnosis, neutral impact)
+   - Race (White): 0 (no significant impact on risk in this context)
+   - Gender (Non-binary): 0 (no significant impact on risk in this context)
+   - Sexual Orientation (Heterosexual): 0 (no significant impact on risk in this context)
+   - Weekly Alcohol Intake (3): 0 (moderate intake, neutral impact)
+   - Smoking (No): -2 (non-smoker, significantly lowers risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression may increase risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue lowers risk)
+   - Loss of Interest (No): -1 (absence of loss of interest lowers risk)
+   - Hours of Sleep (9.6): -1 (adequate sleep lowers risk)
+   - Employment (Employed): -1 (employment generally lowers risk)
+   - Socioeconomic Status (Middle): 0 (neutral impact)
+   - Drinks Coffee (No): 0 (neutral impact)
+   - Likes Vegetables (Yes): -1 (healthy diet lowers risk)
+   - Favourite Sport (Soccer): -1 (active lifestyle lowers risk)
+   - Votes (Always): 0 (neutral impact)
+   - Height in Inches (69): 0 (no significant impact on risk in this context)
+
+   **Total Contributions:** -1 - 1 + 2 + 0 + 0 + 0 + 0 + 0 + 0 + 1 - 1 - 1 - 1 - 1 - 0 + 0 - 1 - 1 + 0 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of positive and negative contributions based on the patient's health history, lifestyle choices, and psychological state. The presence of a family history of cancer and mild depression increases the risk, while factors such as non-smoking status, adequate sleep, and a healthy lifestyle contribute to a lower overall risk.

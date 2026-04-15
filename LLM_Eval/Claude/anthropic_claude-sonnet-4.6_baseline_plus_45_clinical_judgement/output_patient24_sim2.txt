@@ -1,0 +1,85 @@
+## Patient 24 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **7.2 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (52) | Middle-aged; elevated chronic disease vulnerability | +0.5 |
+| BMI (16.4) | Severely underweight; high risk for malnutrition, cardiac complications | +1.2 |
+| Family Health History (Cancer) | Genetic predisposition to serious illness | +0.3 |
+| Current Diagnosis (Bipolar) | Mood instability, medication complexity, crisis risk | +0.8 |
+| Race (Asian) | Slightly elevated metabolic/certain cancer risks at lower BMI thresholds | +0.1 |
+| Gender (Male) | Males less likely to seek care; higher acute deterioration risk | +0.2 |
+| Sexual Orientation (Other) | Minority stress; potential barriers to care | +0.1 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-heavy; liver stress, mood destabilization | +0.4 |
+| Smoking (Yes) | Cardiovascular, pulmonary, oncologic risk | +0.5 |
+| HAM-D (Mild Depression, 7–17) | Active depressive symptoms alongside Bipolar | +0.4 |
+| Been Sad or Fatigued (No) | Slight protective signal against acute depressive episode | −0.1 |
+| Loss of Interest (Yes) | Anhedonia; functional decline, treatment non-engagement | +0.3 |
+| Hours of Sleep (4.8) | Severe sleep deprivation; triggers bipolar episodes, immune suppression | +0.6 |
+| Employment (Employed) | Provides structure and insurance access | −0.3 |
+| Socioeconomic Status (Middle) | Moderate resource access; partial protective effect | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive; no caffeine-related mood disruption | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit; modest protective effect | −0.1 |
+| Favourite Sport (NaN) | No sport engagement; sedentary lifestyle implied | +0.1 |
+| Votes (Always) | Civic engagement; social connectedness indicator | −0.1 |
+| Height in Inches (71) | Contextual to BMI calculation; no independent impact | 0.0 |
+| Has Driver's License (No) | Reduced mobility; potential barrier to accessing care | +0.2 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; negligible clinical impact | 0.0 |
+| Uses Public Transportation (Always) | Compensates for no license; care access maintained | −0.1 |
+| Donated Blood (Yes) | Indicates baseline health eligibility historically | −0.1 |
+| Birthday Month (October) | No clinically significant impact | 0.0 |
+| Water Intake (43.7 oz) | Below recommended ~64 oz; mild dehydration risk, especially at low BMI | +0.2 |
+| Bilingual (No) | No additional communication barrier | 0.0 |
+| Handedness (Right) | No clinical impact | 0.0 |
+| Likes Kids (Yes) | Positive social/emotional indicator | −0.1 |
+| Favourite Meal (Breakfast) | Positive; however patient skips breakfast (see below) | 0.0 |
+| Favourite Color (Blue) | No clinical impact | 0.0 |
+| Recycling Habits (Never) | Reflects possible disengagement from health-conscious behaviors | +0.1 |
+| Hair Color (Black) | No clinical impact | 0.0 |
+| Best High School Subject (English) | No direct clinical impact | 0.0 |
+| Travels (No) | Limited environmental stimulation; possible social isolation | +0.1 |
+| Relationship Status (Single) | Reduced social support; higher psychiatric hospitalization risk | +0.3 |
+| Favourite Music Genre (Pop) | No clinical impact | 0.0 |
+| Can Ride Bicycle (No) | Adds to sedentary/mobility limitation profile | +0.1 |
+| Religious (Yes) | Spirituality often protective for mental health | −0.2 |
+| Phone (Android) | No clinical impact | 0.0 |
+| Wears Glasses (Yes) | Minor sensory impairment; negligible independent risk | 0.0 |
+| Morning or Night (Night) | Night chronotype; disrupted circadian rhythm, worsens bipolar | +0.2 |
+| Allergy (Dust) | Mild chronic irritant; minor respiratory consideration | +0.1 |
+| Binge Watches TV (No) | Avoids extreme sedentary behavior | −0.1 |
+| Favourite Super Store (Walmart) | No clinical impact | 0.0 |
+| Pet Preference (Other) | Possible companionship; minimal impact | 0.0 |
+| Volunteers (Never) | Low community engagement; social isolation risk | +0.1 |
+| Skips Breakfast (Yes) | Worsens nutritional status at already critical BMI | +0.3 |
+| Favourite Movie Genre (Action) | No clinical impact | 0.0 |
+| Registered Organ Donor (No) | Possible health nihilism; minor signal | +0.1 |
+| Annual Charity Donation (Sometimes) | Mild prosocial engagement | −0.1 |
+| Favourite Cuisine (Italian) | No clinical impact | 0.0 |
+| Exercises (No) | No physical activity; worsens BMI, mood, cardiovascular risk | +0.4 |
+| Likes Art (No) | Reduced creative/emotional outlet | +0.1 |
+| Academic Preference (Humanities) | No clinical impact | 0.0 |
+| Political Ideology (Conservative) | May correlate with delayed help-seeking; minor signal | +0.1 |
+| Orders Takeout (Weekly) | Nutritional quality concern at critically low BMI | +0.2 |
+| Preferred Grocery Store (Giant) | No clinical impact | 0.0 |
+| Helps Elderly (Sometimes) | Mild prosocial behavior | −0.1 |
+| Likes Chocolate (Yes) | Minor positive mood/caloric intake signal at low BMI | −0.1 |
+
+---
+
+**Sum Verification:**
+Positive contributions: +7.9
+Negative contributions: −1.7
+**Net Score: 7.9 − 1.7 = 7.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 52-year-old single Asian male with a BMI of 16.4 presents a **high hospitalization risk** driven primarily by severe undernutrition, active Bipolar disorder with concurrent mild depression, significant sleep deprivation (4.8 hrs), smoking, moderate alcohol use, and loss of interest — a constellation that markedly elevates risk for both psychiatric crisis and medical decompensation. The absence of social support, lack of exercise, skipped meals, and night chronotype further destabilize his mood disorder trajectory, while limited mobility and no organ donor registration subtly reflect reduced health engagement, making proactive clinical intervention strongly warranted.

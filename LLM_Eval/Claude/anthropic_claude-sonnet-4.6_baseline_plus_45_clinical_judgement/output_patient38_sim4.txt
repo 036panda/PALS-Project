@@ -1,0 +1,54 @@
+## Patient 38 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.8 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (62) | Older adult, elevated chronic disease risk | +1.0 |
+| BMI (33.4) | Obese Class I, cardiovascular/metabolic risk | +0.8 |
+| Current Diagnosis (Depression) | Active psychiatric condition | +0.7 |
+| HAM-D Score (7–17, Mild) | Mild severity, lower acute crisis risk | +0.3 |
+| Been Sad or Fatigued (Yes) | Active depressive symptom present | +0.2 |
+| Loss of Interest (Yes) | Anhedonia, functional impairment signal | +0.2 |
+| Hours of Sleep (6.7) | Slightly below optimal, mild concern | +0.1 |
+| Socioeconomic Status (Low) | Reduced access to care, higher risk | +0.5 |
+| Employment (Retired) | Social isolation risk, fixed income stress | +0.2 |
+| No Driver's License | Mobility limitation, care access barrier | +0.2 |
+| Uses Public Transportation (Always) | Consistent with low SES/access barriers | +0.1 |
+| Skips Breakfast (Yes) | Poor nutritional habit, metabolic concern | +0.1 |
+| Orders Takeout (Daily) | High sodium/caloric intake risk, metabolic | +0.2 |
+| Water Intake (44.6 oz) | Below recommended ~64 oz, mild concern | +0.1 |
+| Volunteers (Never) | Low social engagement, isolation risk | +0.1 |
+| Recycling/Civic Engagement (Low) | Reflects disengagement pattern | +0.05 |
+| Registered Organ Donor (No) | Minor behavioral disengagement marker | +0.05 |
+| Allergy (Shellfish) | Anaphylaxis risk if exposed | +0.1 |
+| Binge-Watches TV (Yes) | Sedentary behavior, mild concern | +0.1 |
+| Relationship Status (Dating) | Some social support present | −0.2 |
+| Exercises (Yes) | Protective physical health behavior | −0.4 |
+| Smoking (No) | Significant protective factor | −0.4 |
+| Weekly Alcohol Intake (1) | Very low, minimal risk | −0.2 |
+| Likes Vegetables (Yes) | Positive dietary behavior | −0.1 |
+| Drinks Coffee (Yes) | Mild mood/alertness benefit, neutral-slight protective | −0.05 |
+| Travels (Yes) | Suggests functional capacity and engagement | −0.1 |
+| Favourite Sport (Soccer) | Interest in active sport, positive engagement | −0.05 |
+| Can Ride Bicycle (Yes) | Functional mobility, positive | −0.05 |
+| Donated Blood (Yes) | Health-conscious behavior | −0.05 |
+| Likes Kids (Yes) | Social connectedness indicator | −0.05 |
+| Morning Person | Circadian regularity, mild protective | −0.05 |
+| Family Health History (NaN) | Unknown, no additive risk applied | 0.00 |
+| Bilingual (No) | Neutral in this context | 0.00 |
+| Handedness, Hair Color, Color, Phone, etc. | Non-clinical lifestyle attributes | 0.00 |
+
+**Sum Total: +4.8**
+
+---
+
+### 3. Clinical Rationale
+
+This 62-year-old retired White bisexual male with mild depression (HAM-D 7–17), obesity (BMI 33.4), low socioeconomic status, and limited healthcare access (no driver's license, public transit-dependent) presents a moderate hospitalization risk driven primarily by the convergence of age-related vulnerability, metabolic burden, and psychosocial stressors. Protective factors including active exercise, non-smoking status, minimal alcohol use, and an existing relationship partially offset these risks, yielding a moderate overall risk profile that warrants close outpatient monitoring rather than immediate inpatient concern.

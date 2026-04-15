@@ -1,0 +1,32 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (38): +1 (increased risk with age)
+   - BMI (21.8): -1 (normal BMI, lower risk)
+   - Family Health History (Asthma): +1 (family history contributes to risk)
+   - Current Diagnosis (Anxiety): +1 (mental health conditions can increase risk)
+   - Race (Black): +1 (higher risk associated with certain racial groups)
+   - Gender (Non-binary): 0 (neutral contribution)
+   - Sexual Orientation (Heterosexual): 0 (neutral contribution)
+   - Weekly Alcohol Intake (2): 0 (low intake, neutral contribution)
+   - Smoking (No): -1 (non-smoker, lower risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression, lower risk)
+   - Been Sad or Fatigued: 0 (no contribution)
+   - Loss of Interest: 0 (no contribution)
+   - Hours of Sleep (6.3): 0 (adequate sleep, neutral contribution)
+   - Employment (Employed): 0 (employment status, neutral contribution)
+   - Socioeconomic Status (High): -1 (higher status, lower risk)
+   - Drinks Coffee (No): 0 (neutral contribution)
+   - Likes Vegetables (No): 0 (neutral contribution)
+   - Favourite Sport (Soccer): 0 (neutral contribution)
+   - Votes (Always): 0 (neutral contribution)
+   - Height in Inches (73): 0 (neutral contribution)
+   - Has Drivers License (Yes): 0 (neutral contribution)
+   - Picks Up Litter (Never): 0 (neutral contribution)
+   - Uses Public Transportation (Never): 0 (neutral contribution)
+   - Donated Blood (Yes): 0 (neutral contribution)
+   - Birthday Month (March): 0 (neutral contribution)
+
+   **Total Contributions:** +1 (Age) - 1 (BMI) +1 (Family Health History) +1 (Current Diagnosis) +1 (Race) - 1 (Smoking) - 1 (HAM-D) - 1 (Socioeconomic Status) = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of factors that contribute positively to hospitalization risk, such as age, family health history, anxiety diagnosis, and race, while mitigating factors like normal BMI, non-smoking status, and high socioeconomic status reduce the overall risk. The net effect of these factors results in a low to moderate risk score on a 0–10 scale.

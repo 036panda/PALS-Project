@@ -1,0 +1,86 @@
+## Patient 33 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.2 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (42) | Middle-aged; moderate physiological vulnerability | +0.3 |
+| BMI (13.4) | Severely underweight; high clinical concern for malnutrition, organ stress, immune compromise | +2.5 |
+| Family Health History (Diabetes) | Elevated metabolic risk; genetic predisposition | +0.3 |
+| Current Diagnosis (NaN) | No active diagnosis on record | 0.0 |
+| Race (Native American) | Historically underserved population; elevated risk for metabolic and chronic disease disparities | +0.3 |
+| Gender (Other) | Minority gender identity; associated with healthcare access barriers and psychosocial stress | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress from orientation | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic and metabolic concern, especially at low BMI | +0.2 |
+| Smoking (No) | Protective; no pulmonary or cardiovascular smoking risk | -0.2 |
+| HAM-D (Mild Depression, 7–17) | Mild depression; modest psychiatric hospitalization risk | +0.4 |
+| Been Sad or Fatigued (No) | Contradicts depression severity somewhat; slight protective signal | -0.1 |
+| Loss of Interest (Yes) | Anhedonia present; supports depressive symptomatology | +0.2 |
+| Hours of Sleep (5.0) | Insufficient sleep; immune suppression, metabolic disruption | +0.3 |
+| Employment (Employed) | Provides structure, insurance access, social engagement | -0.2 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare resources | -0.1 |
+| Drinks Coffee (Yes) | Mild diuretic effect; minor concern at low BMI and low water intake | +0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior; modest protective effect | -0.1 |
+| Favourite Sport (Soccer) | Active sport preference, though patient does not exercise | 0.0 |
+| Votes (Never) | Civic disengagement; associated with lower health advocacy | +0.1 |
+| Height in Inches (64) | Used in BMI calculation; no independent impact beyond BMI | 0.0 |
+| Has Driver's License (No) | Potential transportation barrier to care | +0.1 |
+| Picks Up Litter (Always) | Prosocial behavior; positive mental health indicator | -0.1 |
+| Uses Public Transportation (Sometimes) | Partial mobility; moderate healthcare access | 0.0 |
+| Donated Blood (Yes) | Indicates baseline health engagement and civic responsibility | -0.1 |
+| Birthday Month (February) | No clinically significant impact | 0.0 |
+| Water Intake (44.2 oz) | Below recommended ~64 oz/day; dehydration risk, especially at low BMI | +0.3 |
+| Bilingual (Yes) | May improve healthcare communication | -0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness indicator | 0.0 |
+| Favourite Meal (Lunch) | No clinical relevance | 0.0 |
+| Favourite Color (Red) | No clinical relevance | 0.0 |
+| Recycling Habits (Always) | Positive behavioral conscientiousness | 0.0 |
+| Hair Color (Blonde) | No clinical relevance | 0.0 |
+| Best High School Subject (Science) | No direct clinical relevance | 0.0 |
+| Travels (Yes) | Exposure to varied environments; minor infectious risk | +0.1 |
+| Relationship Status (Single) | Reduced social support; associated with poorer health outcomes | +0.2 |
+| Favourite Music Genre (Pop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (Yes) | No clinical relevance | 0.0 |
+| Religious (No) | Slightly reduced access to community/spiritual support networks | +0.1 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Minor sensory impairment; no major hospitalization risk | 0.0 |
+| Morning or Night (Morning) | Morning chronotype; generally associated with better metabolic health | -0.1 |
+| Allergy (Gluten) | Gluten allergy/intolerance; nutritional absorption concern, especially critical at BMI 13.4 | +0.5 |
+| Binge Watches TV (No) | Suggests active lifestyle orientation | -0.1 |
+| Favourite Super Store (Target) | No clinical relevance | 0.0 |
+| Pet Preference (Fish) | Low-interaction pet; minimal therapeutic benefit | 0.0 |
+| Volunteers (Sometimes) | Moderate prosocial engagement; mild protective effect | -0.1 |
+| Skips Breakfast (Yes) | Poor nutritional behavior; critically concerning at BMI 13.4 | +0.4 |
+| Favourite Movie Genre (Action) | No clinical relevance | 0.0 |
+| Registered Organ Donor (No) | No clinical relevance | 0.0 |
+| Annual Charity Donation (Never) | Mild indicator of social disengagement | 0.0 |
+| Favourite Cuisine (Mexican) | No clinical relevance | 0.0 |
+| Exercises (No) | Sedentary lifestyle; cardiovascular and metabolic risk, worsens low BMI prognosis | +0.4 |
+| Likes Art (Yes) | Positive creative engagement; mild mental health benefit | -0.1 |
+| Academic Preference (Humanities) | No clinical relevance | 0.0 |
+| Political Ideology (Liberal) | No direct clinical relevance | 0.0 |
+| Orders Takeout (Monthly) | Infrequent; minimal dietary concern | 0.0 |
+| Preferred Grocery Store (Kroger) | No clinical relevance | 0.0 |
+| Helps Elderly (Always) | Strong prosocial behavior; positive mental health indicator | -0.1 |
+| Likes Chocolate (No) | No clinical relevance | 0.0 |
+
+---
+
+**Sum Verification:**
++0.3+2.5+0.3+0.3+0.2+0.2+0.4+0.2+0.3+0.1+0.1+0.1+0.3+0.1+0.5+0.4+0.4 = **+7.7 (positive contributors)**
+−0.2−0.1−0.2−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1 = **−1.5 (negative contributors)**
+
+**Net Score: 7.7 − 1.5 = 6.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This patient's most pressing clinical concern is a severely low BMI of 13.4, which in combination with a gluten allergy, breakfast skipping, inadequate water intake, and no exercise strongly suggests significant malnutrition and potential for serious physiological decompensation warranting medical intervention. Mild depression with anhedonia, insufficient sleep, single status, and healthcare access barriers (no driver's license, minority identity, civic disengagement) compound the risk, though employment, prosocial behaviors, and absence of smoking provide modest protective buffering.

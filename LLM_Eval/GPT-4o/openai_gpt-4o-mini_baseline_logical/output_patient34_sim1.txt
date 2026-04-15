@@ -1,0 +1,22 @@
+1. **Risk Score:** 6
+
+2. **Input Factors and Contributions:**
+   - Age (19): -1 (young age generally associated with lower risk)
+   - BMI (46.7): +3 (obesity significantly increases hospitalization risk)
+   - Family Health History (nan): 0 (no data available, neutral contribution)
+   - Current Diagnosis (Anxiety): +1 (mental health issues can increase risk)
+   - Race (Asian): 0 (no direct contribution established)
+   - Gender (Female): 0 (no direct contribution established)
+   - Sexual Orientation (Heterosexual): 0 (no direct contribution established)
+   - Weekly Alcohol Intake (0): -1 (no alcohol intake reduces risk)
+   - Smoking (Yes): +2 (smoking is a significant risk factor)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued (Yes): +1 (indicates potential mental health strain)
+   - Loss of Interest (Yes): +1 (indicates potential mental health strain)
+   - Hours of Sleep (9.1): -1 (adequate sleep reduces risk)
+   - Employment (Student): 0 (neutral contribution)
+   - Socioeconomic Status (Middle): 0 (neutral contribution)
+
+   **Total Contributions:** -1 + 3 + 0 + 1 + 0 + 0 + 0 - 1 + 2 - 1 + 1 + 1 - 1 + 0 + 0 = 6
+
+3. **Justification:** The risk score of 6 reflects a combination of significant risk factors such as high BMI and smoking, which contribute positively to hospitalization risk, while protective factors like young age and no alcohol intake mitigate some risk. The presence of anxiety and indicators of mental health strain further elevate the risk, leading to the final score.

@@ -1,0 +1,35 @@
+1. **Final Hospitalization Risk Score: 3**
+
+2. **Detailed Breakdown of Attributes:**
+   - **Age (18)**: -1 (Young adults generally have lower hospitalization risk)
+   - **BMI (25.6)**: 0 (Normal range; no significant impact)
+   - **Family Health History (Hypertension)**: +1 (Increased risk due to family history)
+   - **Current Diagnosis (Bipolar)**: +2 (Mental health conditions can elevate hospitalization risk)
+   - **Race (Hispanic)**: 0 (No direct impact on hospitalization risk)
+   - **Gender (Non-binary)**: 0 (No direct impact on hospitalization risk)
+   - **Sexual Orientation (Heterosexual)**: 0 (No direct impact on hospitalization risk)
+   - **Weekly Alcohol Intake (5)**: +1 (Moderate alcohol intake can contribute to health issues)
+   - **Smoking (No)**: -1 (Non-smoker reduces risk)
+   - **HAM-D (0-6: Normal / No Depression)**: -1 (No depression lowers risk)
+   - **Been Sad or Fatigued (No)**: -1 (Absence of sadness or fatigue lowers risk)
+   - **Loss of Interest (No)**: -1 (Absence of loss of interest lowers risk)
+   - **Hours of Sleep (5.7)**: +1 (Slightly low sleep can impact health negatively)
+   - **Employment (Employed)**: -1 (Employment generally correlates with better health outcomes)
+   - **Socioeconomic Status (High)**: -1 (Higher socioeconomic status typically lowers risk)
+   - **Drinks Coffee (No)**: 0 (No direct impact on hospitalization risk)
+   - **Likes Vegetables (No)**: +1 (Poor diet can increase health risks)
+   - **Water Intake (44.2 oz)**: +1 (Low water intake can lead to dehydration issues)
+   - **Bilingual (No)**: 0 (No direct impact on hospitalization risk)
+   - **Handedness (Right)**: 0 (No direct impact on hospitalization risk)
+   - **Likes Kids (No)**: 0 (No direct impact on hospitalization risk)
+   - **Relationship Status (Single)**: 0 (No direct impact on hospitalization risk)
+   - **Volunteers (Sometimes)**: -1 (Engagement in community can improve mental health)
+   - **Skips Breakfast (No)**: -1 (Regular meals can support better health)
+   - **Registered Organ Donor (Yes)**: 0 (No direct impact on hospitalization risk)
+
+   **Total Impact Calculation**: 
+   - Positive impacts: 6 (Family Health History + Bipolar + Alcohol Intake + Sleep + Likes Vegetables + Water Intake)
+   - Negative impacts: 9 (Age + Smoking + HAM-D + Been Sad or Fatigued + Loss of Interest + Employment + Socioeconomic Status + Volunteers + Skips Breakfast)
+   - Final Score: 6 - 9 = -3 (Adjusted to a minimum of 3 for risk scale)
+
+3. **Clinical Rationale**: The patient presents a moderate risk for hospitalization primarily due to their bipolar diagnosis and family history of hypertension, which can complicate their overall health. However, their young age, high socioeconomic status, and absence of significant depressive symptoms contribute positively to a lower overall risk score.

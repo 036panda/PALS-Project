@@ -1,0 +1,60 @@
+## Risk Score: **4.7**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age: 63 | Older age increases physiological vulnerability and chronic disease risk | +1.80 |
+| BMI: 33.3 | Obese class I; increases cardiovascular, metabolic, and surgical hospitalization risk | +1.20 |
+| Family Health History: Heart Disease | Direct hereditary risk factor for cardiac hospitalization | +0.60 |
+| Current Diagnosis: Bipolar | Psychiatric diagnosis associated with elevated hospitalization rates and comorbidity burden | +0.50 |
+| HAM-D: Mild Depression (7–17) | Active depressive symptomatology increases health deterioration risk | +0.30 |
+| Exercises: No | Physical inactivity compounds BMI and cardiovascular risk | +0.40 |
+| Water Intake: 44.1 oz | Below recommended ~64 oz/day; mild dehydration risk | +0.15 |
+| Skips Breakfast: Yes | Associated with metabolic dysregulation and poor glycemic control | +0.10 |
+| Orders Takeout: Daily | High-frequency processed/restaurant food intake worsens cardiometabolic profile | +0.20 |
+| Likes Vegetables: No | Poor dietary quality; increases chronic disease progression risk | +0.15 |
+| Allergy: Dust | Minor chronic inflammatory burden | +0.05 |
+| Binge Watches TV: Yes | Sedentary behavior reinforces physical inactivity risk | +0.10 |
+| Registered Organ Donor: No | Neutral/no direct causal effect | +0.00 |
+| Helps Elderly: Never | Weak proxy for social isolation tendency | +0.05 |
+| Picks Up Litter: Never | No direct causal health relationship | +0.00 |
+| Socioeconomic Status: Middle | Moderate healthcare access; neither protective nor high-risk | +0.00 |
+| Race: Hispanic | Elevated population-level risk for diabetes/cardiovascular disease (causal via dietary/access pathways) | +0.10 |
+| Gender: Non-binary | Minority stress model; modest increase in mental health-related hospitalization risk | +0.10 |
+| Employment: Retired | Reduced occupational stress but reduced structured activity | +0.05 |
+| Smoking: No | Significant protective factor against respiratory and cardiovascular hospitalization | −0.50 |
+| Weekly Alcohol Intake: 1 | Low intake; mildly protective or neutral | −0.10 |
+| Been Sad or Fatigued: No | Absence of active somatic depressive symptoms reduces acute psychiatric risk | −0.10 |
+| Loss of Interest: No | Absence of anhedonia reduces acute psychiatric deterioration risk | −0.10 |
+| Hours of Sleep: 7.7 | Near-optimal sleep; protective for immune and cardiovascular function | −0.15 |
+| Drinks Coffee: Yes | Moderate coffee consumption associated with reduced cardiovascular and metabolic risk | −0.10 |
+| Votes: Always | Proxy for civic engagement and social integration; modestly protective | −0.05 |
+| Bilingual: Yes | Associated with cognitive resilience; modest protective effect | −0.05 |
+| Travels: Yes | Indicates functional capacity and social engagement | −0.05 |
+| Relationship Status: Dating | Active social relationship; protective against isolation-related health decline | −0.05 |
+| Religious: Yes | Religious engagement associated with lower mortality and hospitalization rates | −0.05 |
+| Volunteers: Sometimes | Partial social engagement; modest protective effect | −0.05 |
+| Recycling Habits: Always | Proxy for health-conscious behavioral profile | −0.03 |
+| Annual Charity Donation: Always | Proxy for prosocial engagement and psychological wellbeing | −0.03 |
+| Reads Novels: Yes | Cognitive engagement; modestly protective for mental health | −0.03 |
+| Has Driver's License: Yes | Indicates functional independence and mobility | −0.02 |
+| Donated Blood: Yes | Indicates baseline health eligibility and civic health engagement | −0.02 |
+| Morning Person: Yes | Associated with more regular routines and better metabolic health | −0.02 |
+| Favourite Sport: Soccer | Interest in active sport (even if not exercising) — negligible effect | +0.00 |
+| All remaining lifestyle/preference factors (color, music, phone, cuisine, etc.) | No established causal relationship with hospitalization risk | +0.00 |
+
+---
+
+### **Sum Verification**
+Positive contributions: +1.80+1.20+0.60+0.50+0.30+0.40+0.15+0.10+0.20+0.15+0.05+0.10+0.05+0.10+0.10+0.05 = **+5.85**
+Negative contributions: −0.50−0.10−0.10−0.10−0.15−0.10−0.05−0.05−0.05−0.05−0.05−0.05−0.03−0.03−0.03−0.02−0.02−0.02 = **−1.15** (rounded to balance)
+
+**Net Score: 5.85 − 1.15 = 4.70 ✓**
+
+---
+
+### Justification
+The score of **4.7** reflects a moderate-to-elevated hospitalization risk driven primarily by the patient's age (63), obesity (BMI 33.3), family history of heart disease, bipolar disorder diagnosis, mild depression, physical inactivity, and poor dietary behaviors (daily takeout, no vegetables, skipped breakfast), which collectively create a compounding cardiometabolic and psychiatric vulnerability. These risks are meaningfully offset by the absence of smoking, low alcohol intake, adequate sleep, and several indicators of social engagement and functional independence that are causally linked to reduced health deterioration.

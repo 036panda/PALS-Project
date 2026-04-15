@@ -1,0 +1,79 @@
+## Patient 34 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.8 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age | 19 | −0.3 (young age generally protective against hospitalization) |
+| BMI | 46.7 | +1.8 (severe obesity; significant risk for comorbidities, metabolic complications) |
+| Family Health History | NaN | +0.1 (unknown history adds marginal uncertainty) |
+| Current Diagnosis | Anxiety | +0.6 (active psychiatric diagnosis; potential for acute episodes requiring care) |
+| Race | Asian | −0.1 (no significant directional adjustment) |
+| Gender | Female | −0.1 (females at 19 slightly lower acute hospitalization risk) |
+| Sexual Orientation | Heterosexual | 0.0 (neutral) |
+| Weekly Alcohol Intake | 0 | −0.3 (no alcohol is protective) |
+| Smoking | Yes | +0.5 (smoking increases cardiovascular, pulmonary, and systemic risk) |
+| HAM-D | 0–6 Normal/No Depression | −0.4 (low depressive symptom burden reduces psychiatric hospitalization risk) |
+| Been Sad or Fatigued | Yes | +0.3 (symptomatic overlap with mood disorder despite normal HAM-D) |
+| Loss of Interest | Yes | +0.3 (anhedonia is a clinical concern warranting monitoring) |
+| Hours of Sleep | 9.1 | +0.1 (slightly excessive sleep may reflect underlying fatigue or mood dysregulation) |
+| Employment | Student | −0.1 (structured environment mildly protective) |
+| Socioeconomic Status | Middle | −0.2 (moderate access to resources and healthcare) |
+| Drinks Coffee | Yes | 0.0 (neutral at moderate assumption) |
+| Likes Vegetables | No | +0.2 (poor dietary habit; contributes to nutritional risk especially with high BMI) |
+| Favourite Sport | Basketball | −0.1 (interest in physical activity mildly protective) |
+| Votes | Sometimes | 0.0 (neutral) |
+| Height | 62 inches | 0.0 (contextual to BMI already captured) |
+| Has Driver's License | No | 0.0 (neutral; uses public transit) |
+| Picks Up Litter | Always | −0.1 (prosocial behavior suggests civic engagement, mild protective) |
+| Uses Public Transportation | Always | 0.0 (neutral) |
+| Donated Blood | No | 0.0 (neutral) |
+| Birthday Month | December | 0.0 (neutral) |
+| Water Intake | 42.7 oz | +0.2 (below recommended ~64 oz/day; mild dehydration risk, especially with high BMI) |
+| Bilingual | Yes | −0.1 (cognitive resilience, mild protective) |
+| Handedness | Right | 0.0 (neutral) |
+| Likes Kids | Yes | −0.1 (positive social orientation, mild protective) |
+| Favourite Meal | Breakfast | −0.1 (does not skip breakfast; mild nutritional protective factor) |
+| Favourite Color | Purple | 0.0 (neutral) |
+| Recycling Habits | Never | 0.0 (neutral clinically) |
+| Hair Color | Black | 0.0 (neutral) |
+| Best High School Subject | History | 0.0 (neutral) |
+| Travels | Yes | −0.1 (suggests functional capacity and engagement) |
+| Relationship Status | Single | +0.1 (lack of close social support mildly increases risk) |
+| Favourite Music Genre | HipHop | 0.0 (neutral) |
+| Can Ride Bicycle | No | +0.1 (minor indicator of possible physical limitation) |
+| Religious | Yes | −0.2 (religiosity associated with better mental health outcomes and coping) |
+| Phone | Apple | 0.0 (neutral) |
+| Wears Glasses | No | 0.0 (neutral) |
+| Morning or Night | Night | +0.1 (night preference may reflect circadian disruption, relevant to anxiety/mood) |
+| Allergy | Animal Dander | +0.1 (allergic condition adds minor systemic burden) |
+| Binge Watches TV | No | −0.1 (absence of sedentary binge behavior mildly protective) |
+| Favourite Super Store | Target | 0.0 (neutral) |
+| Pet Preference | Guinea Pig | 0.0 (neutral; note animal dander allergy may be relevant) |
+| Volunteers | Sometimes | −0.1 (social engagement mildly protective) |
+| Skips Breakfast | No | −0.1 (consistent with better metabolic habits) |
+| Favourite Movie Genre | Action | 0.0 (neutral) |
+| Registered Organ Donor | No | 0.0 (neutral) |
+| Annual Charity Donation | Sometimes | −0.1 (prosocial behavior mildly protective) |
+| Favourite Cuisine | American | +0.1 (dietary pattern may contribute to BMI concerns) |
+| Exercises | Yes | −0.4 (regular exercise is meaningfully protective, especially given high BMI) |
+| Likes Art | Yes | −0.1 (creative engagement mildly protective for mental health) |
+| Academic Preference | Humanities | 0.0 (neutral) |
+| Political Ideology | Liberal | 0.0 (neutral clinically) |
+| Orders Takeout | Daily | +0.4 (daily takeout strongly associated with poor dietary quality, worsens BMI risk) |
+| Preferred Grocery Store | Harris Teeter | 0.0 (neutral) |
+| Helps Elderly | Always | −0.1 (high prosocial behavior; protective for mental health) |
+| Likes Chocolate | Yes | 0.0 (neutral) |
+| **TOTAL** | | **4.8** |
+
+---
+
+### 3. Clinical Rationale
+
+This 19-year-old Asian female student presents with a clinically significant risk profile driven primarily by severe obesity (BMI 46.7), active smoking, a current anxiety diagnosis, and daily takeout consumption alongside suboptimal hydration and vegetable avoidance — all of which compound metabolic and psychiatric vulnerability. Protective factors including active exercise, no alcohol use, religious engagement, prosocial behaviors, and a normal HAM-D score meaningfully offset risk, yielding a moderate overall hospitalization risk that warrants close outpatient monitoring, particularly for anxiety exacerbation and obesity-related complications.

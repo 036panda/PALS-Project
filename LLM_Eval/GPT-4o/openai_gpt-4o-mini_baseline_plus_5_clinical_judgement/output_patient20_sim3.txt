@@ -1,0 +1,27 @@
+1. **Final Hospitalization Risk Score:** 4
+
+2. **Detailed Breakdown of Attributes:**
+   - **Age (19):** -1 (Younger age generally correlates with lower hospitalization risk)
+   - **BMI (25.1):** 0 (BMI in the normal range has a neutral impact)
+   - **Family Health History (nan):** 0 (Lack of information has a neutral impact)
+   - **Current Diagnosis (Schizophrenia):** +3 (Significant mental health condition increases risk)
+   - **Race (Black):** 0 (Race itself does not directly impact hospitalization risk)
+   - **Gender (Female):** 0 (Gender alone does not significantly influence risk)
+   - **Sexual Orientation (Heterosexual):** 0 (Sexual orientation does not impact risk)
+   - **Weekly Alcohol Intake (4):** +1 (Moderate alcohol intake can contribute to risk)
+   - **Smoking (No):** -1 (Non-smoker status reduces risk)
+   - **HAM-D (7–17: Mild Depression):** +1 (Mild depression can increase risk)
+   - **Been Sad or Fatigued (Yes):** +1 (Indicates potential worsening of mental health)
+   - **Loss of Interest (No):** -1 (Absence of loss of interest is protective)
+   - **Hours of Sleep (10.3):** -1 (Adequate sleep is protective)
+   - **Employment (Employed):** -1 (Employment status is protective)
+   - **Socioeconomic Status (Middle):** 0 (Middle status has a neutral impact)
+   - **Drinks Coffee (Yes):** 0 (Caffeine intake has a neutral impact)
+   - **Likes Vegetables (Yes):** 0 (Healthy eating habits have a neutral impact)
+   - **Favourite Sport (Hockey):** 0 (Engagement in sports has a neutral impact)
+   - **Votes (Sometimes):** 0 (Civic engagement has a neutral impact)
+   - **Height in Inches (72):** 0 (Height does not impact risk)
+
+   **Total Impact:** -1 + 0 + 0 + 3 + 0 + 0 + 0 + 1 - 1 + 1 + 1 - 1 - 1 + 0 + 0 + 0 + 0 + 0 = 4
+
+3. **Clinical Rationale:** The patient presents with schizophrenia, which significantly elevates the risk of hospitalization, particularly when combined with mild depression and recent feelings of sadness or fatigue. However, protective factors such as adequate sleep, non-smoking status, and employment contribute to a moderate overall risk score of 4.

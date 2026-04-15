@@ -1,0 +1,22 @@
+1. Final Hospitalization Risk Score: 3
+
+2. Detailed Breakdown of Attributes:
+   - Age (18): -1 (Younger age generally correlates with lower hospitalization risk)
+   - BMI (30.9): +1 (Obesity can increase risk for various health issues)
+   - Family Health History (nan): 0 (Lack of information does not contribute positively or negatively)
+   - Current Diagnosis (Bipolar): +2 (Bipolar disorder can lead to increased risk of hospitalization, especially if not well-managed)
+   - Race (Other): 0 (Race does not directly impact hospitalization risk in this context)
+   - Gender (Non-binary): 0 (Gender identity does not directly impact hospitalization risk)
+   - Sexual Orientation (Bisexual): 0 (Sexual orientation does not directly impact hospitalization risk)
+   - Weekly Alcohol Intake (1): -1 (Low alcohol intake is protective)
+   - Smoking (No): -1 (Non-smoker status is protective)
+   - HAM-D (0–6: Normal / No Depression): -1 (No depression is protective)
+   - Been Sad or Fatigued (No): -1 (Absence of sadness or fatigue is protective)
+   - Loss of Interest (Yes): +1 (Loss of interest can indicate underlying issues, potentially increasing risk)
+   - Hours of Sleep (9.7): -1 (Adequate sleep is protective)
+   - Employment (Student): 0 (Employment status does not directly impact hospitalization risk)
+   - Socioeconomic Status (Middle): 0 (Middle socioeconomic status does not directly impact hospitalization risk)
+
+   Total Impact: -1 + 1 + 0 + 2 + 0 + 0 + 0 - 1 - 1 - 1 - 1 + 1 - 1 + 0 + 0 = 3
+
+3. Clinical Rationale: The patient presents with a diagnosis of bipolar disorder, which is a significant factor contributing to hospitalization risk, particularly if symptoms are not well-managed. However, the presence of protective factors such as adequate sleep, low alcohol intake, and no smoking, along with a relatively young age, mitigates the overall risk, resulting in a moderate score of 3.

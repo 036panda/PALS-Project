@@ -1,0 +1,57 @@
+## Hospitalization Risk Score: **4.7**
+
+---
+
+### Factor Contributions (Sum = 4.7)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (64) | Elevated risk in 60s | +1.50 |
+| BMI (21.6) | Normal/healthy range | −0.30 |
+| Family Health History: Hypertension | Genetic predisposition to cardiovascular disease | +0.40 |
+| Current Diagnosis: None (nan) | No active diagnosed condition | −0.30 |
+| Race: Native American | Statistically elevated health disparity risk | +0.20 |
+| Gender: Other | Potential barriers to care access | +0.10 |
+| Smoking: Yes | Direct causal risk for respiratory/cardiovascular hospitalization | +0.80 |
+| Weekly Alcohol Intake: 2 | Low/moderate; minimal risk | +0.05 |
+| HAM-D: Normal/No Depression | No depressive disorder indicated | −0.10 |
+| Been Sad or Fatigued: No | No fatigue symptom | −0.05 |
+| Loss of Interest: Yes | Subclinical anhedonia signal | +0.15 |
+| Hours of Sleep: 3.4 | Severely insufficient sleep; strong causal link to immune/cardiovascular risk | +0.90 |
+| Employment: Retired | Reduced occupational stress; mild protective | −0.10 |
+| Socioeconomic Status: Low | Reduced healthcare access, nutrition, preventive care | +0.40 |
+| Drinks Coffee: Yes | Mild cardiovascular stimulant; neutral-to-minor risk | +0.05 |
+| Likes Vegetables: No | Poor dietary habit; contributes to chronic disease risk | +0.20 |
+| Water Intake: 43.7 oz | Below recommended ~64 oz; mild dehydration risk | +0.15 |
+| Exercises: Yes | Protective against hospitalization | −0.30 |
+| Skips Breakfast: Yes | Associated with metabolic and cardiovascular risk | +0.15 |
+| Allergy: Animal Dander | Respiratory risk factor | +0.10 |
+| Travels: No | Reduced exposure risk; mild protective | −0.05 |
+| Binge Watches TV: Yes | Sedentary behavior signal (offset partially by exercise) | +0.10 |
+| Orders Takeout: Weekly | Associated with poor dietary quality | +0.10 |
+| Volunteers: Always | Strong social engagement; protective for mental/physical health | −0.15 |
+| Helps Elderly: Always | Social connectedness; protective | −0.10 |
+| Reads Novels: Yes | Cognitive engagement; mild protective | −0.05 |
+| Uses Public Transportation: Always | Increased pathogen exposure risk | +0.10 |
+| Relationship Status: Dating | Moderate social support | −0.05 |
+| Religious: Yes | Social support network; mild protective | −0.05 |
+| Picks Up Litter: Always | Prosocial behavior; negligible direct health effect | 0.00 |
+| Recycling Habits: Always | Negligible direct health effect | 0.00 |
+| Donated Blood: Yes | Indicates baseline health eligibility; mild protective | −0.05 |
+| Registered Organ Donor: Yes | No direct health risk contribution | 0.00 |
+| Annual Charity Donation: Never | Negligible direct health effect | 0.00 |
+| Bilingual: Yes | Cognitive resilience; mild protective | −0.05 |
+| Wears Glasses: Yes | Minor indicator of sensory health need | +0.05 |
+| Morning or Night: Night | Night preference aligns with poor sleep pattern; reinforces sleep risk | +0.10 |
+| Favourite Sport: Gymnastics | Active sport preference; mild protective | −0.05 |
+| Has Driver's License: Yes | Mobility/access to care; mild protective | −0.05 |
+| All remaining lifestyle/preference factors (color, music, food, etc.) | No established causal health relationship | 0.00 |
+
+---
+
+**Total: +4.70**
+
+---
+
+### Justification
+The score is primarily driven by three causally significant risk factors: active smoking (+0.80), severely insufficient sleep at 3.4 hours per night (+0.90), and age of 64 (+1.50), all of which have well-established direct causal pathways to hospitalization through cardiovascular, immune, and systemic deterioration. These risks are partially mitigated by the absence of a current diagnosis, regular exercise, strong social engagement behaviors, and normal BMI, but are compounded by low socioeconomic status, poor dietary habits, and a family history of hypertension.

@@ -1,0 +1,89 @@
+## Risk Score: **5.3**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (49) | Moderate-high age range | +1.0 |
+| BMI (29.7) | Overweight, near obese threshold | +0.5 |
+| Family Health History | NaN / Unknown | +0.2 |
+| Current Diagnosis: Bipolar | Active psychiatric diagnosis | +1.5 |
+| Race: Native American | Elevated systemic health disparity risk | +0.3 |
+| Gender: Female | Slightly elevated mood disorder hospitalization risk | +0.1 |
+| Sexual Orientation: Other | Minority stress, elevated psychiatric risk | +0.2 |
+| Weekly Alcohol Intake: 2 | Low/moderate, minimal risk | +0.1 |
+| Smoking: No | Protective | -0.2 |
+| HAM-D: Mild Depression (7–17) | Active depressive symptomatology | +0.5 |
+| Been Sad or Fatigued: No | Partially mitigates mood severity | -0.1 |
+| Loss of Interest: Yes | Anhedonia, clinically significant symptom | +0.3 |
+| Hours of Sleep: 5.8 | Below recommended, risk for mood episode | +0.4 |
+| Employment: Employed | Protective structure and income | -0.3 |
+| Socioeconomic Status: Middle | Moderate access to care | -0.1 |
+| Drinks Coffee: No | Neutral/negligible | 0.0 |
+| Likes Vegetables: No | Poor dietary habit, minor health risk | +0.1 |
+| Favourite Sport: Basketball | Physical activity interest (but see Exercises) | 0.0 |
+| Votes: Never | Civic disengagement, mild social isolation proxy | +0.1 |
+| Height: 60 inches | Contextual to BMI, already captured | 0.0 |
+| Has Driver's License: No | Reduced mobility/access to care | +0.2 |
+| Picks Up Litter: Never | Negligible clinical relevance | 0.0 |
+| Uses Public Transportation: Always | Functional mobility maintained | -0.1 |
+| Donated Blood: Yes | Indicates some health engagement | -0.1 |
+| Birthday Month: August | No clinical relevance | 0.0 |
+| Water Intake: 42.4 oz | Below recommended ~64 oz, minor risk | +0.1 |
+| Bilingual: No | No significant clinical impact | 0.0 |
+| Handedness: Right | No clinical relevance | 0.0 |
+| Likes Kids: Yes | Positive social connection indicator | -0.1 |
+| Favourite Meal: Lunch | No clinical relevance | 0.0 |
+| Favourite Color: Yellow | No clinical relevance | 0.0 |
+| Recycling Habits: Never | No direct clinical relevance | 0.0 |
+| Hair Color: Black | No clinical relevance | 0.0 |
+| Best High School Subject: English | No clinical relevance | 0.0 |
+| Travels: No | Reduced stimulation/social engagement | +0.1 |
+| Relationship Status: Dating | Some social support present | -0.1 |
+| Favourite Music Genre: Pop | No clinical relevance | 0.0 |
+| Can Ride Bicycle: No | Minor functional limitation | 0.0 |
+| Religious: Yes | Protective psychosocial factor | -0.2 |
+| Phone: Android | No clinical relevance | 0.0 |
+| Wears Glasses: No | No clinical relevance | 0.0 |
+| Morning or Night: Morning | Morning chronotype, mild protective for mood | -0.1 |
+| Allergy: Shellfish | Minor medical consideration | +0.1 |
+| Binge Watches TV: No | No sedentary excess indicator | 0.0 |
+| Favourite Super Store: Walmart | No clinical relevance | 0.0 |
+| Pet Preference: Other | Neutral social/emotional indicator | 0.0 |
+| Volunteers: Sometimes | Mild protective social engagement | -0.1 |
+| Skips Breakfast: No | Positive dietary regularity | -0.1 |
+| Favourite Movie Genre: Romance | No clinical relevance | 0.0 |
+| Registered Organ Donor: No | No clinical relevance | 0.0 |
+| Annual Charity Donation: Never | Mild social disengagement proxy | +0.1 |
+| Favourite Cuisine: Indian | No clinical relevance | 0.0 |
+| Exercises: No | Significant risk factor for mood and physical health | +0.5 |
+| Likes Art: Yes | Positive creative/emotional outlet | -0.1 |
+| Academic Preference: STEM | No clinical relevance | 0.0 |
+| Political Ideology: Liberal | No direct clinical relevance | 0.0 |
+| Orders Takeout: Weekly | Poor dietary pattern, minor risk | +0.1 |
+| Preferred Grocery Store: Giant | No clinical relevance | 0.0 |
+| Helps Elderly: Sometimes | Mild prosocial protective factor | -0.1 |
+| Likes Chocolate: Yes | No clinical relevance | 0.0 |
+| Reads Novels: Yes | Cognitive engagement, mild protective | -0.1 |
+| Has Cheated on Assignment: Yes | Mild impulse control/integrity signal | +0.1 |
+| Eye Color: Green | No clinical relevance | 0.0 |
+| Spotify vs Apple Music | No clinical relevance | 0.0 |
+| Favourite Season: Summer | No clinical relevance | 0.0 |
+
+---
+
+### Verification of Sum
+
+| Category | Subtotal |
+|---|---|
+| Positive contributions | +6.7 |
+| Negative contributions | -1.4 |
+| **Net Total** | **5.3** |
+
+---
+
+### Justification
+
+The score is primarily driven by the active Bipolar diagnosis combined with mild depressive symptomatology (HAM-D mild range), anhedonia (loss of interest), insufficient sleep, lack of exercise, and elevated systemic risk associated with Native American race and minority sexual orientation — all of which causally increase psychiatric hospitalization vulnerability. Protective factors including employment, middle socioeconomic status, religiosity, social relationship, morning chronotype, and some prosocial behaviors partially offset these risks, yielding a moderate-to-elevated hospitalization risk score of 5.3.

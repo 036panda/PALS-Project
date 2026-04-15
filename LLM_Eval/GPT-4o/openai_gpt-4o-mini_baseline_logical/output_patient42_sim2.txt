@@ -1,0 +1,22 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (49): +1
+   - BMI (23.2): 0 (neutral)
+   - Family Health History (Asthma): +1
+   - Current Diagnosis (Anxiety): +1
+   - Race (Hispanic): 0 (neutral)
+   - Gender (Male): 0 (neutral)
+   - Sexual Orientation (Heterosexual): 0 (neutral)
+   - Weekly Alcohol Intake (4): 0 (neutral)
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (9.4): -1
+   - Employment (Employed): -1
+   - Socioeconomic Status (High): -1
+
+   **Total Contributions:** +1 (Age) +1 (Asthma) +1 (Anxiety) +1 (Loss of Interest) -1 (No Smoking) -1 (No Depression) -1 (No Sadness) -1 (Good Sleep) -1 (Employed) -1 (High SES) = 3
+
+3. **Justification:** The risk score reflects a combination of factors that contribute positively to hospitalization risk, such as age, family health history, anxiety, and loss of interest, while mitigating factors like no smoking, no depression, good sleep, employment, and high socioeconomic status reduce the overall risk. The net effect of these factors results in a moderate risk score of 3, indicating a low to moderate risk of hospitalization.

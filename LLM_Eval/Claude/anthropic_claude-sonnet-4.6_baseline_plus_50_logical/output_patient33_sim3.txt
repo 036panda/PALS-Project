@@ -1,0 +1,83 @@
+## Risk Score: **4.7**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (42) | Moderate age, mild elevation | +0.3 |
+| BMI (13.4) | Severely underweight – strong hospitalization risk | +1.8 |
+| Family Health History (Diabetes) | Genetic predisposition, metabolic risk | +0.3 |
+| Current Diagnosis (nan) | No active diagnosis | +0.0 |
+| Race (Native American) | Elevated systemic health disparity risk | +0.2 |
+| Gender (Other) | Healthcare access barriers documented | +0.1 |
+| Sexual Orientation (Heterosexual) | No elevated risk signal | +0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate, mild risk | +0.1 |
+| Smoking (No) | Protective | -0.2 |
+| HAM-D: Mild Depression (7–17) | Mental health risk, mild severity | +0.4 |
+| Been Sad or Fatigued (No) | Mitigates depression severity | -0.1 |
+| Loss of Interest (Yes) | Anhedonia, consistent with depression signal | +0.2 |
+| Hours of Sleep (5.0) | Insufficient sleep, immune/cardiovascular risk | +0.4 |
+| Employment (Employed) | Stability, protective | -0.2 |
+| Socioeconomic Status (Middle) | Moderate access to care | -0.1 |
+| Drinks Coffee (Yes) | Mild diuretic, negligible net effect | +0.0 |
+| Likes Vegetables (Yes) | Dietary protective factor | -0.1 |
+| Favourite Sport (Soccer) | Active interest but see Exercises: No | +0.0 |
+| Votes (Never) | Civic disengagement, mild social isolation proxy | +0.1 |
+| Height in Inches (64) | Contextual to BMI calculation only | +0.0 |
+| Has Driver's License (No) | Reduced healthcare access/mobility | +0.1 |
+| Picks Up Litter (Always) | Prosocial behavior, wellbeing proxy | -0.1 |
+| Uses Public Transportation (Sometimes) | Partial mobility access | +0.0 |
+| Donated Blood (Yes) | Indicates baseline health eligibility | -0.1 |
+| Birthday Month (February) | No causal relevance | +0.0 |
+| Water Intake (44.2 oz) | Below recommended ~64 oz; mild dehydration risk | +0.2 |
+| Bilingual (Yes) | Cognitive resilience, no direct risk | +0.0 |
+| Handedness (Right) | No causal relevance | +0.0 |
+| Likes Kids (Yes) | No causal relevance | +0.0 |
+| Favourite Meal (Lunch) | No causal relevance | +0.0 |
+| Favourite Color (Red) | No causal relevance | +0.0 |
+| Recycling Habits (Always) | Prosocial, no direct health impact | +0.0 |
+| Hair Color (Blonde) | No causal relevance | +0.0 |
+| Best High School Subject (Science) | No causal relevance | +0.0 |
+| Travels (Yes) | Exposure variability, negligible net | +0.0 |
+| Relationship Status (Single) | Reduced social support, mild risk | +0.2 |
+| Favourite Music Genre (Pop) | No causal relevance | +0.0 |
+| Can Ride Bicycle (Yes) | No causal relevance | +0.0 |
+| Religious (No) | Slight reduction in community support network | +0.1 |
+| Phone (Apple) | No causal relevance | +0.0 |
+| Wears Glasses (Yes) | Minor sensory impairment, negligible | +0.0 |
+| Morning or Night (Morning) | Morning chronotype mildly protective for routine | -0.1 |
+| Allergy (Gluten) | Dietary restriction, nutritional risk given low BMI | +0.3 |
+| Binge Watches TV (No) | Sedentary behavior absent, protective | -0.1 |
+| Favourite Super Store (Target) | No causal relevance | +0.0 |
+| Pet Preference (Fish) | Minimal companionship benefit | +0.0 |
+| Volunteers (Sometimes) | Mild social engagement, protective | -0.1 |
+| Skips Breakfast (Yes) | Poor nutritional pattern, worsens low BMI risk | +0.3 |
+| Favourite Movie Genre (Action) | No causal relevance | +0.0 |
+| Registered Organ Donor (No) | No causal relevance | +0.0 |
+| Annual Charity Donation (Never) | Mild social disengagement proxy | +0.0 |
+| Favourite Cuisine (Mexican) | No causal relevance | +0.0 |
+| Exercises (No) | Significant risk factor; compounds low BMI/depression | +0.5 |
+| Likes Art (Yes) | Positive cognitive engagement | -0.1 |
+| Academic Preference (Humanities) | No causal relevance | +0.0 |
+| Political Ideology (Liberal) | No causal relevance | +0.0 |
+| Orders Takeout (Monthly) | Infrequent, negligible dietary risk | +0.0 |
+| Preferred Grocery Store (Kroger) | No causal relevance | +0.0 |
+| Helps Elderly (Always) | Strong prosocial behavior, wellbeing proxy | -0.1 |
+| Likes Chocolate (No) | No causal relevance | +0.0 |
+| Reads Novels (Yes) | Cognitive engagement, mild protective | -0.1 |
+| Has Cheated on Assignment (Yes) | No causal health relevance | +0.0 |
+| Eye Color (Hazel) | No causal relevance | +0.0 |
+| Spotify vs Apple Music (Spotify) | No causal relevance | +0.0 |
+| Favourite Season (Winter) | No causal relevance | +0.0 |
+
+---
+
+### Sum Verification
++0.3+1.8+0.3+0.0+0.2+0.1+0.0+0.1−0.2+0.4−0.1+0.2+0.4−0.2−0.1+0.0−0.1+0.0+0.1+0.0+0.1−0.1+0.0−0.1+0.0+0.2+0.0+0.0+0.0+0.0+0.0+0.0+0.0+0.0+0.0+0.2+0.0+0.0+0.1+0.0+0.0+0.0−0.1+0.3−0.1+0.0+0.0−0.1+0.3+0.0+0.0+0.0+0.5−0.1+0.0+0.0+0.0−0.1+0.0−0.1+0.0+0.0+0.0+0.0 = **4.7**
+
+---
+
+### Justification
+The dominant risk drivers are the patient's severely underweight BMI of 13.4 — a critical physiological red flag strongly associated with hospitalization — compounded by a gluten allergy, breakfast skipping, and no exercise, all of which exacerbate nutritional deficiency and physical deconditioning. Secondary contributors include mild depression with anhedonia, insufficient sleep, low water intake, single status, and reduced healthcare access, while protective factors such as non-smoking, employment, vegetable consumption, and prosocial behaviors partially offset the overall risk.

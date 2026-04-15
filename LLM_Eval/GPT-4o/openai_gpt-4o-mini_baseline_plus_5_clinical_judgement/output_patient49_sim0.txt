@@ -1,0 +1,25 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed Breakdown of Attributes:
+   - Age (34): -1 (Younger age generally correlates with lower hospitalization risk)
+   - BMI (24.2): -1 (Normal BMI range, indicating lower risk)
+   - Family Health History (nan): 0 (Insufficient data to assess impact)
+   - Current Diagnosis (Bipolar): +3 (Bipolar disorder can increase risk of hospitalization, especially if not well-managed)
+   - Race (Hispanic): 0 (Race alone does not significantly impact hospitalization risk in this context)
+   - Gender (Female): 0 (Gender alone does not significantly impact hospitalization risk in this context)
+   - Sexual Orientation (Heterosexual): 0 (Sexual orientation does not significantly impact hospitalization risk in this context)
+   - Weekly Alcohol Intake (1): -1 (Low alcohol intake is protective)
+   - Smoking (No): -1 (Non-smoker status is protective)
+   - HAM-D (0–6: Normal / No Depression): -1 (No depression indicates lower risk)
+   - Been Sad or Fatigued (Yes): +1 (Indicates potential underlying issues that could elevate risk)
+   - Loss of Interest (No): -1 (No loss of interest suggests better mental health)
+   - Hours of Sleep (8.3): -1 (Adequate sleep is protective)
+   - Employment (Employed): -1 (Employment status generally correlates with lower risk)
+   - Socioeconomic Status (Low): +1 (Low socioeconomic status can increase stress and risk)
+   - Drinks Coffee (No): 0 (No significant impact)
+   - Likes Vegetables (No): 0 (Dietary preferences do not significantly impact risk)
+   - Favourite Sport (Soccer): 0 (Engagement in sports does not significantly impact risk)
+   - Votes (Sometimes): 0 (Civic engagement does not significantly impact risk)
+   - Height in Inches (60): 0 (Height alone does not significantly impact risk)
+
+3. Clinical Rationale: The patient presents with a bipolar diagnosis, which is a significant factor contributing to hospitalization risk, particularly if symptoms are not well-managed. However, protective factors such as a normal BMI, non-smoking status, low alcohol intake, and adequate sleep help mitigate this risk, resulting in a moderate overall hospitalization risk score of 4.

@@ -1,0 +1,92 @@
+## Patient ID 2 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (40) | Middle-aged; moderate chronic disease risk window | +0.5 |
+| BMI (34.6) | Obese Class I; elevates cardiometabolic and surgical risk | +0.8 |
+| Family Health History (Cancer) | Genetic predisposition to oncologic conditions | +0.4 |
+| Current Diagnosis (Bipolar) | Significant psychiatric condition; mood episodes can precipitate hospitalization | +0.9 |
+| Race (White) | No significant directional adjustment in this context | 0.0 |
+| Gender (Non-binary) | Healthcare access barriers and minority stress may elevate risk | +0.2 |
+| Sexual Orientation (Bisexual) | Minority stress, higher rates of mood disorder severity documented | +0.2 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild interaction risk with psychiatric medications | +0.2 |
+| Smoking (No) | Protective; reduces pulmonary and cardiovascular hospitalization risk | -0.3 |
+| HAM-D Score (7–17, Mild Depression) | Active depressive symptomatology alongside Bipolar diagnosis | +0.4 |
+| Been Sad or Fatigued (No) | Absence of acute affective distress; mildly protective | -0.1 |
+| Loss of Interest (Yes) | Anhedonia present; consistent with depressive episode activity | +0.3 |
+| Hours of Sleep (8.9) | Slightly prolonged; may reflect hypersomnia in depressive phase | +0.1 |
+| Employment (Employed) | Structural stability; protective against decompensation | -0.3 |
+| Socioeconomic Status (Middle) | Moderate resource access; generally protective | -0.2 |
+| Drinks Coffee (Yes) | Mild stimulant; potential mood interaction in Bipolar; negligible net effect | +0.1 |
+| Likes Vegetables (No) | Poor dietary quality; contributes to metabolic risk | +0.2 |
+| Favourite Sport (NaN) | No physical activity outlet identified; mildly negative | +0.1 |
+| Votes (Always) | Civic engagement; proxy for social integration and stability | -0.1 |
+| Height in Inches (70) | Neutral anthropometric data point | 0.0 |
+| Has Driver's License (Yes) | Functional independence; protective | -0.1 |
+| Picks Up Litter (Never) | Low prosocial environmental behavior; negligible clinical impact | 0.0 |
+| Uses Public Transportation (Sometimes) | Moderate mobility; neutral | 0.0 |
+| Donated Blood (No) | No clinical risk implication | 0.0 |
+| Birthday Month (November) | Seasonal affective risk window (late autumn); minor elevation | +0.1 |
+| Water Intake (42.6 oz) | Below recommended ~64 oz/day; mild dehydration risk | +0.2 |
+| Bilingual (Yes) | Cognitive resilience; mildly protective | -0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social bonding indicator; mildly protective | -0.1 |
+| Favourite Meal (Breakfast) | Neutral dietary preference | 0.0 |
+| Favourite Color (Blue) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | Proxy for moderate conscientiousness; neutral | 0.0 |
+| Hair Color (Blonde) | No clinical relevance | 0.0 |
+| Best High School Subject (Math) | Analytical cognitive strength; mildly protective for health literacy | -0.1 |
+| Travels (Yes) | Suggests functional capacity and engagement; mildly protective | -0.1 |
+| Relationship Status (Dating) | Some social support; moderate protective effect | -0.2 |
+| Favourite Music Genre (Country) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (Yes) | Functional physical capacity; mildly protective | -0.1 |
+| Religious (No) | Absence of spiritual/community support network; minor risk | +0.1 |
+| Phone (Android) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Indicates managed sensory impairment; neutral | 0.0 |
+| Morning or Night (Morning) | Morning chronotype; generally associated with better mood regulation | -0.1 |
+| Allergy (NaN) | No known allergies documented; neutral | 0.0 |
+| Binge Watches TV (No) | Absence of sedentary escapism behavior; mildly protective | -0.1 |
+| Favourite Super Store (Walmart) | No clinical relevance | 0.0 |
+| Pet Preference (Fish) | Low-engagement pet; minimal therapeutic benefit vs. dogs/cats | 0.0 |
+| Volunteers (Sometimes) | Moderate prosocial behavior; mildly protective | -0.1 |
+| Skips Breakfast (Yes) | Irregular eating pattern; metabolic and mood stability concern | +0.2 |
+| Favourite Movie Genre (Indie) | No clinical relevance | 0.0 |
+| Registered Organ Donor (Yes) | Altruistic orientation; proxy for positive civic identity | -0.1 |
+| Annual Charity Donation (Never) | Reduced prosocial financial engagement; negligible impact | 0.0 |
+| Favourite Cuisine (Mediterranean) | Positive dietary preference pattern; mildly protective | -0.1 |
+| Exercises (No) | Absence of physical activity; significant risk factor for BMI, mood, and metabolic health | +0.5 |
+| Likes Art (No) | Reduced creative/expressive outlet; minor concern in mood disorder context | +0.1 |
+| Academic Preference (Humanities) | No direct clinical relevance | 0.0 |
+| Political Ideology (Conservative) | No direct clinical relevance | 0.0 |
+| Orders Takeout (Weekly) | Frequent processed/high-calorie food intake; compounds BMI risk | +0.2 |
+| Preferred Grocery Store (Kroger) | No clinical relevance | 0.0 |
+| Helps Elderly (Always) | Strong prosocial behavior; protective for mental health and social integration | -0.2 |
+| Likes Chocolate (Yes) | No significant clinical relevance | 0.0 |
+| Reads Novels (No) | Reduced cognitive engagement; minor concern | +0.1 |
+| Has Cheated on Assignment (No) | Integrity indicator; no clinical relevance | 0.0 |
+| Eye Color (Brown) | No clinical relevance | 0.0 |
+| Spotify vs Apple Music (Spotify) | No clinical relevance | 0.0 |
+| Favourite Season (Winter) | Preference for winter may correlate with seasonal mood patterns in Bipolar | +0.1 |
+
+---
+
+**Sum Verification:**
+Positive impacts: +0.5+0.8+0.4+0.9+0.2+0.2+0.2+0.4+0.3+0.1+0.1+0.2+0.1+0.1+0.1+0.2+0.1+0.1+0.2+0.5+0.1+0.2+0.1+0.1+0.1 = **+6.7**
+
+Negative impacts: -0.3-0.1-0.3-0.2-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.2-0.1-0.1-0.1-0.2 = **-2.1**
+
+**Net Score: 6.7 − 2.1 = 4.6 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 40-year-old non-binary individual with a confirmed Bipolar diagnosis, active mild depressive symptomatology (HAM-D mild range, anhedonia present), and Class I obesity (BMI 34.6) carries a moderate hospitalization risk driven primarily by the intersection of psychiatric instability and cardiometabolic vulnerability. Protective factors—including stable employment, middle socioeconomic status, social engagement, non-smoking status, and a morning chronotype—partially offset risks posed by sedentary lifestyle, dietary irregularities, suboptimal hydration, and the absence of structured physical activity, yielding an overall moderate risk profile warranting proactive outpatient monitoring and lifestyle intervention.

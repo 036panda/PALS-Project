@@ -1,0 +1,83 @@
+## Risk Score: **5.3**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (56) | Moderate-high age, elevated chronic risk | +1.2 |
+| BMI (27.3) | Slightly overweight, mild metabolic risk | +0.2 |
+| Family Health History | NaN / Unknown | +0.1 |
+| Current Diagnosis: Schizophrenia | Major psychiatric condition, strong hospitalization predictor | +2.0 |
+| Race: Asian | No significant directional adjustment | 0.0 |
+| Gender: Other | Minority gender identity, marginally elevated care-access risk | +0.1 |
+| Sexual Orientation: Heterosexual | No significant directional adjustment | 0.0 |
+| Weekly Alcohol Intake: 2 | Low intake, minimal risk | -0.1 |
+| Smoking: Yes | Established health risk factor | +0.4 |
+| HAM-D: Mild Depression (7–17) | Comorbid depressive symptomatology | +0.5 |
+| Been Sad or Fatigued: Yes | Corroborates depressive burden | +0.2 |
+| Loss of Interest: Yes | Anhedonia, psychiatric symptom burden | +0.2 |
+| Hours of Sleep: 6.0 | Mildly insufficient sleep | +0.1 |
+| Employment: Employed | Protective social structure | -0.3 |
+| Socioeconomic Status: Low | Reduced access to care, elevated risk | +0.4 |
+| Drinks Coffee: No | Neutral/no contribution | 0.0 |
+| Likes Vegetables: No | Poor dietary habit, minor risk | +0.1 |
+| Favourite Sport: Basketball | Physical activity interest, mild protective | -0.1 |
+| Votes: Never | Civic disengagement, marginal social isolation indicator | +0.1 |
+| Height: 62 inches | No significant directional adjustment | 0.0 |
+| Has Driver's License: Yes | Functional independence, mild protective | -0.1 |
+| Picks Up Litter: Always | Prosocial behavior, mild protective | -0.1 |
+| Uses Public Transportation: Never | Potential mobility/access limitation | +0.1 |
+| Donated Blood: Yes | Health engagement, mild protective | -0.1 |
+| Birthday Month: January | No causal relevance | 0.0 |
+| Water Intake: 44.7 oz | Below recommended ~64 oz, mild risk | +0.1 |
+| Bilingual: No | No significant directional adjustment | 0.0 |
+| Handedness: Left | No causal relevance | 0.0 |
+| Likes Kids: Yes | Positive social orientation | 0.0 |
+| Favourite Meal: Lunch | No causal relevance | 0.0 |
+| Favourite Color: Red | No causal relevance | 0.0 |
+| Recycling Habits: Never | No direct health causal link | 0.0 |
+| Hair Color: Brown | No causal relevance | 0.0 |
+| Best High School Subject: Science | No causal relevance | 0.0 |
+| Travels: No | Reduced stimulation/social exposure, mild risk | +0.1 |
+| Relationship Status: Dating | Moderate social support | -0.1 |
+| Favourite Music Genre: Indie | No causal relevance | 0.0 |
+| Can Ride Bicycle: No | Minor functional limitation | 0.0 |
+| Religious: Yes | Social/spiritual support, mild protective | -0.1 |
+| Phone: Android | No causal relevance | 0.0 |
+| Wears Glasses: No | No significant adjustment | 0.0 |
+| Morning or Night: Morning | No causal relevance | 0.0 |
+| Allergy: Tree Nuts | Minor medical consideration | +0.1 |
+| Binge Watches TV: Yes | Sedentary behavior indicator | +0.1 |
+| Favourite Super Store: Target | No causal relevance | 0.0 |
+| Pet Preference: Fish | No significant adjustment | 0.0 |
+| Volunteers: Always | Strong prosocial engagement, protective | -0.2 |
+| Skips Breakfast: No | Healthy routine, mild protective | -0.1 |
+| Favourite Movie Genre: Action | No causal relevance | 0.0 |
+| Registered Organ Donor: No | No direct health causal link | 0.0 |
+| Annual Charity Donation: Never | Mild social disengagement | +0.1 |
+| Favourite Cuisine: American | No significant adjustment | 0.0 |
+| Exercises: Yes | Physical activity, protective | -0.3 |
+| Likes Art: Yes | Positive cognitive engagement | -0.1 |
+| Academic Preference: STEM | No causal relevance | 0.0 |
+| Political Ideology: Moderate | No causal relevance | 0.0 |
+| Orders Takeout: Weekly | Moderate dietary risk | +0.1 |
+| Preferred Grocery Store: Giant | No causal relevance | 0.0 |
+| Helps Elderly: Never | Mild social disengagement | +0.1 |
+| Likes Chocolate: No | No significant adjustment | 0.0 |
+| Reads Novels: Yes | Cognitive engagement, mild protective | -0.1 |
+| Has Cheated on Assignment: No | No causal relevance | 0.0 |
+| Eye Color: Brown | No causal relevance | 0.0 |
+| Spotify vs Apple Music: Spotify | No causal relevance | 0.0 |
+| Favourite Season: Winter | No causal relevance | 0.0 |
+
+---
+
+**Sum of all contributions: 1.2 + 0.2 + 0.1 + 2.0 + 0.0 + 0.1 + 0.0 − 0.1 + 0.4 + 0.5 + 0.2 + 0.2 + 0.1 − 0.3 + 0.4 + 0.0 + 0.1 − 0.1 + 0.1 − 0.1 − 0.1 + 0.1 − 0.1 + 0.0 + 0.1 + 0.0 + 0.0 + 0.0 + 0.0 + 0.0 + 0.0 + 0.1 + 0.0 + 0.1 − 0.1 + 0.0 + 0.0 + 0.1 + 0.0 + 0.0 + 0.1 + 0.1 + 0.0 + 0.0 − 0.2 − 0.1 + 0.0 + 0.0 + 0.1 + 0.0 − 0.3 − 0.1 + 0.0 + 0.0 + 0.1 + 0.0 + 0.1 + 0.0 − 0.1 + 0.1 + 0.0 + 0.0 + 0.0 + 0.0 = **5.3****
+
+---
+
+### Justification
+
+The dominant risk drivers are the confirmed Schizophrenia diagnosis (+2.0), which is a primary psychiatric condition strongly associated with acute hospitalization episodes, compounded by comorbid mild depression (HAM-D score, sadness/fatigue, anhedonia: +0.9 combined), active smoking (+0.4), low socioeconomic status (+0.4), and age 56 (+1.2). Protective factors including employment, regular exercise, volunteering, relationship status, and religious engagement partially offset these risks, yielding a net score of 5.3, reflecting a moderately elevated hospitalization risk driven principally by psychiatric and behavioral-health determinants.

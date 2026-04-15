@@ -1,0 +1,82 @@
+## Risk Score: **5.3**
+
+---
+
+### Factor Contributions (Sum = 5.3)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (90) | Extreme elderly age; strong causal risk for hospitalization | +3.0 |
+| BMI (32.5) | Obese class I; causally linked to cardiovascular and metabolic complications | +1.0 |
+| Family Health History: Hypertension | Genetic predisposition to cardiovascular disease | +0.5 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis increases hospitalization risk | +0.5 |
+| Smoking: Yes | Direct causal risk for pulmonary, cardiovascular, and oncological hospitalization | +0.5 |
+| Weekly Alcohol Intake: 4 drinks | Moderate; mild causal contribution to liver and cardiovascular risk | +0.2 |
+| HAM-D Score: 0–6 (Normal) | Contradicts severity of depression diagnosis; reduces psychiatric hospitalization risk | -0.3 |
+| Been Sad or Fatigued: No | No active depressive symptom burden; reduces mental health hospitalization risk | -0.2 |
+| Loss of Interest: No | Absence of anhedonia; reduces psychiatric risk | -0.1 |
+| Hours of Sleep: 7.4 | Healthy sleep duration; causally protective against metabolic and cardiovascular risk | -0.2 |
+| Water Intake: 44.2 oz | Below recommended ~64 oz; mild dehydration risk, especially at age 90 | +0.2 |
+| Exercises: Yes | Physical activity causally reduces hospitalization risk across multiple conditions | -0.3 |
+| Skips Breakfast: Yes | Associated with metabolic dysregulation; mild causal risk | +0.1 |
+| Likes Vegetables: No | Poor dietary habit; mild causal contribution to chronic disease risk | +0.1 |
+| Socioeconomic Status: Middle | Moderate access to healthcare; neutral-to-mild protective effect | -0.1 |
+| Employment: Retired | Reduced occupational stress; mild protective effect | -0.1 |
+| Allergy: Dust | Respiratory irritant; mild causal risk for respiratory-related hospitalization | +0.1 |
+| Volunteers: Always | Strong social engagement; causally protective for mental and physical health | -0.1 |
+| Helps Elderly: Always | Active prosocial behavior; associated with lower mortality and hospitalization | -0.1 |
+| Annual Charity Donation: Always | Indicator of social connectedness; mild protective effect | -0.05 |
+| Registered Organ Donor: Yes | No direct causal effect on hospitalization risk | 0.0 |
+| Donated Blood: Yes | Indicates recent health screening and civic health engagement; mild protective | -0.05 |
+| Relationship Status: Dating | Social support present; mild protective causal effect | -0.1 |
+| Binge Watches TV: Yes | Sedentary behavior; mild causal contribution to metabolic risk | +0.1 |
+| Orders Takeout: Weekly | Regular processed/restaurant food intake; mild dietary risk | +0.1 |
+| Drinks Coffee: Yes | Moderate coffee consumption; neutral to mildly protective cardiovascular effect | -0.05 |
+| Has Driver's License: No | At age 90, reduced mobility may limit healthcare access; mild risk | +0.1 |
+| Uses Public Transportation: Never | Combined with no driver's license, may limit healthcare access at advanced age | +0.1 |
+| Can Ride Bicycle: No | Reduced mobility option; no independent causal effect beyond mobility context | 0.0 |
+| Wears Glasses: Yes | Indicates managed sensory impairment; no direct hospitalization causality | 0.0 |
+| Bilingual: Yes | Associated with cognitive reserve; mild protective effect | -0.05 |
+| Religious: Yes | Associated with social support and mental resilience; mild protective effect | -0.05 |
+| Travels: Yes | Indicates functional capacity at age 90; causally protective signal | -0.1 |
+| Recycling Habits: Always | Lifestyle conscientiousness proxy; no direct causal hospitalization link | 0.0 |
+| Picks Up Litter: Never | No direct causal hospitalization relevance | 0.0 |
+| Sexual Orientation: Heterosexual | No causal hospitalization relevance in this context | 0.0 |
+| Gender: Non-binary | No independent causal hospitalization contribution assigned | 0.0 |
+| Race: Hispanic | No causal contribution assigned independently of other factors | 0.0 |
+| Birthday Month: March | No causal hospitalization relevance | 0.0 |
+| Handedness: Right | No causal hospitalization relevance | 0.0 |
+| Likes Kids: Yes | No direct causal hospitalization relevance | 0.0 |
+| Favourite Meal: Dinner | No direct causal hospitalization relevance | 0.0 |
+| Favourite Color: Green | No causal hospitalization relevance | 0.0 |
+| Hair Color: Black | No causal hospitalization relevance | 0.0 |
+| Eye Color: Hazel | No causal hospitalization relevance | 0.0 |
+| Best High School Subject: History | No causal hospitalization relevance | 0.0 |
+| Favourite Sport: Hockey | No direct causal hospitalization relevance | 0.0 |
+| Favourite Music Genre: Pop | No causal hospitalization relevance | 0.0 |
+| Favourite Movie Genre: Romance | No causal hospitalization relevance | 0.0 |
+| Favourite Cuisine: Chinese | No causal hospitalization relevance | 0.0 |
+| Favourite Season: Summer | No causal hospitalization relevance | 0.0 |
+| Favourite Super Store: Target | No causal hospitalization relevance | 0.0 |
+| Preferred Grocery Store: Harris Teeter | No causal hospitalization relevance | 0.0 |
+| Pet Preference: Fish | No causal hospitalization relevance | 0.0 |
+| Phone: Apple | No causal hospitalization relevance | 0.0 |
+| Spotify vs Apple Music: Apple Music | No causal hospitalization relevance | 0.0 |
+| Morning or Night: Night | Mild circadian misalignment possible; insufficient causal weight to assign | 0.0 |
+| Votes: Sometimes | No direct causal hospitalization relevance | 0.0 |
+| Political Ideology: Liberal | No causal hospitalization relevance | 0.0 |
+| Academic Preference: STEM | No causal hospitalization relevance | 0.0 |
+| Likes Art: Yes | No causal hospitalization relevance | 0.0 |
+| Reads Novels: No | Mild cognitive engagement reduction; insufficient causal weight | 0.0 |
+| Likes Chocolate: No | No causal hospitalization relevance | 0.0 |
+| Has Cheated on Assignment: No | No causal hospitalization relevance | 0.0 |
+
+---
+
+**Total: +3.0 +1.0 +0.5 +0.5 +0.5 +0.2 +0.2 +0.1 +0.1 +0.1 +0.1 +0.1 +0.1 +0.1 +0.1 +0.1 −0.3 −0.2 −0.1 −0.3 −0.1 −0.1 −0.1 −0.1 −0.05 −0.05 −0.1 −0.05 −0.05 −0.1 = 5.3** ✓
+
+---
+
+### Justification
+
+The score is dominated causally by the patient's extreme age of 90, which is the single strongest evidence-based predictor of hospitalization risk, compounded by obesity (BMI 32.5), active smoking, a depression diagnosis, and hypertensive family history, all of which have direct causal pathways to acute medical events. These risks are partially offset by the patient's active exercise habits, healthy sleep, social engagement, functional travel capacity, and the absence of clinically significant depressive symptoms per HAM-D scoring, yielding a moderate-to-elevated net risk of 5.3 out of 10.

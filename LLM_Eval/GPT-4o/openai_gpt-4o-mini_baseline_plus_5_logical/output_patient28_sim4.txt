@@ -1,0 +1,27 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (25): +1
+   - BMI (28.5): +1
+   - Family Health History (Hypertension): +1
+   - Current Diagnosis (Bipolar): +1
+   - Race (Native American): 0
+   - Gender (Non-binary): 0
+   - Sexual Orientation (Heterosexual): 0
+   - Weekly Alcohol Intake (7): +1
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (No): -1
+   - Hours of Sleep (7.8): 0
+   - Employment (Employed): 0
+   - Socioeconomic Status (Middle): 0
+   - Drinks Coffee (No): 0
+   - Likes Vegetables (Yes): 0
+   - Favourite Sport (Basketball): 0
+   - Votes (Never): 0
+   - Height in Inches (70): 0
+
+   **Total Contributions:** +1 (Age) +1 (BMI) +1 (Family Health History) +1 (Current Diagnosis) +1 (Weekly Alcohol Intake) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) -1 (Loss of Interest) = 4
+
+3. **Justification:** The risk score of 4 reflects a moderate hospitalization risk based on the presence of several contributing factors such as age, BMI, family health history, and current diagnosis, which are known to increase health risks, while protective factors like non-smoking and normal mental health status mitigate some risk. The cumulative effect of these factors leads to a balanced risk assessment.

@@ -1,0 +1,22 @@
+1. **Final Hospitalization Risk Score:** 5
+
+2. **Detailed Breakdown of Attributes:**
+   - **Age (26 years):** -1 (Younger age generally correlates with lower hospitalization risk)
+   - **BMI (29.1):** +1 (Overweight status can increase risk for various health issues)
+   - **Family Health History (Diabetes):** +2 (Family history of diabetes can indicate a higher risk for metabolic disorders)
+   - **Current Diagnosis (Bipolar):** +3 (Bipolar disorder can lead to increased risk of hospitalization due to mood episodes)
+   - **Race (Other):** 0 (No significant impact on hospitalization risk in this context)
+   - **Gender (Non-binary):** 0 (No significant impact on hospitalization risk in this context)
+   - **Sexual Orientation (Heterosexual):** 0 (No significant impact on hospitalization risk in this context)
+   - **Weekly Alcohol Intake (3 drinks):** 0 (Moderate alcohol intake does not significantly elevate risk)
+   - **Smoking (No):** -1 (Non-smoker status reduces risk)
+   - **HAM-D (0-6: Normal / No Depression):** -2 (No depression lowers the risk of hospitalization)
+   - **Been Sad or Fatigued (Yes):** +1 (Indicates potential underlying issues that could elevate risk)
+   - **Loss of Interest (Yes):** +1 (Similar to above, may indicate worsening mental health)
+   - **Hours of Sleep (6.2):** 0 (Slightly below average but not significantly impactful)
+   - **Employment (Employed):** -1 (Employment generally correlates with lower risk due to stability)
+   - **Socioeconomic Status (Low):** +2 (Low socioeconomic status can increase stress and limit access to care, raising risk)
+
+   **Total Impact:** -1 + 1 + 2 + 3 + 0 + 0 + 0 + 0 - 1 - 2 + 1 + 1 + 0 - 1 + 2 = 5
+
+3. **Clinical Rationale:** The patient presents a moderate risk for hospitalization primarily due to their bipolar diagnosis and family history of diabetes, which can complicate their overall health management. While their age and non-smoking status are protective factors, the presence of depressive symptoms and low socioeconomic status contribute to a heightened vulnerability, warranting close monitoring and support.

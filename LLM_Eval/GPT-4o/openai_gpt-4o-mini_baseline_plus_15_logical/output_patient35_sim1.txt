@@ -1,0 +1,37 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (18): -1 (lower risk for hospitalization)
+   - BMI (25.6): 0 (normal range, neutral contribution)
+   - Family Health History (Hypertension): +2 (increased risk due to family history)
+   - Current Diagnosis (Bipolar): +2 (mental health condition increases risk)
+   - Race (Hispanic): 0 (neutral contribution)
+   - Gender (Non-binary): 0 (neutral contribution)
+   - Sexual Orientation (Heterosexual): 0 (neutral contribution)
+   - Weekly Alcohol Intake (5): +1 (moderate alcohol intake increases risk)
+   - Smoking (No): -1 (no smoking reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued (No): -1 (no symptoms reduce risk)
+   - Loss of Interest (No): -1 (no symptoms reduce risk)
+   - Hours of Sleep (5.7): +1 (less than optimal sleep increases risk)
+   - Employment (Employed): -1 (employment reduces risk)
+   - Socioeconomic Status (High): -1 (higher status reduces risk)
+   - Drinks Coffee (No): 0 (neutral contribution)
+   - Likes Vegetables (No): 0 (neutral contribution)
+   - Favourite Sport (nan): 0 (neutral contribution)
+   - Votes (Never): 0 (neutral contribution)
+   - Height in Inches (59): 0 (neutral contribution)
+   - Has Driver's License (No): 0 (neutral contribution)
+   - Picks Up Litter (Never): 0 (neutral contribution)
+   - Uses Public Transportation (Never): 0 (neutral contribution)
+   - Donated Blood (Yes): -1 (donating blood is a positive health behavior)
+   - Birthday Month (January): 0 (neutral contribution)
+   - Water Intake (oz) (44.2): 0 (neutral contribution)
+   - Bilingual (No): 0 (neutral contribution)
+   - Handedness (Right): 0 (neutral contribution)
+   - Likes Kids (No): 0 (neutral contribution)
+   - Favourite Meal (Dinner): 0 (neutral contribution)
+
+   **Total Contributions:** -1 + 0 + 2 + 2 + 0 + 0 + 0 + 1 - 1 - 1 - 1 - 1 + 1 - 1 + 0 + 0 + 0 + 0 + 0 + 0 - 1 + 0 + 0 + 0 + 0 + 0 + 0 = 3
+
+3. **Justification:** The risk score of 3 reflects a moderate hospitalization risk primarily influenced by the patient's family health history of hypertension and current diagnosis of bipolar disorder, which are significant risk factors. Other factors, such as moderate alcohol intake and insufficient sleep, contribute positively to the risk, while several protective factors, including no smoking and high socioeconomic status, mitigate the overall risk.

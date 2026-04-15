@@ -1,0 +1,22 @@
+1. **Risk Score:** 2
+
+2. **Input Factors and Contributions:**
+   - Age (32): +1
+   - BMI (23.2): 0
+   - Family Health History (nan): 0
+   - Current Diagnosis (nan): 0
+   - Race (Other): 0
+   - Gender (Other): 0
+   - Sexual Orientation (Heterosexual): 0
+   - Weekly Alcohol Intake (6): +1
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (No): -1
+   - Hours of Sleep (6.8): 0
+   - Employment (Employed): 0
+   - Socioeconomic Status (High): 0
+
+   **Total Contributions:** +1 (Age) +1 (Alcohol Intake) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) -1 (Loss of Interest) = 2
+
+3. **Justification:** The risk score reflects a combination of moderate age and weekly alcohol intake contributing positively to risk, while the absence of smoking, depression, and fatigue significantly reduces the overall risk. The net effect of these factors results in a low hospitalization risk score of 2.

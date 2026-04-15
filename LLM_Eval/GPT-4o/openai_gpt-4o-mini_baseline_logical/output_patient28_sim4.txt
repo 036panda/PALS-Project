@@ -1,0 +1,22 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (25): +1 (young adults generally have lower risk)
+   - BMI (28.5): +2 (overweight category, associated with increased risk)
+   - Family Health History (Hypertension): +2 (family history of hypertension increases risk)
+   - Current Diagnosis (Bipolar): +2 (mental health conditions can elevate hospitalization risk)
+   - Race (Native American): +1 (certain racial groups may have higher health risks)
+   - Gender (Non-binary): +0 (gender identity does not directly influence risk)
+   - Sexual Orientation (Heterosexual): +0 (sexual orientation does not directly influence risk)
+   - Weekly Alcohol Intake (7): +1 (moderate alcohol intake can be a risk factor)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued: -1 (no symptoms reduce risk)
+   - Loss of Interest: -1 (no symptoms reduce risk)
+   - Hours of Sleep (7.8): +0 (adequate sleep does not contribute to risk)
+   - Employment (Employed): -1 (employment generally reduces risk)
+   - Socioeconomic Status (Middle): +0 (middle status does not significantly influence risk)
+
+   **Total Contributions:** +1 + 2 + 2 + 2 + 1 + 0 + 0 + 1 - 1 - 1 - 1 - 1 + 0 + -1 + 0 = 4
+
+3. **Justification:** The risk score of 4 reflects a combination of factors that contribute positively to hospitalization risk, such as BMI, family health history, and current mental health diagnosis, while mitigating factors like non-smoking status and employment help to lower the overall risk. The contributions were assessed based on established associations between these factors and hospitalization likelihood.

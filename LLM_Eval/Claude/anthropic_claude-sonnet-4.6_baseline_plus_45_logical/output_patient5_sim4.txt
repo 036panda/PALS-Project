@@ -1,0 +1,43 @@
+## Hospitalization Risk Score: **3.6**
+
+---
+
+### Factor Contributions (Sum = 3.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases hospitalization likelihood | +1.5 |
+| BMI (25.8) | Normal/healthy range | −0.2 |
+| Family Health History: Asthma | Genetic/environmental predisposition to respiratory illness | +0.4 |
+| Current Diagnosis: None (nan) | No active diagnosed condition | −0.5 |
+| Race: Black | Structural health disparities increase risk exposure | +0.3 |
+| Gender: Female | Slightly lower cardiovascular risk at this age relative to male | −0.1 |
+| Weekly Alcohol Intake: 1 | Minimal alcohol; low risk contribution | −0.1 |
+| Smoking: No | No smoking; protective | −0.4 |
+| HAM-D: Mild Depression (7–17) | Mild depression linked to poorer health outcomes | +0.4 |
+| Been Sad or Fatigued: No | Contradicts/mitigates depression severity | −0.1 |
+| Loss of Interest: No | Further mitigates depression impact | −0.1 |
+| Hours of Sleep: 5.4 | Below recommended threshold; increases systemic risk | +0.5 |
+| Employment: Employed | Access to insurance/routine care; protective | −0.2 |
+| Socioeconomic Status: High | Strong access to healthcare; protective | −0.4 |
+| Drinks Coffee: No | Neutral to marginally positive (no caffeine stress) | 0.0 |
+| Likes Vegetables: Yes | Healthy diet indicator; protective | −0.2 |
+| Exercises: Yes | Regular physical activity; strongly protective | −0.4 |
+| Water Intake: 46.1 oz | Slightly below optimal (~64 oz); minor risk | +0.1 |
+| Allergy: Dust | Combined with asthma family history, increases respiratory risk | +0.3 |
+| Skips Breakfast: Yes | Poor nutritional habit; minor metabolic risk | +0.1 |
+| Binge Watches TV: Yes | Sedentary behavior indicator; minor risk | +0.1 |
+| Volunteers: Never | Lower social engagement; minor risk | +0.1 |
+| Registered Organ Donor: Yes | Proxy for health-conscious behavior; minor protective | −0.1 |
+| Travels: Yes | Exposure to pathogens; minor risk | +0.1 |
+| Wears Glasses: Yes | Minor indicator of age-related health change; negligible | 0.0 |
+| Relationship Status: Single | Reduced social support; minor risk | +0.1 |
+| Religious: No | Slightly lower community support network | +0.1 |
+| Donated Blood: No | Neutral | 0.0 |
+| All remaining lifestyle/preference factors (color, music, phone, cuisine, etc.) | No established causal link to hospitalization risk | 0.0 |
+
+---
+
+### Justification
+
+The score of **3.6** is driven primarily by the patient's age (61), insufficient sleep (5.4 hours), mild depression, a family history of asthma compounded by a dust allergy, and minor structural health disparity factors, all of which have established causal or epidemiological links to increased hospitalization risk. These risks are substantially offset by her high socioeconomic status, active employment, regular exercise, healthy BMI, no smoking, minimal alcohol use, and absence of any current diagnosis.

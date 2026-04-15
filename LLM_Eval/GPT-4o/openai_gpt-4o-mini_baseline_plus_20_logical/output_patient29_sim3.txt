@@ -1,0 +1,24 @@
+1. **Risk Score:** 6
+
+2. **Input Factors and Contributions:**
+   - Age (22): +1 (young adults have lower hospitalization risk)
+   - BMI (35.9): +3 (obesity increases risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (Anxiety): +1 (mental health conditions can increase risk)
+   - Weekly Alcohol Intake (4): +1 (moderate alcohol intake can be a risk factor)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can increase risk)
+   - Hours of Sleep (5.7): +1 (less than recommended sleep increases risk)
+   - Employment (Student): +0 (neutral, as student status does not directly affect risk)
+   - Socioeconomic Status (Middle): +0 (neutral, as middle status does not directly affect risk)
+   - Water Intake (46.6 oz): -1 (adequate hydration reduces risk)
+   - Likes Vegetables (No): +1 (poor diet can increase risk)
+   - Donated Blood (Yes): -1 (donating blood is generally a positive health behavior)
+   - Bilingual (No): +0 (neutral, as language skills do not directly affect risk)
+   - Likes Kids (Yes): +0 (neutral, as this does not directly affect risk)
+   - Recycling Habits (Sometimes): +0 (neutral, as this does not directly affect risk)
+   - Travels (Yes): +0 (neutral, as this does not directly affect risk)
+
+   **Total Contributions:** +1 (Age) + 3 (BMI) + 2 (Family Health History) + 1 (Anxiety) + 1 (Alcohol Intake) - 1 (Smoking) + 1 (Mild Depression) + 1 (Sleep) - 1 (Water Intake) + 1 (Likes Vegetables) - 1 (Donated Blood) = 6
+
+3. **Justification:** The risk score of 6 reflects a combination of factors that increase hospitalization risk, such as high BMI, family health history of cancer, and mental health issues, while mitigating factors like non-smoking and blood donation slightly lower the overall risk. The contributions were assessed based on established causal relationships between these factors and hospitalization risk.

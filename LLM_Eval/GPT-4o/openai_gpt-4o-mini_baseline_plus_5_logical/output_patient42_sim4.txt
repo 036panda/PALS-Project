@@ -1,0 +1,27 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (49): +1
+   - BMI (23.2): 0 (neutral)
+   - Family Health History (Asthma): +1
+   - Current Diagnosis (Anxiety): +1
+   - Race (Hispanic): 0 (neutral)
+   - Gender (Male): 0 (neutral)
+   - Sexual Orientation (Heterosexual): 0 (neutral)
+   - Weekly Alcohol Intake (4): 0 (neutral)
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (9.4): -1
+   - Employment (Employed): -1
+   - Socioeconomic Status (High): -1
+   - Drinks Coffee (Yes): 0 (neutral)
+   - Likes Vegetables (No): 0 (neutral)
+   - Favourite Sport (Basketball): 0 (neutral)
+   - Votes (Sometimes): 0 (neutral)
+   - Height in Inches (65): 0 (neutral)
+
+   **Total Contributions:** +1 (Age) +1 (Family Health History) +1 (Current Diagnosis) +1 (Loss of Interest) -1 (Smoking) -1 (HAM-D) -1 (Been Sad or Fatigued) -1 (Hours of Sleep) -1 (Employment) -1 (Socioeconomic Status) = 3
+
+3. **Justification:** The risk score of 3 reflects a moderate risk based on the presence of anxiety and a family history of asthma, which contribute positively to hospitalization risk. However, protective factors such as no smoking, normal depression levels, and high socioeconomic status mitigate the overall risk.

@@ -1,0 +1,27 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (22): -1 (younger age generally correlates with lower risk)
+   - BMI (21.9): -1 (normal BMI range correlates with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (nan): 0 (no current diagnosis, neutral contribution)
+   - Race (White): 0 (no significant risk contribution based on race)
+   - Gender (Non-binary): 0 (no significant risk contribution based on gender)
+   - Sexual Orientation (Heterosexual): 0 (no significant risk contribution based on sexual orientation)
+   - Weekly Alcohol Intake (3): 0 (moderate intake, neutral contribution)
+   - Smoking (No): -2 (non-smoker, significantly lowers risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression may increase risk)
+   - Been Sad or Fatigued (No): -1 (absence of sadness or fatigue lowers risk)
+   - Loss of Interest (No): -1 (absence of loss of interest lowers risk)
+   - Hours of Sleep (9.6): -1 (adequate sleep lowers risk)
+   - Employment (Employed): -1 (employment generally correlates with lower risk)
+   - Socioeconomic Status (Middle): 0 (neutral contribution)
+   - Drinks Coffee (No): 0 (neutral contribution)
+   - Likes Vegetables (Yes): -1 (healthy eating habits lower risk)
+   - Favourite Sport (Soccer): 0 (neutral contribution)
+   - Votes (Always): 0 (neutral contribution)
+   - Height in Inches (69): 0 (neutral contribution)
+
+   **Total Contributions:** -1 - 1 + 2 + 0 + 0 + 0 + 0 + 0 + (-2) + 1 + (-1) + (-1) + (-1) + (-1) + 0 + 0 + (-1) + 0 + 0 + 0 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of factors that both increase and decrease hospitalization risk. The positive contribution from family health history of cancer is countered by several negative contributions from lifestyle choices and health indicators, resulting in a low overall risk score.

@@ -1,0 +1,21 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (18): -1 (young age generally associated with lower risk)
+   - BMI (25.6): 0 (normal range, neutral contribution)
+   - Family Health History (Hypertension): +2 (increased risk due to family history)
+   - Current Diagnosis (Bipolar): +2 (mental health condition associated with higher risk)
+   - Weekly Alcohol Intake (5): +1 (moderate alcohol intake can increase risk)
+   - Smoking (No): -1 (non-smoker, lowers risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression, lowers risk)
+   - Been Sad or Fatigued: -1 (no reported symptoms, lowers risk)
+   - Loss of Interest: -1 (no reported symptoms, lowers risk)
+   - Hours of Sleep (5.7): +1 (less than optimal sleep, can increase risk)
+   - Employment (Employed): -1 (employment generally lowers risk)
+   - Socioeconomic Status (High): -1 (higher status generally lowers risk)
+   - Water Intake (44.2 oz): -1 (below recommended intake, but not significantly impactful)
+   - Allergy (Shellfish): 0 (no significant impact on hospitalization risk)
+   - Relationship Status (Single): 0 (neutral impact)
+   - Other factors (e.g., race, gender, hobbies): 0 (no direct impact on hospitalization risk)
+
+3. **Justification:** The risk score of 3 reflects a combination of factors that increase and decrease hospitalization risk. The significant contributions arise from the patient's family health history of hypertension and current diagnosis of bipolar disorder, which are counterbalanced by several protective factors such as young age, non-smoking status, and high socioeconomic status.

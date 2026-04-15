@@ -1,0 +1,77 @@
+## Hospitalization Risk Score
+
+**Final Risk Score: 3.7**
+
+---
+
+### Factor Contributions (Sum = 3.7)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk for 60+ | +1.2 |
+| BMI (25.8) | Normal/healthy range | −0.1 |
+| Family Health History (Asthma) | Genetic/environmental predisposition | +0.3 |
+| Current Diagnosis (nan/none) | No active diagnosis | 0.0 |
+| Race (Black) | Systemic health disparity risk factor | +0.3 |
+| Gender (Female) | Slightly lower cardiovascular risk vs male | −0.1 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use | 0.0 |
+| Smoking (No) | No smoking risk | 0.0 |
+| HAM-D: Mild Depression (7–17) | Mild depression increases health risk | +0.4 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity | −0.1 |
+| Loss of Interest (No) | Contradicts mild depression severity | −0.1 |
+| Hours of Sleep (5.4) | Below recommended 7–9 hrs; chronic risk | +0.5 |
+| Employment (Employed) | Protective socioeconomic factor | −0.2 |
+| Socioeconomic Status (High) | Strong protective factor for access to care | −0.4 |
+| Drinks Coffee (No) | Neutral/no contribution | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.1 |
+| Favourite Sport (Hockey) | Active sport engagement | −0.1 |
+| Votes (Sometimes) | Mild civic disengagement; marginal | 0.0 |
+| Height in Inches (62) | Normal; no risk contribution | 0.0 |
+| Has Driver's License (Yes) | Functional independence | 0.0 |
+| Picks Up Litter (Sometimes) | Neutral | 0.0 |
+| Uses Public Transportation (Sometimes) | Neutral | 0.0 |
+| Donated Blood (No) | No contribution | 0.0 |
+| Birthday Month (November) | No causal relevance | 0.0 |
+| Water Intake (46.1 oz) | Below recommended ~64 oz/day | +0.2 |
+| Bilingual (No) | No contribution | 0.0 |
+| Handedness (Right) | No contribution | 0.0 |
+| Likes Kids (Yes) | No contribution | 0.0 |
+| Favourite Meal (Lunch) | No contribution | 0.0 |
+| Favourite Color (Yellow) | No contribution | 0.0 |
+| Recycling Habits (Sometimes) | No contribution | 0.0 |
+| Hair Color (Black) | No contribution | 0.0 |
+| Best High School Subject (Science) | No contribution | 0.0 |
+| Travels (Yes) | Slight exposure risk (pathogens/stress) | +0.1 |
+| Relationship Status (Single) | Reduced social support | +0.2 |
+| Favourite Music Genre (HipHop) | No contribution | 0.0 |
+| Can Ride Bicycle (Yes) | No contribution | 0.0 |
+| Religious (No) | Slight reduction in community support | +0.1 |
+| Phone (Apple) | No contribution | 0.0 |
+| Wears Glasses (Yes) | Minor sensory impairment indicator | +0.1 |
+| Morning or Night (Morning) | Morning chronotype; generally healthy | 0.0 |
+| Allergy (Dust) | Respiratory risk; links to asthma history | +0.3 |
+| Binge Watches TV (Yes) | Sedentary behavior risk | +0.2 |
+| Favourite Super Store (Walmart) | No contribution | 0.0 |
+| Pet Preference (Fish) | No physical activity benefit | 0.0 |
+| Volunteers (Never) | Reduced social engagement/protective activity | +0.1 |
+| Skips Breakfast (Yes) | Poor dietary habit; metabolic risk | +0.2 |
+| Favourite Movie Genre (Comedy) | No contribution | 0.0 |
+| Registered Organ Donor (Yes) | No contribution | 0.0 |
+| Annual Charity Donation (Sometimes) | No contribution | 0.0 |
+| Favourite Cuisine (Indian) | No contribution | 0.0 |
+| Exercises (Yes) | Strong protective factor | −0.3 |
+| Likes Art (Yes) | Positive mental engagement | −0.1 |
+| Academic Preference (STEM) | No contribution | 0.0 |
+| Political Ideology (Liberal) | No direct health contribution | 0.0 |
+| Orders Takeout (Monthly) | Infrequent; minimal dietary risk | 0.0 |
+| Preferred Grocery Store (Harris Teeter) | No contribution | 0.0 |
+| Helps Elderly (Sometimes) | Mild social engagement benefit | −0.1 |
+| Likes Chocolate (No) | No contribution | 0.0 |
+
+**Sum of all contributions: 3.7**
+
+---
+
+### Justification
+The score is primarily driven by the patient's age (61), mild depression diagnosis, insufficient sleep (5.4 hours), dust allergy compounded by a family history of asthma, low water intake, sedentary binge-watching behavior, and reduced social support as a single, non-religious, non-volunteering individual. These risks are meaningfully offset by high socioeconomic status, active employment, regular exercise, healthy BMI, no smoking, and minimal alcohol use, which together provide strong protective causal pathways against hospitalization.

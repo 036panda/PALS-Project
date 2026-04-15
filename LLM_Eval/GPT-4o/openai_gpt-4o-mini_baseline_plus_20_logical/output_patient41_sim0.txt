@@ -1,0 +1,39 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (22): -1 (young age generally associated with lower risk)
+   - BMI (21.9): -1 (normal BMI range associated with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (nan): 0 (no current diagnosis, neutral impact)
+   - Weekly Alcohol Intake (3): +1 (moderate alcohol intake may slightly increase risk)
+   - Smoking (No): -2 (non-smoker significantly lowers risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can increase risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue lowers risk)
+   - Loss of Interest (No): -1 (absence of loss of interest lowers risk)
+   - Hours of Sleep (9.6): -1 (adequate sleep associated with lower risk)
+   - Employment (Employed): -1 (employment generally lowers risk)
+   - Socioeconomic Status (Middle): 0 (neutral impact)
+   - Drinks Coffee (No): 0 (neutral impact)
+   - Likes Vegetables (Yes): -1 (healthy diet lowers risk)
+   - Favourite Sport (Soccer): -1 (active lifestyle lowers risk)
+   - Votes (Always): -1 (civic engagement associated with lower risk)
+   - Height in Inches (69): 0 (neutral impact)
+   - Has Driver's License (Yes): 0 (neutral impact)
+   - Picks Up Litter (Sometimes): 0 (neutral impact)
+   - Uses Public Transportation (Never): 0 (neutral impact)
+   - Donated Blood (Yes): -1 (altruistic behavior associated with lower risk)
+   - Birthday Month (October): 0 (neutral impact)
+   - Water Intake (45.9 oz): 0 (neutral impact)
+   - Bilingual (Yes): 0 (neutral impact)
+   - Handedness (Left): 0 (neutral impact)
+   - Likes Kids (No): 0 (neutral impact)
+   - Favourite Meal (Breakfast): 0 (neutral impact)
+   - Favourite Color (Orange): 0 (neutral impact)
+   - Recycling Habits (Always): -1 (environmental consciousness associated with lower risk)
+   - Hair Color (Brown): 0 (neutral impact)
+   - Best Highschool Subject (Science): 0 (neutral impact)
+   - Travels (No): 0 (neutral impact)
+
+   **Total Contributions:** -1 - 1 + 2 + 1 + 1 + 1 - 1 - 1 - 1 - 1 - 1 - 1 - 1 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of factors that slightly elevate the risk due to family health history and mild depression, while numerous protective factors such as young age, non-smoking status, and healthy lifestyle choices contribute to a lower overall risk. The net effect of these factors results in a low hospitalization risk score on a 0–10 scale.

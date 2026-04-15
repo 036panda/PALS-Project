@@ -1,0 +1,47 @@
+1. **Risk Score:** 5
+
+2. **Input Factors and Contributions:**
+   - Age (32): +1
+   - BMI (25.7): +1
+   - Family Health History (Asthma): +1
+   - Current Diagnosis (nan): 0
+   - Race (White): 0
+   - Gender (Non-binary): 0
+   - Sexual Orientation (Other): 0
+   - Weekly Alcohol Intake (2): 0
+   - Smoking (No): -1
+   - HAM-D (18–24: Moderate Depression): +1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (4.8): +1
+   - Employment (Employed): -1
+   - Socioeconomic Status (Middle): 0
+   - Drinks Coffee (No): 0
+   - Likes Vegetables (No): 0
+   - Favourite Sport (nan): 0
+   - Votes (Sometimes): 0
+   - Height in Inches (63): 0
+   - Has Driver's License (No): 0
+   - Picks Up Litter (Sometimes): 0
+   - Uses Public Transportation (Never): 0
+   - Donated Blood (No): 0
+   - Birthday Month (July): 0
+   - Water Intake (oz) (44.0): 0
+   - Bilingual (Yes): 0
+   - Handedness (Right): 0
+   - Likes Kids (Yes): 0
+   - Favourite Meal (Dinner): 0
+   - Favourite Color (Yellow): 0
+   - Recycling Habits (Sometimes): 0
+   - Hair Color (Black): 0
+   - Best Highschool Subject (English): 0
+   - Travels (No): 0
+   - Relationship Status (Dating): 0
+   - Favourite Music Genre (Pop): 0
+   - Can Ride Bicycle (Yes): 0
+   - Religious (Yes): 0
+   - Phone (Apple): 0
+
+   **Total Contributions:** +1 (Age) +1 (BMI) +1 (Family Health History) +0 (Current Diagnosis) +0 (Race) +0 (Gender) +0 (Sexual Orientation) +0 (Weekly Alcohol Intake) -1 (Smoking) +1 (HAM-D) -1 (Been Sad or Fatigued) +1 (Loss of Interest) +1 (Hours of Sleep) -1 (Employment) +0 (Socioeconomic Status) +0 (Drinks Coffee) +0 (Likes Vegetables) +0 (Favourite Sport) +0 (Votes) +0 (Height) +0 (Driver's License) +0 (Picks Up Litter) +0 (Public Transportation) +0 (Donated Blood) +0 (Birthday Month) +0 (Water Intake) +0 (Bilingual) +0 (Handedness) +0 (Likes Kids) +0 (Favourite Meal) +0 (Favourite Color) +0 (Recycling Habits) +0 (Hair Color) +0 (Best Subject) +0 (Travels) +0 (Relationship Status) +0 (Favourite Music Genre) +0 (Can Ride Bicycle) +0 (Religious) +0 (Phone) = 5
+
+3. **Justification:** The risk score of 5 reflects a moderate hospitalization risk based on the patient's age, BMI, family health history of asthma, and mental health indicators such as moderate depression and loss of interest, which contribute positively to the risk. Conversely, factors such as non-smoking status and employment status mitigate the overall risk, leading to a balanced score.
