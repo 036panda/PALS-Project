@@ -1,0 +1,25 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (22): -1 (younger age generally correlates with lower risk)
+   - BMI (21.9): -1 (normal BMI is associated with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (nan): 0 (no current diagnosis contributes neutral)
+   - Weekly Alcohol Intake (3): 0 (moderate intake does not significantly increase risk)
+   - Smoking (No): -2 (non-smoker status reduces risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can increase risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue lowers risk)
+   - Loss of Interest (No): -1 (absence of loss of interest lowers risk)
+   - Hours of Sleep (9.6): -1 (adequate sleep is protective)
+   - Employment (Employed): -1 (employment generally correlates with lower risk)
+   - Socioeconomic Status (Middle): 0 (neutral contribution)
+   - Drinks Coffee (No): 0 (neutral contribution)
+   - Likes Vegetables (Yes): -1 (healthy diet lowers risk)
+   - Exercises (No): +1 (lack of exercise can increase risk)
+   - Relationship Status (Dating): 0 (neutral contribution)
+   - Registered Organ Donor (Yes): -1 (pro-social behavior correlates with lower risk)
+   - Allergy (Shellfish): 0 (neutral contribution)
+   - Binge Watches TV (No): -1 (active lifestyle lowers risk)
+   - Volunteers (Always): -1 (pro-social behavior correlates with lower risk)
+
+3. **Justification:** The risk score of 3 reflects a combination of protective factors (such as non-smoking status, adequate sleep, and a healthy diet) and risk factors (like family history of cancer and lack of exercise). The overall contributions indicate a relatively low risk of hospitalization, primarily influenced by the presence of mild depression and family health history.

@@ -1,0 +1,34 @@
+1. **Final Hospitalization Risk Score:** 5
+
+2. **Detailed Breakdown of Attributes:**
+   - **Age (32 years):** -1 (Younger adults generally have lower hospitalization risk)
+   - **BMI (25.7):** 0 (BMI in the normal range; no significant impact)
+   - **Family Health History (Asthma):** +1 (Increased risk due to potential respiratory issues)
+   - **Current Diagnosis (nan):** 0 (No current diagnosis; neutral impact)
+   - **Race (White):** 0 (No significant impact on hospitalization risk)
+   - **Gender (Non-binary):** 0 (No significant impact on hospitalization risk)
+   - **Sexual Orientation (Other):** 0 (No significant impact on hospitalization risk)
+   - **Weekly Alcohol Intake (2 drinks):** 0 (Moderate intake; neutral impact)
+   - **Smoking (No):** -1 (Non-smoker; reduces risk)
+   - **HAM-D (18–24: Moderate Depression):** +1 (Moderate depression can increase hospitalization risk)
+   - **Been Sad or Fatigued (No):** -1 (No current symptoms; reduces risk)
+   - **Loss of Interest (Yes):** +1 (Loss of interest can indicate worsening mental health, increasing risk)
+   - **Hours of Sleep (4.8):** +1 (Inadequate sleep can negatively impact health, increasing risk)
+   - **Employment (Employed):** -1 (Employment generally correlates with better health outcomes)
+   - **Socioeconomic Status (Middle):** 0 (Neutral impact; no significant risk increase)
+   - **Drinks Coffee (No):** 0 (Neutral impact; no significant risk)
+   - **Likes Vegetables (No):** +1 (Poor dietary habits can increase health risks)
+   - **Hours of Exercise (Yes):** -1 (Regular exercise reduces hospitalization risk)
+   - **Likes Art (No):** 0 (Neutral impact; no significant risk)
+   - **Binge Watches TV (No):** 0 (Neutral impact; no significant risk)
+   - **Skips Breakfast (Yes):** +1 (Skipping meals can negatively impact health)
+   - **Allergy (Animal Dander):** 0 (No significant impact on hospitalization risk)
+   - **Registered Organ Donor (No):** 0 (Neutral impact; no significant risk)
+   - **Annual Charity Donation (Always):** -1 (Positive social behavior can correlate with better health outcomes)
+
+   **Total Impact Calculation:**
+   - Positive impacts: 5 (Family Health History + HAM-D + Loss of Interest + Hours of Sleep + Likes Vegetables + Skips Breakfast)
+   - Negative impacts: 5 (Age + Smoking + Been Sad or Fatigued + Employment + Exercise + Annual Charity Donation)
+   - Final Score: 5 (5 positive impacts - 5 negative impacts)
+
+3. **Clinical Rationale:** The patient presents with moderate depression and a family history of asthma, which contribute to a moderate risk of hospitalization. However, factors such as being a non-smoker, employed, and engaging in regular exercise help mitigate this risk, resulting in a balanced overall score.

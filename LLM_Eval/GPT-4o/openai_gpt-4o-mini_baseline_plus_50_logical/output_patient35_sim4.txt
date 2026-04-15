@@ -1,0 +1,26 @@
+1. **Risk Score:** 4
+
+2. **Input Factors and Contributions:**
+   - Age (18): -1 (young age generally associated with lower risk)
+   - BMI (25.6): 0 (normal range, neutral contribution)
+   - Family Health History (Hypertension): +2 (increased risk due to family history)
+   - Current Diagnosis (Bipolar): +2 (mental health condition associated with higher risk)
+   - Weekly Alcohol Intake (5): +1 (moderate alcohol intake can increase risk)
+   - Smoking (No): -1 (non-smoker, lower risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression, lower risk)
+   - Hours of Sleep (5.7): +1 (less than optimal sleep, associated with higher risk)
+   - Employment (Employed): -1 (employment generally lowers risk)
+   - Socioeconomic Status (High): -1 (higher socioeconomic status generally lowers risk)
+   - Water Intake (44.2 oz): -1 (below recommended intake, but not significantly impactful)
+   - Exercises (Yes): -1 (exercise lowers risk)
+   - Relationship Status (Single): +1 (single status can be associated with higher risk)
+   - Registered Organ Donor (Yes): -1 (pro-social behavior, lower risk)
+   - Allergy (Shellfish): 0 (neutral contribution)
+   - Likes Chocolate (Yes): 0 (neutral contribution)
+   - Binge Watches TV (No): -1 (active lifestyle, lower risk)
+   - Volunteers (Sometimes): -1 (pro-social behavior, lower risk)
+   - Skips Breakfast (No): -1 (healthy eating habit, lower risk)
+
+   **Total Contributions:** -1 + 0 + 2 + 2 + 1 - 1 - 1 + 1 - 1 - 1 - 1 - 1 + 1 + 0 + 0 - 1 - 1 - 1 = 4
+
+3. **Justification:** The risk score of 4 reflects a combination of factors that increase and decrease hospitalization risk. The presence of bipolar disorder and a family history of hypertension contribute positively to the risk, while factors such as young age, non-smoking status, and high socioeconomic status mitigate it, resulting in a moderate overall risk score.

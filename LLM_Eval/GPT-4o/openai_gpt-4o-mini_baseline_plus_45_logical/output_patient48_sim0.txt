@@ -1,0 +1,27 @@
+1. **Risk Score:** 5
+
+2. **Input Factors and Contributions:**
+   - Age (46): +1
+   - BMI (28.3): +1
+   - Family Health History (Heart Disease): +2
+   - Current Diagnosis (Bipolar): +1
+   - Weekly Alcohol Intake (2): +0
+   - Smoking (No): -1
+   - HAM-D (0–6: Normal / No Depression): -1
+   - Been Sad or Fatigued (No): -1
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (7.0): -1
+   - Employment (Employed): -1
+   - Socioeconomic Status (Middle): -1
+   - Drinks Coffee (Yes): +0
+   - Likes Vegetables (Yes): -1
+   - Relationship Status (Single): +1
+   - Exercises (No): +1
+   - Skips Breakfast (Yes): +1
+   - Registered Organ Donor (Yes): -1
+   - Annual Charity Donation (Sometimes): -1
+   - Helps Elderly (Always): -1
+
+   **Total Contributions:** +1 (Age) +1 (BMI) +2 (Family Health History) +1 (Current Diagnosis) +0 (Alcohol) -1 (Smoking) -1 (HAM-D) -1 (Sadness) +1 (Loss of Interest) -1 (Sleep) -1 (Employment) -1 (Socioeconomic Status) +0 (Coffee) -1 (Vegetables) +1 (Single) +1 (Exercise) +1 (Skips Breakfast) -1 (Organ Donor) -1 (Charity) -1 (Helps Elderly) = 5
+
+3. **Justification:** The risk score of 5 reflects a moderate hospitalization risk based on the combination of age, BMI, family health history, and current diagnosis, which contribute positively to the risk, while factors such as non-smoking status, normal mental health, and employment status mitigate the overall risk. The presence of bipolar disorder and a family history of heart disease significantly elevate the risk, while lifestyle factors like exercise and socioeconomic status provide some protective effects.

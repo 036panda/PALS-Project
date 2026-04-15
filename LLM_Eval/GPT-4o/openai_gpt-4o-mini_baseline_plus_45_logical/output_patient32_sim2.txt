@@ -1,0 +1,24 @@
+1. **Risk Score:** 7
+
+2. **Input Factors and Contributions:**
+   - Age (19): -1 (young age generally associated with lower risk)
+   - BMI (17.6): -2 (underweight, which can be a risk factor but also associated with lower hospitalization risk)
+   - Family Health History (Diabetes): +2 (increased risk due to family history)
+   - Current Diagnosis (Schizophrenia): +3 (significant mental health condition increases risk)
+   - HAM-D (25+): +3 (severe depression significantly increases risk)
+   - Loss of Interest: +1 (indicative of depression, contributing to risk)
+   - Weekly Alcohol Intake (3): +1 (moderate alcohol intake can be a risk factor)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - Employment (Student): 0 (neutral impact)
+   - Socioeconomic Status (High): -1 (higher socioeconomic status generally reduces risk)
+   - Skips Breakfast: +1 (associated with poorer health habits)
+   - Exercises: -1 (exercise generally reduces risk)
+   - Relationship Status (Single): +1 (single status can be associated with higher risk due to social isolation)
+   - Allergy (Gluten): 0 (neutral impact)
+   - Binge Watches TV: +1 (sedentary behavior can increase risk)
+   - Registered Organ Donor: 0 (neutral impact)
+   - Annual Charity Donation: 0 (neutral impact)
+
+   **Total Contributions:** -1 - 2 + 2 + 3 + 3 + 1 + 1 - 1 + 0 - 1 + 1 - 1 + 1 + 0 + 0 + 0 = 7
+
+3. **Justification:** The risk score of 7 reflects a combination of significant mental health challenges (schizophrenia and severe depression) and lifestyle factors (skipping breakfast, binge-watching TV) that contribute to increased hospitalization risk, while some protective factors (youth, non-smoking, high socioeconomic status) mitigate this risk to some extent.

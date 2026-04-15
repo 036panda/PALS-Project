@@ -1,0 +1,19 @@
+1. **Risk Score:** 6
+
+2. **Input Factors and Contributions:**
+   - Age (40 years): +1
+   - BMI (34.6): +2
+   - Family Health History (Cancer): +2
+   - Current Diagnosis (Bipolar): +1
+   - HAM-D (Mild Depression): +1
+   - Weekly Alcohol Intake (4 drinks): +1
+   - Smoking (No): -1
+   - Hours of Sleep (8.9): -1
+   - Employment (Employed): -1
+   - Socioeconomic Status (Middle): -1
+   - Exercises (No): +1
+   - Skips Breakfast (Yes): +1
+
+   **Total Contributions:** +1 (Age) + 2 (BMI) + 2 (Family Health History) + 1 (Current Diagnosis) + 1 (HAM-D) + 1 (Alcohol Intake) - 1 (Smoking) - 1 (Hours of Sleep) - 1 (Employment) - 1 (Socioeconomic Status) + 1 (Exercises) + 1 (Skips Breakfast) = 6
+
+3. **Justification:** The risk score of 6 reflects a combination of factors that increase hospitalization risk, such as elevated BMI, family history of cancer, and current mental health diagnosis, while mitigating factors like non-smoking status and adequate sleep slightly reduce the overall risk. The contributions are based on established correlations between these factors and health outcomes, leading to a cumulative risk assessment.

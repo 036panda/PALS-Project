@@ -1,0 +1,22 @@
+1. **Risk Score:** 5
+
+2. **Input Factors and Contributions:**
+   - Age (20): +1 (young adults generally have lower hospitalization risk)
+   - BMI (24.6): +1 (normal weight range, minimal risk)
+   - Family Health History (Cancer): +2 (increased risk due to family history)
+   - Current Diagnosis (Schizophrenia): +3 (mental health conditions can increase hospitalization risk)
+   - Weekly Alcohol Intake (6): +1 (moderate alcohol intake can pose some risk)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (no depression reduces risk)
+   - Been Sad or Fatigued (No): -1 (absence of fatigue reduces risk)
+   - Loss of Interest (Yes): +1 (could indicate underlying issues, increasing risk)
+   - Hours of Sleep (7.6): -1 (adequate sleep reduces risk)
+   - Employment (Student): +1 (students may have higher stress, increasing risk)
+   - Socioeconomic Status (Low): +1 (low socioeconomic status can increase risk)
+   - Drinks Coffee (Yes): +1 (caffeine can have mixed effects, slight increase in risk)
+   - Likes Vegetables (No): +1 (poor diet can increase risk)
+   - Exercises (No): +2 (lack of exercise increases risk)
+   - Skips Breakfast (Yes): +1 (irregular eating habits can increase risk)
+   - Registered Organ Donor (Yes): -1 (proactive health behavior reduces risk)
+
+3. **Justification:** The risk score of 5 reflects a balance of both positive and negative contributions from various health and lifestyle factors. Key contributors to increased risk include the current diagnosis of schizophrenia, family health history of cancer, and lack of exercise, while factors such as non-smoking status and adequate sleep help mitigate some risk.

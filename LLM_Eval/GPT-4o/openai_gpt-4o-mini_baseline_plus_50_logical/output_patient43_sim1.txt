@@ -1,0 +1,25 @@
+1. **Risk Score:** 3
+
+2. **Input Factors and Contributions:**
+   - Age (20): -1 (young age generally associated with lower risk)
+   - BMI (21.0): -1 (normal BMI associated with lower risk)
+   - Family Health History (Cancer): +2 (family history of cancer increases risk)
+   - Current Diagnosis (Bipolar): +1 (mental health conditions can increase risk)
+   - Race (Black): +1 (certain racial groups may have higher health risks)
+   - Gender (Male): +1 (males generally have higher risk for certain conditions)
+   - Weekly Alcohol Intake (0): -1 (no alcohol intake lowers risk)
+   - Smoking (No): -1 (non-smoker lowers risk)
+   - HAM-D (7–17: Mild Depression): +1 (mild depression can contribute to health risks)
+   - Hours of Sleep (5.7): +1 (less than recommended sleep can increase risk)
+   - Socioeconomic Status (Low): +1 (lower socioeconomic status can increase health risks)
+   - Exercises (Yes): -1 (regular exercise lowers risk)
+   - Skips Breakfast (Yes): +1 (skipping meals can be associated with higher risk)
+   - Relationship Status (Single): +1 (being single can correlate with higher health risks)
+   - Allergy (Pollen): 0 (no significant impact on hospitalization risk)
+   - Donated Blood (Yes): -1 (donating blood is generally a positive health behavior)
+   - Helps Elderly (Always): -1 (volunteering can indicate better mental health)
+   - Binge Watches TV (No): -1 (not binge-watching may indicate healthier lifestyle choices)
+
+   **Total Contributions:** -1 - 1 + 2 + 1 + 1 + 1 - 1 - 1 + 1 + 1 + 1 - 1 + 1 - 1 = 3
+
+3. **Justification:** The risk score of 3 reflects a combination of positive and negative health factors, with significant contributions from family health history and current mental health diagnosis, which increase risk, while factors like age, BMI, and exercise habits mitigate it. The overall score indicates a low to moderate risk of hospitalization based on the assessed factors.

@@ -1,0 +1,27 @@
+1. Final Hospitalization Risk Score: 4
+
+2. Detailed Breakdown of Attributes:
+   - Age (46): +1 (Increased risk with age)
+   - BMI (28.3): +1 (Overweight status can contribute to health risks)
+   - Family Health History (Heart Disease): +2 (Significant risk factor for cardiovascular issues)
+   - Current Diagnosis (Bipolar): +2 (Mental health conditions can complicate physical health)
+   - Weekly Alcohol Intake (2): -1 (Moderate intake, not a significant risk)
+   - Smoking (No): -2 (Non-smoker, reduces risk)
+   - HAM-D (0–6: Normal / No Depression): -1 (No depression, lowers risk)
+   - Been Sad or Fatigued (No): -1 (No reported fatigue, lowers risk)
+   - Loss of Interest (Yes): +1 (Could indicate underlying issues affecting health)
+   - Hours of Sleep (7.0): -1 (Adequate sleep, lowers risk)
+   - Employment (Employed): -1 (Employment can provide stability and support)
+   - Socioeconomic Status (Middle): -1 (Middle status generally correlates with better health access)
+   - Drinks Coffee (Yes): -1 (Moderate coffee consumption typically has neutral or positive effects)
+   - Likes Vegetables (Yes): -1 (Healthy dietary preference, lowers risk)
+   - Exercise (No): +1 (Lack of exercise increases health risks)
+   - Relationship Status (Single): +1 (Social support may be lacking, potentially increasing risk)
+   - Allergies (Pollen): 0 (No significant impact on hospitalization risk)
+   - Other lifestyle factors (e.g., public transportation use, volunteering, etc.): 0 (Neutral impact)
+
+   Total Positive Impacts: 8
+   Total Negative Impacts: 4
+   Net Impact: 8 - 4 = 4
+
+3. Clinical Rationale: The patient presents a moderate risk for hospitalization primarily due to their family history of heart disease, current bipolar diagnosis, and lifestyle factors such as lack of exercise and social support. However, their non-smoking status, adequate sleep, and moderate alcohol intake contribute positively to their overall health profile, resulting in a balanced risk score.

@@ -1,0 +1,20 @@
+1. **Risk Score:** 7
+
+2. **Input Factors and Contributions:**
+   - Age (19): -1 (young age generally associated with lower risk)
+   - BMI (17.6): -2 (underweight, which can be a risk factor but also associated with lower hospitalization risk)
+   - Family Health History (Diabetes): +2 (family history increases risk)
+   - Current Diagnosis (Schizophrenia): +3 (serious mental health condition increases risk)
+   - HAM-D (25+): +3 (severe depression significantly increases risk)
+   - Weekly Alcohol Intake (3): +1 (moderate alcohol intake can be a risk factor)
+   - Smoking (No): -1 (non-smoker reduces risk)
+   - Hours of Sleep (8.0): -1 (adequate sleep generally reduces risk)
+   - Socioeconomic Status (High): -1 (higher socioeconomic status typically reduces risk)
+   - Skips Breakfast (Yes): +1 (skipping meals can be associated with poorer health outcomes)
+   - Exercises (Yes): -1 (regular exercise reduces risk)
+   - Relationship Status (Single): +1 (single status can be associated with higher risk due to social isolation)
+   - Allergy (Gluten): +1 (food allergies can complicate health and increase risk)
+
+   **Total Contributions:** -1 - 2 + 2 + 3 + 3 + 1 - 1 - 1 - 1 + 1 - 1 + 1 = 7
+
+3. **Justification:** The risk score of 7 reflects a combination of significant mental health challenges (schizophrenia and severe depression) and family health history, which are strong predictors of hospitalization risk. While some factors, such as age, socioeconomic status, and exercise habits, contribute positively to reducing risk, the overall impact of the mental health conditions leads to a higher risk score.

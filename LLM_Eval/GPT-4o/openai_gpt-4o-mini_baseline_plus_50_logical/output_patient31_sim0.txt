@@ -1,0 +1,19 @@
+1. **Risk Score:** 7
+
+2. **Input Factors and Contributions:**
+   - Age (36): +1
+   - BMI (36.8): +3
+   - Family Health History (Hypertension): +2
+   - Smoking (Yes): +2
+   - Weekly Alcohol Intake (7): +1
+   - Been Sad or Fatigued (Yes): +1
+   - Loss of Interest (Yes): +1
+   - Hours of Sleep (5.7): +1
+   - Employment (Employed): -1
+   - Socioeconomic Status (Middle): -1
+   - Exercise (No): +1
+   - Skips Breakfast (Yes): +1
+
+   **Total Contributions:** +1 (Age) + 3 (BMI) + 2 (Family Health History) + 2 (Smoking) + 1 (Alcohol) + 1 (Sadness) + 1 (Loss of Interest) + 1 (Sleep) - 1 (Employment) - 1 (Socioeconomic Status) + 1 (Exercise) + 1 (Skips Breakfast) = 7
+
+3. **Justification:** The risk score of 7 reflects a combination of several high-risk factors, including obesity (BMI), smoking, and mental health indicators (sadness and loss of interest), which are known to contribute significantly to hospitalization risk. Positive contributions from these factors outweigh the negative contributions from employment and socioeconomic status, leading to an elevated risk score.

@@ -1,0 +1,30 @@
+1. **Final Hospitalization Risk Score: 4**
+
+2. **Detailed Breakdown of Attributes:**
+   - **Age (46)**: +1 (Increased risk with age)
+   - **BMI (28.3)**: +1 (Overweight status can contribute to health issues)
+   - **Family Health History (Heart Disease)**: +2 (Significant risk factor for cardiovascular issues)
+   - **Current Diagnosis (Bipolar)**: +2 (Mental health conditions can complicate physical health)
+   - **Weekly Alcohol Intake (2)**: -1 (Moderate intake, not a significant risk)
+   - **Smoking (No)**: -2 (Non-smoker, reduces risk)
+   - **HAM-D (0-6: Normal / No Depression)**: -1 (No depression, lowers risk)
+   - **Been Sad or Fatigued (No)**: -1 (No reported fatigue, lowers risk)
+   - **Loss of Interest (Yes)**: +1 (Could indicate underlying issues, raises risk)
+   - **Hours of Sleep (7.0)**: -1 (Adequate sleep, lowers risk)
+   - **Employment (Employed)**: -1 (Employment can provide stability, lowers risk)
+   - **Socioeconomic Status (Middle)**: -1 (Middle status generally lowers risk)
+   - **Drinks Coffee (Yes)**: -1 (Moderate coffee consumption typically has neutral effects)
+   - **Likes Vegetables (Yes)**: -1 (Healthy dietary preference, lowers risk)
+   - **Exercise (No)**: +1 (Lack of exercise can increase risk)
+   - **Relationship Status (Single)**: +1 (Single status may correlate with higher stress levels)
+   - **Uses Public Transportation (Always)**: -1 (May indicate lower exposure to certain risks)
+   - **Allergy (Pollen)**: 0 (No significant impact on hospitalization risk)
+   - **Binge Watches TV (Yes)**: 0 (No significant impact on hospitalization risk)
+   - **Registered Organ Donor (Yes)**: 0 (No significant impact on hospitalization risk)
+   - **Annual Charity Donation (Sometimes)**: 0 (No significant impact on hospitalization risk)
+   - **Likes Kids (Yes)**: 0 (No significant impact on hospitalization risk)
+   - **Volunteers (Never)**: +1 (Lack of community engagement may increase risk)
+   - **Skips Breakfast (Yes)**: +1 (Skipping meals can be a risk factor)
+   - **Can Ride Bicycle (No)**: +1 (Lack of physical activity increases risk)
+
+3. **Clinical Rationale:** The patient presents a moderate risk for hospitalization primarily due to their family history of heart disease, current bipolar diagnosis, and lifestyle factors such as lack of exercise and skipping meals. While several attributes mitigate risk, the combination of mental health and family history necessitates close monitoring and potential intervention.
