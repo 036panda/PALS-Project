@@ -1,0 +1,70 @@
+## Hospitalization Risk Evaluation — Patient ID: 5
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (61) | Older adult, elevated biological risk | +1.2 |
+| BMI (25.8) | Normal-to-slightly elevated, minimal concern | +0.1 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory illness | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.5 |
+| Race (Black) | Systemic health disparities, higher chronic disease burden | +0.4 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age post-menopause offset | +0.1 |
+| Sexual Orientation (Heterosexual) | No significant differential risk | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use, negligible risk | −0.1 |
+| Smoking (No) | Protective factor, significantly reduces respiratory/cardiac risk | −0.6 |
+| HAM-D (Mild Depression, 7–17) | Mild depression linked to poorer health outcomes and immune function | +0.4 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat; protective | −0.2 |
+| Loss of Interest (No) | Functional engagement preserved | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; linked to immune suppression and cardiovascular risk | +0.5 |
+| Employment (Employed) | Structured routine, insurance access, protective | −0.3 |
+| Socioeconomic Status (High) | Strong access to healthcare, nutrition, and resources | −0.5 |
+| Drinks Coffee (No) | Neutral to mildly positive (no caffeine-related cardiovascular stress) | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit, reduces chronic disease risk | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator, cardiovascular benefit | −0.2 |
+| Votes (Sometimes) | Moderate civic engagement; mild proxy for social investment | 0.0 |
+| Height in Inches (62) | Within normal range, no clinical concern | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence, access to care | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior, negligible clinical impact | 0.0 |
+| Uses Public Transportation (Sometimes) | Slight infectious disease exposure risk | +0.1 |
+| Donated Blood (No) | No clinical impact on hospitalization risk | 0.0 |
+| Birthday Month (November) | Seasonal flu/respiratory risk window | +0.1 |
+| Water Intake (46.1 oz) | Below recommended ~64 oz/day; mild dehydration risk | +0.2 |
+| Bilingual (No) | No significant clinical impact | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness | −0.1 |
+| Favourite Meal (Lunch) | No significant clinical impact | 0.0 |
+| Favourite Color (Yellow) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | No direct clinical impact | 0.0 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (Science) | Proxy for health literacy; slightly protective | −0.1 |
+| Travels (Yes) | Infectious disease exposure risk, minor | +0.1 |
+| Relationship Status (Single) | Reduced social support; associated with poorer health outcomes | +0.3 |
+| Favourite Music Genre (Hip-Hop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (Yes) | Physical capability indicator, protective | −0.1 |
+| Religious (No) | Slightly reduced community/social support network | +0.1 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Minor indicator of sensory health decline with age | +0.1 |
+| Morning or Night (Morning) | Morning chronotype associated with better metabolic health | −0.1 |
+| Allergy (Dust) | Combined with family asthma history, respiratory risk elevated | +0.3 |
+| Binge-Watches TV (Yes) | Sedentary behavior, associated with cardiovascular and metabolic risk | +0.2 |
+| Favourite Superstore (Walmart) | Mild proxy for dietary access patterns; negligible | 0.0 |
+| Pet Preference (Fish) | Low-interaction pet; minimal stress-reduction benefit | 0.0 |
+| Volunteers (Never) | Reduced social engagement; associated with poorer mental health outcomes | +0.2 |
+| Skips Breakfast (Yes) | Associated with metabolic dysregulation and poor glycemic control | +0.2 |
+| Favourite Movie Genre (Comedy) | Positive affect association; mildly protective | −0.1 |
+| Registered Organ Donor (Yes) | Proxy for civic health awareness; negligible direct impact | 0.0 |
+
+**Sum Total: +4.2**
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a moderate hospitalization risk driven primarily by her age, mild depressive symptoms, insufficient sleep, dust allergy compounded by a family history of asthma, single relationship status, and sedentary behaviors such as binge-watching and breakfast skipping. These risks are meaningfully offset by her high socioeconomic status, active employment, non-smoking status, absence of a current diagnosis, healthy BMI, and strong dietary habits, yielding an overall risk score reflective of a patient who is functionally stable but warrants monitoring for respiratory, cardiovascular, and mental health trajectories.

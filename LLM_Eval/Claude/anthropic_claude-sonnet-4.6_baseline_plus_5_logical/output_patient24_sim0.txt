@@ -1,0 +1,39 @@
+## Risk Score Calculation for Patient_ID: 24
+
+---
+
+### 1. Risk Score: **6.2**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (52) | Moderate-high age, elevated chronic risk | +1.2 |
+| BMI (16.4) | Severely underweight, high medical risk | +1.5 |
+| Family Health History (Cancer) | Genetic predisposition to serious illness | +0.5 |
+| Current Diagnosis (Bipolar) | Serious psychiatric condition requiring management | +1.0 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-risk consumption level | +0.5 |
+| Smoking (Yes) | Significant cardiovascular/pulmonary risk factor | +0.7 |
+| HAM-D (Mild Depression, 7–17) | Active depressive symptomatology | +0.4 |
+| Loss of Interest (Yes) | Anhedonia indicating psychiatric deterioration | +0.3 |
+| Hours of Sleep (4.8) | Severe sleep deprivation, worsens bipolar/physical health | +0.5 |
+| Employment (Employed) | Protective social structure and insurance access | −0.4 |
+| Socioeconomic Status (Middle) | Moderate resource access, partial protective effect | −0.2 |
+| Race (Asian) | No significant directional adjustment applied | +0.0 |
+| Gender (Male) | Slightly elevated risk for underreporting/help-seeking delay | +0.1 |
+| Sexual Orientation (Other) | Minority stress, potential barrier to care | +0.2 |
+| Been Sad or Fatigued (No) | Partially mitigates depressive severity | −0.2 |
+| Drinks Coffee (No) | Neutral/no stimulant interaction risk | +0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior, mild protective effect | −0.1 |
+| Favourite Sport (NaN) | No physical activity indicated, sedentary risk | +0.2 |
+| Votes (Always) | Civic engagement proxy for social stability | −0.1 |
+| Height (71 inches) | Contextual to BMI calculation only | +0.0 |
+| **Total** | | **6.2** |
+
+---
+
+### 3. Justification
+
+The elevated risk score is primarily driven by a critically low BMI of 16.4 (severe underweight), which in combination with a Bipolar disorder diagnosis, active mild depression with anhedonia, chronic sleep deprivation (4.8 hours), smoking, and moderate alcohol use creates a compounding pattern of physical and psychiatric vulnerability that substantially increases hospitalization likelihood. Protective factors including stable employment, middle socioeconomic status, civic engagement, and vegetable consumption partially offset these risks but are insufficient to counterbalance the severity of the physiological and psychiatric burden.

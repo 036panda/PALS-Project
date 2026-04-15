@@ -1,0 +1,34 @@
+## Hospitalization Risk Evaluation — Patient ID: 33
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (42) | Middle-aged; moderate chronic disease vulnerability | +0.5 |
+| BMI (13.4) | Severely underweight; high risk for malnutrition, organ stress, immune compromise | +2.8 |
+| Family Health History (Diabetes) | Elevated metabolic risk, especially concerning given low BMI | +0.4 |
+| Current Diagnosis (NaN) | No active diagnosis on record; slight protective effect | −0.3 |
+| Race (Native American) | Documented health disparities, reduced healthcare access, higher chronic disease burden | +0.5 |
+| Gender (Other) | Minority stress, potential barriers to affirming care | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional orientation-related risk | +0.0 |
+| Weekly Alcohol Intake (4 units) | Moderate; mild hepatic and nutritional concern, especially with low BMI | +0.3 |
+| Smoking (No) | Protective; no pulmonary or cardiovascular smoking risk | −0.4 |
+| HAM-D: Mild Depression (7–17) | Mild depressive symptomatology; moderate psychiatric risk | +0.6 |
+| Been Sad or Fatigued (No) | Inconsistent with depression diagnosis; slight protective signal | −0.2 |
+| Loss of Interest (Yes) | Anhedonia present; supports depressive burden, risk of self-neglect | +0.4 |
+| Hours of Sleep (5.0) | Insufficient sleep; compounds fatigue, immune dysfunction, and mood instability | +0.5 |
+| Employment (Employed) | Provides structure and insurance access; protective | −0.4 |
+| Socioeconomic Status (Middle) | Moderate resource access; mild protective effect | −0.1 |
+| **Total** | | **= 5.8** |
+
+---
+
+### 3. Clinical Rationale
+
+This patient's most clinically alarming feature is a BMI of 13.4, which represents severe undernutrition and carries significant risk for cardiac arrhythmia, immune failure, and acute decompensation warranting inpatient medical stabilization. Compounding this, the presence of anhedonia, mild depression, poor sleep, and racial health disparities suggests a patient who may be underreporting distress and underutilizing care, making hospitalization risk meaningfully elevated despite the absence of a formal current diagnosis.

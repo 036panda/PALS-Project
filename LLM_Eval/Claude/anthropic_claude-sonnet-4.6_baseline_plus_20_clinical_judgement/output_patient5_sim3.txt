@@ -1,0 +1,54 @@
+## Patient_ID: 5 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (61) | Older adult; elevated biological risk | +1.2 |
+| BMI (25.8) | Normal/healthy range | −0.3 |
+| Family Health History (Asthma) | Hereditary respiratory vulnerability | +0.3 |
+| Current Diagnosis (NaN) | No active diagnosis | −0.5 |
+| Race (Black) | Systemic health disparities; elevated chronic disease risk | +0.4 |
+| Gender (Female) | Generally lower cardiovascular risk at this age | −0.1 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal; negligible risk | −0.1 |
+| Smoking (No) | Significant protective factor | −0.5 |
+| HAM-D: Mild Depression (7–17) | Mild depressive symptoms; modest risk elevation | +0.4 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat | −0.1 |
+| Loss of Interest (No) | Protective against functional decline | −0.1 |
+| Hours of Sleep (5.4) | Below recommended; immune/cardiovascular risk | +0.5 |
+| Employment (Employed) | Stability; access to insurance/resources | −0.3 |
+| Socioeconomic Status (High) | Strong access to care; protective | −0.4 |
+| Drinks Coffee (No) | Neutral to mildly protective | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator | −0.2 |
+| Votes (Sometimes) | Moderate civic engagement | 0.0 |
+| Height in Inches (62) | Within normal range | 0.0 |
+| Has Driver's License (Yes) | Mobility/independence; access to care | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; negligible clinical impact | 0.0 |
+| Uses Public Transportation (Sometimes) | Moderate exposure risk; negligible | 0.0 |
+| Donated Blood (No) | No direct clinical impact | 0.0 |
+| Birthday Month (November) | Seasonal illness risk (fall/winter) | +0.1 |
+| Water Intake (46.1 oz) | Slightly below optimal (~64 oz); mild concern | +0.2 |
+| Bilingual (No) | No added communication barrier | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness | −0.1 |
+| Favourite Meal (Lunch) | No clinical relevance | 0.0 |
+| Favourite Color (Yellow) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | No direct clinical impact | 0.0 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (Science) | Health literacy proxy; protective | −0.1 |
+| Travels (Yes) | Potential infectious exposure risk | +0.1 |
+| **TOTAL** | | **3.6** |
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a generally favorable risk profile, supported by high socioeconomic status, active employment, no current diagnosis, non-smoking status, and healthy BMI, which collectively mitigate hospitalization risk substantially. However, mild depressive symptoms, chronically insufficient sleep (5.4 hours), age-related vulnerability, racial health disparity considerations, and suboptimal hydration introduce modest but clinically meaningful elevations in risk that warrant preventive monitoring and sleep hygiene counseling.

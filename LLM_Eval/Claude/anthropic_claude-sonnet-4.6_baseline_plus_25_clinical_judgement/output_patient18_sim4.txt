@@ -1,0 +1,60 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability | +2.0 |
+| BMI (29.4) | Overweight range; mild cardiometabolic risk | +0.5 |
+| Family Health History (Cancer) | Elevated genetic/surveillance risk | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Race (White) | No significant directional adjustment | 0.0 |
+| Gender (Male) | Males statistically higher hospitalization rates at older age | +0.3 |
+| Sexual Orientation (Heterosexual) | No significant adjustment | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/cardiovascular consideration | +0.1 |
+| Smoking (No) | Protective; significantly reduces pulmonary/cardiac risk | −0.6 |
+| HAM-D (Normal/No Depression) | No depressive burden | −0.3 |
+| Been Sad or Fatigued (No) | No affective symptom burden | −0.1 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Healthy sleep duration | −0.2 |
+| Employment (Retired) | Reduced occupational stress; mild social isolation risk | +0.1 |
+| Socioeconomic Status (Middle) | Adequate healthcare access | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive (no caffeine-related arrhythmia risk) | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective | −0.2 |
+| Favourite Sport (Hockey) | Suggests historical physical activity; injury risk minor at 74 | +0.1 |
+| Votes (Never) | Mild civic disengagement; minor social determinant signal | +0.1 |
+| Height (58 inches / 4'10") | Very short stature for male; BMI recalculated impact elevated | +0.3 |
+| Has Driver's License (Yes) | Indicates functional independence and mobility | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; positive wellbeing signal | −0.1 |
+| Uses Public Transportation (Sometimes) | Moderate physical activity implied | −0.1 |
+| Donated Blood (Yes) | Suggests reasonable baseline health status historically | −0.1 |
+| Birthday Month (January) | No clinically significant impact | 0.0 |
+| Water Intake (44.7 oz) | Slightly below recommended (~64 oz); mild hydration concern | +0.2 |
+| Bilingual (Yes) | Associated with cognitive resilience | −0.1 |
+| Handedness (Right) | No clinical impact | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness signal | −0.1 |
+| Favourite Meal (Dinner) | No significant clinical impact | 0.0 |
+| Favourite Color (Red) | No clinical impact | 0.0 |
+| Recycling Habits (Never) | Minor environmental health behavior signal | +0.1 |
+| Hair Color (Black) | No clinical impact | 0.0 |
+| Best High School Subject (English) | Suggests verbal/cognitive engagement; mild protective | −0.1 |
+| Travels (Yes) | Indicates functional capacity and engagement | −0.1 |
+| Relationship Status (Single) | Reduced social support; mild risk elevation in elderly | +0.2 |
+| Favourite Music Genre (Pop) | No clinical impact | 0.0 |
+| Can Ride Bicycle (No) | Possible balance/mobility limitation at 74 | +0.2 |
+| Religious (Yes) | Associated with better health outcomes and coping | −0.1 |
+| Phone (Android) | No clinical impact | 0.0 |
+
+**Sum Total: +4.2**
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a **moderate baseline hospitalization risk**, driven primarily by his advanced age, male sex, overweight BMI (which is amplified by his notably short stature of 4'10"), and a family history of cancer, partially offset by the absence of any current diagnosis, no smoking history, good sleep, no depression, and positive dietary and lifestyle behaviors. His single status and mild functional limitations (inability to ride a bicycle, suboptimal hydration) introduce modest social and physical vulnerability signals that warrant routine geriatric monitoring but do not suggest imminent acute risk.

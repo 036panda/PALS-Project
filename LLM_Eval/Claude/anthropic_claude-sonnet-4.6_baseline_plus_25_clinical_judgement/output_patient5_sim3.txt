@@ -1,0 +1,60 @@
+## Hospitalization Risk Evaluation — Patient ID: 5
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (61) | Older age increases physiological vulnerability | +1.2 |
+| BMI (25.8) | Normal/healthy range, minimal concern | +0.1 |
+| Family Health History (Asthma) | Hereditary respiratory risk, moderate relevance | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosis, protective | −0.5 |
+| Race (Black) | Systemic health disparities increase risk exposure | +0.4 |
+| Gender (Female) | Generally lower cardiovascular risk at this age | −0.2 |
+| Sexual Orientation (Heterosexual) | No significant differential risk | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal intake, negligible risk | 0.0 |
+| Smoking (No) | Strongly protective | −0.6 |
+| HAM-D (Mild Depression, 7–17) | Mild depression linked to poorer health outcomes | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat, protective | −0.2 |
+| Loss of Interest (No) | Protective, functional engagement maintained | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; increases systemic risk | +0.5 |
+| Employment (Employed) | Structured routine, access to benefits, protective | −0.3 |
+| Socioeconomic Status (High) | Strong access to healthcare, highly protective | −0.5 |
+| Drinks Coffee (No) | Neutral to mildly protective for certain conditions | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit, protective | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator, protective | −0.2 |
+| Votes (Sometimes) | Mild civic disengagement, marginal social risk | +0.1 |
+| Height (62 inches) | Within normal range, no significant impact | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence, protective | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior, negligible impact | 0.0 |
+| Uses Public Transportation (Sometimes) | Exposure risk, marginal | +0.1 |
+| Donated Blood (No) | No direct clinical relevance | 0.0 |
+| Birthday Month (November) | Seasonal vitamin D reduction, marginal | +0.1 |
+| Water Intake (46.1 oz) | Slightly below optimal (~64 oz); mild dehydration risk | +0.2 |
+| Bilingual (No) | No significant impact | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Social connectedness, mildly protective | −0.1 |
+| Favourite Meal (Lunch) | No significant clinical impact | 0.0 |
+| Favourite Color (Yellow) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | Reflects moderate health-conscious behavior | 0.0 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (Science) | Health literacy potential, mildly protective | −0.1 |
+| Travels (Yes) | Exposure to pathogens, minor risk | +0.1 |
+| Relationship Status (Single) | Reduced social support, mild risk | +0.2 |
+| Favourite Music Genre (Hip-Hop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (Yes) | Physical capability, mildly protective | −0.1 |
+| Religious (No) | Slightly reduced community support network | +0.1 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+
+**Sum Total: +3.8**
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a modest hospitalization risk driven primarily by her age, mild depressive symptomatology, insufficient sleep duration, and racial health disparity considerations, partially offset by her high socioeconomic status, non-smoking status, absence of active diagnosis, and generally health-positive lifestyle behaviors. Clinically, her greatest modifiable risk factors are sleep optimization and monitoring of her mild depression trajectory, while her strong socioeconomic resources and healthy habits serve as meaningful protective buffers against acute hospitalization.

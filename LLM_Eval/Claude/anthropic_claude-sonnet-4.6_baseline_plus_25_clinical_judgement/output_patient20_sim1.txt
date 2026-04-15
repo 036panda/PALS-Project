@@ -1,0 +1,49 @@
+## Patient_ID: 20 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Impact |
+|---|---|---|
+| Current Diagnosis: Schizophrenia | Schizophrenia | +2.5 |
+| Age | 19 (young adult, early-onset psychosis window) | +0.5 |
+| HAM-D: Mild Depression | Score 7–17 | +0.6 |
+| Been Sad or Fatigued | Yes | +0.3 |
+| Hours of Sleep | 10.3 (hypersomnia, possible symptom burden) | +0.2 |
+| Weekly Alcohol Intake | 4 drinks/week (mild risk in context of Schizophrenia) | +0.2 |
+| Water Intake | 41.9 oz/day (below recommended ~64 oz) | +0.1 |
+| No Driver's License | Possible functional limitation | +0.1 |
+| Family Health History | Unknown/NaN (unquantifiable risk) | +0.1 |
+| Does Not Travel | Social/functional restriction | +0.1 |
+| Never Uses Public Transportation | Possible social isolation indicator | +0.1 |
+| Has Not Donated Blood | Neutral-minor | +0.0 |
+| BMI | 25.1 (normal-borderline, minimal risk) | +0.0 |
+| Gender: Female | Slightly lower hospitalization risk vs. male Schizophrenia | -0.2 |
+| Employment: Employed | Functional stability, protective | -0.3 |
+| Socioeconomic Status: Middle | Moderate resource access | -0.2 |
+| Relationship Status: Dating | Social connectedness, protective | -0.2 |
+| Likes Vegetables | Positive health behavior | -0.1 |
+| Drinks Coffee | Mild stimulant, generally neutral-slight positive | -0.0 |
+| Smoking: No | Protective (Schizophrenia patients often smoke) | -0.3 |
+| Religious: Yes | Psychosocial support, protective | -0.1 |
+| Recycling Always / Picks Up Litter Sometimes | Civic engagement, structured behavior | -0.1 |
+| Bilingual: Yes | Cognitive resilience indicator | -0.1 |
+| Loss of Interest: No | Absence of anhedonia, protective | -0.2 |
+| Favourite Sport: Hockey / Can Ride Bicycle | Physical activity engagement | -0.1 |
+| Likes Kids: Yes | Prosocial orientation | -0.1 |
+| Best High School Subject: Science | Cognitive engagement history | -0.0 |
+| Hair Color, Favourite Color, Meal, Music, Phone | Lifestyle/neutral attributes | 0.0 |
+| Handedness: Left | No clinical impact | 0.0 |
+| Birthday Month: April | No clinical impact | 0.0 |
+| **TOTAL** | | **5.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 19-year-old Black female with a diagnosis of Schizophrenia carries a **moderate hospitalization risk**, primarily driven by her serious psychiatric diagnosis during a high-vulnerability early-onset period, compounded by comorbid mild depression, hypersomnia, fatigue, and mild alcohol use. However, her risk is meaningfully attenuated by notable protective factors including current employment, middle socioeconomic standing, an active relationship, absence of smoking, religious support, and preserved interest in daily activities, suggesting a degree of functional stability that reduces the likelihood of acute decompensation requiring inpatient care at this time.

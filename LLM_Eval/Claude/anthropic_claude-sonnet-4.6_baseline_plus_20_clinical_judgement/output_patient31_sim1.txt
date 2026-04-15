@@ -1,0 +1,55 @@
+## Hospitalization Risk Evaluation — Patient ID: 31
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (36) | Young-middle adult, moderate metabolic risk beginning | +0.3 |
+| BMI (36.8) | Class II Obesity — significant cardiometabolic risk | +1.4 |
+| Family Health History (Hypertension) | Genetic predisposition to cardiovascular disease | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.4 |
+| Race (Black) | Elevated systemic health disparity risk, hypertension prevalence | +0.4 |
+| Gender (Non-binary) | Healthcare access barriers, minority stress | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional orientation-related risk factor | 0.0 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-to-concerning intake, hepatic/cardiovascular risk | +0.4 |
+| Smoking (Yes) | Significant pulmonary and cardiovascular risk factor | +0.7 |
+| HAM-D (0–6 Normal) | No clinical depression by scale | −0.3 |
+| Been Sad or Fatigued (Yes) | Subclinical mood symptoms, possible undiagnosed condition | +0.2 |
+| Loss of Interest (Yes) | Anhedonia present despite normal HAM-D — warrants monitoring | +0.2 |
+| Hours of Sleep (5.7) | Below recommended threshold — metabolic and immune risk | +0.3 |
+| Employment (Employed) | Stable employment — protective factor | −0.3 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly protective (no caffeine-related risk) | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior | −0.2 |
+| Favourite Sport (Soccer) | Regular physical activity implied — protective | −0.2 |
+| Votes (Never) | Civic disengagement — mild social determinant risk | +0.1 |
+| Height (60 inches) | Contextual to BMI calculation — already captured | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence — protective | −0.1 |
+| Picks Up Litter (Always) | High civic conscientiousness — behavioral health proxy | −0.1 |
+| Uses Public Transportation (Never) | Possible sedentary commute pattern | +0.1 |
+| Donated Blood (Yes) | Health-engaged behavior — protective | −0.1 |
+| Birthday Month (October) | No clinically significant seasonal risk | 0.0 |
+| Water Intake (46 oz) | Below optimal hydration (~64 oz) — mild risk | +0.1 |
+| Bilingual (Yes) | Cognitive resilience, healthcare navigation benefit | −0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Social connectedness — protective | −0.1 |
+| Favourite Meal (Lunch) | No significant clinical impact | 0.0 |
+| Favourite Color (Blue) | No clinical relevance | 0.0 |
+| Recycling Habits (Always) | Conscientiousness marker — protective behavioral proxy | −0.1 |
+| Hair Color (Brown) | No clinical relevance | 0.0 |
+| Best High School Subject (English) | Literacy/communication strength — healthcare navigation benefit | −0.1 |
+| Travels (No) | Reduced exposure risk but possible social isolation signal | +0.1 |
+
+**Sum Total: +4.8**
+
+---
+
+### 3. Clinical Rationale
+
+This 36-year-old non-binary Black patient presents with a convergence of modifiable and non-modifiable risk factors — most notably Class II obesity, active smoking, moderate alcohol use, insufficient sleep, and a family history of hypertension — that collectively elevate cardiovascular and metabolic hospitalization risk meaningfully above average. Protective factors including stable employment, middle socioeconomic status, dietary conscientiousness, and physical activity partially offset these risks, yielding a moderate overall hospitalization risk score of **4.8/10**, with clinical attention warranted particularly around cardiometabolic monitoring and the subclinical mood symptoms (fatigue, anhedonia) that may represent an emerging or underdiagnosed condition.

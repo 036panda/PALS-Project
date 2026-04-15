@@ -1,0 +1,39 @@
+## Patient 46 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (32) | Young adult; lower inherent medical risk | −0.5 |
+| BMI (25.7) | Normal-to-borderline; minimal concern | +0.1 |
+| Family Health History (Asthma) | Hereditary respiratory vulnerability | +0.3 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.4 |
+| Race (White) | No elevated population-specific risk flagged | 0.0 |
+| Gender (Non-binary) | Healthcare access barriers; minority stress | +0.4 |
+| Sexual Orientation (Other) | Minority stress; potential care avoidance | +0.3 |
+| Weekly Alcohol Intake (2 units) | Low; minimal hepatic or behavioral risk | +0.1 |
+| Smoking (No) | Protective; no pulmonary/cardiovascular burden | −0.4 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant; elevated psychiatric risk | +1.6 |
+| Been Sad or Fatigued (No) | Inconsistent with HAM-D; possible underreporting | +0.2 |
+| Loss of Interest (Yes) | Anhedonia; core depressive symptom present | +0.7 |
+| Hours of Sleep (4.8) | Severe sleep deprivation; major health risk | +1.2 |
+| Employment (Employed) | Protective; structure and financial stability | −0.5 |
+| Socioeconomic Status (Middle) | Moderate buffer against crisis escalation | −0.3 |
+| Drinks Coffee (No) | Neutral to mildly positive | −0.1 |
+| Likes Vegetables (No) | Poor nutrition; modest risk contribution | +0.2 |
+| Favourite Sport (NaN) | Sedentary lifestyle implied; low activity risk | +0.3 |
+| Votes (Sometimes) | Mild civic disengagement; modest social risk | +0.2 |
+| Height (63 inches) | Contextual only; no independent risk | 0.0 |
+| **TOTAL** | | **+4.8** |
+
+---
+
+### 3. Clinical Rationale
+
+This 32-year-old non-binary patient presents with moderate depression (HAM-D 18–24) alongside anhedonia and severely curtailed sleep (4.8 hours), forming a clinically concerning triad that elevates psychiatric hospitalization risk meaningfully despite the absence of a formal current diagnosis. Protective factors including employment, middle socioeconomic status, non-smoking status, and young age partially offset risk, but the combination of minority identity stressors, social disengagement, and poor self-care behaviors (nutrition, inactivity) suggests a patient who may be underreporting distress and warrants close outpatient monitoring with low threshold for escalation.

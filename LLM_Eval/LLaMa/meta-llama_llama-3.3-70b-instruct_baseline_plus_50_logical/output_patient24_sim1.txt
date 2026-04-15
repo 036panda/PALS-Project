@@ -1,0 +1,14 @@
+1. 8.2
+2. Input factors and their assigned contributions:
+   - Age: 52: 0.5 (positive, older age increases risk)
+   - BMI: 16.4: -1.0 (negative, underweight decreases risk)
+   - Family_Health_History: Cancer: 1.5 (positive, family history of cancer increases risk)
+   - Current_Diagnosis: Bipolar: 2.0 (positive, bipolar diagnosis increases risk)
+   - Weekly_Alcohol_Intake: 7: 1.0 (positive, high alcohol intake increases risk)
+   - Smoking: Yes: 1.5 (positive, smoking increases risk)
+   - HAM-D: 7–17: Mild Depression: 1.0 (positive, mild depression increases risk)
+   - Loss_of_Interest: Yes: 0.5 (positive, loss of interest increases risk)
+   - Hours_of_Sleep: 4.8: 1.0 (positive, low sleep hours increases risk)
+   - Socioeconomic_Status: Middle: 0.0 (neutral, middle socioeconomic status)
+   - Other factors (e.g., employment, race, gender, etc.): 0.2 (positive, cumulative effect of various factors)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic characteristics, with a focus on the causal relationships between these factors and the likelihood of hospitalization. The score reflects the cumulative effect of various risk-increasing factors, including the individual's bipolar diagnosis, family history of cancer, smoking, and low sleep hours.

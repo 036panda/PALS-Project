@@ -1,0 +1,44 @@
+## Patient ID 15 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (64) | Older adult, elevated physiological vulnerability | +1.2 |
+| BMI (21.6) | Normal/healthy range | −0.4 |
+| Family Health History (Hypertension) | Genetic predisposition to cardiovascular disease | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.5 |
+| Race (Native American) | Historically higher rates of chronic disease, healthcare access disparities | +0.4 |
+| Gender (Other) | Potential barriers to care, minority stress | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress from this factor | 0.0 |
+| Weekly Alcohol Intake (2 drinks) | Low/moderate, minimal risk | −0.1 |
+| Smoking (Yes) | Significant cardiovascular and pulmonary risk factor | +0.8 |
+| HAM-D (Normal/No Depression) | No clinical depression detected | −0.3 |
+| Been Sad or Fatigued (No) | No affective symptom burden | −0.2 |
+| Loss of Interest (Yes) | Possible subclinical anhedonia despite normal HAM-D | +0.3 |
+| Hours of Sleep (3.4) | Severely insufficient sleep; major health risk | +0.9 |
+| Employment (Retired) | Reduced structured activity; possible social isolation | +0.2 |
+| Socioeconomic Status (Low) | Reduced access to preventive care and resources | +0.5 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant; minor concern at age 64 | +0.1 |
+| Likes Vegetables (No) | Poor dietary habit, nutritional risk | +0.3 |
+| Favourite Sport (Gymnastics) | Suggests some physical activity engagement | −0.3 |
+| Votes (Sometimes) | Mild indicator of civic disengagement | +0.1 |
+| Height (71 inches) | Neutral anthropometric factor | 0.0 |
+| Has Driver's License (Yes) | Indicates functional independence and mobility | −0.2 |
+| Picks Up Litter (Always) | Reflects prosocial behavior and community engagement | −0.2 |
+| Uses Public Transportation (Always) | May indicate lack of private transport; minor access concern | +0.1 |
+| Donated Blood (Yes) | Suggests engagement with healthcare system | −0.2 |
+| Birthday Month (October) | No clinically significant seasonal risk | 0.0 |
+| **TOTAL** | | **4.6** |
+
+---
+
+### 3. Clinical Rationale
+
+This 64-year-old Native American retired smoker presents with a moderate hospitalization risk driven primarily by severely inadequate sleep (3.4 hours/night), active smoking, low socioeconomic status, and healthcare access disparities associated with race and gender identity, all of which compound cardiovascular and systemic vulnerability in the context of a hypertensive family history. Mitigating factors include a healthy BMI, absence of a current diagnosis, low alcohol intake, and behavioral indicators of functional independence and health system engagement, which collectively temper but do not eliminate meaningful clinical concern.

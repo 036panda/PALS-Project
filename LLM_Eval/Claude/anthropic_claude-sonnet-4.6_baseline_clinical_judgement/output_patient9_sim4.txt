@@ -1,0 +1,34 @@
+## Patient ID: 9 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (35) | Young adult; some risk for active bipolar cycling but not peak vulnerability | +0.3 |
+| BMI (26.8) | Slightly overweight but within near-normal range; minimal clinical concern | +0.1 |
+| Family Health History | Missing/unknown; cannot mitigate risk, slight uncertainty penalty | +0.2 |
+| Current Diagnosis (Bipolar) | Core driver; bipolar disorder carries inherent episodic hospitalization risk | +2.0 |
+| Race (Asian) | May underutilize mental health services due to stigma; slight access concern | +0.2 |
+| Gender (Male) | Males with bipolar less likely to seek help proactively; risk elevation | +0.3 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress burden | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate use; alcohol can destabilize mood in bipolar patients | +0.5 |
+| Smoking (No) | Protective; no nicotine-related mood dysregulation | −0.3 |
+| HAM-D 7–17 (Mild Depression) | Active depressive symptoms present; indicates current episode activity | +0.8 |
+| Been Sad or Fatigued (Yes) | Confirms active symptom burden; consistent with depressive phase | +0.4 |
+| Loss of Interest (No) | Absence of anhedonia is a partial protective sign | −0.3 |
+| Hours of Sleep (5.3) | Sleep disruption is a significant bipolar destabilizer and relapse predictor | +0.7 |
+| Employment (Employed) | Protective; structure, routine, and social engagement reduce risk | −0.5 |
+| Socioeconomic Status (Middle) | Moderate access to care and resources; mild protective effect | −0.3 |
+| **Total** | | **4.6** |
+
+---
+
+### 3. Clinical Rationale
+
+This 35-year-old employed Asian male with a bipolar diagnosis presents with active mild depressive symptoms, confirmed fatigue, and notably disrupted sleep — a well-established precipitant of mood episode escalation in bipolar disorder. While protective factors such as employment, middle socioeconomic status, non-smoking status, and preserved interest partially offset risk, the combination of active symptomatology, alcohol use, and sleep insufficiency warrants close outpatient monitoring to prevent progression toward a hospitalization-level episode.

@@ -1,0 +1,51 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older adult; elevated physiological vulnerability | +1.8 |
+| BMI (29.4) | Overweight range; mild cardiometabolic risk | +0.5 |
+| Family Health History (Cancer) | Genetic predisposition to oncologic conditions | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Gender (Male) | Males statistically higher hospitalization rates at this age | +0.3 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/cardiovascular concern | +0.2 |
+| Smoking (No) | Non-smoker; protective | −0.4 |
+| HAM-D (Normal/No Depression) | No depressive disorder; protective for mental health hospitalization | −0.3 |
+| Been Sad or Fatigued (No) | No affective symptoms | −0.1 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Adequate sleep; protective | −0.2 |
+| Employment (Retired) | Reduced occupational stress; mild social isolation risk | +0.1 |
+| Socioeconomic Status (Middle) | Moderate healthcare access; neutral-to-protective | −0.1 |
+| Exercises (No) | Sedentary lifestyle; significant risk factor at age 74 | +0.6 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective | −0.2 |
+| Water Intake (44.7 oz) | Slightly below recommended; mild dehydration risk | +0.1 |
+| Skips Breakfast (Yes) | Poor nutritional pattern; mild metabolic concern | +0.1 |
+| Allergy (Tree Nuts) | Anaphylaxis risk if exposed | +0.2 |
+| Binge Watches TV (Yes) | Sedentary behavior; compounds exercise deficit | +0.2 |
+| Relationship Status (Single) | Reduced social support; associated with poorer health outcomes | +0.3 |
+| Wears Glasses (Yes) | Indicates sensory decline; fall/injury risk in elderly | +0.2 |
+| Can Ride Bicycle (No) | Reflects physical limitation or deconditioning | +0.1 |
+| Travels (Yes) | Suggests functional independence; protective | −0.2 |
+| Volunteers (Sometimes) | Mild social engagement; slightly protective | −0.1 |
+| Drinks Coffee (No) | Neutral to mildly negative (loss of antioxidant benefit) | +0.0 |
+| Bilingual (Yes) | Cognitive engagement; mildly protective | −0.1 |
+| Donated Blood (Yes) | Suggests prior health screening engagement; protective | −0.1 |
+| Religious (Yes) | Associated with better coping and lower mortality risk | −0.1 |
+| Registered Organ Donor (No) | Reflects health engagement attitude; negligible | +0.0 |
+| Recycling/Charity/Voting Habits | Minimal clinical relevance | +0.0 |
+| Favourite Sport (Hockey), Music, Color, etc. | Lifestyle/preference variables; no clinical impact | +0.0 |
+| Race (White) | Neutral in this context without additional risk markers | +0.0 |
+| **TOTAL** | | **= 5.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a **moderate hospitalization risk**, driven primarily by his advanced age, sedentary lifestyle, overweight BMI, absence of regular exercise, single relationship status reducing social support, and a family history of cancer in the absence of current screening or active diagnosis documentation. Protective factors — including no smoking, no depression, adequate sleep, good dietary habits, and preserved functional independence as evidenced by travel — partially offset these risks, yielding a balanced but clinically noteworthy profile warranting proactive preventive monitoring.

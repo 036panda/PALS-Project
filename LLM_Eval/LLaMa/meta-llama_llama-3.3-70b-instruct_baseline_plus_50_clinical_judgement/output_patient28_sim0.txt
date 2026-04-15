@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 4.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 25: -0.5 (lower risk due to younger age)
+   - BMI: 28.5: 1.2 (higher risk due to overweight status)
+   - Family_Health_History: Hypertension: 1.0 (higher risk due to family history of hypertension)
+   - Current_Diagnosis: Bipolar: 1.5 (higher risk due to mental health condition)
+   - Weekly_Alcohol_Intake: 7: 0.5 (moderate risk due to alcohol consumption)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued: No: -0.2 (lower risk due to no reported sadness or fatigue)
+   - Loss_of_Interest: No: -0.2 (lower risk due to no reported loss of interest)
+   - Hours_of_Sleep: 7.8: -0.5 (lower risk due to adequate sleep)
+   - Socioeconomic_Status: Middle: -0.1 (lower risk due to middle socioeconomic status)
+   - Exercises: No: 0.8 (higher risk due to lack of exercise)
+   - Allergy: Gluten: 0.2 (moderate risk due to allergy)
+   - Skips_Breakfast: Yes: 0.4 (higher risk due to skipping breakfast)
+   - Other attributes: 0 (no significant impact)
+   Total: 4.2
+3. The patient's hospitalization risk is influenced by their bipolar diagnosis, family history of hypertension, and lack of exercise, which contribute to a moderate risk score. However, their young age, adequate sleep, and middle socioeconomic status help mitigate this risk, resulting in a final score of 4.2.

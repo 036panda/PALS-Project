@@ -1,0 +1,44 @@
+## Hospitalization Risk Evaluation — Patient ID: 5
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.7 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (61) | Older adult, elevated biological risk | +1.2 |
+| BMI (25.8) | Normal-to-slightly-overweight, minimal concern | +0.1 |
+| Family Health History (Asthma) | Hereditary respiratory vulnerability | +0.3 |
+| Current Diagnosis (None/NaN) | No active diagnosis | −0.5 |
+| Race (Black) | Systemic health disparities, elevated chronic disease risk | +0.4 |
+| Gender (Female) | Generally lower cardiovascular risk at this age | −0.2 |
+| Sexual Orientation (Heterosexual) | No significant differential risk | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use, low risk | −0.1 |
+| Smoking (No) | Protective factor | −0.5 |
+| HAM-D (Mild Depression, 7–17) | Mild depression linked to poorer health outcomes | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat | −0.2 |
+| Loss of Interest (No) | Positive behavioral indicator | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; immune and cardiovascular risk | +0.6 |
+| Employment (Employed) | Stability, access to insurance | −0.3 |
+| Socioeconomic Status (High) | Strong access to healthcare, protective | −0.4 |
+| Drinks Coffee (No) | Neutral to mildly positive | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator | −0.2 |
+| Votes (Sometimes) | Moderate civic engagement, mild social determinant | +0.1 |
+| Height in Inches (62) | Within normal range, no impact | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence, protective | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior, negligible | 0.0 |
+| Uses Public Transportation (Sometimes) | Slight infectious exposure risk | +0.1 |
+| Donated Blood (No) | No clinical significance here | 0.0 |
+| Birthday Month (November) | Seasonal respiratory risk (fall/winter) | +0.1 |
+| **TOTAL** | | **3.7** |
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a generally favorable risk profile, supported by high socioeconomic status, active employment, non-smoking status, minimal alcohol use, and healthy dietary habits; however, her age, mild depressive symptomatology per HAM-D scoring, chronically insufficient sleep (5.4 hours), and racial health disparity context introduce meaningful, compounding vulnerabilities. The absence of any current active diagnosis and strong protective social determinants temper overall hospitalization risk, yielding a low-to-moderate score that nonetheless warrants monitoring of sleep hygiene and mental health trajectory.

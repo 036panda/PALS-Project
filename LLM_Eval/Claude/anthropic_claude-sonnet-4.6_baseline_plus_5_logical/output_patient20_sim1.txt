@@ -1,0 +1,40 @@
+## Risk Score Calculation for Patient_ID: 20
+
+---
+
+### 1. Risk Score: **4.7**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (19) | Young adult, early-onset schizophrenia risk period | +0.8 |
+| BMI (25.1) | Normal/borderline, minimal risk | +0.1 |
+| Family Health History | Missing (nan), no protective or additive signal | 0.0 |
+| Current Diagnosis: Schizophrenia | Primary psychiatric condition, strong hospitalization driver | +2.5 |
+| Race: Black | Systemic healthcare access disparities, undertreatment risk | +0.3 |
+| Gender: Female | Slightly lower hospitalization rate vs. male schizophrenia patients | −0.2 |
+| Sexual Orientation: Heterosexual | No elevated minority stress contribution | 0.0 |
+| Weekly Alcohol Intake: 4 drinks | Moderate, mild comorbidity risk with schizophrenia | +0.3 |
+| Smoking: No | Protective against cardiovascular/respiratory hospitalization | −0.2 |
+| HAM-D 7–17: Mild Depression | Comorbid depressive symptoms compound psychiatric risk | +0.5 |
+| Been Sad or Fatigued: Yes | Corroborates depressive symptom burden | +0.2 |
+| Loss of Interest: No | Absence of anhedonia slightly mitigates severity | −0.1 |
+| Hours of Sleep: 10.3 | Hypersomnia, associated with psychiatric decompensation | +0.3 |
+| Employment: Employed | Structural stability, protective factor | −0.3 |
+| Socioeconomic Status: Middle | Moderate resource access, mild protective effect | −0.2 |
+| Drinks Coffee: Yes | Negligible clinical impact | 0.0 |
+| Likes Vegetables: Yes | Mild positive health behavior signal | −0.1 |
+| Favourite Sport: Hockey | Physical activity engagement, protective | −0.1 |
+| Votes: Sometimes | Partial civic engagement, weak proxy for social integration | −0.1 |
+| Height: 72 inches | No direct clinical risk contribution | 0.0 |
+
+**Sum of all contributions: 0.8 + 0.1 + 0.0 + 2.5 + 0.3 − 0.2 + 0.0 + 0.3 − 0.2 + 0.5 + 0.2 − 0.1 + 0.3 − 0.3 − 0.2 + 0.0 − 0.1 − 0.1 − 0.1 + 0.0 = 4.7** ✓
+
+---
+
+### 3. Justification
+
+The score is primarily driven by the patient's schizophrenia diagnosis at a high-risk early age (19), compounded by comorbid mild depression (HAM-D 7–17), hypersomnia indicative of psychiatric decompensation, and systemic racial healthcare disparities that increase undertreatment risk. These risks are partially offset by employment, middle socioeconomic status, non-smoking status, and positive health behaviors, which collectively provide structural and physiological protective factors against acute hospitalization.

@@ -1,0 +1,45 @@
+## Risk Score: 3.6
+
+---
+
+### Factor Contributions (Sum = 3.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (56) | Moderate-older adult | +1.2 |
+| BMI (28.0) | Overweight range | +0.4 |
+| Family Health History | NaN (unknown) | +0.1 |
+| Current Diagnosis | NaN (none documented) | 0.0 |
+| Race (Asian) | No causal hospitalization risk modifier | 0.0 |
+| Gender (Other) | Healthcare access barriers possible | +0.1 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Low-moderate, minor risk | +0.2 |
+| Smoking (No) | Protective | -0.3 |
+| HAM-D: Mild Depression (7–17) | Clinically significant mental health signal | +0.6 |
+| Been Sad or Fatigued (No) | Partially contradicts depression score | -0.1 |
+| Loss of Interest (Yes) | Anhedonia, supports depression signal | +0.3 |
+| Hours of Sleep (6.1) | Mildly below recommended threshold | +0.2 |
+| Employment (Employed) | Protective, stability | -0.3 |
+| Socioeconomic Status (Middle) | Moderate access to care | -0.1 |
+| Drinks Coffee (No) | Neutral | 0.0 |
+| Likes Vegetables (No) | Poor dietary habit, minor risk | +0.1 |
+| Favourite Sport (Basketball) | Physical activity, protective | -0.2 |
+| Votes (Sometimes) | Mild civic disengagement | 0.0 |
+| Height (70 inches) | Contextual to BMI, already captured | 0.0 |
+| Has Driver's License (Yes) | Mobility/access to care, protective | -0.1 |
+| Picks Up Litter (Never) | Low prosocial behavior, negligible | 0.0 |
+| Uses Public Transportation (Never) | Sedentary lifestyle signal | +0.1 |
+| Donated Blood (No) | No direct causal link | 0.0 |
+| Birthday Month (May) | No causal relevance | 0.0 |
+| Water Intake (43.8 oz) | Below recommended ~64 oz, mild risk | +0.2 |
+| Bilingual (Yes) | Cognitive resilience, minor protective | -0.1 |
+| Handedness (Right) | No causal relevance | 0.0 |
+| Likes Kids (Yes) | Social connectedness, minor protective | -0.1 |
+| Favourite Meal (Breakfast) | Regular eating pattern, minor protective | -0.1 |
+
+**Total: +3.6**
+
+---
+
+### Justification
+The score is primarily driven by the patient's age (56), mild depression diagnosis (HAM-D 7–17) corroborated by loss of interest and mildly insufficient sleep, and a modestly elevated BMI, all of which have established causal pathways to hospitalization risk through cardiovascular, psychiatric, and metabolic mechanisms. Protective factors including active employment, physical activity via basketball, non-smoking status, and middle socioeconomic standing meaningfully offset these risks, yielding a moderate-low overall score of 3.6.

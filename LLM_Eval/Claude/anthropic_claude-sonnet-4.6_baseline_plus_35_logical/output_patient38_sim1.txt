@@ -1,0 +1,45 @@
+## Hospitalization Risk Score: **5.3**
+
+---
+
+### Factor Contributions (Sum = 5.3)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Elevated risk in older adults | +1.5 |
+| BMI (33.4) | Obese class I; increases comorbidity risk | +1.0 |
+| Current Diagnosis: Depression | Direct psychiatric hospitalization risk | +1.0 |
+| HAM-D: Mild Depression (7–17) | Mild severity; moderate clinical concern | +0.5 |
+| Been Sad or Fatigued: Yes | Active depressive symptom present | +0.3 |
+| Loss of Interest: Yes | Active anhedonia; reinforces depression severity | +0.3 |
+| Hours of Sleep: 6.7 | Slightly below optimal; mild risk factor | +0.1 |
+| Socioeconomic Status: Low | Reduced access to care; increases hospitalization likelihood | +0.5 |
+| Employment: Retired | Reduced social structure; mild isolation risk | +0.2 |
+| Skips Breakfast: Yes | Poor nutritional habit; minor health risk | +0.1 |
+| Water Intake (44.6 oz) | Below recommended; mild dehydration risk | +0.1 |
+| Volunteers: Never | Low social engagement; mild isolation indicator | +0.1 |
+| Recycling/Civic Engagement: Low | Indirect low self-efficacy signal | +0.05 |
+| Registered Organ Donor: No | Minor indicator of health disengagement | +0.05 |
+| Has No Driver's License | Limits healthcare access | +0.2 |
+| Uses Public Transportation: Always | Consistent with no license; access limitation | +0.0 (already captured) |
+| Allergy: Shellfish | Minor medical complexity | +0.05 |
+| Family Health History: Unknown (NaN) | Cannot mitigate risk; uncertainty retained | +0.0 |
+| Weekly Alcohol Intake: 1 | Low; minimal risk | -0.1 |
+| Smoking: No | Protective factor | -0.3 |
+| Likes Vegetables: Yes | Positive dietary habit | -0.1 |
+| Drinks Coffee: Yes | Mild alertness/mood benefit | -0.05 |
+| Relationship Status: Dating | Social connection; mild protective effect | -0.1 |
+| Travels: Yes | Indicates functional capacity and engagement | -0.1 |
+| Donated Blood: Yes | Indicates health engagement | -0.05 |
+| Bilingual: No | Neutral | +0.0 |
+| Binge-Watches TV: Yes | Sedentary behavior; minor risk | +0.1 |
+| Favourite Sport: Soccer | Indicates physical activity interest | -0.05 |
+| Can Ride Bicycle: Yes | Functional mobility indicator | -0.05 |
+| Morning Person: Yes | Circadian regularity; mild protective | -0.05 |
+| **TOTAL** | | **5.3** |
+
+---
+
+### Justification
+
+This score is driven primarily by the patient's age (62), obesity (BMI 33.4), active mild depression with confirmed symptoms (sadness, fatigue, anhedonia), and low socioeconomic status limiting healthcare access, all of which causally elevate hospitalization risk. Protective factors including non-smoking status, low alcohol intake, social engagement through a relationship, and positive health behaviors (vegetable consumption, blood donation, travel) partially offset these risks, yielding a moderate-to-elevated composite score of 5.3.

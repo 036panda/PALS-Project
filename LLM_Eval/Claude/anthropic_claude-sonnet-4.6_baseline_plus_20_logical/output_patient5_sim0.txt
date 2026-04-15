@@ -1,0 +1,40 @@
+## Hospitalization Risk Score: **3.8**
+
+---
+
+### Factor Contributions (Sum = 3.8)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk in 60s | +1.5 |
+| BMI (25.8) | Normal/healthy range | −0.2 |
+| Family Health History (Asthma) | Hereditary respiratory risk | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosis | −0.3 |
+| Race (Black) | Systemic healthcare disparity risk | +0.3 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age | −0.1 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use | −0.1 |
+| Smoking (No) | No smoking risk | −0.4 |
+| HAM-D: Mild Depression (7–17) | Mild mental health risk factor | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts/mitigates depression severity | −0.1 |
+| Loss of Interest (No) | Further mitigates depression impact | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold (<7 hrs) | +0.6 |
+| Employment (Employed) | Protective socioeconomic factor | −0.2 |
+| Socioeconomic Status (High) | Strong access to healthcare | −0.4 |
+| Drinks Coffee (No) | Neutral/no stimulant risk | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator | −0.1 |
+| Votes (Sometimes) | Moderate civic engagement | 0.0 |
+| Has Driver's License (Yes) | Mobility/access to care | −0.1 |
+| Water Intake (46.1 oz) | Below optimal (~64 oz) | +0.2 |
+| Travels (Yes) | Exposure risk, but also active lifestyle | +0.1 |
+| Donated Blood (No) | Neutral | 0.0 |
+| Uses Public Transportation (Sometimes) | Minor exposure risk | +0.1 |
+| Recycling/Litter/Civic Habits | Moderate environmental engagement | 0.0 |
+| Bilingual (No) | Neutral | 0.0 |
+| Handedness, Color, Meal, Hair, Subject | Non-clinical, no causal contribution | 0.0 |
+| **TOTAL** | | **3.8** |
+
+---
+
+### Justification
+The score of 3.8 is primarily driven by the patient's age (61), insufficient sleep (5.4 hours), mild depression (HAM-D score), and a family history of asthma, all of which have established causal links to increased hospitalization risk. These risks are substantially offset by high socioeconomic status, employment, no smoking, minimal alcohol use, healthy BMI, no active diagnosis, and positive dietary habits, which collectively reduce vulnerability and improve healthcare access and resilience.

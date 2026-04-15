@@ -1,0 +1,50 @@
+## Patient 34 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age | 19 | +0.3 (young age, but adolescent vulnerability) |
+| BMI | 46.7 | +1.8 (severe obesity; significant comorbidity risk) |
+| Family Health History | NaN | +0.2 (unknown; cannot rule out hereditary risk) |
+| Current Diagnosis | Anxiety | +0.6 (active psychiatric diagnosis requiring monitoring) |
+| Race | Asian | +0.1 (minor population-specific health disparity consideration) |
+| Gender | Female | +0.1 (hormonal/metabolic interaction with obesity) |
+| Sexual Orientation | Heterosexual | 0.0 (no differential risk applied) |
+| Weekly Alcohol Intake | 0 | −0.3 (protective; no alcohol-related risk) |
+| Smoking | Yes | +0.7 (significant cardiovascular/pulmonary risk, compounded by high BMI) |
+| HAM-D Score | 0–6 Normal | −0.4 (no clinical depression severity detected) |
+| Been Sad or Fatigued | Yes | +0.3 (subclinical mood symptom; consistent with anxiety burden) |
+| Loss of Interest | Yes | +0.3 (anhedonia present; possible underdiagnosed depressive component) |
+| Hours of Sleep | 9.1 | +0.1 (hypersomnia; may reflect mood dysregulation or metabolic issue) |
+| Employment | Student | −0.1 (structured routine; mild protective factor) |
+| Socioeconomic Status | Middle | −0.2 (moderate access to healthcare resources) |
+| Drinks Coffee | Yes | 0.0 (negligible clinical impact in this context) |
+| Likes Vegetables | No | +0.3 (poor dietary habit; compounds obesity and metabolic risk) |
+| Favourite Sport | Basketball | −0.2 (suggests some physical activity engagement) |
+| Votes | Sometimes | 0.0 (no clinical relevance) |
+| Height | 62 inches | 0.0 (accounted for in BMI calculation) |
+| Has Driver's License | No | +0.1 (possible mobility/access limitation) |
+| Picks Up Litter | Always | −0.1 (reflects prosocial behavior; positive mental health indicator) |
+| Uses Public Transportation | Always | −0.1 (community engagement; mild protective) |
+| Donated Blood | No | 0.0 (no significant clinical impact) |
+| Birthday Month | December | 0.0 (no clinically significant impact) |
+| Water Intake | 42.7 oz | +0.2 (below recommended ~64 oz; mild dehydration risk, especially with high BMI) |
+| Bilingual | Yes | −0.1 (cognitive resilience indicator) |
+| Handedness | Right | 0.0 (no clinical relevance) |
+| Likes Kids | Yes | −0.1 (positive social orientation; mild protective) |
+| Favourite Meal | Breakfast | −0.1 (regular breakfast consumption associated with better metabolic habits) |
+
+**Sum Total: +4.8**
+
+---
+
+### 3. Clinical Rationale
+
+This 19-year-old Asian female presents with a concerning combination of severe obesity (BMI 46.7), active smoking, a current anxiety diagnosis, and subclinical mood symptoms (sadness, fatigue, and loss of interest) that suggest possible underdiagnosed comorbid depression, collectively elevating her hospitalization risk meaningfully. While protective factors such as abstinence from alcohol, middle socioeconomic status, some physical activity, and the absence of clinically significant depression on the HAM-D partially offset her risk, the metabolic burden of her BMI combined with smoking and poor dietary habits warrants close clinical monitoring and proactive intervention.

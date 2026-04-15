@@ -1,0 +1,65 @@
+## Hospitalization Risk Score: **4.2**
+
+---
+
+### Factor Contributions (Sum = 4.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases vulnerability | +1.80 |
+| BMI (25.8) | Normal/healthy range | -0.10 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory illness | +0.40 |
+| Current Diagnosis (None/NaN) | No active diagnosis | -0.20 |
+| Race (Black) | Systemic health disparities increase risk | +0.30 |
+| Gender (Female) | Slightly lower cardiovascular risk than male at this age | -0.10 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk factor | +0.00 |
+| Weekly Alcohol Intake (1) | Minimal alcohol; low risk | -0.10 |
+| Smoking (No) | No smoking; protective | -0.30 |
+| HAM-D: Mild Depression (7–17) | Mild depression linked to poorer health outcomes | +0.40 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat; slight mitigation | -0.10 |
+| Loss of Interest (No) | No anhedonia reported | -0.05 |
+| Hours of Sleep (5.4) | Below recommended 7–9 hrs; sleep deprivation increases risk | +0.50 |
+| Employment (Employed) | Stable employment; protective | -0.20 |
+| Socioeconomic Status (High) | High SES; access to healthcare, protective | -0.30 |
+| Drinks Coffee (No) | Neutral to slightly negative (no cardiovascular stimulant) | +0.00 |
+| Likes Vegetables (Yes) | Healthy diet indicator; protective | -0.15 |
+| Favourite Sport (Hockey) | Active sport; physical activity protective | -0.10 |
+| Votes (Sometimes) | Moderate civic engagement; neutral | +0.00 |
+| Height (62 inches) | Neutral | +0.00 |
+| Has Driver's License (Yes) | Mobility/independence; neutral-positive | +0.00 |
+| Picks Up Litter (Sometimes) | Neutral civic behavior | +0.00 |
+| Uses Public Transportation (Sometimes) | Slight exposure risk (infectious); minimal | +0.05 |
+| Donated Blood (No) | No direct health risk implication | +0.00 |
+| Birthday Month (November) | Seasonal flu/respiratory risk slightly elevated | +0.05 |
+| Water Intake (46.1 oz) | Below recommended ~64 oz; mild dehydration risk | +0.20 |
+| Bilingual (No) | Neutral | +0.00 |
+| Handedness (Right) | Neutral | +0.00 |
+| Likes Kids (Yes) | Neutral | +0.00 |
+| Favourite Meal (Lunch) | Skips breakfast (see below); partial offset | +0.00 |
+| Favourite Color (Yellow) | Irrelevant to health | +0.00 |
+| Recycling Habits (Sometimes) | Neutral | +0.00 |
+| Hair Color (Black) | Neutral | +0.00 |
+| Best High School Subject (Science) | Health literacy indicator; slightly protective | -0.05 |
+| Travels (Yes) | Exposure to pathogens; slight risk | +0.10 |
+| Relationship Status (Single) | Lack of social support slightly increases risk | +0.15 |
+| Favourite Music Genre (Hip-Hop) | Neutral | +0.00 |
+| Can Ride Bicycle (Yes) | Physical capability; protective | -0.05 |
+| Religious (No) | Slight reduction in community/social support | +0.05 |
+| Phone (Apple) | Neutral | +0.00 |
+| Wears Glasses (Yes) | Minor indicator of health monitoring engagement | +0.00 |
+| Morning or Night (Morning) | Morning person; associated with better health habits | -0.05 |
+| Allergy (Dust) | Respiratory allergy; increases hospitalization risk given asthma family history | +0.35 |
+| Binge-Watches TV (Yes) | Sedentary behavior; increases risk | +0.20 |
+| Favourite Super Store (Walmart) | Neutral | +0.00 |
+| Pet Preference (Fish) | Low-interaction pet; minimal therapeutic benefit | +0.00 |
+| Volunteers (Never) | Reduced social engagement; slight risk | +0.10 |
+| Skips Breakfast (Yes) | Poor dietary habit; metabolic risk | +0.20 |
+| Favourite Movie Genre (Comedy) | Positive affect; slightly protective | -0.05 |
+| Registered Organ Donor (Yes) | Indicates health awareness; slightly protective | -0.05 |
+
+**Total: +4.20**
+
+---
+
+### Justification
+The score of 4.2 is primarily driven by the patient's age (61), mild depression (HAM-D), insufficient sleep (5.4 hrs), dust allergy compounded by a family history of asthma, single relationship status reducing social support, sedentary binge-watching behavior, breakfast skipping, and inadequate water intake, all of which have established causal links to increased hospitalization risk. These risks are meaningfully offset by high socioeconomic status, employment, non-smoking status, no active diagnosis, healthy BMI, vegetable consumption, and physical activity through sport.

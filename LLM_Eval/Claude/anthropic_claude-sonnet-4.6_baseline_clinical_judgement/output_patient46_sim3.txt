@@ -1,0 +1,34 @@
+## Patient 46 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age | 32 | **−0.3** (young adult; lower baseline medical vulnerability) |
+| BMI | 25.7 | **+0.1** (marginally overweight; minimal clinical concern) |
+| Family Health History | Asthma | **+0.2** (hereditary respiratory risk; modest contribution) |
+| Current Diagnosis | None (NaN) | **−0.4** (absence of active diagnosed condition reduces acute risk) |
+| Race | White | **0.0** (no directional adjustment applied) |
+| Gender | Non-binary | **+0.3** (minority gender identity; associated with elevated psychological distress and healthcare access barriers) |
+| Sexual Orientation | Other | **+0.3** (LGBTQ+ populations face compounded psychosocial stressors) |
+| Weekly Alcohol Intake | 2 units | **−0.1** (low intake; negligible risk contribution) |
+| Smoking | No | **−0.3** (protective; reduces cardiopulmonary and oncologic risk) |
+| HAM-D Score | 18–24 (Moderate Depression) | **+2.1** (clinically significant; moderate depression substantially elevates hospitalization risk) |
+| Been Sad or Fatigued | No | **−0.4** (self-reported absence of sadness/fatigue partially offsets depression severity) |
+| Loss of Interest | Yes | **+0.8** (anhedonia is a core depressive symptom; increases functional impairment risk) |
+| Hours of Sleep | 4.8 hrs | **+1.2** (severe sleep deprivation; strongly associated with psychiatric decompensation) |
+| Employment | Employed | **−0.5** (protective social structure and financial stability) |
+| Socioeconomic Status | Middle | **−0.4** (moderate resource access; reduces vulnerability) |
+| **Total** | | **= 4.6** |
+
+---
+
+### 3. Clinical Rationale
+
+This 32-year-old non-binary individual presents with a moderate depressive episode (HAM-D 18–24) compounded by significant sleep deprivation (4.8 hrs/night) and anhedonia, which together represent the primary drivers of hospitalization risk, particularly for psychiatric admission. Protective factors—including active employment, middle socioeconomic status, no smoking, low alcohol use, and no current formal diagnosis—partially offset these risks, yielding a moderate overall risk score that warrants close outpatient monitoring and possible intensification of mental health intervention.

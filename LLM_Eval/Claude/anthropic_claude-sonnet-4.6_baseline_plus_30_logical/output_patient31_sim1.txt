@@ -1,0 +1,47 @@
+## Hospitalization Risk Score
+
+**Risk Score: 4.3**
+
+---
+
+### Factor Contributions (Sum = 4.3)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age | 36 | +0.3 |
+| BMI | 36.8 (Obese Class II) | +1.5 |
+| Family Health History | Hypertension | +0.5 |
+| Current Diagnosis | None (nan) | +0.0 |
+| Smoking | Yes | +0.8 |
+| Weekly Alcohol Intake | 7 drinks/week | +0.4 |
+| HAM-D | Normal / No Depression | +0.0 |
+| Been Sad or Fatigued | Yes | +0.2 |
+| Loss of Interest | Yes | +0.2 |
+| Hours of Sleep | 5.7 (below recommended) | +0.3 |
+| Water Intake | 46.0 oz (below recommended ~64 oz) | +0.2 |
+| Allergy | Penicillin | +0.1 |
+| Socioeconomic Status | Middle | +0.0 |
+| Employment | Employed | -0.2 |
+| Likes Vegetables | Yes | -0.1 |
+| Recycling / Litter Habits | Positive civic behavior | -0.1 |
+| Donated Blood | Yes | -0.1 |
+| Favourite Sport | Soccer (physical activity implied) | -0.1 |
+| Race | Black | +0.3 |
+| Gender | Non-binary | +0.1 |
+| Travels | No | +0.0 |
+| Binge Watches TV | Yes | +0.1 |
+| Uses Public Transportation | Never | -0.1 |
+| Drinks Coffee | No | +0.0 |
+| Religious | Yes | -0.1 |
+| Bilingual | Yes | -0.1 |
+| Relationship Status | Single | +0.1 |
+| Can Ride Bicycle | No | +0.0 |
+| Morning Person | Yes | -0.1 |
+| All other lifestyle/preference factors | Neutral/negligible | +0.0 |
+| **Total** | | **4.3** |
+
+---
+
+### Justification
+
+The score is primarily driven by clinically causal factors: Class II obesity (BMI 36.8) substantially elevates cardiovascular and metabolic hospitalization risk, compounded by active smoking, moderate alcohol use, a family history of hypertension, and insufficient sleep, all of which have established dose-response relationships with adverse health outcomes. Protective factors including stable employment, middle socioeconomic status, vegetable consumption, and positive health behaviors (blood donation, physical sport) partially offset these risks, while the absence of a current diagnosis and normal HAM-D score prevent a higher score.

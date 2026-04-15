@@ -1,0 +1,24 @@
+1. Final Hospitalization Risk Score: 6.2
+
+2. Breakdown of individual attribute impacts on risk:
+   - Age: 56: +1.5 (increased risk due to age-related health decline)
+   - BMI: 31.1: +1.2 (obesity-related health risks)
+   - Family_Health_History: Asthma: +0.8 (potential for respiratory complications)
+   - Current_Diagnosis: Schizophrenia: +2.0 (serious mental health condition requiring management)
+   - Race: Black: +0.5 (disparities in healthcare access and outcomes)
+   - Gender: Other: +0.2 (potential for unique health challenges and disparities)
+   - Weekly_Alcohol_Intake: 0: -0.5 (reduced risk due to no alcohol consumption)
+   - Smoking: No: -0.5 (reduced risk due to not smoking)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (lower risk due to absence of depressive symptoms)
+   - Been_Sad_or_Fatigued: No: -0.2 (reduced risk due to absence of reported sadness or fatigue)
+   - Loss_of_Interest: Yes: +0.8 (potential indicator of underlying mental health issue)
+   - Hours_of_Sleep: 8.0: -0.5 (adequate sleep reduces health risks)
+   - Employment: Employed: -0.8 (stable employment can reduce stress and improve health outcomes)
+   - Socioeconomic_Status: Middle: -0.5 (middle socioeconomic status may provide access to healthcare resources)
+   - Drinks_Coffee: No: +0.1 (potential for increased risk due to lack of coffee's protective effects)
+   - Likes_Vegetables: No: +0.4 (increased risk due to potential for poor diet)
+   - Favourite_Sport: Basketball: -0.1 (engagement in sports can improve physical and mental health)
+   - Other attributes (due to their nature or lack of direct health impact): +0.5 (cumulative minor risks from various lifestyle and preference factors)
+   - Total: 6.2
+
+3. The patient's hospitalization risk is elevated primarily due to their schizophrenia diagnosis, family history of asthma, and obesity, which collectively increase the likelihood of health complications. Despite some protective factors such as no alcohol intake, not smoking, and stable employment, the presence of significant health challenges and potential for poor health outcomes due to lifestyle factors contribute to an overall moderate to high risk score.

@@ -1,0 +1,45 @@
+## Risk Score: **3.6**
+
+---
+
+### Factor Contributions (Sum = 3.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases hospitalization likelihood | +2.0 |
+| BMI (25.8) | Normal/healthy range | −0.2 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory illness | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.5 |
+| Race (Black) | Documented systemic healthcare access disparities increase risk | +0.4 |
+| Gender (Female) | Slightly lower cardiovascular risk relative to male at this age | −0.1 |
+| Weekly Alcohol Intake (1) | Minimal; negligible risk contribution | +0.0 |
+| Smoking (No) | Protective factor | −0.4 |
+| HAM-D Mild Depression (7–17) | Mild depression associated with poorer health outcomes | +0.4 |
+| Been Sad or Fatigued (No) | Contradicts/mitigates depression severity signal | −0.2 |
+| Loss of Interest (No) | Further mitigates depression severity signal | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; increases systemic health risk | +0.6 |
+| Employment (Employed) | Protective; access to insurance and routine | −0.3 |
+| Socioeconomic Status (High) | Strong protective factor; better access to care | −0.5 |
+| Drinks Coffee (No) | Neutral to marginally protective (no caffeine-related risk) | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior; protective | −0.2 |
+| Favourite Sport (Hockey) | Indicates physical activity; protective | −0.1 |
+| Votes (Sometimes) | Moderate civic engagement; weak proxy for social stability | 0.0 |
+| Height (62 inches) | Informational; no direct causal risk contribution | 0.0 |
+| Has Driver's License (Yes) | Indicates mobility and healthcare access | −0.1 |
+| Picks Up Litter (Sometimes) | Proxy for prosocial behavior; negligible health impact | 0.0 |
+| Uses Public Transportation (Sometimes) | Slight exposure risk (infectious); negligible | +0.1 |
+| Donated Blood (No) | No direct causal hospitalization link | 0.0 |
+| Birthday Month (November) | No established direct causal risk | 0.0 |
+| Water Intake (46.1 oz) | Below optimal (~64 oz); mild hydration concern | +0.2 |
+| Bilingual (No) | Neutral | 0.0 |
+| Handedness (Right) | No causal health risk | 0.0 |
+| Likes Kids (Yes) | No direct causal health impact | 0.0 |
+| Favourite Meal (Lunch) | No direct causal health impact | 0.0 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+
+**Total: +3.6**
+
+---
+
+### Justification
+The score is primarily driven by the patient's age (61), mild depression indicator, insufficient sleep (5.4 hours), asthma family history, and documented racial healthcare disparities, all of which causally elevate hospitalization risk through physiological vulnerability, mental health burden, and systemic access inequities. These risks are substantially offset by high socioeconomic status, no active diagnosis, non-smoking status, healthy BMI, employment, and positive dietary and physical activity behaviors.

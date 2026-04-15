@@ -1,0 +1,45 @@
+## Risk Score: **4.8**
+
+---
+
+### Factor Contributions (Sum = 4.8)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases hospitalization risk | +1.5 |
+| BMI (33.4) | Obese class I; increases cardiometabolic and surgical risk | +1.2 |
+| Current Diagnosis: Depression | Active mental health condition increases hospitalization risk | +1.0 |
+| HAM-D: Mild Depression (7–17) | Mild severity limits acute hospitalization risk | -0.3 |
+| Been Sad or Fatigued: Yes | Symptom burden increases risk | +0.2 |
+| Loss of Interest: Yes | Anhedonia compounds depressive symptom burden | +0.2 |
+| Hours of Sleep (6.7) | Slightly below optimal; modest negative health effect | +0.1 |
+| Socioeconomic Status: Low | Reduced access to care increases hospitalization likelihood | +0.5 |
+| Employment: Retired | Reduced structured activity; mild risk increase | +0.1 |
+| Weekly Alcohol Intake (1) | Very low; negligible risk | -0.1 |
+| Smoking: No | No smoking; protective | -0.3 |
+| Water Intake (44.6 oz) | Below recommended ~64 oz; mild concern | +0.1 |
+| Has Driver's License: No | Limits healthcare access; increases risk | +0.2 |
+| Uses Public Transportation: Always | Partially offsets access concern | -0.1 |
+| Drinks Coffee: Yes | Mild cardiovascular consideration at this age/BMI | +0.1 |
+| Likes Vegetables: Yes | Dietary protective factor | -0.2 |
+| Donated Blood: Yes | Indicates some baseline health engagement | -0.1 |
+| Family Health History: NaN | Unknown; no contribution assigned | 0.0 |
+| Race: White | No directional causal contribution assigned | 0.0 |
+| Gender: Male | Slightly lower help-seeking behavior in depression context | +0.1 |
+| Sexual Orientation: Bisexual | Minority stress may compound mental health burden | +0.2 |
+| Favourite Sport: Soccer | Indicates physical activity engagement; protective | -0.1 |
+| Votes: Sometimes | Mild indicator of social disengagement | +0.1 |
+| Picks Up Litter: Sometimes | Neutral civic engagement | 0.0 |
+| Bilingual: No | No contribution | 0.0 |
+| Handedness: Right | No contribution | 0.0 |
+| Likes Kids: Yes | Positive social connectedness indicator | -0.1 |
+| Birthday Month: February | No causal contribution | 0.0 |
+| Favourite Meal: Breakfast | No causal contribution | 0.0 |
+| Height (61 inches) | Contextually captured in BMI calculation | 0.0 |
+
+**Total: 4.8**
+
+---
+
+### Justification
+This score is driven primarily by the convergence of older age, obesity, active depression with functional symptoms (fatigue, anhedonia), low socioeconomic status, and limited transportation independence, all of which causally elevate hospitalization risk through pathways of disease burden, reduced care access, and health system engagement. Protective factors including non-smoking, low alcohol use, vegetable consumption, physical activity, and only mild depression severity (HAM-D 7–17) meaningfully offset the risk, yielding a moderate score of 4.8.

@@ -1,0 +1,41 @@
+## Risk Score: **6.2**
+
+---
+
+### Factor Contributions (Sum = 6.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (19) | Young adult, elevated psychiatric vulnerability | +0.5 |
+| BMI (17.6) | Underweight – nutritional deficiency, physical health risk | +0.8 |
+| Family Health History (Diabetes) | Metabolic risk, indirect hospitalization pressure | +0.2 |
+| Current Diagnosis (Schizophrenia) | High-severity psychiatric condition, primary driver | +2.5 |
+| Race (White) | No significant directional causal adjustment | 0.0 |
+| Gender (Non-binary) | Elevated psychosocial stressor, minority stress | +0.3 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress from orientation | 0.0 |
+| Weekly Alcohol Intake (3 drinks) | Moderate, mild interaction with psychiatric meds | +0.2 |
+| Smoking (No) | Protective against respiratory/cardiovascular risk | -0.2 |
+| HAM-D (25+, Severe Depression) | Severe comorbid depression, significantly elevates risk | +1.5 |
+| Been Sad or Fatigued (No) | Slight inconsistency with HAM-D; mild protective signal | -0.1 |
+| Loss of Interest (Yes) | Anhedonia consistent with severe depression, reinforces risk | +0.3 |
+| Hours of Sleep (8.0) | Adequate sleep, mild protective factor | -0.2 |
+| Employment (Student) | Structured environment, mild protective | -0.1 |
+| Socioeconomic Status (High) | Better access to care, reduces hospitalization likelihood | -0.5 |
+| Drinks Coffee (No) | Neutral to mildly protective (no stimulant interference) | -0.1 |
+| Likes Vegetables (No) | Poor diet quality, compounds underweight BMI risk | +0.2 |
+| Favourite Sport (NaN) | No physical activity indicated, mild negative | +0.2 |
+| Votes (Never) | Civic disengagement, proxy for social disconnection | +0.1 |
+| Height (74 inches) | Contextual to BMI calculation only; no independent contribution | 0.0 |
+| Has Driver's License (No) | Reduced mobility/independence, mild barrier to care access | +0.1 |
+| Picks Up Litter (Always) | Prosocial behavior, mild protective psychological signal | -0.1 |
+| Uses Public Transportation (Sometimes) | Partial mobility, neutral | 0.0 |
+| Donated Blood (No) | No causal hospitalization relevance | 0.0 |
+| Birthday Month (July) | No established causal hospitalization effect | 0.0 |
+
+**Total: +6.2**
+
+---
+
+### Justification
+
+The score is primarily driven by the combination of a schizophrenia diagnosis and severe comorbid depression (HAM-D ≥ 25), which together represent the strongest causal predictors of psychiatric hospitalization, compounded by an underweight BMI suggesting physical deterioration and poor nutritional status. Protective factors — including high socioeconomic status (enabling care access), adequate sleep, non-smoking status, and structured student employment — partially offset these risks but are insufficient to counterbalance the severity of the psychiatric and physical health burden.

@@ -1,0 +1,40 @@
+## Risk Score Calculation for Patient_ID: 3
+
+---
+
+### 1. Risk Score: **5.3**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (64) | Elevated risk; older age increases hospitalization vulnerability | +1.5 |
+| BMI (29.9) | Near-obese threshold; mild metabolic risk | +0.5 |
+| Family Health History (Asthma) | Indirect respiratory vulnerability; minor systemic risk | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric condition directly linked to hospitalization risk | +1.5 |
+| Race (Native American) | Documented healthcare access disparities and elevated chronic disease burden | +0.4 |
+| Gender (Male) | Males statistically less likely to seek care, worsening outcomes | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress burden | 0.0 |
+| Weekly Alcohol Intake (2 drinks) | Low intake; negligible risk | +0.1 |
+| Smoking (No) | Protective; reduces cardiopulmonary risk | -0.4 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant depression severity; increases psychiatric hospitalization risk | +1.2 |
+| Been Sad or Fatigued (No) | Contradicts some depressive symptom burden; mildly protective | -0.2 |
+| Loss of Interest (Yes) | Anhedonia present; reinforces depression severity and functional impairment | +0.3 |
+| Hours of Sleep (6.4) | Slightly below optimal; mild risk for mood and immune dysregulation | +0.2 |
+| Employment (Retired) | Reduced occupational stress; mild protective effect | -0.2 |
+| Socioeconomic Status (Middle) | Moderate access to care; neutral to mildly protective | -0.1 |
+| Drinks Coffee (Yes) | Mild stimulant; negligible or slightly positive effect on alertness/mood | -0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior; mild protective effect | -0.2 |
+| Favourite Sport (Soccer) | Indicates physical activity engagement; protective | -0.3 |
+| Votes (Always) | Proxy for civic engagement and social connectedness; protective | -0.2 |
+| Height in Inches (65) | Neutral anthropometric factor in isolation | 0.0 |
+
+**Sum: 1.5 + 0.5 + 0.2 + 1.5 + 0.4 + 0.2 + 0.0 + 0.1 − 0.4 + 1.2 − 0.2 + 0.3 + 0.2 − 0.2 − 0.1 − 0.1 − 0.2 − 0.3 − 0.2 + 0.0 = 5.3**
+
+---
+
+### 3. Justification
+
+This patient's elevated risk is primarily driven by the convergence of active moderate depression (HAM-D 18–24) with age-related vulnerability (64), a formal depressive diagnosis, and healthcare access disparities associated with Native American race, all of which causally increase the likelihood of psychiatric or medical hospitalization. Protective factors — including non-smoking status, physical activity, healthy diet, civic engagement, and low alcohol intake — partially offset these risks, yielding a moderate-to-elevated composite score of **5.3**.

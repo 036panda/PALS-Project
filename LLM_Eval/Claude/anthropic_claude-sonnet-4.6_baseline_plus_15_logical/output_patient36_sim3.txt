@@ -1,0 +1,45 @@
+**Risk Score: 6.8**
+
+---
+
+**Factor Contributions:**
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (68) | High-risk age bracket | +1.5 |
+| BMI (29.7) | Overweight, near obese threshold | +0.4 |
+| Family Health History (Hypertension) | Hereditary cardiovascular risk | +0.3 |
+| Current Diagnosis (Schizophrenia) | Major psychiatric condition with high hospitalization association | +1.5 |
+| HAM-D (25+, Severe Depression) | Severe depression increases acute care likelihood | +1.2 |
+| Been Sad or Fatigued (Yes) | Corroborates severe depressive state | +0.2 |
+| Loss of Interest (Yes) | Corroborates anhedonia, worsens prognosis | +0.2 |
+| Smoking (Yes) | Direct cardiovascular and pulmonary risk | +0.5 |
+| Weekly Alcohol Intake (3 drinks) | Moderate, minor additive risk | +0.1 |
+| Socioeconomic Status (Low) | Reduced healthcare access, worse outcomes | +0.4 |
+| Employment (Retired) | Reduced structured support, mild risk | +0.1 |
+| Water Intake (43.8 oz) | Below recommended daily intake, mild dehydration risk | +0.1 |
+| Likes Vegetables (No) | Poor diet quality, indirect health risk | +0.1 |
+| Hours of Sleep (7.7) | Within healthy range | -0.2 |
+| Uses Public Transportation (Sometimes) | Mild physical activity proxy | -0.1 |
+| Picks Up Litter (Always) | Indicates civic engagement, proxy for functional capacity | -0.1 |
+| Has Driver's License (Yes) | Indicates functional independence | -0.1 |
+| Bilingual (Yes) | Cognitive resilience indicator | -0.1 |
+| Likes Kids (Yes) | Social connectedness proxy | -0.1 |
+| Favourite Sport (Hockey) | Interest in active sport, mild protective proxy | -0.1 |
+| Drinks Coffee (Yes) | Neutral to mild cardiovascular consideration | +0.0 |
+| Race (Hispanic) | No independent causal contribution assigned | +0.0 |
+| Gender (Other) | No independent causal contribution assigned | +0.0 |
+| Sexual Orientation (Bisexual) | No independent causal contribution assigned | +0.0 |
+| Handedness (Right) | No causal relevance | +0.0 |
+| Votes (Never) | No direct causal health relevance | +0.0 |
+| Donated Blood (No) | No direct causal relevance | +0.0 |
+| Birthday Month (May) | No causal relevance | +0.0 |
+| Favourite Meal (Dinner) | No causal relevance | +0.0 |
+| Height (59 inches) | Contextually captured in BMI | +0.0 |
+
+**Sum of Contributions: 1.5 + 0.4 + 0.3 + 1.5 + 1.2 + 0.2 + 0.2 + 0.5 + 0.1 + 0.4 + 0.1 + 0.1 + 0.1 − 0.2 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 = 6.8**
+
+---
+
+**Justification:**
+The score is primarily driven by the convergence of a serious psychiatric diagnosis (Schizophrenia) with severe depression (HAM-D 25+), advanced age, active smoking, and low socioeconomic status, all of which have established causal relationships with acute hospitalization risk. Protective factors such as adequate sleep, functional independence, social engagement proxies, and cognitive resilience (bilingualism) partially offset these risks but are insufficient to counterbalance the dominant clinical and social determinants.

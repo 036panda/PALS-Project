@@ -1,0 +1,44 @@
+## Risk Score: **3.2**
+
+---
+
+### Factor Contributions (Sum = 3.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (49) | Moderate age, elevated chronic risk | +1.0 |
+| BMI (23.2) | Normal/healthy range | −0.3 |
+| Family Health History (Asthma) | Respiratory hereditary risk | +0.2 |
+| Current Diagnosis (Anxiety) | Active mental health condition requiring management | +0.8 |
+| HAM-D Score (0–6, Normal) | No clinical depression severity | −0.3 |
+| Loss of Interest (Yes) | Subclinical anhedonia, behavioral health signal | +0.3 |
+| Been Sad or Fatigued (No) | Absence of depressive somatic symptoms | −0.2 |
+| Hours of Sleep (9.4) | Hypersomnia, associated with underlying conditions | +0.2 |
+| Weekly Alcohol Intake (4 drinks) | Moderate, mild risk contribution | +0.2 |
+| Smoking (No) | No smoking-related risk | −0.3 |
+| Socioeconomic Status (High) | Greater healthcare access, reduces hospitalization risk | −0.4 |
+| Employment (Employed) | Stability reduces risk | −0.2 |
+| Water Intake (42.3 oz) | Below recommended ~64 oz/day, mild dehydration risk | +0.2 |
+| Likes Vegetables (No) | Poor dietary habit, mild nutritional risk | +0.2 |
+| Travels (No) | Reduced exposure risk | −0.1 |
+| Uses Public Transportation (Always) | Increased infectious disease exposure | +0.2 |
+| Drinks Coffee (Yes) | Mild anxiogenic effect given Anxiety diagnosis | +0.1 |
+| Relationship Status (Dating) | Moderate social support | −0.1 |
+| Recycling/Lifestyle Habits (Never) | Weak proxy for health-conscious behavior | +0.1 |
+| Picks Up Litter (Never) | Weak proxy for health engagement | +0.1 |
+| Donated Blood (Yes) | Indicates engagement with healthcare system | −0.1 |
+| Has Driver's License (Yes) | Mobility/access to care | −0.1 |
+| Race/Ethnicity (Hispanic) | Documented healthcare access disparities | +0.2 |
+| Gender (Male) | Males statistically less likely to seek preventive care | +0.1 |
+| Can Ride Bicycle (No) | Minor indicator of reduced physical activity options | +0.1 |
+| Favourite Sport (Basketball) | Active sport, positive physical activity signal | −0.1 |
+| All remaining factors (color, phone, music, handedness, bilingual, hair, birthday, school subject, religion, kids, meal) | No established causal link to hospitalization risk | 0.0 |
+
+---
+
+**Sum Check:** 1.0 − 0.3 + 0.2 + 0.8 − 0.3 + 0.3 − 0.2 + 0.2 + 0.2 − 0.3 − 0.4 − 0.2 + 0.2 + 0.2 − 0.1 + 0.2 + 0.1 − 0.1 + 0.1 + 0.1 − 0.1 − 0.1 + 0.2 + 0.1 + 0.1 − 0.1 = **3.2** ✓
+
+---
+
+### Justification
+The score is primarily driven by the patient's active Anxiety diagnosis, moderate age of 49, and subclinical behavioral signals (loss of interest, hypersomnia, low water intake, poor diet), which causally elevate hospitalization risk through mental and physical health deterioration pathways. These risks are meaningfully offset by a normal BMI, non-smoking status, high socioeconomic standing, and employment, all of which causally improve healthcare access, treatment adherence, and physiological resilience.

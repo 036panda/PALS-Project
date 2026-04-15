@@ -1,0 +1,40 @@
+## Risk Score Calculation for Patient_ID: 15
+
+---
+
+### 1. Risk Score: **5.3**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (64) | Elevated risk for older adults | +2.0 |
+| BMI (21.6) | Healthy range | −0.5 |
+| Family Health History (Hypertension) | Genetic/familial cardiovascular risk | +0.5 |
+| Current Diagnosis (nan/None) | No active diagnosis | −0.5 |
+| Race (Native American) | Documented health disparity group, reduced healthcare access | +0.4 |
+| Gender (Other) | Healthcare access barriers, minority stress | +0.2 |
+| Weekly Alcohol Intake (2) | Low/moderate, minimal risk | −0.1 |
+| Smoking (Yes) | Direct cardiovascular and pulmonary risk factor | +0.8 |
+| HAM-D (Normal/No Depression) | No clinical depression | −0.3 |
+| Been Sad or Fatigued (No) | No affective symptom burden | −0.1 |
+| Loss of Interest (Yes) | Subclinical anhedonia, behavioral health signal | +0.2 |
+| Hours of Sleep (3.4) | Severe sleep deprivation, strong hospitalization predictor | +1.2 |
+| Employment (Retired) | Reduced structured activity, fixed income vulnerability | +0.3 |
+| Socioeconomic Status (Low) | Reduced access to preventive care, medication adherence | +0.6 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant, minor risk | +0.1 |
+| Likes Vegetables (No) | Poor dietary habits, nutritional deficiency risk | +0.3 |
+| Favourite Sport (Gymnastics) | Active physical engagement, protective | −0.3 |
+| Votes (Sometimes) | Moderate civic engagement, partial social integration | −0.1 |
+| Height (71 inches) | Neutral anthropometric factor | 0.0 |
+| Sexual Orientation (Heterosexual) | No additional minority stress from this factor | 0.0 |
+
+**Sum: 2.0 − 0.5 + 0.5 − 0.5 + 0.4 + 0.2 − 0.1 + 0.8 − 0.3 − 0.1 + 0.2 + 1.2 + 0.3 + 0.6 + 0.1 + 0.3 − 0.3 − 0.1 + 0.0 + 0.0 = 5.3**
+
+---
+
+### 3. Justification
+
+The score of 5.3 is primarily driven by the patient's advanced age, active smoking, severe sleep deprivation (3.4 hours), and low socioeconomic status, all of which have direct causal links to physiological deterioration and reduced access to timely medical intervention. Protective factors including a healthy BMI, no current diagnosis, physical activity through gymnastics, and absence of clinical depression partially offset these risks, yielding a moderate-to-elevated hospitalization risk profile.

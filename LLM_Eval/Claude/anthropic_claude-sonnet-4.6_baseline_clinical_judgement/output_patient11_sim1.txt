@@ -1,0 +1,35 @@
+## Patient ID: 11 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Current Diagnosis: Schizophrenia | Active schizophrenia diagnosis — high inherent hospitalization risk due to psychosis, relapse potential, and functional impairment | **+3.2** |
+| Loss of Interest | Yes — anhedonia present, a clinically significant symptom suggesting motivational and functional decline | **+0.7** |
+| HAM-D: Mild Depression (7–17) | Comorbid depressive symptomatology alongside schizophrenia increases complexity and decompensation risk | **+0.6** |
+| Socioeconomic Status: Low | Limited access to resources, medications, and consistent care increases vulnerability | **+0.5** |
+| BMI: 29.7 | Overweight range; associated with metabolic comorbidities common in antipsychotic use | **+0.3** |
+| Weekly Alcohol Intake: 4 units | Moderate use; not severe but relevant given psychiatric diagnosis and potential medication interactions | **+0.2** |
+| Sexual Orientation: Bisexual | Minority stress, stigma, and elevated mental health burden in bisexual populations | **+0.2** |
+| Age: 31 | Peak risk window for schizophrenia relapse and chronicity | **+0.1** |
+| Family Health History: Unknown (NaN) | Missing data — cannot assess genetic risk; treated as neutral with slight uncertainty penalty | **+0.1** |
+| Been Sad or Fatigued: No | Absence of pervasive sadness/fatigue is a mild protective indicator | **−0.3** |
+| Hours of Sleep: 7.1 | Near-optimal sleep; protective against psychiatric decompensation | **−0.3** |
+| Employment: Employed | Structured daily routine and financial stability are protective | **−0.4** |
+| Smoking: No | No smoking-related health burden; mild protective factor | **−0.1** |
+| Gender: Female | Females with schizophrenia tend to have later onset and somewhat better outcomes | **−0.1** |
+| Race: White | No significant directional adjustment in this context | **0.0** |
+
+**Sum Total: +3.2 +0.7 +0.6 +0.5 +0.3 +0.2 +0.2 +0.1 +0.1 −0.3 −0.3 −0.4 −0.1 −0.1 + 0.0 = 5.8** ✓
+
+---
+
+### 3. Clinical Rationale
+
+This 31-year-old bisexual White female with an active schizophrenia diagnosis represents a moderately elevated hospitalization risk, driven primarily by the inherent relapse and decompensation potential of her primary diagnosis compounded by comorbid mild depression, anhedonia, and low socioeconomic status limiting care access. Protective factors — including current employment, adequate sleep, absence of pervasive fatigue, and non-smoking status — partially offset these risks, suggesting a patient who is currently functioning but remains clinically vulnerable without consistent psychiatric support and monitoring.

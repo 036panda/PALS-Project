@@ -1,0 +1,39 @@
+## Patient 46 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (32) | Young adult; lower inherent medical risk | −0.5 |
+| BMI (25.7) | Normal-to-borderline; minimal concern | +0.1 |
+| Family Health History (Asthma) | Genetic predisposition to respiratory issues | +0.3 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.4 |
+| Race (White) | No elevated population-specific risk flag | 0.0 |
+| Gender (Non-binary) | Healthcare access barriers; minority stress | +0.4 |
+| Sexual Orientation (Other) | Additional minority stress; potential care avoidance | +0.3 |
+| Weekly Alcohol Intake (2 units) | Low; minimal hepatic or behavioral risk | +0.1 |
+| Smoking (No) | Protective; no pulmonary/cardiovascular burden | −0.4 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant; elevated psychiatric risk | +1.6 |
+| Been Sad or Fatigued (No) | Inconsistent with HAM-D; possible underreporting | +0.2 |
+| Loss of Interest (Yes) | Anhedonia present; core depressive symptom | +0.7 |
+| Hours of Sleep (4.8) | Significant sleep deprivation; psychiatric & physical risk | +0.9 |
+| Employment (Employed) | Stabilizing social factor | −0.5 |
+| Socioeconomic Status (Middle) | Moderate resource access; partial buffer | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive (no stimulant dependency) | 0.0 |
+| Likes Vegetables (No) | Poor nutritional habits; modest health risk | +0.2 |
+| Favourite Sport (NaN) | Sedentary lifestyle implied; modest risk | +0.2 |
+| Votes (Sometimes) | Mild civic disengagement; social connectedness concern | +0.1 |
+| Height (63 inches) | Contextual only; no independent risk | 0.0 |
+| **Total** | | **4.8** |
+
+---
+
+### 3. Clinical Rationale
+
+This 32-year-old non-binary individual presents with moderate depression (HAM-D 18–24), clinically significant sleep deprivation (4.8 hours/night), and anhedonia, forming a psychiatric risk cluster that meaningfully elevates hospitalization concern despite the absence of a formal current diagnosis. Protective factors including employment, middle socioeconomic status, non-smoking status, and young age partially offset risk; however, minority stress related to gender and sexual identity, combined with poor sleep and depressive symptomatology, warrants close clinical monitoring and proactive outpatient psychiatric intervention to prevent escalation to inpatient care.

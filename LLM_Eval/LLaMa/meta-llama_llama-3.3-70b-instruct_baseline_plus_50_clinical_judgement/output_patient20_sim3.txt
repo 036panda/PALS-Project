@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 6.2
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 19: -1.5 (young age generally lowers health risks)
+   - BMI: 25.1: 1.2 (slightly elevated BMI increases health risks)
+   - Current_Diagnosis: Schizophrenia: 3.5 (serious mental health condition increases risk)
+   - HAM-D: 7–17: Mild Depression: 1.8 (mild depression contributes to overall risk)
+   - Been_Sad_or_Fatigued: Yes: 0.5 (symptoms of sadness or fatigue increase risk)
+   - Weekly_Alcohol_Intake: 4: 0.2 (moderate alcohol intake has a minor impact on risk)
+   - Smoking: No: -0.5 (not smoking reduces health risks)
+   - Hours_of_Sleep: 10.3: -0.8 (adequate sleep reduces health risks)
+   - Employment: Employed: -0.5 (being employed generally improves mental and physical health)
+   - Socioeconomic_Status: Middle: -0.2 (middle socioeconomic status has a minor reducing effect on risk)
+   - Allergy: Animal Dander: 0.1 (allergy has a minor impact on overall health risk)
+   - Exercises: No: 0.8 (lack of exercise increases health risks)
+   - Family_Health_History: nan: 0 (unknown family health history has no direct impact)
+   - Other attributes (Race, Gender, Sexual_Orientation, etc.): 0 (these attributes do not directly contribute to the hospitalization risk in this evaluation)
+3. The patient's hospitalization risk is significantly influenced by the diagnosis of schizophrenia and mild depression, which are major contributors to the overall risk score. The absence of smoking, adequate sleep, and employment status help mitigate this risk to some extent, but the lack of exercise and slightly elevated BMI are concerns that contribute to the overall risk.

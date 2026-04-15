@@ -1,0 +1,54 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability and comorbidity risk | +2.0 |
+| BMI (29.4) | Overweight range; mild cardiovascular and metabolic risk | +0.5 |
+| Family Health History (Cancer) | Elevated genetic predisposition to oncologic conditions | +0.6 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Smoking (No) | Non-smoker; significant protective factor | −0.6 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; within low-risk range | +0.1 |
+| HAM-D Score (0–6 / No Depression) | No depressive disorder; protective for mental health-related hospitalization | −0.4 |
+| Been Sad or Fatigued (No) | No affective symptoms | −0.2 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Adequate sleep; restorative and protective | −0.2 |
+| Employment (Retired) | Reduced occupational stress; mild social isolation risk | +0.1 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare and resources | −0.1 |
+| Water Intake (44.7 oz) | Slightly below recommended ~64 oz; mild hydration concern | +0.1 |
+| Allergy (Tree Nuts) | Anaphylaxis risk if exposed; potential ER/hospitalization trigger | +0.4 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective | −0.2 |
+| Travels (Yes) | Exposure to pathogens and physical stress; mild risk | +0.1 |
+| Wears Glasses (Yes) | Indicates visual impairment; minor fall/injury risk at age 74 | +0.1 |
+| Can Ride Bicycle (No) | Possible mobility or balance limitation; minor fall risk indicator | +0.1 |
+| Relationship Status (Single) | Reduced social support; associated with delayed care-seeking | +0.2 |
+| Binge Watches TV (Yes) | Sedentary behavior; cardiovascular and metabolic risk | +0.2 |
+| Drinks Coffee (No) | Neutral to mildly protective (no caffeine-related cardiovascular stress) | −0.1 |
+| Donated Blood (Yes) | Suggests generally good health and civic health engagement | −0.1 |
+| Recycling Habits (Never) | Proxy for lower health-conscious behavior; negligible clinical impact | +0.05 |
+| Votes (Never) | Lower civic engagement; weak proxy for health disengagement | +0.05 |
+| Uses Public Transportation (Sometimes) | Mild infectious exposure risk | +0.05 |
+| Religious (Yes) | Associated with better mental health outcomes and social support | −0.1 |
+| Bilingual (Yes) | Better healthcare navigation and communication | −0.1 |
+| Morning Person (Yes) | Consistent circadian rhythm; protective for metabolic health | −0.1 |
+| Favourite Sport (Hockey) | Interest in active sport; positive lifestyle indicator | −0.1 |
+| Gender (Male) | Males statistically less likely to seek preventive care; slight risk | +0.1 |
+| Race (White) | Neutral in this context with available data | 0.0 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+| Height (58 inches / 4'10") | Short stature for male; BMI recalculated impact already captured | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence; protective | −0.1 |
+| Hair Color, Favourite Color, Phone, Superstore, Music, Meal, Handedness, Birthday Month | Non-clinical lifestyle attributes | 0.0 |
+| **TOTAL** | | **4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with no active diagnosis and strong protective factors including non-smoking status, adequate sleep, no depression, and a vegetable-rich diet, which collectively moderate his hospitalization risk despite his age. However, his age-related vulnerability, family history of cancer, tree nut allergy with anaphylaxis potential, sedentary binge-watching behavior, single status with limited social support, and mild dehydration collectively elevate his risk to a moderate level warranting routine preventive monitoring and allergy preparedness planning.

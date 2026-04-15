@@ -1,0 +1,35 @@
+## Hospitalization Risk Evaluation — Patient ID: 5
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (61) | Older adult; elevated physiological vulnerability | +1.4 |
+| BMI (25.8) | Normal/healthy range; minimal metabolic concern | −0.3 |
+| Family Health History (Asthma) | Hereditary respiratory risk; moderate relevance | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Race (Black) | Systemic health disparities; elevated chronic disease risk | +0.5 |
+| Gender (Female) | Generally lower acute hospitalization risk vs. male | −0.2 |
+| Sexual Orientation (Heterosexual) | No significant minority stress-related risk elevation | +0.0 |
+| Weekly Alcohol Intake (1 unit) | Minimal; negligible hepatic or systemic risk | −0.1 |
+| Smoking (No) | Protective; no pulmonary/cardiovascular smoking burden | −0.4 |
+| HAM-D (Mild Depression, 7–17) | Mild depressive symptomatology; low-moderate psychiatric risk | +0.6 |
+| Been Sad or Fatigued (No) | Contradicts mild HAM-D; reduces functional impairment concern | −0.2 |
+| Loss of Interest (No) | No anhedonia; positive functional indicator | −0.2 |
+| Hours of Sleep (5.4) | Below recommended threshold; immune/cardiovascular risk | +0.7 |
+| Employment (Employed) | Structural stability; access to insurance/resources | −0.3 |
+| Socioeconomic Status (High) | Strong access to preventive care; significant protective factor | −0.4 |
+
+**Sum Total: +1.4 − 0.3 + 0.5 − 0.8 + 0.5 − 0.2 + 0.0 − 0.1 − 0.4 + 0.6 − 0.2 − 0.2 + 0.7 − 0.3 − 0.4 = 3.8 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a generally favorable clinical profile — no active diagnosis, healthy BMI, non-smoker, minimal alcohol use, and high socioeconomic status with employment — all of which substantially buffer hospitalization risk. However, chronically insufficient sleep (5.4 hours), mild depressive symptoms on the HAM-D, advancing age, and race-associated systemic health disparities introduce a modest but clinically meaningful cumulative risk that warrants preventive monitoring and sleep hygiene intervention.

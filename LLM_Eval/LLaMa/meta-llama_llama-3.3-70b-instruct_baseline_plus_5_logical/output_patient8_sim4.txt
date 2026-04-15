@@ -1,0 +1,25 @@
+1. Risk Score: 4.8
+
+2. Input Factors and Contributions:
+   - Age: 29: -1.5 (younger age generally reduces risk)
+   - BMI: 25.9: 1.2 (being overweight increases risk)
+   - Family_Health_History: nan: 0 (no information, no contribution)
+   - Current_Diagnosis: Anxiety: 2.0 (anxiety can increase hospitalization risk)
+   - Race: Asian: 0 (no specific risk contribution assigned based on race)
+   - Gender: Male: 0 (no specific risk contribution assigned based on gender)
+   - Sexual_Orientation: Heterosexual: 0 (no specific risk contribution assigned based on sexual orientation)
+   - Weekly_Alcohol_Intake: 5: 0.5 (moderate alcohol intake may slightly increase risk)
+   - Smoking: No: -1.0 (not smoking reduces risk)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (no depression reduces risk)
+   - Been_Sad_or_Fatigued: Yes: 1.5 (recent sadness or fatigue can increase risk)
+   - Loss_of_Interest: Yes: 1.0 (loss of interest can indicate increased risk)
+   - Hours_of_Sleep: 3.7: 1.5 (low sleep hours increase risk)
+   - Employment: Employed: -0.5 (being employed can reduce risk)
+   - Socioeconomic_Status: Middle: 0 (middle socioeconomic status, neutral contribution)
+   - Drinks_Coffee: No: 0 (no specific risk contribution assigned based on coffee consumption)
+   - Likes_Vegetables: Yes: -0.5 (healthy eating habits reduce risk)
+   - Favourite_Sport: Soccer: 0 (no specific risk contribution assigned based on favorite sport)
+   - Votes: Sometimes: 0 (voting behavior not directly related to health risk)
+   - Height_in_Inches: 60: 0 (height not directly contributing to hospitalization risk in this context)
+
+3. The risk score calculation is based on assigning positive contributions for factors that increase the likelihood of hospitalization (such as anxiety diagnosis, being overweight, low sleep hours, and indicators of potential depression like sadness and loss of interest) and negative contributions for factors that decrease this likelihood (such as not smoking, being employed, and healthy habits). The sum of these contributions provides a comprehensive risk score, reflecting the individual's specific health and lifestyle factors.

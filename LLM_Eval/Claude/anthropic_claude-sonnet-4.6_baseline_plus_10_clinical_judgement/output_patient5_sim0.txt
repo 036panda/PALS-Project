@@ -1,0 +1,44 @@
+## Hospitalization Risk Evaluation — Patient ID: 5
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.7 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (61) | Older age increases physiological vulnerability | +1.4 |
+| BMI (25.8) | Normal/healthy range, minimal concern | −0.3 |
+| Family Health History (Asthma) | Hereditary respiratory risk, moderate concern | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosis, protective | −0.5 |
+| Race (Black) | Systemic health disparities, elevated chronic disease risk | +0.4 |
+| Gender (Female) | Generally lower hospitalization risk at this age | −0.2 |
+| Sexual Orientation (Heterosexual) | No significant differential risk | +0.0 |
+| Weekly Alcohol Intake (1) | Minimal intake, negligible risk | −0.1 |
+| Smoking (No) | Protective factor, no respiratory/cardiovascular burden | −0.5 |
+| HAM-D: Mild Depression (7–17) | Mild depression linked to reduced self-care and health-seeking | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity, partially mitigating | −0.2 |
+| Loss of Interest (No) | Further mitigates depression-related functional decline | −0.2 |
+| Hours of Sleep (5.4) | Below recommended threshold; increases immune/cardiovascular risk | +0.6 |
+| Employment (Employed) | Structured routine, insurance access, protective | −0.3 |
+| Socioeconomic Status (High) | Strong access to healthcare, highly protective | −0.5 |
+| Drinks Coffee (No) | Neutral to mildly protective (no caffeine-related cardiovascular stress) | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior, protective | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator, protective | −0.2 |
+| Votes (Sometimes) | Moderate civic engagement, mild proxy for social connectedness | −0.1 |
+| Height in Inches (62) | Within normal range, no impact | +0.0 |
+| Has Driver's License (Yes) | Mobility and healthcare access, protective | −0.1 |
+| Picks Up Litter (Sometimes) | Mild proxy for community engagement/conscientiousness | −0.1 |
+| Uses Public Transportation (Sometimes) | Slight infectious exposure risk | +0.1 |
+| Donated Blood (No) | No direct clinical impact | +0.0 |
+| Birthday Month (November) | Seasonal respiratory illness risk (fall/winter) | +0.2 |
+| **TOTAL** | | **3.7** |
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a generally favorable risk profile anchored by high socioeconomic status, active employment, non-smoking status, healthy BMI, and no current active diagnosis, all of which substantially mitigate hospitalization risk. However, clinically notable concerns include chronically insufficient sleep (5.4 hours), mild depression on HAM-D scoring, racial health disparity factors, advancing age, and a family history of asthma, which collectively introduce a modest but meaningful cumulative risk warranting preventive monitoring rather than urgent intervention.

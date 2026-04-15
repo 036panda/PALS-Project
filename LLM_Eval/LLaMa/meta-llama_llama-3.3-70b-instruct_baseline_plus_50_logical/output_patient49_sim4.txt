@@ -1,0 +1,16 @@
+1. 4.2
+2. 
+- Age: 34: -0.5 (lower risk due to being relatively young)
+- BMI: 24.2: -0.2 (lower risk due to being within a relatively healthy range)
+- Current_Diagnosis: Bipolar: 2.0 (higher risk due to mental health condition)
+- Socioeconomic_Status: Low: 1.0 (higher risk due to potential limited access to healthcare resources)
+- Been_Sad_or_Fatigued: Yes: 0.5 (higher risk due to potential indicator of underlying mental health issues)
+- HAM-D: 0–6: Normal / No Depression: -0.5 (lower risk due to absence of depressive symptoms)
+- Employment: Employed: -0.5 (lower risk due to stability and access to healthcare)
+- Weekly_Alcohol_Intake: 1: -0.1 (lower risk due to moderate alcohol consumption)
+- Smoking: No: -0.2 (lower risk due to absence of smoking)
+- Hours_of_Sleep: 8.3: -0.1 (lower risk due to adequate sleep)
+- Exercises: Yes: -0.2 (lower risk due to regular physical activity)
+- Family_Health_History: nan: 0 (no contribution due to missing data)
+- All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the presence of a bipolar diagnosis, socioeconomic status, and indicators of mental health and lifestyle factors, which have established causal relationships with health outcomes, while other factors without direct causal links to hospitalization risk do not contribute to the score. The score reflects a balance between the increased risk due to the bipolar diagnosis and the mitigating factors such as employment, moderate alcohol intake, and regular exercise.

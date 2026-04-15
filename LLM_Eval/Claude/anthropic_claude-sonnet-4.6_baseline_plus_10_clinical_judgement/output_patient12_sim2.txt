@@ -1,0 +1,44 @@
+## Patient ID 12 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.4 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (90 years) | Extremely advanced age; major driver of frailty, multimorbidity, and acute decompensation risk | +3.0 |
+| BMI (32.5) | Class I obesity; increases cardiovascular, pulmonary, and metabolic strain | +0.8 |
+| Smoking (Yes) | Active smoker; significantly elevates cardiopulmonary and vascular risk | +0.7 |
+| Current Diagnosis (Depression) | Diagnosed depression reduces health-seeking behavior and self-care adherence | +0.5 |
+| Family Health History (Hypertension) | Genetic predisposition to cardiovascular disease | +0.4 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic and cardiovascular concern at this age | +0.3 |
+| Likes Vegetables (No) | Poor dietary quality; compounds metabolic and cardiovascular risk | +0.2 |
+| Has Driver's License (No) | Limits access to care and emergency response capability | +0.2 |
+| Uses Public Transportation (Never) | Social isolation and mobility limitation risk at advanced age | +0.2 |
+| Picks Up Litter (Never) | Proxy for low civic engagement; mild indicator of social disengagement | +0.1 |
+| Votes (Sometimes) | Mild indicator of inconsistent social participation | +0.1 |
+| HAM-D Score (0–6 / Normal) | No clinically significant depressive symptoms currently | −0.3 |
+| Been Sad or Fatigued (No) | Absence of active mood symptoms reduces acute psychiatric risk | −0.2 |
+| Loss of Interest (No) | No anhedonia; supports functional stability | −0.2 |
+| Hours of Sleep (7.4) | Healthy sleep duration; supports immune and cognitive function | −0.2 |
+| Socioeconomic Status (Middle) | Moderate resource access; partially mitigates care barriers | −0.1 |
+| Employment (Retired) | Reduces occupational stress; structured routine possible | −0.1 |
+| Donated Blood (Yes) | Suggests baseline health screening and civic health engagement | −0.1 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant; negligible net effect at moderate use | −0.1 |
+| Race (Hispanic) | Some systemic healthcare access disparities; minor contextual factor | +0.0 |
+| Gender (Non-binary) | Potential healthcare navigation barriers; insufficient data to weight heavily | +0.0 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | +0.0 |
+| Favourite Sport (Hockey) | Suggests historical physical activity interest; minimal current impact at age 90 | +0.0 |
+| Birthday Month (March) | No clinically significant seasonal risk | +0.0 |
+| Height (71 inches) | Contextual to BMI calculation; already captured | +0.0 |
+| **TOTAL** | | **+6.4** |
+
+---
+
+### 3. Clinical Rationale
+
+This 90-year-old retired Hispanic non-binary patient presents with a convergence of high-risk factors — most critically, extremely advanced age combined with obesity, active smoking, a depression diagnosis, and limited mobility and transportation access — that collectively create substantial vulnerability to acute illness and hospitalization. Mitigating factors including normal current HAM-D scores, adequate sleep, absence of active depressive symptoms, and middle socioeconomic status provide partial protection but are insufficient to meaningfully offset the dominant physiological and lifestyle risk burden at this age.

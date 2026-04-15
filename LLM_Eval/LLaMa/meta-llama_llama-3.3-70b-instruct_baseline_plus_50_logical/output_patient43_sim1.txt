@@ -1,0 +1,14 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+	* Age: -1.5 (young age generally associated with lower health risks)
+	* BMI: -0.5 (normal BMI range, indicating lower health risks)
+	* Family_Health_History: +1.0 (family history of cancer increases risk)
+	* Current_Diagnosis: +1.5 (bipolar diagnosis increases risk)
+	* Race: +0.5 (some studies suggest racial disparities in healthcare access and outcomes)
+	* Gender: +0.2 (male gender may be associated with higher risk-taking behaviors)
+	* HAM-D: +1.0 (mild depression increases risk)
+	* Hours_of_Sleep: +0.5 (inadequate sleep increases risk)
+	* Socioeconomic_Status: +1.0 (low socioeconomic status increases risk)
+	* Employment: -0.5 (being a student may provide access to health resources)
+	* Other factors: 0 (no significant contribution to risk score)
+3. Justification: The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, with a focus on medical history, socioeconomic status, and behavioral factors. The score reflects the increased risk associated with a family history of cancer, bipolar diagnosis, and socioeconomic disadvantages, while also considering the mitigating effects of younger age and access to resources as a student.

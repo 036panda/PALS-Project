@@ -1,0 +1,40 @@
+## Hospitalization Risk Evaluation — Patient ID: 37
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (53) | Middle-aged; elevated chronic disease vulnerability | +1.0 |
+| BMI (25.3) | Normal/borderline; minimal metabolic concern | +0.1 |
+| Family Health History (Asthma) | Respiratory vulnerability; indirect psychiatric risk minimal | +0.2 |
+| Current Diagnosis (Depression) | Primary driver; increases hospitalization risk meaningfully | +1.5 |
+| Race (Black) | Systemic healthcare access disparities; undertreatment risk | +0.4 |
+| Gender (Male) | Males less likely to seek help; higher deterioration risk | +0.3 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress factor | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild depressant interaction with diagnosis | +0.3 |
+| Smoking (No) | Protective; no cardiopulmonary compounding | -0.4 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant; warrants close monitoring | +1.0 |
+| Been Sad or Fatigued (No) | Mitigates acute symptom burden | -0.4 |
+| Loss of Interest (No) | Absence of anhedonia reduces acute severity signal | -0.3 |
+| Hours of Sleep (5.7) | Mild sleep deprivation; worsens depressive trajectory | +0.3 |
+| Employment (Employed) | Protective; structure, income, social engagement | -0.5 |
+| Socioeconomic Status (Middle) | Moderate access to care; partially protective | -0.2 |
+| Drinks Coffee (Yes) | Minor anxiogenic effect; marginal sleep disruption | +0.1 |
+| Likes Vegetables (No) | Poor nutritional habits; modest health risk | +0.2 |
+| Favourite Sport (Soccer) | Active lifestyle indicator; protective for mental health | -0.3 |
+| Votes (Never) | Civic disengagement; proxy for social disconnection | +0.2 |
+| Height (74 inches) | No clinical relevance to hospitalization risk | 0.0 |
+
+**Sum of all impacts: +1.0 +0.1 +0.2 +1.5 +0.4 +0.3 +0.0 +0.3 −0.4 +1.0 −0.4 −0.3 +0.3 −0.5 −0.2 +0.1 +0.2 −0.3 +0.2 +0.0 = 4.6** ✓
+
+---
+
+### 3. Clinical Rationale
+
+This 53-year-old employed Black male presents with moderate depression (HAM-D 18–24) as the primary hospitalization risk driver, compounded by mild sleep disruption, moderate alcohol use, and systemic factors including racial healthcare disparities and male help-seeking reluctance. Protective factors — including employment, physical activity, absence of acute affective symptoms (no reported sadness/fatigue or anhedonia), non-smoking status, and middle socioeconomic standing — meaningfully offset acute decompensation risk, placing this patient at a moderate but clinically monitored risk level requiring outpatient management and close follow-up rather than immediate inpatient intervention.

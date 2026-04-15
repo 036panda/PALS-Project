@@ -1,0 +1,17 @@
+1. 5.3
+2. Input factors and their assigned numerical contributions:
+   - Age: -0.5 (younger age generally associated with lower hospitalization risk)
+   - BMI: 0.5 (BMI of 25.1 indicates overweight, contributing to higher risk)
+   - Current_Diagnosis: 2.0 (Schizophrenia is a significant factor in hospitalization risk)
+   - HAM-D: 1.0 (Mild Depression contributes to higher risk)
+   - Been_Sad_or_Fatigued: 0.5 (yes contributes to higher risk)
+   - Weekly_Alcohol_Intake: 0.3 (moderate alcohol intake contributes to higher risk)
+   - Hours_of_Sleep: -0.2 (10.3 hours of sleep is slightly above average, contributing to lower risk)
+   - Employment: -0.5 (being employed contributes to lower risk)
+   - Socioeconomic_Status: -0.5 (middle socioeconomic status contributes to lower risk)
+   - Smoking: -0.5 (not smoking contributes to lower risk)
+   - Allergy: 0.2 (having an allergy contributes to higher risk)
+   - Exercises: 0.5 (not exercising contributes to higher risk)
+   - Water_Intake_oz: -0.1 (41.9 oz of water intake is slightly below average, contributing to higher risk)
+   - Other factors: 0 (no significant contribution to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic conditions, with a focus on the causal relationships between these factors and the likelihood of hospitalization. The score reflects the cumulative effect of these factors, with higher values indicating a greater risk of hospitalization.

@@ -1,0 +1,34 @@
+## Hospitalization Risk Evaluation — Patient ID: 5
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (61) | Older adult; elevated biological vulnerability | +1.4 |
+| BMI (25.8) | Normal-to-slightly-overweight; minimal concern | +0.1 |
+| Family Health History (Asthma) | Hereditary respiratory risk; moderate relevance | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosis on record | −0.6 |
+| Race (Black) | Systemic health disparities; elevated chronic disease risk | +0.5 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age post-menopause offset | +0.1 |
+| Sexual Orientation (Heterosexual) | No minority stress elevation | +0.0 |
+| Weekly Alcohol Intake (1) | Minimal; negligible risk contribution | +0.1 |
+| Smoking (No) | Protective; significant risk reduction | −0.8 |
+| HAM-D: Mild Depression (7–17) | Mild depressive symptomatology; moderate concern | +0.7 |
+| Been Sad or Fatigued (No) | Contradicts mild depression score; mitigating | −0.3 |
+| Loss of Interest (No) | Further mitigates depression severity | −0.2 |
+| Hours of Sleep (5.4) | Below recommended threshold; cardiovascular/immune risk | +0.6 |
+| Employment (Employed) | Protective; structure and purpose | −0.4 |
+| Socioeconomic Status (High) | Strong access to care; highly protective | −0.9 |
+| **Total** | | **= 3.8** |
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a modest but notable risk profile driven primarily by age-related vulnerability, mild depressive symptomatology on HAM-D, insufficient sleep, and racial health disparity considerations. However, her high socioeconomic status, employment, non-smoking status, absence of active diagnosis, and minimal alcohol use serve as meaningful protective factors that substantially attenuate her overall hospitalization risk.

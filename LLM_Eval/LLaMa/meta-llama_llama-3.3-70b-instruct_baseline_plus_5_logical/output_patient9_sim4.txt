@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 35, contribution: 0.5 (moderate positive contribution due to increased risk with age, though still relatively young)
+   - BMI: 26.8, contribution: 1.2 (positive contribution due to being overweight)
+   - Family_Health_History: nan, contribution: 0 (no information, thus no contribution)
+   - Current_Diagnosis: Bipolar, contribution: 2.5 (significant positive contribution due to mental health condition)
+   - Race: Asian, contribution: 0 (no direct causal link to hospitalization risk established)
+   - Gender: Male, contribution: 0 (no direct causal link to hospitalization risk established)
+   - Sexual_Orientation: Heterosexual, contribution: 0 (no direct causal link to hospitalization risk established)
+   - Weekly_Alcohol_Intake: 4, contribution: 0.8 (moderate positive contribution due to potential health impacts)
+   - Smoking: No, contribution: -1 (negative contribution due to reduced health risk)
+   - HAM-D: 7–17, contribution: 1.5 (positive contribution due to mild depression)
+   - Been_Sad_or_Fatigued: Yes, contribution: 1 (positive contribution due to mental health symptom)
+   - Loss_of_Interest: No, contribution: 0 (no contribution due to absence of symptom)
+   - Hours_of_Sleep: 5.3, contribution: 0.5 (moderate positive contribution due to potential sleep deprivation impacts)
+   - Employment: Employed, contribution: -0.5 (negative contribution due to stability and access to healthcare)
+   - Socioeconomic_Status: Middle, contribution: -0.2 (slightly negative contribution due to relatively stable socioeconomic position)
+   - Drinks_Coffee: No, contribution: 0 (no direct causal link to hospitalization risk established)
+   - Likes_Vegetables: Yes, contribution: -0.5 (negative contribution due to healthier lifestyle choice)
+   - Favourite_Sport: Basketball, contribution: 0 (no direct causal link to hospitalization risk established)
+   - Votes: Never, contribution: 0 (no direct causal link to hospitalization risk established)
+   - Height_in_Inches: 69, contribution: 0 (no direct causal link to hospitalization risk established)
+3. The hospitalization risk score is calculated based on the individual's health conditions, lifestyle choices, and socioeconomic factors, with a focus on the presence of bipolar disorder, mild depression, and factors that may exacerbate these conditions, such as alcohol intake and sleep deprivation. The score reflects the cumulative impact of these factors on the individual's risk of hospitalization, with a higher score indicating a greater risk.

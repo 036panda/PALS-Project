@@ -1,0 +1,40 @@
+## Patient ID: 10 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.4 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (32) | Young adult; moderate resilience but not negligible risk | +0.3 |
+| BMI (31.6) | Obese Class I; elevated cardiometabolic risk | +0.7 |
+| Family Health History (Cancer) | Genetic predisposition; increases long-term morbidity concern | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition; protective | −0.5 |
+| Race (Asian) | Asian BMI thresholds lower; 31.6 carries higher metabolic risk for this group | +0.3 |
+| Gender (Male) | Males statistically less likely to seek early care; delayed intervention risk | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress factor | 0.0 |
+| Weekly Alcohol Intake (3 drinks) | Moderate; mild hepatic and mood interaction risk | +0.2 |
+| Smoking (Yes) | Significant cardiovascular, pulmonary, and oncologic risk amplifier | +0.8 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant; increases risk of self-neglect, non-adherence, crisis | +1.0 |
+| Been Sad or Fatigued (Yes) | Corroborates depressive symptom burden; functional impairment likely | +0.4 |
+| Loss of Interest (Yes) | Anhedonia present; reduces health-seeking behavior and self-care | +0.4 |
+| Hours of Sleep (7.5) | Within healthy range; mild protective effect | −0.3 |
+| Employment (Employed) | Provides structure, insurance access, social engagement | −0.4 |
+| Socioeconomic Status (Low) | Limits healthcare access, medication adherence, nutrition quality | +0.6 |
+| Drinks Coffee (No) | Neutral to mildly protective (no caffeine-anxiety interaction) | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior; mild protective effect | −0.2 |
+| Favourite Sport (Gymnastics) | Active physical engagement; cardiovascular and mental health benefit | −0.3 |
+| Votes (Sometimes) | Mild civic disengagement; modest proxy for social disconnection | +0.1 |
+| Height (66 inches / 5'6") | Contextual to BMI calculation; no independent risk adjustment | 0.0 |
+
+**Sum Total: +0.3 +0.7 +0.5 −0.5 +0.3 +0.2 +0.0 +0.2 +0.8 +1.0 +0.4 +0.4 −0.3 −0.4 +0.6 −0.1 −0.2 −0.3 +0.1 +0.0 = 5.4**
+
+---
+
+### 3. Clinical Rationale
+
+This 32-year-old Asian male presents with a convergence of behavioral and psychiatric risk factors — most notably moderate depression (HAM-D 18–24) with active anhedonia and fatigue, combined with active smoking and obesity at a BMI threshold that carries heightened metabolic significance in Asian populations — that meaningfully elevate his hospitalization risk despite his relatively young age and employed status. Low socioeconomic status further compounds access barriers and stress burden, and without an active treatment plan for his depressive episode, the trajectory toward functional deterioration or a psychiatric or medical crisis warrants proactive clinical intervention.

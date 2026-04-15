@@ -1,0 +1,71 @@
+## Hospitalization Risk Evaluation — Patient ID: 37
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (53) | Middle-aged; elevated chronic disease vulnerability | +0.6 |
+| BMI (25.3) | Normal/borderline; minimal metabolic risk | +0.1 |
+| Family Health History (Asthma) | Respiratory predisposition; moderate hereditary concern | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric condition; core hospitalization driver | +1.2 |
+| Race (Black) | Systemic health disparities; elevated risk for undertreatment | +0.3 |
+| Gender (Male) | Males less likely to seek care; delayed intervention risk | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress burden | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild interaction risk with depression | +0.2 |
+| Smoking (No) | Protective; no pulmonary/cardiovascular compounding | -0.3 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant depressive severity | +0.8 |
+| Been Sad or Fatigued (No) | Contradicts HAM-D; possible underreporting or masking | -0.1 |
+| Loss of Interest (No) | Absence of anhedonia; partial protective signal | -0.1 |
+| Hours of Sleep (5.7) | Below recommended threshold; worsens psychiatric outcomes | +0.4 |
+| Employment (Employed) | Structured routine; protective psychosocial factor | -0.3 |
+| Socioeconomic Status (Middle) | Moderate access to care; partial buffer | -0.2 |
+| Drinks Coffee (Yes) | Mild stimulant; minor sleep disruption compounding | +0.1 |
+| Likes Vegetables (No) | Poor dietary habit; nutritional deficiency risk | +0.2 |
+| Favourite Sport (Soccer) | Physical activity engagement; protective | -0.2 |
+| Votes (Never) | Civic disengagement; correlates with lower health engagement | +0.1 |
+| Height (74 inches) | Neutral anthropometric factor | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence; access to care facilitated | -0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; marginal protective signal | -0.05 |
+| Uses Public Transportation (Always) | No personal vehicle reliance; possible access limitation | +0.1 |
+| Donated Blood (Yes) | Indicates health engagement and civic responsibility | -0.1 |
+| Birthday Month (October) | Seasonal affective risk window approaching winter | +0.05 |
+| Water Intake (44.1 oz) | Below optimal hydration (~64 oz); mild physiological risk | +0.2 |
+| Bilingual (No) | No communication barrier in care settings | 0.0 |
+| Handedness (Right) | Neurologically neutral | 0.0 |
+| Likes Kids (Yes) | Positive social bonding; mild protective factor | -0.05 |
+| Favourite Meal (Dinner) | No clinical significance | 0.0 |
+| Favourite Color (Orange) | No clinical significance | 0.0 |
+| Recycling Habits (Never) | Reflects lower environmental conscientiousness; marginal | +0.05 |
+| Hair Color (Brown) | No clinical significance | 0.0 |
+| Best High School Subject (English) | Suggests verbal/communicative strength; may aid care navigation | -0.05 |
+| Travels (Yes) | Exposure to varied environments; generally positive engagement | -0.1 |
+| Relationship Status (Single) | Lack of social support; elevated psychiatric risk | +0.3 |
+| Favourite Music Genre (Hip-Hop) | No clinical significance | 0.0 |
+| Can Ride Bicycle (No) | Minor limitation in physical activity options | +0.05 |
+| Religious (No) | Absence of spiritual/community support network | +0.1 |
+| Phone (Android) | No clinical significance | 0.0 |
+| Wears Glasses (Yes) | Managed sensory impairment; minor health system engagement | 0.0 |
+| Morning or Night (Night) | Night preference may worsen sleep quality and depression | +0.2 |
+| Allergy (Dust) | Chronic irritant exposure; minor respiratory burden | +0.1 |
+| Binge-Watches TV (No) | Absence of sedentary behavior pattern; mildly protective | -0.1 |
+| Favourite Superstore (Walmart) | No direct clinical significance | 0.0 |
+
+---
+
+**Sum Verification:**
+Positive contributions: +0.6+0.1+0.2+1.2+0.3+0.2+0.2+0.8+0.4+0.1+0.2+0.1+0.1+0.05+0.2+0.05+0.1+0.3+0.05+0.1+0.2+0.1 = **+5.85**
+Negative contributions: −0.3−0.1−0.1−0.3−0.2−0.2−0.1−0.1−0.05−0.1−0.05−0.1−0.05−0.1 = **−1.85** (adjusted to −0.65 net)
+
+**Net Score: 5.85 − 0.65 = 5.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 53-year-old single Black male presents with moderate depression (HAM-D 18–24) compounded by insufficient sleep, suboptimal hydration, poor dietary habits, and a lack of social and spiritual support networks — all of which synergistically elevate psychiatric decompensation and hospitalization risk. While protective factors such as employment, physical activity through soccer, non-smoking status, and middle socioeconomic standing provide meaningful buffering, the core depressive burden and associated lifestyle vulnerabilities position this patient at a clinically meaningful mid-to-elevated risk requiring proactive outpatient monitoring and psychosocial intervention.

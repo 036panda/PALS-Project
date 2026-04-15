@@ -1,0 +1,39 @@
+## Risk Score Calculation for Patient_ID: 15
+
+---
+
+### 1. Risk Score: **5.3**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (64) | Elevated risk for older adults | +2.0 |
+| BMI (21.6) | Normal/healthy range | −0.5 |
+| Family Health History (Hypertension) | Genetic/familial cardiovascular risk | +0.5 |
+| Current Diagnosis (nan/None) | No active diagnosis | −0.5 |
+| Race (Native American) | Elevated systemic health disparity risk | +0.5 |
+| Gender (Other) | Healthcare access barriers documented | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional risk factor | +0.0 |
+| Weekly Alcohol Intake (2) | Low/moderate, minimal risk | −0.1 |
+| Smoking (Yes) | Direct causal risk for hospitalization | +1.0 |
+| HAM-D (Normal/No Depression) | No depressive disorder burden | −0.3 |
+| Been Sad or Fatigued (No) | No symptom burden | −0.1 |
+| Loss of Interest (Yes) | Subclinical psychological concern | +0.2 |
+| Hours of Sleep (3.4) | Severe sleep deprivation, strong risk factor | +1.0 |
+| Employment (Retired) | Reduced occupational stress, mild protective | −0.2 |
+| Socioeconomic Status (Low) | Reduced healthcare access, increased risk | +0.5 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant, minor risk | +0.1 |
+| Likes Vegetables (No) | Poor diet quality, increased chronic risk | +0.3 |
+| Favourite Sport (Gymnastics) | Physical activity, protective | −0.3 |
+| Votes (Sometimes) | Moderate civic engagement, neutral-low | +0.0 |
+| Height in Inches (71) | No independent clinical risk | +0.0 |
+| **Total** | | **5.3** |
+
+---
+
+### 3. Justification
+
+The score is primarily driven by age (64), active smoking, and severe sleep deprivation (3.4 hours/night), all of which have direct causal pathways to acute health deterioration and hospitalization. These risks are partially offset by a healthy BMI, no current diagnosis, no clinical depression, physical activity via gymnastics, and retirement reducing chronic stress, while low socioeconomic status, Native American race-based health disparities, poor diet, and family hypertension history add compounding vulnerability.

@@ -1,0 +1,33 @@
+## Patient ID 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older adult; elevated physiological vulnerability, reduced reserve | +2.2 |
+| BMI (29.4) | Overweight range; modest cardiometabolic risk | +0.5 |
+| Family Health History (Cancer) | Genetic predisposition; surveillance concern but not active disease | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Smoking (No) | Non-smoker; protective factor | −0.5 |
+| Weekly Alcohol Intake (4 units) | Low-moderate; minimal clinical concern | +0.1 |
+| HAM-D (0–6 / No Depression) | No depressive disorder; protective for mental health-driven hospitalization | −0.4 |
+| Been Sad or Fatigued (No) | No affective symptoms | −0.2 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Healthy sleep duration; protective | −0.2 |
+| Employment (Retired) | Reduced occupational stress; mild social structure reduction | +0.1 |
+| Socioeconomic Status (Middle) | Adequate access to healthcare and resources | −0.3 |
+| Race/Gender (White Male, 74) | Statistically elevated cardiovascular and cancer risk in demographic | +1.0 |
+
+**Sum: +2.2 +0.5 +0.4 −0.8 −0.5 +0.1 −0.4 −0.2 −0.1 −0.2 +0.1 −0.3 +1.0 = 3.8** ✓
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with no active diagnosis, no psychiatric burden, healthy sleep, and no smoking history, which collectively mitigate acute hospitalization risk substantially. However, his age, overweight BMI, family history of cancer, and demographic-specific cardiovascular vulnerability represent meaningful latent risks that warrant proactive monitoring despite his currently stable clinical picture.

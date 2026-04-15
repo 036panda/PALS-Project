@@ -1,0 +1,44 @@
+## Hospitalization Risk Score: **4.7**
+
+---
+
+### Factor Contributions (Sum = 4.7)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases physiological vulnerability | +1.5 |
+| BMI (33.4) | Obese class I; elevates comorbidity and hospitalization risk | +1.2 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis directly increases risk | +1.0 |
+| HAM-D: Mild Depression (7–17) | Clinically confirmed mild severity; moderate risk indicator | +0.5 |
+| Been Sad or Fatigued: Yes | Active depressive symptom; reinforces diagnosis severity | +0.3 |
+| Loss of Interest: Yes | Anhedonia present; compounds functional impairment | +0.3 |
+| Hours of Sleep: 6.7 | Slightly below optimal; mild negative health effect | +0.2 |
+| Socioeconomic Status: Low | Reduces access to care and preventive resources | +0.4 |
+| No Driver's License | Limits healthcare access; compounds low SES barrier | +0.2 |
+| Uses Public Transportation: Always | Consistent with limited mobility/access | +0.1 |
+| Recycling Habits: Never | Minor proxy for lower health-conscious behavior | +0.1 |
+| Family Health History: NaN | Unknown; no contribution assigned | +0.0 |
+| Water Intake (44.6 oz) | Below recommended ~64 oz; mild hydration concern | +0.1 |
+| Employment: Retired | Reduced social engagement; mild risk factor | +0.2 |
+| Smoking: No | No smoking; protective | −0.3 |
+| Weekly Alcohol Intake: 1 | Very low; minimal risk | −0.1 |
+| Likes Vegetables: Yes | Positive dietary behavior; protective | −0.2 |
+| Drinks Coffee: Yes | Mild antidepressant association; slight protective effect | −0.1 |
+| Donated Blood: Yes | Proxy for health engagement and civic behavior | −0.1 |
+| Travels: Yes | Social engagement and activity; protective | −0.1 |
+| Relationship Status: Dating | Active social relationship; mild protective effect | −0.1 |
+| Favourite Sport: Soccer | Physical activity interest; protective | −0.1 |
+| Likes Kids: Yes | Positive social orientation; mild protective | −0.1 |
+| Bilingual: No | Neutral | +0.0 |
+| Religious: No | Neutral | +0.0 |
+| Sexual Orientation: Bisexual | Minority stress may marginally elevate risk | +0.1 |
+| Race: White | No directional adjustment applied | +0.0 |
+| Gender: Male | Males statistically less likely to seek care proactively | +0.1 |
+| All remaining lifestyle/preference factors (color, music, handedness, phone, hair, birthday, litter, blood type, highschool subject) | No established causal link to hospitalization | +0.0 |
+
+**Total: +4.7**
+
+---
+
+### Justification
+The score is primarily driven by the convergence of active mild depression (confirmed by HAM-D and symptomatic presentation), elevated BMI, advanced age, and low socioeconomic status with limited healthcare access — all of which have established causal pathways to increased hospitalization risk. Protective factors including non-smoking, low alcohol use, dietary habits, social engagement, and physical activity interest partially offset these risks, yielding a moderate score of 4.7.

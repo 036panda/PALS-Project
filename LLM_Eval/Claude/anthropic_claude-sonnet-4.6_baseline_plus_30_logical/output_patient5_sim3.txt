@@ -1,0 +1,59 @@
+## Risk Score: **4.2**
+
+---
+
+### Factor Contributions (Sum = 4.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases hospitalization likelihood | +1.80 |
+| BMI (25.8) | Normal/healthy range | −0.10 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory conditions | +0.30 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.30 |
+| Race (Black) | Documented systemic healthcare access disparities increase risk | +0.30 |
+| Gender (Female) | Slightly lower hospitalization risk relative to male at this age | −0.10 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress-related health burden | 0.00 |
+| Weekly Alcohol Intake (1) | Minimal alcohol consumption; low risk | −0.10 |
+| Smoking (No) | Absence of smoking significantly reduces respiratory/cardiac risk | −0.40 |
+| HAM-D: Mild Depression (7–17) | Mild depression contributes to health deterioration and care-seeking delay | +0.40 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity; mitigates mental health risk | −0.10 |
+| Loss of Interest (No) | Further mitigates functional impairment from depression | −0.10 |
+| Hours of Sleep (5.4) | Below recommended threshold; sleep deprivation elevates systemic risk | +0.50 |
+| Employment (Employed) | Stable employment reduces socioeconomic health risk | −0.20 |
+| Socioeconomic Status (High) | High SES strongly associated with better health outcomes and access | −0.40 |
+| Drinks Coffee (No) | Neutral to marginally positive; no caffeine-related cardiovascular stress | 0.00 |
+| Likes Vegetables (Yes) | Positive dietary habit; reduces chronic disease risk | −0.10 |
+| Favourite Sport (Hockey) | Indicates physical activity engagement; reduces risk | −0.10 |
+| Votes (Sometimes) | Moderate civic engagement; weak proxy for social connectedness | 0.00 |
+| Height in Inches (62) | Used in BMI calculation; already captured | 0.00 |
+| Has Driver's License (Yes) | Indicates mobility and healthcare access capability | −0.10 |
+| Picks Up Litter (Sometimes) | Weak proxy for community engagement; negligible health impact | 0.00 |
+| Uses Public Transportation (Sometimes) | Moderate exposure to communicable disease environments | +0.05 |
+| Donated Blood (No) | No direct causal health risk implication | 0.00 |
+| Birthday Month (November) | Seasonal flu/respiratory risk window marginally elevated | +0.05 |
+| Water Intake (46.1 oz) | Below recommended ~64 oz/day; mild dehydration risk | +0.15 |
+| Bilingual (No) | No healthcare communication barrier benefit | 0.00 |
+| Handedness (Right) | No causal health relevance | 0.00 |
+| Likes Kids (Yes) | Social connectedness; mild protective effect | −0.05 |
+| Favourite Meal (Lunch) | No direct causal health implication | 0.00 |
+| Favourite Color (Yellow) | No causal health relevance | 0.00 |
+| Recycling Habits (Sometimes) | Weak proxy for health-conscious behavior; negligible | 0.00 |
+| Hair Color (Black) | No causal health relevance | 0.00 |
+| Best High School Subject (Science) | Proxy for health literacy; mild protective effect | −0.05 |
+| Travels (Yes) | Exposure to pathogens and travel-related health risks | +0.10 |
+| Relationship Status (Single) | Reduced social support; associated with worse health outcomes | +0.20 |
+| Favourite Music Genre (Hip-Hop) | No causal health relevance | 0.00 |
+| Can Ride Bicycle (Yes) | Indicates physical capability and activity potential | −0.05 |
+| Religious (No) | Absence of community/spiritual support network; mild risk increase | +0.05 |
+| Phone (Apple) | No causal health relevance | 0.00 |
+| Wears Glasses (Yes) | Indicates managed sensory impairment; minor indicator of aging-related conditions | +0.05 |
+| Morning or Night (Morning) | Morning chronotype associated with better metabolic health | −0.05 |
+| Allergy (Dust) | Combined with family asthma history, elevates respiratory hospitalization risk | +0.25 |
+| Binge-Watches TV (Yes) | Sedentary behavior associated with increased chronic disease risk | +0.15 |
+| Favourite Super Store (Walmart) | Weak SES/access proxy; already captured in SES variable | 0.00 |
+| **TOTAL** | | **4.20** |
+
+---
+
+### Justification
+The score of 4.2 reflects a moderate hospitalization risk driven primarily by the patient's age (61), insufficient sleep (5.4 hours), mild depression, dust allergy compounded by a family history of asthma, single relationship status reducing social support, and mild racial healthcare disparity factors. These risks are substantially offset by high socioeconomic status, employment, non-smoking status, healthy BMI, no active diagnosis, and positive lifestyle behaviors such as vegetable consumption and physical activity.

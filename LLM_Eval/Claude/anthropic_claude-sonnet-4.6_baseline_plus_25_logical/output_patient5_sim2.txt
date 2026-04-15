@@ -1,0 +1,55 @@
+## Hospitalization Risk Score: **3.6**
+
+---
+
+### Factor Contributions (Sum = 3.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Older age increases physiological vulnerability | +1.5 |
+| BMI (25.8) | Near-normal; minimal risk | +0.1 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory illness | +0.4 |
+| Current Diagnosis (nan) | No active diagnosis | 0.0 |
+| Race (Black) | Systemic healthcare disparities increase risk exposure | +0.3 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age relative to male | -0.1 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol; negligible risk | +0.1 |
+| Smoking (No) | Absence of smoking reduces pulmonary/cardiovascular risk | -0.5 |
+| HAM-D: Mild Depression (7–17) | Mild depression linked to poorer health outcomes and immune function | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat; slight mitigation | -0.1 |
+| Loss of Interest (No) | Further mitigates depression-related risk | -0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; increases immune vulnerability and chronic disease risk | +0.6 |
+| Employment (Employed) | Stable employment reduces stress-related health risk | -0.3 |
+| Socioeconomic Status (High) | High SES improves healthcare access and outcomes | -0.5 |
+| Drinks Coffee (No) | Neutral; no protective cardiovascular effect applied | 0.0 |
+| Likes Vegetables (Yes) | Healthy diet reduces chronic disease risk | -0.2 |
+| Favourite Sport (Hockey) | Active sport engagement supports cardiovascular health | -0.1 |
+| Votes (Sometimes) | Partial civic engagement; marginal social determinant | 0.0 |
+| Height in Inches (62) | Neutral anthropometric factor | 0.0 |
+| Has Driver's License (Yes) | Indicates functional independence | 0.0 |
+| Picks Up Litter (Sometimes) | Marginal prosocial behavior; no direct health causation | 0.0 |
+| Uses Public Transportation (Sometimes) | Slight infectious disease exposure risk | +0.1 |
+| Donated Blood (No) | No direct causal hospitalization link | 0.0 |
+| Birthday Month (November) | Slight seasonal illness risk (fall/winter) | +0.1 |
+| Water Intake (46.1 oz) | Below optimal (~64 oz); mild hydration deficit | +0.2 |
+| Bilingual (No) | No differential risk | 0.0 |
+| Handedness (Right) | No causal health link | 0.0 |
+| Likes Kids (Yes) | No direct health causation | 0.0 |
+| Favourite Meal (Lunch) | No causal health link | 0.0 |
+| Favourite Color (Yellow) | No causal health link | 0.0 |
+| Recycling Habits (Sometimes) | No direct health causation | 0.0 |
+| Hair Color (Black) | No causal health link | 0.0 |
+| Best High School Subject (Science) | No direct health causation | 0.0 |
+| Travels (Yes) | Slight infectious disease exposure risk | +0.1 |
+| Relationship Status (Single) | Reduced social support slightly elevates health risk | +0.2 |
+| Favourite Music Genre (HipHop) | No causal health link | 0.0 |
+| Can Ride Bicycle (Yes) | Indicates physical capability | 0.0 |
+| Religious (No) | Slight reduction in community social support | +0.1 |
+| Phone (Apple) | No causal health link | 0.0 |
+
+**Total: +3.6**
+
+---
+
+### Justification
+The score is primarily driven by the patient's age (61), insufficient sleep (5.4 hours), mild depression (HAM-D 7–17), family history of asthma, and mild racial healthcare disparity exposure, all of which have established causal or epidemiological links to increased hospitalization risk. These risks are meaningfully offset by high socioeconomic status, non-smoking status, active employment, healthy dietary habits, and the absence of any current diagnosis, yielding a moderate-low overall risk of **3.6/10**.

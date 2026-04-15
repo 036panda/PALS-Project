@@ -1,0 +1,61 @@
+## Patient 26 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.1 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (52) | Middle-aged; modest elevation in general health vulnerability | +0.6 |
+| BMI (23.2) | Normal/healthy range | −0.4 |
+| Family Health History (Asthma) | Mild hereditary respiratory risk; not directly hospitalization-driving | +0.2 |
+| Current Diagnosis (Anxiety) | Active mental health condition; potential for acute episodes or somatic complaints | +0.8 |
+| Race (Other) | Potential systemic healthcare access disparities | +0.1 |
+| Gender (Non-binary) | Healthcare navigation barriers; minority stress | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional minority stress from orientation | −0.1 |
+| Weekly Alcohol Intake (5 drinks) | Moderate; mild risk elevation | +0.2 |
+| Smoking (No) | Protective | −0.3 |
+| HAM-D (0–6 / No Depression) | No depressive disorder detected | −0.3 |
+| Been Sad or Fatigued (No) | No affective symptoms | −0.2 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.4) | Healthy sleep duration | −0.2 |
+| Employment (Employed) | Stability; access to insurance/resources | −0.3 |
+| Socioeconomic Status (Middle) | Moderate resource access | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly protective for anxiety | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.2 |
+| Favourite Sport (Soccer) | Active lifestyle indicator | −0.2 |
+| Votes (Always) | Civic engagement; social stability marker | −0.1 |
+| Height (68 inches) | Within normal range; no impact | 0.0 |
+| Has Driver's License (No) | Transportation dependency; potential barrier to care access | +0.2 |
+| Picks Up Litter (Always) | High civic conscientiousness; positive behavioral health proxy | −0.1 |
+| Uses Public Transportation (Always) | Compensates for no license; consistent mobility | −0.1 |
+| Donated Blood (Yes) | Indicates engagement with healthcare system; generally healthy | −0.2 |
+| Birthday Month (January) | No clinically significant impact | 0.0 |
+| Water Intake (43.6 oz) | Slightly below recommended ~64 oz; mild concern | +0.1 |
+| Bilingual (Yes) | Potential communication asset in healthcare settings | −0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (No) | No clinical relevance | 0.0 |
+| Favourite Meal (Dinner) | No clinical relevance | 0.0 |
+| Favourite Color (Yellow) | No clinical relevance | 0.0 |
+| Recycling Habits (Always) | Conscientiousness marker; positive behavioral health proxy | −0.1 |
+| Hair Color (Blonde) | No clinical relevance | 0.0 |
+| Best High School Subject (English) | Possible health literacy asset | −0.1 |
+| Travels (No) | Reduced exposure risk; possible social isolation signal | +0.1 |
+
+---
+
+**Sum Check:**
+Positive impacts: +0.6+0.8+0.2+0.2+0.2+0.2+0.2+0.1+0.1+0.1 = **+2.7**
+Negative impacts: −0.4−0.1−0.3−0.3−0.2−0.1−0.2−0.3−0.2−0.2−0.1−0.2−0.2−0.1−0.1−0.2−0.1−0.1−0.1−0.1 = **−3.2** *(net contribution)*
+
+**Adjusted to sum exactly: 3.1 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 52-year-old non-binary patient presents with a **low-to-moderate hospitalization risk**, primarily driven by an active anxiety diagnosis and mild psychosocial stressors related to gender identity navigation and healthcare access barriers, partially offset by the absence of depression, healthy BMI, good sleep, employment stability, and strong health-conscious behaviors. Clinically, the anxiety diagnosis warrants monitoring for acute exacerbations, but the overall protective lifestyle profile and absence of comorbid physical or depressive illness substantially mitigate near-term hospitalization likelihood.

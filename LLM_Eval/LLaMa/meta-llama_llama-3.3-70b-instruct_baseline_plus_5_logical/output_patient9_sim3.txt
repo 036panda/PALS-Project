@@ -1,0 +1,23 @@
+1. 6.8
+2. Input factors and their assigned contributions:
+   - Age: 35: 0.5 (positive, as increasing age can lead to higher hospitalization risk)
+   - BMI: 26.8: 1.2 (positive, as higher BMI is associated with increased health risks)
+   - Family_Health_History: nan: 0 (neutral, due to lack of information)
+   - Current_Diagnosis: Bipolar: 2.5 (positive, as bipolar disorder can increase hospitalization risk)
+   - Race: Asian: 0 (neutral, as race is not a direct causal factor for hospitalization risk in this context)
+   - Gender: Male: 0 (neutral, as gender is not a direct causal factor for hospitalization risk in this context)
+   - Sexual_Orientation: Heterosexual: 0 (neutral, as sexual orientation is not a direct causal factor for hospitalization risk)
+   - Weekly_Alcohol_Intake: 4: 0.8 (positive, as moderate alcohol intake can contribute to health risks)
+   - Smoking: No: -0.5 (negative, as not smoking reduces health risks)
+   - HAM-D: 7–17: Mild Depression: 1.5 (positive, as mild depression can increase hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes: 1 (positive, as experiencing sadness or fatigue can indicate increased risk)
+   - Loss_of_Interest: No: -0.2 (negative, as not experiencing loss of interest reduces risk)
+   - Hours_of_Sleep: 5.3: 0.3 (positive, as inadequate sleep can contribute to health risks)
+   - Employment: Employed: -0.5 (negative, as being employed can reduce hospitalization risk due to better access to healthcare and stability)
+   - Socioeconomic_Status: Middle: -0.2 (negative, as middle socioeconomic status can provide some protection against hospitalization risk due to access to resources)
+   - Drinks_Coffee: No: 0 (neutral, as not drinking coffee is not a direct causal factor for hospitalization risk)
+   - Likes_Vegetables: Yes: -0.3 (negative, as liking vegetables can indicate healthier habits and reduce risk)
+   - Favourite_Sport: Basketball: 0 (neutral, as having a favorite sport is not a direct causal factor for hospitalization risk)
+   - Votes: Never: 0 (neutral, as voting behavior is not a direct causal factor for hospitalization risk)
+   - Height_in_Inches: 69: 0 (neutral, as height is not a direct causal factor for hospitalization risk in this context)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic conditions, with a focus on the presence of bipolar disorder, mild depression, and lifestyle factors that may contribute to increased risk. The score reflects the cumulative effect of these factors, with positive contributions indicating increased risk and negative contributions indicating reduced risk.

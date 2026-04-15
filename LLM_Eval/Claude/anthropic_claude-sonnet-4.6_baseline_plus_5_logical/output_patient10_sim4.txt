@@ -1,0 +1,39 @@
+## Risk Score Calculation for Patient_ID: 10
+
+---
+
+### 1. Risk Score: **5.3**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (32) | Young adult, moderate risk | +0.5 |
+| BMI (31.6) | Obese Class I | +0.8 |
+| Family Health History (Cancer) | Elevated hereditary risk | +0.6 |
+| Current Diagnosis (nan/None) | No active diagnosis | −0.5 |
+| Race (Asian) | Certain metabolic/cancer risk elevations | +0.2 |
+| Gender (Male) | Higher hospitalization risk vs. female for some conditions | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk | +0.0 |
+| Weekly Alcohol Intake (3 drinks) | Low-moderate, minor risk | +0.2 |
+| Smoking (Yes) | Significant causal risk factor | +1.0 |
+| HAM-D 18–24 (Moderate Depression) | Clinically significant mental health risk | +0.8 |
+| Been Sad or Fatigued (Yes) | Corroborates depression severity | +0.3 |
+| Loss of Interest (Yes) | Corroborates depression severity | +0.3 |
+| Hours of Sleep (7.5) | Within healthy range | −0.3 |
+| Employment (Employed) | Protective factor | −0.4 |
+| Socioeconomic Status (Low) | Reduced healthcare access, elevated risk | +0.6 |
+| Drinks Coffee (No) | Neutral/no protective stimulant effect | +0.0 |
+| Likes Vegetables (Yes) | Protective dietary factor | −0.3 |
+| Favourite Sport (Gymnastics) | Active lifestyle, protective | −0.2 |
+| Votes (Sometimes) | Partial civic engagement, mild protective | −0.1 |
+| Height (66 inches) | Used in BMI calculation, already captured | +0.0 |
+| **Total** | | **5.3** |
+
+---
+
+### 3. Justification
+
+The score of 5.3 is driven primarily by the causal combination of active smoking (+1.0), clinically moderate depression with corroborating symptoms (+1.4 combined), obesity-range BMI (+0.8), low socioeconomic status limiting healthcare access (+0.6), and a family history of cancer (+0.6), all of which have established causal or strong associative links to hospitalization risk. These risks are partially offset by protective factors including employment, adequate sleep, physical activity through gymnastics, and a vegetable-inclusive diet, which collectively reduce the score by approximately 1.3 points.

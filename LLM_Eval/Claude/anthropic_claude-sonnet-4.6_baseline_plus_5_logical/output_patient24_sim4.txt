@@ -1,0 +1,39 @@
+## Risk Score Calculation for Patient_ID: 24
+
+---
+
+### 1. Risk Score: **6.3**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (52) | Moderate-high age, elevated chronic risk | +1.2 |
+| BMI (16.4) | Severely underweight, high medical risk | +1.5 |
+| Family Health History (Cancer) | Genetic predisposition to serious illness | +0.5 |
+| Current Diagnosis (Bipolar) | Serious psychiatric condition requiring management | +1.0 |
+| HAM-D (Mild Depression, 7–17) | Active depressive symptomatology | +0.5 |
+| Loss of Interest (Yes) | Anhedonia, worsens psychiatric and functional outcomes | +0.3 |
+| Hours of Sleep (4.8) | Severe sleep deprivation, destabilizes bipolar disorder | +0.6 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-high, interacts negatively with bipolar/medications | +0.4 |
+| Smoking (Yes) | Elevated cardiovascular and oncological risk | +0.4 |
+| Been Sad or Fatigued (No) | Partial protective signal against acute crisis | −0.3 |
+| Employment (Employed) | Structural stability, reduces hospitalization likelihood | −0.3 |
+| Socioeconomic Status (Middle) | Moderate access to care and resources | −0.2 |
+| Likes Vegetables (Yes) | Marginally positive dietary behavior | −0.1 |
+| Votes (Always) | Civic engagement, proxy for social stability | −0.1 |
+| Race (Asian) | Neutral in direct causal pathway | 0.0 |
+| Gender (Male) | Neutral net effect given competing risks | 0.0 |
+| Sexual Orientation (Other) | Insufficient causal data to assign directional weight | 0.0 |
+| Drinks Coffee (No) | No stimulant interference with sleep/bipolar | 0.0 |
+| Favourite Sport (NaN) | Missing data, no contribution assigned | 0.0 |
+| Height (71 inches) | Incorporated into BMI; no independent contribution | 0.0 |
+| **Total** | | **6.3** |
+
+---
+
+### 3. Justification
+
+The elevated risk score is causally driven primarily by the patient's severely underweight BMI (16.4), which signals significant physiological compromise, compounded by a bipolar disorder diagnosis destabilized by critically insufficient sleep (4.8 hours), active anhedonia, moderate alcohol use, and smoking — all of which directly increase psychiatric decompensation and medical hospitalization risk. Protective factors including employment, middle socioeconomic status, and absence of reported sadness/fatigue provide modest downward adjustments, but are insufficient to offset the convergence of severe nutritional, psychiatric, and behavioral risk factors.

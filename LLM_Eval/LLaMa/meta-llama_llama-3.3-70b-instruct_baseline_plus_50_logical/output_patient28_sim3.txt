@@ -1,0 +1,17 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: 25: -0.5 (lower risk due to younger age)
+   - BMI: 28.5: 1.2 (higher risk due to overweight status)
+   - Family_Health_History: Hypertension: 1.0 (higher risk due to family history of hypertension)
+   - Current_Diagnosis: Bipolar: 1.5 (higher risk due to mental health condition)
+   - Weekly_Alcohol_Intake: 7: 0.5 (moderate risk due to alcohol consumption)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (lower risk due to no depression)
+   - Hours_of_Sleep: 7.8: -0.2 (lower risk due to adequate sleep)
+   - Employment: Employed: -0.3 (lower risk due to stable employment)
+   - Socioeconomic_Status: Middle: 0 (neutral risk due to middle socioeconomic status)
+   - Drinks_Coffee: No: 0 (neutral risk)
+   - Likes_Vegetables: Yes: -0.2 (lower risk due to healthy eating habits)
+   - Exercises: No: 0.5 (higher risk due to lack of physical activity)
+   - Allergy: Gluten: 0.1 (slightly higher risk due to food allergy)
+   - Other factors: 0 (no significant contribution to risk score)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, with a focus on established risk factors such as age, BMI, family health history, and current diagnosis. The contributions of each factor are assigned based on their relative impact on hospitalization risk, with a higher score indicating a higher risk.

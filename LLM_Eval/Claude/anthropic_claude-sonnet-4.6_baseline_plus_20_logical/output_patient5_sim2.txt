@@ -1,0 +1,49 @@
+## Hospitalization Risk Score: **3.8**
+
+---
+
+### Factor Contributions (Sum = 3.8)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk in 60s | +1.5 |
+| BMI (25.8) | Normal/healthy range | −0.2 |
+| Family Health History (Asthma) | Hereditary respiratory risk | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosis | −0.5 |
+| Race (Black) | Systemic health disparity risk | +0.3 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age | −0.1 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use | −0.1 |
+| Smoking (No) | No smoking | −0.4 |
+| HAM-D (Mild Depression, 7–17) | Mild depression increases health risk | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity | −0.1 |
+| Loss of Interest (No) | Positive indicator | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold (<7 hrs) | +0.5 |
+| Employment (Employed) | Protective socioeconomic factor | −0.3 |
+| Socioeconomic Status (High) | Strong protective factor | −0.5 |
+| Drinks Coffee (No) | Neutral/slight positive | 0.0 |
+| Likes Vegetables (Yes) | Healthy diet indicator | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator | −0.2 |
+| Votes (Sometimes) | Moderate civic engagement | 0.0 |
+| Has Driver's License (Yes) | Mobility/independence | −0.1 |
+| Water Intake (46.1 oz) | Slightly below optimal (~64 oz) | +0.2 |
+| Travels (Yes) | Exposure risk, but also active lifestyle | +0.1 |
+| Donated Blood (No) | Neutral | 0.0 |
+| Uses Public Transportation (Sometimes) | Minor exposure risk | +0.1 |
+| Picks Up Litter (Sometimes) | Neutral civic behavior | 0.0 |
+| Recycling Habits (Sometimes) | Neutral | 0.0 |
+| Bilingual (No) | Neutral | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Neutral | 0.0 |
+| Favourite Meal (Lunch) | Neutral | 0.0 |
+| Favourite Color (Yellow) | No clinical relevance | 0.0 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best Highschool Subject (Science) | Neutral | 0.0 |
+| Birthday Month (November) | Seasonal illness risk (fall/winter) | +0.2 |
+| Sexual Orientation (Heterosexual) | Neutral | 0.0 |
+
+**Total: +3.8**
+
+---
+
+### Justification
+The score of 3.8 reflects a moderately low hospitalization risk driven primarily by the patient's age (61), mild depression (HAM-D 7–17), insufficient sleep (5.4 hours), family history of asthma, and racial health disparity factors, which are meaningfully offset by strong protective factors including high socioeconomic status, active employment, no smoking, minimal alcohol use, healthy BMI, no current diagnosis, and a vegetable-inclusive diet. The causal logic prioritizes clinically established risk and protective pathways, with non-clinical lifestyle and demographic variables contributing minimally or neutrally.

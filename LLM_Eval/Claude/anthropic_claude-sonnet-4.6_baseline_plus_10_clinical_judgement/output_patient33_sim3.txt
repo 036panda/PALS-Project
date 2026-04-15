@@ -1,0 +1,44 @@
+## Patient 33 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (42) | Middle-aged; moderate chronic disease vulnerability | +0.5 |
+| BMI (13.4) | Severely underweight; high risk for malnutrition, organ stress, immune compromise | +2.2 |
+| Family Health History (Diabetes) | Elevated metabolic and cardiovascular risk | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition on record | −0.3 |
+| Race (Native American) | Elevated population-level health disparity risk | +0.3 |
+| Gender (Other) | Potential barriers to care access; minority stress | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional minority stress from this factor | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic and metabolic concern | +0.2 |
+| Smoking (No) | Protective; no pulmonary or cardiovascular smoking risk | −0.3 |
+| HAM-D (Mild Depression, 7–17) | Mild depressive symptomatology; low-moderate psychiatric risk | +0.3 |
+| Been Sad or Fatigued (No) | Inconsistent with depression marker but partially reassuring | −0.1 |
+| Loss of Interest (Yes) | Anhedonia present; supports depressive burden | +0.2 |
+| Hours of Sleep (5.0) | Insufficient sleep; immune, metabolic, and psychiatric implications | +0.4 |
+| Employment (Employed) | Stability; protective social and financial factor | −0.3 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare; partially protective | −0.2 |
+| Drinks Coffee (Yes) | Mild stimulant use; negligible clinical impact | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior; protective | −0.1 |
+| Favourite Sport (Soccer) | Indicates physical activity; protective | −0.2 |
+| Votes (Never) | Civic disengagement; mild social determinant concern | +0.1 |
+| Height in Inches (64) | Contextual to BMI calculation; no independent impact | 0.0 |
+| Has Driver's License (No) | Potential transportation barrier to care | +0.2 |
+| Picks Up Litter (Always) | Reflects prosocial behavior and community engagement | −0.1 |
+| Uses Public Transportation (Sometimes) | Partial mobility; moderate care access | 0.0 |
+| Donated Blood (Yes) | Indicates baseline health eligibility and civic health engagement | −0.1 |
+| Birthday Month (February) | No clinically significant impact | 0.0 |
+| **TOTAL** | | **+4.6** |
+
+---
+
+### 3. Clinical Rationale
+
+This patient's most clinically alarming feature is a BMI of 13.4, which represents severe undernutrition and carries substantial risk for hospitalization due to cardiac arrhythmia, immune suppression, and multi-organ vulnerability, warranting urgent nutritional and medical evaluation. Mild depression with anhedonia, insufficient sleep, and health disparity factors related to race and gender identity compound the risk, though protective elements such as employment, physical activity, non-smoking status, and middle socioeconomic standing partially offset the overall burden.

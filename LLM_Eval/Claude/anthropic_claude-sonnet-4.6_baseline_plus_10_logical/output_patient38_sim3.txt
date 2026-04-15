@@ -1,0 +1,40 @@
+## Risk Score: 4.7
+
+---
+
+### Factor Contributions (Sum = 4.7)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases hospitalization risk | +1.5 |
+| BMI (33.4) | Obese class I; elevated cardiometabolic risk | +1.0 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis increases risk | +0.8 |
+| HAM-D: Mild Depression (7–17) | Mild severity limits acute hospitalization risk | -0.3 |
+| Been Sad or Fatigued: Yes | Symptom burden present | +0.2 |
+| Loss of Interest: Yes | Anhedonia present; functional impairment signal | +0.2 |
+| Hours of Sleep (6.7) | Slightly below optimal; mild risk contribution | +0.1 |
+| Socioeconomic Status: Low | Reduced access to care; increases risk | +0.5 |
+| Employment: Retired | Reduced social engagement; mild risk factor | +0.2 |
+| Has No Driver's License | Limits healthcare access | +0.2 |
+| Uses Public Transportation: Always | Partially offsets access limitation | -0.1 |
+| Weekly Alcohol Intake: 1 | Minimal alcohol use; negligible risk | +0.0 |
+| Smoking: No | No smoking; protective | -0.3 |
+| Family Health History: Unknown | No data; neutral | +0.0 |
+| Likes Vegetables: Yes | Healthier diet; mild protective effect | -0.1 |
+| Drinks Coffee: Yes | Neutral to mild positive effect on alertness | +0.0 |
+| Donated Blood: Yes | Indicates some health engagement | -0.1 |
+| Sexual Orientation: Bisexual | Minority stress may contribute to mental health burden | +0.2 |
+| Votes: Sometimes | Mild civic disengagement signal | +0.1 |
+| Picks Up Litter: Sometimes | Neutral behavioral indicator | +0.0 |
+| Favourite Sport: Soccer | Active interest; mild protective | -0.1 |
+| Birthday Month: February | No causal relevance | +0.0 |
+| Race: White | No directional adjustment applied | +0.0 |
+| Gender: Male | Males less likely to seek care proactively | +0.2 |
+| Height (61 inches) | Already captured in BMI calculation | +0.0 |
+
+**Total: +4.7**
+
+---
+
+### Justification
+This score is driven primarily by the convergence of older age, obesity, an active depression diagnosis with functional symptoms (fatigue, anhedonia), and low socioeconomic status with limited healthcare access (no driver's license, low SES), all of which causally elevate hospitalization risk. Protective factors including non-smoking, minimal alcohol use, dietary habits, and mild depression severity (HAM-D mild range) meaningfully offset the risk, preventing a higher score.

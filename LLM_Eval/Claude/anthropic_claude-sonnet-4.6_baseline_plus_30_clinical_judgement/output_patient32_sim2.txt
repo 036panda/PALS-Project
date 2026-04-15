@@ -1,0 +1,71 @@
+## Patient 32 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **7.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (19) | Young adult; early-onset psychiatric illness increases vulnerability | +0.5 |
+| BMI (17.6) | Underweight; nutritional deficiency, physical health risk | +0.6 |
+| Family Health History (Diabetes) | Metabolic risk; antipsychotics worsen metabolic profile | +0.3 |
+| Current Diagnosis (Schizophrenia) | High-acuity psychiatric illness; major hospitalization driver | +2.0 |
+| Race (White) | No significant directional adjustment in this context | 0.0 |
+| Gender (Non-binary) | Elevated minority stress, healthcare navigation barriers | +0.3 |
+| Sexual Orientation (Heterosexual) | No significant directional adjustment | 0.0 |
+| Weekly Alcohol Intake (3 drinks) | Mild use; modest interaction risk with antipsychotics | +0.2 |
+| Smoking (No) | Protective; no respiratory or metabolic compounding | -0.2 |
+| HAM-D 25+ (Severe Depression) | Severe depressive comorbidity; significantly elevates risk | +1.5 |
+| Been Sad or Fatigued (No) | Inconsistent with HAM-D score; possible insight deficit | +0.2 |
+| Loss of Interest (Yes) | Anhedonia present; consistent with depressive episode | +0.3 |
+| Hours of Sleep (8.0) | Adequate sleep; mild protective factor | -0.2 |
+| Employment (Student) | Structured routine; mild protective, but academic stress present | -0.1 |
+| Socioeconomic Status (High) | Better access to care and resources; protective | -0.4 |
+| Drinks Coffee (No) | Neutral to mildly protective; no stimulant interference | -0.1 |
+| Likes Vegetables (No) | Poor dietary habits; compounds underweight/nutritional risk | +0.2 |
+| Favourite Sport (None/NaN) | No physical activity reported; sedentary lifestyle risk | +0.2 |
+| Votes (Never) | Low civic engagement; mild indicator of social disengagement | +0.1 |
+| Height (74 inches) | Contextual to BMI calculation; already captured in BMI | 0.0 |
+| Has Driver's License (No) | Mobility limitation; may reflect functional impairment | +0.1 |
+| Picks Up Litter (Always) | Prosocial behavior; mild indicator of preserved functioning | -0.1 |
+| Uses Public Transportation (Sometimes) | Moderate community engagement; neutral | 0.0 |
+| Donated Blood (No) | Neutral; no clinical significance here | 0.0 |
+| Birthday Month (July) | No clinically significant seasonal risk adjustment | 0.0 |
+| Water Intake (45.5 oz) | Below recommended ~64 oz; mild dehydration risk | +0.1 |
+| Bilingual (No) | No significant adjustment | 0.0 |
+| Handedness (Right) | No clinical significance | 0.0 |
+| Likes Kids (Yes) | Suggests preserved relational interest; mildly protective | -0.1 |
+| Favourite Meal (Lunch) | No significant clinical impact | 0.0 |
+| Favourite Color (Green) | No clinical significance | 0.0 |
+| Recycling Habits (Sometimes) | Mild indicator of inconsistent behavioral follow-through | 0.0 |
+| Hair Color (Black) | No clinical significance | 0.0 |
+| Best High School Subject (English) | Verbal/communicative strength; may aid therapeutic engagement | -0.1 |
+| Travels (Yes) | Suggests some functional capacity and autonomy | -0.1 |
+| Relationship Status (Single) | Reduced social support buffer; modest risk increase | +0.2 |
+| Favourite Music Genre (Indie) | No clinical significance | 0.0 |
+| Can Ride Bicycle (No) | May reflect motor/coordination concerns or functional limits | +0.1 |
+| Religious (No) | Absence of spiritual support network; mild risk factor | +0.1 |
+| Phone (Apple) | No clinical significance | 0.0 |
+| Wears Glasses (No) | No clinical significance | 0.0 |
+| Morning or Night (Morning) | Morning orientation; mild protective for routine stability | -0.1 |
+| Allergy (Gluten) | Dietary restriction compounds nutritional/underweight risk | +0.2 |
+| Binge-Watches TV (Yes) | Sedentary behavior; consistent with social withdrawal pattern | +0.2 |
+| Favourite Superstore (Walmart) | No clinical significance | 0.0 |
+
+---
+
+**Sum Check:**
+Positive contributions: +0.5+0.6+0.3+2.0+0.3+0.2+1.5+0.2+0.3+0.2+0.2+0.1+0.1+0.1+0.1+0.2+0.1+0.1+0.2+0.1+0.2+0.2 = **+7.9**
+Negative contributions: −0.2−0.2−0.1−0.4−0.1−0.1−0.1−0.1−0.1−0.1−0.1−0.1 = **−1.7**
+
+**Net Score: 7.9 − 1.7 = 7.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 19-year-old non-binary student presents with a high-risk clinical profile driven primarily by a schizophrenia diagnosis compounded by severe comorbid depression (HAM-D 25+), significant underweight status (BMI 17.6), a gluten allergy further restricting nutritional intake, and notable anhedonia — collectively suggesting a destabilized psychiatric and physical state with meaningful acute decompensation potential. While high socioeconomic status and adequate sleep offer partial buffering, the convergence of psychotic illness, severe affective symptoms, social isolation indicators, and functional impairment markers warrants close clinical monitoring and proactive intervention to prevent inpatient admission.

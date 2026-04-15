@@ -1,0 +1,39 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability and comorbidity risk | +2.2 |
+| BMI (29.4) | Overweight range; mild cardiovascular and metabolic strain | +0.6 |
+| Family Health History (Cancer) | Elevated genetic predisposition to oncologic conditions | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition reduces acute risk | −0.8 |
+| Height (58 inches / 4'10") | Notably short stature for a male; may reflect musculoskeletal or endocrine history | +0.3 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic and cardiovascular consideration | +0.2 |
+| Smoking (No) | Non-smoker; significant protective factor | −0.5 |
+| HAM-D (Normal/No Depression) | No depressive burden; supports treatment adherence and resilience | −0.3 |
+| Been Sad or Fatigued (No) | No fatigue signals; reduces concern for occult illness | −0.2 |
+| Loss of Interest (No) | Positive mental engagement; protective | −0.1 |
+| Hours of Sleep (7.0) | Optimal sleep duration; supports immune and cardiovascular health | −0.2 |
+| Employment (Retired) | Reduced occupational stress but may indicate reduced physical activity structure | +0.1 |
+| Socioeconomic Status (Middle) | Adequate access to healthcare and resources | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive; no caffeine-related cardiovascular stress | −0.1 |
+| Likes Vegetables (Yes) | Healthy dietary habit; protective against chronic disease | −0.2 |
+| Favourite Sport (Hockey) | Active sport engagement suggests reasonable physical fitness | −0.2 |
+| Race (White) | Slight elevation in certain cancer/cardiovascular epidemiological risk profiles | +0.1 |
+| Gender (Male) | Males statistically carry higher cardiovascular and cancer hospitalization risk | +0.4 |
+| Sexual Orientation (Heterosexual) | No differential clinical risk applied | +0.0 |
+| Votes (Never) | Associated with lower civic engagement and potentially lower health advocacy | +0.1 |
+| **TOTAL** | | **4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a moderate hospitalization risk driven primarily by his advanced age, male sex, overweight BMI, and a family history of cancer, which together warrant ongoing oncologic and cardiovascular surveillance. Protective factors — including no active diagnosis, no smoking, no depression, adequate sleep, healthy diet, and continued sport participation — meaningfully offset these risks, yielding an overall moderate-low risk profile that nonetheless warrants proactive preventive care given his demographic vulnerabilities.

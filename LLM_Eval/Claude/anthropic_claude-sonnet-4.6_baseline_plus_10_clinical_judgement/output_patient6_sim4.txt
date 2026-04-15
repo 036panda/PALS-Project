@@ -1,0 +1,45 @@
+## Patient ID: 6 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.5 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (36) | Young-middle adult; moderate metabolic risk beginning | +0.5 |
+| BMI (31.3) | Class I Obesity; elevates cardiometabolic and comorbidity risk | +1.0 |
+| Family Health History (Asthma) | Genetic predisposition to respiratory conditions | +0.3 |
+| Current Diagnosis (Anxiety) | Active mental health condition; can drive somatic complaints and ED visits | +0.5 |
+| Race (White) | No significant population-level adjustment in this context | 0.0 |
+| Gender (Male) | Males statistically less likely to seek preventive care; slight risk elevation | +0.2 |
+| Sexual Orientation (Heterosexual) | No significant adjustment | 0.0 |
+| Weekly Alcohol Intake (5 drinks) | Moderate; mild hepatic and cardiovascular concern over time | +0.3 |
+| Smoking (No) | Protective; significantly reduces pulmonary and cardiovascular risk | -0.5 |
+| HAM-D Score (0–6 / Normal) | No clinical depression detected; protective for mental health hospitalization | -0.4 |
+| Been Sad or Fatigued (No) | No affective symptoms; further reduces psychiatric risk | -0.2 |
+| Loss of Interest (No) | No anhedonia; consistent with HAM-D findings | -0.1 |
+| Hours of Sleep (6.0) | Mildly below recommended 7–9 hrs; subtle immune and metabolic impact | +0.2 |
+| Employment (Employed) | Provides structure, insurance access, and social support; protective | -0.3 |
+| Socioeconomic Status (Low) | Reduced access to care, medications, and healthy food; meaningful risk driver | +0.6 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant; negligible at moderate intake | +0.1 |
+| Likes Vegetables (No) | Poor dietary quality; contributes to obesity and metabolic risk | +0.3 |
+| Favourite Sport (Gymnastics) | Indicates physical activity engagement; protective | -0.3 |
+| Votes (Sometimes) | Mild indicator of civic disengagement; modest social determinant signal | +0.1 |
+| Height in Inches (65) | Average male height; no clinical adjustment | 0.0 |
+| Has Driver's License (No) | May limit healthcare access; slight barrier to care | +0.2 |
+| Picks Up Litter (Always) | Reflects prosocial behavior and conscientiousness; protective lifestyle marker | -0.1 |
+| Uses Public Transportation (Always) | Compensates for no license; adequate mobility for care access | -0.1 |
+| Donated Blood (Yes) | Indicates engagement with healthcare system and general health awareness | -0.1 |
+| Birthday Month (June) | No clinically significant seasonal risk adjustment | 0.0 |
+
+**Sum Total: +3.5**
+
+---
+
+### 3. Clinical Rationale
+
+This 36-year-old employed White male presents with a modest but meaningful hospitalization risk, primarily driven by Class I obesity, active anxiety disorder, low socioeconomic status, suboptimal sleep, and poor dietary habits, which collectively increase vulnerability to both somatic and psychiatric acute care episodes. Protective factors — including non-smoking status, physical activity through gymnastics, absence of depressive symptoms, and employment — substantially offset these risks, yielding an overall low-to-moderate risk profile that warrants preventive monitoring rather than urgent intervention.

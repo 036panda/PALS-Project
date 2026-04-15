@@ -1,0 +1,64 @@
+## Patient_ID: 5 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.7 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (61) | Older adult; elevated biological risk | +1.2 |
+| BMI (25.8) | Normal/healthy range | −0.3 |
+| Family Health History (Asthma) | Genetic predisposition to respiratory conditions | +0.3 |
+| Current Diagnosis (None/NaN) | No active diagnosis | −0.4 |
+| Race (Black) | Systemic health disparities; elevated chronic disease risk | +0.3 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age post-menopause offset | +0.1 |
+| Sexual Orientation (Heterosexual) | No significant differential risk | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use; low risk | −0.1 |
+| Smoking (No) | Protective factor | −0.4 |
+| HAM-D: Mild Depression (7–17) | Mild depressive symptoms; modest risk elevation | +0.4 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat; mitigating | −0.1 |
+| Loss of Interest (No) | Mitigating depressive symptom burden | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; immune/cardiovascular risk | +0.4 |
+| Employment (Employed) | Protective; structure and income | −0.2 |
+| Socioeconomic Status (High) | Strong access to healthcare; protective | −0.4 |
+| Drinks Coffee (No) | Neutral to mildly positive | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.1 |
+| Favourite Sport (Hockey) | Active lifestyle indicator; protective | −0.1 |
+| Votes (Sometimes) | Moderate civic engagement; neutral | 0.0 |
+| Height (62 inches) | Within normal range; no impact | 0.0 |
+| Has Driver's License (Yes) | Mobility/independence; neutral | 0.0 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; neutral | 0.0 |
+| Uses Public Transportation (Sometimes) | Slight infectious exposure risk | +0.1 |
+| Donated Blood (No) | No significant clinical impact | 0.0 |
+| Birthday Month (November) | Seasonal flu/respiratory risk window | +0.1 |
+| Water Intake (46.1 oz) | Slightly below optimal hydration (~64 oz); mild concern | +0.1 |
+| Bilingual (No) | No significant impact | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive psychosocial indicator | −0.1 |
+| Favourite Meal (Lunch) | No significant clinical impact | 0.0 |
+| Favourite Color (Yellow) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | Neutral | 0.0 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (Science) | Possible health literacy advantage | −0.1 |
+| Travels (Yes) | Infectious disease exposure risk | +0.2 |
+| Relationship Status (Single) | Reduced social support; modest risk | +0.2 |
+| Favourite Music Genre (Hip-Hop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (Yes) | Active lifestyle indicator; protective | −0.1 |
+| Religious (No) | Slightly reduced community support buffer | +0.1 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Minor sensory impairment; negligible risk | +0.1 |
+| Morning or Night (Morning) | Morning chronotype; generally healthier metabolic profile | −0.1 |
+| Allergy (Dust) | Respiratory risk; relevant given family asthma history | +0.3 |
+| Binge-Watches TV (Yes) | Sedentary behavior; modest risk | +0.2 |
+| Favourite Superstore (Walmart) | No direct clinical relevance | 0.0 |
+| **TOTAL** | | **3.7** |
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a modest hospitalization risk profile, primarily driven by her age, mild depressive symptoms, insufficient sleep, dust allergy in the context of a family history of asthma, and being single with limited social support. These risks are substantially mitigated by her high socioeconomic status, active employment, absence of smoking, no current diagnosis, healthy BMI, and strong access to healthcare resources.

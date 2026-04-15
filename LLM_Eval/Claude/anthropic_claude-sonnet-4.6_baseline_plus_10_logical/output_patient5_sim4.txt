@@ -1,0 +1,42 @@
+## Hospitalization Risk Score
+
+**Risk Score: 3.8**
+
+---
+
+### Factor Contributions (Sum = 3.8)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases hospitalization likelihood | +1.5 |
+| BMI (25.8) | Normal/healthy range | −0.2 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory conditions | +0.4 |
+| Current Diagnosis (nan/none) | No active diagnosis | −0.5 |
+| Race (Black) | Systemic healthcare disparities increase risk exposure | +0.4 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age relative to male | −0.1 |
+| Weekly Alcohol Intake (1) | Minimal; negligible risk contribution | +0.1 |
+| Smoking (No) | Protective factor | −0.4 |
+| HAM-D: Mild Depression (7–17) | Mental health burden increases hospitalization risk | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat; mitigating | −0.2 |
+| Loss of Interest (No) | Further mitigates depression-related risk | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; increases systemic health risk | +0.5 |
+| Employment (Employed) | Protective; access to resources and routine | −0.3 |
+| Socioeconomic Status (High) | Strong protective factor; access to healthcare | −0.5 |
+| Drinks Coffee (No) | Neutral to marginally protective | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior; protective | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator; protective | −0.2 |
+| Votes (Sometimes) | Moderate civic engagement; weak proxy for social stability | −0.1 |
+| Height in Inches (62) | Neutral; already captured in BMI | 0.0 |
+| Has Driver's License (Yes) | Mobility/access to care; protective | −0.1 |
+| Picks Up Litter (Sometimes) | Proxy for prosocial behavior; marginally protective | −0.1 |
+| Uses Public Transportation (Sometimes) | Slight exposure risk (infectious); marginal | +0.1 |
+| Donated Blood (No) | Weak indicator of health engagement; slight negative | +0.1 |
+| Birthday Month (November) | Seasonal respiratory risk (flu season proximity) | +0.2 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+
+**Total: 3.8**
+
+---
+
+### Justification
+This score is driven primarily by the patient's age (61), mild depression (HAM-D score), insufficient sleep (5.4 hours), racial health disparity exposure, and family history of asthma, which collectively elevate hospitalization risk through physiological vulnerability, mental health burden, and systemic inequity. These risks are substantially offset by high socioeconomic status, active employment, no smoking, healthy BMI, no current diagnosis, and positive lifestyle behaviors, resulting in a moderate-low overall risk of 3.8.

@@ -1,0 +1,41 @@
+## Hospitalization Risk Score: **4.3**
+
+---
+
+### Factor Contributions (Sum = 4.3)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk in 60s | +1.5 |
+| BMI (25.8) | Normal/healthy range | −0.3 |
+| Family Health History (Asthma) | Genetic/respiratory predisposition | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosis | −0.5 |
+| Race (Black) | Systemic health disparity risk | +0.4 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age | −0.1 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use | −0.2 |
+| Smoking (No) | No smoking | −0.5 |
+| HAM-D (Mild Depression 7–17) | Mild depression increases health risk | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity | −0.1 |
+| Loss of Interest (No) | Positive mental health indicator | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold (<7 hrs) | +0.6 |
+| Employment (Employed) | Protective socioeconomic factor | −0.3 |
+| Socioeconomic Status (High) | Strong protective factor | −0.5 |
+| Drinks Coffee (No) | Neutral/slight positive | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator | −0.2 |
+| Votes (Sometimes) | Moderate civic engagement | 0.0 |
+| Has Driver's License (Yes) | Mobility/access to care | −0.1 |
+| Water Intake (46.1 oz) | Below optimal (~64 oz) | +0.2 |
+| Travels (Yes) | Exposure risk/active lifestyle (net neutral lean positive) | +0.1 |
+| Donated Blood (No) | No direct risk implication | 0.0 |
+| Uses Public Transportation (Sometimes) | Minor exposure risk | +0.1 |
+| Recycling/Litter/Civic Habits | Generally health-conscious behavior | −0.1 |
+| Bilingual (No) | No effect on risk | 0.0 |
+| Remaining lifestyle factors (handedness, color, meal, hair, subject, birthday) | Non-causal/irrelevant to health risk | 0.0 |
+
+**Total: +4.3**
+
+---
+
+### Justification
+The score is primarily driven by the patient's age of 61, insufficient sleep (5.4 hours), mild depression (HAM-D), racial health disparity risk, and a family history of asthma, all of which have established causal or epidemiological links to hospitalization risk. These risks are meaningfully offset by high socioeconomic status, employment, no smoking, minimal alcohol use, healthy BMI, no current diagnosis, and positive dietary and activity habits.

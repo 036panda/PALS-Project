@@ -1,0 +1,44 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability and comorbidity risk | +2.2 |
+| BMI (29.4) | Overweight range; mild cardiovascular and metabolic risk elevation | +0.5 |
+| Family Health History (Cancer) | Genetic predisposition to malignancy warrants monitoring | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| HAM-D Score (0–6 / Normal) | No depressive disorder; supports treatment adherence and self-care | −0.3 |
+| Been Sad or Fatigued (No) | No affective symptoms | −0.1 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Healthy sleep duration; restorative and cardioprotective | −0.2 |
+| Smoking (No) | Absence of smoking significantly reduces pulmonary/cardiovascular risk | −0.5 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; within low-risk range, minimal concern | +0.1 |
+| Employment (Retired) | Reduced occupational stress; potential for social isolation risk | +0.1 |
+| Socioeconomic Status (Middle) | Adequate access to healthcare and resources | −0.2 |
+| Race (White) | No significant independent adjustment in this context | 0.0 |
+| Gender (Male) | Males statistically less likely to seek preventive care; slight risk | +0.2 |
+| Sexual Orientation (Heterosexual) | No minority stress burden identified | 0.0 |
+| Drinks Coffee (No) | Neutral to mildly positive; no caffeine-related cardiovascular stress | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior; supports metabolic and immune health | −0.2 |
+| Favourite Sport (Hockey) | Active engagement in sport suggests functional mobility and fitness | −0.2 |
+| Votes (Never) | Civic disengagement may reflect lower health advocacy/self-efficacy | +0.1 |
+| Height (58 inches / 4'10") | Very short stature for a male; may affect BMI interpretation and orthopedic risk | +0.2 |
+| Has Driver's License (Yes) | Indicates functional independence and mobility | −0.1 |
+| Picks Up Litter (Sometimes) | Reflects moderate prosocial behavior and community engagement | −0.1 |
+| Uses Public Transportation (Sometimes) | Moderate social integration and mobility | 0.0 |
+| Donated Blood (Yes) | Suggests prior health screening and civic health engagement | −0.1 |
+| Birthday Month (January) | Minimal clinical relevance | 0.0 |
+| **TOTAL** | | **4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a **moderately low hospitalization risk**, supported by the absence of any current diagnosis, no depression, healthy sleep, non-smoking status, good dietary habits, and active sport participation. The primary risk elevators are his **advanced age**, **overweight BMI**, and **family history of cancer**, which collectively warrant routine preventive monitoring but do not indicate imminent acute hospitalization risk in the absence of active disease or functional decline.

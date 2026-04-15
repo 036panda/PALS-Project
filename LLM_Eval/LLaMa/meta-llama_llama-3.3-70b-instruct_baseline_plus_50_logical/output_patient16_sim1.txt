@@ -1,0 +1,14 @@
+1. 6.8
+2. 
+- Age: 45: 0.5 (positive, as age increases risk)
+- BMI: 25.2: 0.8 (positive, as high BMI increases risk)
+- Family_Health_History: Hypertension: 1.2 (positive, as family history of hypertension increases risk)
+- Current_Diagnosis: Anxiety: 1.0 (positive, as anxiety increases risk)
+- Smoking: Yes: 1.5 (positive, as smoking increases risk)
+- HAM-D: 7–17: Mild Depression: 0.8 (positive, as mild depression increases risk)
+- Weekly_Alcohol_Intake: 1: -0.2 (negative, as moderate alcohol intake may decrease risk)
+- Hours_of_Sleep: 7.9: -0.1 (negative, as adequate sleep decreases risk)
+- Socioeconomic_Status: Middle: -0.3 (negative, as middle socioeconomic status decreases risk)
+- Exercises: Yes: -0.5 (negative, as regular exercise decreases risk)
+- Other factors: 0 (no contribution, as no clear causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and socioeconomic status, with a focus on established causal relationships between these factors and increased risk of hospitalization. The score reflects the cumulative impact of positive and negative contributions from each factor, providing a comprehensive assessment of the individual's risk profile.

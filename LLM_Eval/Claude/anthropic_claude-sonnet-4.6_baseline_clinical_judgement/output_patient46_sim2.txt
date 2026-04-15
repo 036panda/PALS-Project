@@ -1,0 +1,34 @@
+## Patient 46 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age | 32 | **−0.3** (Young adult; lower baseline medical complexity) |
+| BMI | 25.7 | **+0.1** (Marginally overweight; minimal clinical concern) |
+| Family Health History | Asthma | **+0.2** (Mild hereditary respiratory risk; not immediately hospitalizing) |
+| Current Diagnosis | None (NaN) | **−0.4** (No active confirmed diagnosis reduces acute medical risk) |
+| Race | White | **0.0** (No directional adjustment applied) |
+| Gender | Non-binary | **+0.3** (Minority gender identity; associated with elevated psychosocial stressors and healthcare avoidance) |
+| Sexual Orientation | Other | **+0.3** (LGBTQ+ adjacent identity; associated with minority stress and mental health burden) |
+| Weekly Alcohol Intake | 2 units | **−0.2** (Low intake; negligible clinical risk) |
+| Smoking | No | **−0.3** (Protective; reduces cardiopulmonary hospitalization risk) |
+| HAM-D Score | 18–24 (Moderate Depression) | **+2.1** (Clinically significant; moderate depression is a primary driver of psychiatric hospitalization risk) |
+| Been Sad or Fatigued | No | **−0.4** (Inconsistency with HAM-D may reflect blunted affect or denial, but reduces acute distress signal) |
+| Loss of Interest | Yes | **+0.8** (Anhedonia is a core depressive symptom; strongly associated with functional decline and hospitalization) |
+| Hours of Sleep | 4.8 hrs | **+0.9** (Severe sleep deprivation; strongly linked to psychiatric decompensation and crisis risk) |
+| Employment | Employed | **−0.5** (Protective social structure; reduces isolation and financial instability risk) |
+| Socioeconomic Status | Middle | **−0.3** (Moderate resource access; reduces barriers to outpatient care) |
+| **TOTAL** | | **= 4.6** |
+
+---
+
+### 3. Clinical Rationale
+
+This 32-year-old non-binary patient presents with a moderate depressive episode (HAM-D 18–24) compounded by significant anhedonia and severely curtailed sleep (4.8 hours), which together represent a clinically meaningful risk trajectory for psychiatric decompensation requiring hospitalization. While protective factors — including employment, middle socioeconomic status, absence of smoking, and no active confirmed diagnosis — partially buffer this risk, the intersection of minority identity stressors, core depressive symptomatology, and sleep disruption warrants close outpatient monitoring and possible step-up in care intensity.

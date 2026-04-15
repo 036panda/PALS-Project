@@ -1,0 +1,50 @@
+## Hospitalization Risk Evaluation — Patient ID: 46
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (32) | Young adult, generally low medical risk | −0.5 |
+| BMI (25.7) | Normal-to-borderline, minimal concern | −0.1 |
+| Family Health History (Asthma) | Hereditary respiratory risk, moderate concern | +0.3 |
+| Current Diagnosis (None/NaN) | No active diagnosis on record | −0.3 |
+| Race (White) | No elevated population-specific risk flagged | 0.0 |
+| Gender (Non-binary) | Healthcare access barriers, minority stress | +0.2 |
+| Sexual Orientation (Other) | Minority stress, potential care avoidance | +0.2 |
+| Weekly Alcohol Intake (2) | Low intake, minimal risk | −0.1 |
+| Smoking (No) | Protective factor | −0.3 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant; hospitalization risk elevated | +1.4 |
+| Been Sad or Fatigued (No) | Inconsistent with HAM-D; possible underreporting | +0.2 |
+| Loss of Interest (Yes) | Anhedonia confirmed; supports depressive severity | +0.5 |
+| Hours of Sleep (4.8) | Significant sleep deprivation; psychiatric and physical risk | +0.7 |
+| Employment (Employed) | Stabilizing social factor | −0.3 |
+| Socioeconomic Status (Middle) | Moderate access to care | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive | 0.0 |
+| Likes Vegetables (No) | Poor dietary habit, minor nutritional risk | +0.1 |
+| Favourite Sport (NaN) | No physical activity indicated | +0.2 |
+| Votes (Sometimes) | Mild civic disengagement | +0.1 |
+| Height (63 inches) | Within normal range | 0.0 |
+| Has Driver's License (No) | Transportation barrier, care access concern | +0.2 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior, minor protective signal | −0.1 |
+| Uses Public Transportation (Never) | Combined with no license: significant mobility/access barrier | +0.3 |
+| Donated Blood (No) | Neutral | 0.0 |
+| Birthday Month (July) | No clinical relevance | 0.0 |
+| Water Intake (44 oz) | Below recommended; mild dehydration risk | +0.1 |
+| Bilingual (Yes) | Potential communication asset in care settings | −0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness signal | −0.1 |
+| Favourite Meal (Dinner) | No clinical relevance | 0.0 |
+
+**Sum Total: +5.2**
+
+---
+
+### 3. Clinical Rationale
+
+This 32-year-old non-binary patient presents with a HAM-D score in the moderate depression range, confirmed anhedonia, and severely reduced sleep (4.8 hours), forming a clinically concerning psychiatric profile that constitutes the primary driver of hospitalization risk. Compounding factors include transportation and healthcare access barriers, minority stress associated with gender and sexual identity, and poor lifestyle habits, though employment and middle socioeconomic status provide meaningful stabilizing buffers against acute decompensation.

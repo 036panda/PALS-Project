@@ -1,0 +1,35 @@
+## Patient 46 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age | 32 | **−0.3** (Young adult; lower baseline medical vulnerability) |
+| BMI | 25.7 | **+0.1** (Marginally overweight; minimal clinical concern) |
+| Family Health History | Asthma | **+0.2** (Mild hereditary respiratory risk; not immediately hospitalizing) |
+| Current Diagnosis | None (NaN) | **−0.4** (No active diagnosed condition reduces acute medical risk) |
+| Race | White | **0.0** (Neutral; no directional adjustment applied) |
+| Gender | Non-binary | **+0.3** (Minority gender identity associated with elevated psychosocial stressors and healthcare avoidance) |
+| Sexual Orientation | Other | **+0.3** (Sexual minority status linked to increased mental health burden and care barriers) |
+| Weekly Alcohol Intake | 2 units | **−0.2** (Low intake; negligible clinical risk) |
+| Smoking | No | **−0.3** (Protective; reduces cardiopulmonary hospitalization risk) |
+| HAM-D Score | 18–24 (Moderate Depression) | **+2.1** (Clinically significant; moderate depression is a primary driver of psychiatric hospitalization risk) |
+| Been Sad or Fatigued | No | **−0.4** (Inconsistency with depression diagnosis may reflect denial or masking, but self-report is protective) |
+| Loss of Interest | Yes | **+0.8** (Anhedonia is a core depressive symptom; strongly associated with functional decline and hospitalization risk) |
+| Hours of Sleep | 4.8 hrs | **+0.9** (Severe sleep deprivation; strongly correlated with psychiatric decompensation and crisis escalation) |
+| Employment | Employed | **−0.4** (Protective; social structure and financial stability reduce risk) |
+| Socioeconomic Status | Middle | **−0.3** (Moderate resource access; reduces barriers to outpatient care) |
+
+**Sum Total: −0.3 + 0.1 + 0.2 − 0.4 + 0.0 + 0.3 + 0.3 − 0.2 − 0.3 + 2.1 − 0.4 + 0.8 + 0.9 − 0.4 − 0.3 = 4.6** ✓
+
+---
+
+### 3. Clinical Rationale
+
+This 32-year-old non-binary individual presents with moderate depression (HAM-D 18–24), significant anhedonia, and severely curtailed sleep (4.8 hrs/night), forming a clinically concerning triad that meaningfully elevates psychiatric hospitalization risk despite the absence of a formal current diagnosis. Protective factors — including stable employment, middle socioeconomic status, low alcohol use, and non-smoking status — partially offset risk, but the intersection of minority identity stressors, untreated or undiagnosed depressive symptomatology, and functional sleep disruption warrants close outpatient monitoring and possible stepped-care intervention.

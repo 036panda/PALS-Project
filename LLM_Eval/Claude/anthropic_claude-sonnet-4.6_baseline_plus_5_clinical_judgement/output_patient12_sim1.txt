@@ -1,0 +1,39 @@
+## Patient 12 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.4 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (90 years) | Extremely advanced age; major vulnerability for acute illness, falls, organ decline | +3.0 |
+| BMI (32.5) | Class I obesity; increases cardiovascular, metabolic, and mobility risk | +0.8 |
+| Smoking (Yes) | Active smoker; significant pulmonary and cardiovascular risk amplifier | +0.7 |
+| Family History: Hypertension | Genetic predisposition to cardiovascular and cerebrovascular events | +0.4 |
+| Current Diagnosis: Depression | Diagnosed condition, though HAM-D contradicts severity; still a managed comorbidity | +0.3 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic and interaction risk, especially at age 90 | +0.3 |
+| Likes Vegetables: No | Poor dietary quality; contributes to metabolic and cardiovascular risk | +0.2 |
+| Socioeconomic Status: Middle | Moderate access to care; neither protective nor severely limiting | +0.1 |
+| Votes: Sometimes | Mild indicator of lower civic/social engagement; modest isolation signal | +0.1 |
+| HAM-D Score: 0–6 (Normal) | No clinically significant depressive symptoms currently | −0.4 |
+| Been Sad or Fatigued: No | Absence of affective symptoms reduces acute psychiatric risk | −0.2 |
+| Loss of Interest: No | No anhedonia; functional engagement preserved | −0.2 |
+| Hours of Sleep (7.4) | Healthy sleep duration; supports recovery and immune function | −0.2 |
+| Employment: Retired | Structured life stage; reduces occupational stress risk | −0.1 |
+| Drinks Coffee: Yes | Mild cardioprotective and cognitive benefit at moderate intake | −0.1 |
+| Favourite Sport: Hockey | Suggests historical physical activity interest; modest protective signal | −0.1 |
+| Gender: Non-binary | Potential healthcare access friction; marginal risk signal | +0.1 |
+| Race: Hispanic | Some evidence of healthcare access disparities; modest signal | +0.1 |
+| Sexual Orientation: Heterosexual | No differential risk contribution in this context | 0.0 |
+| Height (71 inches) | Anthropometric data; no independent risk contribution here | 0.0 |
+| **TOTAL** | | **6.4** |
+
+---
+
+### 3. Clinical Rationale
+
+This 90-year-old Hispanic non-binary retired individual presents with a convergence of high-impact risk factors — most critically, extremely advanced age combined with obesity and active smoking — which together substantially elevate the probability of an acute hospitalization event, particularly from cardiopulmonary or fall-related causes. Mitigating factors including a normal HAM-D score, absence of current depressive symptoms, adequate sleep, and middle socioeconomic standing provide meaningful but insufficient offset against the dominant biological vulnerabilities present at this life stage.

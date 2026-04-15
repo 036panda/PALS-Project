@@ -1,0 +1,42 @@
+## Hospitalization Risk Score
+
+**Risk Score: 4.3**
+
+---
+
+### Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age | 32 | +0.2 |
+| BMI | 25.7 (normal-overweight border) | +0.1 |
+| Family Health History | Asthma | +0.3 |
+| Current Diagnosis | None (nan) | 0.0 |
+| Race | White | 0.0 |
+| Gender | Non-binary | +0.1 |
+| Sexual Orientation | Other | +0.1 |
+| Weekly Alcohol Intake | 2 units (low) | -0.1 |
+| Smoking | No | -0.3 |
+| HAM-D Score | 18–24 Moderate Depression | +1.5 |
+| Been Sad or Fatigued | No | -0.2 |
+| Loss of Interest | Yes | +0.5 |
+| Hours of Sleep | 4.8 (severely insufficient) | +0.8 |
+| Employment | Employed | -0.3 |
+| Socioeconomic Status | Middle | -0.2 |
+| Drinks Coffee | No | 0.0 |
+| Likes Vegetables | No | +0.2 |
+| Favourite Sport | None (nan) | +0.2 |
+| Votes | Sometimes | +0.1 |
+| Height in Inches | 63 | 0.0 |
+| Has Driver's License | No | +0.1 |
+| Picks Up Litter | Sometimes | -0.1 |
+| Uses Public Transportation | Never | +0.1 |
+| Donated Blood | No | +0.1 |
+| Birthday Month | July | 0.0 |
+| **Total** | | **4.3** |
+
+---
+
+### Justification
+
+The dominant risk drivers are the moderate depression score (HAM-D 18–24), anhedonia (loss of interest), and severely insufficient sleep (4.8 hours), which together causally elevate psychiatric and physiological hospitalization risk through well-established pathways linking untreated depression, sleep deprivation, and adverse health outcomes. Protective factors including non-smoking status, low alcohol intake, stable employment, and middle socioeconomic status partially offset these risks, yielding a moderate overall score of 4.3.

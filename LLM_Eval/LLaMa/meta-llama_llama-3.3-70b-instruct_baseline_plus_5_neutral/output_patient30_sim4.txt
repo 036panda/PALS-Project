@@ -1,0 +1,14 @@
+1. Risk Assessment Score: 6.5
+2. Parameters and risk values:
+	* Age: 49: 0.5
+	* BMI: 29.7: 1.2 (obesity risk)
+	* Current_Diagnosis: Bipolar: 2.0 (mental health risk)
+	* Race: Native American: 0.8 (health disparity risk)
+	* Gender: Female: 0.2
+	* Weekly_Alcohol_Intake: 2: -0.5 (moderate drinking)
+	* HAM-D: 7-17: 1.5 (mild depression risk)
+	* Loss_of_Interest: Yes: 1.0 (depression symptom)
+	* Hours_of_Sleep: 5.8: 0.8 (sleep deprivation risk)
+	* Socioeconomic_Status: Middle: -0.5 (average socioeconomic status)
+	* Smoking: No: -1.0 (no smoking risk)
+3. The patient's risk score is driven by their bipolar diagnosis, mild depression, and loss of interest, which contribute to a higher risk of hospitalization. Additionally, their Native American background and sleep deprivation also increase their risk score, while moderate drinking and average socioeconomic status slightly mitigate their risk.

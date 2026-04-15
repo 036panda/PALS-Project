@@ -1,0 +1,44 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases vulnerability to acute illness and complications | +2.2 |
+| BMI (29.4) | Overweight range; modest cardiovascular and metabolic risk | +0.5 |
+| Family Health History (Cancer) | Elevated genetic predisposition to oncologic conditions | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition reduces immediate risk | −0.8 |
+| Smoking (No) | Non-smoker; significantly protective for pulmonary/cardiac health | −0.6 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; minimal clinical concern | +0.1 |
+| HAM-D (0–6 / No Depression) | No depressive disorder; protective for overall health outcomes | −0.3 |
+| Been Sad or Fatigued (No) | No somatic depressive symptoms | −0.1 |
+| Loss of Interest (No) | No anhedonia; behavioral health intact | −0.1 |
+| Hours of Sleep (7.0) | Adequate sleep; restorative and protective | −0.2 |
+| Employment (Retired) | Reduced occupational stress; mild social isolation risk | +0.1 |
+| Socioeconomic Status (Middle) | Adequate access to healthcare and resources | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive; no caffeine-related cardiovascular stress | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective for chronic disease | −0.2 |
+| Favourite Sport (Hockey) | Suggests physical activity engagement; protective | −0.2 |
+| Votes (Never) | Possible civic disengagement; mild social determinant concern | +0.1 |
+| Height (58 inches / 4'10") | Very short stature for a male; may reflect musculoskeletal or growth-related history | +0.2 |
+| Has Driver's License (Yes) | Indicates functional independence and mobility | −0.1 |
+| Picks Up Litter (Sometimes) | Mild indicator of prosocial behavior and community engagement | −0.1 |
+| Uses Public Transportation (Sometimes) | Moderate community integration | 0.0 |
+| Donated Blood (Yes) | Suggests reasonable baseline health and civic health engagement | −0.2 |
+| Race (White) | Neutral in this context without additional risk stratifiers | 0.0 |
+| Gender (Male) | Males statistically carry higher hospitalization risk at older ages | +0.3 |
+| Sexual Orientation (Heterosexual) | No minority stress-related risk adjustment | 0.0 |
+| Birthday Month (January) | Winter birth; marginally elevated seasonal illness exposure | +0.1 |
+| **TOTAL** | | **4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a **moderate-low hospitalization risk**, primarily driven by advanced age and male sex in the absence of any current active diagnosis, smoking history, or mental health concerns. His protective lifestyle factors — adequate sleep, vegetable consumption, physical activity via hockey, and non-smoking status — substantially offset the age-related and familial cancer risk, yielding an overall risk profile that warrants **routine monitoring rather than urgent clinical intervention**.

@@ -1,0 +1,40 @@
+## Hospitalization Risk Score: **5.2**
+
+---
+
+### Factor Contributions (Sum = 5.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Elevated risk; older age increases hospitalization vulnerability | +1.8 |
+| BMI (33.4) | Obese class I; significantly increases comorbidity and hospitalization risk | +1.2 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis directly elevates hospitalization risk | +0.8 |
+| HAM-D: Mild Depression (7–17) | Mild severity mitigates risk compared to moderate/severe | −0.3 |
+| Been Sad or Fatigued: Yes | Symptom burden present; contributes to functional impairment | +0.2 |
+| Loss of Interest: Yes | Anhedonia present; compounds depressive symptom load | +0.2 |
+| Hours of Sleep (6.7) | Slightly below optimal; mild negative health contribution | +0.1 |
+| Socioeconomic Status: Low | Reduced access to care increases hospitalization likelihood | +0.5 |
+| Employment: Retired | Reduced structured activity; mild risk elevation | +0.1 |
+| Weekly Alcohol Intake (1) | Minimal; negligible risk | +0.0 |
+| Smoking: No | Protective; reduces cardiopulmonary hospitalization risk | −0.4 |
+| Water Intake (44.6 oz) | Below recommended ~64 oz; mild negative contribution | +0.1 |
+| Likes Vegetables: Yes | Positive dietary habit; mild protective effect | −0.1 |
+| Drinks Coffee: Yes | Neutral to mildly positive for alertness; negligible | +0.0 |
+| Has Driver's License: No | Limits healthcare access; mild risk increase | +0.2 |
+| Uses Public Transportation: Always | Partially offsets access limitation | −0.1 |
+| Travels: Yes | Suggests functional capacity and engagement; mildly protective | −0.1 |
+| Donated Blood: Yes | Indicates prior health screening engagement; mildly protective | −0.1 |
+| Family Health History: Unknown (NaN) | Cannot assess hereditary risk; treated as neutral | +0.0 |
+| Recycling Habits: Never | Weak proxy for health-conscious behavior; negligible | +0.0 |
+| Votes: Sometimes | Mild civic disengagement; negligible | +0.0 |
+| Sexual Orientation: Bisexual | Minority stress may contribute marginally to mental health burden | +0.1 |
+| Picks Up Litter: Sometimes | Neutral behavioral indicator | +0.0 |
+| Bilingual: No | No cognitive reserve benefit; negligible | +0.0 |
+| All remaining lifestyle/preference factors (sport, color, meal, hair, handedness, birthday, subject) | No established causal link to hospitalization risk | +0.0 |
+
+**Total: 5.2**
+
+---
+
+### Justification
+The score is driven primarily by the patient's age (62), obese BMI (33.4), active depression diagnosis with confirmed symptoms (fatigue, anhedonia), and low socioeconomic status limiting healthcare access, all of which have established causal relationships with increased hospitalization risk. Protective factors including non-smoking status, vegetable consumption, travel capacity, and mild depression severity (HAM-D mild range) partially offset these risks, yielding a moderate overall score of 5.2.

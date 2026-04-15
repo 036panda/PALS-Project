@@ -1,0 +1,35 @@
+## Patient ID 42 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (49) | Middle-aged; modest elevation in health complexity | +0.6 |
+| BMI (23.2) | Normal/healthy range; protective | −0.5 |
+| Family Health History (Asthma) | Mild hereditary respiratory risk; low hospitalization driver | +0.3 |
+| Current Diagnosis (Anxiety) | Anxiety alone carries moderate mental health burden but rarely drives acute hospitalization | +0.8 |
+| Race (Hispanic) | Some systemic healthcare access disparities; modest risk elevation | +0.2 |
+| Gender (Male) | Males statistically less likely to seek care early; slight risk | +0.2 |
+| Sexual Orientation (Heterosexual) | No significant independent risk contribution | +0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; within low-risk range; minimal concern | +0.1 |
+| Smoking (No) | Protective; reduces cardiopulmonary hospitalization risk | −0.5 |
+| HAM-D Score (0–6, Normal) | No clinical depression detected; protective | −0.4 |
+| Been Sad or Fatigued (No) | Absence of affective symptoms; protective | −0.3 |
+| Loss of Interest (Yes) | Anhedonia present despite normal HAM-D; subtle psychiatric signal | +0.5 |
+| Hours of Sleep (9.4) | Hypersomnia; may reflect underlying anxiety or mood dysregulation | +0.4 |
+| Employment (Employed) | Stable structure and insurance access; protective | −0.4 |
+| Socioeconomic Status (High) | Strong access to care, resources, and preventive health; protective | −0.8 |
+
+**Sum Total: +0.6 − 0.5 + 0.3 + 0.8 + 0.2 + 0.2 + 0.0 + 0.1 − 0.5 − 0.4 − 0.3 + 0.5 + 0.4 − 0.4 − 0.8 = 3.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 49-year-old employed Hispanic male with a diagnosis of anxiety presents a **low-to-moderate hospitalization risk**, substantially mitigated by his high socioeconomic status, non-smoking status, healthy BMI, and absence of clinically significant depression per HAM-D scoring. The isolated finding of loss of interest alongside hypersomnia warrants clinical monitoring as a potential early signal of mood dysregulation that, if left unaddressed, could incrementally elevate psychiatric risk over time.

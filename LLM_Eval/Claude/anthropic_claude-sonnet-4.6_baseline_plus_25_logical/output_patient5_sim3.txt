@@ -1,0 +1,42 @@
+## Hospitalization Risk Score
+
+**Risk Score: 3.7**
+
+---
+
+### Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases hospitalization likelihood | +1.8 |
+| BMI (25.8) | Normal/healthy range | −0.2 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory conditions | +0.5 |
+| Current Diagnosis (nan/none) | No active diagnosis | −0.4 |
+| Race (Black) | Systemic healthcare disparities increase risk | +0.3 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age | −0.1 |
+| Weekly Alcohol Intake (1) | Minimal alcohol; negligible risk | 0.0 |
+| Smoking (No) | No smoking; protective | −0.4 |
+| HAM-D: Mild Depression (7–17) | Mild depression linked to poorer health outcomes | +0.4 |
+| Been Sad or Fatigued (No) | Contradicts/mitigates depression severity | −0.1 |
+| Loss of Interest (No) | Further mitigates depression impact | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; increases systemic risk | +0.5 |
+| Employment (Employed) | Stable employment; protective | −0.2 |
+| Socioeconomic Status (High) | Better access to healthcare; protective | −0.4 |
+| Drinks Coffee (No) | Neutral | 0.0 |
+| Likes Vegetables (Yes) | Healthy diet; protective | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle; protective | −0.2 |
+| Votes (Sometimes) | Mild civic disengagement; marginal | 0.0 |
+| Water Intake (46.1 oz) | Slightly below optimal (~64 oz); minor risk | +0.1 |
+| Relationship Status (Single) | Reduced social support; minor risk | +0.2 |
+| Travels (Yes) | Exposure to pathogens; minor risk | +0.1 |
+| Religious (No) | Slightly reduced community support network | +0.1 |
+| All remaining factors (lifestyle/demographic) | No meaningful causal health contribution | 0.0 |
+
+---
+
+**Sum of all contributions: 1.8 − 0.2 + 0.5 − 0.4 + 0.3 − 0.1 + 0.0 − 0.4 + 0.4 − 0.1 − 0.1 + 0.5 − 0.2 − 0.4 + 0.0 − 0.2 − 0.2 + 0.0 + 0.1 + 0.2 + 0.1 + 0.1 + 0.0 = 3.7** ✓
+
+---
+
+### Justification
+The score is primarily driven by the patient's age of 61, insufficient sleep (5.4 hours), mild depression (HAM-D 7–17), a family history of asthma, and racial health disparity factors, all of which causally elevate hospitalization risk through physiological vulnerability, mental health burden, and systemic access inequities. These risks are meaningfully offset by the absence of smoking, no active diagnosis, high socioeconomic status, employed status, healthy BMI, and an active, vegetable-inclusive lifestyle.

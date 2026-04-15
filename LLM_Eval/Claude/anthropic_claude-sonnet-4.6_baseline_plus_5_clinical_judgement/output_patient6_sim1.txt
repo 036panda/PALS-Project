@@ -1,0 +1,40 @@
+## Patient ID 6 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.7 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (36) | Young adult; moderate risk window | +0.5 |
+| BMI (31.3) | Class I Obesity; mild cardiovascular/metabolic concern | +0.7 |
+| Family Health History (Asthma) | Hereditary respiratory risk; not immediately acute | +0.3 |
+| Current Diagnosis (Anxiety) | Mental health condition; can escalate if unmanaged | +0.6 |
+| Race (White) | No significant population-level risk adjustment here | +0.0 |
+| Gender (Male) | Males tend to delay care-seeking; slight risk elevation | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk factor | +0.0 |
+| Weekly Alcohol Intake (5 drinks) | Moderate; mild hepatic/behavioral risk | +0.3 |
+| Smoking (No) | Protective; reduces respiratory/cardiovascular risk | −0.5 |
+| HAM-D Score (0–6 / Normal) | No clinical depression detected; protective | −0.4 |
+| Been Sad or Fatigued (No) | No affective symptom burden | −0.2 |
+| Loss of Interest (No) | No anhedonia; positive mental health indicator | −0.2 |
+| Hours of Sleep (6.0) | Mildly insufficient; linked to immune/metabolic risk | +0.3 |
+| Employment (Employed) | Stability; access to insurance/resources | −0.3 |
+| Socioeconomic Status (Low) | Reduced healthcare access; delays in treatment | +0.6 |
+| Drinks Coffee (Yes) | Mild anxiogenic effect given anxiety diagnosis | +0.1 |
+| Likes Vegetables (No) | Poor dietary quality; metabolic risk contributor | +0.3 |
+| Favourite Sport (Gymnastics) | Active lifestyle; physically beneficial | −0.3 |
+| Votes (Sometimes) | Mild civic disengagement; modest social determinant | +0.1 |
+| Height (65 inches / 5'5") | Contextual to BMI calculation; already captured in BMI | +0.0 |
+
+**Sum Total: +3.7**
+
+---
+
+### 3. Clinical Rationale
+
+This 36-year-old employed White male presents with a **low-to-moderate hospitalization risk**, primarily driven by Class I obesity, a current anxiety diagnosis, low socioeconomic status limiting healthcare access, and suboptimal lifestyle factors including poor diet, mild sleep insufficiency, and moderate alcohol use. Protective factors — including no smoking, no depressive symptomatology, active engagement in gymnastics, and stable employment — meaningfully offset these risks, yielding an overall risk profile that warrants **preventive monitoring and lifestyle intervention** rather than immediate acute concern.

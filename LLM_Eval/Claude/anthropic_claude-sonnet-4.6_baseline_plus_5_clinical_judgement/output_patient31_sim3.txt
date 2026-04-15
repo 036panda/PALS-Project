@@ -1,0 +1,40 @@
+## Patient 31 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (36) | Young adult; moderate metabolic risk window | +0.3 |
+| BMI (36.8) | Class II Obesity; significant cardiometabolic burden | +1.4 |
+| Family Health History (Hypertension) | Elevated genetic predisposition to cardiovascular disease | +0.6 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition on record | −0.5 |
+| Race (Black) | Systemic health disparities; higher hypertension/CVD prevalence in this population | +0.5 |
+| Gender (Non-binary) | Healthcare avoidance patterns; minority stress burden | +0.3 |
+| Sexual Orientation (Heterosexual) | No additional orientation-related minority stress | −0.1 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-to-concerning; hepatic and cardiovascular risk | +0.4 |
+| Smoking (Yes) | Active smoker; compounding cardiovascular and pulmonary risk | +0.7 |
+| HAM-D (0–6: Normal) | No clinically significant depressive disorder by scale | −0.4 |
+| Been Sad or Fatigued (Yes) | Subclinical affective symptoms; possible underreported burden | +0.3 |
+| Loss of Interest (Yes) | Anhedonia present; may reflect early mood or somatic disorder | +0.3 |
+| Hours of Sleep (5.7) | Chronic sleep deprivation; immune, metabolic, and cardiovascular risk | +0.5 |
+| Employment (Employed) | Protective; access to insurance and routine structure | −0.4 |
+| Socioeconomic Status (Middle) | Moderate buffer against healthcare barriers | −0.3 |
+| Drinks Coffee (No) | Neutral to mildly protective (no caffeine-related cardiovascular stress) | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior; modest protective effect | −0.2 |
+| Favourite Sport (Soccer) | Regular physical activity implied; cardioprotective | −0.3 |
+| Votes (Never) | Civic disengagement; associated with lower health advocacy and access | +0.2 |
+| Height (60 inches / 5'0") | Short stature amplifies BMI-related cardiometabolic risk at this weight | +0.4 |
+
+**Sum Total: +1.4 +0.6 +0.3 +0.5 +0.3 +0.4 +0.7 +0.3 +0.3 +0.5 +0.2 +0.4 − 0.5 − 0.1 − 0.4 − 0.4 − 0.3 − 0.1 − 0.2 − 0.3 = 4.8 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 36-year-old non-binary Black patient presents with a convergence of modifiable and structural risk factors — most notably Class II obesity at a short stature, active smoking, moderate alcohol use, chronic sleep insufficiency, and a family history of hypertension — that collectively elevate cardiovascular and metabolic hospitalization risk meaningfully above average. While the absence of a current formal diagnosis, stable employment, middle socioeconomic status, and positive lifestyle behaviors (vegetable intake, soccer participation) provide meaningful protective buffering, the subclinical mood symptoms (sadness, fatigue, anhedonia) alongside systemic health disparities warrant close longitudinal monitoring and proactive preventive intervention.

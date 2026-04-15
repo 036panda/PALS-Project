@@ -1,0 +1,46 @@
+## Risk Score: 3.2
+
+---
+
+### Factor Contributions (Sum = 3.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases hospitalization likelihood | +1.5 |
+| BMI (25.8) | Normal/healthy range | −0.2 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory illness | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.5 |
+| Race (Black) | Documented systemic healthcare access disparities increasing risk | +0.3 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age relative to male | −0.1 |
+| Weekly Alcohol Intake (1) | Minimal alcohol; negligible risk | 0.0 |
+| Smoking (No) | No smoking; protective | −0.4 |
+| HAM-D: Mild Depression (7–17) | Mild depression linked to poorer health outcomes and immune function | +0.4 |
+| Been Sad or Fatigued (No) | Contradicts/mitigates depression severity signal | −0.1 |
+| Loss of Interest (No) | Further mitigates depression severity | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; sleep deprivation increases systemic risk | +0.5 |
+| Employment (Employed) | Stable employment; protective via routine and income | −0.2 |
+| Socioeconomic Status (High) | High SES strongly protective; better access to care | −0.5 |
+| Drinks Coffee (No) | Neutral; no cardiovascular stimulant concern | 0.0 |
+| Likes Vegetables (Yes) | Healthy diet indicator; protective | −0.2 |
+| Favourite Sport (Hockey) | Active sport; indicates physical activity | −0.1 |
+| Exercises (Yes) | Regular exercise strongly protective | −0.4 |
+| Water Intake (46.1 oz) | Slightly below optimal (~64 oz); mild concern | +0.1 |
+| Skips Breakfast (Yes) | Associated with metabolic and cardiovascular risk | +0.2 |
+| Allergy (Dust) | Combined with asthma family history, increases respiratory risk | +0.3 |
+| Binge Watches TV (Yes) | Sedentary behavior; modest risk increase | +0.1 |
+| Volunteers (Never) | Lower social engagement; mild negative health correlation | +0.1 |
+| Relationship Status (Single) | Reduced social support; modest risk increase | +0.1 |
+| Registered Organ Donor (Yes) | Proxy for health-conscious behavior; negligible protective | −0.1 |
+| Travels (Yes) | Exposure to pathogens; minor risk | +0.1 |
+| Wears Glasses (Yes) | Indicator of managed health condition; neutral-to-minor | 0.0 |
+| Religious (No) | Slight reduction in community/social support network | +0.1 |
+| All remaining lifestyle/preference factors (color, music, phone, handedness, bilingual, etc.) | No established causal link to hospitalization risk | 0.0 |
+
+---
+
+**Sum Check:** +1.5−0.2+0.4−0.5+0.3−0.1+0.0−0.4+0.4−0.1−0.1+0.5−0.2−0.5+0.0−0.2−0.1−0.4+0.1+0.2+0.3+0.1+0.1+0.1−0.1+0.1+0.0+0.1+0.0 = **3.2** ✓
+
+---
+
+### Justification
+This score is driven primarily by the patient's age (61), insufficient sleep (5.4 hours), mild depression (HAM-D), dust allergy compounded by a family history of asthma, and breakfast-skipping behavior, all of which have established causal pathways to adverse health outcomes and hospitalization. These risks are substantially offset by high socioeconomic status, no smoking, regular exercise, no active diagnosis, and a healthy BMI, yielding a below-moderate overall risk of 3.2 out of 10.

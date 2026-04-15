@@ -1,0 +1,44 @@
+## Patient ID 24 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.4 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (52) | Middle-aged; elevated chronic disease vulnerability | +0.7 |
+| BMI (16.4) | Severely underweight; high risk for malnutrition, immune compromise, cardiac complications | +1.4 |
+| Family Health History (Cancer) | Genetic predisposition to serious illness | +0.4 |
+| Current Diagnosis (Bipolar) | Serious psychiatric condition with episodic instability and hospitalization risk | +0.9 |
+| Race (Asian) | Certain metabolic and disease-specific risk profiles; modest modifier | +0.1 |
+| Gender (Male) | Males statistically less likely to seek care early; higher severity at presentation | +0.2 |
+| Sexual Orientation (Other) | Minority stress, potential barriers to care | +0.2 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-to-concerning intake; interacts negatively with bipolar and medications | +0.5 |
+| Smoking (Yes) | Significant cardiovascular, pulmonary, and oncologic risk | +0.6 |
+| HAM-D (Mild Depression, 7–17) | Active depressive symptomatology alongside bipolar diagnosis | +0.4 |
+| Been Sad or Fatigued (No) | Absence of current affective fatigue; slight protective signal | −0.2 |
+| Loss of Interest (Yes) | Anhedonia present; indicator of active mood episode | +0.3 |
+| Hours of Sleep (4.8) | Severely insufficient sleep; destabilizes bipolar disorder and immune function | +0.7 |
+| Employment (Employed) | Provides structure, income, insurance access | −0.4 |
+| Socioeconomic Status (Middle) | Moderate resource access; partial buffer | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly protective for bipolar stability | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior; modest protective effect | −0.2 |
+| Favourite Sport (NaN) | No physical activity indicated; loss of protective health behavior | +0.3 |
+| Votes (Always) | Civic engagement; proxy for social integration and stability | −0.2 |
+| Height (71 inches) | Contextual to BMI calculation; already captured in BMI | 0.0 |
+| Has Driver's License (No) | Potential transportation barrier to care access | +0.2 |
+| Picks Up Litter (Sometimes) | Moderate prosocial behavior; minor protective signal | −0.1 |
+| Uses Public Transportation (Always) | Mitigates transportation barrier; maintains care access | −0.2 |
+| Donated Blood (Yes) | Indicates baseline health engagement and civic responsibility | −0.1 |
+| Birthday Month (October) | No clinically significant seasonal risk modifier | 0.0 |
+| **TOTAL** | | **+6.4** |
+
+---
+
+### 3. Clinical Rationale
+
+This 52-year-old Asian male with a BMI of 16.4 presents a clinically concerning profile driven primarily by severe underweight status, active bipolar disorder with concurrent mild depression and anhedonia, critically insufficient sleep, and ongoing tobacco and alcohol use — a constellation that substantially elevates risk for acute psychiatric decompensation or medical hospitalization. While employment, middle socioeconomic standing, and consistent public transportation use provide modest stabilizing factors, the physiological and psychiatric burden of this patient's presentation warrants close clinical monitoring and likely proactive intervention to prevent hospitalization.

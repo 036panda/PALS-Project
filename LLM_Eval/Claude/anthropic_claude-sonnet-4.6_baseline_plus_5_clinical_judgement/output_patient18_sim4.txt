@@ -1,0 +1,39 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age significantly increases hospitalization risk | +2.2 |
+| BMI (29.4) | Overweight range; modest cardiovascular/metabolic risk | +0.5 |
+| Family Health History (Cancer) | Elevated genetic predisposition risk | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosis reduces risk | −0.8 |
+| Smoking (No) | Non-smoker; protective factor | −0.5 |
+| HAM-D (Normal/No Depression) | No depressive disorder; protective | −0.3 |
+| Been Sad or Fatigued (No) | No affective symptoms; protective | −0.2 |
+| Loss of Interest (No) | No anhedonia; protective | −0.1 |
+| Hours of Sleep (7.0) | Healthy sleep duration; protective | −0.2 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild risk contribution | +0.2 |
+| Employment (Retired) | Reduced structure/activity; slight risk | +0.2 |
+| Socioeconomic Status (Middle) | Adequate access to care; protective | −0.2 |
+| Likes Vegetables (Yes) | Healthy diet indicator; protective | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly protective | −0.1 |
+| Favourite Sport (Hockey) | Active lifestyle indicator; protective | −0.2 |
+| Race (White) | Neutral in this context | 0.0 |
+| Gender (Male) | Males statistically higher hospitalization risk | +0.3 |
+| Sexual Orientation (Heterosexual) | No minority stress burden; neutral | 0.0 |
+| Votes (Never) | Low civic engagement; mild social disengagement signal | +0.1 |
+| Height (58 inches / 4'10") | Notably short for male; possible measurement anomaly or underlying condition | +0.8 |
+| **TOTAL** | | **4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with several protective factors — no active diagnosis, no smoking, healthy sleep, good diet, and no depressive symptoms — that meaningfully offset the elevated risk conferred by his age, male sex, and family history of cancer. The notably low height (58 inches) for a reported male raises clinical concern for a possible data entry discrepancy or an underlying skeletal/chronic condition that warrants further evaluation, contributing modestly to overall risk.

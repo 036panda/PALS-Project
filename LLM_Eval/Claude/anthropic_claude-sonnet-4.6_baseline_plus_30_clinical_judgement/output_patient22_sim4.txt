@@ -1,0 +1,65 @@
+## Patient 22 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (56) | Middle-aged; moderate chronic disease risk window | +0.6 |
+| BMI (28.0) | Overweight range; mild metabolic risk | +0.3 |
+| Family Health History | Unknown/NaN; cannot mitigate or elevate | +0.1 |
+| Current Diagnosis | None documented; no active disease burden | −0.4 |
+| Race (Asian) | Elevated risk for certain metabolic/cardiovascular conditions | +0.2 |
+| Gender (Other) | Healthcare access barriers possible; mild elevation | +0.1 |
+| Sexual Orientation (Heterosexual) | No significant directional impact | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/cardiovascular concern | +0.2 |
+| Smoking (No) | Protective; significant risk reduction | −0.5 |
+| HAM-D: Mild Depression (7–17) | Active mild depression; increases hospitalization risk | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts HAM-D somewhat; slight mitigation | −0.1 |
+| Loss of Interest (Yes) | Anhedonia present; supports depressive symptom burden | +0.3 |
+| Hours of Sleep (6.1) | Mildly insufficient; immune and cardiovascular impact | +0.2 |
+| Employment (Employed) | Protective; structure, income, insurance access | −0.3 |
+| Socioeconomic Status (Middle) | Moderate access to care; mild protection | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly negative (no antioxidant benefit) | 0.0 |
+| Likes Vegetables (No) | Poor dietary habit; mild nutritional risk | +0.2 |
+| Favourite Sport (Basketball) | Active lifestyle indicator; protective | −0.2 |
+| Votes (Sometimes) | Mild civic disengagement; marginal social determinant | +0.0 |
+| Height (70 inches) | Normal; no impact | 0.0 |
+| Has Driver's License (Yes) | Mobility/access to care; protective | −0.1 |
+| Picks Up Litter (Never) | Low prosocial behavior; marginal social health signal | +0.0 |
+| Uses Public Transportation (Never) | Sedentary transport pattern; negligible | 0.0 |
+| Donated Blood (No) | No direct clinical impact | 0.0 |
+| Birthday Month (May) | No clinically significant impact | 0.0 |
+| Water Intake (43.8 oz) | Below recommended ~64 oz; mild hydration concern | +0.2 |
+| Bilingual (Yes) | Cognitive resilience; mildly protective | −0.1 |
+| Handedness (Right) | No clinical impact | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness signal | −0.1 |
+| Favourite Meal (Breakfast) | Positive dietary behavior signal | −0.1 |
+| Favourite Color (Red) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | Mild environmental conscientiousness | 0.0 |
+| Hair Color (Red) | No clinical relevance | 0.0 |
+| Best High School Subject (Math) | Cognitive engagement; mildly protective | −0.1 |
+| Travels (Yes) | Positive lifestyle engagement; protective | −0.1 |
+| Relationship Status (Single) | Reduced social support; mild risk elevation | +0.2 |
+| Favourite Music Genre (Hip-Hop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (Yes) | Physical capability; mildly protective | −0.1 |
+| Religious (Yes) | Social support, coping resource; protective | −0.1 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Minor sensory impairment; negligible risk | +0.1 |
+| Morning Person | Circadian alignment; mildly protective | −0.1 |
+| Allergy (Tree Nuts) | Anaphylaxis risk; mild elevation | +0.2 |
+| Binge Watches TV (No) | Reduced sedentary behavior; protective | −0.1 |
+| Favourite Super Store (Target) | No clinical relevance | 0.0 |
+
+**Sum Total: +3.6**
+
+---
+
+### 3. Clinical Rationale
+
+This 56-year-old employed Asian male-identifying individual presents with mild depression (HAM-D 7–17) and anhedonia, which represent the most clinically significant drivers of hospitalization risk in this profile, particularly in the context of single relationship status and suboptimal sleep and hydration. Protective factors — including non-smoking status, active sport participation, stable employment, middle socioeconomic standing, and religious engagement — substantially offset these risks, yielding an overall low-to-moderate hospitalization risk score of **3.6/10**.

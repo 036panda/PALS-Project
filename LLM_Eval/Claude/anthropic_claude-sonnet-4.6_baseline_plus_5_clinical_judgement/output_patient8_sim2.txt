@@ -1,0 +1,39 @@
+## Hospitalization Risk Evaluation — Patient ID: 8
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age | 29 | −0.3 (young adult, generally resilient) |
+| BMI | 25.9 | +0.1 (marginally overweight, minimal concern) |
+| Family Health History | NaN (unknown) | +0.2 (unknown history adds mild uncertainty) |
+| Current Diagnosis | Anxiety | +0.8 (active psychiatric diagnosis, core risk driver) |
+| Race | Asian | +0.2 (cultural stigma may delay help-seeking) |
+| Gender | Male | +0.3 (males less likely to seek care, higher crisis risk) |
+| Sexual Orientation | Heterosexual | 0.0 (no differential risk applied) |
+| Weekly Alcohol Intake | 5 drinks | +0.4 (moderate use, potential anxiolytic misuse) |
+| Smoking | No | −0.3 (protective for physical health) |
+| HAM-D Score | 0–6 (No Depression) | −0.5 (low depressive severity, protective) |
+| Been Sad or Fatigued | Yes | +0.5 (subthreshold mood symptom, clinically relevant) |
+| Loss of Interest | Yes | +0.6 (anhedonia present, significant psychiatric signal) |
+| Hours of Sleep | 3.7 hrs | +0.9 (severe sleep deprivation, major risk factor) |
+| Employment | Employed | −0.4 (structure and income are protective) |
+| Socioeconomic Status | Middle | −0.2 (moderate financial stability, protective) |
+| Drinks Coffee | No | 0.0 (no meaningful impact on anxiety here) |
+| Likes Vegetables | Yes | −0.1 (positive health behavior) |
+| Favourite Sport | Soccer | −0.1 (physical activity, mild protective effect) |
+| Votes | Sometimes | +0.1 (mild civic disengagement, marginal) |
+| Height | 60 inches (5'0") | 0.0 (no independent clinical risk) |
+| **Total** | | **= 4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 29-year-old employed Asian male with a primary diagnosis of anxiety presents with a moderate hospitalization risk, driven predominantly by severely disrupted sleep (3.7 hours/night), the presence of anhedonia and fatigue suggesting subthreshold depressive features not fully captured by his HAM-D score, and moderate alcohol use that may reflect maladaptive coping. Protective factors including stable employment, middle socioeconomic status, physical activity, and absence of formal depressive disorder temper the overall risk, but the constellation of sleep deprivation, loss of interest, and cultural barriers to help-seeking warrants close clinical monitoring and proactive outreach.

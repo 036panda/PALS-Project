@@ -1,0 +1,40 @@
+## Risk Score: 3.6
+
+---
+
+### Factor Contributions (Sum = 3.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Older age increases hospitalization risk | +2.0 |
+| BMI (25.8) | Normal/slightly elevated, minimal risk | +0.2 |
+| Family Health History (Asthma) | Hereditary respiratory risk factor | +0.4 |
+| Current Diagnosis (nan/none) | No active diagnosis | 0.0 |
+| Race (Black) | Documented systemic healthcare disparity risk | +0.3 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age | -0.1 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use, negligible risk | +0.1 |
+| Smoking (No) | Protective factor | -0.5 |
+| HAM-D: Mild Depression (7–17) | Mental health burden increases hospitalization risk | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat | -0.1 |
+| Loss of Interest (No) | Further mitigates depression severity | -0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold, increases risk | +0.4 |
+| Employment (Employed) | Protective socioeconomic factor | -0.3 |
+| Socioeconomic Status (High) | Strong protective factor, better access to care | -0.5 |
+| Drinks Coffee (No) | Neutral | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit, mild protection | -0.1 |
+| Favourite Sport (Hockey) | Active lifestyle, mild protection | -0.1 |
+| Votes (Sometimes) | Mild civic engagement, marginal protective signal | -0.1 |
+| Height in Inches (62) | Contextual to BMI, already captured | 0.0 |
+| Has Driver's License (Yes) | Indicates functional independence | -0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior, negligible | 0.0 |
+| Uses Public Transportation (Sometimes) | Neutral | 0.0 |
+| Donated Blood (No) | No health engagement signal | +0.1 |
+| Birthday Month (November) | No clinically causal relationship | 0.0 |
+
+**Total: +3.6**
+
+---
+
+### Justification
+The score is primarily driven by the patient's age of 61, mild depression (HAM-D), insufficient sleep, a family history of asthma, and documented racial health disparities, all of which causally elevate hospitalization risk. These risks are meaningfully offset by high socioeconomic status, employment, non-smoking status, active lifestyle, and healthy dietary habits, which collectively reduce vulnerability and improve access to preventive care.

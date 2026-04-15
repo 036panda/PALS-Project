@@ -1,0 +1,70 @@
+## Patient 6 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (36) | Moderate age, low inherent risk | +0.3 |
+| BMI (31.3) | Class I Obesity – mild metabolic risk | +0.5 |
+| Family Health History (Asthma) | Genetic predisposition to respiratory issues | +0.2 |
+| Current Diagnosis (Anxiety) | Active mental health condition, potential somatic risk | +0.4 |
+| Race (White) | No significant elevated population-level risk | 0.0 |
+| Gender (Male) | Males statistically less likely to seek/receive preventive care | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk | 0.0 |
+| Weekly Alcohol Intake (5 drinks) | Moderate; mild hepatic/cardiovascular concern | +0.2 |
+| Smoking (No) | Protective factor | -0.3 |
+| HAM-D (0–6: Normal/No Depression) | No depressive disorder burden | -0.2 |
+| Been Sad or Fatigued (No) | No affective symptom burden | -0.1 |
+| Loss of Interest (No) | No anhedonia | -0.1 |
+| Hours of Sleep (6.0) | Mild sleep insufficiency; immune/metabolic risk | +0.3 |
+| Employment (Employed) | Stability, access to insurance | -0.2 |
+| Socioeconomic Status (Low) | Reduced healthcare access, delayed treatment | +0.4 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant; neutral-to-minor risk | +0.1 |
+| Likes Vegetables (No) | Poor dietary quality; metabolic risk | +0.3 |
+| Favourite Sport (Gymnastics) | Physical activity engagement; protective | -0.2 |
+| Votes (Sometimes) | Mild civic disengagement; marginal SES proxy | +0.1 |
+| Height in Inches (65) | Average height; no clinical relevance | 0.0 |
+| Has Driver's License (No) | Potential transportation barrier to care | +0.2 |
+| Picks Up Litter (Always) | Reflects prosocial behavior; no clinical impact | 0.0 |
+| Uses Public Transportation (Always) | Mitigates transportation barrier somewhat | -0.1 |
+| Donated Blood (Yes) | Reflects health engagement | -0.1 |
+| Birthday Month (June) | No clinical relevance | 0.0 |
+| Water Intake (42.8 oz) | Below recommended ~64 oz; mild hydration concern | +0.2 |
+| Bilingual (No) | No communication barrier | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social orientation; no clinical impact | 0.0 |
+| Favourite Meal (Lunch) | No clinical relevance | 0.0 |
+| Favourite Color (Purple) | No clinical relevance | 0.0 |
+| Recycling Habits (Never) | Reflects lifestyle disengagement; marginal proxy | +0.1 |
+| Hair Color (Red) | No clinical relevance | 0.0 |
+| Best High School Subject (Math) | Cognitive strength; no direct clinical impact | 0.0 |
+| Travels (No) | Limited exposure to novel pathogens; slightly protective | -0.1 |
+| Relationship Status (Single) | Reduced social support; mild risk | +0.2 |
+| Favourite Music Genre (Indie) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (No) | Suggests limited physical activity repertoire | +0.1 |
+| Religious (No) | Slightly reduced community support network | +0.1 |
+| Phone (Android) | No clinical relevance | 0.0 |
+| Wears Glasses (No) | No clinical relevance | 0.0 |
+| Morning or Night (Night) | Night preference may reflect circadian disruption | +0.1 |
+| Allergy (Pollen) | Mild allergic burden; family asthma context adds relevance | +0.2 |
+| Binge-Watches TV (Yes) | Sedentary behavior; compounds obesity risk | +0.2 |
+| Favourite Superstore (Walmart) | SES proxy; no independent clinical impact | 0.0 |
+| Pet Preference (Guinea Pig) | No clinical relevance | 0.0 |
+| Volunteers (Always) | Strong prosocial engagement; protective mental health factor | -0.2 |
+| Skips Breakfast (Yes) | Poor nutritional pattern; metabolic risk | +0.2 |
+| Favourite Movie Genre (Romance) | No clinical relevance | 0.0 |
+| Registered Organ Donor (No) | Mild health disengagement signal | +0.1 |
+
+**Sum Total: +3.6**
+
+---
+
+### 3. Clinical Rationale
+
+This 36-year-old White male with a current anxiety diagnosis, Class I obesity, low socioeconomic status, and suboptimal lifestyle behaviors (poor diet, inadequate sleep, sedentary habits, skipped breakfast, low water intake) presents a **mildly elevated but not acute hospitalization risk**, primarily driven by the convergence of metabolic and psychosocial vulnerabilities rather than any single critical factor. Protective elements—including active employment, no smoking, no depression, consistent volunteering, and physical activity through gymnastics—substantially offset these risks, yielding an overall low-to-moderate risk profile.

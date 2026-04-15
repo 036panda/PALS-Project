@@ -1,0 +1,23 @@
+1. 4.8
+2. Input factors and their assigned contributions:
+   - Age: 36: -0.2 (lower risk due to being relatively young)
+   - BMI: 31.3: 1.5 (higher risk due to being overweight)
+   - Family_Health_History: Asthma: 0.8 (higher risk due to genetic predisposition)
+   - Current_Diagnosis: Anxiety: 1.2 (higher risk due to mental health condition)
+   - Race: White: 0 (no direct contribution, as race is not a direct causal factor in this context)
+   - Gender: Male: 0 (no direct contribution, as gender is not a direct causal factor in this context)
+   - Sexual_Orientation: Heterosexual: 0 (no direct contribution, as sexual orientation is not a direct causal factor in this context)
+   - Weekly_Alcohol_Intake: 5: 0.5 (higher risk due to moderate alcohol consumption)
+   - Smoking: No: -0.5 (lower risk due to not smoking)
+   - HAM-D: 0–6: Normal / No Depression: -1 (lower risk due to no depression)
+   - Been_Sad_or_Fatigued: No: -0.2 (lower risk due to no recent sad or fatigued episodes)
+   - Loss_of_Interest: No: -0.2 (lower risk due to no loss of interest)
+   - Hours_of_Sleep: 6.0: -0.3 (lower risk due to relatively normal sleep hours)
+   - Employment: Employed: -0.5 (lower risk due to being employed)
+   - Socioeconomic_Status: Low: 1 (higher risk due to lower socioeconomic status)
+   - Drinks_Coffee: Yes: 0 (no direct contribution, as coffee consumption is not a direct causal factor in this context)
+   - Likes_Vegetables: No: 0.2 (higher risk due to potential for poor diet)
+   - Favourite_Sport: Gymnastics: -0.5 (lower risk due to engagement in physical activity)
+   - Votes: Sometimes: 0 (no direct contribution, as voting frequency is not a direct causal factor in this context)
+   - Height_in_Inches: 65: 0 (no direct contribution, as height is not a direct causal factor in this context)
+3. The hospitalization risk score is calculated based on the individual's health factors, such as BMI, family health history, and current diagnosis, which contribute to a higher risk, while factors like employment, sleep hours, and not smoking contribute to a lower risk. The score reflects the cumulative effect of these factors on the individual's overall health and potential need for hospitalization.

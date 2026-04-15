@@ -1,0 +1,35 @@
+## Patient ID 13 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.4 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (56) | Middle-aged; increased vulnerability to psychiatric decompensation | +0.8 |
+| BMI (27.3) | Slightly overweight; mild metabolic concern, modest risk | +0.2 |
+| Family Health History | Missing/unknown; cannot mitigate risk, slight uncertainty penalty | +0.2 |
+| Current Diagnosis: Schizophrenia | High-risk psychiatric condition; core driver of hospitalization risk | +2.5 |
+| Race: Asian | No significant independent elevation; neutral | 0.0 |
+| Gender: Other | Gender minority status; associated with healthcare barriers and stress | +0.3 |
+| Sexual Orientation: Heterosexual | No additional minority stress contribution | 0.0 |
+| Weekly Alcohol Intake (2 units) | Low intake; minimal but non-zero substance interaction risk | +0.1 |
+| Smoking: Yes | Worsens psychiatric medication metabolism; cardiovascular risk | +0.4 |
+| HAM-D 7–17 (Mild Depression) | Comorbid depressive symptoms compound schizophrenia severity | +0.7 |
+| Been Sad or Fatigued: Yes | Corroborates depressive burden; functional impairment signal | +0.4 |
+| Loss of Interest: Yes | Negative symptom overlap; reduced treatment engagement risk | +0.4 |
+| Hours of Sleep (6.0) | Mildly reduced; sleep disruption can destabilize psychotic disorders | +0.3 |
+| Employment: Employed | Protective factor; structure, social engagement, financial stability | −0.5 |
+| Socioeconomic Status: Low | Limits access to care, medication adherence, and support resources | +0.6 |
+
+**Sum: +6.4**
+
+---
+
+### 3. Clinical Rationale
+
+This 56-year-old patient with schizophrenia presents with a clinically meaningful constellation of risk factors, including comorbid mild depression, neurovegetative symptoms (fatigue, anhedonia, disrupted sleep), active smoking, and low socioeconomic status — all of which can compromise medication adherence and psychiatric stability. While current employment serves as a meaningful protective buffer, the combination of an undertreated or partially treated psychotic disorder with affective comorbidity and limited resources elevates the probability of decompensation requiring inpatient intervention.

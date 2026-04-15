@@ -1,0 +1,16 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: -1.5 (lower age generally associated with lower health risks)
+   - BMI: -0.5 (BMI within normal range, indicating lower health risk)
+   - Family_Health_History: +1.0 (history of cancer in the family increases risk)
+   - Current_Diagnosis: +1.5 (bipolar diagnosis increases health risk)
+   - Race: +0.2 (acknowledging racial disparities in healthcare access and outcomes)
+   - Gender: +0.1 (male gender can be associated with certain health risks)
+   - Weekly_Alcohol_Intake: -0.5 (no alcohol intake reduces risk)
+   - Smoking: -0.5 (not smoking reduces health risk)
+   - HAM-D: +1.0 (mild depression increases risk)
+   - Hours_of_Sleep: +0.5 (less than average sleep can increase health risks)
+   - Socioeconomic_Status: +1.0 (lower socioeconomic status associated with higher health risks)
+   - Employment: -0.2 (being a student may have unique stressors but generally considered lower risk)
+   - All other factors: 0 (due to lack of direct causal relationship to hospitalization risk or insufficient information to determine a relationship)
+3. The risk score calculation is based on identifying and quantifying the impact of various factors that have a logical and evidence-based relationship with health risks, such as family health history, current diagnosis, socioeconomic status, and lifestyle factors. The score of 4.2 reflects the cumulative effect of these factors, indicating a moderate risk level for hospitalization.

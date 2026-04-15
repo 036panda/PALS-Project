@@ -1,0 +1,35 @@
+## Risk Score: **6.2**
+
+---
+
+### Factor Contributions (Sum = 6.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (19) | Young adult, elevated psychiatric vulnerability | +0.5 |
+| BMI (17.6) | Underweight – nutritional deficiency, physical health risk | +0.8 |
+| Family Health History (Diabetes) | Metabolic risk, indirect hospitalization pressure | +0.3 |
+| Current Diagnosis (Schizophrenia) | High-acuity psychiatric condition, major hospitalization driver | +2.5 |
+| HAM-D 25+ (Severe Depression) | Severe depressive episode, strong hospitalization predictor | +1.5 |
+| Loss of Interest (Yes) | Anhedonia, reinforces severity of psychiatric state | +0.3 |
+| Been Sad or Fatigued (No) | Contradicts HAM-D severity slightly, minor protective signal | -0.2 |
+| Weekly Alcohol Intake (3 drinks) | Low-moderate, minor additive risk | +0.2 |
+| Smoking (No) | No additional pulmonary/cardiovascular risk | -0.2 |
+| Hours of Sleep (8.0) | Adequate sleep, mild protective factor | -0.2 |
+| Socioeconomic Status (High) | Better access to care, reduces hospitalization likelihood | -0.4 |
+| Employment (Student) | Structured environment, mild protective | -0.1 |
+| Gender (Non-binary) | Elevated minority stress, psychiatric risk amplifier | +0.3 |
+| Race (White) | Neutral relative to systemic access barriers | 0.0 |
+| Sexual Orientation (Heterosexual) | No additional minority stress contribution | 0.0 |
+| Drinks Coffee (No) | Negligible clinical impact | 0.0 |
+| Likes Vegetables (No) | Poor diet, minor nutritional concern compounding low BMI | +0.2 |
+| Favourite Sport (NaN) | No physical activity data, slight negative signal | +0.1 |
+| Votes (Never) | Civic disengagement, proxy for social disconnection | +0.1 |
+| Height (74 inches) | Contextualizes BMI as more severely underweight | +0.3 |
+
+**Total: +6.2**
+
+---
+
+### Justification
+The score is primarily driven by the co-occurrence of a schizophrenia diagnosis and severe depression (HAM-D 25+), which together represent a high-acuity psychiatric burden with well-established causal links to acute hospitalization. These risks are compounded by a significantly underweight BMI (17.6 at 74 inches), anhedonia, social disengagement, and non-binary gender identity stress, while being partially offset by high socioeconomic status, adequate sleep, non-smoking status, and a structured student environment.

@@ -1,0 +1,39 @@
+## Hospitalization Risk Score: **4.2**
+
+---
+
+### Factor Contributions (Sum = 4.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (74) | High age → elevated physiological vulnerability | +2.5 |
+| BMI (29.4) | Overweight range → mild metabolic risk | +0.5 |
+| Family Health History (Cancer) | Genetic predisposition to serious illness | +0.4 |
+| Current Diagnosis (nan/None) | No active diagnosis | −0.5 |
+| Weekly Alcohol Intake (4 drinks) | Moderate, within low-risk range | +0.1 |
+| Smoking (No) | No smoking → reduced pulmonary/cardiovascular risk | −0.3 |
+| HAM-D (Normal/No Depression) | No depressive disorder → reduced psychosomatic risk | −0.2 |
+| Been Sad or Fatigued (No) | No fatigue indicators | −0.1 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Adequate sleep → restorative health benefit | −0.2 |
+| Employment (Retired) | Reduced occupational stress but reduced structured activity | +0.1 |
+| Socioeconomic Status (Middle) | Moderate healthcare access | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit → reduced chronic disease risk | −0.2 |
+| Water Intake (44.7 oz) | Slightly below recommended ~64 oz | +0.1 |
+| Travels (Yes) | Exposure to pathogens/physical exertion | +0.1 |
+| Donated Blood (Yes) | Proxy for reasonable baseline health | −0.1 |
+| Uses Public Transportation (Sometimes) | Mild infectious exposure risk | +0.1 |
+| Height (58 inches / 4'10") | Unusually short for male → possible measurement anomaly or condition | +0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive (no caffeine stress) | 0.0 |
+| Votes (Never) | Low civic engagement → mild proxy for disengagement from preventive systems | +0.1 |
+| Recycling Habits (Never) | Weak proxy for health-conscious behavior | +0.1 |
+| Bilingual (Yes) | Cognitive resilience indicator | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial/health-conscious behavior | −0.1 |
+| All other factors (sport, color, meal, handedness, hair, birthday, subject) | No established causal link to hospitalization risk | 0.0 |
+
+**Total: +2.5 +0.5 +0.4 −0.5 +0.1 −0.3 −0.2 −0.1 −0.1 −0.2 +0.1 +0.0 −0.2 +0.1 +0.1 −0.1 +0.1 +0.2 +0.0 +0.1 +0.1 −0.1 −0.1 = 4.2**
+
+---
+
+### Justification
+The score is primarily driven by the patient's advanced age (74), which causally elevates physiological fragility and susceptibility to acute illness, compounded by an overweight BMI and a family history of cancer indicating genetic risk. These risks are meaningfully offset by the absence of a current diagnosis, no smoking, normal mental health indicators, adequate sleep, and positive dietary behaviors, yielding a moderate risk score of 4.2.

@@ -1,0 +1,39 @@
+## Hospitalization Risk Score: **4.6**
+
+---
+
+### Factor Contributions (Sum = 4.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases physiological vulnerability | +1.5 |
+| BMI (33.4) | Obese range, increases comorbidity risk | +1.0 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis | +1.0 |
+| HAM-D: Mild Depression (7–17) | Clinically measurable but mild severity | +0.5 |
+| Been Sad or Fatigued: Yes | Active depressive symptom present | +0.3 |
+| Loss of Interest: Yes | Active depressive symptom present | +0.3 |
+| Hours of Sleep (6.7) | Slightly below optimal, mild risk contribution | +0.2 |
+| Socioeconomic Status: Low | Reduced access to care, higher hospitalization risk | +0.5 |
+| Employment: Retired | Reduced social structure, mild isolation risk | +0.2 |
+| Has Driver's License: No | Reduced healthcare access | +0.2 |
+| Water Intake (44.6 oz) | Below recommended ~64 oz, mild health risk | +0.1 |
+| Recycling Habits: Never | Proxy for lower health-conscious behavior | +0.1 |
+| Family Health History: Unknown (NaN) | Cannot mitigate risk; uncertainty retained | +0.0 |
+| Weekly Alcohol Intake (1) | Very low, minimal risk | -0.1 |
+| Smoking: No | No smoking, reduces risk | -0.3 |
+| Likes Vegetables: Yes | Positive dietary behavior | -0.1 |
+| Drinks Coffee: Yes | Mild protective association with mood | -0.1 |
+| Donated Blood: Yes | Indicator of general health engagement | -0.1 |
+| Travels: Yes | Social engagement, mild protective | -0.1 |
+| Relationship Status: Dating | Social support present | -0.1 |
+| Uses Public Transportation: Always | Functional mobility maintained | -0.1 |
+| Can Ride Bicycle: Yes | Physical capability indicator | -0.1 |
+| Likes Kids: Yes | Positive social orientation | -0.1 |
+| Favourite Sport: Soccer | Physical activity interest | -0.1 |
+| **Total** | | **4.6** |
+
+---
+
+### Justification
+
+The score is primarily driven by the convergence of clinically significant risk factors: active mild depression with confirmed symptoms (fatigue, loss of interest, reduced sleep), obesity-range BMI, advanced age (62), and low socioeconomic status with limited healthcare access (no driver's license). These factors are causally linked to elevated hospitalization risk, partially offset by protective behavioral indicators including non-smoking, low alcohol use, dietary engagement, social connectedness, and physical activity interest.

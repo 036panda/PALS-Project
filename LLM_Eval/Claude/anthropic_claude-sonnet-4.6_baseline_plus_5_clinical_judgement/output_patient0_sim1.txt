@@ -1,0 +1,39 @@
+## Hospitalization Risk Evaluation — Patient ID: 0
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.4 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Impact |
+|---|---|---|
+| Age (37) | Relatively young adult; moderate risk window | +0.3 |
+| BMI (20.3) | Low-normal BMI; mild concern for nutritional status in context of psychiatric illness | +0.2 |
+| Family Health History (Heart Disease) | Cardiovascular risk hereditary component; indirect psychiatric hospitalization impact minimal | +0.2 |
+| Current Diagnosis (Schizophrenia) | Major psychiatric illness with high hospitalization risk; primary driver | +2.8 |
+| Race (Asian) | Some evidence of underutilization of mental health services; may delay intervention | +0.2 |
+| Gender (Female) | Slightly lower risk of acute psychiatric crisis vs. male counterparts | -0.2 |
+| Sexual Orientation (Homosexual) | Minority stress model; elevated psychological burden | +0.3 |
+| Weekly Alcohol Intake (3 drinks) | Moderate; mild compounding risk with psychiatric medication interactions | +0.3 |
+| Smoking (Yes) | Associated with worse psychiatric outcomes and metabolic complications | +0.4 |
+| HAM-D 25+ (Severe Depression) | Severe depressive symptomatology significantly elevates hospitalization risk | +1.5 |
+| Been Sad or Fatigued (No) | Inconsistency with HAM-D score; may reflect anosognosia common in schizophrenia | +0.1 |
+| Loss of Interest (Yes) | Anhedonia present; consistent with depressive comorbidity | +0.4 |
+| Hours of Sleep (6.3) | Mildly reduced; concerning in context of schizophrenia and depression | +0.2 |
+| Employment (Employed) | Protective factor; social structure and financial stability | -0.5 |
+| Socioeconomic Status (Middle) | Moderate access to care; partial protective effect | -0.3 |
+| Drinks Coffee (No) | Neutral to mildly protective; no stimulant-related sleep disruption | -0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit; mild protective effect on overall health | -0.1 |
+| Favourite Sport (Basketball) | Indicates some physical activity engagement; protective | -0.2 |
+| Votes (Never) | Civic disengagement; proxy for social disconnection and apathy | +0.2 |
+| Height (71 inches) | Anthropometric data; no clinically meaningful risk impact here | 0.0 |
+| **TOTAL** | | **6.4** |
+
+---
+
+### 3. Clinical Rationale
+
+This 37-year-old Asian female with a primary diagnosis of schizophrenia and comorbid severe depression (HAM-D ≥25) presents a meaningfully elevated hospitalization risk, driven predominantly by the psychiatric disease burden and the co-occurrence of anhedonia, smoking, and minority stress factors. Protective elements — including stable employment, middle socioeconomic status, and some physical activity engagement — partially offset risk but are insufficient to mitigate the compounding vulnerability posed by active psychotic illness alongside severe depressive symptomatology.

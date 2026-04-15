@@ -1,0 +1,65 @@
+## Hospitalization Risk Score: **4.2**
+
+---
+
+### Factor Contributions (Sum = 4.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases vulnerability | +1.80 |
+| BMI (25.8) | Normal/healthy range | −0.10 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory illness | +0.40 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.30 |
+| Race (Black) | Documented systemic health disparities increase risk | +0.30 |
+| Gender (Female) | Slightly lower cardiovascular risk than male at this age | −0.10 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | +0.00 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use; low risk | −0.10 |
+| Smoking (No) | Significant protective factor | −0.50 |
+| HAM-D (Mild Depression, 7–17) | Mild depression linked to poorer health outcomes | +0.40 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat; protective | −0.10 |
+| Loss of Interest (No) | Protective against worsening mental health trajectory | −0.10 |
+| Hours of Sleep (5.4) | Below recommended 7–9 hours; increases systemic risk | +0.50 |
+| Employment (Employed) | Protective; access to resources and routine | −0.20 |
+| Socioeconomic Status (High) | Strong protective factor; access to healthcare | −0.40 |
+| Drinks Coffee (No) | Neutral to mildly protective (no caffeine-related risk) | −0.05 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective | −0.15 |
+| Favourite Sport (Hockey) | Indicates physical activity; protective | −0.15 |
+| Votes (Sometimes) | Mild indicator of civic engagement; neutral | +0.00 |
+| Height in Inches (62) | Used in BMI calculation; already captured | +0.00 |
+| Has Driver's License (Yes) | Indicates functional independence; neutral | +0.00 |
+| Picks Up Litter (Sometimes) | Proxy for conscientiousness; mildly protective | −0.05 |
+| Uses Public Transportation (Sometimes) | Exposure to pathogens slightly elevated | +0.05 |
+| Donated Blood (No) | No direct causal risk implication | +0.00 |
+| Birthday Month (November) | Seasonal illness risk (fall/winter) | +0.05 |
+| Water Intake (46.1 oz) | Below recommended ~64 oz; mild dehydration risk | +0.20 |
+| Bilingual (No) | Neutral | +0.00 |
+| Handedness (Right) | No causal health relevance | +0.00 |
+| Likes Kids (Yes) | Neutral | +0.00 |
+| Favourite Meal (Lunch) | No direct causal health relevance | +0.00 |
+| Favourite Color (Yellow) | No causal health relevance | +0.00 |
+| Recycling Habits (Sometimes) | Proxy for health-conscious behavior; mildly protective | −0.05 |
+| Hair Color (Black) | No causal health relevance | +0.00 |
+| Best High School Subject (Science) | Proxy for health literacy; mildly protective | −0.05 |
+| Travels (Yes) | Increased exposure to pathogens/illness | +0.10 |
+| Relationship Status (Single) | Reduced social support; mildly increases risk | +0.15 |
+| Favourite Music Genre (Hip-Hop) | No causal health relevance | +0.00 |
+| Can Ride Bicycle (Yes) | Indicates physical capability; mildly protective | −0.05 |
+| Religious (No) | Slight reduction in community/social support network | +0.05 |
+| Phone (Apple) | No causal health relevance | +0.00 |
+| Wears Glasses (Yes) | Indicates managed sensory impairment; neutral | +0.00 |
+| Morning or Night (Morning) | Morning chronotype associated with better health outcomes | −0.10 |
+| Allergy (Dust) | Interacts with family asthma history; respiratory risk | +0.30 |
+| Binge-Watches TV (Yes) | Sedentary behavior; increases risk | +0.20 |
+| Favourite Super Store (Walmart) | No direct causal health relevance | +0.00 |
+| Pet Preference (Fish) | Low-interaction pet; minimal stress-relief benefit | +0.00 |
+| Volunteers (Never) | Reduced social engagement; mildly increases risk | +0.10 |
+| Skips Breakfast (Yes) | Poor dietary habit; metabolic risk | +0.20 |
+| Favourite Movie Genre (Comedy) | Positive affect association; mildly protective | −0.05 |
+| Registered Organ Donor (Yes) | Proxy for health awareness; mildly protective | −0.05 |
+| **TOTAL** | | **4.20** |
+
+---
+
+### Justification
+
+The score of **4.2** reflects a moderate risk profile driven primarily by the patient's age (61), mild depression (HAM-D), insufficient sleep (5.4 hours), dust allergy compounded by a family history of asthma, and behavioral factors such as skipping breakfast and sedentary TV bingeing. These risks are substantially offset by high socioeconomic status, employment, non-smoking status, no active diagnosis, healthy BMI, and positive dietary and physical activity habits, producing a net moderate-risk outcome.

@@ -1,0 +1,35 @@
+## Hospitalization Risk Evaluation — Patient ID: 37
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (53) | Middle-aged; elevated vulnerability for comorbid conditions | +0.8 |
+| BMI (25.3) | Normal/borderline; minimal metabolic concern | +0.1 |
+| Family Health History (Asthma) | Indirect relevance; no direct psychiatric hereditary burden | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric condition; core driver of hospitalization risk | +1.4 |
+| Race (Black) | Systemic healthcare access disparities; undertreatment risk | +0.5 |
+| Gender (Male) | Males less likely to seek help; higher severity at presentation | +0.4 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress burden | +0.0 |
+| Weekly Alcohol Intake (4 drinks) | Mild use; modest interaction with depressive symptoms | +0.3 |
+| Smoking (No) | Protective; no cardiopulmonary or addiction compounding | −0.4 |
+| HAM-D Score (18–24, Moderate) | Clinically significant; warrants close monitoring | +1.0 |
+| Been Sad or Fatigued (No) | Mitigates acute affective crisis risk | −0.5 |
+| Loss of Interest (No) | Absence of anhedonia reduces severity signal | −0.4 |
+| Hours of Sleep (5.7) | Mildly reduced; contributes to depressive maintenance | +0.3 |
+| Employment (Employed) | Structural stability; protective against decompensation | −0.5 |
+| Socioeconomic Status (Middle) | Moderate resource access; partially protective | −0.6 |
+
+**Sum Total: +0.8 +0.1 +0.2 +1.4 +0.5 +0.4 +0.0 +0.3 −0.4 +1.0 −0.5 −0.4 +0.3 −0.5 −0.6 = 4.6**
+
+---
+
+### 3. Clinical Rationale
+
+This 53-year-old employed Black male presents with moderate depression (HAM-D 18–24) as the primary hospitalization risk driver, tempered meaningfully by the absence of active sadness, fatigue, and anhedonia, alongside stable employment and middle socioeconomic standing. However, racial disparities in mental health treatment access, male help-seeking reluctance, mild sleep disruption, and low-level alcohol use collectively sustain a moderate and clinically watchful risk profile that warrants structured outpatient monitoring rather than immediate inpatient intervention.

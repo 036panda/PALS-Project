@@ -1,0 +1,40 @@
+## Risk Score Calculation for Patient_ID: 30
+
+---
+
+### 1. Risk Score: **5.8**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (49) | Middle-aged, elevated psychiatric risk | +1.2 |
+| BMI (29.7) | Overweight, near obese threshold | +0.5 |
+| Family Health History | Missing/nan | +0.2 |
+| Current Diagnosis: Bipolar | High hospitalization-associated condition | +2.0 |
+| Race: Native American | Elevated systemic health disparity risk | +0.4 |
+| Gender: Female | Slightly elevated mood disorder severity risk | +0.2 |
+| Sexual Orientation: Other | Minority stress, elevated psychiatric risk | +0.3 |
+| Weekly Alcohol Intake: 2 | Low, minimal risk | -0.1 |
+| Smoking: No | Protective | -0.3 |
+| HAM-D: Mild Depression (7–17) | Active depressive symptomatology | +0.8 |
+| Been Sad or Fatigued: No | Partially protective | -0.2 |
+| Loss of Interest: Yes | Anhedonia, psychiatric risk indicator | +0.4 |
+| Hours of Sleep: 5.8 | Sleep deprivation, destabilizing for Bipolar | +0.6 |
+| Employment: Employed | Protective, structural stability | -0.4 |
+| Socioeconomic Status: Middle | Moderate protective effect | -0.2 |
+| Drinks Coffee: No | Neutral/mildly protective for mood stability | -0.1 |
+| Likes Vegetables: No | Poor nutrition, indirect health risk | +0.2 |
+| Favourite Sport: Basketball | Physical activity, protective | -0.3 |
+| Votes: Never | Civic disengagement, social isolation proxy | +0.2 |
+| Height: 60 inches | Contextual BMI confirmation, no independent contribution | +0.0 |
+
+**Sum: 1.2 + 0.5 + 0.2 + 2.0 + 0.4 + 0.2 + 0.3 − 0.1 − 0.3 + 0.8 − 0.2 + 0.4 + 0.6 − 0.4 − 0.2 − 0.1 + 0.2 − 0.3 + 0.2 + 0.0 = 5.8**
+
+---
+
+### 3. Justification
+
+The dominant risk drivers are the Bipolar disorder diagnosis — a condition with inherently elevated hospitalization rates — compounded by active mild depressive symptoms (HAM-D score), anhedonia (loss of interest), and sleep deprivation (5.8 hours), which are clinically established destabilizers of bipolar mood episodes. Protective factors including employment, middle socioeconomic status, physical activity, and non-smoking partially offset these risks, yielding a moderate-to-elevated hospitalization risk score of 5.8.

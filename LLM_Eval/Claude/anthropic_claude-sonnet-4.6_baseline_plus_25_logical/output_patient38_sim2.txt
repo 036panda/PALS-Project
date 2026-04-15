@@ -1,0 +1,37 @@
+## Hospitalization Risk Score: **5.2**
+
+---
+
+### Factor Contributions (Sum = 5.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Elevated risk in older adults | +1.5 |
+| BMI (33.4) | Obese class I; increases comorbidity risk | +1.0 |
+| Current Diagnosis: Depression | Direct psychiatric hospitalization risk | +1.0 |
+| HAM-D: Mild Depression (7–17) | Moderate severity; not severe but clinically significant | +0.5 |
+| Been Sad or Fatigued: Yes | Active depressive symptom | +0.3 |
+| Loss of Interest: Yes | Active depressive symptom (anhedonia) | +0.3 |
+| Hours of Sleep: 6.7 | Mildly below optimal; minor risk | +0.1 |
+| Socioeconomic Status: Low | Reduced access to care; increases hospitalization likelihood | +0.5 |
+| Employment: Retired | Reduced social structure; mild risk amplifier | +0.2 |
+| No Driver's License | Limits healthcare access | +0.2 |
+| Uses Public Transportation: Always | Partially offsets access concern | -0.1 |
+| Family Health History: Unknown (NaN) | No protective or additive signal | +0.0 |
+| Weekly Alcohol Intake: 1 | Minimal; negligible risk | +0.0 |
+| Smoking: No | Protective against respiratory/cardiovascular hospitalization | -0.3 |
+| Likes Vegetables: Yes | Positive dietary habit; mild protective effect | -0.1 |
+| Water Intake (44.6 oz) | Slightly below recommended; minor concern | +0.1 |
+| Drinks Coffee: Yes | Neutral to mildly positive for mood | -0.1 |
+| Relationship Status: Dating | Social support present; mild protective | -0.1 |
+| Travels: Yes | Indicates functional capacity; mild protective | -0.1 |
+| Donated Blood: Yes | Indicates engagement with health system; mild protective | -0.1 |
+| Recycling Habits: Never | Weak proxy for health engagement; negligible | +0.0 |
+| Religious: No | Slight reduction in social support network | +0.1 |
+| Bisexual Orientation | Minority stress; modestly elevated mental health risk | +0.2 |
+| All remaining lifestyle/preference factors | No clinically causal relationship to hospitalization | +0.0 |
+
+---
+
+### Justification
+The score is driven primarily by the convergence of clinically causal risk factors: age (62), obesity (BMI 33.4), an active depression diagnosis with confirmed symptoms (anhedonia, fatigue), and low socioeconomic status limiting care access, which together substantially elevate hospitalization probability. Protective factors including non-smoking status, some social engagement, dietary habits, and mild depression severity (HAM-D mild range rather than severe) partially offset these risks, yielding a moderate-to-elevated score of **5.2**.

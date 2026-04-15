@@ -1,0 +1,16 @@
+1. 8.2
+2. Input factors and their assigned numerical contributions:
+   - Age: 90: 2.5 (positive, older age increases risk)
+   - BMI: 32.5: 1.8 (positive, high BMI increases risk)
+   - Family_Health_History: Hypertension: 1.2 (positive, family history of hypertension increases risk)
+   - Current_Diagnosis: Depression: 0.5 (positive, depression increases risk, but HAM-D score indicates mild symptoms)
+   - HAM-D: 0–6: -0.5 (negative, normal HAM-D score indicates low depression risk)
+   - Smoking: Yes: 1.5 (positive, smoking increases risk)
+   - Weekly_Alcohol_Intake: 4: 0.2 (positive, moderate alcohol intake may increase risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative, no sad or fatigued feelings decrease risk)
+   - Loss_of_Interest: No: -0.2 (negative, no loss of interest decreases risk)
+   - Hours_of_Sleep: 7.4: -0.1 (negative, adequate sleep decreases risk)
+   - Socioeconomic_Status: Middle: 0 (neutral, middle socioeconomic status has no significant impact)
+   - Exercises: Yes: -0.5 (negative, regular exercise decreases risk)
+   - Other factors: 0 (neutral, no significant impact on hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health factors, lifestyle, and demographic characteristics, with a focus on causal relationships between these factors and the likelihood of hospitalization. The score reflects the cumulative impact of positive and negative contributions from each factor, with older age, high BMI, family history of hypertension, smoking, and moderate alcohol intake increasing the risk, while regular exercise, adequate sleep, and mild depression symptoms decreasing the risk.

@@ -1,0 +1,39 @@
+## Hospitalization Risk Score
+
+**Risk Score: 4.2**
+
+---
+
+### Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (63) | Elevated risk; older age increases hospitalization likelihood | +1.80 |
+| BMI (33.3) | Obese class I; significantly increases cardiovascular and metabolic risk | +1.20 |
+| Family Health History (Heart Disease) | Direct causal hereditary risk factor for cardiac hospitalization | +0.80 |
+| Current Diagnosis (Bipolar) | Psychiatric condition associated with crisis episodes and hospitalization | +0.60 |
+| HAM-D (Mild Depression) | Mild depressive symptomatology adds psychiatric burden | +0.30 |
+| Weekly Alcohol Intake (1) | Minimal; negligible but non-zero risk | +0.05 |
+| Water Intake (44.1 oz) | Below recommended ~64 oz; mild dehydration risk | +0.10 |
+| Likes Vegetables (No) | Poor dietary habit; contributes to cardiometabolic risk | +0.20 |
+| Smoking (No) | Protective; reduces pulmonary and cardiovascular risk | -0.30 |
+| Hours of Sleep (7.7) | Adequate sleep; protective for mental and physical health | -0.20 |
+| Employment (Retired) | Reduced occupational stress; mild protective effect | -0.10 |
+| Socioeconomic Status (Middle) | Moderate healthcare access; slight protective effect | -0.10 |
+| Exercise/Sport (Soccer) | Active sport engagement; cardioprotective | -0.20 |
+| Votes (Always) | Civic engagement correlates with health-conscious behavior | -0.05 |
+| Drinks Coffee (Yes) | Moderate evidence of cardiovascular benefit | -0.05 |
+| Been Sad or Fatigued (No) | Absence of active depressive symptoms; protective | -0.15 |
+| Loss of Interest (No) | No anhedonia; protective psychiatric indicator | -0.10 |
+| Donated Blood (Yes) | Proxy for general health eligibility and engagement | -0.05 |
+| Travels (Yes) | Indicates functional independence and activity | -0.05 |
+| Bilingual (Yes) | Associated with cognitive resilience; mild protective | -0.05 |
+| Recycling/Civic Habits | Proxy for health-conscious lifestyle | -0.05 |
+| Remaining factors (color, handedness, meal, hair, etc.) | No established causal relationship with hospitalization risk | 0.00 |
+| **TOTAL** | | **4.20** |
+
+---
+
+### Justification
+
+The score is driven primarily by clinically causal factors: advanced age (63), obesity-range BMI (33.3), a family history of heart disease, and a bipolar disorder diagnosis collectively represent the dominant hospitalization risk pathways through cardiovascular, metabolic, and psychiatric mechanisms. These risks are partially offset by protective behavioral and clinical factors including non-smoking status, adequate sleep, active sport participation, absence of active depressive symptoms, and moderate socioeconomic stability, yielding a moderate overall risk of **4.2/10**.

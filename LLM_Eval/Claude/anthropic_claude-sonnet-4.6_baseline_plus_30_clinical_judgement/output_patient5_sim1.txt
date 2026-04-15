@@ -1,0 +1,64 @@
+## Patient_ID: 5 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.7 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (61) | Older adult; elevated biological risk | +1.2 |
+| BMI (25.8) | Normal-to-low overweight range; minimal concern | +0.1 |
+| Family Health History (Asthma) | Hereditary respiratory risk factor | +0.3 |
+| Current Diagnosis (None/NaN) | No active diagnosis | −0.5 |
+| Race (Black) | Systemic health disparities; elevated chronic disease risk | +0.4 |
+| Gender (Female) | Generally lower cardiovascular risk at this age post-menopause offset | +0.1 |
+| Sexual Orientation (Heterosexual) | No significant differential risk | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use; protective | −0.2 |
+| Smoking (No) | Non-smoker; significant protective factor | −0.6 |
+| HAM-D (Mild Depression, 7–17) | Mild depression; modest risk elevation | +0.4 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity; mitigating | −0.1 |
+| Loss of Interest (No) | Positive functional engagement | −0.1 |
+| Hours of Sleep (5.4) | Below recommended; sleep deprivation risk | +0.5 |
+| Employment (Employed) | Structured routine; protective | −0.3 |
+| Socioeconomic Status (High) | Access to care; strong protective factor | −0.5 |
+| Drinks Coffee (No) | Neutral to mildly positive | 0.0 |
+| Likes Vegetables (Yes) | Healthy dietary habit; protective | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator; protective | −0.2 |
+| Votes (Sometimes) | Moderate civic engagement; neutral | 0.0 |
+| Height in Inches (62) | Within normal range; no impact | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence; mildly protective | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; neutral | 0.0 |
+| Uses Public Transportation (Sometimes) | Moderate exposure risk; negligible | +0.1 |
+| Donated Blood (No) | No clinical significance here | 0.0 |
+| Birthday Month (November) | Seasonal vitamin D/respiratory risk (minor) | +0.1 |
+| Water Intake (46.1 oz) | Slightly below optimal (~64 oz); mild concern | +0.2 |
+| Bilingual (No) | Neutral | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness | −0.1 |
+| Favourite Meal (Lunch) | No clinical significance | 0.0 |
+| Favourite Color (Yellow) | No clinical significance | 0.0 |
+| Recycling Habits (Sometimes) | Neutral | 0.0 |
+| Hair Color (Black) | No clinical significance | 0.0 |
+| Best High School Subject (Science) | Health literacy proxy; mildly protective | −0.1 |
+| Travels (Yes) | Exposure to pathogens; minor risk | +0.1 |
+| Relationship Status (Single) | Reduced social support; mild risk | +0.2 |
+| Favourite Music Genre (Hip-Hop) | No clinical significance | 0.0 |
+| Can Ride Bicycle (Yes) | Physical capability; protective | −0.1 |
+| Religious (No) | Slightly reduced community support buffer | +0.1 |
+| Phone (Apple) | No clinical significance | 0.0 |
+| Wears Glasses (Yes) | Minor sensory impairment; negligible | +0.1 |
+| Morning or Night (Morning) | Morning chronotype; generally healthier | −0.1 |
+| Allergy (Dust) | Respiratory sensitivity; relevant given family asthma history | +0.4 |
+| Binge-Watches TV (Yes) | Sedentary behavior; mild risk | +0.2 |
+| Favourite Superstore (Walmart) | No clinical significance | 0.0 |
+| **TOTAL** | | **+3.7** |
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a modest hospitalization risk driven primarily by her age, mild depression, inadequate sleep, dust allergy in the context of a family history of asthma, and mild sedentary behavior (binge-watching TV), partially offset by her high socioeconomic status, non-smoking status, active lifestyle, healthy dietary habits, and absence of any current active diagnosis. Her overall profile reflects a clinically stable individual with manageable risk factors, though her sleep deficiency and respiratory sensitivities warrant monitoring given her age and racial health disparity context.

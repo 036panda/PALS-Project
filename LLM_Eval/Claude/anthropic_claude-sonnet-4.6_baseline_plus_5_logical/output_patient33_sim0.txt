@@ -1,0 +1,40 @@
+## Risk Score Calculation for Patient_ID: 33
+
+---
+
+### 1. Risk Score: **5.2**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (42) | Moderate adult age, limited intrinsic risk | +0.3 |
+| BMI (13.4) | Severely underweight — strong hospitalization risk | +2.5 |
+| Family Health History (Diabetes) | Elevated metabolic/genetic predisposition | +0.5 |
+| Current Diagnosis (nan/none) | No active diagnosis on record | −0.3 |
+| Race (Native American) | Elevated systemic health disparity risk | +0.4 |
+| Gender (Other) | Marginalized gender identity, healthcare access barriers | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional orientation-based risk factor | +0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/metabolic concern | +0.2 |
+| Smoking (No) | Protective factor | −0.3 |
+| HAM-D: Mild Depression (7–17) | Mild depression increases health neglect risk | +0.5 |
+| Been Sad or Fatigued (No) | Mitigates severity of depressive burden | −0.2 |
+| Loss of Interest (Yes) | Behavioral disengagement, worsens self-care | +0.3 |
+| Hours of Sleep (5.0) | Insufficient sleep, immune/metabolic impairment | +0.4 |
+| Employment (Employed) | Protective — access to resources/insurance | −0.3 |
+| Socioeconomic Status (Middle) | Moderate protective buffer | −0.2 |
+| Drinks Coffee (Yes) | Mild diuretic effect; negligible at this level | +0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior, mild protective | −0.1 |
+| Favourite Sport (Soccer) | Indicates some physical activity, protective | −0.1 |
+| Votes (Never) | Civic disengagement, proxy for social disconnection | +0.1 |
+| Height (64 inches) | Contextual to BMI calculation; already captured | +0.0 |
+
+**Sum: 0.3 + 2.5 + 0.5 − 0.3 + 0.4 + 0.2 + 0.0 + 0.2 − 0.3 + 0.5 − 0.2 + 0.3 + 0.4 − 0.3 − 0.2 + 0.0 − 0.1 − 0.1 + 0.1 + 0.0 = 5.2**
+
+---
+
+### 3. Justification
+
+The dominant driver of this patient's hospitalization risk is a severely underweight BMI of 13.4, which causally indicates malnutrition, organ stress, and acute medical vulnerability. This is compounded by mild depression with loss of interest, insufficient sleep, racial health disparities, and a family history of diabetes, while employment, non-smoking status, and healthy dietary behaviors provide partial but insufficient mitigation.

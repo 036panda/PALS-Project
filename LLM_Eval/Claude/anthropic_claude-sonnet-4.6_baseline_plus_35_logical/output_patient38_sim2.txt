@@ -1,0 +1,43 @@
+## Hospitalization Risk Score: **5.3**
+
+---
+
+### Factor Contributions (Sum = 5.3)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Elevated risk in 60s | +1.5 |
+| BMI (33.4) | Obese Class I | +1.0 |
+| Current Diagnosis: Depression | Active mental health condition | +0.8 |
+| HAM-D: Mild Depression (7–17) | Clinically confirmed mild severity | +0.3 |
+| Been Sad or Fatigued: Yes | Active depressive symptom | +0.2 |
+| Loss of Interest: Yes | Active depressive symptom | +0.2 |
+| Hours of Sleep (6.7) | Slightly below optimal | +0.1 |
+| Socioeconomic Status: Low | Reduced healthcare access | +0.4 |
+| No Driver's License | Limits healthcare access | +0.2 |
+| Skips Breakfast: Yes | Poor nutritional habit | +0.1 |
+| Volunteers: Never | Social isolation indicator | +0.1 |
+| Recycling Habits: Never | Proxy for disengagement | +0.0 |
+| Water Intake (44.6 oz) | Below recommended ~64 oz | +0.1 |
+| Allergy: Shellfish | Minor medical risk factor | +0.1 |
+| Binge-Watches TV: Yes | Sedentary behavior | +0.1 |
+| Smoking: No | Protective | -0.3 |
+| Weekly Alcohol Intake: 1 | Low, protective | -0.2 |
+| Likes Vegetables: Yes | Protective dietary habit | -0.1 |
+| Drinks Coffee: Yes | Mild protective (mood/alertness) | -0.1 |
+| Employment: Retired | Stable, low-stress | -0.1 |
+| Relationship Status: Dating | Social engagement, protective | -0.1 |
+| Uses Public Transportation: Always | Active mobility, protective | -0.1 |
+| Donated Blood: Yes | Health-conscious behavior | -0.1 |
+| Travels: Yes | Engagement/activity, protective | -0.1 |
+| Favourite Sport: Soccer | Physical activity interest | -0.1 |
+| Family Health History: Unknown (NaN) | No data, neutral | +0.0 |
+| Bilingual: No | Neutral | +0.0 |
+| All remaining lifestyle/preference factors | Neutral/negligible | +0.0 |
+
+**Total: +5.3**
+
+---
+
+### Justification
+The score is primarily driven by the patient's age (62), clinically obese BMI (33.4), active depression diagnosis with confirmed mild HAM-D severity and symptomatic presentation (fatigue, loss of interest), and low socioeconomic status with limited transportation independence — all of which causally elevate hospitalization risk through physiological burden and reduced healthcare access. Protective factors including non-smoking, low alcohol use, dietary engagement, social activity, and physical mobility partially offset these risks, yielding a moderate-to-elevated composite score of 5.3.

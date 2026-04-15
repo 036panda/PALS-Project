@@ -1,0 +1,60 @@
+## Patient ID: 3 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (64) | Older adult, elevated physiological vulnerability | +1.2 |
+| BMI (29.9) | Overweight threshold, metabolic risk | +0.4 |
+| Family Health History (Asthma) | Respiratory comorbidity risk in family | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric condition, core driver | +1.5 |
+| Race (Native American) | Documented health disparity, systemic access barriers | +0.4 |
+| Gender (Male) | Males less likely to seek care, worsening outcomes | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress factor | 0.0 |
+| Weekly Alcohol Intake (2) | Low intake, minimal risk | -0.1 |
+| Smoking (No) | Protective factor | -0.3 |
+| HAM-D Score (18–24, Moderate) | Clinically significant depressive severity | +0.8 |
+| Been Sad or Fatigued (No) | Inconsistent with diagnosis, may reflect underreporting | +0.1 |
+| Loss of Interest (Yes) | Anhedonia present, core depressive symptom | +0.3 |
+| Hours of Sleep (6.4) | Mildly reduced, consistent with depression | +0.2 |
+| Employment (Retired) | Reduced structure/social engagement, mild risk | +0.2 |
+| Socioeconomic Status (Middle) | Moderate access to care | -0.2 |
+| Drinks Coffee (Yes) | Neutral to mildly positive for alertness | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior | -0.1 |
+| Favourite Sport (Soccer) | Suggests some interest in physical activity | -0.1 |
+| Votes (Always) | Civic engagement, social connectedness indicator | -0.1 |
+| Height (65 inches) | Contextual to BMI, no independent risk | 0.0 |
+| Has Driver's License (Yes) | Functional independence, access to care | -0.1 |
+| Picks Up Litter (Never) | Low prosocial behavior, mild social disengagement signal | +0.1 |
+| Uses Public Transportation (Sometimes) | Moderate mobility and community access | 0.0 |
+| Donated Blood (Yes) | Indicates health engagement and prosocial behavior | -0.1 |
+| Birthday Month (March) | No clinical relevance | 0.0 |
+| Water Intake (44.4 oz) | Below recommended ~64 oz, mild concern | +0.1 |
+| Bilingual (Yes) | Cognitive resilience, communication asset | -0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social/emotional connection | -0.1 |
+| Favourite Meal (Dinner) | No clinical relevance | 0.0 |
+| Favourite Color (Green) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | Mild environmental engagement | 0.0 |
+| Hair Color (Blonde) | No clinical relevance | 0.0 |
+| Best High School Subject (Math) | Suggests cognitive strength, no direct risk | 0.0 |
+| Travels (No) | Limited stimulation/social exposure, mild concern | +0.1 |
+| Relationship Status (Dating) | Active social relationship, protective | -0.2 |
+| Favourite Music Genre (Pop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (No) | Minor functional limitation | +0.1 |
+| Religious (Yes) | Spirituality associated with coping resilience | -0.2 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+
+**Sum Total: +5.2**
+
+---
+
+### 3. Clinical Rationale
+
+This 64-year-old retired Native American male presents with moderate depression (HAM-D 18–24) and clinically significant anhedonia, which together constitute the primary drivers of hospitalization risk, particularly given the well-documented undertreatment of depression in older male patients from underserved racial groups. Protective factors including non-smoking status, active relationship, religious engagement, middle socioeconomic standing, and low alcohol use partially offset risk, yielding a moderate overall hospitalization probability warranting close outpatient monitoring and possible psychiatric intervention.

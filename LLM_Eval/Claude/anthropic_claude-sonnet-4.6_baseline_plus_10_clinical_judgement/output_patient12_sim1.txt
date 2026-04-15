@@ -1,0 +1,45 @@
+## Patient ID 12 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.4 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (90 years) | Extremely advanced age; major driver of frailty, multimorbidity, and acute decompensation risk | +3.2 |
+| BMI (32.5) | Class I obesity; increases cardiovascular, pulmonary, and metabolic hospitalization risk | +0.8 |
+| Family Health History (Hypertension) | Genetic predisposition to cardiovascular and cerebrovascular events | +0.4 |
+| Current Diagnosis (Depression) | Formal diagnosis present, though HAM-D score is normal — may reflect treated or resolving state | +0.2 |
+| Race (Hispanic) | Some evidence of healthcare access disparities and higher prevalence of certain chronic conditions | +0.1 |
+| Gender (Non-binary) | Potential barriers to culturally competent care; minor systemic risk factor | +0.1 |
+| Sexual Orientation (Heterosexual) | No significant independent risk modification | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic and cardiovascular risk at advanced age | +0.3 |
+| Smoking (Yes) | Active smoker; significant risk for COPD, cardiovascular events, and cancer at age 90 | +0.8 |
+| HAM-D Score (0–6, Normal) | No clinically significant depressive symptom burden currently | −0.4 |
+| Been Sad or Fatigued (No) | Absence of affective symptoms reduces acute psychiatric hospitalization risk | −0.2 |
+| Loss of Interest (No) | No anhedonia; further mitigates active depression risk | −0.1 |
+| Hours of Sleep (7.4) | Near-optimal sleep; protective for immune function and cognitive health | −0.3 |
+| Employment (Retired) | Reduced occupational stress; however, social isolation risk at 90 is a concern | +0.1 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare and resources; partial protective effect | −0.2 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant; at 90, minor arrhythmia or BP concern | +0.1 |
+| Likes Vegetables (No) | Poor dietary quality; contributes to nutritional deficiency and chronic disease progression | +0.3 |
+| Favourite Sport (Hockey) | Suggests historical physical engagement; minimal current clinical relevance at 90 | 0.0 |
+| Votes (Sometimes) | Mild indicator of civic engagement and social connectedness; minor protective signal | −0.1 |
+| Height (71 inches) | Contextual to BMI calculation; no independent risk impact beyond BMI | 0.0 |
+| Has Driver's License (No) | At age 90, likely reflects mobility limitation or functional decline; increases isolation risk | +0.2 |
+| Picks Up Litter (Never) | Proxy for low community engagement; minor indicator of social withdrawal | +0.1 |
+| Uses Public Transportation (Never) | Combined with no driver's license, suggests mobility restriction and potential care access barrier | +0.2 |
+| Donated Blood (Yes) | Reflects historical health engagement and civic behavior; minor protective signal | −0.1 |
+| Birthday Month (March) | No clinically meaningful risk association | 0.0 |
+
+**Sum of all impacts: +3.2 +0.8 +0.4 +0.2 +0.1 +0.1 +0.0 +0.3 +0.8 −0.4 −0.2 −0.1 −0.3 +0.1 −0.2 +0.1 +0.3 +0.0 −0.1 +0.0 +0.2 +0.1 +0.2 −0.1 +0.0 = 6.4 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 90-year-old Hispanic non-binary retired individual presents with a **high-risk profile driven predominantly by extreme advanced age, active smoking, and obesity**, all of which synergistically elevate the probability of acute cardiopulmonary or metabolic decompensation requiring hospitalization. While the current absence of active depressive symptoms, adequate sleep, and middle socioeconomic status provide modest protective buffering, the combination of mobility restriction, poor dietary habits, and limited community engagement at this age suggests a **frail, potentially isolated individual** whose physiological reserve is substantially diminished and who may have limited capacity to manage acute illness in an outpatient setting.

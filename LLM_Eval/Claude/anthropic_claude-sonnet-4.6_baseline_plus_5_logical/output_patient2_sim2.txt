@@ -1,0 +1,37 @@
+## Risk Score Calculation
+
+**Risk Score: 4.7**
+
+---
+
+### Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (40) | Moderate adult age, elevated chronic risk | +1.0 |
+| BMI (34.6) | Obese Class I — metabolic/cardiovascular strain | +1.5 |
+| Family Health History (Cancer) | Genetic predisposition, monitoring burden | +0.5 |
+| Current Diagnosis (Bipolar) | Chronic psychiatric condition, hospitalization-prone | +1.5 |
+| HAM-D: Mild Depression (7–17) | Active depressive symptomatology | +0.5 |
+| Loss of Interest (Yes) | Anhedonia — functional impairment indicator | +0.3 |
+| Been Sad or Fatigued (No) | Mitigates severity of depressive episode | −0.3 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild interaction risk with Bipolar | +0.2 |
+| Smoking (No) | No pulmonary/cardiovascular compounding | −0.3 |
+| Hours of Sleep (8.9) | Within healthy range; slight hypersomnia possible | +0.1 |
+| Employment (Employed) | Stability, access to resources | −0.4 |
+| Socioeconomic Status (Middle) | Moderate healthcare access | −0.2 |
+| Likes Vegetables (No) | Poor diet quality, metabolic risk amplifier | +0.2 |
+| Drinks Coffee (Yes) | Mild stimulant; minor mood interaction with Bipolar | +0.1 |
+| Votes (Always) | Civic engagement — proxy for social stability | −0.2 |
+| Favourite Sport (NaN) | No physical activity indicated | +0.2 |
+| Gender (Non-binary) | Minority stress, healthcare barrier evidence | +0.2 |
+| Sexual Orientation (Bisexual) | Elevated mental health burden per literature | +0.2 |
+| Race (White) | No significant directional adjustment here | 0.0 |
+| Height (70 in) / BMI already captured | Redundant with BMI calculation | 0.0 |
+| **Total** | | **4.7** |
+
+---
+
+### Justification
+
+The score is primarily driven by the combination of a Bipolar disorder diagnosis with active mild depressive symptoms (HAM-D 7–17) and loss of interest, compounded by obesity (BMI 34.6), which together create a clinically meaningful hospitalization risk through psychiatric decompensation and metabolic comorbidity pathways. Protective factors — including employment, middle socioeconomic status, non-smoking status, and civic engagement — partially offset these risks, while minority stressors (non-binary identity, bisexual orientation) and sedentary/dietary indicators add modest incremental risk.

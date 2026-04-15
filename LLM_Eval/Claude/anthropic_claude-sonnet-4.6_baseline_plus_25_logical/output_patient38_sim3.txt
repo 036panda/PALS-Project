@@ -1,0 +1,44 @@
+## Hospitalization Risk Score: **4.7**
+
+---
+
+### Factor Contributions (Sum = 4.7)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases physiological vulnerability | +1.5 |
+| BMI (33.4) | Obese class I; elevates comorbidity and hospitalization risk | +1.2 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis directly increases risk | +1.0 |
+| HAM-D: Mild Depression (7–17) | Quantified severity; mild but clinically significant | +0.5 |
+| Been Sad or Fatigued: Yes | Active depressive symptom; functional impairment | +0.3 |
+| Loss of Interest: Yes | Active anhedonia; reinforces depressive severity | +0.3 |
+| Hours of Sleep (6.7) | Mildly below optimal; contributes to health deterioration | +0.2 |
+| Socioeconomic Status: Low | Reduces healthcare access and adherence capacity | +0.4 |
+| Has No Driver's License | Limits access to care; transportation barrier | +0.2 |
+| Water Intake (44.6 oz) | Below recommended ~64 oz; mild dehydration risk | +0.1 |
+| Recycling Habits: Never | Weak proxy for health-conscious behavior | +0.1 |
+| Family Health History: NaN | Unknown; cannot confer protection, slight uncertainty penalty | +0.1 |
+| Weekly Alcohol Intake (1) | Minimal; negligible risk | +0.0 |
+| Smoking: No | No smoking; reduces cardiopulmonary risk | −0.3 |
+| Likes Vegetables: Yes | Dietary quality indicator; reduces metabolic risk | −0.2 |
+| Water Intake partially offset by vegetable intake | Combined nutritional partial mitigation | −0.1 |
+| Employment: Retired | Removes occupational stress; mild protective effect | −0.2 |
+| Relationship Status: Dating | Social engagement; mild protective effect | −0.1 |
+| Travels: Yes | Indicates functional mobility and engagement | −0.1 |
+| Uses Public Transportation: Always | Compensates for no driver's license; reduces access barrier | −0.1 |
+| Donated Blood: Yes | Indicates baseline health eligibility and civic health behavior | −0.1 |
+| Drinks Coffee: Yes | Mild stimulant; neutral to marginally positive for mood | −0.0 |
+| Favourite Sport: Soccer | Physical activity interest; mild protective | −0.1 |
+| Can Ride Bicycle: Yes | Physical capability indicator; mild protective | −0.1 |
+| Likes Kids: Yes | Prosocial orientation; mild psychological protective factor | −0.1 |
+| Favourite Meal: Breakfast | Regular meal pattern; mild metabolic benefit | −0.1 |
+| Bilingual: No | Neutral | +0.0 |
+| Religious: No | Neutral (no spiritual support buffer, no penalty) | +0.0 |
+| Sexual Orientation: Bisexual | Minority stress literature supports slight elevation | +0.1 |
+| **TOTAL** | | **4.7** |
+
+---
+
+### Justification
+
+The score is driven primarily by the patient's age (62), obesity-range BMI (33.4), active depression diagnosis with confirmed symptoms (fatigue, anhedonia, mild HAM-D severity), and low socioeconomic status limiting healthcare access — all of which have direct, evidence-based causal links to elevated hospitalization risk. Protective factors including non-smoking status, dietary habits, social engagement, physical mobility, and minimal alcohol use partially offset these risks, yielding a moderate score of 4.7.

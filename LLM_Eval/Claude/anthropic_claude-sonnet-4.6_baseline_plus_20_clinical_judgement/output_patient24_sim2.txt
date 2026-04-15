@@ -1,0 +1,55 @@
+## Patient 24 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.4 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (52) | Middle-aged; elevated chronic disease vulnerability | +0.5 |
+| BMI (16.4) | Severely underweight; high risk for malnutrition, cardiac complications | +1.4 |
+| Family Health History (Cancer) | Genetic predisposition to serious illness | +0.3 |
+| Current Diagnosis (Bipolar) | Mood instability, medication complexity, crisis risk | +0.8 |
+| Race (Asian) | No significant independent elevation in this context | 0.0 |
+| Gender (Male) | Males less likely to seek care; delayed intervention risk | +0.2 |
+| Sexual Orientation (Other) | Minority stress; potential barriers to care | +0.1 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-heavy; interacts negatively with bipolar and medications | +0.4 |
+| Smoking (Yes) | Cardiovascular and pulmonary risk elevation | +0.4 |
+| HAM-D (Mild Depression, 7–17) | Active depressive symptomatology alongside bipolar | +0.3 |
+| Been Sad or Fatigued (No) | Slight protective signal against acute depressive episode | −0.2 |
+| Loss of Interest (Yes) | Anhedonia present; consistent with mood disorder activity | +0.3 |
+| Hours of Sleep (4.8) | Significant sleep deprivation; destabilizes bipolar disorder | +0.6 |
+| Employment (Employed) | Provides structure and insurance access | −0.3 |
+| Socioeconomic Status (Middle) | Moderate resource access; partial protective effect | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive; no caffeine-related sleep disruption | −0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior; mild protective effect | −0.1 |
+| Favourite Sport (None/NaN) | Absence of physical activity; no exercise benefit | +0.2 |
+| Votes (Always) | Civic engagement; proxy for social stability | −0.1 |
+| Height (71 inches) | Contextual to BMI calculation; already captured in BMI | 0.0 |
+| Has Driver's License (No) | Reduced mobility; potential barrier to accessing care | +0.2 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; negligible clinical impact | 0.0 |
+| Uses Public Transportation (Always) | Compensates partially for lack of license; care access maintained | −0.1 |
+| Donated Blood (Yes) | Indicates baseline health engagement and civic behavior | −0.1 |
+| Birthday Month (October) | No clinically significant impact | 0.0 |
+| Water Intake (43.7 oz) | Below recommended ~64 oz; mild dehydration risk, especially with low BMI | +0.2 |
+| Bilingual (No) | No significant impact in this context | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Suggests social connectedness; mild protective | −0.1 |
+| Favourite Meal (Breakfast) | Positive nutritional habit signal | −0.1 |
+| Favourite Color (Blue) | No clinical relevance | 0.0 |
+| Recycling Habits (Never) | Proxy for lower health-conscious behavior; negligible | +0.1 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (English) | No direct clinical relevance | 0.0 |
+| Travels (No) | Limited environmental stimulation; may reinforce social isolation | +0.1 |
+
+**Sum Total: +6.4**
+
+---
+
+### 3. Clinical Rationale
+
+This 52-year-old Asian male with a BMI of 16.4 presents a clinically concerning profile driven primarily by severe underweight status, active bipolar disorder with concurrent mild depression and anhedonia, critically insufficient sleep (4.8 hours), and compounding lifestyle risks including smoking and moderate alcohol use — all of which synergistically destabilize psychiatric and physical health. While employment and middle socioeconomic status offer partial protective buffering, the convergence of nutritional compromise, mood disorder activity, and poor sleep hygiene elevates his near-term hospitalization risk to a meaningfully elevated level warranting close clinical monitoring and possible intervention.

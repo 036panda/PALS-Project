@@ -1,0 +1,15 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 22: -1.5 (young age generally associated with lower health risks)
+   - BMI: 35.9: 2.5 (high BMI associated with increased health risks)
+   - Family_Health_History: Cancer: 1.2 (family history of cancer may increase individual risk)
+   - Current_Diagnosis: Anxiety: 1.0 (anxiety can contribute to overall health risk)
+   - Weekly_Alcohol_Intake: 4: 0.5 (moderate alcohol intake may have mixed effects on health)
+   - HAM-D: 7–17: Mild Depression: 1.5 (mild depression contributes to health risk)
+   - Hours_of_Sleep: 5.7: 0.8 (inadequate sleep can increase health risks)
+   - Socioeconomic_Status: Middle: -0.5 (middle socioeconomic status generally associated with better health outcomes)
+   - Water_Intake_oz: 46.6: -0.2 (adequate water intake generally beneficial for health)
+   - Exercises: Yes: -1.0 (regular exercise generally reduces health risks)
+   - Allergy: Gluten: 0.5 (presence of an allergy may increase health risks)
+   - Other factors not explicitly contributing to the risk score due to lack of clear causal relationships or insufficient information.
+3. The hospitalization risk score is calculated based on the individual's health-related factors, such as high BMI, family history of cancer, and mild depression, which increase the risk, while younger age, middle socioeconomic status, and regular exercise decrease the risk. The score reflects the cumulative effect of these factors on the individual's overall health risk.

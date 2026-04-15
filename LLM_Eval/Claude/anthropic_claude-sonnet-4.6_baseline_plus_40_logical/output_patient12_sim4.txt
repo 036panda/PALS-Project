@@ -1,0 +1,48 @@
+## Risk Score: **4.6**
+
+---
+
+### Factor Contributions (Sum = 4.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (90) | Very advanced age, strong independent predictor of hospitalization | +2.5 |
+| BMI (32.5) | Obese class I, elevated cardiometabolic risk | +0.8 |
+| Family Health History: Hypertension | Genetic/familial cardiovascular risk | +0.3 |
+| Current Diagnosis: Depression | Active diagnosis increases hospitalization risk | +0.4 |
+| Smoking: Yes | Direct causal risk for respiratory, cardiovascular, oncologic hospitalization | +0.5 |
+| Weekly Alcohol Intake: 4 drinks | Moderate; marginal risk contribution | +0.1 |
+| HAM-D: 0–6 (Normal/No Depression) | Contradicts diagnosis severity; mitigates depression risk contribution | −0.3 |
+| Been Sad or Fatigued: No | Further mitigates active depressive symptom burden | −0.1 |
+| Loss of Interest: No | Further mitigates depressive functional impairment | −0.1 |
+| Hours of Sleep: 7.4 | Within healthy range; mild protective effect | −0.1 |
+| Water Intake: 44.2 oz | Below recommended ~64 oz; mild dehydration risk, especially at age 90 | +0.2 |
+| Likes Vegetables: No | Poor dietary quality, compounds obesity and cardiometabolic risk | +0.2 |
+| Skips Breakfast: No contribution offset | Nutritional irregularity at advanced age | +0.1 |
+| Exercises: Yes | Physical activity is causally protective against hospitalization | −0.3 |
+| Socioeconomic Status: Middle | Moderate healthcare access; neutral-to-slight protective | −0.1 |
+| Employment: Retired | Reduced occupational stress but reduced structured activity | +0.0 |
+| Volunteers: Always | Social engagement protective for elderly health outcomes | −0.1 |
+| Relationship Status: Dating | Social connectedness, mild protective effect | −0.1 |
+| Religious: Yes | Associated with lower stress, social support, mild protective | −0.1 |
+| Allergy: Dust | Respiratory allergy, mild risk especially with smoking | +0.1 |
+| Binge Watches TV: Yes | Sedentary behavior compounds BMI and cardiometabolic risk | +0.1 |
+| Drinks Coffee: Yes | Mild cardiovascular stimulant; negligible at moderate intake | +0.0 |
+| Has Driver's License: No | Reduced mobility/independence at 90; potential barrier to care access | +0.1 |
+| Uses Public Transportation: Never | Further limits healthcare access | +0.1 |
+| Donated Blood: Yes | Indicator of baseline health eligibility; mild protective signal | −0.1 |
+| Registered Organ Donor: Yes | Proxy for health-conscious behavior; negligible contribution | −0.0 |
+| Annual Charity Donation: Always | Proxy for financial stability and prosocial engagement; mild protective | −0.1 |
+| Travels: Yes | Indicates functional capacity and mobility at advanced age; protective | −0.1 |
+| Wears Glasses: Yes | Sensory impairment; fall/injury risk at advanced age | +0.1 |
+| Can Ride Bicycle: No | Reduced functional mobility indicator at advanced age | +0.1 |
+| Race: Hispanic | No independent causal contribution assigned absent systemic access data | +0.0 |
+| Gender: Non-binary | No independent causal contribution assigned | +0.0 |
+| All remaining lifestyle/preference factors (color, music, phone, etc.) | No established causal relationship with hospitalization risk | +0.0 |
+| **TOTAL** | | **4.6** |
+
+---
+
+### Justification
+
+The score is driven primarily by the patient's advanced age of 90 (+2.5), which is the single strongest causal predictor of hospitalization across all conditions, compounded by obesity (BMI 32.5), active smoking, a depression diagnosis, family hypertension history, and low vegetable intake and inadequate hydration — all of which have established causal pathways to acute health events. These risks are partially offset by the patient's exercise habits, normal HAM-D score contradicting severe depressive burden, social engagement through volunteering and relationships, middle socioeconomic status, and demonstrated functional capacity (travel), yielding a moderate-to-elevated net risk of **4.6/10**.

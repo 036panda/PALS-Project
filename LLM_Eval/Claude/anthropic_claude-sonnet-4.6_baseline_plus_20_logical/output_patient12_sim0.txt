@@ -1,0 +1,51 @@
+## Risk Score: **4.7**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (90) | Extreme elderly age → strong direct causal risk for hospitalization | +3.0 |
+| BMI (32.5) | Obese class I → increased cardiovascular/metabolic strain | +0.8 |
+| Smoking (Yes) | Direct causal risk for pulmonary, cardiovascular, oncologic hospitalization | +0.7 |
+| Family Health History (Hypertension) | Genetic predisposition to cardiovascular events | +0.3 |
+| Current Diagnosis (Depression) | Clinical diagnosis increases hospitalization risk via comorbidity burden | +0.3 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild causal risk contribution | +0.1 |
+| Water Intake (44.2 oz) | Below recommended ~64 oz; mild dehydration risk, especially at age 90 | +0.2 |
+| Likes Vegetables (No) | Poor diet quality → indirect causal risk via nutritional deficiency | +0.2 |
+| Has Driver's License (No) | Reduced healthcare access/mobility at age 90 | +0.1 |
+| Socioeconomic Status (Middle) | Moderate access to care; neutral-to-slight protective effect | -0.1 |
+| Hours of Sleep (7.4) | Within healthy range; mild protective effect | -0.1 |
+| HAM-D Score (0–6 Normal) | Contradicts depression severity; reduces acute psychiatric hospitalization risk | -0.2 |
+| Been Sad or Fatigued (No) | No active depressive symptoms; reduces risk | -0.1 |
+| Loss of Interest (No) | No anhedonia; reduces psychiatric hospitalization risk | -0.1 |
+| Employment (Retired) | Neutral for age 90; no additional occupational risk | 0.0 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant; negligible net effect at moderate use | 0.0 |
+| Donated Blood (Yes) | Indicates prior health eligibility screening; mild protective signal | -0.1 |
+| Travels (Yes) | Indicates functional mobility; mild protective effect | -0.1 |
+| Bilingual (Yes) | Better healthcare communication capacity; mild protective | -0.1 |
+| Uses Public Transportation (Never) | Reduced exposure to infectious agents; negligible protective | 0.0 |
+| Recycling Habits (Always) | No direct causal link to hospitalization | 0.0 |
+| Picks Up Litter (Never) | No direct causal link to hospitalization | 0.0 |
+| Votes (Sometimes) | No direct causal link to hospitalization | 0.0 |
+| Sexual Orientation (Heterosexual) | No direct causal link to hospitalization risk | 0.0 |
+| Race (Hispanic) | No independent causal contribution assigned beyond captured SES/access factors | 0.0 |
+| Gender (Non-binary) | No direct causal link to hospitalization in isolation | 0.0 |
+| Favourite Sport (Hockey) | No direct causal link to hospitalization | 0.0 |
+| Birthday Month (March) | No direct causal link to hospitalization | 0.0 |
+| Handedness (Right) | No direct causal link to hospitalization | 0.0 |
+| Hair Color (Black) | No direct causal link to hospitalization | 0.0 |
+| Favourite Color (Green) | No direct causal link to hospitalization | 0.0 |
+| Favourite Meal (Dinner) | No direct causal link to hospitalization | 0.0 |
+| Likes Kids (Yes) | No direct causal link to hospitalization | 0.0 |
+| Best High School Subject (History) | No direct causal link to hospitalization | 0.0 |
+| Height (71 inches) | Within normal range; no independent causal contribution | 0.0 |
+
+**Sum: 3.0 + 0.8 + 0.7 + 0.3 + 0.3 + 0.1 + 0.2 + 0.2 + 0.1 − 0.1 − 0.1 − 0.2 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 = 4.7** ✓
+
+---
+
+### Justification
+
+The dominant causal drivers of this patient's hospitalization risk are extreme age (90), obesity (BMI 32.5), and active smoking, which together create compounding physiological vulnerability across cardiovascular, pulmonary, and metabolic systems. Partially offsetting factors include normal depressive symptom severity on the HAM-D, adequate sleep, and indicators of functional capacity (travel, bilingualism, blood donation), which collectively reduce the acute psychiatric and systemic risk contribution.

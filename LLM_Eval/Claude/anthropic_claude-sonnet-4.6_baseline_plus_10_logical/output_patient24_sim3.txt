@@ -1,0 +1,45 @@
+## Risk Score Calculation for Patient_ID: 24
+
+---
+
+### 1. Final Risk Score: **6.2**
+
+---
+
+### 2. Factor Contributions (Sum = 6.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (52) | Moderate-high age, elevated chronic risk | +1.2 |
+| BMI (16.4) | Severely underweight, high medical risk | +1.5 |
+| Family Health History (Cancer) | Genetic predisposition to serious illness | +0.5 |
+| Current Diagnosis (Bipolar) | Serious psychiatric condition requiring management | +1.0 |
+| Smoking (Yes) | Direct causal risk for hospitalization | +0.7 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-high, compounds psychiatric/physical risk | +0.4 |
+| HAM-D (Mild Depression) | Comorbid depressive symptomatology | +0.3 |
+| Loss of Interest (Yes) | Anhedonia indicating active psychiatric symptom | +0.2 |
+| Hours of Sleep (4.8) | Severe sleep deprivation, destabilizes bipolar | +0.5 |
+| No Driver's License | Reduced healthcare access indicator | +0.1 |
+| Race (Asian) | Neutral relative to baseline | +0.0 |
+| Gender (Male) | Slightly elevated hospitalization tendency | +0.1 |
+| Sexual Orientation (Other) | Minority stress, modest risk elevation | +0.1 |
+| Employment (Employed) | Protective, reduces hospitalization risk | −0.3 |
+| Socioeconomic Status (Middle) | Moderate access to care, partial protection | −0.2 |
+| Likes Vegetables (Yes) | Positive dietary behavior, modest protection | −0.1 |
+| Votes (Always) | Civic engagement correlates with health engagement | −0.1 |
+| Uses Public Transportation (Always) | Functional mobility, modest protection | −0.1 |
+| Donated Blood (Yes) | Indicator of health engagement and access | −0.1 |
+| Been Sad or Fatigued (No) | Absence of key depressive symptom, protective | −0.1 |
+| Drinks Coffee (No) | Neutral/marginally protective for bipolar stability | +0.0 |
+| Picks Up Litter (Sometimes) | Weak prosocial behavior, negligible effect | +0.0 |
+| Favourite Sport (NaN) | Missing data, no contribution assigned | +0.0 |
+| Birthday Month (October) | No established causal link | +0.0 |
+| Height (71 inches) | Contextual to BMI already captured | +0.0 |
+
+**Sum: 1.2 + 1.5 + 0.5 + 1.0 + 0.7 + 0.4 + 0.3 + 0.2 + 0.5 + 0.1 + 0.0 + 0.1 + 0.1 − 0.3 − 0.2 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 + 0.0 + 0.0 + 0.0 + 0.0 + 0.0 = 6.2** ✓
+
+---
+
+### 3. Justification
+
+The dominant risk drivers are the patient's severely underweight BMI (16.4), which causally elevates risk of medical complications and hospitalization, combined with a Bipolar diagnosis destabilized by critically low sleep (4.8 hours), active anhedonia, mild comorbid depression, and ongoing smoking and alcohol use. Protective factors including employment, middle socioeconomic status, dietary habits, and civic/health engagement behaviors partially offset these risks, yielding a final score of **6.2**.

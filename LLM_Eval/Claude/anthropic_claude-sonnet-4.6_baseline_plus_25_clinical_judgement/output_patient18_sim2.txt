@@ -1,0 +1,59 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability | +2.0 |
+| BMI (29.4) | Overweight range; mild cardiometabolic risk | +0.5 |
+| Family Health History (Cancer) | Elevated genetic/surveillance risk | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Smoking (No) | Protective; no pulmonary/cardiovascular smoking risk | −0.5 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; modest risk contribution | +0.2 |
+| HAM-D (Normal/No Depression) | No depressive disorder; protective | −0.3 |
+| Been Sad or Fatigued (No) | No affective symptoms | −0.1 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Healthy sleep duration; protective | −0.2 |
+| Employment (Retired) | Loss of occupational structure; mild risk | +0.2 |
+| Socioeconomic Status (Middle) | Adequate access to care; protective | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive (no caffeine stress) | 0.0 |
+| Likes Vegetables (Yes) | Healthy dietary habit; protective | −0.2 |
+| Favourite Sport (Hockey) | Active interest; mild protective effect | −0.1 |
+| Votes (Never) | Low civic engagement; mild social isolation signal | +0.1 |
+| Height (58 inches / 4'10") | Very short stature for male; BMI recalculated concern elevated | +0.3 |
+| Has Driver's License (Yes) | Mobility and independence; protective | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; neutral | 0.0 |
+| Uses Public Transportation (Sometimes) | Moderate mobility; neutral | 0.0 |
+| Donated Blood (Yes) | Indicates prior health screening; protective | −0.1 |
+| Birthday Month (January) | Winter birth; negligible clinical impact | 0.0 |
+| Water Intake (44.7 oz) | Slightly below recommended (~64 oz); mild concern | +0.2 |
+| Bilingual (Yes) | Cognitive engagement; mild protective | −0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Social connectedness; mild protective | −0.1 |
+| Favourite Meal (Dinner) | No clinical relevance | 0.0 |
+| Favourite Color (Red) | No clinical relevance | 0.0 |
+| Recycling Habits (Never) | Mild indicator of health-conscious behavior absence | +0.1 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (English) | No clinical relevance | 0.0 |
+| Travels (Yes) | Social engagement and activity; protective | −0.1 |
+| Relationship Status (Single) | Reduced social support; mild risk | +0.3 |
+| Favourite Music Genre (Pop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (No) | Possible mobility/balance limitation in elderly male | +0.2 |
+| Religious (Yes) | Social support and coping resource; protective | −0.1 |
+| Phone (Android) | No clinical relevance | 0.0 |
+| Race (White) | Neutral in this context | 0.0 |
+| Gender (Male) | Males statistically at higher risk for underreporting symptoms | +0.2 |
+| Sexual Orientation (Heterosexual) | No differential risk in this context | 0.0 |
+| **TOTAL** | | **+4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a **moderate-low hospitalization risk**, primarily driven by advanced age, overweight BMI, a family history of cancer, single relationship status, and subtle functional indicators (inability to ride a bicycle, suboptimal hydration). Protective factors are substantial, including no current diagnosis, no smoking, no depression, healthy sleep, good diet, and adequate socioeconomic resources, collectively tempering what could otherwise be a higher-risk profile for his demographic.

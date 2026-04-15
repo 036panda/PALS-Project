@@ -1,0 +1,35 @@
+## Patient ID 49 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (34) | Young adult; bipolar disorder often active but not yet compounded by age-related comorbidities | +0.3 |
+| BMI (24.2) | Normal/healthy range; no metabolic risk contribution | 0.0 |
+| Family Health History | Missing/unknown; cannot assess hereditary risk, slight uncertainty penalty | +0.2 |
+| Current Diagnosis (Bipolar) | Primary driver; bipolar disorder carries inherent episodic hospitalization risk | +2.5 |
+| Race (Hispanic) | May face cultural/linguistic barriers to care access, slightly elevating risk | +0.3 |
+| Gender (Female) | Bipolar II and mixed episodes more common in females; modest elevation | +0.2 |
+| Sexual Orientation (Heterosexual) | No significant minority stress contribution in this context | 0.0 |
+| Weekly Alcohol Intake (1 unit) | Minimal; negligible risk contribution | +0.1 |
+| Smoking (No) | Protective; no smoking-related destabilization | −0.3 |
+| HAM-D 0–6 (Normal/No Depression) | Currently not in depressive episode; meaningfully reduces acute risk | −1.2 |
+| Been Sad or Fatigued (Yes) | Subclinical mood symptom; warrants monitoring, mild risk signal | +0.4 |
+| Loss of Interest (No) | Absence of anhedonia is protective | −0.3 |
+| Hours of Sleep (8.3) | Adequate sleep; sleep stability is a key protective factor in bipolar disorder | −0.5 |
+| Employment (Employed) | Structured routine and income; protective against decompensation | −0.4 |
+| Socioeconomic Status (Low) | Limits access to medications, therapy, and follow-up care; elevates risk | +0.9 |
+
+**Sum: +2.5 + 0.3 + 0.2 + 0.2 + 0.3 + 0.2 + 0.1 − 0.3 − 1.2 + 0.4 − 0.3 − 0.5 − 0.4 + 0.9 + 0.0 + 0.0 = 4.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 34-year-old Hispanic female with a bipolar diagnosis presents with a **moderate but currently stabilized risk profile**, supported by normal depressive screening scores, adequate sleep, employment, and absence of smoking or significant alcohol use. However, the combination of **low socioeconomic status**—which may impede consistent access to mood-stabilizing medications and psychiatric follow-up—alongside **subclinical fatigue and sadness** in the context of a bipolar diagnosis warrants close outpatient monitoring to prevent escalation toward a manic or depressive episode requiring hospitalization.

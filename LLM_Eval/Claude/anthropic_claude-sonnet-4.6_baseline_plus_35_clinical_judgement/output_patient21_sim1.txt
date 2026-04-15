@@ -1,0 +1,76 @@
+# Clinical Hospitalization Risk Evaluation — Patient ID: 21
+
+---
+
+## 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+## 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (42) | Middle-aged; moderate clinical risk window | +0.5 |
+| BMI (26.4) | Slightly overweight but near normal; minimal concern | +0.1 |
+| Family Health History (Cancer) | Elevated long-term disease surveillance risk | +0.4 |
+| Current Diagnosis (Anxiety) | Active mental health condition requiring management | +0.6 |
+| Race (Native American) | Documented systemic healthcare access disparities | +0.4 |
+| Gender (Non-binary) | Healthcare navigation barriers; underserved population | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional risk contribution | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic and mood interaction risk | +0.2 |
+| Smoking (No) | Protective factor | -0.3 |
+| HAM-D Score (7–17, Mild Depression) | Clinically significant depressive symptomatology | +0.5 |
+| Been Sad or Fatigued (Yes) | Corroborates depressive symptom burden | +0.3 |
+| Loss of Interest (Yes) | Anhedonia present; reinforces depression severity | +0.3 |
+| Hours of Sleep (10.2) | Hypersomnia; associated with depression and metabolic risk | +0.3 |
+| Employment (Employed) | Stability; mild protective effect | -0.2 |
+| Socioeconomic Status (Middle) | Moderate access to care; neutral-to-protective | -0.1 |
+| Drinks Coffee (No) | No stimulant interaction with anxiety; mildly protective | -0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior | -0.1 |
+| Favourite Sport (NaN) | No physical activity indicated; sedentary risk | +0.2 |
+| Votes (Sometimes) | Mild civic disengagement; marginal social determinant | +0.1 |
+| Height in Inches (63) | Contextual to BMI; no independent risk | 0.0 |
+| Has Driver's License (No) | Transportation barrier; may limit healthcare access | +0.2 |
+| Picks Up Litter (Never) | Reflects low prosocial engagement; marginal | +0.1 |
+| Uses Public Transportation (Never) | Combined with no license; significant access concern | +0.3 |
+| Donated Blood (Yes) | Indicates health engagement and eligibility | -0.1 |
+| Birthday Month (June) | No clinical relevance | 0.0 |
+| Water Intake (44.7 oz) | Below recommended ~64 oz; mild hydration concern | +0.1 |
+| Bilingual (Yes) | May improve healthcare communication | -0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness indicator | -0.1 |
+| Favourite Meal (Breakfast) | Regular breakfast consumption; positive metabolic signal | -0.1 |
+| Favourite Color (Blue) | No clinical relevance | 0.0 |
+| Recycling Habits (Never) | Marginal environmental health behavior indicator | 0.0 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (Math) | Suggests cognitive engagement; mildly protective | -0.1 |
+| Travels (Yes) | Social engagement and mobility; mildly protective | -0.1 |
+| Relationship Status (Dating) | Active social relationship; mild protective effect | -0.1 |
+| Favourite Music Genre (Pop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (No) | Limits physical activity options; mild concern | +0.1 |
+| Religious (Yes) | Associated with coping resilience and social support | -0.2 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+| Wears Glasses (No) | No clinical relevance | 0.0 |
+| Morning or Night (Night) | Night preference may disrupt circadian rhythm; relevant to depression | +0.2 |
+| Allergy (Peanut) | Anaphylaxis risk; requires clinical awareness | +0.2 |
+| Binge Watches TV (No) | Avoids sedentary screen behavior; mildly protective | -0.1 |
+| Favourite Super Store (Walmart) | No clinical relevance | 0.0 |
+| Pet Preference (Guinea Pig) | Mild emotional support indicator | -0.1 |
+| Volunteers (Never) | Low community engagement; marginal social isolation signal | +0.1 |
+| Skips Breakfast (No) | Regular eating pattern; protective metabolic behavior | -0.1 |
+| Favourite Movie Genre (Indie) | No clinical relevance | 0.0 |
+| Registered Organ Donor (Yes) | Reflects health system engagement and altruism | -0.1 |
+
+---
+
+**Sum Verification:**
+Positive contributions: +0.5+0.1+0.4+0.6+0.4+0.2+0.2+0.5+0.3+0.3+0.3+0.2+0.1+0.2+0.1+0.3+0.1+0.1+0.1+0.2+0.1+0.2+0.1+0.1+0.2+0.2 = **+6.8**
+Negative contributions: -0.3-0.2-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.1-0.2-0.1-0.1-0.1-0.1-0.1-0.1-0.1 = **-2.6**
+
+**Net Score: 6.8 − 2.6 = 4.2 ✓**
+
+---
+
+## 3. Clinical Rationale
+
+This 42-year-old non-binary Native American patient presents with a convergence of active anxiety, mild depression confirmed by HAM-D scoring, anhedonia, fatigue, and hypersomnia — a symptom cluster that meaningfully elevates psychiatric hospitalization risk, particularly in the context of documented healthcare access barriers including lack of transportation and systemic disparities affecting Native American populations. Protective factors including employment, middle socioeconomic status, religious engagement, social relationships, and non-smoking status partially offset these risks, yielding a moderate overall hospitalization risk that warrants close outpatient monitoring and proactive mental health intervention.

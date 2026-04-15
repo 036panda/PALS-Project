@@ -1,0 +1,40 @@
+## Hospitalization Risk Evaluation — Patient ID: 1
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age | 22 | −0.3 (youth is generally protective for acute hospitalization) |
+| BMI | 23.8 | −0.2 (healthy BMI range, minimal physiological burden) |
+| Family Health History | Cancer | +0.4 (elevated vigilance warranted; indirect stress burden) |
+| Current Diagnosis | Anxiety | +0.8 (active psychiatric diagnosis increases hospitalization risk) |
+| Race | Other | +0.2 (systemic healthcare access disparities increase risk) |
+| Gender | Non-binary | +0.3 (minority stress, potential barriers to affirming care) |
+| Sexual Orientation | Heterosexual | −0.1 (no additional minority stress from orientation) |
+| Weekly Alcohol Intake | 7 drinks | +0.6 (moderate-to-concerning intake; compounds psychiatric risk) |
+| Smoking | Yes | +0.5 (cardiovascular and pulmonary risk elevation) |
+| HAM-D Score | 25+ Severe Depression | +1.4 (severe depression is a strong independent hospitalization predictor) |
+| Been Sad or Fatigued | No | −0.3 (self-reported absence of sadness/fatigue slightly mitigates) |
+| Loss of Interest | No | −0.2 (absence of anhedonia is modestly protective) |
+| Hours of Sleep | 6.3 hrs | +0.3 (mild sleep deprivation; exacerbates psychiatric symptoms) |
+| Employment | Student | +0.2 (academic stressors; limited income and scheduling flexibility) |
+| Socioeconomic Status | Low | +0.6 (reduced access to outpatient care increases hospitalization likelihood) |
+| Drinks Coffee | No | 0.0 (negligible clinical impact) |
+| Likes Vegetables | Yes | −0.2 (positive dietary behavior, modest protective effect) |
+| Favourite Sport | Hockey | −0.1 (physical activity engagement is mildly protective) |
+| Votes | Sometimes | +0.1 (marginal civic disengagement; proxy for social disconnection) |
+| Height | 59 inches | 0.0 (no independent clinical risk contribution) |
+
+**Sum of all impacts: −0.3 − 0.2 + 0.4 + 0.8 + 0.2 + 0.3 − 0.1 + 0.6 + 0.5 + 1.4 − 0.3 − 0.2 + 0.3 + 0.2 + 0.6 + 0.0 − 0.2 − 0.1 + 0.1 + 0.0 = 6.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 22-year-old non-binary student presents with a clinically significant risk profile driven primarily by a HAM-D score indicating severe depression concurrent with a diagnosed anxiety disorder, compounded by weekly alcohol use, active smoking, low socioeconomic status, and limited healthcare access — all of which synergistically elevate psychiatric decompensation and hospitalization risk. While the patient's healthy BMI, absence of self-reported sadness or anhedonia, and engagement in physical activity and nutritious diet offer modest protective factors, the disconnect between objective severity (HAM-D 25+) and subjective symptom denial warrants careful clinical monitoring and may itself reflect a concerning lack of insight.

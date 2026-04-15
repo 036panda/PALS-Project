@@ -1,0 +1,35 @@
+## Patient_ID: 0 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **7.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (37) | Young adult — moderate vulnerability, not elderly | +0.3 |
+| BMI (20.3) | Low-normal BMI — mild nutritional/physical concern | +0.2 |
+| Family Health History (Heart Disease) | Indirect risk; cardiovascular stress under psychiatric illness | +0.3 |
+| Current Diagnosis (Schizophrenia) | Major psychiatric illness with high hospitalization base rate | +2.5 |
+| Race (Asian) | Potential underutilization of mental health services; stigma barriers | +0.3 |
+| Gender (Female) | Slightly lower aggression risk but higher internalized symptom burden | +0.1 |
+| Sexual Orientation (Homosexual) | Minority stress; elevated psychiatric vulnerability | +0.4 |
+| Weekly Alcohol Intake (3 units) | Moderate; mild compounding effect on psychiatric stability | +0.3 |
+| Smoking (Yes) | Linked to poorer psychiatric outcomes and medication metabolism | +0.4 |
+| HAM-D 25+ (Severe Depression) | Severe depressive comorbidity — significantly elevates crisis risk | +2.0 |
+| Been Sad or Fatigued (No) | Slight protective signal against acute affective decompensation | −0.3 |
+| Loss of Interest (Yes) | Anhedonia present — consistent with depressive severity, functional decline | +0.5 |
+| Hours of Sleep (6.3) | Mildly reduced sleep — relevant to psychiatric destabilization | +0.2 |
+| Employment (Employed) | Protective — structure, social engagement, financial stability | −0.6 |
+| Socioeconomic Status (Middle) | Moderate access to care; partial protective buffer | −0.4 |
+
+**Sum Total: +7.2**
+
+---
+
+### 3. Clinical Rationale
+
+This 37-year-old Asian female with a dual burden of schizophrenia and severe comorbid depression (HAM-D ≥25) presents a substantially elevated hospitalization risk, as the convergence of a primary psychotic disorder with severe affective symptoms is among the strongest predictors of acute psychiatric decompensation and inpatient admission. While employment and middle socioeconomic status provide meaningful stabilizing factors, the presence of anhedonia, minority stress, smoking, and alcohol use collectively erode those protective buffers, sustaining a high overall risk profile warranting close clinical monitoring and possible step-up in care intensity.

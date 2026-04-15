@@ -1,0 +1,35 @@
+## Hospitalization Risk Evaluation — Patient ID: 5
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (61) | Older adult; elevated physiological vulnerability | +1.4 |
+| BMI (25.8) | Normal/healthy range; minimal metabolic concern | −0.3 |
+| Family Health History (Asthma) | Hereditary respiratory risk; moderate relevance | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Race (Black) | Systemic health disparities; elevated chronic disease risk | +0.5 |
+| Gender (Female) | Generally lower acute hospitalization risk vs. male | −0.2 |
+| Sexual Orientation (Heterosexual) | No minority stress-related risk elevation | +0.0 |
+| Weekly Alcohol Intake (1 unit) | Minimal; negligible risk contribution | +0.1 |
+| Smoking (No) | Protective; no pulmonary/cardiovascular smoking burden | −0.5 |
+| HAM-D (Mild Depression, 7–17) | Mild depression; modest psychiatric risk | +0.6 |
+| Been Sad or Fatigued (No) | Symptom absent; mitigates depression severity | −0.3 |
+| Loss of Interest (No) | Symptom absent; further mitigates psychiatric risk | −0.2 |
+| Hours of Sleep (5.4) | Below recommended threshold; immune/cardiovascular risk | +0.7 |
+| Employment (Employed) | Stability and structure; protective factor | −0.4 |
+| Socioeconomic Status (High) | Strong access to care; highly protective | −0.6 |
+
+**Sum Total: +1.4 − 0.3 + 0.5 − 0.8 + 0.5 − 0.2 + 0.0 + 0.1 − 0.5 + 0.6 − 0.3 − 0.2 + 0.7 − 0.4 − 0.6 = 3.8**
+
+---
+
+### 3. Clinical Rationale
+
+This 61-year-old Black female presents with a generally favorable risk profile, anchored by high socioeconomic status, active employment, no current diagnosis, non-smoking status, and absent depressive symptoms despite a mild HAM-D score — all of which substantially buffer hospitalization risk. However, her age-related physiological vulnerability, chronically insufficient sleep (5.4 hours), mild depression, and race-associated systemic health disparities introduce a modest but clinically meaningful cumulative risk that warrants preventive monitoring, particularly around respiratory and cardiovascular health given her family history of asthma.

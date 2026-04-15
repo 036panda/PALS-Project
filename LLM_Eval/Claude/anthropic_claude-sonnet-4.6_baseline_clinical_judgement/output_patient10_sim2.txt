@@ -1,0 +1,35 @@
+## Patient ID: 10 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age | 32 | **+0.2** — Young adult; moderate resilience, but not negligible |
+| BMI | 31.6 | **+0.6** — Class I obesity; elevates cardiometabolic and surgical risk |
+| Family Health History | Cancer | **+0.5** — Genetic predisposition increases long-term morbidity risk |
+| Current Diagnosis | None (NaN) | **−0.3** — No active diagnosed condition slightly lowers acute risk |
+| Race | Asian | **+0.2** — Elevated risk for certain metabolic conditions (e.g., T2DM at lower BMI thresholds) |
+| Gender | Male | **+0.3** — Males statistically less likely to seek care, increasing severity at presentation |
+| Sexual Orientation | Heterosexual | **+0.0** — No significant directional impact identified |
+| Weekly Alcohol Intake | 3 drinks/week | **+0.2** — Mild use; low but non-zero contribution |
+| Smoking | Yes | **+0.8** — Significant independent risk factor for cardiovascular, pulmonary, and oncologic hospitalization |
+| HAM-D Score | 18–24 (Moderate Depression) | **+1.2** — Moderate depression substantially elevates hospitalization risk via self-neglect, comorbidity, and crisis potential |
+| Been Sad or Fatigued | Yes | **+0.5** — Corroborates depressive burden; fatigue may mask or worsen physical illness |
+| Loss of Interest | Yes | **+0.5** — Anhedonia signals deeper psychiatric involvement and treatment non-adherence risk |
+| Hours of Sleep | 7.5 hrs | **−0.2** — Adequate sleep is mildly protective |
+| Employment | Employed | **−0.4** — Provides structure, insurance access, and social engagement |
+| Socioeconomic Status | Low | **+0.7** — Limits healthcare access, medication adherence, and preventive care utilization |
+
+**Sum Total: +0.2 +0.6 +0.5 −0.3 +0.2 +0.3 +0.0 +0.2 +0.8 +1.2 +0.5 +0.5 −0.2 −0.4 +0.7 = 5.8**
+
+---
+
+### 3. Clinical Rationale
+
+This 32-year-old Asian male presents with a convergence of psychiatric, behavioral, and socioeconomic risk factors — most notably moderate depression with affective symptoms (sadness, fatigue, anhedonia), active smoking, obesity, and low socioeconomic status — that collectively create a meaningful hospitalization risk despite his relatively young age and current employment. The absence of a formal current diagnosis may reflect underdiagnosis rather than true health stability, and his low SES likely limits timely intervention, making acute decompensation — particularly psychiatric or cardiometabolic — a clinically plausible near-term concern.

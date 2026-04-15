@@ -1,0 +1,40 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability, organ reserve decline, and comorbidity risk | +2.2 |
+| BMI (29.4) | Overweight range; modest elevation in cardiovascular and metabolic risk | +0.5 |
+| Family Health History (Cancer) | Genetic predisposition to malignancy warrants monitoring; indirect hospitalization risk | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition; meaningfully reduces acute hospitalization likelihood | −1.2 |
+| Smoking (No) | Non-smoker; protective against pulmonary, cardiovascular, and oncologic risk | −0.6 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; within low-risk range, minimal hepatic or systemic concern | +0.1 |
+| HAM-D (0–6 / No Depression) | No depressive burden; mental health stability reduces psychosomatic risk | −0.3 |
+| Been Sad or Fatigued (No) | Absence of fatigue/sadness supports functional resilience | −0.2 |
+| Loss of Interest (No) | No anhedonia; behavioral engagement intact | −0.1 |
+| Hours of Sleep (7.0) | Optimal sleep duration; supports immune and cardiovascular health | −0.2 |
+| Employment (Retired) | Reduced occupational stress; however, reduced structured activity may affect health engagement | +0.1 |
+| Socioeconomic Status (Middle) | Adequate access to healthcare and resources; moderately protective | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly negative (foregoes some cardiovascular/cognitive benefit) | +0.1 |
+| Likes Vegetables (Yes) | Dietary quality supports metabolic and immune health | −0.2 |
+| Favourite Sport (Hockey) | Active sport engagement suggests reasonable physical function for age | −0.2 |
+| Votes (Never) | Associated with lower civic engagement and potentially lower health-seeking behavior | +0.2 |
+| Height (58 inches / 4'10") | Notably short for a male; may reflect measurement anomaly or underlying skeletal/endocrine history | +0.5 |
+| Race (White) | Neutral in this context; no significant directional adjustment applied | 0.0 |
+| Gender (Male) | Males statistically carry higher cardiovascular and delayed care-seeking risk at this age | +0.3 |
+| Sexual Orientation (Heterosexual) | No differential risk applied in this context | 0.0 |
+
+**Sum Total: +2.2 +0.5 +0.5 −1.2 −0.6 +0.1 −0.3 −0.2 −0.1 −0.2 +0.1 −0.2 +0.1 −0.2 −0.2 +0.2 +0.5 +0.0 +0.3 +0.0 = 4.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a largely favorable health profile — no active diagnosis, no smoking, no depression, adequate sleep, and positive dietary habits — which collectively temper his hospitalization risk despite his advanced age. The primary risk drivers are his age-related physiological vulnerability, male sex, family history of cancer, overweight BMI, and a notably anomalous height measurement that may warrant clinical clarification, yielding a moderate-low overall hospitalization risk of **4.2/10**.

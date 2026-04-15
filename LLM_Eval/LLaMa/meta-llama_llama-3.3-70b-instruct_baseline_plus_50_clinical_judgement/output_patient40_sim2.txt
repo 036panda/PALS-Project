@@ -1,0 +1,20 @@
+1. Final Hospitalization Risk Score: 4.8
+
+2. Breakdown of individual attribute impacts:
+   - Age: 26: -0.5 (young age generally lowers health risks)
+   - BMI: 29.1: +1.2 (high BMI increases health risks)
+   - Family_Health_History: Diabetes: +1.5 (family history of diabetes increases risk)
+   - Current_Diagnosis: Bipolar: +2.0 (bipolar diagnosis significantly increases health risks)
+   - Weekly_Alcohol_Intake: 3: -0.2 (moderate alcohol intake has a slight negative impact)
+   - Been_Sad_or_Fatigued: Yes: +0.8 (indicative of potential mental health issues)
+   - Loss_of_Interest: Yes: +0.8 (indicative of potential mental health issues)
+   - Hours_of_Sleep: 6.2: -0.1 (near average sleep hours, minimal impact)
+   - Socioeconomic_Status: Low: +1.0 (lower socioeconomic status increases health risks)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (low depression score decreases risk)
+   - Smoking: No: -0.5 (not smoking decreases health risks)
+   - Allergy: Milk/Eggs: +0.2 (allergies can increase health risks slightly)
+   - Exercises: No: +0.5 (lack of exercise increases health risks)
+   - Water_Intake_oz: 45.5: -0.1 (adequate water intake, minimal negative impact)
+   - Other attributes (e.g., employment, relationship status, dietary preferences, etc.): +0.5 (cumulative minor impacts of various lifestyle and preference factors)
+
+3. The patient's hospitalization risk is elevated primarily due to their bipolar diagnosis, family history of diabetes, and socioeconomic status, which are significant risk factors. However, their young age, lack of smoking, and some healthy lifestyle choices (e.g., moderate alcohol intake, adequate water intake) somewhat mitigate these risks, resulting in a moderate overall hospitalization risk score.

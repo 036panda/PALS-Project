@@ -1,0 +1,55 @@
+## Hospitalization Risk Evaluation — Patient ID: 0
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.4 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (37) | Moderate age, not elderly but not low-risk youth | +0.2 |
+| BMI (20.3) | Low-normal BMI, slight underweight concern | +0.2 |
+| Family Health History | Heart Disease — hereditary cardiovascular risk | +0.4 |
+| Current Diagnosis | Schizophrenia — major psychiatric condition, high hospitalization risk | +2.0 |
+| Race | Asian — some population-specific health disparities | +0.1 |
+| Gender | Female — generally lower cardiovascular risk, slight protective effect | −0.1 |
+| Sexual Orientation | Homosexual — minority stress, elevated mental health burden | +0.2 |
+| Weekly Alcohol Intake (3 drinks) | Moderate, mild risk contribution | +0.2 |
+| Smoking | Yes — significant cardiovascular and pulmonary risk | +0.5 |
+| HAM-D Score (25+) | Severe depression — strongly elevates hospitalization risk | +1.5 |
+| Been Sad or Fatigued | No — slight inconsistency with HAM-D, minor protective signal | −0.1 |
+| Loss of Interest | Yes — anhedonia, consistent with severe depression | +0.3 |
+| Hours of Sleep (6.3) | Mildly insufficient sleep, moderate concern | +0.2 |
+| Employment | Employed — protective social structure | −0.3 |
+| Socioeconomic Status | Middle — moderate access to care, neutral-to-protective | −0.1 |
+| Drinks Coffee | No — neutral/slight protective (no stimulant burden) | 0.0 |
+| Likes Vegetables | Yes — positive dietary habit, mild protective effect | −0.1 |
+| Favourite Sport (Basketball) | Active sport engagement, protective | −0.2 |
+| Votes | Never — civic disengagement, mild social isolation signal | +0.1 |
+| Height (71 inches) | Tall, no clinical concern | 0.0 |
+| Has Driver's License | Yes — functional independence, protective | −0.1 |
+| Picks Up Litter | Sometimes — mild prosocial behavior | −0.05 |
+| Uses Public Transportation | Never — possible social isolation or car-dependent lifestyle | +0.05 |
+| Donated Blood | Yes — health-engaged behavior, protective | −0.1 |
+| Birthday Month (June) | No clinically significant impact | 0.0 |
+| Water Intake (45.1 oz) | Below recommended ~64 oz, mild concern | +0.1 |
+| Bilingual | Yes — cognitive resilience, mild protective effect | −0.1 |
+| Handedness | Right — no clinical impact | 0.0 |
+| Likes Kids | No — minor social preference, negligible impact | 0.0 |
+| Favourite Meal (Dinner) | No clinical significance | 0.0 |
+| Favourite Color (Green) | No clinical significance | 0.0 |
+| Recycling Habits | Sometimes — mild conscientiousness signal | −0.05 |
+| Hair Color (Red) | No clinical significance | 0.0 |
+| Best High School Subject (Math) | Analytical cognition, mild protective (treatment adherence) | −0.05 |
+| Travels | Yes — social engagement and functioning, protective | −0.1 |
+
+**Sum Total: +6.4**
+
+---
+
+### 3. Clinical Rationale
+
+This 37-year-old Asian female with a confirmed diagnosis of schizophrenia and a HAM-D score indicating severe depression represents a clinically significant psychiatric risk profile, where the co-occurrence of a psychotic disorder and severe depressive symptomatology substantially elevates the probability of acute psychiatric hospitalization. Protective factors including stable employment, middle socioeconomic status, physical activity, and social engagement partially mitigate risk, but active smoking, minority stress, anhedonia, and inadequate hydration and sleep sustain an overall elevated risk score of **6.4/10**.

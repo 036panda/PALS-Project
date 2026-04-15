@@ -1,0 +1,45 @@
+## Risk Score: **4.6**
+
+---
+
+### Factor Contributions (Sum = 4.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (53) | Moderate-older adult, elevated chronic risk | +1.2 |
+| BMI (25.3) | Normal/borderline, minimal risk | +0.1 |
+| Family Health History (Asthma) | Respiratory predisposition, limited hospitalization link | +0.1 |
+| Current Diagnosis (Depression) | Active psychiatric diagnosis, direct hospitalization risk | +1.5 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant severity, supports hospitalization risk | +1.0 |
+| Hours of Sleep (5.7) | Below recommended threshold, worsens depression/health | +0.4 |
+| Weekly Alcohol Intake (4 drinks) | Moderate, mild negative interaction with depression | +0.2 |
+| Water Intake (44.1 oz) | Below recommended ~64 oz, mild dehydration risk | +0.1 |
+| Smoking (No) | Protective, reduces respiratory/cardiovascular risk | -0.3 |
+| Employment (Employed) | Stability, access to resources, protective | -0.2 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare, mildly protective | -0.1 |
+| Relationship Status (Single) | Reduced social support, worsens mental health outcomes | +0.2 |
+| Been Sad or Fatigued (No) | Contradicts moderate HAM-D, slight mitigation | -0.1 |
+| Loss of Interest (No) | Contradicts moderate HAM-D, slight mitigation | -0.1 |
+| Drinks Coffee (Yes) | Mild sleep disruption, interacts negatively with low sleep | +0.1 |
+| Likes Vegetables (No) | Poor diet quality, mild health risk | +0.1 |
+| Binge Watches TV (No) | Neutral-to-protective sedentary behavior avoided | -0.1 |
+| Allergy (Dust) | Minor chronic irritant, low hospitalization relevance | +0.1 |
+| Travels (Yes) | Exposure variability, minor risk | +0.1 |
+| Uses Public Transportation (Always) | Increased pathogen exposure, minor risk | +0.1 |
+| Donated Blood (Yes) | Indicates baseline health awareness, mildly protective | -0.1 |
+| Wears Glasses (Yes) | Indicates managed chronic condition, neutral-minor | 0.0 |
+| Votes (Never) | Lower civic engagement, correlated with lower health engagement | +0.1 |
+| Religious (No) | Reduced community/social support network | +0.1 |
+| Race (Black) | Systemic healthcare disparities increase hospitalization risk | +0.3 |
+| Gender (Male) | Males less likely to seek early care, increases risk | +0.1 |
+| Recycling/Lifestyle Habits (Never) | Proxy for lower health-conscious behavior | +0.1 |
+| Can Ride Bicycle (No) | Reduced physical activity options, minor | +0.1 |
+| Favourite Sport (Soccer) | Active sport engagement, mildly protective | -0.1 |
+| All remaining factors (sexual orientation, handedness, phone, color, music, meal, hair, birthday, bilingual, litter, superstore, highschool subject, morning/night) | No established causal link to hospitalization risk | 0.0 |
+
+**Total: +4.6**
+
+---
+
+### Justification
+The score is primarily driven by the active diagnosis of moderate depression (HAM-D 18–24) combined with insufficient sleep, single relationship status, and reduced social/community support, all of which causally elevate psychiatric hospitalization risk. Systemic healthcare access disparities associated with race, partially offset by employment stability, middle socioeconomic status, and absence of smoking, further calibrate the score to reflect a moderate but clinically meaningful hospitalization risk.

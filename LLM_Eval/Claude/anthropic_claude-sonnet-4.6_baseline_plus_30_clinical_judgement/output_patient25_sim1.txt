@@ -1,0 +1,54 @@
+## Patient_ID: 25 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact |
+|---|---|---|
+| Age (63) | Older age increases physiological vulnerability and comorbidity risk | +1.2 |
+| BMI (33.3) | Class I obesity; elevates cardiovascular, metabolic, and surgical risk | +1.0 |
+| Family Health History (Heart Disease) | Genetic predisposition to cardiac events requiring hospitalization | +0.7 |
+| Current Diagnosis (Bipolar) | Mood disorder with episodic severity risk; potential psychiatric hospitalization | +0.8 |
+| HAM-D (Mild Depression, 7–17) | Active depressive symptomatology, though mild; adds psychiatric burden | +0.4 |
+| Race (Hispanic) | Marginally elevated risk for certain chronic conditions (diabetes, CVD) in population data | +0.2 |
+| Gender (Non-binary) | Healthcare access barriers and minority stress may reduce timely care-seeking | +0.2 |
+| Water Intake (44.1 oz) | Below recommended daily intake; mild dehydration risk, especially with obesity | +0.2 |
+| Allergy (Dust) | Respiratory allergen exposure; modest risk for exacerbations | +0.1 |
+| Likes Vegetables (No) | Poor dietary quality; compounds obesity and cardiovascular risk | +0.3 |
+| Smoking (No) | Non-smoker; meaningfully reduces pulmonary and cardiovascular hospitalization risk | -0.4 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use; negligible addictive or hepatic risk | -0.2 |
+| Hours of Sleep (7.7) | Healthy sleep duration; supports metabolic and psychiatric stability | -0.2 |
+| Employment (Retired) | Structured routine absent but financial stress reduced; mild protective effect | -0.1 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare and resources | -0.2 |
+| Been Sad or Fatigued (No) | Absence of current affective somatic symptoms reduces acute psychiatric risk | -0.3 |
+| Loss of Interest (No) | No anhedonia reported; positive indicator for current mood stability | -0.2 |
+| Votes (Always) | Civic engagement correlates with social integration and health-seeking behavior | -0.1 |
+| Travels (Yes) | Suggests functional capacity and quality of life | -0.1 |
+| Relationship Status (Dating) | Social connectedness; mild protective mental health buffer | -0.1 |
+| Religious (Yes) | Religious engagement associated with lower depression severity and better coping | -0.1 |
+| Recycling/Civic Habits (Always) | Reflects conscientiousness; associated with health-promoting behaviors | -0.1 |
+| Donated Blood (Yes) | Indicates baseline health eligibility and health-conscious behavior | -0.1 |
+| Bilingual (Yes) | Cognitive reserve benefit; may improve healthcare navigation | -0.1 |
+| Drinks Coffee (Yes) | Moderate protective association with mood and metabolic markers | -0.1 |
+| Binge-Watches TV (Yes) | Sedentary behavior; compounds obesity and cardiovascular risk | +0.2 |
+| Uses Public Transportation (Never) | Possible social isolation indicator; minor negative signal | +0.1 |
+| Picks Up Litter (Never) | Low prosocial behavior; weak inverse health behavior signal | +0.1 |
+| Favourite Sport (Soccer) | Suggests physical activity interest; mild protective signal | -0.1 |
+| Can Ride Bicycle (Yes) | Functional mobility intact | -0.1 |
+| Has Driver's License (Yes) | Functional independence; access to care | -0.1 |
+| Wears Glasses (No) | No vision impairment noted; neutral to mildly positive | 0.0 |
+| Morning Person (Yes) | Circadian regularity supports mood stability in bipolar patients | -0.1 |
+| Phone (Android) / Superstore (Walmart) | Lifestyle markers; negligible clinical impact | 0.0 |
+| Hair Color, Favorite Color, Music, Meal, Handedness, Birthday Month | Non-clinical lifestyle attributes | 0.0 |
+| **TOTAL** | | **5.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 63-year-old retired Hispanic non-binary individual presents with a moderate hospitalization risk profile driven primarily by the convergence of Class I obesity, a bipolar disorder diagnosis with mild active depressive symptoms (HAM-D 7–17), a family history of heart disease, and suboptimal dietary and hydration habits. Protective factors — including non-smoking status, minimal alcohol use, adequate sleep, social engagement, and current mood symptom stability — partially offset these risks, yielding a clinically meaningful but not immediately critical risk score of 5.2/10.

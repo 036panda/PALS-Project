@@ -1,0 +1,44 @@
+## Patient ID: 2 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (40) | Moderate age; elevated chronic disease risk beginning | +0.5 |
+| BMI (34.6) | Obese Class I; increases cardiometabolic and surgical risk | +1.0 |
+| Family Health History (Cancer) | Genetic predisposition to malignancy; monitoring burden | +0.5 |
+| Current Diagnosis (Bipolar) | Significant psychiatric condition; mood episodes can precipitate hospitalization | +1.2 |
+| Race (White) | No statistically elevated population-level hospitalization disparity | +0.0 |
+| Gender (Non-binary) | Healthcare avoidance and minority stress may delay care-seeking | +0.2 |
+| Sexual Orientation (Bisexual) | Bisexual individuals face elevated mental health burden and care barriers | +0.2 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild interaction risk with bipolar medications | +0.2 |
+| Smoking (No) | Protective; reduces pulmonary and cardiovascular hospitalization risk | −0.4 |
+| HAM-D Score (7–17, Mild Depression) | Active depressive symptomatology alongside bipolar diagnosis | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression score slightly; modest protective signal | −0.1 |
+| Loss of Interest (Yes) | Anhedonia present; consistent with depressive episode, functional impairment | +0.3 |
+| Hours of Sleep (8.9) | Slightly elevated; hypersomnia can signal depressive phase in bipolar | +0.1 |
+| Employment (Employed) | Protective; structure, income, and social engagement reduce risk | −0.4 |
+| Socioeconomic Status (Middle) | Moderate access to care; neither strongly protective nor high-risk | +0.0 |
+| Drinks Coffee (Yes) | Mild stimulant; potential mood interaction in bipolar, minimal clinical weight | +0.1 |
+| Likes Vegetables (No) | Poor dietary quality; contributes to obesity and metabolic risk | +0.2 |
+| Favourite Sport (NaN) | No physical activity indicated; sedentary lifestyle compounds BMI risk | +0.2 |
+| Votes (Always) | Civic engagement correlates with social integration and health awareness | −0.1 |
+| Height (70 inches) | Contextual to BMI calculation; no independent impact | +0.0 |
+| Has Driver's License (Yes) | Indicates functional independence and mobility for care access | −0.1 |
+| Picks Up Litter (Never) | Low prosocial behavior; weak inverse proxy for community connectedness | +0.1 |
+| Uses Public Transportation (Sometimes) | Moderate community engagement; neutral to mildly protective | −0.1 |
+| Donated Blood (No) | No direct clinical relevance to hospitalization risk | +0.0 |
+| Birthday Month (November) | Seasonal affective risk window; minor relevance in bipolar context | +0.1 |
+| **Total** | | **= 4.6** |
+
+---
+
+### 3. Clinical Rationale
+
+This 40-year-old non-binary individual with a confirmed bipolar diagnosis, active anhedonia, mild depressive symptomatology on the HAM-D, and Class I obesity presents a **moderate hospitalization risk**, primarily driven by psychiatric instability and cardiometabolic burden. Protective factors — including stable employment, non-smoking status, and adequate sleep — partially offset risks, but the intersection of bipolar disorder, minority stress, moderate alcohol use, and poor dietary habits warrants close outpatient monitoring to prevent acute psychiatric or medical decompensation.

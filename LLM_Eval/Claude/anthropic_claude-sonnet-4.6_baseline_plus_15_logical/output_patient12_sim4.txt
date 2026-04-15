@@ -1,0 +1,44 @@
+**Risk Score: 6.2**
+
+---
+
+**Factor Contributions:**
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (90) | Very advanced age, strong independent predictor of hospitalization | +3.0 |
+| BMI (32.5) | Obese class I, increases cardiovascular and metabolic risk | +1.0 |
+| Smoking (Yes) | Active smoker, causally linked to respiratory and cardiovascular hospitalization | +0.8 |
+| Family Health History (Hypertension) | Genetic predisposition to cardiovascular disease | +0.4 |
+| Current Diagnosis (Depression) | Associated with poor self-care and comorbidity burden | +0.3 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic and cardiovascular risk contribution | +0.2 |
+| Water Intake (44.2 oz) | Below recommended ~64 oz; mild dehydration risk, especially at age 90 | +0.2 |
+| Likes Vegetables (No) | Poor diet quality, contributes to chronic disease progression | +0.2 |
+| No Driver's License / Uses No Public Transport | Reduced healthcare access, may delay treatment-seeking | +0.1 |
+| HAM-D Score (0–6 Normal) | No active depressive episode detected; mitigates depression diagnosis risk | -0.2 |
+| Been Sad or Fatigued (No) | No current depressive symptoms; reduces acute mental health risk | -0.1 |
+| Loss of Interest (No) | No anhedonia; further mitigates depression-related risk | -0.1 |
+| Hours of Sleep (7.4) | Within healthy range; supports recovery and immune function | -0.1 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare and resources | -0.1 |
+| Employment (Retired) | Reduces occupational stress and physical injury risk | -0.1 |
+| Donated Blood (Yes) | Proxy for recent health screening and civic health engagement | -0.1 |
+| Bilingual (Yes) | Improved healthcare communication capacity | -0.1 |
+| Favourite Sport (Hockey) | Indicates some level of physical interest/activity engagement | -0.1 |
+| Coffee Consumption (Yes) | Mild cardiovascular benefit at moderate intake | -0.1 |
+| Gender (Non-binary) | Potential healthcare access barriers; negligible net effect here | +0.0 |
+| Race (Hispanic) | Systemic healthcare disparities exist; partially offset by middle SES | +0.0 |
+| Sexual Orientation (Heterosexual) | No differential causal contribution identified | +0.0 |
+| Handedness (Right) | No causal link to hospitalization risk | +0.0 |
+| Likes Kids (Yes) | No causal link to hospitalization risk | +0.0 |
+| Votes (Sometimes) | No direct causal link to hospitalization risk | +0.0 |
+| Birthday Month (March) | No causal link to hospitalization risk | +0.0 |
+| Favourite Meal (Dinner) | No causal link to hospitalization risk | +0.0 |
+| Picks Up Litter (Never) | No causal link to hospitalization risk | +0.0 |
+| Height (71 inches) | Already captured in BMI calculation | +0.0 |
+
+**Sum: 3.0 + 1.0 + 0.8 + 0.4 + 0.3 + 0.2 + 0.2 + 0.2 + 0.1 − 0.2 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 = 6.2** ✓
+
+---
+
+**Justification:**
+The score is dominated by the patient's age of 90, which is the single strongest causal predictor of hospitalization due to physiological decline, reduced resilience, and higher comorbidity burden, compounded by obesity, active smoking, and suboptimal hydration and diet. Protective factors including normal HAM-D scores, adequate sleep, middle socioeconomic status, and absence of active depressive symptoms meaningfully offset risk, yielding a moderately high but not maximal score of 6.2.

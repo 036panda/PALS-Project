@@ -1,0 +1,51 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability and comorbidity risk | +2.0 |
+| BMI (29.4) | Overweight range; mild cardiovascular/metabolic risk | +0.5 |
+| Family Health History (Cancer) | Elevated genetic predisposition to oncologic conditions | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| Gender (Male) | Males statistically have higher hospitalization rates at older age | +0.3 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/cardiovascular consideration | +0.1 |
+| Smoking (No) | Non-smoker; significant protective factor | −0.5 |
+| HAM-D (Normal/No Depression) | No depressive disorder; protective for mental health-related admissions | −0.3 |
+| Been Sad or Fatigued (No) | No fatigue symptoms; reduces concern for systemic illness | −0.2 |
+| Loss of Interest (No) | No anhedonia; supports psychological stability | −0.1 |
+| Hours of Sleep (7.0) | Adequate sleep; protective for immune and cardiovascular health | −0.2 |
+| Employment (Retired) | Reduced occupational stress; neutral-to-slightly protective | −0.1 |
+| Socioeconomic Status (Middle) | Moderate healthcare access; generally protective | −0.2 |
+| Water Intake (44.7 oz) | Slightly below recommended ~64 oz; mild hydration concern | +0.1 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective | −0.2 |
+| Skips Breakfast (Yes) | Associated with metabolic dysregulation risk | +0.1 |
+| Allergy (Tree Nuts) | Anaphylaxis risk if exposed; mild hospitalization risk | +0.2 |
+| Height (58 inches / 4'10") | Very short stature for male; BMI recalculated impact may be higher | +0.2 |
+| Binge Watches TV (Yes) | Sedentary behavior; cardiovascular and metabolic risk | +0.2 |
+| Can Ride Bicycle (No) | Suggests limited physical activity repertoire | +0.1 |
+| Travels (Yes) | Exposure to pathogens; minor risk elevation | +0.1 |
+| Relationship Status (Single) | Reduced social support; associated with worse health outcomes | +0.2 |
+| Volunteers (Sometimes) | Social engagement; mildly protective | −0.1 |
+| Donated Blood (Yes) | Indicates generally good baseline health | −0.1 |
+| Wears Glasses (Yes) | Suggests visual impairment; minor fall/injury risk at age 74 | +0.1 |
+| Recycling/Lifestyle Habits | Minimal environmental engagement; neutral | +0.0 |
+| Religious (Yes) | Associated with better mental health outcomes and social support | −0.1 |
+| Bilingual (Yes) | Cognitive reserve; mildly protective against cognitive decline | −0.1 |
+| Registered Organ Donor (No) | No clinical impact on hospitalization risk | +0.0 |
+| Drinks Coffee (No) | Neutral to mildly negative (loss of antioxidant benefit) | +0.0 |
+| Favourite Sport (Hockey) | Suggests historical physical activity interest | −0.1 |
+| Morning Person (Yes) | Associated with better metabolic and sleep health | −0.1 |
+| **TOTAL** | | **+4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with no active diagnosis and strong mental health indicators, which are meaningfully protective; however, his advanced age, overweight BMI (which is likely more significant given his short stature of 4'10"), family history of cancer, sedentary behaviors (binge TV watching, inability to ride a bicycle), single relationship status, and tree nut allergy collectively elevate his hospitalization risk to a moderate level. Clinically, the absence of smoking, good sleep, vegetable consumption, and no depressive symptoms partially offset age-related vulnerabilities, yielding a moderate-risk profile warranting routine preventive monitoring rather than urgent intervention.

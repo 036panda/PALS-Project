@@ -1,0 +1,36 @@
+## Hospitalization Risk Score: **4.3**
+
+---
+
+### Factor Contributions (Sum = 4.3)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases vulnerability | +2.0 |
+| BMI (25.8) | Normal/slightly overweight; minimal risk | +0.2 |
+| Family Health History (Asthma) | Genetic/environmental predisposition to respiratory illness | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosis reduces risk | −0.5 |
+| HAM-D: Mild Depression (7–17) | Mild depression linked to poorer health outcomes | +0.5 |
+| Hours of Sleep (5.4) | Below recommended threshold; increases systemic risk | +0.6 |
+| Weekly Alcohol Intake (1) | Minimal; negligible risk | +0.1 |
+| Smoking (No) | No smoking; protective factor | −0.5 |
+| Water Intake (46.1 oz) | Below optimal (~64 oz); mild dehydration risk | +0.2 |
+| Socioeconomic Status (High) | Better access to healthcare; protective | −0.5 |
+| Employment (Employed) | Stability; protective | −0.2 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective | −0.2 |
+| Travels (Yes) | Exposure to pathogens/stress; slight risk | +0.1 |
+| Donated Blood (No) | Neutral/no direct causal link | 0.0 |
+| Race (Black) | Systemic health disparities increase risk | +0.3 |
+| Gender (Female, Age 61) | Post-menopausal cardiovascular/bone risk | +0.3 |
+| Been Sad or Fatigued (No) | Mitigates depression severity signal | −0.1 |
+| Loss of Interest (No) | Mitigates depression severity signal | −0.1 |
+| Drinks Coffee (No) | Neutral | 0.0 |
+| Uses Public Transportation (Sometimes) | Mild pathogen exposure | +0.1 |
+| All remaining lifestyle/preference factors | (Color, sport, handedness, bilingual, etc.) | 0.0 |
+
+**Total: +4.3**
+
+---
+
+### Justification
+The score is primarily driven by the patient's age of 61, insufficient sleep (5.4 hours), mild depression (HAM-D 7–17), a family history of asthma, and documented racial health disparities, all of which have established causal or epidemiological links to increased hospitalization risk. These risks are partially offset by the absence of smoking, no active diagnosis, high socioeconomic status, employment, and healthy dietary habits, yielding a moderate risk score of 4.3.

@@ -1,0 +1,39 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability and comorbidity risk | +2.2 |
+| BMI (29.4) | Overweight range; mild cardiovascular and metabolic risk elevation | +0.6 |
+| Family Health History (Cancer) | Genetic predisposition to malignancy warrants monitoring | +0.5 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition reduces acute hospitalization risk | −0.8 |
+| Race (White) | No significant directional adjustment in this context | 0.0 |
+| Gender (Male) | Males statistically underutilize preventive care; slight risk elevation | +0.3 |
+| Sexual Orientation (Heterosexual) | No significant directional adjustment | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic and cardiovascular consideration | +0.2 |
+| Smoking (No) | Non-smoker; meaningfully protective | −0.6 |
+| HAM-D (0–6, No Depression) | No depressive burden; protective for overall health outcomes | −0.4 |
+| Been Sad or Fatigued (No) | Reinforces absence of mood/energy disorder | −0.2 |
+| Loss of Interest (No) | Further confirms psychological stability | −0.1 |
+| Hours of Sleep (7.0) | Optimal sleep duration; restorative and protective | −0.3 |
+| Employment (Retired) | Reduced occupational stress; mild social isolation risk possible | +0.1 |
+| Socioeconomic Status (Middle) | Adequate access to healthcare and resources | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive; no significant impact | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit; protective for chronic disease | −0.3 |
+| Favourite Sport (Hockey) | Active engagement in sport suggests functional mobility | −0.2 |
+| Votes (Never) | Associated with lower civic engagement; mild social determinant concern | +0.1 |
+| Height (58 inches / 4'10") | Very short stature for a male; may affect BMI interpretation (actual adiposity higher) | +0.3 |
+| **TOTAL** | | **4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with no active diagnosis, no depression, healthy sleep, non-smoking status, and positive lifestyle behaviors (vegetable consumption, sport participation), which collectively confer meaningful protective effects against near-term hospitalization. However, his advanced age, male sex, family history of cancer, overweight BMI that is likely underestimated given his very short stature, and moderate alcohol use represent cumulative vulnerabilities that place him at a mild-to-moderate hospitalization risk warranting routine geriatric monitoring and cancer screening vigilance.

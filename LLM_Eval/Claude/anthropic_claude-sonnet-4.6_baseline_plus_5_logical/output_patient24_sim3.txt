@@ -1,0 +1,39 @@
+## Risk Score Calculation for Patient_ID: 24
+
+---
+
+### 1. Risk Score: **6.2**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (52) | Moderate-high age, elevated chronic risk | +1.2 |
+| BMI (16.4) | Severely underweight, high medical risk | +1.5 |
+| Family Health History (Cancer) | Genetic predisposition to serious illness | +0.5 |
+| Current Diagnosis (Bipolar) | Serious psychiatric condition requiring management | +1.0 |
+| Weekly Alcohol Intake (7 drinks) | Moderate-risk alcohol use, interacts with Bipolar | +0.5 |
+| Smoking (Yes) | Significant cardiovascular/pulmonary risk factor | +0.6 |
+| HAM-D (Mild Depression, 7–17) | Active depressive symptomatology | +0.4 |
+| Loss of Interest (Yes) | Anhedonia indicating psychiatric deterioration | +0.3 |
+| Hours of Sleep (4.8) | Severe sleep deprivation, worsens Bipolar | +0.5 |
+| Race (Asian) | Neutral for this scoring context | +0.0 |
+| Gender (Male) | Slightly elevated risk-seeking/help-avoidance | +0.1 |
+| Sexual Orientation (Other) | Minority stress, marginally elevated risk | +0.1 |
+| Employment (Employed) | Protective social structure | −0.3 |
+| Socioeconomic Status (Middle) | Moderate access to care, partial protection | −0.2 |
+| Drinks Coffee (No) | Neutral/no stimulant interaction benefit | +0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior, mild protection | −0.1 |
+| Favourite Sport (NaN) | No physical activity benefit captured | +0.1 |
+| Votes (Always) | Civic engagement, mild protective factor | −0.1 |
+| Been Sad or Fatigued (No) | Absence of somatic depressive symptom | −0.2 |
+| Height (71 inches) | Contextual to BMI calculation only | +0.0 |
+| **Total** | | **6.2** |
+
+---
+
+### 3. Justification
+
+The score is primarily driven by the patient's severely underweight BMI of 16.4 (a direct hospitalization risk factor), active Bipolar disorder compounded by mild depression, sleep deprivation, alcohol use, and smoking — all of which causally interact to elevate psychiatric and medical instability. Protective factors including employment, middle socioeconomic status, vegetable consumption, and civic engagement partially offset these risks, yielding a final score of **6.2/10**.

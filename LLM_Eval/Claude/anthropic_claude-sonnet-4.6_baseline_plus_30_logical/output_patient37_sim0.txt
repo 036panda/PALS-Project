@@ -1,0 +1,62 @@
+## Risk Score: **4.6**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (53) | Moderate-high age, elevated chronic risk | +1.2 |
+| BMI (25.3) | Normal/borderline, minimal risk | +0.1 |
+| Family Health History (Asthma) | Respiratory predisposition, indirect hospitalization risk | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric diagnosis, direct hospitalization risk | +1.5 |
+| Race (Black) | Documented systemic healthcare access disparities | +0.3 |
+| Gender (Male) | Males less likely to seek early care, delayed intervention risk | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate, mild risk contribution | +0.2 |
+| Smoking (No) | Protective, no pulmonary/cardiovascular added risk | -0.3 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant depressive severity | +1.0 |
+| Been Sad or Fatigued (No) | Contradicts moderate HAM-D, slight mitigation | -0.2 |
+| Loss of Interest (No) | Contradicts moderate HAM-D, slight mitigation | -0.2 |
+| Hours of Sleep (5.7) | Below recommended threshold, immune/cardiovascular risk | +0.4 |
+| Employment (Employed) | Stability, access to insurance/resources | -0.3 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare | -0.2 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant, negligible risk | +0.1 |
+| Likes Vegetables (No) | Poor dietary habit, long-term health risk | +0.2 |
+| Favourite Sport (Soccer) | Physical activity, protective | -0.2 |
+| Votes (Never) | Civic disengagement, correlated with lower health engagement | +0.1 |
+| Height in Inches (74) | Tall, BMI context normal; no independent risk | 0.0 |
+| Has Driver's License (Yes) | Mobility/access to care | -0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior, negligible health impact | 0.0 |
+| Uses Public Transportation (Always) | Exposure to pathogens, minor risk | +0.1 |
+| Donated Blood (Yes) | Health-conscious behavior, protective signal | -0.1 |
+| Birthday Month (October) | No clinically significant seasonal risk | 0.0 |
+| Water Intake (44.1 oz) | Below recommended ~64 oz/day, mild dehydration risk | +0.2 |
+| Bilingual (No) | No communication barrier benefit | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Social connectedness, mild protective | -0.1 |
+| Favourite Meal (Dinner) | No direct clinical relevance | 0.0 |
+| Favourite Color (Orange) | No clinical relevance | 0.0 |
+| Recycling Habits (Never) | Behavioral disengagement pattern, negligible | 0.0 |
+| Hair Color (Brown) | No clinical relevance | 0.0 |
+| Best High School Subject (English) | No direct clinical relevance | 0.0 |
+| Travels (Yes) | Exposure risk, mild positive risk | +0.1 |
+| Relationship Status (Single) | Reduced social support, elevated mental health risk | +0.3 |
+| Favourite Music Genre (Hip-Hop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (No) | Minor indicator of limited physical activity repertoire | +0.1 |
+| Religious (No) | Reduced community/social support network | +0.1 |
+| Phone (Android) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Minor indicator of sensory health need | +0.1 |
+| Morning or Night (Night) | Night preference linked to disrupted circadian rhythm | +0.2 |
+| Allergy (Dust) | Respiratory allergy, mild hospitalization risk | +0.2 |
+| Binge Watches TV (No) | Avoids sedentary behavior pattern | -0.1 |
+| Favourite Superstore (Walmart) | No direct clinical relevance | 0.0 |
+
+---
+
+**Sum Check:** 1.2+0.1+0.2+1.5+0.3+0.2+0.0+0.2−0.3+1.0−0.2−0.2+0.4−0.3−0.2+0.1+0.2+0.1−0.2+0.0−0.1+0.0−0.1+0.0+0.0+0.2+0.0+0.0−0.1+0.0+0.0+0.0+0.0+0.0+0.1+0.3+0.0+0.1+0.1+0.0+0.1+0.2+0.2−0.1+0.0 = **4.6** ✓
+
+---
+
+### Justification
+The score is primarily driven by the patient's active moderate depression diagnosis (HAM-D 18–24) combined with age-related risk, insufficient sleep, single relationship status, and documented healthcare access disparities associated with race, which collectively create a clinically meaningful elevation in hospitalization risk. Protective factors including employment, middle socioeconomic status, non-smoking status, and physical activity partially offset these risks, yielding a moderate overall score of 4.6.

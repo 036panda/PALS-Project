@@ -1,0 +1,18 @@
+1. 4.82
+2. Input factors and their assigned numerical contributions:
+   - Age: -0.5 (younger age generally associated with lower health risks)
+   - BMI: 1.2 (BMI of 27.1 indicates overweight, contributing to higher health risk)
+   - Family_Health_History: 1.5 (heart disease in family history increases risk)
+   - Current_Diagnosis: 1.0 (schizophrenia contributes to higher health risk)
+   - Weekly_Alcohol_Intake: 0.2 (moderate alcohol intake has mixed effects on health)
+   - HAM-D: 0.8 (mild depression contributes to higher health risk)
+   - Been_Sad_or_Fatigued: 0.3 (symptoms of depression)
+   - Loss_of_Interest: 0.3 (symptoms of depression)
+   - Hours_of_Sleep: -0.2 (adequate sleep generally associated with lower health risks)
+   - Socioeconomic_Status: -0.5 (middle socioeconomic status generally associated with better health outcomes)
+   - Smoking: -0.5 (not smoking reduces health risks)
+   - Exercises: 0.5 (lack of exercise contributes to higher health risk)
+   - Water_Intake_oz: -0.1 (adequate water intake generally associated with lower health risks)
+   - Allergy: 0.2 (presence of allergy contributes to higher health risk)
+   - Other factors (e.g., race, gender, sexual orientation, employment, etc.): 0 (no direct causal relationship established with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health-related factors, such as BMI, family health history, current diagnosis, and symptoms of depression, which have established causal relationships with health outcomes. The score reflects the cumulative effect of these factors, with higher values indicating a greater likelihood of hospitalization due to increased health risks.

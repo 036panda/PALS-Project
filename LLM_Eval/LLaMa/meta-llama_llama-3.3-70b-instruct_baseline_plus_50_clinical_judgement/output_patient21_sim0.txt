@@ -1,0 +1,17 @@
+1. Final Hospitalization Risk Score: 4.8
+2. Breakdown of individual attributes and their numerical impact on risk:
+   - Age: 42: 0.8 (moderate risk due to increasing age)
+   - BMI: 26.4: 1.2 (high risk due to overweight status)
+   - Family_Health_History: Cancer: 1.5 (high risk due to family history of cancer)
+   - Current_Diagnosis: Anxiety: 1.0 (moderate risk due to anxiety diagnosis)
+   - HAM-D: 7–17: Mild Depression: 1.0 (moderate risk due to mild depression)
+   - Been_Sad_or_Fatigued: Yes: 0.5 (low-moderate risk due to reported sadness or fatigue)
+   - Loss_of_Interest: Yes: 0.5 (low-moderate risk due to reported loss of interest)
+   - Weekly_Alcohol_Intake: 4: 0.2 (low risk due to moderate alcohol intake)
+   - Smoking: No: -0.5 (low risk due to non-smoking status)
+   - Hours_of_Sleep: 10.2: -0.2 (low risk due to adequate sleep)
+   - Socioeconomic_Status: Middle: -0.5 (low risk due to middle socioeconomic status)
+   - Exercises: Yes: -0.5 (low risk due to regular exercise)
+   - Allergy: Peanut: 0.1 (low risk due to specific allergy)
+   - Total: 4.8
+3. The patient's hospitalization risk is influenced by their anxiety diagnosis, mild depression, and family history of cancer, which contribute to a moderate risk profile. However, their middle socioeconomic status, regular exercise, and non-smoking status help mitigate this risk, resulting in a final score of 4.8.

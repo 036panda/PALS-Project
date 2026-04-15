@@ -1,0 +1,15 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 73 (+2.5, older age increases risk)
+   - BMI: 22.5 (-0.5, normal BMI decreases risk)
+   - Family_Health_History: Asthma (+1.2, family history of asthma increases risk)
+   - Current_Diagnosis: Anxiety (+1.5, anxiety increases risk)
+   - Weekly_Alcohol_Intake: 6 (+0.8, moderate alcohol intake increases risk)
+   - Been_Sad_or_Fatigued: Yes (+1.0, recent sadness or fatigue increases risk)
+   - Socioeconomic_Status: Low (+1.0, low socioeconomic status increases risk)
+   - HAM-D: 0–6: Normal / No Depression (-1.0, no depression decreases risk)
+   - Loss_of_Interest: No (-0.5, no loss of interest decreases risk)
+   - Hours_of_Sleep: 9.7 (-0.2, adequate sleep decreases risk)
+   - Smoking: No (-1.0, not smoking decreases risk)
+   - All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, lifestyle, and socioeconomic factors, with older age, family history of asthma, anxiety, moderate alcohol intake, and low socioeconomic status contributing to a higher risk score, while normal BMI, no depression, adequate sleep, and not smoking decrease the risk score. The assigned contributions reflect the causal relationships between these factors and hospitalization risk, resulting in a total risk score of 6.8.

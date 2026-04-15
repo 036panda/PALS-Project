@@ -1,0 +1,40 @@
+## Patient ID: 13 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **6.8 / 10**
+
+---
+
+### 2. Detailed Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Current Diagnosis: Schizophrenia | Schizophrenia is a severe psychiatric disorder with high hospitalization rates | +2.5 |
+| HAM-D: Mild Depression (7–17) | Comorbid depressive symptoms alongside schizophrenia elevate decompensation risk | +0.8 |
+| Been Sad or Fatigued | Yes — active affective symptom burden, suggests poor current mental state | +0.5 |
+| Loss of Interest | Yes — anhedonia compounds negative symptom profile in schizophrenia | +0.4 |
+| Smoking | Yes — associated with worse psychiatric outcomes and physical comorbidity | +0.4 |
+| Socioeconomic Status: Low | Limits access to care, medication adherence, and stable support systems | +0.5 |
+| Hours of Sleep: 6.0 | Mildly reduced sleep; can destabilize psychiatric conditions | +0.3 |
+| Likes Vegetables: No | Poor diet quality; associated with worse overall health and psychiatric outcomes | +0.2 |
+| Votes: Never | Proxy for social disengagement and low civic/community integration | +0.2 |
+| Family Health History: Unknown (NaN) | Cannot assess hereditary risk; introduces uncertainty (neutral-slight risk) | +0.1 |
+| Age: 56 | Middle-aged; chronic illness burden increases, moderate risk elevation | +0.2 |
+| BMI: 27.3 | Mildly overweight; modest physical health risk, common in antipsychotic use | +0.2 |
+| Race: Asian | No significant independent elevation; some evidence of underutilization of care | +0.1 |
+| Gender: Other | Non-binary/other gender identity associated with higher mental health burden | +0.2 |
+| Weekly Alcohol Intake: 2 | Low-moderate; minimal additional risk | +0.1 |
+| Employment: Employed | Protective — provides structure, income, and social engagement | −0.5 |
+| Sexual Orientation: Heterosexual | No elevated minority stress risk in this domain | 0.0 |
+| Drinks Coffee: No | Neutral to marginally protective (no stimulant-related sleep disruption) | −0.1 |
+| Favourite Sport: Basketball | Suggests some physical activity engagement; mildly protective | −0.1 |
+| Height: 62 inches | Contextual to BMI calculation; no independent risk | 0.0 |
+
+**Sum of all impacts: +2.5 +0.8 +0.5 +0.4 +0.4 +0.5 +0.3 +0.2 +0.2 +0.1 +0.2 +0.2 +0.1 +0.2 +0.1 − 0.5 − 0.1 − 0.1 = 6.8 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 56-year-old patient with a primary diagnosis of schizophrenia and comorbid mild depression presents with multiple compounding risk factors — including active affective symptoms (sadness, fatigue, anhedonia), low socioeconomic status, smoking, and poor dietary habits — that collectively suggest a clinically meaningful vulnerability to psychiatric decompensation and hospitalization. While current employment provides a meaningful stabilizing buffer, the overall symptom burden, social disengagement indicators, and limited health resources position this patient at a **moderately high hospitalization risk** warranting close outpatient monitoring and proactive care coordination.

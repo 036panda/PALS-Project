@@ -1,0 +1,45 @@
+## Hospitalization Risk Evaluation — Patient ID: 14
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.7 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (18) | Young adult; vulnerability period for psychiatric onset | +0.6 |
+| BMI (30.9) | Obese Class I; metabolic risk, medication side effect profile | +0.4 |
+| Current Diagnosis: Bipolar | Serious mental illness with episodic hospitalization risk | +1.5 |
+| Family Health History: NaN | Unknown; cannot mitigate risk, slight uncertainty penalty | +0.2 |
+| HAM-D: Normal/No Depression | Currently not in depressive episode per scale | −0.8 |
+| Loss of Interest: Yes | Anhedonia present; subclinical mood symptom despite low HAM-D | +0.5 |
+| Been Sad or Fatigued: No | Absence of overt depressive affect | −0.4 |
+| Hours of Sleep (9.7) | Hypersomnia; atypical in bipolar, may signal depressive phase | +0.4 |
+| Gender: Non-binary | Minority stress; elevated psychiatric risk in this population | +0.3 |
+| Sexual Orientation: Bisexual | Additional minority stress layer; higher mood disorder burden | +0.2 |
+| Race: Other | Potential systemic barriers to care access | +0.1 |
+| Socioeconomic Status: Middle | Moderate resource access; partial protective factor | −0.2 |
+| Employment: Student | Structured environment but academic stressors present | +0.1 |
+| Weekly Alcohol Intake (1) | Minimal; low substance interaction risk | −0.1 |
+| Smoking: No | Protective; no nicotine-related comorbidity | −0.1 |
+| Drinks Coffee: No | Neutral to mildly protective for mood stability | −0.05 |
+| Likes Vegetables: No | Poor diet quality; indirect metabolic/mood risk | +0.1 |
+| Favourite Sport: Soccer | Some physical activity engagement; protective | −0.1 |
+| Votes: Never | Civic disengagement; proxy for social disconnection | +0.1 |
+| Has Driver's License: No | Reduced independence/mobility; minor social limitation | +0.05 |
+| Picks Up Litter: Never | Low prosocial behavior; minor social engagement signal | +0.05 |
+| Uses Public Transportation: Never | Possible social isolation indicator | +0.1 |
+| Donated Blood: No | Neutral; no clinical impact | 0.0 |
+| Birthday Month: April | No clinically significant seasonal risk modifier | 0.0 |
+| Height (62 inches) | Within normal range; no independent risk | 0.0 |
+
+**Sum Total: +4.7**
+
+---
+
+### 3. Clinical Rationale
+
+This 18-year-old non-binary student with a confirmed bipolar diagnosis presents a moderate hospitalization risk, driven primarily by the serious and episodic nature of bipolar disorder at a developmentally vulnerable age, compounded by anhedonia and hypersomnia suggesting possible subsyndromal mood disturbance despite a currently normal HAM-D score. Minority stress factors, social disengagement indicators, and poor dietary habits modestly elevate risk, though the absence of active depressive affect, low alcohol use, non-smoking status, and middle socioeconomic standing provide meaningful protective offsets.

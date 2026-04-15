@@ -1,0 +1,49 @@
+## Hospitalization Risk Score: **3.8**
+
+---
+
+### Factor Contributions (Sum = 3.8)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age | 34 | +0.2 |
+| BMI | 24.2 (normal range) | 0.0 |
+| Family Health History | Unknown/NaN | +0.2 |
+| Current Diagnosis | Bipolar Disorder | +2.0 |
+| Race | Hispanic | +0.1 |
+| Gender | Female | 0.0 |
+| Sexual Orientation | Heterosexual | 0.0 |
+| Weekly Alcohol Intake | 1 (very low) | -0.1 |
+| Smoking | No | -0.2 |
+| HAM-D Score | 0–6 Normal/No Depression | -0.5 |
+| Been Sad or Fatigued | Yes | +0.3 |
+| Loss of Interest | No | 0.0 |
+| Hours of Sleep | 8.3 (healthy) | -0.2 |
+| Employment | Employed | -0.3 |
+| Socioeconomic Status | Low | +0.5 |
+| Drinks Coffee | No | 0.0 |
+| Likes Vegetables | No | +0.1 |
+| Favourite Sport | Soccer (active) | -0.1 |
+| Votes | Sometimes | 0.0 |
+| Height | 60 inches | 0.0 |
+| Has Driver's License | Yes | 0.0 |
+| Picks Up Litter | Never | 0.0 |
+| Uses Public Transportation | Always | +0.1 |
+| Donated Blood | No | 0.0 |
+| Birthday Month | November | 0.0 |
+| Water Intake | 44.1 oz (slightly low) | +0.1 |
+| Bilingual | No | 0.0 |
+| Handedness | Right | 0.0 |
+| Likes Kids | Yes | 0.0 |
+| Favourite Meal | Breakfast | 0.0 |
+| Favourite Color | Red | 0.0 |
+| Recycling Habits | Sometimes | 0.0 |
+| Hair Color | Red | 0.0 |
+| Best High School Subject | History | 0.0 |
+| Travels | No | +0.1 |
+| **TOTAL** | | **3.8** |
+
+---
+
+### Justification
+The dominant risk driver is the Bipolar Disorder diagnosis (+2.0), which carries a clinically established elevated hospitalization risk due to mood episode severity and crisis potential, modestly compounded by low socioeconomic status (+0.5) limiting healthcare access and the presence of fatigue/sadness (+0.3) as a prodromal symptom signal. These risks are meaningfully offset by a normal HAM-D score (−0.5), stable employment (−0.3), healthy sleep (−0.2), and non-smoking status (−0.2), yielding a moderate-low overall hospitalization risk of 3.8.

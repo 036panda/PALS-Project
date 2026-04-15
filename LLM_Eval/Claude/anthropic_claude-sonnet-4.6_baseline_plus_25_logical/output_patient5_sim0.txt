@@ -1,0 +1,55 @@
+## Hospitalization Risk Score: **3.8**
+
+---
+
+### Factor Contributions (Sum = 3.8)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk for 60+ age group | +1.5 |
+| BMI (25.8) | Normal/healthy range | −0.2 |
+| Family Health History (Asthma) | Hereditary respiratory risk | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosis | −0.3 |
+| Race (Black) | Systemic healthcare disparity risk factor | +0.4 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age | −0.1 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk | 0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use | −0.1 |
+| Smoking (No) | No smoking-related risk | −0.3 |
+| HAM-D: Mild Depression (7–17) | Mild depression increases health risk | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts/mitigates depression severity | −0.1 |
+| Loss of Interest (No) | Mitigates depression severity | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; immune/cardiovascular risk | +0.6 |
+| Employment (Employed) | Protective socioeconomic factor | −0.2 |
+| Socioeconomic Status (High) | Strong access to healthcare | −0.4 |
+| Drinks Coffee (No) | Neutral; no caffeine-related risk | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.2 |
+| Favourite Sport (Hockey) | Active lifestyle indicator | −0.1 |
+| Votes (Sometimes) | Moderate civic engagement | 0.0 |
+| Height (62 inches) | Within normal range | 0.0 |
+| Has Driver's License (Yes) | Mobility/independence; healthcare access | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; negligible health impact | 0.0 |
+| Uses Public Transportation (Sometimes) | Minor infectious exposure risk | +0.1 |
+| Donated Blood (No) | No direct risk implication | 0.0 |
+| Birthday Month (November) | Seasonal flu/respiratory risk window | +0.1 |
+| Water Intake (46.1 oz) | Slightly below optimal (~64 oz); mild dehydration risk | +0.2 |
+| Bilingual (No) | No communication barrier benefit | 0.0 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Social connectedness; protective | −0.1 |
+| Favourite Meal (Lunch) | No direct health implication | 0.0 |
+| Favourite Color (Yellow) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | No direct health implication | 0.0 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (Science) | Health literacy proxy; protective | −0.1 |
+| Travels (Yes) | Mild infectious/accident exposure risk | +0.1 |
+| Relationship Status (Single) | Reduced social support; mild risk | +0.2 |
+| Favourite Music Genre (Hip-Hop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (Yes) | Physical capability; protective | −0.1 |
+| Religious (No) | Slightly reduced community support network | +0.1 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+
+**Total: +3.8**
+
+---
+
+### Justification
+The score is primarily driven by the patient's age of 61, insufficient sleep (5.4 hours), mild depression (HAM-D 7–17), racial healthcare disparity risk, and family history of asthma, which collectively represent causally established pathways to hospitalization. These risks are meaningfully offset by high socioeconomic status, employment, no smoking, low alcohol intake, healthy BMI, no active diagnosis, and positive dietary and physical activity habits.

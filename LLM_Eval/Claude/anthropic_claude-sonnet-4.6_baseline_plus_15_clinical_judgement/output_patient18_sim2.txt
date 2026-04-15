@@ -1,0 +1,49 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability and comorbidity risk | +2.2 |
+| BMI (29.4) | Overweight range; mild cardiovascular and metabolic risk elevation | +0.5 |
+| Family Health History (Cancer) | Genetic predisposition to malignancy warrants monitoring | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosed condition | −0.8 |
+| HAM-D: Normal / No Depression | No depressive disorder; supports mental health stability | −0.4 |
+| Been Sad or Fatigued (No) | No affective symptoms | −0.2 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Adequate sleep; restorative and protective | −0.2 |
+| Smoking (No) | Significant protective factor for cardiopulmonary health | −0.5 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; within low-risk range for age | +0.1 |
+| Water Intake (44.7 oz) | Slightly below recommended; mild hydration concern for age | +0.1 |
+| Socioeconomic Status (Middle) | Moderate access to healthcare and resources | −0.1 |
+| Employment (Retired) | Reduced occupational stress; possible reduced social engagement | +0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit; supports chronic disease prevention | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive; no caffeine-related cardiovascular stress | −0.1 |
+| Favourite Sport (Hockey) | Suggests history of physical activity; positive lifestyle indicator | −0.2 |
+| Has Driver's License (Yes) | Indicates functional independence and mobility | −0.1 |
+| Uses Public Transportation (Sometimes) | Moderate physical activity and social engagement | −0.1 |
+| Donated Blood (Yes) | Suggests reasonable baseline health and civic engagement | −0.1 |
+| Picks Up Litter (Sometimes) | Mild indicator of prosocial behavior and outdoor activity | −0.1 |
+| Votes (Never) | Mild indicator of social disengagement | +0.1 |
+| Bilingual (Yes) | Associated with cognitive reserve; protective for neurological health | −0.2 |
+| Handedness (Right) | Clinically neutral | +0.0 |
+| Likes Kids (Yes) | Suggests social connectedness; protective psychosocial factor | −0.1 |
+| Race (White) | Elevated statistical risk for certain cancers given family history | +0.1 |
+| Gender (Male) | Males aged 74 carry higher cardiovascular and cancer risk | +0.3 |
+| Sexual Orientation (Heterosexual) | No additional minority stress burden | +0.0 |
+| Height (58 inches) | Short stature; may interact with BMI calculation and mobility | +0.1 |
+| Birthday Month (January) | Seasonal birth; negligible clinical impact | +0.0 |
+| Favourite Meal (Dinner) | No clinically significant impact | +0.0 |
+| **TOTAL** | | **4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a **moderate-low hospitalization risk**, primarily driven by advanced age and male sex in the context of a family history of cancer, with a mildly elevated BMI adding metabolic concern. Protective factors are substantial — including no active diagnosis, no smoking, no depression, adequate sleep, healthy dietary habits, physical activity history, and strong cognitive and social indicators — collectively offsetting the age- and sex-related vulnerabilities to yield a balanced, below-midpoint risk profile.

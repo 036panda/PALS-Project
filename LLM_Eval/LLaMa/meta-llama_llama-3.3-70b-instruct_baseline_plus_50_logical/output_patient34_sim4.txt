@@ -1,0 +1,14 @@
+1. Risk Score: 6.2
+2. Input Factors and Contributions:
+   - Age: -1.5 (lower risk due to younger age)
+   - BMI: 2.5 (higher risk due to high BMI)
+   - Current_Diagnosis: Anxiety: 1.2 (moderate risk due to anxiety diagnosis)
+   - Smoking: 1.8 (higher risk due to smoking)
+   - Been_Sad_or_Fatigued: 0.8 (moderate risk due to reported sadness or fatigue)
+   - Loss_of_Interest: 0.8 (moderate risk due to reported loss of interest)
+   - HAM-D: 0–6: Normal / No Depression: -1.0 (lower risk due to no depression)
+   - Hours_of_Sleep: 9.1: -0.5 (lower risk due to adequate sleep)
+   - Employment: Student: -0.5 (lower risk due to student status)
+   - Socioeconomic_Status: Middle: 0 (neutral risk due to middle socioeconomic status)
+   - All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, with higher BMI, smoking, anxiety diagnosis, and reported sadness or fatigue contributing to a higher risk score, while younger age, no depression, adequate sleep, and student status contribute to a lower risk score. The contributions of each factor are assigned based on their relative impact on hospitalization risk, with the sum of all contributions equaling the final risk score.

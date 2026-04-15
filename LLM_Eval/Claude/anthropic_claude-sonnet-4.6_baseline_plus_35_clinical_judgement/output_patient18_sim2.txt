@@ -1,0 +1,72 @@
+## Patient 18 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (74) | Older age increases physiological vulnerability | +1.8 |
+| BMI (29.4) | Overweight range, mild cardiometabolic risk | +0.5 |
+| Family Health History (Cancer) | Elevated genetic/surveillance risk | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosis reduces acute risk | −0.8 |
+| Race (White) | Neutral epidemiological baseline | 0.0 |
+| Gender (Male) | Males statistically higher hospitalization rates | +0.3 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress risk | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/cardiovascular concern | +0.2 |
+| Smoking (No) | Significant protective factor | −0.6 |
+| HAM-D (Normal/No Depression) | No depressive burden | −0.3 |
+| Been Sad or Fatigued (No) | No affective symptom load | −0.1 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Adequate sleep, restorative | −0.2 |
+| Employment (Retired) | Reduced occupational stress; possible social isolation risk | +0.1 |
+| Socioeconomic Status (Middle) | Adequate healthcare access | −0.2 |
+| Drinks Coffee (No) | Neutral to mildly positive (no caffeine stress) | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.2 |
+| Favourite Sport (Hockey) | Active interest; mild injury risk at age 74 | +0.1 |
+| Votes (Never) | Low civic engagement; mild social disengagement signal | +0.1 |
+| Height (58 inches / 4'10") | Very short stature for male; BMI recalculated concern elevated | +0.3 |
+| Has Driver's License (Yes) | Functional independence, mobility maintained | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior | 0.0 |
+| Uses Public Transportation (Sometimes) | Moderate community engagement | 0.0 |
+| Donated Blood (Yes) | Suggests reasonable baseline health history | −0.1 |
+| Birthday Month (January) | No clinically significant impact | 0.0 |
+| Water Intake (44.7 oz) | Below recommended ~64 oz; mild hydration concern | +0.2 |
+| Bilingual (Yes) | Cognitive engagement, mild protective | −0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Positive social connectedness | −0.1 |
+| Favourite Meal (Dinner) | No clinical relevance | 0.0 |
+| Favourite Color (Red) | No clinical relevance | 0.0 |
+| Recycling Habits (Never) | Mild indicator of health-conscious behavior deficit | +0.1 |
+| Hair Color (Black) | No clinical relevance | 0.0 |
+| Best High School Subject (English) | No clinical relevance | 0.0 |
+| Travels (Yes) | Positive engagement; mild infection/exertion exposure risk at age | +0.1 |
+| Relationship Status (Single) | Reduced social support; mild risk for delayed care-seeking | +0.2 |
+| Favourite Music Genre (Pop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (No) | Mild indicator of physical limitation | +0.1 |
+| Religious (Yes) | Protective psychosocial coping resource | −0.1 |
+| Phone (Android) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Sensory impairment; mild fall/functional risk at age | +0.1 |
+| Morning or Night (Morning) | Circadian regularity; protective | −0.1 |
+| Allergy (Tree Nuts) | Anaphylaxis risk if exposed; mild hospitalization risk | +0.2 |
+| Binge-Watches TV (Yes) | Sedentary behavior indicator | +0.2 |
+| Favourite Super Store (Target) | No clinical relevance | 0.0 |
+| Pet Preference (Bird) | Low-demand pet; mild positive companionship | −0.1 |
+| Volunteers (Sometimes) | Positive social engagement | −0.1 |
+| Skips Breakfast (Yes) | Poor nutritional habit; metabolic concern | +0.2 |
+| Favourite Movie Genre (Sci-Fi) | No clinical relevance | 0.0 |
+| Registered Organ Donor (No) | No direct clinical risk impact | 0.0 |
+
+---
+
+**Sum Total: +4.2**
+
+---
+
+### 3. Clinical Rationale
+
+This 74-year-old retired White male presents with a **moderate-low hospitalization risk**, primarily driven by his advanced age, overweight BMI, family history of cancer, single relationship status, sedentary behaviors (binge-watching, skipping breakfast, suboptimal hydration), and tree nut allergy. Protective factors — including no current diagnosis, no smoking, no depression, adequate sleep, vegetable consumption, and middle socioeconomic status with healthcare access — substantially offset these risks, yielding an overall score reflective of age-related vulnerability without acute clinical burden.

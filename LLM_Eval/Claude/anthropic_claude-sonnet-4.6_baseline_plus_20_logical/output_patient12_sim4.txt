@@ -1,0 +1,53 @@
+## Risk Score: **4.7**
+
+---
+
+### Exhaustive Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (90) | Extreme elderly age; strong independent predictor of hospitalization | +3.0 |
+| BMI (32.5) | Obese class I; increases cardiovascular and metabolic strain | +1.0 |
+| Family Health History: Hypertension | Genetic predisposition to cardiovascular disease | +0.5 |
+| Current Diagnosis: Depression | Active diagnosis increases health system utilization risk | +0.5 |
+| Smoking: Yes | Direct causal risk for pulmonary, cardiovascular, oncologic events | +0.8 |
+| Weekly Alcohol Intake: 4 drinks | Moderate; mild hepatic and systemic risk | +0.2 |
+| HAM-D Score: 0–6 (Normal) | Contradicts severity of depression diagnosis; reduces psychiatric hospitalization risk | −0.5 |
+| Been Sad or Fatigued: No | No active depressive symptom burden | −0.2 |
+| Loss of Interest: No | No anhedonia; reduces functional decline risk | −0.1 |
+| Hours of Sleep: 7.4 | Within healthy range; protective for immune and cardiovascular function | −0.2 |
+| Water Intake: 44.2 oz | Below recommended ~64 oz; mild dehydration risk, especially at age 90 | +0.2 |
+| Likes Vegetables: No | Poor dietary quality; contributes to chronic disease progression | +0.2 |
+| Socioeconomic Status: Middle | Moderate healthcare access; neither strongly protective nor risk-elevating | +0.0 |
+| Employment: Retired | Reduced occupational stress; mild protective effect on mental health | −0.1 |
+| Uses Public Transportation: Never | Reduced mobility/independence indicator at age 90; mild isolation risk | +0.1 |
+| Has Driver's License: No | At age 90, consistent with functional decline or mobility limitation | +0.1 |
+| Drinks Coffee: Yes | Mild cardiovascular stimulant; negligible net effect at moderate use | +0.0 |
+| Travels: Yes | Indicates functional capacity and engagement; protective | −0.1 |
+| Bilingual: Yes | Associated with cognitive reserve; mild protective effect | −0.1 |
+| Donated Blood: Yes | Indicates prior health screening and civic health engagement; mildly protective | −0.1 |
+| Recycling Habits: Always | Proxy for health-conscious behavior; negligible direct causal link | +0.0 |
+| Favourite Sport: Hockey | Indicates interest in physical activity; negligible direct causal contribution | +0.0 |
+| Votes: Sometimes | Weak proxy for social engagement; negligible | +0.0 |
+| Picks Up Litter: Never | No causal relationship with hospitalization risk | +0.0 |
+| Race: Hispanic | No independent causal contribution assigned beyond documented factors | +0.0 |
+| Gender: Non-binary | No independent causal contribution assigned beyond documented factors | +0.0 |
+| Sexual Orientation: Heterosexual | No independent causal contribution assigned | +0.0 |
+| Birthday Month: March | No causal relationship with hospitalization risk | +0.0 |
+| Handedness: Right | No causal relationship with hospitalization risk | +0.0 |
+| Likes Kids: Yes | No causal relationship with hospitalization risk | +0.0 |
+| Favourite Meal: Dinner | No causal relationship with hospitalization risk | +0.0 |
+| Favourite Color: Green | No causal relationship with hospitalization risk | +0.0 |
+| Hair Color: Black | No causal relationship with hospitalization risk | +0.0 |
+| Best High School Subject: History | No causal relationship with hospitalization risk | +0.0 |
+| Height: 71 inches | Within normal range; no independent causal contribution beyond BMI | +0.0 |
+
+---
+
+**Sum Check:** 3.0 + 1.0 + 0.5 + 0.5 + 0.8 + 0.2 + 0.2 + 0.2 + 0.1 + 0.1 − 0.5 − 0.2 − 0.1 − 0.2 − 0.1 − 0.1 − 0.1 − 0.1 = **4.7** ✓
+
+---
+
+### Justification
+
+The score of 4.7 is driven primarily by the patient's extreme age of 90, which is the single strongest causal predictor of hospitalization due to physiological frailty, immune senescence, and reduced organ reserve, compounded by active smoking, obesity (BMI 32.5), a hypertension family history, and a current depression diagnosis. Protective factors—including normal HAM-D scores, adequate sleep, absence of active depressive symptoms, travel capacity, bilingualism, and retirement—partially offset these risks, while numerous lifestyle and demographic variables with no established causal pathway to hospitalization were assigned zero contribution.

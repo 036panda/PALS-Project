@@ -1,0 +1,39 @@
+## Hospitalization Risk Evaluation — Patient ID: 8
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age | 29 | −0.3 (young adult, lower baseline medical complexity) |
+| BMI | 25.9 | +0.1 (marginally overweight, minimal concern) |
+| Family Health History | NaN | +0.2 (unknown history adds mild uncertainty) |
+| Current Diagnosis | Anxiety | +0.8 (active psychiatric diagnosis increases risk) |
+| Race | Asian | +0.1 (some population-specific health access disparities) |
+| Gender | Male | +0.2 (males less likely to seek early care, delayed intervention risk) |
+| Sexual Orientation | Heterosexual | 0.0 (no significant directional impact) |
+| Weekly Alcohol Intake | 5 drinks | +0.3 (moderate use, mild concern for anxiety exacerbation) |
+| Smoking | No | −0.4 (protective factor) |
+| HAM-D Score | 0–6 Normal | −0.5 (no clinical depression severity detected) |
+| Been Sad or Fatigued | Yes | +0.5 (symptomatic overlap with mood disorder, concerning) |
+| Loss of Interest | Yes | +0.6 (anhedonia is a significant psychiatric warning sign) |
+| Hours of Sleep | 3.7 hrs | +1.2 (severe sleep deprivation; major risk amplifier) |
+| Employment | Employed | −0.4 (protective; structure and financial stability) |
+| Socioeconomic Status | Middle | −0.2 (moderate protective buffer) |
+| Drinks Coffee | No | 0.0 (neutral in this context) |
+| Likes Vegetables | Yes | −0.2 (positive health behavior, mild protective effect) |
+| Favourite Sport | Soccer | −0.2 (physical activity engagement, protective) |
+| Votes | Sometimes | +0.1 (mild civic disengagement, marginal social indicator) |
+| Height | 60 inches | 0.0 (no independent clinical risk) |
+| **TOTAL** | | **= 4.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 29-year-old employed Asian male with a current anxiety diagnosis presents a **moderate hospitalization risk**, driven primarily by severely insufficient sleep (3.7 hours/night), active anhedonia, and persistent fatigue — a triad that, despite a normal HAM-D score, suggests subclinical or emerging mood dysregulation that may not yet be fully captured by standardized screening. Protective factors including employment, middle socioeconomic status, non-smoking status, and physical activity partially offset these concerns, but the sleep deprivation alone warrants urgent clinical attention and close monitoring to prevent psychiatric decompensation.

@@ -1,0 +1,52 @@
+## Hospitalization Risk Score
+
+**Risk Score: 4.7**
+
+---
+
+### Factor Contributions (Sum = 4.7)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age | 22 | -0.30 |
+| BMI | 23.8 | -0.20 |
+| Family Health History | Cancer | +0.50 |
+| Current Diagnosis | Anxiety | +0.60 |
+| Race | Other | +0.10 |
+| Gender | Non-binary | +0.10 |
+| Sexual Orientation | Heterosexual | 0.00 |
+| Weekly Alcohol Intake | 7 drinks | +0.40 |
+| Smoking | Yes | +0.70 |
+| HAM-D Score | 25+ Severe Depression | +0.90 |
+| Been Sad or Fatigued | No | -0.20 |
+| Loss of Interest | No | -0.20 |
+| Hours of Sleep | 6.3 hrs | +0.20 |
+| Employment | Student | +0.10 |
+| Socioeconomic Status | Low | +0.50 |
+| Drinks Coffee | No | 0.00 |
+| Likes Vegetables | Yes | -0.10 |
+| Favourite Sport | Hockey | -0.05 |
+| Votes | Sometimes | +0.05 |
+| Height in Inches | 59 in | 0.00 |
+| Has Driver's License | No | +0.10 |
+| Picks Up Litter | Sometimes | 0.00 |
+| Uses Public Transportation | Never | +0.10 |
+| Donated Blood | No | 0.00 |
+| Birthday Month | May | 0.00 |
+| Water Intake | 44.0 oz | +0.20 |
+| Bilingual | Yes | -0.05 |
+| Handedness | Right | 0.00 |
+| Likes Kids | Yes | -0.05 |
+| Favourite Meal | Lunch | 0.00 |
+| Favourite Color | Green | 0.00 |
+| Recycling Habits | Never | +0.05 |
+| Hair Color | Brown | 0.00 |
+| Best High School Subject | Science | -0.05 |
+| Travels | Yes | -0.10 |
+| **Total** | | **4.70** |
+
+---
+
+### Justification
+
+The score is primarily driven by clinically and causally significant factors: a severe HAM-D depression rating (25+) combined with an active anxiety diagnosis, regular smoking, moderate alcohol intake, low socioeconomic status, and a family history of cancer collectively represent the strongest direct contributors to hospitalization risk, as these factors are empirically linked to acute health crises, mental health hospitalizations, and reduced access to preventive care. Mitigating factors such as young age, healthy BMI, normal vegetable consumption, and the absence of self-reported sadness/fatigue or loss of interest partially offset these risks, while lifestyle and demographic variables with no established causal pathway to hospitalization (e.g., favorite color, hair color, handedness) are assigned zero contribution.

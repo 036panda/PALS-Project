@@ -1,0 +1,44 @@
+## Patient ID: 3 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (64) | Older adult, elevated vulnerability | +1.2 |
+| BMI (29.9) | Overweight threshold, mild cardiometabolic risk | +0.4 |
+| Family Health History (Asthma) | Moderate hereditary respiratory concern | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric condition requiring monitoring | +1.0 |
+| Race (Native American) | Documented healthcare access disparities, elevated chronic disease risk | +0.5 |
+| Gender (Male) | Males less likely to seek early care, delayed intervention risk | +0.3 |
+| Sexual Orientation (Heterosexual) | No significant directional impact | 0.0 |
+| Weekly Alcohol Intake (2 drinks) | Low-moderate, minimal risk | +0.1 |
+| Smoking (No) | Protective factor | -0.4 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant depressive severity | +0.8 |
+| Been Sad or Fatigued (No) | Mild inconsistency with diagnosis, slight protective signal | -0.2 |
+| Loss of Interest (Yes) | Anhedonia present, core depressive symptom, functional impairment risk | +0.4 |
+| Hours of Sleep (6.4) | Mildly below optimal, contributes to mood and health instability | +0.2 |
+| Employment (Retired) | Reduced structured routine, mild social isolation risk | +0.2 |
+| Socioeconomic Status (Middle) | Moderate access to care, neutral-to-slight protective | -0.1 |
+| Drinks Coffee (Yes) | Mild stimulant, negligible clinical impact | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior, mild protective | -0.1 |
+| Favourite Sport (Soccer) | Suggests physical activity engagement, protective | -0.2 |
+| Votes (Always) | Civic engagement, correlates with social connectedness | -0.1 |
+| Height (65 inches) | Contextual to BMI, no independent impact | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence, mild protective | -0.1 |
+| Picks Up Litter (Never) | Low prosocial behavior, minor indicator of disengagement | +0.1 |
+| Uses Public Transportation (Sometimes) | Moderate community engagement | 0.0 |
+| Donated Blood (Yes) | Indicates health engagement and prosocial behavior | -0.1 |
+| Birthday Month (March) | No clinically significant impact | 0.0 |
+| **TOTAL** | | **5.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This 64-year-old retired Native American male presents with moderate depression (HAM-D 18–24) and clinically notable anhedonia, which together represent the primary drivers of hospitalization risk, particularly given the well-documented underutilization of mental health services in his demographic and the functional impairment associated with loss of interest. Protective factors including non-smoking status, moderate physical activity, adequate diet, and middle socioeconomic standing partially offset risk, yielding a moderate overall hospitalization probability that warrants close outpatient monitoring and proactive psychiatric follow-up.

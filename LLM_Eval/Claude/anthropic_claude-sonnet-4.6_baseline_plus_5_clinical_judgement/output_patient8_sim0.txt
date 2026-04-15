@@ -1,0 +1,39 @@
+## Hospitalization Risk Evaluation — Patient ID: 8
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.8 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (29) | Young adult; lower baseline vulnerability | **−0.5** |
+| BMI (25.9) | Slightly above normal; minimal concern | **+0.2** |
+| Family Health History | Unknown/NaN; cannot mitigate risk | **+0.2** |
+| Current Diagnosis: Anxiety | Active psychiatric diagnosis; core driver | **+1.2** |
+| Race: Asian | Some cultural barriers to help-seeking | **+0.2** |
+| Gender: Male | Males less likely to seek care; underreporting risk | **+0.3** |
+| Sexual Orientation: Heterosexual | No additional minority stress factor | **−0.1** |
+| Weekly Alcohol Intake: 5 drinks | Moderate; mild anxiolytic misuse risk | **+0.4** |
+| Smoking: No | Protective factor | **−0.3** |
+| HAM-D: 0–6 (Normal/No Depression) | Low depressive severity on scale | **−0.5** |
+| Been Sad or Fatigued: Yes | Contradicts HAM-D; subclinical affective burden | **+0.5** |
+| Loss of Interest: Yes | Anhedonia present; functional impairment signal | **+0.6** |
+| Hours of Sleep: 3.7 | Severely disrupted sleep; major risk amplifier | **+1.4** |
+| Employment: Employed | Protective; structure and income present | **−0.4** |
+| Socioeconomic Status: Middle | Moderate access to care | **−0.2** |
+| Drinks Coffee: No | Neutral to mildly protective for anxiety | **−0.1** |
+| Likes Vegetables: Yes | Positive health behavior | **−0.1** |
+| Favourite Sport: Soccer | Active lifestyle; protective | **−0.2** |
+| Votes: Sometimes | Mild civic disengagement; marginal | **+0.1** |
+| Height: 60 inches | No direct clinical risk | **0.0** |
+| **TOTAL** | | **= 4.8** |
+
+---
+
+### 3. Clinical Rationale
+
+This 29-year-old employed Asian male with a primary anxiety diagnosis presents a **moderate hospitalization risk**, driven predominantly by severely insufficient sleep (3.7 hours/night), the presence of anhedonia and fatigue that contradict an otherwise low HAM-D score, and moderate alcohol use that may reflect self-medication behavior. While protective factors such as employment, active lifestyle, and absence of smoking partially offset risk, the convergence of sleep deprivation, loss of interest, and an uncharacterized family history warrants close outpatient monitoring and possible escalation of care if symptom trajectory worsens.

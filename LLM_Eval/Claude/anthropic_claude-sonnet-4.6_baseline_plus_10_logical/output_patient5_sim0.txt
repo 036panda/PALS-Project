@@ -1,0 +1,42 @@
+## Risk Score: 3.6
+
+---
+
+### Factor Contributions (Sum = 3.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Elevated risk; older age increases hospitalization likelihood | +1.5 |
+| BMI (25.8) | Normal/healthy range; minimal risk | +0.1 |
+| Family Health History (Asthma) | Hereditary respiratory risk factor | +0.4 |
+| Current Diagnosis (None/NaN) | No active diagnosis reduces risk | −0.5 |
+| Race (Black) | Documented systemic healthcare access disparities increase risk | +0.4 |
+| Gender (Female) | Slightly lower hospitalization risk relative to male at this age | −0.1 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | +0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use; negligible risk | +0.1 |
+| Smoking (No) | Absence of smoking significantly reduces risk | −0.5 |
+| HAM-D: Mild Depression (7–17) | Mild depression causally linked to reduced self-care and health outcomes | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity; mitigates mental health risk | −0.2 |
+| Loss of Interest (No) | Further mitigates functional impairment from depression | −0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold; sleep deprivation increases health risk | +0.5 |
+| Employment (Employed) | Stable employment reduces risk via access and routine | −0.3 |
+| Socioeconomic Status (High) | High SES strongly protective; better access to care | −0.6 |
+| Drinks Coffee (No) | Neutral; no meaningful causal contribution | +0.0 |
+| Likes Vegetables (Yes) | Healthier diet causally reduces chronic disease risk | −0.2 |
+| Favourite Sport (Hockey) | Indicates physical activity; reduces risk | −0.1 |
+| Votes (Sometimes) | Marginal civic engagement; weak proxy for social connectedness | +0.0 |
+| Height in Inches (62) | Contextual to BMI calculation; already captured | +0.0 |
+| Has Driver's License (Yes) | Indicates mobility and healthcare access | −0.1 |
+| Picks Up Litter (Sometimes) | Proxy for prosocial behavior; negligible direct causal link | +0.0 |
+| Uses Public Transportation (Sometimes) | Slight infectious exposure risk | +0.1 |
+| Donated Blood (No) | No direct causal hospitalization link | +0.0 |
+| Birthday Month (November) | Seasonal respiratory risk (flu season proximity) | +0.1 |
+
+---
+
+**Total: 3.6**
+
+---
+
+### Justification
+This score is driven primarily by the patient's age (61), mild depression (HAM-D 7–17), insufficient sleep (5.4 hours), family history of asthma, and race-based healthcare disparity factors, all of which causally elevate hospitalization risk. These risks are substantially offset by high socioeconomic status, no smoking, no active diagnosis, employment, healthy diet, and physical activity, which together reflect strong protective causal pathways reducing the likelihood of hospitalization.

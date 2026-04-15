@@ -1,0 +1,39 @@
+## Risk Score Calculation for Patient_ID: 13
+
+---
+
+### 1. Risk Score: **6.2**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (56) | Moderate-high age, elevated chronic risk | +1.2 |
+| BMI (27.3) | Slightly overweight, mild metabolic risk | +0.3 |
+| Family Health History | NaN / Unknown | +0.0 |
+| Current Diagnosis: Schizophrenia | High hospitalization-associated psychiatric condition | +2.0 |
+| Race: Asian | No significant directional risk modifier applied | +0.0 |
+| Gender: Other | Minority gender identity, associated with healthcare barriers | +0.2 |
+| Sexual Orientation: Heterosexual | No elevated risk modifier | +0.0 |
+| Weekly Alcohol Intake: 2 | Low intake, minimal risk | +0.1 |
+| Smoking: Yes | Established risk factor for hospitalization | +0.5 |
+| HAM-D: Mild Depression (7–17) | Comorbid depressive symptomatology | +0.6 |
+| Been Sad or Fatigued: Yes | Corroborates depressive burden | +0.2 |
+| Loss of Interest: Yes | Corroborates depressive/negative symptom burden | +0.2 |
+| Hours of Sleep: 6.0 | Mildly insufficient sleep, modest risk | +0.2 |
+| Employment: Employed | Protective factor, social structure and income | −0.4 |
+| Socioeconomic Status: Low | Reduced access to care, elevated hospitalization risk | +0.5 |
+| Drinks Coffee: No | Neutral/no protective stimulant effect | +0.0 |
+| Likes Vegetables: No | Poor diet quality, modest health risk | +0.2 |
+| Favourite Sport: Basketball | Physical activity engagement, protective | −0.3 |
+| Votes: Never | Civic disengagement, proxy for social marginalization | +0.2 |
+| Height (62 inches) | Contextual to BMI; no independent contribution beyond BMI | +0.0 |
+| **Total** | | **6.2** |
+
+---
+
+### 3. Justification
+
+The dominant risk driver is the Schizophrenia diagnosis, which carries a substantially elevated empirical hospitalization rate due to acute psychotic episodes, medication non-adherence, and crisis presentations, compounded by comorbid mild depression (HAM-D score, sadness, fatigue, and loss of interest) that increases psychiatric instability. Low socioeconomic status, smoking, mild sleep insufficiency, and social marginalization indicators (non-voting, gender minority status, poor diet) additively elevate risk, while employment and physical activity engagement provide partial protective offsets.

@@ -1,0 +1,45 @@
+## Hospitalization Risk Evaluation — Patient ID: 34
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age | 19 | +0.2 (young age generally protective, but adolescent vulnerability adds slight risk) |
+| BMI | 46.7 | +2.1 (severe obesity; significant risk for comorbidities, metabolic complications) |
+| Family Health History | NaN | +0.2 (unknown history introduces uncertainty; cannot rule out hereditary risk) |
+| Current Diagnosis | Anxiety | +0.6 (active psychiatric diagnosis; may escalate without adequate management) |
+| Race | Asian | −0.1 (some population-level protective cardiovascular trends, slight offset) |
+| Gender | Female | +0.1 (females with anxiety and mood symptoms carry elevated somatic risk) |
+| Sexual Orientation | Heterosexual | 0.0 (no significant directional impact in this context) |
+| Weekly Alcohol Intake | 0 | −0.3 (abstinence is protective) |
+| Smoking | Yes | +0.5 (active smoker; elevates cardiopulmonary and systemic risk) |
+| HAM-D Score | 0–6 (Normal) | −0.4 (no clinically significant depressive episode per structured measure) |
+| Been Sad or Fatigued | Yes | +0.3 (subclinical mood symptoms present; warrants monitoring) |
+| Loss of Interest | Yes | +0.3 (anhedonia present; may indicate emerging depressive trajectory) |
+| Hours of Sleep | 9.1 | +0.1 (hypersomnia can signal mood dysregulation or metabolic issues) |
+| Employment | Student | −0.1 (structured daily routine mildly protective) |
+| Socioeconomic Status | Middle | −0.2 (moderate resource access; some buffer against health deterioration) |
+| Drinks Coffee | Yes | 0.0 (minimal net clinical impact at unspecified quantity) |
+| Likes Vegetables | No | +0.3 (poor dietary habits compound obesity and metabolic risk) |
+| Favourite Sport | Basketball | −0.2 (engagement with sport suggests some physical activity interest) |
+| Votes | Sometimes | 0.0 (civic engagement; negligible direct clinical impact) |
+| Height | 62 inches | 0.0 (factored into BMI; no additional independent impact) |
+| Has Driver's License | No | +0.1 (possible mobility/independence limitation; minor social stressor) |
+| Picks Up Litter | Always | −0.1 (prosocial behavior; mild indicator of conscientiousness and community engagement) |
+| Uses Public Transportation | Always | −0.1 (implies some daily physical activity and community integration) |
+| Donated Blood | No | 0.0 (no direct clinical risk implication) |
+| Birthday Month | December | 0.0 (no clinically significant seasonal birth risk in this profile) |
+
+**Sum of all impacts: +2.1 +0.2 +0.2 +0.6 −0.1 +0.1 +0.0 −0.3 +0.5 −0.4 +0.3 +0.3 +0.1 −0.1 −0.2 +0.0 +0.3 −0.2 +0.0 +0.0 +0.1 −0.1 −0.1 +0.0 +0.0 = 5.2**
+
+---
+
+### 3. Clinical Rationale
+
+This 19-year-old Asian female presents with a concerning combination of severe obesity (BMI 46.7), active smoking, a current anxiety diagnosis, and subclinical mood symptoms (sadness, fatigue, and anhedonia) that are inconsistent with her normal HAM-D score, suggesting possible underreporting or early-stage mood disorder evolution. While her abstinence from alcohol, middle socioeconomic standing, and student status offer modest protective factors, the metabolic burden of morbid obesity compounded by poor dietary habits and active smoking substantially elevates her risk for acute hospitalization related to cardiopulmonary, metabolic, or psychiatric decompensation.

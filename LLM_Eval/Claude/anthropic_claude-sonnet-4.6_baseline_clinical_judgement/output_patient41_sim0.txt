@@ -1,0 +1,34 @@
+## Patient 41 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.0 / 10**
+
+---
+
+### 2. Attribute Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age | 22 | −0.5 (young age, generally lower hospitalization risk) |
+| BMI | 21.9 | −0.5 (healthy BMI range, no metabolic burden) |
+| Family Health History | Cancer | +1.0 (elevated genetic/surveillance risk, not yet manifested) |
+| Current Diagnosis | None (NaN) | −1.0 (absence of active diagnosed condition significantly reduces risk) |
+| Race | White | +0.1 (minor consideration; some cancer-type predispositions) |
+| Gender | Non-binary | +0.3 (marginalized identity; potential barriers to care access and stress burden) |
+| Sexual Orientation | Heterosexual | +0.0 (no significant directional impact) |
+| Weekly Alcohol Intake | 3 units | +0.2 (low-moderate; minimal clinical concern) |
+| Smoking | No | −0.5 (protective; no pulmonary or cardiovascular smoking risk) |
+| HAM-D Score | Mild Depression (7–17) | +1.5 (clinically meaningful; mild depression can escalate if untreated) |
+| Been Sad or Fatigued | No | −0.5 (contradicts HAM-D mild range; suggests possible subclinical or resolving state) |
+| Loss of Interest | No | −0.3 (further mitigates depressive symptom severity) |
+| Hours of Sleep | 9.6 hrs | +0.5 (hypersomnia may reflect underlying mood or physiological dysregulation) |
+| Employment | Employed | −0.5 (social structure, financial stability, protective factor) |
+| Socioeconomic Status | Middle | −0.3 (adequate resources for healthcare access) |
+| **Total** | | **= 3.0** |
+
+---
+
+### 3. Clinical Rationale
+
+This 22-year-old non-binary individual presents with a mild depression rating on the HAM-D alongside hypersomnia, yet self-reports no sadness, fatigue, or loss of interest, suggesting either subclinical or early-stage mood dysregulation that warrants monitoring but does not currently indicate acute decompensation. The absence of an active diagnosis, healthy BMI, non-smoking status, stable employment, and middle socioeconomic standing collectively buffer against near-term hospitalization, though the family history of cancer and identity-related healthcare access barriers merit ongoing clinical vigilance.

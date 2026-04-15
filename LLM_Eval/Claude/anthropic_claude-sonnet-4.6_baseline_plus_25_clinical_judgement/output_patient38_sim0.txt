@@ -1,0 +1,58 @@
+## Hospitalization Risk Evaluation — Patient ID: 38
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (62) | Older age increases medical vulnerability | +1.2 |
+| BMI (33.4) | Obese class I — elevated cardiometabolic risk | +0.8 |
+| Current Diagnosis (Depression) | Active psychiatric diagnosis requiring monitoring | +0.7 |
+| HAM-D Score (7–17, Mild) | Mild severity — lower acute hospitalization risk | +0.3 |
+| Been Sad or Fatigued (Yes) | Active depressive symptom present | +0.2 |
+| Loss of Interest (Yes) | Anhedonia — reinforces depressive burden | +0.2 |
+| Hours of Sleep (6.7) | Slightly below optimal — mild concern | +0.1 |
+| Socioeconomic Status (Low) | Limits healthcare access and treatment adherence | +0.5 |
+| Employment (Retired) | Reduced social structure; potential isolation risk | +0.2 |
+| No Driver's License | Limits healthcare access and mobility | +0.2 |
+| Uses Public Transportation (Always) | Consistent with low SES and access barriers | +0.1 |
+| Water Intake (44.6 oz) | Below recommended — mild hydration concern | +0.1 |
+| Recycling Habits (Never) | Proxy for lower health-conscious behavior | +0.05 |
+| Votes (Sometimes) | Mild civic disengagement — marginal social factor | +0.05 |
+| Family Health History (NaN) | Unknown — cannot mitigate risk | +0.1 |
+| Sexual Orientation (Bisexual) | Minority stress may contribute to mental health burden | +0.1 |
+| Weekly Alcohol Intake (1) | Very low — minimal risk contribution | -0.1 |
+| Smoking (No) | Significant protective factor | -0.4 |
+| Likes Vegetables (Yes) | Positive dietary behavior | -0.2 |
+| Drinks Coffee (Yes) | Mild mood/alertness benefit; neutral-to-positive | -0.05 |
+| Relationship Status (Dating) | Active social connection — protective | -0.2 |
+| Travels (Yes) | Suggests functional capacity and engagement | -0.2 |
+| Donated Blood (Yes) | Indicator of health engagement and civic behavior | -0.1 |
+| Likes Kids (Yes) | Suggests prosocial orientation and purpose | -0.1 |
+| Favourite Sport (Soccer) | Physical activity interest — protective | -0.1 |
+| Can Ride Bicycle (Yes) | Physical capability intact | -0.05 |
+| Favourite Meal (Breakfast) | Associated with structured daily routine | -0.05 |
+| Religious (No) | Absence of spiritual support network — marginal | +0.05 |
+| Bilingual (No) | Neutral in this context | 0.00 |
+| Handedness (Right) | No clinical relevance | 0.00 |
+| Hair Color (Brown) | No clinical relevance | 0.00 |
+| Favourite Color (Green) | No clinical relevance | 0.00 |
+| Favourite Music (Country) | No clinical relevance | 0.00 |
+| Phone (Apple) | No clinical relevance | 0.00 |
+| Birthday Month (February) | No significant clinical relevance | 0.00 |
+| Best High School Subject (Science) | No direct clinical relevance | 0.00 |
+| Picks Up Litter (Sometimes) | Marginal civic engagement indicator | 0.00 |
+| Race (White) | No independent risk adjustment applied | 0.00 |
+| Gender (Male) | Males less likely to seek care — marginal concern | +0.05 |
+| **TOTAL** | | **4.60** |
+
+---
+
+### 3. Clinical Rationale
+
+This 62-year-old retired male presents with mild depression (HAM-D 7–17), active symptoms of fatigue, sadness, and anhedonia, compounded by obesity (BMI 33.4) and low socioeconomic status, which collectively elevate hospitalization risk through reduced healthcare access and cardiometabolic vulnerability. Protective factors — including non-smoking status, social engagement via a dating relationship, travel capacity, and health-conscious dietary behaviors — meaningfully offset acute risk, placing this patient at a **moderate (4.6/10)** hospitalization risk warranting close outpatient monitoring rather than immediate inpatient intervention.

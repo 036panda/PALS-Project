@@ -1,0 +1,50 @@
+## Hospitalization Risk Score: **3.2**
+
+---
+
+### Factor Contributions (Sum = 3.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age | 34 | +0.2 |
+| BMI | 23.1 (normal) | 0.0 |
+| Family Health History | NaN (unknown) | +0.2 |
+| Current Diagnosis | Depression | +1.5 |
+| Race | Other | +0.1 |
+| Gender | Female | +0.1 |
+| Sexual Orientation | Heterosexual | 0.0 |
+| Weekly Alcohol Intake | 2 (low) | -0.1 |
+| Smoking | No | -0.3 |
+| HAM-D Score | 0–6 Normal/No Depression | -0.8 |
+| Been Sad or Fatigued | Yes | +0.4 |
+| Loss of Interest | No | -0.2 |
+| Hours of Sleep | 7.0 (adequate) | -0.2 |
+| Employment | Employed | -0.3 |
+| Socioeconomic Status | Low | +0.5 |
+| Drinks Coffee | Yes | 0.0 |
+| Likes Vegetables | No | +0.1 |
+| Favourite Sport | Hockey | 0.0 |
+| Votes | Sometimes | 0.0 |
+| Height in Inches | 73 | 0.0 |
+| Has Driver's License | Yes | -0.1 |
+| Picks Up Litter | Always | 0.0 |
+| Uses Public Transportation | Never | 0.0 |
+| Donated Blood | Yes | -0.1 |
+| Birthday Month | November | 0.0 |
+| Water Intake | 45.2 oz (below ~64 oz recommended) | +0.2 |
+| Bilingual | Yes | -0.1 |
+| Handedness | Right | 0.0 |
+| Likes Kids | Yes | 0.0 |
+| Favourite Meal | Breakfast | 0.0 |
+| Favourite Color | Yellow | 0.0 |
+| Recycling Habits | Always | 0.0 |
+| Hair Color | Black | 0.0 |
+| Best High School Subject | Science | 0.0 |
+| Travels | Yes | -0.2 |
+
+**Total: 3.2**
+
+---
+
+### Justification
+The score is primarily driven upward by the formal diagnosis of Depression (+1.5) and low socioeconomic status (+0.5), which are causally linked to reduced healthcare access and crisis escalation risk, alongside residual symptomatic fatigue and unknown family history. These risks are substantially offset by a normal HAM-D score indicating currently mild-to-absent depressive severity, stable employment, adequate sleep, non-smoking status, and no loss of interest, collectively reflecting functional stability that reduces acute hospitalization likelihood.

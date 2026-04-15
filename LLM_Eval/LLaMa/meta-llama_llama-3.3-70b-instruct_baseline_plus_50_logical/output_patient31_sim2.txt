@@ -1,0 +1,14 @@
+1. 7.8
+2. Input factors and their assigned contributions:
+   - Age: 36, contribution: 0.5 (positive, as increasing age is associated with higher hospitalization risk)
+   - BMI: 36.8, contribution: 2.0 (positive, as high BMI is associated with higher hospitalization risk)
+   - Family_Health_History: Hypertension, contribution: 1.2 (positive, as family history of hypertension increases hospitalization risk)
+   - Weekly_Alcohol_Intake: 7, contribution: 0.8 (positive, as moderate to high alcohol intake increases hospitalization risk)
+   - Smoking: Yes, contribution: 1.5 (positive, as smoking is a significant risk factor for hospitalization)
+   - Been_Sad_or_Fatigued: Yes, contribution: 0.3 (positive, as mental health issues can increase hospitalization risk)
+   - Loss_of_Interest: Yes, contribution: 0.3 (positive, as mental health issues can increase hospitalization risk)
+   - Hours_of_Sleep: 5.7, contribution: 0.2 (positive, as inadequate sleep increases hospitalization risk)
+   - Socioeconomic_Status: Middle, contribution: -0.5 (negative, as middle socioeconomic status is associated with lower hospitalization risk compared to lower socioeconomic status)
+   - HAM-D: 0–6, contribution: -0.5 (negative, as normal depression score indicates lower hospitalization risk)
+   - All other factors: 0 (no direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health-related factors, such as high BMI, family history of hypertension, smoking, and moderate alcohol intake, which are known to increase the risk of hospitalization. The score reflects the cumulative effect of these factors, with each contribution weighted according to its relative impact on hospitalization risk.

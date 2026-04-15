@@ -1,0 +1,59 @@
+## Patient 33 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (42) | Middle-aged; moderate chronic disease risk | +0.5 |
+| BMI (13.4) | Severely underweight; high clinical concern for malnutrition, organ stress | +2.2 |
+| Family Health History (Diabetes) | Elevated metabolic/endocrine risk | +0.4 |
+| Current Diagnosis (NaN) | No active diagnosis on record | −0.3 |
+| Race (Native American) | Elevated population-level health disparity risk | +0.3 |
+| Gender (Other) | Healthcare access barriers; minority stress | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional minority stress from orientation | +0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild hepatic/metabolic concern | +0.2 |
+| Smoking (No) | Protective | −0.3 |
+| HAM-D (Mild Depression, 7–17) | Mild depression; some functional impairment | +0.4 |
+| Been Sad or Fatigued (No) | Inconsistent with depression but reduces acute concern | −0.1 |
+| Loss of Interest (Yes) | Anhedonia present; supports depressive symptomatology | +0.2 |
+| Hours of Sleep (5.0) | Insufficient sleep; immune and metabolic consequences | +0.4 |
+| Employment (Employed) | Stability; protective | −0.2 |
+| Socioeconomic Status (Middle) | Moderate access to care | −0.1 |
+| Drinks Coffee (Yes) | Mild diuretic concern given low water intake | +0.1 |
+| Likes Vegetables (Yes) | Positive dietary behavior | −0.1 |
+| Favourite Sport (Soccer) | Physical activity; protective | −0.2 |
+| Votes (Never) | Civic disengagement; mild social isolation signal | +0.1 |
+| Height (64 inches) | Context for BMI calculation; no independent impact | +0.0 |
+| Has Driver's License (No) | Potential transportation barrier to care | +0.1 |
+| Picks Up Litter (Always) | Prosocial behavior; positive mental health signal | −0.1 |
+| Uses Public Transportation (Sometimes) | Partial mobility; mild access concern | +0.0 |
+| Donated Blood (Yes) | Civic health engagement; protective signal | −0.1 |
+| Birthday Month (February) | No clinically significant impact | +0.0 |
+| Water Intake (44.2 oz) | Below recommended; dehydration risk, especially with low BMI | +0.3 |
+| Bilingual (Yes) | Potential healthcare navigation advantage | −0.1 |
+| Handedness (Right) | No clinical impact | +0.0 |
+| Likes Kids (Yes) | Positive social connectedness signal | −0.1 |
+| Favourite Meal (Lunch) | No significant clinical impact | +0.0 |
+| Favourite Color (Red) | No clinical impact | +0.0 |
+| Recycling Habits (Always) | Positive behavioral conscientiousness | −0.1 |
+| Hair Color (Blonde) | No clinical impact | +0.0 |
+| Best High School Subject (Science) | Health literacy potential; protective | −0.1 |
+| Travels (Yes) | Exposure risk but also social engagement; neutral | +0.0 |
+| Relationship Status (Single) | Reduced social support; mild risk | +0.2 |
+| Favourite Music Genre (Pop) | No clinical impact | +0.0 |
+| Can Ride Bicycle (Yes) | Physical capability; protective | −0.1 |
+| Religious (No) | Slightly reduced community support network | +0.1 |
+| Phone (Apple) | No clinical impact | +0.0 |
+| **TOTAL** | | **5.2** |
+
+---
+
+### 3. Clinical Rationale
+
+This patient's most clinically alarming feature is a BMI of 13.4, which falls within the range of severe undernutrition and carries significant risk for cardiac arrhythmia, immune compromise, and organ failure, warranting close medical monitoring and potential inpatient nutritional intervention. Compounding this are mild depressive symptoms with anhedonia, insufficient sleep, suboptimal hydration, and social vulnerability as a single individual from a health-disparate population, though protective factors such as employment, physical activity, and absence of smoking partially offset the overall risk.

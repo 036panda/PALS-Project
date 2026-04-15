@@ -1,0 +1,39 @@
+## Hospitalization Risk Evaluation — Patient ID: 37
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Impact on Risk |
+|---|---|---|
+| Age (53) | Middle-aged; elevated chronic disease vulnerability | +1.0 |
+| BMI (25.3) | Normal/borderline; minimal metabolic concern | +0.1 |
+| Family Health History (Asthma) | Respiratory vulnerability; indirect risk | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric condition; core driver of risk | +1.5 |
+| Race (Black) | Systemic healthcare disparities; undertreatment risk | +0.4 |
+| Gender (Male) | Males less likely to seek care; delayed intervention risk | +0.3 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress factor | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild depressant interaction concern | +0.3 |
+| Smoking (No) | Protective; no pulmonary/cardiovascular added risk | −0.4 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant; warrants close monitoring | +1.0 |
+| Been Sad or Fatigued (No) | Contradicts HAM-D; may reflect underreporting | −0.2 |
+| Loss of Interest (No) | Absence of anhedonia; partial protective signal | −0.2 |
+| Hours of Sleep (5.7) | Below recommended threshold; worsens psychiatric outcomes | +0.5 |
+| Employment (Employed) | Structured routine; social engagement protective | −0.4 |
+| Socioeconomic Status (Middle) | Moderate access to care; partial buffer | −0.2 |
+| Drinks Coffee (Yes) | Mild stimulant; may disrupt sleep further | +0.1 |
+| Likes Vegetables (No) | Poor dietary pattern; indirect health risk | +0.2 |
+| Favourite Sport (Soccer) | Physical activity engagement; protective | −0.3 |
+| Votes (Never) | Civic disengagement; correlates with social disconnection | +0.2 |
+| Height (74 inches) | Anthropometric context; no independent risk | 0.0 |
+| **Total** | | **= 4.6** |
+
+---
+
+### 3. Clinical Rationale
+
+This 53-year-old Black male presents with moderate depression (HAM-D 18–24) compounded by insufficient sleep and mild alcohol use, which together sustain a meaningful psychiatric hospitalization risk despite his employment stability and absence of self-reported sadness or anhedonia. The discordance between his HAM-D score and subjective symptom denial raises concern for underreporting, and systemic barriers to care access in this demographic further elevate the likelihood of delayed intervention before a potential acute episode.

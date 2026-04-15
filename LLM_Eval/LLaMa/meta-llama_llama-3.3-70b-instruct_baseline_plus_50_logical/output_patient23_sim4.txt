@@ -1,0 +1,18 @@
+1. 6.8
+2. Input factors and their assigned numerical contributions:
+   - Age: 56: 0.8 (positive, as older age is associated with higher hospitalization risk)
+   - BMI: 31.1: 1.2 (positive, as high BMI is associated with higher hospitalization risk)
+   - Family_Health_History: Asthma: 0.5 (positive, as family history of asthma may increase hospitalization risk)
+   - Current_Diagnosis: Scizophrenia: 1.5 (positive, as schizophrenia is associated with higher hospitalization risk)
+   - Race: Black: 0.2 (positive, as Black individuals may face health disparities)
+   - Gender: Other: 0.1 (positive, as non-binary individuals may face unique health challenges)
+   - Weekly_Alcohol_Intake: 0: -0.5 (negative, as no alcohol intake reduces hospitalization risk)
+   - Smoking: No: -0.5 (negative, as not smoking reduces hospitalization risk)
+   - HAM-D: 0–6: Normal / No Depression: -0.8 (negative, as no depression reduces hospitalization risk)
+   - Been_Sad_or_Fatigued: No: -0.2 (negative, as no sadness or fatigue reduces hospitalization risk)
+   - Loss_of_Interest: Yes: 0.8 (positive, as loss of interest may indicate underlying health issues)
+   - Hours_of_Sleep: 8.0: -0.2 (negative, as adequate sleep reduces hospitalization risk)
+   - Employment: Employed: -0.5 (negative, as employment is associated with better health outcomes)
+   - Socioeconomic_Status: Middle: -0.3 (negative, as middle socioeconomic status is associated with relatively better health outcomes)
+   - All other factors: 0 (no direct causal relationship with hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, demographic characteristics, and lifestyle factors, with a focus on established causal relationships between these factors and hospitalization risk. The score reflects the cumulative effect of positive and negative contributions from each factor, providing a comprehensive assessment of the individual's hospitalization risk.

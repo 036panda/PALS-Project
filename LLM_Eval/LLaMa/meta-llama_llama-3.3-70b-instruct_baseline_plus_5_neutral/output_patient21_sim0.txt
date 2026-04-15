@@ -1,0 +1,20 @@
+1. Risk Assessment Score: 6.2
+2. Parameters and risk values:
+	* Age: 42: 0.5
+	* BMI: 26.4: 1.2 (high BMI increases risk)
+	* Family_Health_History: Cancer: 1.5 (family history of cancer increases risk)
+	* Current_Diagnosis: Anxiety: 1.0
+	* Race: Native American: 0.8 (Native Americans have higher rates of certain health issues)
+	* Gender: Non-binary: 0.2 (minority stress may contribute to health issues)
+	* Weekly_Alcohol_Intake: 4: 0.5 (moderate alcohol intake)
+	* Smoking: No: -1.0 (not smoking reduces risk)
+	* HAM-D: 7-17: Mild Depression: 1.8
+	* Been_Sad_or_Fatigued: Yes: 1.2
+	* Loss_of_Interest: Yes: 1.2
+	* Hours_of_Sleep: 10.2: -0.5 (adequate sleep reduces risk)
+	* Employment: Employed: -0.5 (employment reduces risk)
+	* Socioeconomic_Status: Middle: 0.0 (neutral)
+	* Drinks_Coffee: No: 0.0 (neutral)
+	* Likes_Vegetables: Yes: -0.5 (healthy diet reduces risk)
+	* Height_in_Inches: 63: 0.0 (neutral)
+3. The patient's risk score is elevated due to their family history of cancer, anxiety diagnosis, and symptoms of mild depression, which contribute to a higher risk of hospitalization. However, their employment status, adequate sleep, and healthy diet help mitigate this risk to some extent.

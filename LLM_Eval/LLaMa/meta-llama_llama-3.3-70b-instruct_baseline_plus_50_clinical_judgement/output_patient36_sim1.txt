@@ -1,0 +1,18 @@
+1. Final Hospitalization Risk Score: 8.2
+
+2. Breakdown of individual attribute impacts:
+   - Age: 68: +2.5 (increased risk due to age-related health decline)
+   - BMI: 29.7: +1.2 (obesity-related health risks)
+   - Family_Health_History: Hypertension: +1.0 (genetic predisposition to cardiovascular diseases)
+   - Current_Diagnosis: Schizophrenia: +2.0 (serious mental health condition requiring frequent medical intervention)
+   - HAM-D: 25+: Severe Depression: +2.5 (high risk of suicide, hospitalization due to severe depression)
+   - Been_Sad_or_Fatigued: Yes: +0.5 (indicative of current mental health struggles)
+   - Loss_of_Interest: Yes: +0.5 (symptom of depression)
+   - Smoking: Yes: +1.5 (significant risk factor for numerous health issues)
+   - Socioeconomic_Status: Low: +1.0 (barriers to healthcare access and increased stress)
+   - Exercises: No: +0.5 (lack of physical activity contributes to various health risks)
+   - Allergy: Animal Dander: +0.2 (potential for allergic reactions)
+   - Weekly_Alcohol_Intake: 3: -0.2 (moderate alcohol consumption may have some health benefits, but in the context of other factors, its negative impact is considered minimal)
+   - Other attributes: 0 (no significant direct impact on hospitalization risk)
+
+3. The patient's severe depression, schizophrenia, smoking habit, and lack of exercise significantly increase the risk of hospitalization, reflecting a complex interplay of mental and physical health challenges that necessitate close medical supervision. The patient's socioeconomic status and family health history of hypertension further exacerbate these risks, contributing to a high likelihood of hospitalization.

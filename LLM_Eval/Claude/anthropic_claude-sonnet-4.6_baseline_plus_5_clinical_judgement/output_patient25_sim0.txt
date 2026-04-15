@@ -1,0 +1,40 @@
+## Patient ID: 25 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (63) | Older age increases medical vulnerability and comorbidity burden | +1.4 |
+| BMI (33.3) | Class I obesity; elevates cardiovascular and metabolic risk | +1.0 |
+| Family Health History (Heart Disease) | Genetic predisposition to cardiac events increases hospitalization likelihood | +0.8 |
+| Current Diagnosis (Bipolar Disorder) | Serious mental illness with episodic instability; moderate hospitalization risk | +0.9 |
+| HAM-D (7–17, Mild Depression) | Mild depressive symptoms; currently not severe but warrants monitoring | +0.4 |
+| Race (Hispanic) | Healthcare access disparities and chronic disease prevalence elevate risk | +0.3 |
+| Gender (Non-binary) | Minority stress and potential gaps in culturally competent care | +0.2 |
+| Socioeconomic Status (Middle) | Moderate buffer against risk; not fully protective | -0.2 |
+| Employment (Retired) | Reduced occupational stress but possible social isolation risk | +0.1 |
+| Weekly Alcohol Intake (1 drink) | Minimal alcohol use; negligible risk contribution | -0.1 |
+| Smoking (No) | Non-smoker; meaningfully reduces cardiopulmonary risk | -0.5 |
+| Been Sad or Fatigued (No) | Absence of current affective symptoms is protective | -0.3 |
+| Loss of Interest (No) | No anhedonia; suggests current mood stability | -0.2 |
+| Hours of Sleep (7.7) | Near-optimal sleep; supports mood regulation and physical health | -0.3 |
+| Drinks Coffee (Yes) | Mild cardiovascular consideration at older age with cardiac family history | +0.1 |
+| Likes Vegetables (No) | Poor dietary habit; compounds obesity and cardiac risk | +0.3 |
+| Favourite Sport (Soccer) | Suggests physical activity engagement; protective for cardiovascular health | -0.3 |
+| Sexual Orientation (Heterosexual) | No minority stress contribution from this factor | 0.0 |
+| Votes (Always) | Civic engagement correlates with social connectedness and health outcomes | -0.2 |
+| Height (64 inches) | Contextual to BMI calculation; no independent impact beyond BMI | 0.0 |
+
+**Sum Total: +1.4 +1.0 +0.8 +0.9 +0.4 +0.3 +0.2 −0.2 +0.1 −0.1 −0.5 −0.3 −0.2 −0.3 +0.1 +0.3 −0.3 +0.0 −0.2 +0.0 = 5.2 ✓**
+
+---
+
+### 3. Clinical Rationale
+
+This 63-year-old Hispanic non-binary retired individual with bipolar disorder, class I obesity, and a family history of heart disease carries a moderate hospitalization risk driven primarily by the convergence of serious mental illness, cardiometabolic vulnerability, and age-related susceptibility. Protective factors — including current mood stability, minimal alcohol use, non-smoking status, adequate sleep, and physical activity through soccer — meaningfully offset but do not eliminate the elevated risk posed by the underlying diagnostic and physiological profile.

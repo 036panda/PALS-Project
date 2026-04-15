@@ -1,0 +1,40 @@
+## Patient 32 – Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **7.2 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (19) | Young age; early-onset psychiatric illness carries elevated risk | +1.0 |
+| BMI (17.6) | Underweight; nutritional vulnerability, possible medication side effects or self-neglect | +0.8 |
+| Family Health History (Diabetes) | Metabolic risk relevant but not directly psychiatric; modest concern | +0.2 |
+| Current Diagnosis (Schizophrenia) | High-acuity psychiatric condition with significant hospitalization risk | +2.5 |
+| Race (White) | No significant directional adjustment in this context | 0.0 |
+| Gender (Non-binary) | Minority stress, identity-related psychosocial burden, elevated psychiatric risk | +0.4 |
+| Sexual Orientation (Heterosexual) | No elevated risk contribution | 0.0 |
+| Weekly Alcohol Intake (3 drinks) | Low-moderate; mild concern for interaction with antipsychotics | +0.2 |
+| Smoking (No) | Protective; no added pulmonary or cardiovascular risk | -0.2 |
+| HAM-D 25+ (Severe Depression) | Severe depressive symptomatology co-occurring with schizophrenia (schizoaffective concern) | +1.5 |
+| Been Sad or Fatigued (No) | Slight inconsistency with HAM-D score; may reflect insight deficit | -0.1 |
+| Loss of Interest (Yes) | Anhedonia present; consistent with negative symptoms and depression | +0.3 |
+| Hours of Sleep (8.0) | Normal sleep; mild protective factor | -0.2 |
+| Employment (Student) | Structured environment; mild protective, though academic stress possible | -0.1 |
+| Socioeconomic Status (High) | Better access to care and resources; protective | -0.4 |
+| Drinks Coffee (No) | Neutral to mildly protective; no stimulant-related concern | 0.0 |
+| Likes Vegetables (No) | Poor dietary habits; compounds nutritional risk given low BMI | +0.2 |
+| Favourite Sport (NaN) | No physical activity identified; sedentary lifestyle adds mild risk | +0.2 |
+| Votes (Never) | Reflects civic disengagement; proxy for social withdrawal | +0.1 |
+| Height (74 inches) | Contextualizes BMI as more clinically significant underweight | +0.6 |
+
+**Sum Total: +7.2**
+
+---
+
+### 3. Clinical Rationale
+
+This 19-year-old non-binary student presents with a high-acuity psychiatric profile characterized by a schizophrenia diagnosis compounded by severe depressive symptoms (HAM-D 25+), clinically significant underweight status (BMI 17.6 at 74 inches), and anhedonia — a constellation strongly associated with psychiatric decompensation and inpatient admission. While high socioeconomic status and structured student life offer partial buffering, the severity and co-occurrence of psychotic and affective pathology, combined with nutritional vulnerability and social disengagement, elevate hospitalization risk substantially.

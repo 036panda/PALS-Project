@@ -1,0 +1,15 @@
+1. 8.2
+2. Input factors and their assigned numerical contributions:
+   - Age: 68, contribution: 2.5 (positive, due to increased health risks with age)
+   - BMI: 29.7, contribution: 1.8 (positive, due to increased health risks associated with obesity)
+   - Family_Health_History: Hypertension, contribution: 1.2 (positive, due to increased risk of cardiovascular disease)
+   - Current_Diagnosis: Schizophrenia, contribution: 2.0 (positive, due to increased risk of hospitalization for mental health conditions)
+   - HAM-D: 25+, contribution: 2.5 (positive, due to severe depression increasing hospitalization risk)
+   - Been_Sad_or_Fatigued: Yes, contribution: 0.8 (positive, due to increased risk of depression-related hospitalization)
+   - Loss_of_Interest: Yes, contribution: 0.8 (positive, due to increased risk of depression-related hospitalization)
+   - Smoking: Yes, contribution: 1.5 (positive, due to increased health risks associated with smoking)
+   - Weekly_Alcohol_Intake: 3, contribution: 0.5 (positive, due to increased health risks associated with alcohol consumption)
+   - Socioeconomic_Status: Low, contribution: 1.0 (positive, due to increased health risks associated with lower socioeconomic status)
+   - Exercises: No, contribution: 0.8 (positive, due to increased health risks associated with lack of physical activity)
+   - All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The hospitalization risk score is calculated based on the individual's health status, behavioral factors, and socioeconomic conditions, which have established causal relationships with increased risk of hospitalization. The assigned contributions reflect the strength and direction of these relationships, resulting in a total risk score of 8.2.

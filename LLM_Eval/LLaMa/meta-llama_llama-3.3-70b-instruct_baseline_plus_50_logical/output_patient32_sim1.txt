@@ -1,0 +1,14 @@
+1. Risk Score: 6.2
+2. Input Factors and Contributions:
+   - Age: -1.5 (younger age generally associated with lower health risks)
+   - BMI: -0.5 (BMI of 17.6 is underweight, which can be a health risk, but in the context of other factors, it's considered less risky than obesity)
+   - Family_Health_History: +1.0 (history of diabetes increases risk)
+   - Current_Diagnosis: +2.0 (schizophrenia significantly increases health risk)
+   - Weekly_Alcohol_Intake: +0.5 (moderate alcohol intake can have health implications)
+   - HAM-D: +2.5 (severe depression significantly increases health risk)
+   - Loss_of_Interest: +0.5 (associated with depression)
+   - Socioeconomic_Status: -1.0 (high socioeconomic status generally associated with better health outcomes)
+   - Exercises: -0.5 (regular exercise reduces health risks)
+   - Allergy: +0.2 (having an allergy can increase health risk slightly)
+   - Other factors not directly contributing to the risk score due to lack of clear causal relationship or insufficient information.
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, prioritizing factors with well-established links to health outcomes such as schizophrenia, severe depression, and family health history of diabetes. The score reflects a balance between the individual's health risks and protective factors, such as high socioeconomic status and regular exercise.

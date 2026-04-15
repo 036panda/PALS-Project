@@ -1,0 +1,42 @@
+## Risk Score: **4.7**
+
+---
+
+### Factor Contributions (Sum = 4.7)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases hospitalization risk | +1.5 |
+| BMI (33.4) | Obese class I; elevated cardiometabolic risk | +1.0 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis increases risk | +0.8 |
+| HAM-D: Mild Depression (7–17) | Mild severity limits acute hospitalization risk | -0.3 |
+| Been Sad or Fatigued: Yes | Symptom burden present | +0.2 |
+| Loss of Interest: Yes | Anhedonia present, reinforces depressive burden | +0.2 |
+| Hours of Sleep (6.7) | Slightly below optimal; mild negative effect | +0.1 |
+| Socioeconomic Status: Low | Reduced access to care increases risk | +0.5 |
+| Employment: Retired | Loss of structure; mild social isolation risk | +0.2 |
+| Weekly Alcohol Intake (1) | Minimal; negligible risk | +0.0 |
+| Smoking: No | Protective against respiratory/cardiovascular risk | -0.3 |
+| Water Intake (44.6 oz) | Below recommended ~64 oz; mild concern | +0.1 |
+| Relationship Status: Dating | Some social support present | -0.1 |
+| Likes Vegetables: Yes | Positive dietary habit | -0.1 |
+| Drinks Coffee: Yes | Mild stimulant; neutral-to-minor effect | +0.0 |
+| Has Driver's License: No | Limits healthcare access | +0.2 |
+| Uses Public Transportation: Always | Partially offsets access limitation | -0.1 |
+| Family Health History: Unknown (NaN) | Cannot assess hereditary risk; uncertainty penalty | +0.1 |
+| Allergy: Shellfish | Anaphylaxis risk if exposed | +0.1 |
+| Binge Watches TV: Yes | Sedentary behavior; compounds BMI risk | +0.1 |
+| Recycling Habits: Never | Lifestyle indicator; negligible health impact | +0.0 |
+| Travels: Yes | Exposure variability; minor positive engagement | -0.1 |
+| Donated Blood: Yes | Indicates baseline health engagement | -0.1 |
+| Religious: No | Slight reduction in community support network | +0.1 |
+| Sexual Orientation: Bisexual | Minority stress may compound mental health burden | +0.1 |
+| Votes: Sometimes | Mild civic disengagement; minor indicator | +0.0 |
+| All remaining lifestyle/preference factors | (Color, sport, music, phone, handedness, etc.) | +0.0 |
+
+**Total: 4.7**
+
+---
+
+### Justification
+This score is driven primarily by the convergence of clinically meaningful risk factors: age (62), obesity (BMI 33.4), an active depression diagnosis with confirmed symptoms (fatigue, anhedonia), low socioeconomic status limiting healthcare access, and reduced mobility (no driver's license), which together create compounding barriers to timely intervention. Protective factors—non-smoking status, minimal alcohol use, some social engagement, and positive dietary habits—partially offset these risks, anchoring the score at a moderate level consistent with elevated but non-acute hospitalization risk.

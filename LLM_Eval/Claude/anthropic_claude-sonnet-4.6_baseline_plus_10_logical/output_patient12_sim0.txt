@@ -1,0 +1,40 @@
+**Risk Score: 6.2**
+
+---
+
+**Factor Contributions:**
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (90) | Very advanced age → strong predictor of hospitalization | +3.0 |
+| BMI (32.5) | Obese class I → elevated cardiovascular/metabolic risk | +1.0 |
+| Smoking (Yes) | Active smoker → increased pulmonary/cardiovascular risk | +0.8 |
+| Family History: Hypertension | Genetic predisposition to cardiovascular disease | +0.5 |
+| Current Diagnosis: Depression | Chronic condition requiring management; comorbidity risk | +0.4 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild additive risk | +0.2 |
+| Likes Vegetables: No | Poor diet → nutritional deficiency, chronic disease risk | +0.2 |
+| Employment: Retired | Reduced structured activity; age-correlated vulnerability | +0.1 |
+| HAM-D: Normal (0–6) | No clinical depression severity → reduces psychiatric hospitalization risk | -0.2 |
+| Been Sad or Fatigued: No | Contradicts depression severity; lowers acute psychiatric risk | -0.1 |
+| Loss of Interest: No | Further reduces acute depressive episode risk | -0.1 |
+| Hours of Sleep (7.4) | Near-optimal sleep → mild protective effect | -0.1 |
+| Socioeconomic Status: Middle | Moderate healthcare access; neither high-risk nor protective | 0.0 |
+| Donated Blood: Yes | Proxy for general health engagement/screening | -0.1 |
+| Drinks Coffee: Yes | Neutral to mildly protective (cardiovascular literature mixed) | 0.0 |
+| Gender: Non-binary | No established independent causal hospitalization differential applied | 0.0 |
+| Sexual Orientation: Heterosexual | No independent causal contribution applied | 0.0 |
+| Race: Hispanic | No independent causal contribution applied | 0.0 |
+| Favourite Sport: Hockey | Physical activity engagement → mild protective effect | -0.1 |
+| Votes: Sometimes | Weak proxy for civic engagement/social connectedness; negligible | 0.0 |
+| Has Driver's License: No | At age 90, expected; no independent causal contribution | 0.0 |
+| Uses Public Transportation: Never | Neutral at age 90 with retirement status | 0.0 |
+| Picks Up Litter: Never | No established causal health relationship | 0.0 |
+| Birthday Month: March | No causal relationship to hospitalization risk | 0.0 |
+| Height (71 inches) | Already captured in BMI calculation | 0.0 |
+
+**Sum: 3.0 + 1.0 + 0.8 + 0.5 + 0.4 + 0.2 + 0.2 + 0.1 − 0.2 − 0.1 − 0.1 − 0.1 − 0.1 − 0.1 = 6.2** ✓
+
+---
+
+**Justification:**
+The score is dominated by the patient's advanced age of 90, which is the single strongest causal predictor of hospitalization due to physiological decline, reduced resilience, and higher comorbidity burden, compounded by obesity, active smoking, hypertensive family history, and a depression diagnosis. Protective factors—including normal HAM-D scores, adequate sleep, absence of reported sadness or anhedonia, and some health-engaged behaviors—partially offset these risks but cannot substantially counteract the cumulative burden of the primary clinical and demographic risk factors.

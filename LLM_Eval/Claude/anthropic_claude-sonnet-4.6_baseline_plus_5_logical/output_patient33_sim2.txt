@@ -1,0 +1,39 @@
+## Risk Score Calculation for Patient_ID: 33
+
+---
+
+### 1. Risk Score: **4.7**
+
+---
+
+### 2. Factor Contributions
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (42) | Middle-aged, moderate risk | +1.0 |
+| BMI (13.4) | Severely underweight (critical) | +2.5 |
+| Family Health History (Diabetes) | Elevated metabolic/systemic risk | +0.5 |
+| Current Diagnosis (nan/none) | No active diagnosis | −0.5 |
+| Race (Native American) | Higher systemic health disparity risk | +0.3 |
+| Gender (Other) | Marginalized identity, healthcare access barriers | +0.2 |
+| Sexual Orientation (Heterosexual) | No additional risk | +0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate, mild risk | +0.2 |
+| Smoking (No) | Protective factor | −0.3 |
+| HAM-D: Mild Depression (7–17) | Mild depressive symptomatology | +0.5 |
+| Been Sad or Fatigued (No) | Mitigates depression severity | −0.2 |
+| Loss of Interest (Yes) | Anhedonia, supports depression risk | +0.3 |
+| Hours of Sleep (5.0) | Insufficient sleep, health risk | +0.4 |
+| Employment (Employed) | Protective, stability | −0.3 |
+| Socioeconomic Status (Middle) | Moderate protective factor | −0.2 |
+| Drinks Coffee (Yes) | Mild stimulant, neutral-to-minor risk | +0.0 |
+| Likes Vegetables (Yes) | Dietary protective factor | −0.2 |
+| Favourite Sport (Soccer) | Physical activity, protective | −0.2 |
+| Votes (Never) | Civic disengagement, mild social risk | +0.1 |
+| Height (64 inches) | Contextual to BMI calculation only | +0.0 |
+| **Total** | | **4.7** |
+
+---
+
+### 3. Justification
+
+The dominant driver of this patient's hospitalization risk is a critically low BMI of 13.4, which indicates severe undernutrition and carries direct causal risk for organ dysfunction, immune compromise, and acute medical deterioration requiring hospitalization. Secondary contributors include mild depression with anhedonia, insufficient sleep, a family history of diabetes, and social determinants such as racial health disparities and civic disengagement, while protective factors including employment, no smoking, physical activity, and adequate diet partially offset the overall risk.

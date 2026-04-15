@@ -1,0 +1,21 @@
+1. Risk Score: 6.8
+2. Input Factors and Contributions:
+   - Age: 42, Contribution: 0.8 (positive, as increasing age is associated with higher health risks)
+   - BMI: 26.4, Contribution: 1.2 (positive, as a BMI of 26.4 falls into the overweight category, increasing health risks)
+   - Family_Health_History: Cancer, Contribution: 1.5 (positive, due to increased risk of hereditary conditions)
+   - Current_Diagnosis: Anxiety, Contribution: 1.0 (positive, as anxiety can contribute to physical health issues)
+   - HAM-D: 7–17, Contribution: 1.0 (positive, indicating mild depression which can impact physical health)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 0.5 (positive, as it can be a symptom of underlying health issues)
+   - Loss_of_Interest: Yes, Contribution: 0.5 (positive, similar to been sad or fatigued, it indicates potential mental health concerns)
+   - Weekly_Alcohol_Intake: 4, Contribution: 0.2 (positive, as some alcohol intake can be a risk factor for certain health conditions)
+   - Smoking: No, Contribution: 0 (neutral, as not smoking does not increase risk)
+   - Hours_of_Sleep: 10.2, Contribution: -0.5 (negative, as adequate sleep is beneficial for health)
+   - Employment: Employed, Contribution: -0.5 (negative, as employment can provide stability and access to healthcare)
+   - Socioeconomic_Status: Middle, Contribution: -0.5 (negative, as a middle socioeconomic status generally offers better access to healthcare compared to lower statuses)
+   - Drinks_Coffee: No, Contribution: 0 (neutral, as not drinking coffee does not directly increase or decrease health risk in this context)
+   - Likes_Vegetables: Yes, Contribution: -0.5 (negative, as liking vegetables can indicate healthier eating habits)
+   - Exercises: Yes, Contribution: -1.0 (negative, as regular exercise is beneficial for health)
+   - Water_Intake_oz: 44.7, Contribution: -0.2 (negative, as adequate water intake is beneficial for health)
+   - Allergy: Peanut, Contribution: 0.5 (positive, as having an allergy can pose health risks)
+   - Other factors not directly influencing the risk score due to lack of clear causal relationship or insufficient information: Race, Gender, Sexual_Orientation, Favourite_Sport, Votes, Height_in_Inches, Has_Drivers_License, Picks_Up_Litter, Uses_Public_Transportation, Donated_Blood, Birthday_Month, Bilingual, Handedness, Likes_Kids, Favourite_Meal, Favourite_Color, Recycling_Habits, Hair_Color, Best_Highschool_Subject, Travels, Relationship_Status, Favourite_Music_Genre, Can_Ride_Bicycle, Religious, Phone, Wears_Glasses, Morning_or_Night, Binge_Watches_TV, Favourite_Super_Store, Pet_Preference, Volunteers, Skips_Breakfast, Favourite_Movie_Genre, Registered_Organ_Donor, Annual_Charity_Donation, Favourite_Cuisine, Likes_Art, Academic_Preference, Political_Ideology, Orders_Takeout, Preferred_Grocery_Store, Helps_Elderly, Likes_Chocolate, Reads_Novels, Has_Cheated_on_an_Assignment_Before, Eye_Color, Spotify_vs_AppleMusic, Favourite_Season.
+3. The risk score calculation is based on the logical and causal relationships between the input factors and potential health risks, considering both physical and mental health indicators. The score reflects the cumulative effect of various risk and protective factors, providing a comprehensive assessment of the individual's hospitalization risk.

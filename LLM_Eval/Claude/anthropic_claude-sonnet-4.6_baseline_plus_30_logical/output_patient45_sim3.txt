@@ -1,0 +1,60 @@
+**Risk Score: 3.6**
+
+---
+
+**Factor Contributions:**
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (41) | Moderate age, mild risk elevation | +0.5 |
+| BMI (26.5) | Slightly overweight, minor risk | +0.2 |
+| Family Health History (Diabetes) | Metabolic risk, indirect hospitalization relevance | +0.2 |
+| Current Diagnosis (Depression) | Active diagnosis, direct clinical relevance | +0.8 |
+| Race (White) | No directional causal contribution assigned | 0.0 |
+| Gender (Male) | Males less likely to seek care, slight risk | +0.1 |
+| Sexual Orientation (Heterosexual) | No directional causal contribution assigned | 0.0 |
+| Weekly Alcohol Intake (1) | Very low, negligible risk | +0.1 |
+| Smoking (No) | Protective | -0.2 |
+| HAM-D Score (0–6, Normal) | Contradicts depression severity, reduces risk | -0.5 |
+| Been Sad or Fatigued (No) | Reduces depression-related hospitalization risk | -0.3 |
+| Loss of Interest (Yes) | Anhedonia, supports depressive symptom burden | +0.3 |
+| Hours of Sleep (4.7) | Significantly low, linked to poor health outcomes | +0.6 |
+| Employment (Employed) | Stability, protective factor | -0.3 |
+| Socioeconomic Status (High) | Access to care, protective | -0.4 |
+| Drinks Coffee (No) | No contribution assigned | 0.0 |
+| Likes Vegetables (No) | Poor diet, minor negative health signal | +0.1 |
+| Favourite Sport (Hockey) | Physical activity implied, minor protective signal | -0.1 |
+| Votes (Sometimes) | Civic engagement, minor protective proxy | -0.1 |
+| Height in Inches (74) | No directional causal contribution assigned | 0.0 |
+| Has Driver's License (Yes) | Mobility/independence, minor protective | -0.1 |
+| Picks Up Litter (Always) | Conscientiousness proxy, minor protective | -0.1 |
+| Uses Public Transportation (Sometimes) | No directional causal contribution assigned | 0.0 |
+| Donated Blood (Yes) | Health engagement, minor protective | -0.1 |
+| Birthday Month (December) | No directional causal contribution assigned | 0.0 |
+| Water Intake (44.8 oz) | Below recommended ~64 oz, minor risk | +0.2 |
+| Bilingual (Yes) | Cognitive resilience proxy, minor protective | -0.1 |
+| Handedness (Right) | No directional causal contribution assigned | 0.0 |
+| Likes Kids (Yes) | Social connectedness proxy, minor protective | -0.1 |
+| Favourite Meal (Lunch) | No directional causal contribution assigned | 0.0 |
+| Favourite Color (Orange) | No directional causal contribution assigned | 0.0 |
+| Recycling Habits (Sometimes) | No directional causal contribution assigned | 0.0 |
+| Hair Color (Blonde) | No directional causal contribution assigned | 0.0 |
+| Best High School Subject (Math) | No directional causal contribution assigned | 0.0 |
+| Travels (No) | Reduced stimulation, minor negative signal | +0.1 |
+| Relationship Status (Dating) | Social support present, minor protective | -0.1 |
+| Favourite Music Genre (Hip-Hop) | No directional causal contribution assigned | 0.0 |
+| Can Ride Bicycle (No) | Minor physical limitation signal | +0.1 |
+| Religious (No) | Reduced community support network, minor risk | +0.1 |
+| Phone (Apple) | No directional causal contribution assigned | 0.0 |
+| Wears Glasses (Yes) | Minor health condition indicator | +0.1 |
+| Morning or Night (Night) | Night preference linked to sleep disruption, consistent with low sleep hours | +0.2 |
+| Allergy (Penicillin) | Limits antibiotic treatment options, minor clinical risk | +0.2 |
+| Binge-Watches TV (Yes) | Sedentary behavior, minor risk | +0.1 |
+| Favourite Superstore (Target) | No directional causal contribution assigned | 0.0 |
+
+**Sum: 3.6**
+
+---
+
+**Justification:**
+The score is primarily driven by clinically relevant factors: an active depression diagnosis, significant sleep deprivation (4.7 hours), loss of interest as a depressive symptom, and a penicillin allergy that constrains treatment options, collectively elevating hospitalization risk. These risks are meaningfully offset by a normal HAM-D score, high socioeconomic status, stable employment, absence of smoking, and absence of sadness or fatigue, indicating that while vulnerabilities exist, protective structural and clinical factors substantially reduce the likelihood of hospitalization.

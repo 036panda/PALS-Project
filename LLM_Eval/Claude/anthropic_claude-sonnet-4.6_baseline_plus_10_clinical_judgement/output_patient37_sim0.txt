@@ -1,0 +1,45 @@
+## Hospitalization Risk Evaluation — Patient ID: 37
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (53) | Middle-aged; elevated chronic disease vulnerability | +1.0 |
+| BMI (25.3) | Normal/borderline; minimal metabolic risk | +0.1 |
+| Family Health History (Asthma) | Mild hereditary respiratory concern | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric condition; core hospitalization driver | +1.5 |
+| Race (Black) | Systemic healthcare access disparities; undertreatment risk | +0.4 |
+| Gender (Male) | Males less likely to seek/maintain mental health care | +0.3 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress burden | 0.0 |
+| Weekly Alcohol Intake (4 drinks) | Moderate; mild depressant interaction risk | +0.3 |
+| Smoking (No) | Protective; no pulmonary/cardiovascular compounding | −0.3 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant; warrants close monitoring | +0.8 |
+| Been Sad or Fatigued (No) | Symptom incongruence; may reflect underreporting | −0.2 |
+| Loss of Interest (No) | Reduced anhedonia signal; mild protective indicator | −0.2 |
+| Hours of Sleep (5.7) | Below recommended threshold; worsens depression trajectory | +0.4 |
+| Employment (Employed) | Structural stability; protective against decompensation | −0.4 |
+| Socioeconomic Status (Middle) | Moderate resource access; partially protective | −0.2 |
+| Drinks Coffee (Yes) | Minor stimulant; may disrupt sleep further | +0.1 |
+| Likes Vegetables (No) | Poor nutritional habits; indirect mood/health impact | +0.2 |
+| Favourite Sport (Soccer) | Active lifestyle indicator; protective for mental health | −0.2 |
+| Votes (Never) | Civic disengagement; proxy for social disconnection | +0.2 |
+| Height (74 inches) | No clinical relevance | 0.0 |
+| Has Driver's License (Yes) | Mobility/independence; protective for care access | −0.1 |
+| Picks Up Litter (Sometimes) | Mild prosocial behavior; negligible clinical impact | −0.1 |
+| Uses Public Transportation (Always) | No personal vehicle reliance; neutral to mild positive | 0.0 |
+| Donated Blood (Yes) | Prosocial engagement; mild protective signal | −0.1 |
+| Birthday Month (October) | No clinically significant seasonal risk at this level | 0.0 |
+
+**Sum Total: +4.6**
+
+---
+
+### 3. Clinical Rationale
+
+This 53-year-old employed Black male presents with moderate depression (HAM-D 18–24) and insufficient sleep, both of which are clinically meaningful drivers of psychiatric decompensation and potential hospitalization, particularly given known disparities in mental health treatment engagement among Black men. Protective factors including stable employment, middle socioeconomic status, physical activity, and non-smoking status partially offset these risks, yielding a moderate overall hospitalization risk that warrants proactive outpatient monitoring and sleep intervention.

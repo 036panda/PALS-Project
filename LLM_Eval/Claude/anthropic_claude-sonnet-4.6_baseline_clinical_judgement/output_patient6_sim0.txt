@@ -1,0 +1,35 @@
+## Patient ID: 6 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **3.5 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (36) | Relatively young adult; moderate metabolic risk beginning | +0.5 |
+| BMI (31.3) | Class I Obesity; elevates cardiometabolic and comorbidity risk | +1.0 |
+| Family Health History (Asthma) | Genetic predisposition to respiratory conditions | +0.3 |
+| Current Diagnosis (Anxiety) | Anxiety disorders can drive somatic complaints and care-seeking behavior | +0.5 |
+| Race (White) | No significant population-level hospitalization disparity applied here | 0.0 |
+| Gender (Male) | Males tend to delay care, increasing acute event risk when presenting | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress burden identified | 0.0 |
+| Weekly Alcohol Intake (5 drinks) | Moderate; mild hepatic and cardiovascular concern over time | +0.3 |
+| Smoking (No) | Protective; significantly reduces pulmonary and cardiovascular risk | −0.5 |
+| HAM-D Score (0–6 / No Depression) | No depressive disorder burden; reduces psychiatric hospitalization risk | −0.4 |
+| Been Sad or Fatigued (No) | Absence of affective symptoms; further reduces psychiatric risk | −0.2 |
+| Loss of Interest (No) | No anhedonia; supports functional stability | −0.1 |
+| Hours of Sleep (6.0) | Mildly insufficient; contributes to immune and metabolic vulnerability | +0.3 |
+| Employment (Employed) | Provides structure, insurance access, and social integration | −0.3 |
+| Socioeconomic Status (Low) | Limits healthcare access, medication adherence, and preventive care | +0.9 |
+
+**Sum Total: +0.5 +1.0 +0.3 +0.5 +0.0 +0.2 +0.0 +0.3 −0.5 −0.4 −0.2 −0.1 +0.3 −0.3 +0.9 = 3.5**
+
+---
+
+### 3. Clinical Rationale
+
+This 36-year-old employed White male with anxiety and Class I obesity presents a **low-to-moderate hospitalization risk**, primarily driven by his BMI, low socioeconomic status limiting healthcare access, and mild sleep insufficiency, which together create a cumulative vulnerability despite an otherwise stable psychosocial and psychiatric profile. His absence of depression, active smoking, and presence of employment serve as meaningful protective factors that substantially offset the metabolic and socioeconomic risk contributors.

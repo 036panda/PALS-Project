@@ -1,0 +1,35 @@
+## Risk Score: **5.2**
+
+---
+
+### Factor Contributions (Sum = 5.2)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases hospitalization risk | +1.8 |
+| BMI (33.4) | Obese class I; increases comorbidity and hospitalization risk | +1.2 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis directly elevates risk | +1.0 |
+| HAM-D: Mild Depression (7–17) | Clinically confirmed mild severity; moderate risk elevation | +0.5 |
+| Been Sad or Fatigued: Yes | Symptom burden increases functional impairment risk | +0.3 |
+| Loss of Interest: Yes | Anhedonia compounds depression severity and self-care neglect | +0.3 |
+| Hours of Sleep (6.7) | Slightly below optimal; mild negative health impact | +0.2 |
+| Socioeconomic Status: Low | Reduced access to care increases hospitalization likelihood | +0.4 |
+| Employment: Retired | Reduced social engagement; mild risk factor | +0.2 |
+| Family Health History: Unknown (nan) | No protective or additive information available | +0.0 |
+| Weekly Alcohol Intake (1) | Minimal alcohol use; negligible risk | +0.1 |
+| Smoking: No | No smoking; protective | −0.3 |
+| Likes Vegetables: Yes | Healthier diet; mild protective effect | −0.2 |
+| Drinks Coffee: Yes | Mild stimulant; negligible net effect in context | +0.0 |
+| Sexual Orientation: Bisexual | Minority stress may contribute modestly to mental health burden | +0.1 |
+| Votes: Sometimes | Mild indicator of civic disengagement; marginal social isolation signal | +0.1 |
+| Favourite Sport: Soccer | Indicates some physical activity; mild protective effect | −0.2 |
+| Race: White | No directional adjustment applied in isolation | +0.0 |
+| Gender: Male | Males less likely to seek care, increasing hospitalization risk when crisis occurs | +0.2 |
+| Height (61 inches) | Already captured in BMI calculation | +0.0 |
+
+**Total: 5.2**
+
+---
+
+### Justification
+The score is primarily driven by the convergence of age (62), obesity (BMI 33.4), an active depression diagnosis with confirmed mild-to-moderate symptom burden (HAM-D 7–17, fatigue, anhedonia), and low socioeconomic status, all of which causally elevate hospitalization risk through increased comorbidity load, reduced healthcare access, and functional impairment. Protective factors including non-smoking status, some physical activity, and vegetable consumption partially offset these risks, yielding a moderate overall score of 5.2.

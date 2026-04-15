@@ -1,0 +1,35 @@
+## Risk Score: 4.7
+
+---
+
+### Factor Contributions (Sum = 4.7)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (62) | Older age increases hospitalization risk | +1.5 |
+| BMI (33.4) | Obese class I; elevated cardiometabolic risk | +1.0 |
+| Current Diagnosis: Depression | Active psychiatric diagnosis increases risk | +0.8 |
+| HAM-D: Mild Depression (7–17) | Mild severity limits acute hospitalization risk | +0.3 |
+| Been Sad or Fatigued: Yes | Symptom burden present, reinforces diagnosis | +0.2 |
+| Loss of Interest: Yes | Anhedonia present, functional impairment signal | +0.2 |
+| Hours of Sleep (6.7) | Slightly below optimal; mild negative health signal | +0.1 |
+| Socioeconomic Status: Low | Reduced access to care, higher hospitalization risk | +0.5 |
+| Employment: Retired | Loss of structure/social engagement, mild risk factor | +0.2 |
+| Family Health History: Unknown (nan) | No protective information available; neutral-negative | +0.1 |
+| Weekly Alcohol Intake: 1 | Minimal alcohol use; negligible risk | +0.0 |
+| Smoking: No | Non-smoker; protective | −0.3 |
+| Likes Vegetables: Yes | Healthier diet; mild protective effect | −0.1 |
+| Drinks Coffee: Yes | Neutral to mild positive mood effect | −0.0 |
+| Favourite Sport: Soccer | Physical activity engagement; protective | −0.2 |
+| Votes: Sometimes | Moderate civic engagement; mild protective signal | −0.1 |
+| Sexual Orientation: Bisexual | Minority stress may elevate mental health risk | +0.2 |
+| Race: White | No significant directional adjustment applied | +0.0 |
+| Gender: Male | Males less likely to seek care, risk of undertreatment | +0.1 |
+| Height (61 inches) | Interacts with BMI calculation; already captured in BMI | +0.0 |
+
+**Total: 4.7**
+
+---
+
+### Justification
+This score is driven primarily by the patient's age, obesity, active depression diagnosis with functional symptoms (fatigue, anhedonia), and low socioeconomic status, all of which causally elevate hospitalization risk through physiological burden and reduced healthcare access. Protective factors including non-smoking status, physical activity, vegetable consumption, and only mild depression severity (HAM-D 7–17) meaningfully offset the risk, yielding a moderate overall score.

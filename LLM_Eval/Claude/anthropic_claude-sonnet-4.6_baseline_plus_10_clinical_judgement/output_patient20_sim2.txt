@@ -1,0 +1,44 @@
+## Patient ID: 20 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **5.3 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Current Diagnosis: Schizophrenia | Schizophrenia | +3.0 |
+| Age | 19 (young adult, early-onset psychosis window) | +0.6 |
+| HAM-D: Mild Depression | Score 7–17 | +0.5 |
+| Been Sad or Fatigued | Yes | +0.3 |
+| Hours of Sleep | 10.3 (hypersomnia, possible negative symptom) | +0.3 |
+| Weekly Alcohol Intake | 4 drinks/week (moderate, comorbidity risk) | +0.2 |
+| No Driver's License | Possible functional/independence limitation | +0.1 |
+| Family Health History | Unknown/NaN (unquantifiable risk) | +0.1 |
+| Donated Blood | No (minor civic health engagement proxy) | +0.1 |
+| BMI | 25.1 (borderline normal/overweight, minimal concern) | +0.1 |
+| Smoking | No | −0.3 |
+| Employment | Employed (protective structure) | −0.4 |
+| Socioeconomic Status | Middle (resource access) | −0.3 |
+| Likes Vegetables | Yes (positive health behavior) | −0.1 |
+| Drinks Coffee | Yes (neutral-slight positive alertness) | −0.1 |
+| Loss of Interest | No (protective against anhedonia severity) | −0.2 |
+| Gender: Female | Female (slightly lower hospitalization rate in schizophrenia) | −0.2 |
+| Favourite Sport: Hockey | Active interest (social/physical engagement) | −0.1 |
+| Uses Public Transportation | Never (mild isolation indicator, offset by employment) | 0.0 |
+| Picks Up Litter | Sometimes (mild prosocial behavior) | −0.1 |
+| Votes | Sometimes (moderate civic engagement) | 0.0 |
+| Sexual Orientation | Heterosexual (no added minority stress factor here) | 0.0 |
+| Race: Black | Systemic healthcare access disparities noted | +0.2 |
+| Birthday Month: April | No clinical relevance | 0.0 |
+| Height | 72 inches (no clinical relevance) | 0.0 |
+| **TOTAL** | | **5.3** |
+
+---
+
+### 3. Clinical Rationale
+
+This 19-year-old Black female with a diagnosis of schizophrenia carries a meaningfully elevated hospitalization risk, driven primarily by the severity and early-onset nature of her psychotic disorder, compounded by comorbid mild depression, hypersomnia suggestive of negative symptomatology, and systemic disparities in psychiatric care access. Protective factors — including current employment, middle socioeconomic status, absence of smoking, and preserved interest in activities — partially offset this risk, yielding a moderate overall score that warrants close outpatient monitoring and proactive care coordination.

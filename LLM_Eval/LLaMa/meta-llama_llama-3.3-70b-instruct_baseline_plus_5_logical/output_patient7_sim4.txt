@@ -1,0 +1,23 @@
+1. Risk Score: 6.8
+2. Input Factors and Contributions:
+   - Age: 18, Contribution: -1.5 (younger age generally associated with lower risk)
+   - BMI: 24.5, Contribution: 0.5 (slightly above normal, indicating potential health risks)
+   - Family_Health_History: Asthma, Contribution: 1.0 (increased risk due to genetic predisposition)
+   - Current_Diagnosis: Schizophrenia, Contribution: 2.5 (significant mental health condition increasing risk)
+   - Race: Native American, Contribution: 0.8 (acknowledging health disparities, though this is a complex factor)
+   - Gender: Male, Contribution: 0.2 (generally, males have slightly higher health risks than females)
+   - Sexual_Orientation: Heterosexual, Contribution: 0 (neutral, as sexual orientation itself isn't a direct health risk factor)
+   - Weekly_Alcohol_Intake: 0, Contribution: -1.0 (no alcohol intake reduces health risks)
+   - Smoking: Yes, Contribution: 2.0 (significant health risk due to smoking)
+   - HAM-D: 18-24, Contribution: 2.0 (moderate depression increases health risk)
+   - Been_Sad_or_Fatigued: Yes, Contribution: 0.5 (symptoms of depression)
+   - Loss_of_Interest: Yes, Contribution: 0.5 (symptoms of depression)
+   - Hours_of_Sleep: 8.3, Contribution: -0.5 (adequate sleep reduces health risks)
+   - Employment: Student, Contribution: -0.5 (being a student can be stressful but also indicates engagement and support)
+   - Socioeconomic_Status: Middle, Contribution: -0.2 (middle socioeconomic status generally has better health outcomes than lower)
+   - Drinks_Coffee: No, Contribution: 0 (neutral, as moderate coffee consumption can have health benefits, but this is variable)
+   - Likes_Vegetables: Yes, Contribution: -0.5 (healthy dietary habits reduce health risks)
+   - Favourite_Sport: Hockey, Contribution: -0.5 (engagement in physical activity reduces health risks)
+   - Votes: Sometimes, Contribution: 0 (voting behavior is not directly related to health risk)
+   - Height_in_Inches: 68, Contribution: 0 (height is not directly related to the risk factors considered)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, considering both physical and mental health indicators, lifestyle choices, and socioeconomic factors. Each factor's contribution is assigned based on its potential to increase or decrease the risk of hospitalization, reflecting current understanding of health risks and outcomes.

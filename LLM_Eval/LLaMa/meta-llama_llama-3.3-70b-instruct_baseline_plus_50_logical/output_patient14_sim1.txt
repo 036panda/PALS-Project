@@ -1,0 +1,13 @@
+1. Risk Score: 4.2
+2. Input Factors and Contributions:
+   - Age: 18: -1.5 (lower risk due to younger age)
+   - BMI: 30.9: 1.2 (higher risk due to obesity)
+   - Current_Diagnosis: Bipolar: 1.5 (higher risk due to mental health condition)
+   - Weekly_Alcohol_Intake: 1: -0.2 (lower risk due to minimal alcohol intake)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (lower risk due to no depression)
+   - Loss_of_Interest: Yes: 0.8 (higher risk due to potential mental health implications)
+   - Hours_of_Sleep: 9.7: -0.3 (lower risk due to adequate sleep)
+   - Socioeconomic_Status: Middle: 0 (neutral)
+   - Family_Health_History: nan: 0 (no information, neutral)
+   - All other factors: 0 (no direct causal relationship to hospitalization risk)
+3. The risk score calculation is based on the logical and causal relationships between the input factors and hospitalization risk, prioritizing factors with direct medical implications such as age, BMI, current diagnosis, and mental health indicators. The score reflects a moderate risk level due to the presence of bipolar disorder and obesity, balanced by factors indicating relatively healthy lifestyle choices and minimal alcohol intake.

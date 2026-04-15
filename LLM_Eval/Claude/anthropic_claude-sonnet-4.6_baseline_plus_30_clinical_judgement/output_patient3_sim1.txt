@@ -1,0 +1,64 @@
+## Patient_ID: 3 — Hospitalization Risk Evaluation
+
+---
+
+### 1. Final Hospitalization Risk Score: **4.6 / 10**
+
+---
+
+### 2. Attribute-by-Attribute Risk Breakdown
+
+| Attribute | Value | Risk Impact |
+|---|---|---|
+| Age (64) | Older adult, elevated chronic risk | +1.2 |
+| BMI (29.9) | Overweight threshold, mild metabolic risk | +0.3 |
+| Family Health History (Asthma) | Respiratory vulnerability, moderate hereditary concern | +0.2 |
+| Current Diagnosis (Depression) | Active psychiatric condition, core driver | +1.4 |
+| Race (Native American) | Documented healthcare access disparities, elevated risk | +0.4 |
+| Gender (Male) | Males less likely to seek care, delayed intervention risk | +0.2 |
+| Sexual Orientation (Heterosexual) | No elevated minority stress burden | 0.0 |
+| Weekly Alcohol Intake (2) | Low intake, minimal risk | -0.1 |
+| Smoking (No) | Protective factor | -0.3 |
+| HAM-D Score (18–24, Moderate Depression) | Clinically significant depressive severity | +0.8 |
+| Been Sad or Fatigued (No) | Partially mitigates affective symptom burden | -0.2 |
+| Loss of Interest (Yes) | Anhedonia present, key depressive symptom | +0.3 |
+| Hours of Sleep (6.4) | Mildly below optimal, minor concern | +0.1 |
+| Employment (Retired) | Reduced structure/social engagement, mild risk | +0.2 |
+| Socioeconomic Status (Middle) | Moderate resource access, neutral-to-mild protective | -0.1 |
+| Drinks Coffee (Yes) | Mild stimulant use, negligible clinical impact | 0.0 |
+| Likes Vegetables (Yes) | Positive dietary behavior, mild protective | -0.1 |
+| Favourite Sport (Soccer) | Indicates some interest in physical activity | -0.1 |
+| Votes (Always) | Civic engagement, social connectedness indicator | -0.1 |
+| Height in Inches (65) | No clinical relevance | 0.0 |
+| Has Driver's License (Yes) | Mobility and independence, mild protective | -0.1 |
+| Picks Up Litter (Never) | Low prosocial behavior, negligible clinical impact | 0.0 |
+| Uses Public Transportation (Sometimes) | Moderate community engagement | 0.0 |
+| Donated Blood (Yes) | Health-engaged behavior, mild protective | -0.1 |
+| Birthday Month (March) | No clinical relevance | 0.0 |
+| Water Intake (44.4 oz) | Below recommended ~64 oz, mild concern | +0.1 |
+| Bilingual (Yes) | Cognitive resilience indicator, mild protective | -0.1 |
+| Handedness (Right) | No clinical relevance | 0.0 |
+| Likes Kids (Yes) | Social bonding indicator, mild protective | -0.1 |
+| Favourite Meal (Dinner) | No clinical relevance | 0.0 |
+| Favourite Color (Green) | No clinical relevance | 0.0 |
+| Recycling Habits (Sometimes) | No clinical relevance | 0.0 |
+| Hair Color (Blonde) | No clinical relevance | 0.0 |
+| Best High School Subject (Math) | Cognitive engagement history, mild protective | -0.1 |
+| Travels (No) | Limited environmental stimulation, mild risk | +0.1 |
+| Relationship Status (Dating) | Active social relationship, mild protective | -0.2 |
+| Favourite Music Genre (Pop) | No clinical relevance | 0.0 |
+| Can Ride Bicycle (No) | Minor physical limitation indicator | +0.1 |
+| Religious (Yes) | Spiritual coping resource, mild protective | -0.2 |
+| Phone (Apple) | No clinical relevance | 0.0 |
+| Wears Glasses (Yes) | Sensory impairment, minor functional consideration | +0.1 |
+| Morning or Night (Morning) | Morning chronotype, generally favorable for mood | -0.1 |
+| Allergy (Animal Dander) | Mild immune/respiratory consideration | +0.1 |
+| Binge Watches TV (No) | Avoids sedentary isolation behavior, mild protective | -0.1 |
+| Favourite Super Store (Target) | No clinical relevance | 0.0 |
+| **TOTAL** | | **+4.6** |
+
+---
+
+### 3. Clinical Rationale
+
+This 64-year-old retired Native American male presents with moderate depression (HAM-D 18–24) and clinically notable anhedonia, which together constitute the primary drivers of hospitalization risk, particularly given documented healthcare access disparities within his demographic group and the reduced daily structure associated with retirement. Protective factors including non-smoking status, an active relationship, religious engagement, low alcohol use, and general health-conscious behaviors meaningfully offset risk, yielding a moderate overall score that warrants close outpatient monitoring and proactive psychiatric follow-up rather than immediate inpatient intervention.

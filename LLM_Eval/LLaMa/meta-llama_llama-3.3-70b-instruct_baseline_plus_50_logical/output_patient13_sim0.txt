@@ -1,0 +1,19 @@
+1. 8.2
+2. Input factors and their assigned contributions:
+   - Age: 56: 2.5 (positive, older age increases risk)
+   - BMI: 27.3: 1.2 (positive, higher BMI increases risk)
+   - Current_Diagnosis: Scizophrenia: 2.0 (positive, mental health condition increases risk)
+   - Smoking: Yes: 1.5 (positive, smoking increases risk)
+   - HAM-D: 7–17: Mild Depression: 1.0 (positive, depression increases risk)
+   - Been_Sad_or_Fatigued: Yes: 0.5 (positive, mental health symptoms increase risk)
+   - Loss_of_Interest: Yes: 0.5 (positive, mental health symptoms increase risk)
+   - Socioeconomic_Status: Low: 1.0 (positive, lower socioeconomic status increases risk)
+   - Weekly_Alcohol_Intake: 2: 0.2 (positive, some alcohol intake increases risk)
+   - Hours_of_Sleep: 6.0: -0.2 (negative, moderate sleep hours decrease risk)
+   - Exercises: Yes: -0.5 (negative, regular exercise decreases risk)
+   - Family_Health_History: nan: 0 (neutral, unknown)
+   - Race: Asian: 0 (neutral, no direct causal relationship)
+   - Gender: Other: 0 (neutral, no direct causal relationship)
+   - Sexual_Orientation: Heterosexual: 0 (neutral, no direct causal relationship)
+   - All other factors: 0 (neutral, no direct causal relationship)
+3. The hospitalization risk score is calculated based on the individual's health conditions, lifestyle, and socioeconomic status, with a focus on factors that have a direct causal relationship with increased risk, such as older age, higher BMI, smoking, and mental health conditions. The score reflects the cumulative effect of these factors, with some factors like regular exercise decreasing the overall risk.

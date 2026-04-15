@@ -1,0 +1,44 @@
+**Risk Score: 4.8**
+
+---
+
+**Factor Contributions:**
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (63) | Older age increases hospitalization risk | +2.0 |
+| BMI (33.3) | Obese range, increases cardiovascular/metabolic risk | +1.2 |
+| Family Health History (Heart Disease) | Genetic predisposition to cardiac events | +0.8 |
+| Current Diagnosis (Bipolar) | Psychiatric condition requiring management, increases risk | +0.7 |
+| HAM-D (Mild Depression, 7–17) | Active depressive symptomatology present | +0.4 |
+| Socioeconomic Status (Middle) | Moderate access to care, slight protective effect | -0.2 |
+| Weekly Alcohol Intake (1) | Minimal alcohol, negligible risk | +0.1 |
+| Smoking (No) | No smoking, protective | -0.3 |
+| Hours of Sleep (7.7) | Adequate sleep, protective | -0.2 |
+| Water Intake (44.1 oz) | Below recommended ~64 oz, mild negative effect | +0.2 |
+| Likes Vegetables (No) | Poor dietary habit, increases metabolic risk | +0.2 |
+| Employment (Retired) | Reduced structured activity, mild risk increase | +0.2 |
+| Drinks Coffee (Yes) | Mild cardiovascular stimulant, marginal effect | +0.1 |
+| Exercise/Sport (Soccer) | Active sport participation, protective | -0.3 |
+| Been Sad or Fatigued (No) | Absence of acute mood symptoms, protective | -0.2 |
+| Loss of Interest (No) | Absence of anhedonia, protective | -0.1 |
+| Travels (Yes) | Engagement and mobility, protective | -0.1 |
+| Bilingual (Yes) | Associated with cognitive resilience, mild protective | -0.1 |
+| Votes Always | Civic engagement, associated with better health outcomes | -0.1 |
+| Has Driver's License (Yes) | Mobility and independence, protective | -0.1 |
+| Donated Blood (Yes) | Indicates baseline health eligibility, protective | -0.1 |
+| Uses Public Transportation (Never) | Neutral/marginal | 0.0 |
+| Picks Up Litter (Never) | Negligible health relevance | 0.0 |
+| Recycling Habits (Always) | Negligible direct health relevance | 0.0 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+| Gender (Non-binary) | Potential healthcare access barriers, marginal | +0.1 |
+| Race (Hispanic) | Documented healthcare access disparities, marginal | +0.1 |
+| Handedness, Favourite Color, Hair Color, Meal, Birthday Month | No established causal health relevance | 0.0 |
+| Best High School Subject (English) | No direct health relevance | 0.0 |
+| Likes Kids (Yes) | Social connectedness, mild protective | -0.1 |
+
+**Sum: 4.8**
+
+---
+
+**Justification:** The score is primarily driven by clinically causal factors — age of 63, obesity-range BMI, a family history of heart disease, an active bipolar diagnosis, and mild depressive symptoms — which collectively represent meaningful physiological and psychiatric hospitalization risk. Protective factors including non-smoking status, adequate sleep, active sport participation, and middle socioeconomic status partially offset these risks, while lifestyle and demographic variables with no established causal pathway to hospitalization are assigned zero contribution.

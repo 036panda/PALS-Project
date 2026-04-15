@@ -1,0 +1,15 @@
+1. Risk Score: 6.2
+2. Input Factors and Contributions:
+   - Age: -1.5 (younger age generally associated with lower health risks)
+   - BMI: 2.5 (high BMI is a risk factor for various health issues)
+   - Current_Diagnosis: Anxiety: 1.2 (anxiety can contribute to hospitalization risk)
+   - Smoking: 1.8 (smoking is a significant risk factor for numerous health issues)
+   - Been_Sad_or_Fatigued: 0.5 (can indicate underlying mental health issues)
+   - Loss_of_Interest: 0.5 (can indicate depression or other mental health issues)
+   - HAM-D: 0–6: Normal / No Depression: -0.5 (low score indicates lower risk of depression-related hospitalization)
+   - Hours_of_Sleep: 9.1: -0.2 (adequate sleep generally reduces health risks)
+   - Employment: Student: -0.5 (students may have access to health services and are generally younger)
+   - Socioeconomic_Status: Middle: 0 (middle socioeconomic status does not significantly increase or decrease risk in this context)
+   - Weekly_Alcohol_Intake: 0: -0.5 (no alcohol intake reduces risk of alcohol-related health issues)
+   - All other factors: 0 (due to lack of direct causal relationship to hospitalization risk or insufficient information to determine a relationship)
+3. The risk score calculation is based on the logical and causal relationships between the provided factors and the likelihood of hospitalization, with particular emphasis on health-related factors such as BMI, smoking status, and mental health indicators. The score reflects a balance between the individual's health risks, such as high BMI and smoking, and protective factors, like low alcohol intake and adequate sleep.

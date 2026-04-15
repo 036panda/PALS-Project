@@ -1,0 +1,57 @@
+## Hospitalization Risk Score
+
+**Risk Score: 4.7**
+
+---
+
+### Factor Contributions (Sum = 4.7)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age | 37 | +0.2 |
+| BMI | 20.3 | -0.1 |
+| Family Health History | Heart Disease | +0.3 |
+| Current Diagnosis | Schizophrenia | +1.5 |
+| Race | Asian | 0.0 |
+| Gender | Female | 0.0 |
+| Sexual Orientation | Homosexual | +0.1 |
+| Weekly Alcohol Intake | 3 drinks | +0.2 |
+| Smoking | Yes | +0.5 |
+| HAM-D | Severe Depression (25+) | +1.2 |
+| Been Sad or Fatigued | No | -0.2 |
+| Loss of Interest | Yes | +0.3 |
+| Hours of Sleep | 6.3 hrs | +0.2 |
+| Employment | Employed | -0.3 |
+| Socioeconomic Status | Middle | -0.2 |
+| Drinks Coffee | No | 0.0 |
+| Likes Vegetables | Yes | -0.1 |
+| Favourite Sport | Basketball | -0.1 |
+| Votes | Never | +0.1 |
+| Height in Inches | 71 | 0.0 |
+| Has Driver's License | Yes | -0.1 |
+| Picks Up Litter | Sometimes | 0.0 |
+| Uses Public Transportation | Never | 0.0 |
+| Donated Blood | Yes | -0.1 |
+| Birthday Month | June | 0.0 |
+| Water Intake | 45.1 oz (below ~64 oz recommended) | +0.2 |
+| Bilingual | Yes | -0.1 |
+| Handedness | Right | 0.0 |
+| Likes Kids | No | 0.0 |
+| Favourite Meal | Dinner | 0.0 |
+| Favourite Color | Green | 0.0 |
+| Recycling Habits | Sometimes | 0.0 |
+| Hair Color | Red | 0.0 |
+| Best High School Subject | Math | 0.0 |
+| Travels | Yes | -0.1 |
+| Relationship Status | Dating | -0.1 |
+| Favourite Music Genre | Pop | 0.0 |
+| Can Ride Bicycle | Yes | 0.0 |
+| Religious | No | +0.1 |
+| Phone | Android | 0.0 |
+| **Total** | | **4.7** |
+
+---
+
+### Justification
+
+The score is primarily driven by clinically causal factors: a current diagnosis of schizophrenia (+1.5) and severe depression as measured by HAM-D 25+ (+1.2) represent the dominant hospitalization risk drivers, compounded by active smoking (+0.5), loss of interest as a depressive symptom (+0.3), a family history of heart disease (+0.3), and mild alcohol use (+0.2), while protective factors such as stable employment (−0.3), middle socioeconomic status (−0.2), and healthy lifestyle indicators partially offset the risk. Non-clinical lifestyle and preference variables (e.g., favorite color, handedness, phone type) are assigned zero contribution as they have no established causal relationship with hospitalization risk.

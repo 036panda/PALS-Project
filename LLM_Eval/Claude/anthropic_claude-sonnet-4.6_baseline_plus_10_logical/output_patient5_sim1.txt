@@ -1,0 +1,40 @@
+## Risk Score: 3.6
+
+---
+
+### Factor Contributions (Sum = 3.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (61) | Older age increases hospitalization risk | +2.0 |
+| BMI (25.8) | Normal/slightly elevated, minimal risk | +0.2 |
+| Family Health History (Asthma) | Hereditary respiratory risk factor | +0.4 |
+| Current Diagnosis (nan/none) | No active diagnosis | 0.0 |
+| Race (Black) | Systemic healthcare access disparities increase risk | +0.3 |
+| Gender (Female) | Slightly lower cardiovascular risk at this age | -0.1 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+| Weekly Alcohol Intake (1) | Very low intake, negligible risk | +0.1 |
+| Smoking (No) | No smoking, protective | -0.3 |
+| HAM-D: Mild Depression (7–17) | Mild depression linked to poorer health outcomes | +0.5 |
+| Been Sad or Fatigued (No) | Contradicts mild depression severity somewhat | -0.1 |
+| Loss of Interest (No) | Further mitigates depression impact | -0.1 |
+| Hours of Sleep (5.4) | Below recommended threshold, increases risk | +0.5 |
+| Employment (Employed) | Stable employment is protective | -0.3 |
+| Socioeconomic Status (High) | High SES strongly protective via access to care | -0.5 |
+| Drinks Coffee (No) | Neutral/no effect applied | 0.0 |
+| Likes Vegetables (Yes) | Healthy diet, protective | -0.2 |
+| Favourite Sport (Hockey) | Active lifestyle, protective | -0.2 |
+| Votes (Sometimes) | Moderate civic engagement, slight protective signal | -0.1 |
+| Has Driver's License (Yes) | Mobility/access to care, protective | -0.1 |
+| Uses Public Transportation (Sometimes) | Moderate access, neutral | 0.0 |
+| Picks Up Litter (Sometimes) | Proxy for community engagement, slight protective | -0.1 |
+| Donated Blood (No) | No direct causal link to hospitalization risk | 0.0 |
+| Birthday Month (November) | No causally established risk | 0.0 |
+| Height (62 inches) | Within normal range, no independent risk | 0.0 |
+
+**Total: 3.6**
+
+---
+
+### Justification
+The primary risk drivers are the patient's age (61), mild depression (HAM-D score), insufficient sleep (5.4 hours), and a family history of asthma, which collectively elevate hospitalization likelihood through established causal pathways involving immune function, mental health comorbidity, and respiratory vulnerability. These risks are substantially offset by high socioeconomic status, active employment, no smoking, low alcohol intake, healthy diet, and physical activity, resulting in a moderate-low overall risk score of 3.6.

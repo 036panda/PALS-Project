@@ -1,0 +1,40 @@
+## Risk Score: 3.6
+
+---
+
+### Factor Contributions (Sum = 3.6)
+
+| Factor | Value | Contribution |
+|---|---|---|
+| Age (74) | Elderly, high-risk age bracket | +2.5 |
+| BMI (29.4) | Overweight, near obese threshold | +0.8 |
+| Family Health History (Cancer) | Elevated hereditary disease risk | +0.5 |
+| Current Diagnosis (nan/None) | No active diagnosis | −0.5 |
+| Weekly Alcohol Intake (4 drinks) | Moderate, mild risk | +0.2 |
+| Smoking (No) | No smoking risk | −0.3 |
+| HAM-D (Normal/No Depression) | No depressive disorder | −0.2 |
+| Been Sad or Fatigued (No) | No mood/energy symptoms | −0.1 |
+| Loss of Interest (No) | No anhedonia | −0.1 |
+| Hours of Sleep (7.0) | Healthy sleep duration | −0.2 |
+| Employment (Retired) | Reduced structured activity, mild risk | +0.2 |
+| Socioeconomic Status (Middle) | Adequate healthcare access | −0.2 |
+| Likes Vegetables (Yes) | Positive dietary habit | −0.2 |
+| Drinks Coffee (No) | Neutral/slight positive | 0.0 |
+| Donated Blood (Yes) | Indicator of general health awareness | −0.1 |
+| Gender (Male) | Males statistically higher hospitalization risk | +0.2 |
+| Height (58 inches / 4'10") | Unusually short for male, possible data anomaly | +0.1 |
+| Favourite Sport (Hockey) | Active lifestyle indicator | −0.1 |
+| Uses Public Transportation (Sometimes) | Mild infection/exposure risk | +0.1 |
+| Picks Up Litter (Sometimes) | Civic engagement, minor positive health proxy | −0.1 |
+| Votes (Never) | Lower civic engagement, mild social isolation proxy | +0.1 |
+| Sexual Orientation (Heterosexual) | No differential risk applied | 0.0 |
+| Race (White) | No differential risk applied | 0.0 |
+| Has Driver's License (Yes) | Mobility/independence, mild protective | −0.1 |
+| Birthday Month (January) | Winter birth, negligible seasonal risk | +0.0 |
+
+**Total: 3.6**
+
+---
+
+### Justification
+The score is primarily driven by the patient's advanced age (74) and overweight BMI, which are the strongest direct causal predictors of hospitalization risk, compounded by a family history of cancer and male gender. These risks are meaningfully offset by the absence of any current diagnosis, no smoking, no depression, healthy sleep, adequate diet, and middle socioeconomic status providing reasonable healthcare access.
